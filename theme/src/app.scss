@@ -1,0 +1,142 @@
+/* Load Foundation */
+@import 'foundation';
+@import 'settings';
+
+/* Include Foundation Components */
+@include foundation-global-styles;
+@include foundation-xy-grid-classes;
+@include foundation-typography;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-breadcrumbs;
+@include foundation-button;
+@include foundation-callout;
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-dropdown-menu;
+@include foundation-label;
+@include foundation-off-canvas;
+@include foundation-pagination;
+@include foundation-reveal;
+@include foundation-table;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+
+/**
+ * Foundation overrides
+ */
+.top-bar {
+  .dropdown.menu {
+    li.active > a {
+      font-weight: bold;
+      border-bottom: 3px solid get-color(primary);
+    }
+    .vertical > li.active > a {
+      font-weight: bold;
+      border-bottom: 0;
+      border-left: 3px solid get-color(primary);
+    }
+  }
+}
+.breadcrumbs {
+  background: $white;
+  margin: 0;
+  padding: 0 0 $global-padding 0;
+}
+dt {
+  font-variant: small-caps;
+}
+dd + dt {
+  margin-top: $global-margin;
+}
+
+/**
+ * Generic styling
+ */
+ul.no-margin, ol.no-margin {
+  margin-left: 0;
+}
+aside {
+  font-size: 80%;
+}
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+/**
+ * Header formatting
+ */
+@include breakpoint(medium) {
+  header#main-nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    box-shadow: 0 0 4px $dark-gray;
+  }
+  article.grid-container {
+    margin-top: 3rem;
+  }
+}
+
+/**
+ * Footer styling
+ */
+footer {
+    font-size: 80%;
+    color: lighten($body-font-color, 20%);
+    border-top: 1px solid $light-gray;
+    margin-top: $global-margin;
+    padding-top: $global-margin;
+
+    h2 {
+        font-size: rem-calc(16);
+    }
+}
+
+/**
+ * Reader formatting
+ */
+ .reveal-overlay {
+     overflow: hidden;
+ }
+.reader {
+    position: fixed;
+    background: $white;
+    z-index: 1006;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100vh;
+    width: 63rem;
+
+    .fulltext {
+        width: 43rem;
+        height: 100vh;
+        overflow: auto;
+    }
+    .notes {
+        width: 20rem;
+        height: 100vh;
+        overflow: auto;
+        background: $light-gray;
+        border-left: $dark-gray;
+    }
+    .page-break {
+        font-size: rem-calc(12);
+
+        &::before {
+            content: '[';
+        }
+        &::after {
+            content: ']';
+        }
+    }
+    a.reference {
+        color: inherit;
+        text-decoration: underline dotted;
+    }
+}
