@@ -5,7 +5,7 @@ Softwareabhängigkeiten
 ++++++++++++++++++++++
 
 * `Node.js <https://nodejs.org>`_
-* `pipenv <https://pipenv.org>`_
+* `pipenv <https://docs.pipenv.org>`_
 
 Installation
 ++++++++++++
