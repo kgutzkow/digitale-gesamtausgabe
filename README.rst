@@ -4,8 +4,8 @@ Gutzkow - Digitale Gesamtausgabe
 Softwareabhängigkeiten
 ++++++++++++++++++++++
 
-* `Node.js <nodejs.org>`_
-* `pipenv <pipenv.org>`_
+* `Node.js <https://nodejs.org>`_
+* `pipenv <https://pipenv.org>`_
 
 Installation
 ++++++++++++
