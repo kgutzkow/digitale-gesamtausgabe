@@ -10,6 +10,7 @@ name = "pypi"
 pelican = "*"
 pelican-page-hierarchy = {git = "https://github.com/scmmmh/pelican-page-hierarchy.git"}
 pelican-page-order = {git = "https://github.com/scmmmh/pelican-page-order.git"}
+lxml = "*"
 
 
 [dev-packages]
