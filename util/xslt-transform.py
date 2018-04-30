@@ -16,9 +16,14 @@ def trim_crossref(context, match):
 @click.argument('input')
 @click.argument('transform')
 @click.argument('output', type=click.File('wb'))
-def convert(input, transform, output):
+@click.option('--input-html', 'loader', flag_value='html')
+@click.option('--input-xml', 'loader', flag_value='html', default=True)
+def convert(input, transform, output, loader):
     """Runs an XSLT script on a HTML file."""
-    doc = html.parse(input)
+    if loader == 'html':
+        doc = html.parse(input)
+    elif loader == 'xml':
+        doc = etree.parse(input)
     transformer = etree.XSLT(etree.parse(transform))
     transformer(doc).write_output(output)
 
