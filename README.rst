@@ -37,3 +37,11 @@ In zwei separaten Terminals die folgenden Befehle ausführen
 
   $ pipenv shell
   $ pelican -o output -d -r content
+
+Data Preprocessing
+++++++++++++++++++
+
+.. sourcecode:: console
+
+  $ python util/iso2utf.py quelle.html quelle.utf8.html
+  
