@@ -21,11 +21,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     <span class="page-break"><xsl:value-of select="@n"/></span>
   </xsl:template>
   <xsl:template match="tei:ref[@type='annotation']">
-    <a>
-      <xsl:attribute name="href">#<xsl:value-of select="@target"/></xsl:attribute>
-      <xsl:attribute name="class">reference</xsl:attribute>
-      <xsl:apply-templates/>
-    </a>
+    <xsl:apply-templates/>
   </xsl:template>
 </xsl:stylesheet>'''
 
