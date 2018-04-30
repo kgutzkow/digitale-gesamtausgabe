@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
-  <xsl:output method="xml" indent="yes"/>
+  <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
   <!-- Ignore elements -->
   <xsl:template match="script|a[@name]">
@@ -23,17 +23,9 @@
         </publicationStmt>
       </fileDesc>
       <sourceDesc>
-        <bibl>Die Sterbecassirer. Bambocciade. In: Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834, S. 107-128. (Rasch 2.4.1.3)</bibl>
+        <bibl></bibl>
       </sourceDesc>
       <revisionDesc>
-        <change when="1999-05" who="#GertVonhoff">Erstfassung</change>
-        <change when="1999-08" who="#GertVonhoff">Fassung 1.2 in Berlin</change>
-        <change when="2000-02" who="#GertVonhoff">Fassung 1.3 in Wittenberg</change>
-        <change when="2000-06" who="#GertVonhoff">Fassung 1.5 in Birmingham: erste Testnetzfassung</change>
-        <change when="2000-12" who="#GertVonhoff">Fassung 1.6 in Birmingham/Münster: EKG geprüft</change>
-        <change when="2001-08" who="#GertVonhoff">Fassung 1.7 in Münster/Exeter: Seitenzählung umgestellt auf Novellenband</change>
-        <change when="2002-10-15" who="#GertVonhoff">Fassung 1.7a: Kopf- und Fussbereich für neues Websitelayout angepasst</change>
-        <change when="2018-04-25" who="#MarkHall">Fassung 1.8: Auf TEI umgestellt</change>
       </revisionDesc>
     </teiHeader>
   </xsl:template>
@@ -42,13 +34,9 @@
     <titleStmt>
       <title><xsl:value-of select="."/></title>
       <author>Karl Gutzkow</author>
-      <respStmt xml:id="GertVonhoff">
-        <resp>Digital edition</resp>
-        <name>Gert Vonhoff</name>
-      </respStmt>
-      <respStmt xml:id="MarkMichaelHall">
-        <resp>TEI transform</resp>
-        <name>Mark M Hall</name>
+      <respStmt xml:id="PLACEHOLDER">
+        <resp></resp>
+        <name></name>
       </respStmt>
     </titleStmt>
   </xsl:template>

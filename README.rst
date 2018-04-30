@@ -43,5 +43,4 @@ Data Preprocessing
 
 .. sourcecode:: console
 
-  $ python util/iso2utf.py quelle.html quelle.utf8.html
-  
+  $ python util/xslt-transform.py quelle transform.xslt ziel
