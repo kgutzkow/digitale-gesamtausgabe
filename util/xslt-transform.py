@@ -12,6 +12,14 @@ def trim_pagenumber(context, match):
 def trim_crossref(context, match):
     return [str(href)[str(href).index('#') + 1:] for href in match]
 
+sequence_numbers = {}
+@ns
+def sequence_nr(context, key):
+    if key not in sequence_numbers:
+        sequence_numbers[key] = 0
+    sequence_numbers[key] = sequence_numbers[key] + 1
+    return sequence_numbers[key]
+
 @click.command()
 @click.argument('input')
 @click.argument('transform')

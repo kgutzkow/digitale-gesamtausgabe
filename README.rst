@@ -41,6 +41,16 @@ In zwei separaten Terminals die folgenden Befehle ausführen
 Data Preprocessing
 ++++++++++++++++++
 
+Quell HTML Text in TEI Umwandeln:
+
 .. sourcecode:: console
 
-  $ python util/xslt-transform.py quelle transform.xslt ziel
+  $ python util/xslt-transform.py quelle util/extract-main-text-as-tei.xslt ziel --input-html
+
+Die folgenden manuellen Schritte müssen nach der Transformation ausgeführt werden:
+
+  * Leere Absätze entfernen
+  * Absätze des Attributionsbereichs entfernen
+  * TEI Header ausfüllen
+  * ``about`` Attribute aktualisieren, "urn:aX" durch "urn:hierarchie:aX" ersetzen
+  * Dem ``body`` das ``about`` Attribut mit voller Hierarchie-URN ausfüllen

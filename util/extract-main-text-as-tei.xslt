@@ -45,7 +45,7 @@
   <!-- Construct the main body text -->
   <xsl:template match="body">
     <text>
-      <body>
+      <body typeof="Story" about="">
         <xsl:apply-templates/>
       </body>
     </text>
@@ -53,15 +53,29 @@
 
   <!-- Construct the main text elements -->
   <xsl:template match="h2">
-    <head type="main"><xsl:apply-templates/></head>
+    <head>
+      <xsl:attribute name="type">main</xsl:attribute>
+      <xsl:attribute name="typeof">AnonymousTextBlock</xsl:attribute>
+      <xsl:attribute name="about">urn:a<xsl:value-of select="guz:sequence_nr('a')"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </head>
   </xsl:template>
 
   <xsl:template match="h3">
-    <head type="sub"><xsl:apply-templates/></head>
+    <head>
+      <xsl:attribute name="type">sub</xsl:attribute>
+      <xsl:attribute name="typeof">AnonymousTextBlock</xsl:attribute>
+      <xsl:attribute name="about">urn:a<xsl:value-of select="guz:sequence_nr('a')"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </head>
   </xsl:template>
 
   <xsl:template match="p">
-    <p><xsl:apply-templates/></p>
+    <p>
+      <xsl:attribute name="typeof">AnonymousTextBlock</xsl:attribute>
+      <xsl:attribute name="about">urn:a<xsl:value-of select="guz:sequence_nr('a')"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </p>
   </xsl:template>
 
   <!-- Construct page numbers -->
