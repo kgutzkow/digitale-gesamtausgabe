@@ -27,59 +27,98 @@
  * Foundation overrides
  */
 .top-bar {
-  .dropdown.menu {
-    li.active > a {
-      font-weight: bold;
-      border-bottom: 3px solid get-color(primary);
-    }
-    .vertical > li.active > a {
-      font-weight: bold;
-      border-bottom: 0;
-      border-left: 3px solid get-color(primary);
-    }
-  }
+   .dropdown.menu {
+       li.active > a {
+           font-weight: normal;
+           border-bottom: 3px solid get-color(primary);
+       }
+       .vertical > li.active > a {
+           font-weight: normal;
+           border-bottom: 0;
+           border-left: 3px solid get-color(primary);
+       }
+   }
 }
 .breadcrumbs {
-  background: $white;
-  margin: 0;
-  padding: 0 0 $global-padding 0;
+    background: $white;
+    margin: 0;
+    padding: 0 0 $global-padding 0;
 }
 dt {
-  font-variant: small-caps;
+    font-variant: small-caps;
 }
 dd + dt {
-  margin-top: $global-margin;
+    margin-top: $global-margin;
+}
+.menu.simple > li.menu-text {
+    padding: 0;
 }
 
 /**
  * Generic styling
  */
 ul.no-margin, ol.no-margin {
-  margin-left: 0;
+    margin-left: 0;
 }
 aside {
-  font-size: 80%;
+    font-size: 80%;
 }
 .ellipsis {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 /**
  * Header formatting
  */
 @include breakpoint(medium) {
-  header#main-nav {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    box-shadow: 0 0 4px $dark-gray;
-  }
-  article.grid-container {
-    margin-top: 3rem;
-  }
+    header#main-nav {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        box-shadow: 0 0 4px $dark-gray;
+    }
+    article.grid-container {
+        margin-top: 3rem;
+    }
+}
+
+/**
+ * Metadata styling
+ */
+.metadata {
+    font-size: 80%;
+    position:relative;
+    top: -0.5rem;
+    color: lighten($black, 20%);
+}
+.classification {
+    font-size: 80%;
+    color: lighten($black, 20%);
+}
+
+/**
+ * Article grid styling
+ */
+.article-preview {
+    margin-bottom: 2 * $global-margin;
+    position: relative;
+
+    &.narrow {
+        .cell {
+            width: 100%;
+        }
+    }
+
+    nav {
+        margin-bottom: 0.5rem;
+
+        @breakpoint(medium) {
+            margin-bottom: 0;
+        }
+    }
 }
 
 /**

@@ -3,15 +3,17 @@
 {% block breadcrumb_title %}{{ article.title }}{% endblock %}
 {% block content %}
   <section>
-    <h1>{{ article.title }}</h1>
-    <div class="grid-x">
+    <div class="grid-x grid-padding-x">
+      <h1 class="cell">{{ article.title }}</h1>
+    </div>
+    <div class="grid-x grid-padding-x">
       <div class="cell small-12 medium-8">
         <div class="metadata">
-          Posted on {{ article.locale_date }}
+          Am {{ article.locale_date }} geschrieben
           {% if article.modified %}
-            and updated on {{ article.locale_modified }}
+            und am {{ article.locale_modified }} aktualisiert
           {% endif %}
-          by
+          von
           {% for author in article.authors %}
             <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
           {% endfor %}
@@ -22,11 +24,11 @@
       </div>
       <aside class="cell small-12 medium-4">
         <ul class="menu vertical no-margin">
-          <li class="menu-text">Category</li>
+          <li class="menu-text">Kategorie</li>
           <li><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></li>
         </ul>
         <ul class="menu vertical no-margin">
-          <li class="menu-text">Tags</li>
+          <li class="menu-text">Schlüsselwörter</li>
           {% for tag in article.tags %}
             <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a></li>
           {% endfor %}

@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('eHumanities@Martin-Luther-Universität Halle-Wittenberg', 'https://blogs.urz.uni-halle.de/ehumanities/'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 6
 
 PLUGIN_PATHS = ['./']
 PLUGINS = ['tei_reader',

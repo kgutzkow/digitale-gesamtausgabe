@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="grid-x grid-padding-x">
+    <h1 class="cell">{% block content_title %}{{ SITENAME }}{% endblock %}</h1>
+  </div>
+  {% if articles %}
+    <ol class="no-bullet no-margin grid-x grid-padding-x">
+      {% for article in articles_page.object_list %}
+        <li class="cell small-12 medium-6 article-preview">
+          {% include('article_brief_inc.html') %}
+        </li>
+      {% endfor %}
+    </ol>
+    <nav aria-label="Pagination">
+      <ul class="pagination text-center">
+        {% if articles_previous_page %}
+          <li class="pagination-previous"><a href="{{ SITEURL }}/{{ articles_previous_page.url }}" aria-label="Vorherige Seite"></a></li>
+        {% else %}
+          <li class="pagination-previous disabled"></li>
+        {% endif %}
+        {% for pagenr in articles_paginator.page_range %}
+          {% if articles_page.number == pagenr %}
+            <li class="current"><span class="show-for-sr">Sie sind auf Seite </span>{{ pagenr }}</li>
+          {% else %}
+            <li><a href="{{ SITEURL }}/{{ articles_paginator.page(pagenr).url }}" aria-label="Page {{ pagenr }}">{{ pagenr }}</a></li>
+          {% endif %}
+        {% endfor %}
+        {% if articles_next_page %}
+          <li class="pagination-next"><a href="{{ SITEURL }}/{{ articles_next_page.url }}" aria-label="Nächste Seite"></a></li>
+        {% else %}
+          <li class="pagination-next disabled"></li>
+        {% endif %}
+      </ul>
+    </nav>
+  {% endif %}
+{% endblock %}
