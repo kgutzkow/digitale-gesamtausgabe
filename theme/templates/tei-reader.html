@@ -1,4 +1,8 @@
 {% extends "base.html" %}
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/digital-edition-reader.css"/>
+{% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
 {% block content %}
@@ -8,9 +12,7 @@
   <div class="grid-x grid-padding-x">
     <section class="cell small-12 medium-8">
       {{ page.summary }}
-      <div class="text-right">
-        <button class="button read">Jetzt lesen</button>
-      </div>
+      <div id="reader-attachment-point"></div>
     </section>
     <aside class="cell small-12 medium-4">
       <dl>
@@ -51,26 +53,11 @@
       </dl>
     </aside>
   </div>
-  <div class="reveal-overlay">
-    <div class="reader">
-      <div class="grid-x grid-padding-x cell-block-container">
-        <section class="cell fulltext">{{ page.content }}</section>
-        <aside class="cell notes"></aside>
-      </div>
-    </div>
-  </div>
+  <div id="reader-raw-html">{{ page.content }}</div>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/digital-edition-reader.js"></script>
   <script>
-  $('button.read').on('click', function(ev) {
-      ev.preventDefault();
-      $('.reveal-overlay').show();
+  DigitalEditionReader.install(document.getElementById('reader-attachment-point'), {
+      text: document.getElementById('reader-raw-html').innerHTML
   });
-  $('.reveal-overlay').on('click', function(ev) {
-      ev.preventDefault();
-      $('.reveal-overlay').hide();
-  });
-  $('.reveal-overlay .reader').on('click', function(ev) {
-      ev.preventDefault();
-      ev.stopPropagation();
-  })
   </script>
 {% endblock %}

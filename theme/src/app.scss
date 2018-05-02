@@ -139,43 +139,9 @@ footer {
 /**
  * Reader formatting
  */
- .reveal-overlay {
-     overflow: hidden;
- }
-.reader {
-    position: fixed;
-    background: $white;
-    z-index: 1006;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    height: 100vh;
-    width: 63rem;
-
-    .fulltext {
-        width: 43rem;
-        height: 100vh;
-        overflow: auto;
-    }
-    .notes {
-        width: 20rem;
-        height: 100vh;
-        overflow: auto;
-        background: $light-gray;
-        border-left: $dark-gray;
-    }
-    .page-break {
-        font-size: rem-calc(12);
-
-        &::before {
-            content: '[';
-        }
-        &::after {
-            content: ']';
-        }
-    }
-    a.reference {
-        color: inherit;
-        text-decoration: underline dotted;
-    }
+#reader-raw-html {
+    display: none;
+}
+.popup-reader-open {
+    @include button();
 }

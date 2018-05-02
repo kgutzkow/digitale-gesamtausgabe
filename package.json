@@ -5,10 +5,11 @@
   "author": "Mark Hall",
   "license": "CC-BY-SA",
   "dependencies": {
-    "digital-edition-reader": "git+ssh://git@bitbucket.org/gutzkow/digital-edition-reader.git",
+    "digital-edition-reader": "^1.0.0",
     "foundation-sites": "^6.4.4-rc1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.1",
     "pump": "^3.0.0"
   }
