@@ -20,6 +20,7 @@
 @include foundation-reveal;
 @include foundation-table;
 @include foundation-title-bar;
+@include foundation-tabs;
 @include foundation-tooltip;
 @include foundation-top-bar;
 
@@ -53,6 +54,27 @@ dd + dt {
 .menu.simple > li.menu-text {
     padding: 0;
 }
+.tabs > .tabs-title {
+    border-bottom: 2px solid $light-gray;
+
+    &.is-active {
+        border-bottom: 2px solid get-color(primary);
+    }
+    a {
+        padding-bottom: $global-margin / 2;
+    }
+}
+.tabs-content {
+    .menu-text {
+        display: block;
+        font-weight: normal;
+        padding: $menu-items-padding;
+    }
+}
+.tabs-content > div > ul {
+    margin-left: -$global-padding;
+}
+
 
 /**
  * Generic styling

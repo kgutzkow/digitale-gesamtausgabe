@@ -47,7 +47,9 @@ class NewReader(BaseReader):
         overview = etree.XSLT(etree.XML(OVERVIEW_STYLESHEET))
         reader = etree.XSLT(etree.XML(READER_STYLESHEET))
         metadata = {'title': str(doc.xpath('//tei:title/text()', namespaces=ns)[0]),
-                    'bibl': str(doc.xpath('//tei:bibl/text()', namespaces=ns)[0]),
+                    'bibl': str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0]),
+                    'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
+                    'taxonomy': [t[1:] for t in str(doc.xpath('//tei:catRef/@target', namespaces=ns)[0]).split(' ')],
                     'authors': [str(author) for author in doc.xpath('//tei:author/text()', namespaces=ns)],
                     'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
                                  'name': str(editor.xpath('./tei:name/text()', namespaces=ns)[0])}

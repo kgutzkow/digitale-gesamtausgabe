@@ -36,3 +36,13 @@ GENERATION_DATE = datetime.now()
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+TAXONOMY = (
+    ('I. Erzählerische Werke', 'erzaehlerische-werke', (
+        ('1. Briefe eines Narrens an eine Närrin', 'briefe-eines-narrens-an-eine-naerrin', ()),
+        ('3. Novellen', 'novellen', (
+            ('Erster Band', 'erster-band', ()),
+        )),
+        ('4. Wally die Zweiflerin', 'wally-die-zweiflerin', ())
+    )),
+)

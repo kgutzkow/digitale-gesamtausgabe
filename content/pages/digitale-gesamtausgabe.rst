@@ -2,9 +2,7 @@ Digitale Gesamtausgabe
 ======================
 
 :slug: digitale-gesamtausgabe
+:order: 2
 
-`I. Erzählerische Werke <{filename}digitale-gesamtausgabe/erzaehlerische-werke.rst>`_
+`Werke <{filename}digitale-gesamtausgabe/werke.rst>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-`II. Dramatische Werke <{filename}digitale-gesamtausgabe/dramatische-werke.rst>`_
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

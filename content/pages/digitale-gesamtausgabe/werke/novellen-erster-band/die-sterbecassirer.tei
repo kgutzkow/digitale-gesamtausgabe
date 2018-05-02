@@ -18,9 +18,24 @@
 				<distributor>Editionsprojekt Karl Gutzkow</distributor>
 			</publicationStmt>
 		</fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="gutzkow-taxonomy">
+          <bibl>Gutzkow Gesamtausgabe</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
 		<sourceDesc>
 			<bibl>Die Sterbecassirer. Bambocciade. In: Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834, S. 107-128. (Rasch 2.4.1.3)</bibl>
 		</sourceDesc>
+    <profileDesc>
+      <creation>
+        <date when="1831-01-01">1831</date>
+      </creation>
+      <textClass>
+        <catRef target="#erzaehlerische-werke #novellen #band-eins #die-sterbecassirer"/>
+      </textClass>
+    </profileDesc>
 		<revisionDesc>
 			<change when="1999-05" who="#GertVonhoff">Erstfassung</change>
 			<change when="1999-08" who="#GertVonhoff">Fassung 1.2 in Berlin</change>
