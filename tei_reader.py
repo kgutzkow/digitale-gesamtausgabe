@@ -8,6 +8,9 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
+  <xsl:template match="tei:body">
+    <xsl:apply-templates select="tei:div[@typeof='Story']"/>
+  </xsl:template>
   <xsl:template match="tei:head[@type='main']">
     <h1><xsl:apply-templates/></h1>
   </xsl:template>
@@ -30,7 +33,20 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
   <xsl:template match="tei:body">
-    <xsl:apply-templates select="./tei:p[position() &lt;= 3]"/>
+    <xsl:apply-templates select="./tei:div[@typeof='Story']/tei:p[position() &lt;= 3]"/>
+  </xsl:template>
+  <xsl:template match="tei:p">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+</xsl:stylesheet>
+'''
+
+COMMENTS_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
+  <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
+  <xsl:template match="tei:teiHeader"></xsl:template>
+  <xsl:template match="tei:body">
+    <xsl:apply-templates select="./tei:div[@typeof='Apparatus']/tei:div[@type='comment']"/>
   </xsl:template>
   <xsl:template match="tei:p">
     <p><xsl:apply-templates/></p>
@@ -46,6 +62,7 @@ class NewReader(BaseReader):
         doc = etree.parse(filename)
         overview = etree.XSLT(etree.XML(OVERVIEW_STYLESHEET))
         reader = etree.XSLT(etree.XML(READER_STYLESHEET))
+        comments = etree.XSLT(etree.XML(COMMENTS_STYLESHEET))
         metadata = {'title': str(doc.xpath('//tei:title/text()', namespaces=ns)[0]),
                     'bibl': str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0]),
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
@@ -60,6 +77,7 @@ class NewReader(BaseReader):
                                                      namespaces=ns)}
                                   for change in doc.xpath('//tei:change', namespaces=ns)],
                     'summary': str(overview(doc)),
+                    'comments': str(comments(doc)),
                     'template': 'tei-reader'}
 
         parsed = {}

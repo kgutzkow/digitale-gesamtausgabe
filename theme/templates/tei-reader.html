@@ -11,7 +11,18 @@
   {{ translations.translations_for(page) }}
   <div class="grid-x grid-padding-x">
     <section class="cell small-12 medium-8">
-      {{ page.summary }}
+      <ul class="tabs" data-tabs id="werke-tabs">
+        <li class="tabs-title is-active"><a href="#auszug" aria-selected="true">Auszug</a></li>
+        <li class="tabs-title"><a href="#global">Globalkommentar</a></li>
+      </ul>
+      <div class="tabs-content" data-tabs-content="werke-tabs">
+        <div class="tabs-panel is-active taxonomy-tree" id="auszug">
+          {{ page.summary }}
+        </div>
+        <div class="tabs-panel" id="global">
+          {{ page.comments }}
+        </div>
+      </div>
       <div id="reader-attachment-point"></div>
     </section>
     <aside class="cell small-12 medium-4">
