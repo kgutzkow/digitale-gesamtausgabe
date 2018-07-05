@@ -68,7 +68,8 @@
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/digital-edition-reader.js"></script>
   <script>
   DigitalEditionReader.install(document.getElementById('reader-attachment-point'), {
-      text: document.getElementById('reader-raw-html').innerHTML
+      text: document.getElementById('reader-raw-html').innerHTML,
+      openReaderLabel: 'Weiterlesen'
   });
   </script>
 {% endblock %}

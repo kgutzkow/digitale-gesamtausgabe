@@ -167,3 +167,68 @@ footer {
 .popup-reader-open {
     @include button();
 }
+.popup-reader-text {
+    *:last-child() {
+        padding-bottom: 100vh;
+    }
+    .heading {
+        font-size: 15pt;
+        font-weight: bold;
+        text-align: center;
+        margin: 0;
+    }
+    * + .heading {
+        margin-top: 3rem;
+    }
+    .heading + .heading {
+        margin-top: 0;
+    }
+    .sub-heading {
+        font-size: 13pt;
+        font-weight: bold;
+        text-align: center;
+    }
+    .content-heading {
+        font-size: 13pt;
+    }
+    .heading + .content-heading {
+        margin-top: 1.5rem;
+    }
+    .paragraph {
+        font-size: 11pt;
+        margin-bottom: 0;
+        margin-top: 1rem;
+
+        &.no-indent {
+            margin-top: 0;
+        }
+    }
+    .heading + .paragraph {
+        margin-top: 3rem;
+    }
+    .page-number {
+        font-size: 80%;
+        font-style: italic;
+    }
+    .letter-sparse {
+        letter-spacing: 0.1rem;
+    }
+    .font-weight-bold {
+        font-weight: bold;
+    }
+    .font-style-italic {
+        font-style: italic;
+    }
+    .font-size-large {
+        font-size: 15pt;
+    }
+    .font-size-medium {
+        font-size: 13pt;
+    }
+    .font-family-sans-serif {
+        font-style: italic;
+    }
+    .indent-big {
+        margin-left: 3rem;
+    }
+}
