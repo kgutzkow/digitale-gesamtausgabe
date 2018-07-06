@@ -7,6 +7,7 @@ from lxml import etree
 
 
 def display_element(element, styles):
+    """Test whether the given element should be displayed."""
     if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
         style_name = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
         if style_name in styles:
@@ -18,6 +19,8 @@ def display_element(element, styles):
 
 
 def attach_text(target, text, to_tail):
+    """Attach `text` to the `target`. Checks whether there is already text there and if so, appends to that
+    Can attach `to_tail` or to the main text."""
     if text:
         if to_tail:
             if target.tail:
@@ -32,6 +35,7 @@ def attach_text(target, text, to_tail):
 
 
 def trim_hidden(element):
+    """Trim elements from the DOM that are not visible."""
     idx = 0
     for child in element:
         if child.attrib['display'] == 'no':
@@ -49,6 +53,7 @@ def trim_hidden(element):
 
 
 def trim_empty(element):
+    """Trim elements from the DOM that have no content."""
     for child in element:
         trim_empty(child)
     idx = 0
@@ -77,6 +82,7 @@ UNKNOWN_STYLES = []
 
 
 def merge_styles(element, styles, extract_style_names, style_mappings):
+    """Merge the style definitions into the element's type"""
     for child in element:
         merge_styles(child, styles, extract_style_names, style_mappings)
     if 'style' in element.attrib:
@@ -100,6 +106,7 @@ def merge_styles(element, styles, extract_style_names, style_mappings):
 
 
 def strip_whitespace(element):
+    """Strip unneeded whitespace."""
     if element.text is not None:
         element.text = element.text.strip()
     if element.tag == 'p' and element.tail is not None:
@@ -109,6 +116,7 @@ def strip_whitespace(element):
 
 
 def simplify_tree(element):
+    """Simplify the tree, merging together elements that have no distinction."""
     for child in element:
         simplify_tree(child)
     if len(element) == 1:
@@ -136,6 +144,7 @@ def simplify_tree(element):
 
 
 def relabel_styles(element, relabels):
+    """Re-label styles based on the rules in the configuration."""
     for child in element:
         relabel_styles(child, relabels)
     if 'type' in element.attrib:
@@ -178,6 +187,7 @@ def relabel_styles(element, relabels):
 
 
 def relabel_elements(element):
+    """Relable heading elements."""
     if element.tag == 'p' and 'type' in element.attrib and element.attrib['type'] == 'heading':
         element.tag = 'head'
         element.attrib['type'] = 'main'
@@ -192,6 +202,7 @@ def relabel_elements(element):
 @click.argument('config', type=click.File(mode='rb'))
 @click.argument('output', type=click.File(mode='wb'))
 def extract_text(input, config, output):
+    """Extract the text from `input` using the configuration in `config` and write the resulting TEI body to `output`."""
     config = json.load(config)
     styles = {}
     style = {}
