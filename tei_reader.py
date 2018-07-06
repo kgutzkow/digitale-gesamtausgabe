@@ -5,19 +5,29 @@ from pelican.readers import BaseReader
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
 READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
-  <xsl:template match="tei:head[@type='main']">
-    <h1><xsl:apply-templates/></h1>
+  <xsl:template match="tei:head[@style='main']">
+    <h1>
+      <xsl:attribute name="class">
+        <xsl:value-of select="@style"/>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+    </h1>
   </xsl:template>
-  <xsl:template match="tei:head[@type='sub']">
-    <h2><xsl:apply-templates/></h2>
+  <xsl:template match="tei:head[@style='sub']">
+    <h2>
+      <xsl:attribute name="class">
+        <xsl:value-of select="@style"/>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+     </h2>
   </xsl:template>
   <xsl:template match="tei:p">
     <p>
       <xsl:attribute name="class">
-        <xsl:value-of select="@type"/>
+        <xsl:value-of select="@style"/>
       </xsl:attribute>
       <xsl:apply-templates/>
     </p>
@@ -25,7 +35,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
   <xsl:template match="tei:span">
     <span>
       <xsl:attribute name="class">
-        <xsl:value-of select="@type"/>
+        <xsl:value-of select="@style"/>
       </xsl:attribute>
       <xsl:apply-templates/>
     </span>
@@ -39,7 +49,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 </xsl:stylesheet>'''
 
 OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
   <xsl:template match="tei:body">
@@ -52,7 +62,7 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 '''
 
 COMMENTS_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:guz="http://gutzkow.de" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
   <xsl:template match="tei:body">
