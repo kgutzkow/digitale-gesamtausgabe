@@ -42,6 +42,7 @@ TAXONOMY = (
         ('1. Briefe eines Narrens an eine Närrin', 'briefe-eines-narrens-an-eine-naerrin', ()),
         ('3. Novellen', 'novellen', (
             ('Erster Band', 'erster-band', ()),
+            ('Zweiter Band', 'zweiter-band', ()),
         )),
         ('4. Wally die Zweiflerin', 'wally-die-zweiflerin', ())
     )),
