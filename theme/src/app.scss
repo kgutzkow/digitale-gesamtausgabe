@@ -168,7 +168,7 @@ footer {
     @include button();
 }
 .popup-reader-text {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Open Sans', serif;
 
     *:last-child() {
         padding-bottom: 100vh;
@@ -205,11 +205,10 @@ footer {
             margin-top: 0;
         }
     }
-    h1 + .paragraph {
+    h1 + .paragraph, h2 + .paragraph {
         margin-top: 3rem !important;
     }
     .page-number {
-        font-family: 'Raleway', sans-serif;
         font-size: 80%;
         margin-left: 0.2rem;
         margin-right: 0.2rem;
@@ -236,8 +235,7 @@ footer {
         font-size: 8pt;
     }
     .font-family-sans-serif {
-        font-family: 'Raleway', sans-serif;
-        font-size: 85%;
+        font-weight: 300;
     }
     .indent-big {
         margin-left: 3rem;
