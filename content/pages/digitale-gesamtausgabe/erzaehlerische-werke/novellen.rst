@@ -2,6 +2,7 @@ Novellen
 ========
 
 :slug: novellen
+:taxonomy: erzaehlerische-werke, novellen
 
 `Erster Band <{filename}novellen/erster-band.tei>`_
 ---------------------------------------------------

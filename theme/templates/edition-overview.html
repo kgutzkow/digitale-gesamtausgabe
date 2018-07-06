@@ -6,9 +6,9 @@
       {% else %}
         <li><span class="menu-text">{{ element[0] }}</span>
       {% endif %}
-        {% if element[2] %}
-          {{ taxonomy(element[2], hierarchy + (element[1],)) }}
-        {% endif %}
+      {% if element[2] %}
+        {{ taxonomy(element[2], hierarchy + (element[1],)) }}
+      {% endif %}
       </li>
     {% endfor %}
   </ul>
@@ -24,7 +24,11 @@
   </ul>
   <div class="tabs-content" data-tabs-content="werke-tabs">
     <div class="tabs-panel is-active taxonomy-tree" id="abteilungen">
-      {{ taxonomy(TAXONOMY, nested=False) }}
+      {% if page.taxonomy_subtree %}
+        {{ taxonomy(TAXONOMY[page.taxonomy_subtree|int][2], hierarchy=(TAXONOMY[page.taxonomy_subtree|int][1],), nested=False) }}
+      {% else %}
+        {{ taxonomy(TAXONOMY, nested=False) }}
+      {% endif %}
     </div>
     <div class="tabs-panel" id="chronologisch">
       <ul class="menu vertical">

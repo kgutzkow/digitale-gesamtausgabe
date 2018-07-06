@@ -2,6 +2,6 @@ Erzählerische Werke
 ===================
 
 :slug: erzaehlerische-werke
-
-`Novellen <{filename}erzaehlerische-werke/novellen.rst>`_
----------------------------------------------------------
+:template: edition-overview
+:taxonomy: erzaehlerische-werke
+:taxonomy_subtree: 0
