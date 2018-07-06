@@ -99,6 +99,15 @@ def merge_styles(element, styles, extract_style_names, style_mappings):
         del element.attrib['style']
 
 
+def strip_whitespace(element):
+    if element.text is not None:
+        element.text = element.text.strip()
+    if element.tag == 'p' and element.tail is not None:
+        element.tail = element.tail.strip()
+    for child in element:
+        strip_whitespace(child)
+
+
 def simplify_tree(element):
     for child in element:
         simplify_tree(child)
@@ -168,6 +177,16 @@ def relabel_styles(element, relabels):
                 element.attrib['type'] = element.attrib['type'].replace('font-style-italic', 'page-number')
 
 
+def relabel_elements(element):
+    if element.tag == 'p' and 'type' in element.attrib and element.attrib['type'] == 'heading':
+        element.tag = 'head'
+        element.attrib['type'] = 'main'
+    elif element.tag == 'p' and 'type' in element.attrib and element.attrib['type'] == 'sub-heading':
+        element.tag = 'head'
+        element.attrib['type'] = 'sub'
+    for child in element:
+        relabel_elements(child)
+
 @click.command()
 @click.argument('input', type=click.File(mode='rb'))
 @click.argument('config', type=click.File(mode='rb'))
@@ -232,18 +251,20 @@ def extract_text(input, config, output):
                 in_body = False
                 root = element_stack.pop()
                 trim_hidden(root)
+                strip_whitespace(root)
                 trim_empty(root)
                 merge_styles(root, styles, config['styles']['extract-styles'], config['styles']['style-name-mappings'])
                 simplify_tree(root)
                 relabel_styles(root, config['styles']['style-relabels'])
                 simplify_tree(root)
+                relabel_elements(root)
                 if UNKNOWN_STYLES:
                     print('==============')
                     print('Unknown styles')
                     for style_desc in UNKNOWN_STYLES:
                         print(style_desc)
                     print('==============')
-                output.write(etree.tostring(root))
+                output.write(etree.tostring(root, pretty_print=True))
             elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}p':
                 new_element = element_stack.pop()
                 element_stack[-1].append(new_element)

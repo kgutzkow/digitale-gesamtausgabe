@@ -168,22 +168,24 @@ footer {
     @include button();
 }
 .popup-reader-text {
+    font-family: 'Crimson Text', serif;
+
     *:last-child() {
         padding-bottom: 100vh;
     }
-    .heading {
+    h1 {
         font-size: 15pt;
         font-weight: bold;
         text-align: center;
         margin: 0;
     }
-    * + .heading {
+    * + h1 {
         margin-top: 3rem;
     }
-    .heading + .heading {
+    h1 + h1 {
         margin-top: 0;
     }
-    .sub-heading {
+    h2 {
         font-size: 13pt;
         font-weight: bold;
         text-align: center;
@@ -191,7 +193,7 @@ footer {
     .content-heading {
         font-size: 13pt;
     }
-    .heading + .content-heading {
+    h1 + .content-heading {
         margin-top: 1.5rem;
     }
     .paragraph {
@@ -203,18 +205,20 @@ footer {
             margin-top: 0;
         }
     }
-    .heading + .paragraph {
-        margin-top: 3rem;
+    h1 + .paragraph {
+        margin-top: 3rem !important;
     }
     .page-number {
+        font-family: 'Raleway', sans-serif;
         font-size: 80%;
-        font-style: italic;
+        margin-left: 0.2rem;
+        margin-right: 0.2rem;
     }
     .letter-sparse {
         letter-spacing: 0.1rem;
     }
     .font-weight-bold {
-        font-weight: bold;
+        font-weight: 700;
     }
     .font-style-italic {
         font-style: italic;
@@ -232,7 +236,8 @@ footer {
         font-size: 8pt;
     }
     .font-family-sans-serif {
-        font-style: italic;
+        font-family: 'Raleway', sans-serif;
+        font-size: 85%;
     }
     .indent-big {
         margin-left: 3rem;
