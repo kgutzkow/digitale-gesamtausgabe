@@ -198,6 +198,7 @@ def relabel_elements(element):
     for child in element:
         relabel_elements(child)
 
+
 @click.command()
 @click.argument('input', type=click.File(mode='rb'))
 @click.argument('config', type=click.File(mode='rb'))
@@ -276,7 +277,7 @@ def extract_text(input, config, output):
                     for style_desc in UNKNOWN_STYLES:
                         print(style_desc)
                     print('==============')
-                buf = BytesIO(etree.tostring(root, pretty_print=True,xml_declaration=True, encoding="UTF-8"))
+                buf = BytesIO(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
                 text = buf.getvalue().decode('utf-8')
                 # Fix some white-space issues
                 text = re.sub('([a-z])<tei:span', '\g<1> <tei:span', text)
