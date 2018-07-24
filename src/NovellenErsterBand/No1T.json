@@ -47,7 +47,7 @@
             "[('font-style', 'italic'), ('letter-spacing', '-0.007cm')]": "font-style-italic",
             "[('font-style', 'italic'), ('letter-spacing', '0.011cm')]": "font-style-italic",
             "[('font-style', 'italic'), ('letter-spacing', '0.007cm')]": "font-style-italic",
-            "[('font-name', 'Arial'), ('font-size', '10pt')]": "font-family-sans-serif",
+            "[('font-name', 'Arial'), ('font-size', '10pt')]": "invert-font-family",
             "[('font-style', 'italic'), ('letter-spacing', '-0.011cm')]": "font-style-italic",
             "[('letter-spacing', '0.002cm')]": "",
             "[('font-style', 'italic'), ('letter-spacing', '0.004cm')]": "font-style-italic",
@@ -57,8 +57,8 @@
             "[('font-size', '13pt'), ('letter-spacing', '0.053cm')]": "font-size-medium letter-sparse",
             "[('text-position', 'super 58%')]": "sup",
             "[('font-size', '11pt'), ('text-position', 'super 58%')]": "sup",
-            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '0.004cm')]": "font-family-sans-serif",
-            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '-0.004cm')]": "font-family-sans-serif"
+            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '0.004cm')]": "invert-font-family",
+            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '-0.004cm')]": "invert-font-family"
         },
         "style-relabels": {
             "paragraph text-center font-size-large": "heading",
