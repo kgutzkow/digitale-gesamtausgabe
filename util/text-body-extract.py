@@ -181,20 +181,16 @@ def relabel_styles(element, relabels):
         # Manually specified relabels
         if element.attrib['style'] in relabels:
             element.attrib['style'] = relabels[element.attrib['style']]
-        # Page number relabels
-        if 'font-style-italic' in element.attrib['style'] and len(element) == 0:
-            if re.search('\[[0-9MCVXI]+\]', element.text):
-                element.attrib['style'] = element.attrib['style'].replace('font-style-italic', 'page-number')
 
 
 def relabel_elements(element):
     """Relable heading elements."""
-    if element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'heading':
+    if element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'heading-1':
         element.tag = '{http://www.tei-c.org/ns/1.0}head'
-        element.attrib['style'] = 'main'
-    elif element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'sub-heading':
+        element.attrib['style'] = 'level-1'
+    elif element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'heading-2':
         element.tag = '{http://www.tei-c.org/ns/1.0}head'
-        element.attrib['style'] = 'sub'
+        element.attrib['style'] = 'level-2'
     for child in element:
         relabel_elements(child)
 
@@ -220,7 +216,6 @@ def extract_text(input, config, output):
                     style = {'paragraph': {}, 'text': {}}
             elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}paragraph-properties':
                 if style:
-
                     for key, value in element.attrib.items():
                         style['paragraph'][key[key.find('}') + 1:]] = value
             elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}text-properties':
@@ -277,7 +272,7 @@ def extract_text(input, config, output):
                     for style_desc in UNKNOWN_STYLES:
                         print(style_desc)
                     print('==============')
-                buf = BytesIO(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
+                buf = BytesIO(etree.tostring(root, xml_declaration=True, encoding="UTF-8"))
                 text = buf.getvalue().decode('utf-8')
                 # Fix some white-space issues
                 text = re.sub('([a-z])<tei:span', '\g<1> <tei:span', text)

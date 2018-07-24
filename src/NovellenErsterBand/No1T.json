@@ -23,10 +23,10 @@
             "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent",
             "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'center'), ('text-indent', '0.501cm')]": "paragraph text-center",
             "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "paragraph no-indent text-center",
-            "[('font-name', 'Times New Roman'), ('font-size', '15pt'), ('margin-bottom', '0.741cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading",
-            "[('font-name', 'Times New Roman'), ('font-size', '15pt'), ('margin-bottom', '0.106cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading",
-            "[('font-name', 'Times New Roman'), ('font-size', '13pt'), ('margin-bottom', '0.529cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "sub-heading",
-            "[('font-name', 'Times New Roman'), ('font-size', '13pt'), ('margin-bottom', '0.529cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0.106cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "sub-heading",
+            "[('font-name', 'Times New Roman'), ('font-size', '15pt'), ('margin-bottom', '0.741cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading-1",
+            "[('font-name', 'Times New Roman'), ('font-size', '15pt'), ('margin-bottom', '0.106cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading-1",
+            "[('font-name', 'Times New Roman'), ('font-size', '13pt'), ('margin-bottom', '0.529cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading-2",
+            "[('font-name', 'Times New Roman'), ('font-size', '13pt'), ('margin-bottom', '0.529cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0.106cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "heading-2",
             "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0.501cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '-0.501cm')]": "paragraph no-indent font-size-small",
             "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent font-size-small",
             "[('font-size', '15pt')]": "font-size-large",
@@ -47,7 +47,7 @@
             "[('font-style', 'italic'), ('letter-spacing', '-0.007cm')]": "font-style-italic",
             "[('font-style', 'italic'), ('letter-spacing', '0.011cm')]": "font-style-italic",
             "[('font-style', 'italic'), ('letter-spacing', '0.007cm')]": "font-style-italic",
-            "[('font-name', 'Arial'), ('font-size', '10pt')]": "invert-font-family",
+            "[('font-name', 'Arial'), ('font-size', '10pt')]": "font-arial",
             "[('font-style', 'italic'), ('letter-spacing', '-0.011cm')]": "font-style-italic",
             "[('letter-spacing', '0.002cm')]": "",
             "[('font-style', 'italic'), ('letter-spacing', '0.004cm')]": "font-style-italic",
@@ -57,13 +57,15 @@
             "[('font-size', '13pt'), ('letter-spacing', '0.053cm')]": "font-size-medium letter-sparse",
             "[('text-position', 'super 58%')]": "sup",
             "[('font-size', '11pt'), ('text-position', 'super 58%')]": "sup",
-            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '0.004cm')]": "invert-font-family",
-            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '-0.004cm')]": "invert-font-family"
+            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '0.004cm')]": "font-arial",
+            "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '-0.004cm')]": "font-arial"
         },
         "style-relabels": {
-            "paragraph text-center font-size-large": "heading",
-            "paragraph text-center font-size-medium": "sub-heading",
-            "paragraph no-indent font-size-medium": "content-heading"
+            "paragraph text-center font-size-large": "heading-1",
+            "paragraph text-center font-size-medium": "heading-2",
+            "paragraph no-indent font-size-medium": "table-of-contents",
+            "font-arial": "foreign-language",
+            "font-style-italic": "page-number"
         }
     }
 }
