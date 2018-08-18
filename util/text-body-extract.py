@@ -116,18 +116,20 @@ def strip_whitespace(element):
         strip_whitespace(child)
 
 
-def simplify_tree(element):
+def simplify_tree(element, merge_single=True, merge_attributes=None):
     """Simplify the tree, merging together elements that have no distinction."""
     for child in element:
-        simplify_tree(child)
+        simplify_tree(child, merge_single=merge_single, merge_attributes=merge_attributes)
     if len(element) == 1:
-        if not element.text:
+        if merge_single and not element.text:
             element.text = element[0].text
-            if 'style' in element[0].attrib:
-                if 'style' in element.attrib:
-                    element.attrib['style'] = '%s %s' % (element.attrib['style'], element[0].attrib['style'])
-                else:
-                    element.attrib['style'] = element[0].attrib['style']
+            if merge_attributes:
+                for attrib_name in merge_attributes:
+                    if attrib_name in element[0].attrib:
+                        if attrib_name in element.attrib:
+                            element.attrib[attrib_name] = '%s %s' % (element.attrib[attrib_name], element[0].attrib[attrib_name])
+                        else:
+                            element.attrib[attrib_name] = element[0].attrib[attrib_name]
             element.remove(element[0])
     else:
         idx = 0
@@ -144,55 +146,77 @@ def simplify_tree(element):
                 idx = idx + 1
 
 
-def relabel_styles(element, relabels):
-    """Re-label styles based on the rules in the configuration."""
-    for child in element:
-        relabel_styles(child, relabels)
-    if 'style' in element.attrib:
-        # Extract from children
-        if len(element) > 0 and not element.text:
-            shared_styles = None
-            shared_tag = element[0].tag
-            for child in element:
-                if child.tag != shared_tag or child.tail is not None:
-                    shared_styles = []
-                    break
-                if shared_styles is None:
-                    if 'style' in child.attrib:
-                        shared_styles = set(child.attrib['style'].split(' '))
-                    else:
-                        shared_styles = []
-                        break
-                else:
-                    if 'style' in child.attrib:
-                        shared_styles = shared_styles.intersection(set(child.attrib['style'].split(' ')))
-                    else:
-                        shared_styles = []
-                        break
-            if shared_styles:
-                if 'style' in element.attrib:
-                    element.attrib['style'] = '%s %s' % (element.attrib['style'], ' '.join(shared_styles))
-                else:
-                    element.attrib['style'] = ' '.join(shared_styles)
-                for child in element:
-                    child.attrib['style'] = ' '.join([cls for cls in child.attrib['style'].split() if cls not in shared_styles])
-                    if not child.attrib['style']:
-                        del child.attrib['style']
-        # Manually specified relabels
-        if element.attrib['style'] in relabels:
-            element.attrib['style'] = relabels[element.attrib['style']]
-
-
-def relabel_elements(element):
+def modify_elements(element, rules):
     """Relable heading elements."""
-    if element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'heading-1':
-        element.tag = '{http://www.tei-c.org/ns/1.0}head'
-        element.attrib['style'] = 'level-1'
-    elif element.tag == '{http://www.tei-c.org/ns/1.0}p' and 'style' in element.attrib and element.attrib['style'] == 'heading-2':
-        element.tag = '{http://www.tei-c.org/ns/1.0}head'
-        element.attrib['style'] = 'level-2'
+    for rule in rules:
+        matches = None
+        if 'tag' in rule['match'] and element.tag == rule['match']['tag']:
+            matches = True
+        if matches != False and 'attrs' in rule['match']:
+            for match_attr in rule['match']['attrs']:
+                if match_attr['name'] in element.attrib:
+                    if match_attr['value'] == element.attrib[match_attr['name']]:
+                        matches = True
+                    else:
+                        matches = False
+                        break
+                else:
+                    matches = False
+                    break
+        if matches:
+            if 'tag' in rule['action']:
+                element.tag = rule['action']['tag']
+            if 'attrs' in rule['action']:
+                for key, value in rule['action']['attrs'].items():
+                    if value is None and key in element.attrib:
+                        del element.attrib[key]
+                    elif value == 'text()':
+                        element.attrib[key] = element.text
+                    else:
+                        element.attrib[key] = value
+            if 'text' in rule['action']:
+                element.text = rule['action']['text']
+            if 'wrap' in rule['action']:
+                wrapper = etree.Element(rule['action']['wrap']['tag'])
+                if 'attrs' in rule['action']['wrap']:
+                    for key, value in rule['action']['wrap']['attrs'].items():
+                        wrapper.attrib[key] = value
+                wrapper.tail = element.tail
+                element.tail = None
+                element.getparent().replace(element, wrapper)
+                wrapper.append(element)
     for child in element:
-        relabel_elements(child)
+        modify_elements(child, rules)
+
+
+def apply_post_processing(root, styles, steps):
+    """Apply the post-processing steps from the configuration."""
+    for step in steps:
+        if step['action'] == 'trim-hidden':
+            trim_hidden(root)
+        elif step['action'] == 'strip-whitespace':
+            strip_whitespace(root)
+        elif step['action'] == 'trim-empty':
+            trim_empty(root)
+        elif step['action'] == 'merge-styles':
+            merge_styles(root, styles, **step['params'])
+            if UNKNOWN_STYLES:
+                print('==============')
+                print('Unknown styles')
+                for style_desc in UNKNOWN_STYLES:
+                    print(style_desc)
+                print('==============')
+        elif step['action'] == 'simplify-tree':
+            simplify_tree(root, **(step['params'] if 'params' in step else {}))
+        elif step['action'] == 'modify-elements':
+            modify_elements(root, **step['params'])
+
+
+def apply_text_processing(text, steps):
+    for step in steps:
+        if step['action'] == 'regex-replace':
+            text = re.sub(step['params']['regex'], step['params']['replace'], text)
+    return text
 
 
 @click.command()
@@ -258,26 +282,10 @@ def extract_text(input, config, output):
             elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:office:1.0}body':
                 in_body = False
                 root = element_stack.pop()
-                trim_hidden(root)
-                strip_whitespace(root)
-                trim_empty(root)
-                merge_styles(root, styles, config['styles']['extract-styles'], config['styles']['style-name-mappings'])
-                simplify_tree(root)
-                relabel_styles(root, config['styles']['style-relabels'])
-                simplify_tree(root)
-                relabel_elements(root)
-                if UNKNOWN_STYLES:
-                    print('==============')
-                    print('Unknown styles')
-                    for style_desc in UNKNOWN_STYLES:
-                        print(style_desc)
-                    print('==============')
+                apply_post_processing(root, styles, config['workflow'])
                 buf = BytesIO(etree.tostring(root, xml_declaration=True, encoding="UTF-8"))
                 text = buf.getvalue().decode('utf-8')
-                # Fix some white-space issues
-                text = re.sub('([a-z])<tei:span', '\g<1> <tei:span', text)
-                text = re.sub('</tei:span>([a-z])', '</tei:span> \g<1>', text)
-                text = re.sub('(-<tei:span style="page-number">\[[0-9XVI]+\]</tei:span>) ([a-z])', '\g<1>\g<2>', text)
+                text = apply_text_processing(text, config['post-process'])
                 output.write(text.encode('utf-8'))
             elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}p':
                 new_element = element_stack.pop()

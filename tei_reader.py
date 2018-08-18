@@ -1,3 +1,5 @@
+import re
+
 from lxml import etree
 from pelican import signals
 from pelican.readers import BaseReader
@@ -8,7 +10,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
-  <xsl:template match="tei:head[@style='main']">
+  <xsl:template match="tei:head[@type='level-1']">
     <h1>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
@@ -16,7 +18,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:apply-templates/>
     </h1>
   </xsl:template>
-  <xsl:template match="tei:head[@style='sub']">
+  <xsl:template match="tei:head[@type='level-2']">
     <h2>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
@@ -36,6 +38,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     <span>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
+        <xsl:value-of select="@type"/>
       </xsl:attribute>
       <xsl:apply-templates/>
     </span>
@@ -92,6 +95,10 @@ class NewReader(BaseReader):
     enabled = True
     file_extensions = ['tei']
 
+    def strip_ns(self, text):
+        return re.sub(' xmlns:tei="' + ns['tei'].replace('.', '\\.') + '"', '', text)
+
+
     def read(self, filename):
         doc = etree.parse(filename)
         overview = etree.XSLT(etree.XML(OVERVIEW_STYLESHEET))
@@ -113,8 +120,8 @@ class NewReader(BaseReader):
                                    'name': doc.xpath("//tei:respStmt[@xml:id='%s']/tei:name/text()" % change.attrib['who'][1:],
                                                      namespaces=ns)}
                                   for change in doc.xpath('//tei:change', namespaces=ns)],
-                    'summary': str(overview(doc)),
-                    'comments': str(comments(doc)),
+                    'summary': self.strip_ns(str(overview(doc))),
+                    'comments': self.strip_ns(str(comments(doc))),
                     'template': 'tei-reader'}
 
         parsed = {}

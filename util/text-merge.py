@@ -18,7 +18,7 @@ def merge_text(header, body, output):
     text = etree.Element('{http://www.tei-c.org/ns/1.0}text')
     document.append(text)
     text.append(body)
-    output.write(etree.tostring(document, pretty_print=True,xml_declaration=True, encoding="UTF-8"))
+    output.write(etree.tostring(document, xml_declaration=True, encoding="UTF-8"))
 
 if __name__ == '__main__':
     merge_text()
