@@ -168,7 +168,7 @@ footer {
     @include button();
 }
 .popup-reader-text {
-    font-family: 'Open Sans', serif;
+    font-family: 'Open Sans', sans-serif;
 
     *:last-child() {
         padding-bottom: 100vh;
