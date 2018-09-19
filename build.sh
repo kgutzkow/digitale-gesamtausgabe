@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git pull --rebase
 pipenv install
 npm install
 gulp
