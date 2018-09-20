@@ -1,57 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-  <tei:teiHeader>
-    <tei:fileDesc>
+  <tei:teiHeader><tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>Novellen. Erster Band</tei:title>
-        <tei:author>Karl Gutzkow</tei:author>
-        <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digital edition</tei:resp>
-          <tei:name>Gert Vonhoff</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
-      </tei:titleStmt>
-      <tei:publicationStmt>
-        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-      </tei:publicationStmt>
-    </tei:fileDesc>
-    <tei:encodingDesc>
+        <tei:title>Novellen. Erster Band</tei:title><tei:author>Karl Gutzkow</tei:author><tei:respStmt xml:id="GertVonhoff">
+          <tei:resp>Digital edition</tei:resp><tei:name>Gert Vonhoff</tei:name></tei:respStmt><tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp><tei:name>Mark M Hall</tei:name></tei:respStmt></tei:titleStmt><tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor></tei:publicationStmt></tei:fileDesc><tei:encodingDesc>
       <tei:classDecl>
         <tei:taxonomy xml:id="gutzkow-taxonomy">
-          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-        </tei:taxonomy>
-      </tei:classDecl>
-    </tei:encodingDesc>
-    <tei:sourceDesc>
-      <tei:bibl>Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834 (Rasch 2.4.1.3)</tei:bibl>
-    </tei:sourceDesc>
-    <tei:profileDesc>
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl></tei:taxonomy></tei:classDecl></tei:encodingDesc><tei:sourceDesc>
+      <tei:bibl>Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834 (Rasch 2.4.1.3)</tei:bibl></tei:sourceDesc><tei:profileDesc>
       <tei:creation>
-        <tei:date when="1834-07-01">Juli 1834</tei:date>
-      </tei:creation>
-      <tei:textClass>
-        <tei:catRef target="#erzaehlerische-werke #novellen #erster-band"/>
-      </tei:textClass>
-    </tei:profileDesc>
-    <tei:revisionDesc>
-      <tei:change when="1999-05" who="#GertVonhoff">Erstfassung</tei:change>
-      <tei:change when="1999-08" who="#GertVonhoff">Fassung 1.2 in Berlin</tei:change>
-      <tei:change when="2000-02" who="#GertVonhoff">Fassung 1.3 in Wittenberg</tei:change>
-      <tei:change when="2000-06" who="#GertVonhoff">Fassung 1.5 in Birmingham: erste Testnetzfassung</tei:change>
-      <tei:change when="2000-12" who="#GertVonhoff">Fassung 1.6 in Birmingham/Münster: EKG geprüft</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.7 in Münster/Exeter: Seitenzählung umgestellt auf Novellenband</tei:change>
-      <tei:change when="2002-10-15" who="#GertVonhoff">Fassung 1.7a: Kopf- und Fussbereich für neues Websitelayout angepasst</tei:change>
-      <tei:change when="2018-04-25" who="#MarkMichaelHall">Fassung 1.8: Auf TEI umgestellt</tei:change>
-    </tei:revisionDesc>
-  </tei:teiHeader>
+        <tei:date when="1834-07-01">Juli 1834</tei:date></tei:creation><tei:textClass>
+        <tei:catRef target="#erzaehlerische-werke #novellen #erster-band"/></tei:textClass></tei:profileDesc><tei:revisionDesc>
+      <tei:change when="1999-05" who="#GertVonhoff">Erstfassung</tei:change><tei:change when="1999-08" who="#GertVonhoff">Fassung 1.2 in Berlin</tei:change><tei:change when="2000-02" who="#GertVonhoff">Fassung 1.3 in Wittenberg</tei:change><tei:change when="2000-06" who="#GertVonhoff">Fassung 1.5 in Birmingham: erste Testnetzfassung</tei:change><tei:change when="2000-12" who="#GertVonhoff">Fassung 1.6 in Birmingham/Münster: EKG geprüft</tei:change><tei:change when="2001-08" who="#GertVonhoff">Fassung 1.7 in Münster/Exeter: Seitenzählung umgestellt auf Novellenband</tei:change><tei:change when="2002-10-15" who="#GertVonhoff">Fassung 1.7a: Kopf- und Fussbereich für neues Websitelayout angepasst</tei:change><tei:change when="2018-04-25" who="#MarkMichaelHall">Fassung 1.8: Auf TEI umgestellt</tei:change></tei:revisionDesc></tei:teiHeader>
   <tei:text>
-    <tei:body xmlns:tei="http://www.tei-c.org/ns/1.0">
-      <tei:p style="paragraph text-center">
+    <tei:body>
+      <tei:head type="level-1">
         <tei:span style="font-size-large">Novellen von Karl Gutzkow.</tei:span>
-      </tei:p>
+      </tei:head>
       <tei:head type="level-1">
         <tei:span>Erster Band.</tei:span>
       </tei:head>
@@ -152,22 +119,22 @@
         <tei:span>Berlin den 6. Januar 1834.</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span style="font-weight-bold">Karl Gutzkow.</tei:span>
+        <tei:span>Karl Gutzkow.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
-        <tei:span style="font-size-large letter-sparse">Inhal</tei:span>
+      <tei:p style="text-center">
+        <tei:span style="letter-sparse"><tei:span style="font-size-large">Inhal</tei:span></tei:span>
         <tei:span style="font-size-large">t.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:span style="font-size-medium letter-sparse">Der Kaperbrie</tei:span>
+        <tei:span style="letter-sparse"><tei:span style="font-size-medium">Der Kaperbrie</tei:span></tei:span>
         <tei:span style="font-size-medium">f.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:span style="font-size-medium letter-sparse">Die Sterbecassire</tei:span>
+        <tei:span style="letter-sparse"><tei:span style="font-size-medium">Die Sterbecassire</tei:span></tei:span>
         <tei:span style="font-size-medium">r.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:span style="font-size-medium letter-sparse">Geständnisse einer Perrück</tei:span>
+        <tei:span style="letter-sparse"><tei:span style="font-size-medium">Geständnisse einer Perrück</tei:span></tei:span>
         <tei:span style="font-size-medium">e.</tei:span>
       </tei:p>
       <tei:head type="level-1">
@@ -241,9 +208,7 @@
         <tei:pb n="11"/>
         <tei:span>Schicksals. Gegen seine eigenen Kinder ist das Glück oft am treulosesten. Für diesen Fall will Euch ein Freund mit seinem Rathe dienen.“ –</tei:span>
       </tei:p>
-      <tei:p>
-        <tei:span>„Habt Ihr ein Mittel,“ erwiederte der Kaufmann, „den englischen Schiffsjungen in den Mastkörben die Augen zu blenden, daß sie meine Schiffe nicht sehen? Wißt Ihr ein Mittel, die Kugeln, die in diesem Augenblick die Artemise, oder meinen herrlichen Neptun, oder den nur dem Namen nach feuerfesten Salamander treffen können, unschädlich zu machen? O, was seid Ihr für ein Mann, meiner Lage zu spotten!“ –</tei:span>
-      </tei:p>
+      <tei:p/>
       <tei:p>
         <tei:span>„Ihr versteht mich nicht,“ sagte jetzt Malpart sehr bestimmt. „Ich will offen mit meinem Plane hervortreten. Meine Kapitains­tressen sind verrostet, ich habe Nichts zu verlieren, Ihr Alles. Es darf uns also Beiden nur erwünscht sein, so viel zu gewinnen, als wir können. Ihr besitzt Vermögen, kauft einen Marquebrief, rüstet einen Kaper aus, spickt ihn tüchtig mit Kanonen, werdet Corsar und überlaßt mir das Kommando eines solchen Drachen, der Euch goldene Schätze nicht nur hüten, sondern auch erwerben kann.“</tei:span>
       </tei:p>
@@ -356,10 +321,10 @@
         <tei:pb n="27"/>
         <tei:span>halten. Mehrere Jahre, die er auf der Rechtsschule in Paris zubrachte, entfernten ihn von Havre, wohin er als Advocat bei dem dortigen Handelsgericht zurückkehrte. Beim Wiedersehen fand das Entzücken Worte, die bald in die freie Sprache der Liebe übersetzt waren: wie vernichtend mußte der Schlag sein, der die Liebenden jetzt traf! Alfreds Alter, seine Jugendkraft, seine Verhältnisse, waren lauter Merkmale, die man damals bedurfte, um von Napoleons grausamer Conscription requirirt zu werden. Ein Abschied, und Alfred war auf dem Wege zum Rhein, um unter den siegreichen Fahnen seines Kaisers die deutschen Völker zu unterjochen. Welche Kugel konnte nicht längst seinem Leben ein Ende gemacht haben!</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>* *</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>*</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -428,10 +393,10 @@
       <tei:p>
         <tei:span>Helene wußte ihres Vaters Empfindungen durch Schweigen zu ehren, sie begleitete ihn in sein Comtoir und übertrug Mar­then, die leiblichen Wünsche ihres Vaters zu befriedigen. Dieser schrillende Ton des davonsegelnden Schiffes hatte ihr wie höhnisches Gelächter geklungen; sie liebte ihren Vater, und ahnte, daß man ihm einen Streich spielen wollte.</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>* *</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>*</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -450,7 +415,7 @@
       <tei:p>
         <tei:span>Der Lieutenant Catineau nickte holdselig und schlug sich Feuer zu einer Pfeife an, die zu Malparts Bedürfnissen nicht gehörte. Stahl und Schwamm einsteckend und den trockenen Tabak anrauchend, entgegnete der dicke Bretagner: „Das Ding mit dem Meere ist, bei Gott! sehr wunderbar. Da hab’ ich mir bei der alten Susanne in</tei:span>
         <tei:pb n="36"/>
-        <tei:span>dem vermoderten Loche, wo ich gern für das Maaß deshalb einen Sous mehr gab, zu meinem Vergnügen täglich die Zeitungen vorlesen lassen. Rechne ich diesen zufolge all den Thee, den Rum, den Zucker zusammen, den der Kaiser hatte ins Meer schütten lassen, so müßte es längst zu Punsch geworden sein, und zähle ich all die Pulverfässer und die Tausende von englischen Seekälbern, die unsere Zeitungen in den Grund gebohrt haben, so sollte das ein Geruch sein, der sich verspüren ließe. Gevatter, empfindet Ihr etwas?“</tei:span>
+        <tei:span>dem vermoderten Loche, wo ich gern für das Maaß deshalb einen Sous mehr gab, zu meinem Vergnügen täglich die Zeitungen vorlesen lassen. Rechne ich diesen zufolge all den Thee, den Rum, den Zucker zusammen, den der Kaiser hatte ins Meer schütten lassen, so müßte es längst zu Punsch geworden sein, und zähle ich all die Pulverfässer und die Tausende von englischen Seekälbern, die unsere Zeitungen in den Grund gebohrt haben, so sollte das ein Geruch sein, der sich vers</tei:span>
       </tei:p>
       <tei:p>
         <tei:span>Catineau lachte selbst über seinen Witz, so daß es Malpart nicht zu thun brauchte.</tei:span>
@@ -566,7 +531,7 @@
       <tei:p>
         <tei:span>Der Hahn drückte noch eine Stunde lang die Augen zu und überließ sich ungehindert den schaukelnden Wellen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>___________</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -742,7 +707,7 @@
         <tei:span>In Entsetzen und Schmerz wurzelte der treue Jaques fest am Boden: er hatte Alfred beispringen wollen, in dem Augenblicke, als er ihn sinken sah. Die Sinne schwindelten ihm, und er mußte sich an einem Pfosten aufrecht halten. Als seine Besinnung wieder zurückkehrte, hatte sich der Kampf auf eine andere Seite gezogen; er sah den Erschlagenen in seinem Blute liegen, und es durchzuckte ihn der Gedanke, ob eine Hülfe nicht noch möglich sei.</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span>Ohne Zögern sprang er über Bord auf das eroberte Schiff, stürzte auf den noch lebenden, aber stark verwundeten Alfred zu, und trug ihn mit aller Anstrengung, deren sein junger Körper fähig war, auf das Schiff seines Vormunds, unbemerkt von den in der Hitze des Kampfes Begriffenen. Er vermied sorgfältig, eine Blutspur zu zeichnen, und ohne noch zu wissen, was er mit ihr beginnen sollte, trug er seine Beute in das Innere des Schiffes.</tei:span>
+        <tei:span>Ohne Zögern sprang er über Bord auf das eroberte Schiff, stürzte auf den noch lebenden, aber stark verwundeten Alfred zu, und trug ihn mit aller Anstrengung, deren sein junger Körper fähig war, auf das Schiff seines Vormunds, unbemerkt von den in der Hitze des Kampfes Begriffenen. Er vermied sorgfältig, eine Blutspur zu zeichnen, und oh</tei:span>
       </tei:p>
       <tei:p>
         <tei:pb n="61"/>
@@ -1026,7 +991,6 @@
         <tei:span>Alfred hatte den richtigen Schluß gezogen, daß die Abwesenheit Malparts die Wachsamkeit der Posten sehr herabgesetzt haben würde. Der allmählig herabträufelnde Regen begünstigte seine Flucht ebensosehr, als der dichte Nebel, der auf den Felsen lag, und machte, daß er aus der Ferne nicht gesehen werden konnte. Er hatte die ihm am heutigen Morgen so ungünstige Stelle glücklich umgangen, und der gute Erfolg seiner Wanderung beflügelte immer mehr seine Schritte. Er mußte sich ebensoweit vom Meere, als von dem Orte, dem er entronnen war, entfernt haben; denn der Nebel wurde immer schwächer und erlaubte ihm, die Umgebungen zu unterscheiden. Das Gebirge verlor die bizarre Zerrissenheit, die sich in der Perspective so schön ausnimmt, aber von dem Wanderer, der mit ihr zu kämpfen hat, verwünscht wird.</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span>Alfred stand einen Augenblick still, vielleicht nur um Athem zu schöpfen. Warum mußte er ängstlich blicken? Warum mehrere aus der Ferne blinkende Flintenläufe durch einen schnellen Seitensprung</tei:span>
         <tei:pb n="86"/>
         <tei:span>zu vermeiden suchen? Seine Schüchternheit hatte ihn verrathen; denn eine kräftige Faust packte ihn am Kragen und warf ihn mit einigen derben Flüchen zu Boden.</tei:span>
       </tei:p>
@@ -1052,10 +1016,10 @@
       <tei:p>
         <tei:span>Unser junger Freund hatte die traurige Aussicht, sich noch mehrere Tage auf seine Ankunft in Havre vorbereiten zu müssen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>* *</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>*</tei:span>
       </tei:p>
       <tei:p>
@@ -1304,7 +1268,7 @@
         <tei:span>chenharren, an dessen Eingange zwei breitlaubige Linden ihren süßen, würzigen Duft verbreiten.</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span>Wie schneidend sind die Contraste im Leben! Während hier die Hinfälligkeit sich die Hände drückt und zwei Wesen, die sich in manchem Jahre den sauern Lebensschweiß von der Stirn getrocknet haben, in Todesgedanken versunken stehen, rauscht nur hundert Schritte weiter das tolle Gewühl der lebensfrohen Spaziergänger zum Thore hinaus, um sich in den Strudel der Vergnügungen zu stürzen. Ein Wagen sucht dem andern den Vorrang abzugewinnen, Stutzer, auf den besten englischen Rennern, lorgnettiren die Schönen, die in den herrlichen Equipagen vorüberfliegen und vergebens ihre Reize unter dem verführerischen Gazeschleier verbergen. Wird heute im Tivoli ein Eskamoteur das Becherspiel des genialen Bosko produciren? werden die Alpensänger vielleicht die berühmten Variationen auf den Schweizerbuben trällern? wird eine Ventriloquistin aus dem Bauche Komödien aufführen, oder soll gegen Nacht eine Citadelle erstürmt, und mit bengalischem Feuer in die Luft gesprengt werden? Welche Erwartungswonne, welche Lebenslust auf allen Gesichtern! und welch sonderbare Contraste</tei:span>
+        <tei:span>Wie schneidend sind die Contraste im Leben! Während hier die Hinfälligkeit sich die Hände drückt und zwei Wesen, die sich in manchem Jahre den sauern Lebensschweiß von der Stirn getrocknet haben, in Todesgedanken versunken stehen, rauscht nur hundert Schritte weiter das tolle Gewühl der lebensfrohen Spaziergänger zum Thore hinaus, um sich in den Strudel der Vergn</tei:span>
         <tei:pb n="115"/>
         <tei:span>auf einem Raum von hundert oder, wenn man sie länger nimmt, von achtzig Schritten!</tei:span>
       </tei:p>
@@ -1416,7 +1380,7 @@
       <tei:head type="level-2">
         <tei:span>Aus vergilbten Papieren.</tei:span>
       </tei:head>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>I.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1472,7 +1436,7 @@
       <tei:p>
         <tei:span>Die Tante war so gut. Wir weinten Beide ungeschminkte Thränen. In vierzehn Tagen reiste ich ab.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>II.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1535,7 +1499,6 @@
       <tei:p>
         <tei:span>Jene Wände waren mit Malereien überfüllt; es waren Gegenstände aus der heidnischen Götterlehre, bildliche Darstellungen ovidischer Fabeln, die sich in grellen Zügen an ihnen entlang zogen. Während Furcht und Ermüdung mich in einem halbwachen Zustande erhielten, fixirte mein Auge</tei:span>
         <tei:pb n="143"/>
-        <tei:span>die Riesen und Götter, die greisen Könige und Jungfrauen, die Opferstiere und die blanken Messer, die mich rings umgaben. Die Gegenstände schienen mir von der Tapete sich zu lösen, lebendig zu werden und meinem Lager bedenklich näher zu rücken. Bald war ich von tanzenden, neckenden Gestalten umgaukelt, ich fühlte mich von den eiskalten Händen der jammernden Niobe umfangen, Apollo schoß einen seiner fernhintreffenden Todespfeile auf mich ab, nur ein entsetzlicher Schrei konnte mich von meiner Angst erlösen.</tei:span>
       </tei:p>
       <tei:p>
         <tei:span>Diese oft wiederkehrende Scene, deren Zusammenhang ich wohl ahnte, den aufgeschreckten, zusammengelaufenen Hausbewohnern aber nicht so mittheilen wollte, brachte den unschuldigen Flügel des Schlosses in den Verdacht des Spukes, mich selbst aber in Berührung mit vielen Sagen und Geschichten, die sich die Neugier und Geheimnißkrämerei zutrugen.</tei:span>
@@ -1551,7 +1514,7 @@
       <tei:p>
         <tei:span>Mein Herr Vater wollte es so; wenigstens hatte er dem Arzte in diesem Sinne eine Vollmacht gegeben.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>III.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1586,7 +1549,7 @@
         <tei:pb n="148"/>
         <tei:span>die gegenwärtige Jugend so unempfänglich geworden, eine Erfahrung, die ich selbst in meinen nächsten Umgebungen mache. Es giebt Verhältnisse, die zwar an sich nicht anstößig sind, weil sie wahr sind, die es aber werden, wenn man sie in ihrer Nacktheit aufdeckt. Würde aber dieser Verrath an der Sitte je eingetreten sein, wenn man mehr auf die Empfänglichkeit, weniger auf die Routine gearbeitet hätte? Der Verfall des gesellschaftlichen Anstandes beginnt, wenn man auf der einen Seite die Differenz der Stände in den vagen Begriff der Gesellschaft auflöst, eine Operation, die dem Staate eben so gefährlich ist, wie den guten Sitten, auf der andern Seite, wenn aus einem Geschenke der Natur eine Aufgabe der Erziehung gemacht wird.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>IV.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1604,16 +1567,14 @@
         <tei:pb n="150"/>
         <tei:span> Himmel! welch ein Drängen vor diesem Buchhändlergewölbe!</tei:span>
       </tei:p>
+      <tei:p style="no-indent">
+        <tei:span style="sup">)</tei:span>
+        <tei:span> Die Pompadour.</tei:span>
+      </tei:p>
       <tei:p>
         <tei:span>„Es wird der erste Bogen einer neuen Schrift von Voltaire die Presse verlassen haben,“ sagte mein Bruder, „oder ein Roman von Brebeuf ist erschienen, oder die Anfänge der längstversprochenen Encyclopädie sind angekommen, oder ein Pamphlet auf Madame</tei:span>
         <tei:span style="sup">
-          <tei:span>
-            <tei:p style="paragraph no-indent font-size-small">
-              <tei:span style="sup">)</tei:span>
-              <tei:span> Die Pompadour.</tei:span>
-            </tei:p>
-          </tei:span>
-        </tei:span>
+            </tei:span>
         <tei:span>) wird ausgeboten. Ich vermuthe das Letztere,“ fügte er lachend hinzu, „denn dort kommt athemlos die Polizei; sie wird der Freude bald ein Ende machen.“</tei:span>
       </tei:p>
       <tei:p>
@@ -1676,7 +1637,7 @@
         <tei:span>Ich warf mich fiebernd auf mein sicheres Lager. </tei:span>
         <tei:pb n="157"/>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>V.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1731,7 +1692,7 @@
       <tei:p>
         <tei:span>Ich muß gestehen, daß ich mich recht zufrieden fühlte.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>VI.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1754,16 +1715,14 @@
       <tei:p>
         <tei:span>„Sie wissen vielleicht noch nicht, Herr Graf,“ begann Fräulein d’Aubigny, „daß jene fatalen Nebel, die heute der Sonne den Durchgang streitig machen, einen Trauerflor bedeuten, in den sich Paris in seinem Schmerze gehüllt hat?“ –</tei:span>
       </tei:p>
+      <tei:p style="no-indent">
+        <tei:span style="sup">) </tei:span>
+        <tei:span>Eduard Stuart, Prätendent des englischen Thrones, in allen Leihbibliotheken durch Walter Scott bekannt.</tei:span>
+      </tei:p>
       <tei:p>
         <tei:span>„Die Geschichte des gestrigen Abends,“ ergänzte der Vater, „bezeichnet außer Ihrem Unfalle noch ein anderer Act der Unmenschlichkeit. Der liebenswürdige Prinz Eduard </tei:span>
         <tei:span style="sup">
-          <tei:span>
-            <tei:p style="paragraph no-indent font-size-small">
-              <tei:span style="sup">) </tei:span>
-              <tei:span>Eduard Stuart, Prätendent des englischen Thrones, in allen Leihbibliotheken durch Walter Scott bekannt.</tei:span>
-            </tei:p>
-          </tei:span>
-        </tei:span>
+            </tei:span>
         <tei:span>)ist gestern in der Oper überfallen worden und von seinen Feinden nach Vincennes geschleppt.“ –</tei:span>
       </tei:p>
       <tei:p>
@@ -1803,20 +1762,17 @@
       </tei:p>
       <tei:p>
         <tei:pb n="168"/>
-        <tei:span> Eine der gelindesten Invectiven war noch die, welche Fräulein d’Aubigny vorzutragen hatte. Sie hielt sich, wie billig, an das Unglück des Fürsten, an die Theilnahme des Pariser Publikums und schloß mit dem schönen Troste:</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span type="foreign-language">
-          <tei:span>Du tems braveras les fureurs,</tei:span>
-        </tei:span>
+        <tei:span type="foreign-language">Du tems braveras les fureurs,</tei:span>
       </tei:p>
-      <tei:p style="paragraph indent-big">
+      <tei:p>
         <tei:span type="foreign-language">Si tu n’as pas une couronne,</tei:span>
       </tei:p>
-      <tei:p style="paragraph indent-big">
+      <tei:p>
         <tei:span type="foreign-language">L’univers entier te la donne:</tei:span>
       </tei:p>
-      <tei:p style="paragraph indent-big">
+      <tei:p>
         <tei:span type="foreign-language">Ton empire est dans tous les coeurs.</tei:span>
       </tei:p>
       <tei:p>
@@ -1856,7 +1812,7 @@
         <tei:pb n="172"/>
         <tei:span> Der Unglückliche umarmte mich mit einem schmerzvollen Blicke und überließ mich meinem sprachlosen Entsetzen; denn ich war es gewesen, der seine Epistel im Saale des Herrn d’Aubigny vorgelesen und in den Ausdruck des Vortrages so viel Wärme und Ueberzeugung gelegt hatte.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>VII.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1919,7 +1875,7 @@
         <tei:pb n="180"/>
         <tei:span> Er sagte dies so unbefangen, daß ich keinem Verdachte Raum geben konnte. Gegen acht Uhr versprach er, mich abzuholen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>VIII.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -1991,7 +1947,7 @@
       <tei:p>
         <tei:span>„Kommen Sie,“ sagte der Abbé Bernis, „es ist unpassend, sich an den Geburtswehen einer schriftstellernden Dame zu weiden.“ Damit schob er mich und den verstimmten Magister zur Thüre hinaus.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>IX.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2077,7 +2033,7 @@
       <tei:p>
         <tei:span>Dennoch war ich vollkommen befriedigt. Es schmeichelte mir, den König in diesen angenehmen Stunden, deren Genuß ihm die öffentliche Meinung so sehr zum Vorwurf machte, belauscht zu haben, in Gegenden gedrungen zu sein, die sich nur den Vertrautesten öffnen, endlich einen so geistreichen Mann, wie der Abbé war, anhören zu dürfen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>X.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2142,7 +2098,7 @@
         <tei:span>Ich blieb zitternd vor Wuth auf meinem Platze und weiß nicht, wie ich in meine Wohnung gekommen bin. </tei:span>
         <tei:pb n="198"/>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>XI.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2194,7 +2150,7 @@
         <tei:pb n="203"/>
         <tei:span>Abend hinein eine Unterhaltung, die mir Genuß und Belehrung in gleichem Maße verschaffte. Mein Freund war über die öffentlichen Verhältnisse, über ihre geheimen Triebfedern vortrefflich unterrichtet, und eben so kannte er die Mittel, ihnen mit Sicherheit zu begegnen, oder mit Klugheit aus dem Wege zu gehen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>XII.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2254,7 +2210,7 @@
         <tei:pb n="209"/>
         <tei:span>kalten Wangen gleiten, sind die süßesten Freuden meines Alters! Wehmüthige Erinnerung!</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>XIII.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2320,14 +2276,13 @@
         <tei:pb n="217"/>
         <tei:span>nun so ist das ein Ereigniß, immerhin beklagenswerth, das sich aber voraussehen ließ. Warum betrat er eine Laufbahn, zu der er nichts Besseres brauchte als Dinte, Feder und Papier!</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>XIV.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
         <tei:span>Der Gipfel des Glücks ist der Ort, wo man die beste Aussicht in den kommenden Wechsel desselben hat. Es war schon hoch gegen Mittag, als die Gesellschaft eines Tages von einem Spazierritte heimkehrte, den die Damen, nach den immer herrschender werdenden englischen Sitten, stets mitzumachen pflegten. Während die Uebrigen noch um eine ansehnliche Strecke hinter uns zurückgeblieben waren, hatten Adele und ich um eben so viel einen Vorsprung gewonnen.</tei:span>
       </tei:p>
       <tei:p>
-        <tei:span>Es giebt Augenblicke, wo der Strom der Rede so zu fließen beginnt, die innere Aufregung des Gemüths sich ihr so mitzu­theilen pflegt, daß man mit einem lauten Schrei seinem Entzücken Worte geben möchte. Allerdings kann man nur mit Personen, die uns werth und theuer sind, so sprechen. Dann ist es der kleinste unbedeutendste Gegenstand, über den man sich ausbreitet, die Wärme des Ge-</tei:span>
         <tei:pb n="218"/>
         <tei:span>sprächs wird siedender und zwar mehr, als es für den Gegenstand paßt; man ist im Stande, noch in diesem Augenblick vom Aufgang der Sonne, von dem schlechten Jahre, von einer schwer verdauten Pastete zu sprechen, und schon im andern dem Freunde um den Hals zu fallen, ihn mit Thränen und Küssen zu bedecken. Ich weiß es, daß solche leidenschaftliche Empfindungen wenig Lebenstact verrathen, daß sie oft die Begleiter der unglücklichsten Schicksale sind; aber soll man darum diesen göttlichen Funken ersticken? soll ihm nicht einmal die Freundschaft zündbare Nahrung sein? ja, soll man ihn zu dem unschuldigen Zwecke nicht benutzen, Verräther einer geheimen Neigung zu sein?</tei:span>
       </tei:p>
@@ -2369,7 +2324,7 @@
       <tei:p>
         <tei:span>Nach einer schlaflosen Nacht saßen die drei Reisenden mit den verschiedensten Empfindungen im Wagen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph text-center">
+      <tei:p style="text-center">
         <tei:span>XV.</tei:span>
       </tei:p>
       <tei:p style="no-indent">
@@ -2441,10 +2396,10 @@
         <tei:pb n="232"/>
         <tei:span>gen nach den Ufern der Yonne gewandt und den hervorquellenden Thränen ihren wehmüthigen Lauf gelassen.</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>* *</tei:span>
       </tei:p>
-      <tei:p style="paragraph no-indent text-center">
+      <tei:p style="no-indent text-center">
         <tei:span>*</tei:span>
       </tei:p>
       <tei:p style="no-indent">
