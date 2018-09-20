@@ -22,7 +22,7 @@ def display_element(element, styles):
 def attach_text(target, text, to_tail):
     """Attach `text` to the `target`. Checks whether there is already text there and if so, appends to that
     Can attach `to_tail` or to the main text."""
-    if text:
+    if text and text.strip():
         if to_tail:
             if target.tail:
                 target.tail = '%s%s' % (target.tail, text)
@@ -116,32 +116,18 @@ def strip_whitespace(element):
         strip_whitespace(child)
 
 
-def simplify_tree(element, merge_single=True, merge_attributes=None):
+def simplify_tree(element):
     """Simplify the tree, merging together elements that have no distinction."""
     for child in element:
-        simplify_tree(child, merge_single=merge_single, merge_attributes=merge_attributes)
-    if len(element) == 1:
-        if merge_single and not element.text:
-            element.text = element[0].text
-            if merge_attributes:
-                for attrib_name in merge_attributes:
-                    if attrib_name in element[0].attrib:
-                        if attrib_name in element.attrib:
-                            element.attrib[attrib_name] = '%s %s' % (element.attrib[attrib_name], element[0].attrib[attrib_name])
-                        else:
-                            element.attrib[attrib_name] = element[0].attrib[attrib_name]
-            element.remove(element[0])
-    else:
-        idx = 0
-        for child in element:
-            if child.tag == '{http://www.tei-c.org/ns/1.0}span' and 'style' not in child.attrib:
-                if idx > 0:
-                    attach_text(element[idx - 1], child.text, to_tail=True)
-                    attach_text(element[idx - 1], child.tail, to_tail=True)
-                else:
-                    attach_text(element, child.text, to_tail=False)
-                    attach_text(element, child.tail, to_tail=False)
-                element.remove(child)
+        simplify_tree(child)
+    if element.tag in ['{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}p'] and len(element) > 1:
+        idx = 1
+        while idx < len(element):
+            style_1 = element[idx].attrib['style'] if 'style' in element[idx].attrib else None
+            style_2 = element[idx - 1].attrib['style'] if 'style' in element[idx - 1].attrib else None
+            if element[idx].tag == element[idx - 1].tag and style_1 == style_2:
+                attach_text(element[idx - 1], element[idx].text, to_tail=False)
+                element.remove(element[idx])
             else:
                 idx = idx + 1
 
@@ -189,6 +175,26 @@ def modify_elements(element, rules):
         modify_elements(child, rules)
 
 
+def clean_whitespace(element):
+    """Remove un-needed whitespace"""
+    for child in element:
+        clean_whitespace(child)
+    if len(element) > 0:
+        if element[-1].text:
+            while element[-1].text.endswith(' '):
+                element[-1].text = element[-1].text[:-1]
+        for idx in range(1, len(element) - 1):
+            if element[idx - 1].tag == '{http://www.tei-c.org/ns/1.0}span' \
+                and element[idx].tag == '{http://www.tei-c.org/ns/1.0}pb' \
+                and element[idx + 1].tag == '{http://www.tei-c.org/ns/1.0}span':
+                if element[idx - 1].text:
+                    while element[idx - 1].text.endswith(' '):
+                        element[idx - 1].text = element[idx - 1].text[:-1]
+                if element[idx + 1].text:
+                    while element[idx + 1].text.startswith(' '):
+                        element[idx + 1].text = element[idx + 1].text[1:]
+
+
 def apply_post_processing(root, styles, steps):
     """Apply the post-processing steps from the configuration."""
     for step in steps:
@@ -210,6 +216,8 @@ def apply_post_processing(root, styles, steps):
             simplify_tree(root, **(step['params'] if 'params' in step else {}))
         elif step['action'] == 'modify-elements':
             modify_elements(root, **step['params'])
+        elif step['action'] == 'clean-whitespace':
+            clean_whitespace(root)
 
 
 def apply_text_processing(text, steps):
@@ -257,7 +265,10 @@ def extract_text(input, config, output):
                     new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
                 element_stack.append(new_element)
                 if element.text:
-                    element_stack[-1].text = element.text
+                    text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                    text_element.text = element.text
+                    text_element.attrib['display'] = 'yes'
+                    new_element.append(text_element)
             elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}h':
                 new_element = etree.Element('{http://www.tei-c.org/ns/1.0}p')
                 new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
@@ -265,7 +276,10 @@ def extract_text(input, config, output):
                     new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
                 element_stack.append(new_element)
                 if element.text:
-                    element_stack[-1].text = element.text
+                    text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                    text_element.text = element.text
+                    text_element.attrib['display'] = 'yes'
+                    new_element.append(text_element)
             elif in_body and element.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}span', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}s', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}soft-page-break', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}tab']:
                 new_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
                 new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
@@ -273,7 +287,7 @@ def extract_text(input, config, output):
                     new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
                 element_stack.append(new_element)
                 if element.text:
-                    element_stack[-1].text = element.text
+                    new_element.text = element.text
             elif in_body:
                 print(element.tag)
         elif event == 'end':
@@ -283,7 +297,7 @@ def extract_text(input, config, output):
                 in_body = False
                 root = element_stack.pop()
                 apply_post_processing(root, styles, config['workflow'])
-                buf = BytesIO(etree.tostring(root, xml_declaration=True, encoding="UTF-8"))
+                buf = BytesIO(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
                 text = buf.getvalue().decode('utf-8')
                 text = apply_text_processing(text, config['post-process'])
                 output.write(text.encode('utf-8'))
@@ -297,7 +311,10 @@ def extract_text(input, config, output):
                 new_element = element_stack.pop()
                 element_stack[-1].append(new_element)
                 if element.tail:
-                    new_element.tail = element.tail
+                    text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                    text_element.text = element.tail
+                    text_element.attrib['display'] = 'yes'
+                    element_stack[-1].append(text_element)
             element.clear()
 
 if __name__ == '__main__':

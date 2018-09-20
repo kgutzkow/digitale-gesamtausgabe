@@ -4,9 +4,6 @@
             "action": "trim-hidden"
         },
         {
-            "action": "strip-whitespace"
-        },
-        {
             "action": "trim-empty"
         },
         {
@@ -72,14 +69,6 @@
                     "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '0.004cm')]": "font-arial",
                     "[('font-name', 'Arial'), ('font-size', '10pt'), ('letter-spacing', '-0.004cm')]": "font-arial"
                 }
-            }
-        },
-        {
-            "action": "simplify-tree",
-            "params": {
-                "merge_attributes": [
-                    "style"
-                ]
             }
         },
         {
@@ -270,17 +259,17 @@
             }
         },
         {
-            "action": "simplify-tree",
-            "params": {
-                "merge_single": false
-            }
+            "action": "simplify-tree"
+        },
+        {
+            "action": "clean-whitespace"
         }
     ],
     "post-process": [
         {
             "action": "regex-replace",
             "params": {
-                "regex": "n=\"\\[([0-9XVIxvi]+)\\]\"",
+                "regex": "n=\"\\[([0-9XVIxvi]+)\\]\\s*\"",
                 "replace": "n=\"\\g<1>\""
             }
         },
