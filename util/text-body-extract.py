@@ -125,7 +125,9 @@ def simplify_tree(element):
         while idx < len(element):
             style_1 = element[idx].attrib['style'] if 'style' in element[idx].attrib else None
             style_2 = element[idx - 1].attrib['style'] if 'style' in element[idx - 1].attrib else None
-            if element[idx].tag == element[idx - 1].tag and style_1 == style_2:
+            type_1 = element[idx].attrib['type'] if 'type' in element[idx].attrib else None
+            type_2 = element[idx - 1].attrib['type'] if 'type' in element[idx - 1].attrib else None
+            if element[idx].tag == element[idx - 1].tag and style_1 == style_2 and type_1 == type_2:
                 attach_text(element[idx - 1], element[idx].text, to_tail=False)
                 element.remove(element[idx])
             else:
