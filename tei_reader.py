@@ -34,7 +34,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:apply-templates/>
     </p>
   </xsl:template>
-  <xsl:template match="tei:span">
+  <xsl:template match="tei:span[@style | @type]">
     <span>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
@@ -56,7 +56,7 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
   <xsl:template match="tei:teiHeader"></xsl:template>
   <xsl:template match="tei:body">
-    <xsl:apply-templates select="./tei:p[position() &lt;= 3]"/>
+    <xsl:apply-templates select="./tei:p[position() &lt;= 1]"/>
   </xsl:template>
   <xsl:template match="tei:p">
     <p><xsl:apply-templates/></p>
