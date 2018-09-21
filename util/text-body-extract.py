@@ -138,12 +138,12 @@ def modify_elements(element, rules):
     """Relable heading elements."""
     for rule in rules:
         matches = None
-        if 'tag' in rule['match'] and element.tag == rule['match']['tag']:
-            matches = True
+        if 'tag' in rule['match']:
+            matches = element.tag == rule['match']['tag']
         if matches != False and 'attrs' in rule['match']:
             for match_attr in rule['match']['attrs']:
                 if match_attr['name'] in element.attrib:
-                    if match_attr['value'] == element.attrib[match_attr['name']]:
+                    if 'value' not in match_attr or match_attr['value'] == element.attrib[match_attr['name']]:
                         matches = True
                     else:
                         matches = False
@@ -173,6 +173,7 @@ def modify_elements(element, rules):
                 element.tail = None
                 element.getparent().replace(element, wrapper)
                 wrapper.append(element)
+            break
     for child in element:
         modify_elements(child, rules)
 

@@ -149,23 +149,6 @@
                     },
                     {
                         "match": {
-                            "tag": "{http://www.tei-c.org/ns/1.0}p",
-                            "attrs": [
-                                {
-                                    "name": "style",
-                                    "value": "paragraph no-indent font-size-medium"
-                                }
-                            ]
-                        },
-                        "action": {
-                            "attrs": {
-                                "style": null,
-                                "type": "table-of-contents"
-                            }
-                        }
-                    },
-                    {
-                        "match": {
                             "attrs": [
                                 {
                                     "name": "style",
@@ -174,14 +157,15 @@
                             ]
                         },
                         "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}foreign",
                             "attrs": {
-                                "style": null,
-                                "type": "foreign-language"
+                                "style": null
                             }
                         }
                     },
                     {
                         "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
                             "attrs": [
                                 {
                                     "name": "style",
@@ -200,59 +184,23 @@
                     },
                     {
                         "match": {
-                            "tag": "{http://www.tei-c.org/ns/1.0}p",
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
                             "attrs": [
                                 {
-                                    "name": "style",
-                                    "value": "paragraph font-style-italic"
+                                    "name": "style"
                                 }
                             ]
                         },
                         "action": {
-                            "tag": "{http://www.tei-c.org/ns/1.0}pb",
-                            "attrs": {
-                                "style": null,
-                                "n": "text()"
-                            },
-                            "text": null,
-                            "wrap": {
-                                "tag": "{http://www.tei-c.org/ns/1.0}p",
-                                "attrs": {
-                                    "style": "no-indent"
-                                }
-                            }
+                            "tag": "{http://www.tei-c.org/ns/1.0}hi"
                         }
                     },
                     {
                         "match": {
-                            "tag": "{http://www.tei-c.org/ns/1.0}p",
-                            "attrs": [
-                                {
-                                    "name": "style",
-                                    "value": "paragraph no-indent"
-                                }
-                            ]
+                            "tag": "{http://www.tei-c.org/ns/1.0}span"
                         },
                         "action": {
-                            "attrs": {
-                                "style": "no-indent"
-                            }
-                        }
-                    },
-                    {
-                        "match": {
-                            "tag": "{http://www.tei-c.org/ns/1.0}p",
-                            "attrs": [
-                                {
-                                    "name": "style",
-                                    "value": "paragraph"
-                                }
-                            ]
-                        },
-                        "action": {
-                            "attrs": {
-                                "style": null
-                            }
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg"
                         }
                     }
                 ]
