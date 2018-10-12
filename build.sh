@@ -3,5 +3,5 @@
 git pull --rebase
 pipenv install
 npm install
-gulp
+node_modules/.bin/gulp
 pipenv run pelican -o output -d content
