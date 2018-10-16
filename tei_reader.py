@@ -8,14 +8,16 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
 READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
-  <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
-  <xsl:template match="tei:teiHeader"></xsl:template>
+  <xsl:template match="tei:TEI/tei:teiHeader"/>
+  <xsl:template match="tei:TEI/tei:text/tei:body">
+    <xsl:apply-templates/>
+  </xsl:template>
   <xsl:template match="tei:head[@type='level-1']">
     <h1>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
       </xsl:attribute>
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb"/>
     </h1>
   </xsl:template>
   <xsl:template match="tei:head[@type='level-2']">
@@ -23,33 +25,31 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
       </xsl:attribute>
-      <xsl:apply-templates/>
-     </h2>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb"/>
+    </h2>
   </xsl:template>
   <xsl:template match="tei:p">
     <p>
       <xsl:attribute name="class">
         <xsl:value-of select="@style"/>
       </xsl:attribute>
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb"/>
     </p>
   </xsl:template>
-  <xsl:template match="tei:span[@style | @type]">
-    <span>
-      <xsl:attribute name="class">
-        <xsl:value-of select="@style"/>
-        <xsl:value-of select="@type"/>
-      </xsl:attribute>
-      <xsl:apply-templates/>
-    </span>
+  <xsl:template match="tei:seg">
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | text()"/>
+  </xsl:template>
+  <xsl:template match="tei:hi">
+      <span><xsl:attribute name="class"><xsl:value-of select="@style"/></xsl:attribute><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:foreign">
+      <span class="foreign-language"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:pb">
-    <span class="page-break"><xsl:value-of select="@n"/></span>
+      <span class="page-break"><xsl:value-of select="@n"/></span>
   </xsl:template>
-  <xsl:template match="tei:ref[@type='annotation']">
-    <xsl:apply-templates/>
-  </xsl:template>
-</xsl:stylesheet>'''
+</xsl:stylesheet>
+'''
 
 OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
