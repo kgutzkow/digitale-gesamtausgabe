@@ -1,7 +1,7 @@
 Neuer Internetauftritt
 ======================
 
-:date: 2018-05-02
+:date: 2018-10-02
 :category: Neuigkeiten
 :tags: Technisches
 :author: Mark M Hall
@@ -17,15 +17,12 @@ Die zwei großen Zielsetzungen der Umarbeitung waren:
 * *Lesbarkeit*: Das Ziel der Digitalen Gesamtausgabe war und ist es, das
   Gesamtwerk Karl Gutzkows zugänglich zu machen. Im Rahmen dieses Zieles
   haben wir sowohl die Organisation der Inhalte verbessert, wie auch eine
-  neue Leseumgebung entickelt. Die neue Leseumgebung ist für das Lesen von
+  neue Leseumgebung entwickelt. Die neue Leseumgebung ist für das Lesen von
   kommentierten Edition sowohl auf dem PC, wie auch auf mobilen Geräten
-  optimiert worden, sie können Gutzkow daher jetzt ganz einfach mitnehmen und
+  optimiert worden, Sie können Gutzkow daher jetzt ganz einfach mitnehmen und
   auch unterwegs lesen.
 * *Vereinfachung technischer Abläufe*: Der bisherige digitale Auftritt der
-  Gesamtausgabe erforderte ein hohes Maß an händischer Arbeit um neue Inhalte
+  Gesamtausgabe erforderte ein hohes Maß an manuellen Eingriffen um neue Inhalte
   einzupflegen. Im Rahmen der Umstellung wurden ein Großteil dieser Abläufe
   automatisiert und vereinfacht, damit in der Zukunft Inhalte schneller und
   einfacher eingepflegt werden können.
-
-Falls Sie Fehler, Korrekturen, Kommentare haben, nutzen sie bitte das
-`Formular hier <https://bitbucket.org/gutzkow/digitale-gesamtausgabe/issues/new>`_.
