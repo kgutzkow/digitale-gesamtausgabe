@@ -187,9 +187,9 @@ def clean_whitespace(element):
             while element[-1].text.endswith(' '):
                 element[-1].text = element[-1].text[:-1]
         for idx in range(1, len(element) - 1):
-            if element[idx - 1].tag == '{http://www.tei-c.org/ns/1.0}span' \
+            if element[idx - 1].tag != '{http://www.tei-c.org/ns/1.0}pb' \
                 and element[idx].tag == '{http://www.tei-c.org/ns/1.0}pb' \
-                and element[idx + 1].tag == '{http://www.tei-c.org/ns/1.0}span':
+                and element[idx + 1].tag != '{http://www.tei-c.org/ns/1.0}pb':
                 if element[idx - 1].text:
                     while element[idx - 1].text.endswith(' '):
                         element[idx - 1].text = element[idx - 1].text[:-1]

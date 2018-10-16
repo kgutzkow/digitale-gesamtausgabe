@@ -212,20 +212,6 @@
                 "regex": "n=\"\\[([0-9XVIxvi]+)\\]\\s*\"",
                 "replace": "n=\"\\g<1>\""
             }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
-                "regex": "([a-z])<tei:span",
-                "replace": "\\g<1> <tei:span"
-            }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
-                "regex": "</tei:span>([a-z])",
-                "replace": "</tei:span> \\g<1>"
-            }
         }
     ],
     "styles": {
