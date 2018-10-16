@@ -1,3 +1,4 @@
+import os
 import re
 
 from lxml import etree
@@ -139,6 +140,9 @@ class NewReader(BaseReader):
                     'summary': self.strip_ns(str(overview(doc))),
                     'comments': self.strip_ns(str(comments(doc))),
                     'template': 'tei-reader'}
+        metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
+        if os.path.exists(filename.replace('.tei', '.pdf')):
+            metadata['pdf'] = '%s.pdf' % metadata['slug']
 
         parsed = {}
         for key, value in metadata.items():

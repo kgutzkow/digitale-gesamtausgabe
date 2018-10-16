@@ -41,6 +41,10 @@
           </ul>
         </dd>
         {% endif %}
+        {% if page.pdf %}
+        <dt>Download</dt>
+        <dd><a href="{{ page.pdf }}">Download as PDF</a></dd>
+        {% endif %}
         {% if page.editors %}
         <dt>Bearbeiter</dt>
         <dd>

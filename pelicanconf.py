@@ -30,6 +30,8 @@ PLUGINS = ['tei_reader',
            'pelican_page_hierarchy',
            'pelican_page_order']
 
+STATIC_PATHS = ['pages']
+
 THEME = './theme'
 
 GENERATION_DATE = datetime.now()
