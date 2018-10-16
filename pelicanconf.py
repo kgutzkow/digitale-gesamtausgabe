@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 from datetime import datetime
 
 AUTHOR = 'Mark M Hall'
-SITENAME = 'Karl Gutzkow - Digitale Gesamtausgabe'
+SITENAME = 'Karl Gutzkow - Editionsprojekt'
 SITEURL = ''
 
 PATH = 'content'
