@@ -33,9 +33,9 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body xmlns:tei="http://www.tei-c.org/ns/1.0">
-      <tei:head type="level-1">
-        <tei:seg>Novellen von Karl Gutzkow.</tei:seg>
-      </tei:head>
+      <tei:p style="paragraph text-center">
+        <tei:hi style="font-size-large">Novellen von Karl Gutzkow.</tei:hi>
+      </tei:p>
       <tei:head type="level-1">
         <tei:seg>Zweiter Band.</tei:seg>
       </tei:head>
@@ -180,6 +180,7 @@
         <tei:seg>Die hundert von Friedrich Wilhelm I. in Gnaden entlassenen Kammerherrn hatten mit ihren goldnen Schlüsseln auch die Salonsfreuden aus der Residenz auf ihre Landsitze genommen und zugleich, wie sie meinten, den Glanz und den Ruhm dieser noch jungen Monarchie, deren Begründer so glücklich mit Ludwig XIV. gewetteifert.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
+        <tei:seg>Seither pflegten die edeln und tonangebenden Familien statt der eingestellten Festlichkeiten, die sonst das jetzt wieder so einförmige Leben der Residenz verherrlichten, die glänzenden Versammlungen zu besuchen, welche abwechselnd in der Umgegend von den Standespersonen mit eben so viel Geschmack als Freigebigkeit veranstaltet wurden. Herr von Borck war in Versailles gewesen, er verstand es ausnehmend, wie man den Ton, die Sitte und den Stand ehren müsse, und die zahlreichen Nobilitä-</tei:seg>
         <tei:pb n="19"/>
         <tei:seg>ten, die seine Bälle besuchten, gaben ihm mit Vergnügen das Zeugniß, daß er sie alle übertreffe, wenn die Reihe der Festivitäten an ihn komme. Und so hatten ihn auch heute die Lobeserhebungen bereit befunden, von ihm empfangen zu werden, und je rauschender die strahlenden Salons wiedertönten, je glühender die Tänzerinnen sich auf die Ottomannen warfen und je tiefer die Tausende von Wachskerzen niederbrannten, desto verklärter strahlte sein Angesicht, desto jugendlicher schienen sich die weggeschminkten Falten desselben in der That auszuglätten. Und in seiner Ehefrau (sie war eine geborne von Köckeritz) stiegen Erinnerungen schönerer, d. h. jüngerer Tage auf, wo ihre blendende Erscheinung in den Sälen des könig­lichen Schlosses oder des Ritterschaftsgebäudes in der Klosterstraße die Augen der Bewunderung und die Zungen des Neides bannten, und wo unter ihrem gelbem Puder sich noch blondes Haar und kein graues fand. Das empfanden Alle, die jetzt ihre Töchter die bedeutsamen Menuets mit derselben Grazie tanzen sahen, mit der sie selbst vor zwanzig Jahren die Elite des Ucker­märkischen Adels bezaubert. Sophie</tei:seg>
         <tei:pb n="20"/>
@@ -520,6 +521,9 @@
         <tei:seg>Die Versammelten traten jetzt zu vertrautem und ängstlichem Gespräch zusammen; der spanische Gesandte stürzte aber mit blassem Angesichte auf den triumphirenden Chevalier zu, riß ihn in eine Fensterbrüstung und flüsterte ihm mit der ängstlichsten Miene zu: „Unglücklicher, Sie müssen Ihre Rolle auf Ihre eigene Verantwortung ausspielen! Ich erhalte in diesem Augenblicke Depeschen, die uns Alle vernichten. Die Pariser Verschwö­rung hat den spanischen Hof compromittirt, ein ansehn­liches Heer hat mit Blitzesschnelle die Pyrenäen überstiegen, es ist zu Demonstrationen gekommen, bei denen der Kardinal und die Königin den Kürzern ziehen müssen. Ich höre, daß sich Einige aus</tei:seg>
         <tei:pb n="55"/>
         <tei:seg>den Umgebungen des Königs ein Geschäft daraus machen, Ihre Schritte zu beobachten, daß man Beweise haben will, Sie von Ihren Erfindungen zu überführen; die nationale Parthei in Spanien hat auch am hiesigen Hofe ihre Emissäre, sie haben sich an den König gedrängt, und ich zittere, wenn es zu nähern Erläuterungen kommen sollte. Alles hängt von den Nachrichten ab, die der Kurier des heutigen Abends bringt. Hat sich der Kampf im Vaterlande zu Gunsten des Ministers entschieden, so wage ich es, Sie unter meinen Schutz zu nehmen, wo nicht – Unglücklicher, ich beschwöre Sie, warten Sie diese Entscheidung nicht ab, fliehen Sie auf der Stelle.“</tei:seg>
+      </tei:p>
+      <tei:p style="paragraph">
+        <tei:seg>Der Chevalier biß die Lippen zusammen, als ein Kammerdiener, dessen Rock ganz mit schwarzen Adlern durchwirkt war, sich nahte und ihn ehrerbietigst in die Zimmer abrief, in die sich der König vorhin begeben hatte.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Der Gesandte stand auf glühenden Kohlen. Das Schicksal des Chevaliers mußte ihn höchlich interessiren, weil es ihn selbst betraf. Obschon er sich auf Clements Discretion selbst im äußersten Falle verlassen durfte, so konnte sich doch Vieles ergeben,</tei:seg>
@@ -1372,6 +1376,9 @@
         <tei:seg>Sinn für Ehre, war tapfer, liebenswürdig im Umgang, besaß aber keine Eigenschaft, die ihn fähig gemacht hätte, einen Thron zu erobern. Klugheit, Speculation, Calcül, das waren Gaben, mit welchen ihm entweder Andere dienen mußten, oder mit welchen er von ihnen hintergangen wurde. Er wollte jetzt, daß vor dem albernen Commandanten kein Wort mehr von der Expedition gesprochen würde.</tei:seg>
       </tei:p>
       <tei:p style="paragraph no-indent">
+        <tei:seg>„Und warum soll ich selbst noch immer davon hören?“ fragt’ er sinnend und unmuthig. „Ich sehe ein, wie kindisch es ist, sich von den Narrheiten eines alten Dieners bestimmen zu lassen. Wäre ich jetzt in Paris! Warum ich nur meinen Freund Eduard, der mir im Spiel viel Geld abgenommen, warum ich nur den nicht erst um Rath gefragt habe? Und Julius, wie konnt’ ich Julius vergessen! Der muß in diesen Tagen Wechsel bekommen, und hätte mir gewiß vorgeschossen. Gott, auch Heinrich muß jetzt von seiner Reise zurück sein, und wird seine Erbschaft mitgebracht haben. Es ist um rasend zu werden, wenn man einige tausend Meilen von Paris entfernt ist.“</tei:seg>
+      </tei:p>
+      <tei:p style="paragraph no-indent">
         <tei:seg>Hippolyt wälzte sich ärgerlich in seinem Bette</tei:seg>
         <tei:pb n="153"/>
         <tei:seg>und dachte nach einigen Minuten: „Was ich nur machen werde, um die Tollheit in Ausführung zu bringen? Ich komme mit leeren Händen, Polyglotte ist die einzige kriegerische Macht, welche ich gegen den Feind führen kann, Colas muß uns den Rücken decken.“</tei:seg>
@@ -1696,7 +1703,7 @@
         <tei:seg>den einzigen Haltpunkt, der ihn seinen schon unfreiwilligen Aufenthalt jenseits des Aequators erträglich machen konnte.</tei:seg>
       </tei:p>
       <tei:p style="paragraph no-indent">
-        <tei:seg>Noch an demselben Abende stellte sich für Hippolyt die Unmög</tei:seg>
+        <tei:seg>Noch an demselben Abende stellte sich für Hippolyt die Unmöglichkeit, auf seine Eroberungspläne irgend Zeit, Hoffnung oder Anstrengung zu verwenden, noch lebhafter heraus. Eines Theils überraschte es ihn zwar, auch bei Herrn Cochon nichts von seinem Vorhaben zu vernehmen, er gewöhnte aber sich daran, es in so vernünftiger, gebildeter, reeller Gesellschaft für eine Chimäre zu halten, und wünschte, als er mit dem Marquis le Poivre aus der Wohnung ihres Wirths heraustrat, nichts sehnlicher, – als daß sein Fuß über einem Pariser Steine stolpern möchte, daß alles Frühere Täuschung, jeder Baum ein Haus und das Ganze die Straße St. Dominique in Paris wäre.</tei:seg>
       </tei:p>
       <tei:p style="paragraph no-indent">
         <tei:seg>Ein zweites Begegniß war ihm in diesem Zustande noch unwillkommner. Denn als der Marquis sich an einem Scheidewege, wo er ihm deutlich das Haus des Commandanten zeigte und Hippolyt sich selbst überlassen konnte, von diesem trennte, und der junge Prätendent mit allen seinen gleichgültigen, trägen, überdrüssigen Plänen den einsamen</tei:seg>
@@ -1827,7 +1834,7 @@
       <tei:p style="paragraph no-indent">
         <tei:seg>Aber mit dem Abende kehrte auch in Hippolyts Seele das Gefühl seines Mißgeschicks zurück. Er</tei:seg>
         <tei:pb n="211"/>
-        <tei:seg>hatte sich vielleicht eingebildet, diese ganze, mit ihm gespielte Farce werde nicht länger dauern, als bis Sonnenuntergang. Er hatte das Meer nicht aus den Augen verloren, und immer noch auf die endliche Ankunft der ganzen Bevölkerung von St. Marie gehofft, aber es wurde Nacht und er mußte zum zweiten Male in seinem Leben sich bequemen, außer dem Bette zu schlafen. Noch peinlicher war es ihm, als ihn ein dicker Neger, der Sklavenwächter, aus den süßesten Träumen weckte, und ihn nicht ohne beleidigende Peitschenwinke antrieb, vom Maisstroh aufzustehen. Hippolyt machte Lärm und rief seinem Störenfried auf das beste Französisch zu, daß er nicht gewohnt sei, vor acht Uhr aufzustehen, aber es was Alles um ihn her fürchterliche Wahrheit, der kaum ergrauende Morgen, das Ausbleiben Colas zum Ankleiden, der fistirte Kaffee, die Riemen an den Füßen, di</tei:seg>
+        <tei:seg>hatte sich vielleicht eingebildet, diese ganze, mit ihm gespielte Farce werde nicht länger dauern, als bis Sonnenuntergang. Er hatte das Meer nicht aus den Augen verloren, und immer noch auf die endliche Ankunft der ganzen Bevölkerung von St. Marie gehofft, aber es wurde Nacht und er mußte zum zweiten Male in seinem Leben sich bequemen, außer dem Bette zu schlafen. Noch peinlicher war es ihm, als ihn ein dicker Neger, der Sklavenwächter, aus den süßesten Träumen weckte, und ihn nicht ohne beleidigende Peitschenwinke antrieb, vom Maisstroh aufzustehen. Hippolyt machte Lärm und rief seinem Störenfried auf das beste Französisch zu, daß er nicht gewohnt sei, vor acht Uhr aufzustehen, aber es was Alles um ihn her fürchterliche Wahrheit, der kaum ergrauende Morgen, das Ausbleiben Colas zum Ankleiden, der fistirte Kaffee, die Riemen an den Füßen, die Prügel, der Abmarsch. Das von Nebeln bedeckte Meer schwand allmählig gänzlich und die Wanderung nahm unmittelbar ihre Richtung in’s Land hinein.</tei:seg>
       </tei:p>
       <tei:p style="paragraph no-indent">
         <tei:seg>Hippolyt hatte von der Natur ein so heiteres Temperament bekommen, daß trotz seiner unheilvollen Lage noch viele Tage anbrechen können, ehe</tei:seg>
@@ -1952,7 +1959,7 @@
       <tei:p style="paragraph no-indent">
         <tei:seg>Nach einer traumhaften Dämmerung, welche Hippolyts Bewußtsein einige Momente hindurch gefangen nahm, schreckte ihn ein Geräusch an der Thür des Gewahrsams auf. Er hörte, daß sich draußen Jemand bemühte, sie zu öffnen und doch dabei alles Geräusch zu vermeiden suchte. Sie war von außen nur durch einen hölzernen Riegel gesichert, und ging ohne alle Schwierigkeit auf. Hippolyt sprang erschrocken vom Fußboden, und staunte, Niemanden eintreten zu sehen. Er ging beherzter auf</tei:seg>
         <tei:pb n="232"/>
-        <tei:seg>den Eingang zu, aber zu gleicher Zeit trat ihm auch eine Gestalt entgegen, welche das Dunkel zu erkennen verhinderte. Der flüsternde Anruf: „Berora! mein Sohn!“ klärte nach einigen Momenten peinlicher Stille den erwartungsvollen Prinzen über die Person des Ankömmlings auf. Es konnte Niemand anders, als seine Amme sein, die sich zu seiner Rettung nahte. Er trat ihr näher und</tei:seg>
+        <tei:seg>den Eingang zu, aber zu gleicher Zeit trat ihm auch eine Gestalt entgegen, welche das Dunkel zu erkennen verhinderte. Der flüsternde Anruf: „Berora! mein Sohn!“ klärte nach einigen Momenten peinlicher Stille den erwartungsvollen Prinzen über die Person des Ankömmlings auf. Es konnte Niemand anders, als seine Amme sein, die sich zu seiner Rettung nahte. Er trat ihr näher und sie, ihn erkennend, umfaßte ihn mit den sichtbarsten, schwer unterdrückten Zeichen der Freude. Sie winkte ihm zu folgen, aber Hippolyt nahm Anstand, Araxaten nicht einem zweifelhaften Schicksale zu überlassen. Obschon er in diesem Augenblicke so viel Vertrauen auf seine Rettung gefaßt hatte, obschon ihm der Muth und die ganze Anschauung seiner frühern Verhältnisse mit der Hülfe des genannten Weibes wiedergekehrt war, obschon er sich wieder in den Straßen von Paris sah, und sich nicht vorstellen konnte, was er dort mit seiner exotischen Liebe beginnen sollte, so war die Macht der Zuneigung zu Araxaten doch so heftig in ihm erstarkt, daß er ohne sie schwerlich den dringenden Winken seiner Retterin gefolgt wäre. Er weckte seine Leidensgefährtin, riß sie mit sich fort, und da sie, obschon unfähig, sich</tei:seg>
         <tei:pb n="233"/>
         <tei:seg>sogleich in den Zusammenhang dieser Dinge zu versetzen, sich doch ohne Schwierigkeit in seinen Willen und sein Beispiel ergab, so ging die Flucht ohne Hinderniß von Statten.</tei:seg>
       </tei:p>

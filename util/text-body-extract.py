@@ -7,6 +7,10 @@ from io import BytesIO
 from lxml import etree
 
 
+NS = {'office': 'urn:oasis:names:tc:opendocument:xmlns:office:1.0',
+      }
+
+
 def display_element(element, styles):
     """Test whether the given element should be displayed."""
     if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
@@ -237,88 +241,58 @@ def apply_text_processing(text, steps):
 def extract_text(input, config, output):
     """Extract the text from `input` using the configuration in `config` and write the resulting TEI body to `output`."""
     config = json.load(config)
+    doc = etree.parse(input)
     styles = {}
-    style = {}
-    in_body = False
-    element_stack = []
-    for event, element in etree.iterparse(input, events=('start', 'end')):
-        if event == 'start':
-            # Extract style definitions
+    # Extract style definitions
+    for xpath in ['/office:document/office:styles', '/office:document/office:automatic-styles']:
+        for element in doc.xpath(xpath, namespaces=NS)[0]:
             if element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}style':
                 if '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}parent-style-name' in element.attrib and element.attrib['{urn:oasis:names:tc:opendocument:xmlns:style:1.0}parent-style-name'] in styles:
                     style = deepcopy(styles[element.attrib['{urn:oasis:names:tc:opendocument:xmlns:style:1.0}parent-style-name']])
                 else:
                     style = {'paragraph': {}, 'text': {}}
-            elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}paragraph-properties':
-                if style:
-                    for key, value in element.attrib.items():
-                        style['paragraph'][key[key.find('}') + 1:]] = value
-            elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}text-properties':
-                if style:
-                    for key, value in element.attrib.items():
-                        style['text'][key[key.find('}') + 1:]] = value
-            # Text processing
-            elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:office:1.0}body':
-                in_body = True
-                element_stack.append(etree.Element('{http://www.tei-c.org/ns/1.0}body', nsmap={'tei': 'http://www.tei-c.org/ns/1.0'}))
-            elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}p':
-                new_element = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-                new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
-                if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
-                    new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
-                element_stack.append(new_element)
-                if element.text:
-                    text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
-                    text_element.text = element.text
-                    text_element.attrib['display'] = 'yes'
-                    new_element.append(text_element)
-            elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}h':
-                new_element = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-                new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
-                if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
-                    new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
-                element_stack.append(new_element)
-                if element.text:
-                    text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
-                    text_element.text = element.text
-                    text_element.attrib['display'] = 'yes'
-                    new_element.append(text_element)
-            elif in_body and element.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}span', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}s', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}soft-page-break', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}tab']:
-                new_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
-                new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
-                if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
-                    new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
-                element_stack.append(new_element)
-                if element.text:
-                    new_element.text = element.text
-            elif in_body:
-                print(element.tag)
-        elif event == 'end':
-            if element.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}style':
+                for child in element:
+                    if child.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}paragraph-properties':
+                        for key, value in child.attrib.items():
+                            style['paragraph'][key[key.find('}') + 1:]] = value
+                    elif child.tag == '{urn:oasis:names:tc:opendocument:xmlns:style:1.0}text-properties':
+                        for key, value in child.attrib.items():
+                            style['text'][key[key.find('}') + 1:]] = value
                 styles[element.attrib['{urn:oasis:names:tc:opendocument:xmlns:style:1.0}name']] = style
-            elif element.tag == '{urn:oasis:names:tc:opendocument:xmlns:office:1.0}body':
-                in_body = False
-                root = element_stack.pop()
-                apply_post_processing(root, styles, config['workflow'])
-                buf = BytesIO(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
-                text = buf.getvalue().decode('utf-8')
-                text = apply_text_processing(text, config['post-process'])
-                output.write(text.encode('utf-8'))
-            elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}p':
-                new_element = element_stack.pop()
-                element_stack[-1].append(new_element)
-            elif in_body and element.tag == '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}h':
-                new_element = element_stack.pop()
-                element_stack[-1].append(new_element)
-            elif in_body and element.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}span', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}s', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}soft-page-break', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}tab']:
-                new_element = element_stack.pop()
-                element_stack[-1].append(new_element)
-                if element.tail:
+    # Build text body structure
+    body = etree.Element('{http://www.tei-c.org/ns/1.0}body', nsmap={'tei': 'http://www.tei-c.org/ns/1.0'})
+    for element in doc.xpath('/office:document/office:body/office:text/*', namespaces=NS):
+        if element.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}p', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}h']:
+            new_element = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+            new_element.attrib['display'] = 'yes' if display_element(element, styles) else 'no'
+            if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in element.attrib:
+                new_element.attrib['style'] = element.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
+            if element.text:
+                text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                text_element.text = element.text
+                text_element.attrib['display'] = 'yes'
+                new_element.append(text_element)
+            for child in element:
+                child_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                child_element.attrib['display'] = 'yes' if display_element(child, styles) else 'no'
+                if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in child.attrib:
+                    child_element.attrib['style'] = child.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
+                if child.text:
+                    child_element.text = child.text
+                new_element.append(child_element)
+                if child.tail:
                     text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
-                    text_element.text = element.tail
+                    text_element.text = child.tail
                     text_element.attrib['display'] = 'yes'
-                    element_stack[-1].append(text_element)
-            element.clear()
+                    new_element.append(text_element)
+            body.append(new_element)
+
+    apply_post_processing(body, styles, config['workflow'])
+    buf = BytesIO(etree.tostring(body, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
+    text = buf.getvalue().decode('utf-8')
+    text = apply_text_processing(text, config['post-process'])
+    output.write(text.encode('utf-8'))
+
 
 if __name__ == '__main__':
     extract_text()
