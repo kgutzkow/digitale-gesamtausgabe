@@ -3,18 +3,21 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
+        <tei:title>Novellen. Erster Band</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digital edition</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
+          <tei:resp>Digital edition</tei:resp>
         </tei:respStmt>
         <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
           <tei:name>Mark M Hall</tei:name>
+          <tei:resp>TEI transform</tei:resp>
         </tei:respStmt>
-        <tei:title>Novellen. Erster Band</tei:title>
       </tei:titleStmt>
     </tei:fileDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834 (Rasch 2.4.1.3)</tei:bibl>
+    </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
         <tei:date when="1834-07-01">Juli 1834</tei:date>
@@ -23,24 +26,21 @@
         <tei:catRef target="#erzaehlerische-werke #novellen #erster-band"/>
       </tei:textClass>
     </tei:profileDesc>
-    <tei:sourceDesc>
-      <tei:bibl>Novellen von Karl Gutzkow. Bd 1, Hamburg: Hoffmann und Campe, 1834 (Rasch 2.4.1.3)</tei:bibl>
-    </tei:sourceDesc>
     <tei:revisionDesc>
-      <tei:change when="1999-05" who="#GertVonhoff">Erstfassung</tei:change>
-      <tei:change when="1999-08" who="#GertVonhoff">Fassung 1.2 in Berlin</tei:change>
-      <tei:change when="2000-02" who="#GertVonhoff">Fassung 1.3 in Wittenberg</tei:change>
-      <tei:change when="2000-06" who="#GertVonhoff">Fassung 1.5 in Birmingham: erste Testnetzfassung</tei:change>
-      <tei:change when="2000-12" who="#GertVonhoff">Fassung 1.6 in Birmingham/Münster: EKG geprüft</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.7 in Münster/Exeter: Seitenzählung umgestellt auf Novellenband</tei:change>
-      <tei:change when="2002-10-15" who="#GertVonhoff">Fassung 1.7a: Kopf- und Fussbereich für neues Websitelayout angepasst</tei:change>
-      <tei:change when="2018-10-02" who="#MarkMichaelHall">Fassung 1.8: Auf TEI umgestellt</tei:change>
+      <tei:change who="#GertVonhoff" when="1999-05">Erstfassung</tei:change>
+      <tei:change who="#GertVonhoff" when="1999-08">Fassung 1.2 in Berlin</tei:change>
+      <tei:change who="#GertVonhoff" when="2000-02">Fassung 1.3 in Wittenberg</tei:change>
+      <tei:change who="#GertVonhoff" when="2000-06">Fassung 1.5 in Birmingham: erste Testnetzfassung</tei:change>
+      <tei:change who="#GertVonhoff" when="2000-12">Fassung 1.6 in Birmingham/Münster: EKG geprüft</tei:change>
+      <tei:change who="#GertVonhoff" when="2001-08">Fassung 1.7 in Münster/Exeter: Seitenzählung umgestellt auf Novellenband</tei:change>
+      <tei:change who="#GertVonhoff" when="2002-10-15">Fassung 1.7a: Kopf- und Fussbereich für neues Websitelayout angepasst</tei:change>
+      <tei:change who="#MarkMichaelHall" when="2018-10-02">Fassung 1.8: Auf TEI umgestellt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
       <tei:head type="level-1">
-        <tei:hi style="font-size-large">Novellen von Karl Gutzkow.</tei:hi>
+        <tei:seg>Novellen von Karl Gutzkow.</tei:seg>
       </tei:head>
       <tei:head type="level-1">
         <tei:seg>Erster Band.</tei:seg>
@@ -147,20 +147,20 @@
         <tei:hi style="font-weight-bold">Karl Gutzkow.</tei:hi>
       </tei:p>
       <tei:p style="text-center">
-        <tei:hi style="letter-sparse font-size-large">Inhal</tei:hi>
-        <tei:hi style="font-size-large">t.</tei:hi>
+        <tei:hi style="letter-sparse font-size">Inhal</tei:hi>
+        <tei:hi style="font-size">t.</tei:hi>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:hi style="letter-sparse font-size-medium">Der Kaperbrie</tei:hi>
-        <tei:hi style="font-size-medium">f.</tei:hi>
+        <tei:hi style="letter-sparse font-size">Der Kaperbrie</tei:hi>
+        <tei:hi style="font-size">f.</tei:hi>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:hi style="letter-sparse font-size-medium">Die Sterbecassire</tei:hi>
-        <tei:hi style="font-size-medium">r.</tei:hi>
+        <tei:hi style="letter-sparse font-size">Die Sterbecassire</tei:hi>
+        <tei:hi style="font-size">r.</tei:hi>
       </tei:p>
       <tei:p style="no-indent">
-        <tei:hi style="letter-sparse font-size-medium">Geständnisse einer Perrück</tei:hi>
-        <tei:hi style="font-size-medium">e.</tei:hi>
+        <tei:hi style="letter-sparse font-size">Geständnisse einer Perrück</tei:hi>
+        <tei:hi style="font-size">e.</tei:hi>
       </tei:p>
       <tei:head type="level-1">
         <tei:seg>Der Kaperbrief.</tei:seg>
