@@ -280,6 +280,26 @@ def extract_text(input, config, output):
                 if child.text:
                     child_element.text = child.text
                 new_element.append(child_element)
+                if len(child) > 0:
+                    for sub_child in child:  # Need to check other types in here
+                        if sub_child.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}s', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}tab']:
+                            if child_element.text and sub_child.tail:
+                                child_element.text = '%s%s' % (child_element.text,sub_child.tail)
+                            elif sub_child.tail:
+                                child_element.text = sub_child.tail
+                        else:
+                            child_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                            child_element.attrib['display'] = 'yes' if display_element(sub_child, styles) else 'no'
+                            if '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name' in sub_child.attrib:
+                                child_element.attrib['style'] = sub_child.attrib['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}style-name']
+                            if sub_child.text:
+                                child_element.text = sub_child.text
+                            new_element.append(child_element)
+                            if sub_child.tail:
+                                text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
+                                text_element.text = sub_child.tail
+                                text_element.attrib['display'] = 'yes' if display_element(child, styles) else 'no'
+                                new_element.append(text_element)
                 if child.tail:
                     text_element = etree.Element('{http://www.tei-c.org/ns/1.0}span')
                     text_element.text = child.tail
