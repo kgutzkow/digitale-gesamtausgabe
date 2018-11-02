@@ -28,7 +28,7 @@
     <aside class="cell small-12 medium-4">
       <dl>
         {% if page.bibl %}
-        <dt>Bibliographie</dt>
+        <dt>Bibliographischer Nachweis</dt>
         <dd>{{ page.bibl }}</dd>
         {% endif %}
         {% if page.authors %}
@@ -42,21 +42,17 @@
         </dd>
         {% endif %}
         {% if page.pdf %}
-        <dt>Download</dt>
-        <dd><a href="{{ page.pdf }}">Download as PDF</a></dd>
+        <dt>Druckansicht des Textes</dt>
+        <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
         {% endif %}
         {% if page.editors %}
-        <dt>Bearbeiter</dt>
-        <dd>
-          <ul class="no-bullet">
-            {% for editor in page.editors %}
-              <li><abbr title="{{ editor.role }}" data-tooltip data-position="bottom" data-alignment="left">{{ editor.name }}</abbr></li>
-            {% endfor %}
-          </ul>
-        </dd>
+          {% for editor in page.editors %}
+            <dt>{{ editor.role }}</dt>
+            <dd>{{ editor.name }}</dd>
+          {% endfor %}
         {% endif %}
         {% if page.revisions %}
-        <dt>Versionen</dt>
+        <dt>Geschichte der Textversionen in der Internetausgabe</dt>
         <dd>
           <ul class="no-bullet">
             {% for revision in page.revisions | reverse() %}
