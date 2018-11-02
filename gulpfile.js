@@ -1,14 +1,8 @@
-'use strict';
-
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
     concat = require('gulp-concat'),
     pump = require('pump');
-
-gulp.task('default', ['css', 'js']);
-
-gulp.task('css', ['css:theme', 'css:reader']);
 
 gulp.task('css:theme', function(cb) {
     pump([
@@ -32,6 +26,8 @@ gulp.task('css:reader', function(cb) {
     ], cb);
 })
 
+gulp.task('css', gulp.series('css:theme', 'css:reader'));
+
 gulp.task('js', function(cb) {
     pump([
         gulp.src([
@@ -43,6 +39,9 @@ gulp.task('js', function(cb) {
     ], cb);
 });
 
-gulp.task('watch', ['default'], function(db) {
-    gulp.watch('theme/src/**/*.scss', ['css:theme']);
-})
+gulp.task('default', gulp.series('css', 'js'));
+
+gulp.task('watch', gulp.series('default', function(cb) {
+    gulp.watch('theme/src/**/*.scss', gulp.series('css:theme'));
+    cb();
+}))
