@@ -25,6 +25,8 @@ LINKS = (('eHumanities@Martin-Luther-Universität Halle-Wittenberg', 'https://bl
 
 DEFAULT_PAGINATION = 6
 
+DISPLAY_CATEGORIES_ON_MENU = False
+
 PLUGIN_PATHS = ['./']
 PLUGINS = ['tei_reader',
            'pelican_page_hierarchy',
