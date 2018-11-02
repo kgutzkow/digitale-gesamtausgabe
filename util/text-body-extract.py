@@ -9,6 +9,7 @@ from lxml import etree
 
 NS = {'office': 'urn:oasis:names:tc:opendocument:xmlns:office:1.0',
       }
+SAVE_IT = None
 
 
 def display_element(element, styles):
@@ -26,7 +27,7 @@ def display_element(element, styles):
 def attach_text(target, text, to_tail):
     """Attach `text` to the `target`. Checks whether there is already text there and if so, appends to that
     Can attach `to_tail` or to the main text."""
-    if text and text.strip():
+    if text:
         if to_tail:
             if target.tail:
                 target.tail = '%s%s' % (target.tail, text)
@@ -70,14 +71,6 @@ def trim_empty(element):
                 else:
                     attach_text(element, child.tail, to_tail=False)
                 element.remove(child)
-            elif not child.text.strip():
-                if idx > 0:
-                    attach_text(element[idx - 1], child.text, to_tail=True)
-                    attach_text(element[idx - 1], child.tail, to_tail=True)
-                else:
-                    attach_text(element, child.text, to_tail=False)
-                    attach_text(element, child.tail, to_tail=False)
-                element.remove(child)
             else:
                 idx = idx + 1
         else:
@@ -110,14 +103,22 @@ def merge_styles(element, styles, extract_style_names, style_mappings):
                 element.attrib['style'] = style_mappings[style_desc]
 
 
-def strip_whitespace(element):
+def strip_whitespace(doc):
     """Strip unneeded whitespace."""
-    if element.text is not None:
-        element.text = element.text.strip()
-    if element.tag == '{http://www.tei-c.org/ns/1.0}p' and element.tail is not None:
-        element.tail = element.tail.strip()
-    for child in element:
-        strip_whitespace(child)
+    for element in doc:
+        if element[0].text and not element[0].text.strip():
+            element.remove(element[0])
+        if len(element) > 0 and element[-1].text and not element[-1].text.strip():
+            element.remove(element[-1])
+        if len(element) > 0:
+            if element[0].text:
+                while element[0].text.startswith(' '):
+                    element[0].text = element[0].text[1:]
+            if element[-1].text:
+                while element[-1].text.endswith(' '):
+                    element[-1].text = element[-1].text[:-1]
+        else:
+            doc.remove(element)
 
 
 def simplify_tree(element):
@@ -182,26 +183,6 @@ def modify_elements(element, rules):
         modify_elements(child, rules)
 
 
-def clean_whitespace(element):
-    """Remove un-needed whitespace"""
-    for child in element:
-        clean_whitespace(child)
-    if len(element) > 0:
-        if element[-1].text:
-            while element[-1].text.endswith(' '):
-                element[-1].text = element[-1].text[:-1]
-        for idx in range(1, len(element) - 1):
-            if element[idx - 1].tag != '{http://www.tei-c.org/ns/1.0}pb' \
-                and element[idx].tag == '{http://www.tei-c.org/ns/1.0}pb' \
-                and element[idx + 1].tag != '{http://www.tei-c.org/ns/1.0}pb':
-                if element[idx - 1].text:
-                    while element[idx - 1].text.endswith(' '):
-                        element[idx - 1].text = element[idx - 1].text[:-1]
-                if element[idx + 1].text:
-                    while element[idx + 1].text.startswith(' '):
-                        element[idx + 1].text = element[idx + 1].text[1:]
-
-
 def apply_post_processing(root, styles, steps):
     """Apply the post-processing steps from the configuration."""
     for step in steps:
@@ -223,8 +204,6 @@ def apply_post_processing(root, styles, steps):
             simplify_tree(root, **(step['params'] if 'params' in step else {}))
         elif step['action'] == 'modify-elements':
             modify_elements(root, **step['params'])
-        elif step['action'] == 'clean-whitespace':
-            clean_whitespace(root)
 
 
 def apply_text_processing(text, steps):
@@ -240,6 +219,7 @@ def apply_text_processing(text, steps):
 @click.argument('output', type=click.File(mode='wb'))
 def extract_text(input, config, output):
     """Extract the text from `input` using the configuration in `config` and write the resulting TEI body to `output`."""
+    global SAVE_IT
     config = json.load(config)
     doc = etree.parse(input)
     styles = {}
@@ -281,7 +261,7 @@ def extract_text(input, config, output):
                     child_element.text = child.text
                 new_element.append(child_element)
                 if len(child) > 0:
-                    for sub_child in child:  # Need to check other types in here
+                    for sub_child in child:
                         if sub_child.tag in ['{urn:oasis:names:tc:opendocument:xmlns:text:1.0}s', '{urn:oasis:names:tc:opendocument:xmlns:text:1.0}tab']:
                             if child_element.text and sub_child.tail:
                                 child_element.text = '%s%s' % (child_element.text,sub_child.tail)
@@ -305,6 +285,8 @@ def extract_text(input, config, output):
                     text_element.text = child.tail
                     text_element.attrib['display'] = 'yes'
                     new_element.append(text_element)
+                    if child.text and 'VARbegrabe' in child.text:
+                        SAVE_IT = text_element
             body.append(new_element)
 
     apply_post_processing(body, styles, config['workflow'])
