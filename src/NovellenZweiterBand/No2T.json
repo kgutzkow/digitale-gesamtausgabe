@@ -43,6 +43,7 @@
                     "[('font-name', 'Times New Roman'), ('font-size', '13pt'), ('margin-bottom', '0.106cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0.141cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "sub-heading",
                     "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0.501cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '-0.501cm')]": "paragraph no-indent font-size-small",
                     "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent font-size-small",
+                    "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'justify'), ('text-indent', '0.501cm')]": "paragraph",
                     "[('font-size', '15pt')]": "font-size-large",
                     "[('letter-spacing', '-0.004cm')]": "",
                     "[('letter-spacing', '-0.005cm')]": "",
@@ -79,7 +80,8 @@
                     "[('font-name', 'Arial'), ('font-size', '9.5pt')]": "font-family-sans-serif font-size-small",
                     "[('font-name', 'Arial'), ('font-size', '9.5pt'), ('letter-spacing', '0.004cm')]": "font-family-sans-serif font-size-small",
                     "[('font-name', 'Arial'), ('font-size', '8pt')]": "font-family-sans-serif font-size-very-small",
-                    "[('font-size', '11pt')]": ""
+                    "[('font-size', '11pt')]": "",
+                    "[('font-size', '1pt')]": ""
                 }
             }
         },
@@ -199,10 +201,42 @@
             }
         },
         {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}pb",
+                            "attrs": [
+                                {
+                                    "name": "n",
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "action": {
+                            "delete": true
+                        }
+                    },
+                    {
+                        "match": {
+                            "text": " "
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
             "action": "simplify-tree"
         },
         {
-            "action": "clean-whitespace"
+            "action": "strip-whitespace"
         }
     ],
     "post-process": [
