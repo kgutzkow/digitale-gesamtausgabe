@@ -156,13 +156,16 @@ def modify_elements(element, rules):
                 else:
                     matches = False
                     break
+        if matches != False and 'text' in rule['match']:
+            matches = element.text == rule['match']['text']
         if matches:
             if 'tag' in rule['action']:
                 element.tag = rule['action']['tag']
             if 'attrs' in rule['action']:
                 for key, value in rule['action']['attrs'].items():
-                    if value is None and key in element.attrib:
-                        del element.attrib[key]
+                    if value is None:
+                        if key in element.attrib:
+                            del element.attrib[key]
                     elif value == 'text()':
                         element.attrib[key] = element.text
                     else:
@@ -178,6 +181,11 @@ def modify_elements(element, rules):
                 element.tail = None
                 element.getparent().replace(element, wrapper)
                 wrapper.append(element)
+            if 'delete' in rule['action']:
+                if len(element.getparent()) == 1:
+                    element.getparent().getparent().remove(element.getparent())
+                else:
+                    element.getparent().remove(element)
             break
     for child in element:
         modify_elements(child, rules)

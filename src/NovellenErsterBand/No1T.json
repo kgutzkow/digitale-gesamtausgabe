@@ -23,12 +23,16 @@
                     "font-weight",
                     "text-position"],
                 "style_mappings": {
+                    "[('font-size', '11pt')]": "",
+                    "[('font-size', '11pt'), ('font-style', 'italic')]": "font-style-italic",
+                    "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'justify'), ('text-indent', '0.501cm')]": "paragraph",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "paragraph text-center",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0.501cm')]": "paragraph",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-bottom', '0.212cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0.212cm'), ('text-align', 'justify'), ('text-indent', '0.501cm')]": "paragraph",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '1.27cm')]": "paragraph indent-big",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-bottom', '0.282cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'justify'), ('text-indent', '1.27cm')]": "paragraph indent-big",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-bottom', '0cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0.282cm'), ('text-align', 'justify'), ('text-indent', '0.501cm')]": "paragraph",
+                    "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-bottom', '0.106cm'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('margin-top', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'center'), ('text-indent', '0.501cm')]": "paragraph text-center",
                     "[('font-name', 'Times New Roman'), ('font-size', '11pt'), ('margin-left', '0cm'), ('margin-right', '-0.049cm'), ('text-align', 'center'), ('text-indent', '0cm')]": "paragraph no-indent text-center",
@@ -39,6 +43,7 @@
                     "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0.501cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '-0.501cm')]": "paragraph no-indent font-size-small",
                     "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "paragraph no-indent font-size-small",
                     "[('font-size', '15pt')]": "font-size-large",
+                    "[('font-size', '5pt'), ('letter-spacing', '-0.007cm')]": "font-size-small",
                     "[('letter-spacing', '-0.004cm')]": "",
                     "[('letter-spacing', '-0.005cm')]": "",
                     "[('letter-spacing', '-0.007cm')]": "",
@@ -202,6 +207,38 @@
                         },
                         "action": {
                             "tag": "{http://www.tei-c.org/ns/1.0}seg"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}pb",
+                            "attrs": [
+                                {
+                                    "name": "n",
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "action": {
+                            "delete": true
+                        }
+                    },
+                    {
+                        "match": {
+                            "text": " "
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg",
+                            "attrs": {
+                                "style": null
+                            }
                         }
                     }
                 ]
