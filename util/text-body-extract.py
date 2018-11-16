@@ -10,7 +10,7 @@ from lxml import etree
 NS = {'office': 'urn:oasis:names:tc:opendocument:xmlns:office:1.0',
       }
 SAVE_IT = None
-
+SEQUENCES = {}
 
 def display_element(element, styles):
     """Test whether the given element should be displayed."""
@@ -168,6 +168,12 @@ def modify_elements(element, rules):
                             del element.attrib[key]
                     elif value == 'text()':
                         element.attrib[key] = element.text
+                    elif value.startswith("seq('") and value.endswith("')"):
+                        seq_name = value[5:-2]
+                        if seq_name not in SEQUENCES:
+                            SEQUENCES[seq_name] = 1
+                        element.attrib[key] = '%s%i' % (seq_name, SEQUENCES[seq_name])
+                        SEQUENCES[seq_name] = SEQUENCES[seq_name] + 1
                     else:
                         element.attrib[key] = value
             if 'text' in rule['action']:

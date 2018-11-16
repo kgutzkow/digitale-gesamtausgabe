@@ -1,0 +1,171 @@
+{
+    "workflow": [
+        {
+            "action": "trim-hidden"
+        },
+        {
+            "action": "trim-empty"
+        },
+        {
+            "action": "merge-styles",
+            "params": {
+                "extract_style_names": [
+                    "margin-left",
+                    "margin-right",
+                    "margin-top",
+                    "margin-bottom",
+                    "text-align",
+                    "text-indent",
+                    "font-name",
+                    "font-size",
+                    "letter-spacing",
+                    "font-style",
+                    "font-weight",
+                    "text-position"],
+                "style_mappings": {
+                    "[('font-style', 'normal'), ('font-weight', 'bold')]": "font-weight-bold",
+                    "[('font-style', 'normal')]": "",
+                    "[('font-size', '12pt'), ('letter-spacing', '-0.004cm')]": "font-size-medium",
+                    "[('letter-spacing', '-0.004cm')]": "",
+                    "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('font-style', 'italic'), ('margin-left', '0cm'), ('margin-right', '0cm'), ('text-align', 'justify'), ('text-indent', '0cm')]": "",
+                    "[('letter-spacing', '0.053cm')]": "",
+                    "[('font-name', 'Arial'), ('font-size', '9pt')]": "",
+                    "[('text-position', 'sub 58%')]": "sub",
+                    "[('font-style', 'normal'), ('letter-spacing', '-0.004cm')]": "",
+                    "[('font-style', 'normal'), ('letter-spacing', '0.004cm')]": "",
+                    "[('letter-spacing', '0.004cm')]": "",
+                    "[('font-size', '12pt'), ('letter-spacing', '0.004cm')]": "font-size-medium",
+                    "[('font-style', 'normal'), ('letter-spacing', '0.053cm')]": "",
+                    "[('font-style', 'normal'), ('font-weight', 'bold'), ('letter-spacing', '-0.004cm')]": "font-weight-bold",
+                    "[('font-size', '12pt')]": "font-size-medium",
+                    "[('letter-spacing', '0.035cm')]": "",
+                    "[('font-style', 'normal'), ('font-weight', 'bold'), ('letter-spacing', '-0.007cm')]": "font-weight-bold",
+                    "[('font-style', 'normal'), ('letter-spacing', '-0.007cm')]": "",
+                    "[('letter-spacing', '-0.007cm')]": ""
+                }
+            }
+        },
+        {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "text": "\u00a0"
+                        },
+                        "action": {
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "text": " "
+                        },
+                        "action": {
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "action": "simplify-tree"
+        },
+        {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}body"
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}interpGrp",
+                            "attrs": {
+                                "type": "individual"
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}p"
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}interp",
+                            "attrs": {
+                                "{http://www.w3.org/XML/1998/namespace}id": "seq('note')"
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-weight-bold"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}citedRange",
+                            "attrs": {
+                                "style": null,
+                                "type": "page-line-ref"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "action": "simplify-tree"
+        },
+        {
+            "action": "strip-whitespace"
+        }
+    ],
+    "post-process": [
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "\\[...\\]",
+                "replace": "{{ellipsis}}"
+            }
+        },
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "<tei:span>([^\\]]+)\\]",
+                "replace": "  <tei:citedRange type=\"word-range\">\\g<1></tei:citedRange>\n    </tei:bibl>\n    <tei:span>"
+            }
+        },
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "{{ellipsis}}",
+                "replace": "[...]"
+            }
+        },
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "> ",
+                "replace": ">"
+            }
+        },
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "\n    <tei:citedRange",
+                "replace": "\n    <tei:bibl>\n      <tei:citedRange"
+            }
+        }
+    ]
+}
