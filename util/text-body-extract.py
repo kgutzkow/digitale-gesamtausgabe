@@ -197,6 +197,28 @@ def modify_elements(element, rules):
         modify_elements(child, rules)
 
 
+def extract_word_range(element):
+    if element.tag == '{http://www.tei-c.org/ns/1.0}interp':
+        new_children = []
+        for child in list(element):
+            if child.tag == '{http://www.tei-c.org/ns/1.0}span' and ']' in child.text.replace('[...]', '{{ellipsis}}'):
+                text = child.text.replace('[...]', '{{ellipsis}}')
+                text_range = etree.Element('{http://www.tei-c.org/ns/1.0}citedRange')
+                text_range.attrib['type'] = 'word-range'
+                text_range.text = text[:text.find(']')].replace('{{ellipsis}}', '[...]')
+                new_children.append(text_range)
+                child.text = text[text.find(']') + 1:]
+                new_children.append(child)
+            else:
+                new_children.append(child)
+            element.remove(child)
+        for child in new_children:
+            element.append(child)
+    else:
+        for child in element:
+            extract_word_range(child)
+
+
 def apply_post_processing(root, styles, steps):
     """Apply the post-processing steps from the configuration."""
     for step in steps:
@@ -218,6 +240,8 @@ def apply_post_processing(root, styles, steps):
             simplify_tree(root, **(step['params'] if 'params' in step else {}))
         elif step['action'] == 'modify-elements':
             modify_elements(root, **step['params'])
+        elif step['action'] == 'extract-word-range':
+            extract_word_range(root)
 
 
 def apply_text_processing(text, steps):

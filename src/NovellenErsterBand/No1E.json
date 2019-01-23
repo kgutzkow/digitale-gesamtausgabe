@@ -29,7 +29,7 @@
                     "[('font-size', '12pt'), ('letter-spacing', '0.004cm')]": "font-size-medium",
                     "[('font-size', '12pt'), ('letter-spacing', '-0.0016in')]": "font-size-medium",
                     "[('font-size', '12pt')]": "font-size-medium",
-                    "[('font-name', 'Arial'), ('font-size', '9pt')]": "font-size-small",
+                    "[('font-name', 'Arial'), ('font-size', '9pt')]": "font-arial",
                     "[('font-style', 'normal'), ('font-weight', 'bold'), ('letter-spacing', '-0.004cm')]": "font-weight-bold",
                     "[('font-style', 'normal'), ('font-weight', 'bold'), ('letter-spacing', '-0.007cm')]": "font-weight-bold",
                     "[('font-style', 'normal'), ('font-weight', 'bold'), ('letter-spacing', '-0.0028in')]": "font-weight-bold",
@@ -83,6 +83,22 @@
                             "text": " "
                         },
                         "action": {
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-arial"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}foreign",
                             "attrs": {
                                 "style": null
                             }
@@ -142,6 +158,9 @@
             }
         },
         {
+            "action": "extract-word-range"
+        },
+        {
             "action": "simplify-tree"
         },
         {
@@ -152,36 +171,8 @@
         {
             "action": "regex-replace",
             "params": {
-                "regex": "\\[...\\]",
-                "replace": "{{ellipsis}}"
-            }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
-                "regex": "<tei:span>([^\\]]+)\\]",
-                "replace": "  <tei:citedRange type=\"word-range\">\\g<1></tei:citedRange>\n    </tei:bibl>\n    <tei:span>"
-            }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
-                "regex": "{{ellipsis}}",
-                "replace": "[...]"
-            }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
                 "regex": "> ",
                 "replace": ">"
-            }
-        },
-        {
-            "action": "regex-replace",
-            "params": {
-                "regex": "\n    <tei:citedRange",
-                "replace": "\n    <tei:bibl>\n      <tei:citedRange"
             }
         }
     ]
