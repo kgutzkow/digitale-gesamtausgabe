@@ -21,7 +21,7 @@ def merge_text(header, body, output, individual_annotations):
     text.append(body)
     if individual_annotations:
         text.append(etree.parse(individual_annotations).getroot())
-    output.write(etree.tostring(document, xml_declaration=True, encoding="UTF-8"))
+    output.write(etree.tostring(document, xml_declaration=True, pretty_print=True, encoding="UTF-8"))
 
 if __name__ == '__main__':
     merge_text()
