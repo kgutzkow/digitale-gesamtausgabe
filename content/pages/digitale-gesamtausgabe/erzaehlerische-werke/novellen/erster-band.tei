@@ -165,8 +165,16 @@
         <tei:hi style="font-size-medium">f. Novelle.</tei:hi>
       </tei:p>
       <tei:p style="paragraph no-indent">
-        <tei:hi style="font-size-medium letter-sparse">Die Sterbecassire</tei:hi>
-        <tei:hi style="font-size-medium">r. Bambocciade.</tei:hi>
+        <tei:hi style="font-size-medium letter-sparse">Die </tei:hi>
+        <tei:ref target="#note4">
+          <tei:hi style="font-size-medium letter-sparse">Sterbecassire</tei:hi>
+        </tei:ref>
+        <tei:ref target="#note4">
+          <tei:hi style="font-size-medium">r</tei:hi>
+        </tei:ref>
+        <tei:hi style="font-size-medium">. </tei:hi>
+        <tei:ref target="#note5">Bambocciade</tei:ref>
+        <tei:hi style="font-size-medium">.</tei:hi>
       </tei:p>
       <tei:p style="paragraph no-indent">
         <tei:hi style="font-size-medium letter-sparse">Geständnisse einer Perrück</tei:hi>
@@ -1254,24 +1262,35 @@
         <tei:seg> nicht von Jedem angenommen werden soll, dann möchte man glauben, das alte Fatum sei von den christlichen Göttern zwar um seine Altäre und Opfer gebracht, aber mediatisirt und mit Sitz und Stimme in der Regierung der Welt gelassen worden.</tei:seg>
       </tei:p>
       <tei:head type="level-1">
-        <tei:seg>Die  Sterbecassirer.</tei:seg>
+        <tei:seg>Die </tei:seg>
+        <tei:ref target="#note4">Sterbecassirer</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:head>
       <tei:head type="level-2">
-        <tei:seg>Bambocciade.</tei:seg>
+        <tei:ref target="#note5">Bambocciade</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:head>
       <tei:p style="paragraph no-indent">
         <tei:seg>Drei, vier, fünf!</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Fünf Uhr, und der spindeldünne, schwarze, gespenstige Küster zur St. Bethlehemskirche im Ostsüdostende von Berlin tritt mit einem klirrenden Schlüsselbunde aus dem kleinen Sacristeipförtchen an die großen Kirchenthüren, um sie aufzuschließen, und die Orgel beginnt ein schwellendes Recitativ, und der Tempel des Herrn speit allmählig die Kinder der Gerechtigkeit aus.</tei:seg>
+        <tei:seg>Fünf Uhr, und der spindeldünne, schwarze, gespenstige Küster zur </tei:seg>
+        <tei:ref target="#note6">St. Bethlehemskirche im Ostsüdostende von Berlin</tei:ref>
+        <tei:seg> tritt mit einem klirrenden Schlüsselbunde aus dem kleinen Sacristeipförtchen an die großen Kirchenthüren, um sie aufzuschließen, und die Orgel beginnt ein schwellendes Recitativ, und der Tempel des Herrn speit allmählig die </tei:seg>
+        <tei:ref target="#note7">Kinder der Gerechtigkeit</tei:ref>
+        <tei:seg> aus.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Da wanken sie her, diese begnadigten Gestalten, mit ihren verzückten Augen, ihren wiedergebornen Leibern, ihren gerechtfertigten Kleidern der Unschuld, und blicken schmerzhaft in die Straßen dieser sündvollen Welt, der sie auf den Flügeln der gotttrunkenen Rede ihres Seelenhirten kaum ent-</tei:seg>
+        <tei:ref target="#note8">Da wanken sie her, diese begnadigten Gestalten, mit ihren verzückten Augen, ihren wiedergebornen Leibern, ihren gerechtfertigten Kleidern der Unschuld, und blicken schmerzhaft in die Straßen dieser sündvollen Welt, der sie auf den Flügeln der gotttrunkenen Rede ihres Seelenhirten kaum ent-</tei:ref>
         <tei:pb n="110"/>
-        <tei:seg>rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren.</tei:seg>
+        <tei:ref target="#note8">rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren.</tei:ref>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>„Das waren heute Worte des ewigen Lebens!“ sagt hier eine Schwester zu einem geistlichen Bruder, der ihr seine bescheidene Tabatiere von Nußholz offerirt, und Jener erwiedert: „Ach! es war wie das liebliche Rauschen der Weiden am Bache Kidron!“ und ein Anderer sieht in die blaue Luft und spricht: „So stieg ich empor, wie die girrende Taube von Naphthali!“ und ein Letzter sieht auf die Pflastersteine und seufzt mit einem kolossalen Gleichnisse: „So wankte mein Gebein, daß ich niedersinken mochte, wie ein Opferstier, dem der Priester den Hirnschäd­el einschlägt!“</tei:seg>
+        <tei:seg>„Das waren heute Worte des ewigen Lebens!“ sagt hier eine Schwester zu einem geistlichen Bruder, der ihr seine bescheidene Tabatiere von Nußholz offerirt, und Jener erwiedert: „Ach! es war wie das </tei:seg>
+        <tei:ref target="#note9">liebliche Rauschen der Weiden am Bache Kidron</tei:ref>
+        <tei:seg>!“ und ein Anderer sieht in die blaue Luft und spricht: „So stieg ich empor, </tei:seg>
+        <tei:ref target="#note10">wie die girrende Taube von Naphthali</tei:ref>
+        <tei:seg>!“ und ein Letzter sieht auf die Pflastersteine und seufzt mit einem kolossalen Gleichnisse: „So wankte mein Gebein, daß ich niedersinken mochte, wie ein Opferstier, dem der Priester den Hirnschäd­el einschlägt!“</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Doch noch stecken die jubelnden Seelen in ihren irdischen Leibern und Leibröcken, noch ruft des Tags geschäftiger Lärm einen Jeden zu den Kreisen seiner Thätigkeit, oder, da es heute Sonntag ist, seiner mäßigen Erholung.</tei:seg>
@@ -1282,57 +1301,106 @@
         <tei:seg>Hände, fragt nach der Uhr, bittet um eine Abschiedsprise, und bald ist man alleine mit seinen Wünschen, seinen Rührungen, seinen Pflichten.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Die vornehmen Kinder Gottes, die mystischen Generale und Kammerpräsidenten, sind schon längst nach Hause geeilt, ängstlich sich umblickend, ob wo ein höherer Chef, oder ein Sub­altern, oder ein witziger Bekannter diesen seltsamen Gang bemerkt habe; sie treffen daheim vielleicht schon die älteste Tochter im Ballstaate und den Wagen vor der Thür, um sie in Robert den Teufel abzuholen; sie werfen einen erbärmlichen Blick auf die weltliche Mutter, und schleichen in ihr Kämmerlein, um sich in der Langmuth und Duldung zu stärken.</tei:seg>
+        <tei:ref target="#note11">Die vornehmen Kinder Gottes, die mystischen Generale und Kammerpräsidenten</tei:ref>
+        <tei:seg>, sind schon längst nach Hause geeilt, ängstlich sich umblickend, ob wo ein höherer Chef, oder ein Sub­altern, oder ein witziger Bekannter diesen seltsamen Gang bemerkt habe; sie treffen daheim vielleicht schon </tei:seg>
+        <tei:ref target="#note12">die älteste Tochter im Ballstaate und den Wagen vor der Thür, um sie in Robert den Teufel abzuholen</tei:ref>
+        <tei:seg>; sie werfen einen erbärmlichen Blick auf die weltliche Mutter, und schleichen in ihr Kämmerlein, um sich in der Langmuth und Duldung zu stärken.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Andere sind auf dem Wege, ihre weitläuftigen Verwandten zu besuchen, oder einen einsamen Spaziergang zu entdecken, oder einen wasserleeren Graben, wo sie, von den sinkenden Sonnenstrahlen und den Mücken gestochen, ihr anspruchloses Abendmahl verzehren.</tei:seg>
+        <tei:seg>Andere sind auf dem Wege, ihre weitläuftigen Verwandten zu besuchen, oder einen </tei:seg>
+        <tei:ref target="#note13">einsamen Spaziergang zu entdecken, oder einen wasserleeren Graben, wo sie, von den sinkenden Sonnenstrahlen und den Mücken gestochen, ihr anspruchloses Abendmahl verzehren</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Einigen aber, die sich zur großen Friedrichsstraße wenden, dann in die Kochstraße links, in die Charlottenstraße, den Foyer der Conventikel, rechts und endlich halbrechts in die anmuthige, </tei:seg>
+        <tei:seg>Einigen aber, die sich </tei:seg>
+        <tei:ref target="#note14">
+          <tei:seg>zur großen Friedrichsstraße wenden, dann in die Kochstraße links, in die Charlottenstraße, den Foyer der Conventikel, rechts und endlich halbrechts in die anmuthige, </tei:seg>
+        </tei:ref>
         <tei:pb n="112"/>
-        <tei:seg>schattige Lindenstraße lenken, folgt die Muse, sie belauscht ihre Gespräche und giebt uns Rechenschaft über ihre Absichten.</tei:seg>
+        <tei:ref target="#note14">
+          <tei:seg>schattige Lindenstraße lenken</tei:seg>
+        </tei:ref>
+        <tei:seg>, folgt die Muse, sie belauscht ihre Gespräche und giebt uns Rechenschaft über ihre Absichten.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Es sind schlichte, einfache Bürger in blauen Oberröcken oder schwarzen Fräcken, von denen jene immer das zu lang, was diese zu kurz sind; es ist ein bescheidenes Juste milieu der geistlichen Kindschaft, das ihnen aus den Augen sieht; sie unterhalten ihre Frauen, von denen sie nach der sonderbaren Galanterie dieser Leute immer zwei Schritte voraus sind, zu­weilen noch von zeitlichen Dingen, von dem bankerotten Besitzer dieses Hauses, der neuen Anstellung jenes Miethers im dritten Stock, von dem großen Loose, von der neuen Fontaine, von der unglücklichen Niederkunft einer Prinzessin, kurz, sie scheinen allmählig aufzuwachen aus ihren mystischen Träumen und die Sprache, in der die Dinge dieser Welt reden, wieder zu verstehen.</tei:seg>
+        <tei:seg>Es sind </tei:seg>
+        <tei:ref target="#note16">schlichte, einfache Bürger in blauen Oberröcken oder schwarzen Fräcken</tei:ref>
+        <tei:seg>, von denen jene immer das zu lang, was diese zu kurz sind; es ist ein </tei:seg>
+        <tei:ref target="#note17">bescheidenes Juste milieu der geistlichen Kindschaft</tei:ref>
+        <tei:seg>, das ihnen aus den Augen sieht; sie unterhalten ihre Frauen, von denen sie </tei:seg>
+        <tei:ref target="#note18">nach der sonderbaren Galanterie dieser Leute immer zwei Schritte voraus sind</tei:ref>
+        <tei:seg>, zu­weilen noch von zeitlichen Dingen, von dem bankerotten Besitzer dieses Hauses, der neuen Anstellung jenes Miethers im dritten Stock, von dem großen Loose, von der </tei:seg>
+        <tei:ref target="#note19">neuen Fontaine</tei:ref>
+        <tei:seg>, von der unglücklichen Niederkunft einer Prinzessin, kurz, sie scheinen allmählig aufzuwachen aus ihren mystischen Träumen und die Sprache, in der die Dinge dieser Welt reden, wieder zu verstehen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Doch jetzt nahen sich die zärtlichen Ehepaare dem Kammergericht, sie werden schweigsamer, indem sie um die Ecke biegen, ihre Blicke hören auf, unbewacht umherzuschweifen, die Gatten halten fester zusammen, sie mäßigen ihre Schritte, und versinken aufs Neue in einen dämmernden Zustand.</tei:seg>
+        <tei:seg>Doch jetzt nahen sich die zärtlichen Ehepaare dem </tei:seg>
+        <tei:ref target="#note20">Kammergericht</tei:ref>
+        <tei:seg>, sie werden schweigsamer, indem sie um die Ecke biegen, ihre Blicke hören auf, unbewacht umherzuschweifen, die Gatten halten fester zusammen, sie mäßigen ihre Schritte, und versinken aufs Neue in einen dämmernden Zustand.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:pb n="113"/>
         <tei:seg> Wovor erschrecken sie? warum diese Leichenbittermiene? sehen sie Gespenster?</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Allerdings; es ist ein Grabesfrösteln, das sie plötzlich überkommt. Sie fühlen ihre Lippen bleicher werden, sie hören das grausame Oktoedron, Sarg genannt, mit hohlen Schlägen zimmern, sie erblicken sich im weißen Sterbemusselin, eine Zitrone in der Hand und ein Leichentuch vor dem Mund, die Stricke rasseln an dem sinkenden schwarzen Holze und die Erdschollen fallen polternd in die frostige Grube.</tei:seg>
+        <tei:seg>Allerdings; es ist ein Grabesfrösteln, das sie plötzlich überkommt. Sie fühlen ihre Lippen bleicher werden, sie hören das grausame </tei:seg>
+        <tei:ref target="#note21">Oktoedron</tei:ref>
+        <tei:seg>, Sarg genannt, mit hohlen Schlägen zimmern, sie erblicken sich im </tei:seg>
+        <tei:ref target="#note22">weißen Sterbemusselin, eine Zitrone in der Hand</tei:ref>
+        <tei:seg> und ein Leichentuch vor dem Mund, die Stricke rasseln an dem sinkenden schwarzen Holze und die Erdschollen fallen polternd in die frostige Grube.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Leise fragt der Gatte sein zitterndes Weib: „Sophie, Du hast das Quartalbuch nicht vergessen?“ – „Nein, Gottlieb!“ Und nach einer ängstlichen Pause fährt Gottlieb fort: „Sophie, Du hast die sechszehn Groschen im Beutel?“ – „Ja, Gottlieb,“ sagt die arme Sophie, „ich habe sie in Papier und dann in mein Taschentuch gewickelt.“ Und Gottlieb nickt beifällig und wischt sich eine Thräne aus dem Auge.</tei:seg>
+        <tei:ref target="#note23">Leise fragt der Gatte sein zitterndes Weib: „Sophie, Du hast das Quartalbuch nicht vergessen?“ – „Nein, Gottlieb!“ Und nach einer ängstlichen Pause fährt Gottlieb fort: „Sophie, Du hast die </tei:ref>
+        <tei:ref target="#note25">sechszehn Groschen</tei:ref>
+        <tei:ref target="#note23"> im Beutel?“ – „Ja, Gottlieb,“ sagt die arme Sophie, „ich habe sie in Papier und dann in mein Taschentuch gewickelt.</tei:ref>
+        <tei:seg>“ Und Gottlieb nickt beifällig und wischt sich eine Thräne aus dem Auge.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Im Schattenreich kann man auf den Nachen des Charon nicht so ängstlich warten, als die liebevollen Ehepaare, deren Gespräche und Mienen wir so dreist belauscht haben, vor einem kleinen Häus-</tei:seg>
+        <tei:seg>Im Schattenreich kann man auf den </tei:seg>
+        <tei:ref target="#note26">Nachen des Charon</tei:ref>
+        <tei:seg> nicht so ängstlich warten, als die liebevollen Ehepaare, deren Gespräche und Mienen wir so dreist belauscht haben, vor einem kleinen Häus-</tei:seg>
         <tei:pb n="114"/>
         <tei:seg>chen harren, an dessen Eingange zwei breitlaubige Linden ihren süßen, würzigen Duft verbreiten.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Wie schneidend sind die Contraste im Leben! Während hier die Hinfälligkeit sich die Hände drückt und zwei Wesen, die sich in manchem Jahre den sauern Lebensschweiß von der Stirn getrocknet haben, in Todesgedanken versunken stehen, rauscht nur hundert Schritte weiter das tolle Gewühl der lebensfrohen Spaziergänger zum Thore hinaus, um sich in den Strudel der Vergnügungen zu stürzen. Ein Wagen sucht dem andern den Vorrang abzugewinnen, Stutzer, auf den besten englischen Rennern, lorgnettiren die Schönen, die in den herrlichen Equipagen vorüberfliegen und vergebens ihre Reize unter dem verführerischen Gazeschleier verbergen. Wird heute im Tivoli ein Eskamoteur das Becherspiel des genialen Bosko produciren? werden die Alpensänger vielleicht die berühmten Variationen auf den Schweizerbuben trällern? wird eine Ventriloquistin aus dem Bauche Komödien aufführen, oder soll gegen Nacht eine Citadelle erstürmt, und mit bengalischem Feuer in die Luft gesprengt werden? Welche Erwartungswonne, welche Lebenslust auf allen Gesichtern! und welch sonderbare Contraste </tei:seg>
+        <tei:seg>Wie schneidend sind die Contraste im Leben! Während hier die Hinfälligkeit sich die Hände drückt und zwei Wesen, die sich in manchem Jahre den sauern Lebensschweiß von der Stirn getrocknet haben, in Todesgedanken versunken stehen, rauscht nur hundert Schritte weiter das </tei:seg>
+        <tei:ref target="#note30">tolle Gewühl der lebensfrohen Spaziergänger zum Thore hinaus, um sich in den Strudel der Vergnügungen zu stürzen. Ein Wagen sucht dem andern den Vorrang abzugewinnen, Stutzer, auf den besten englischen Rennern, lorgnettiren die Schönen, die in den herrlichen Equipagen vorüberfliegen und vergebens ihre Reize unter dem verführerischen Gazeschleier verbergen.</tei:ref>
+        <tei:seg> Wird heute </tei:seg>
+        <tei:ref target="#note31">im Tivoli</tei:ref>
+        <tei:seg> ein Eskamoteur das </tei:seg>
+        <tei:ref target="#note32">Becherspiel des genialen Bosko</tei:ref>
+        <tei:seg> produciren? werden die </tei:seg>
+        <tei:ref target="#note33">Alpensänger vielleicht die berühmten Variationen auf den Schweizerbuben trällern</tei:ref>
+        <tei:seg>? wird eine Ventriloquistin aus dem Bauche Komödien aufführen, oder soll gegen Nacht eine Citadelle erstürmt, und mit bengalischem Feuer in die Luft gesprengt werden? Welche Erwartungswonne, welche Lebenslust auf allen Gesichtern! und welch sonderbare Contraste </tei:seg>
         <tei:pb n="115"/>
         <tei:seg>auf einem Raum von hundert oder, wenn man sie länger nimmt, von achtzig Schritten!</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Was sind aber nun Sterbekassirer? was hat die Mystik mit ihnen und die Lindenstraße mit beiden zu schaffen? wozu dienen die sechszehn Groschen, die Sophie in ein Papier und in ihr Taschentuch gewickelt hat, wozu das Quartalbuch, wornach Gottlieb so ängstlich fragte? Der Erfahrne wird es längst errathen haben, den Uneingeweihten aber sollen die nachfolgenden Erläuterungen aufklären.</tei:seg>
+        <tei:seg>Was sind aber nun Sterbekassirer? was hat die Mystik mit ihnen und die Lindenstraße mit beiden zu schaffen? wozu dienen die </tei:seg>
+        <tei:ref target="#note25">sechszehn Groschen</tei:ref>
+        <tei:seg>, die </tei:seg>
+        <tei:ref target="#note24">Sophie in ein Papier und in ihr Taschentuch gewickelt hat, wozu das Quartalbuch, wornach Gottlieb</tei:ref>
+        <tei:seg> so ängstlich fragte? Der Erfahrne wird es längst errathen haben, den Uneingeweihten aber sollen die nachfolgenden Erläuterungen aufklären.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Saturn verschlingt seine eigenen Kinder. Der Zauberkreis der Heiligkeit und Ehrfurcht, der um die Schöpfungen grauer Jahrhunderte gezogen war, hat sich aufgelöst. Die Achtung vor diesen alten Institutionen ist mit dem Glauben an sie untergegangen. Wenn feindliche Lehren sich damit begnügten, die morschen, verfallenen Seiten dieser ehrwürdigen Gebäude aufzudecken, so glaubte der Uebermuth und die Keckheit den Beruf zu haben, sie ihrer Stützen zu berauben und sie bis auf den Grund zu zerstören. Das ist das Schicksal unzähliger Sitten und Einrichtungen gewesen, in denen Völker und Zeiten ihre Lust und ihr Glück gefunden haben, das ist die Aussicht, die noch vielen </tei:seg>
+        <tei:ref target="#note35">Saturn verschlingt seine eigenen Kinder.</tei:ref>
+        <tei:seg> Der Zauberkreis der Heiligkeit und Ehrfurcht, der um die Schöpfungen grauer Jahrhunderte gezogen war, hat sich aufgelöst. Die Achtung vor diesen alten Institutionen ist mit dem Glauben an sie untergegangen. Wenn feindliche Lehren sich damit begnügten, die morschen, verfallenen Seiten dieser ehrwürdigen Gebäude aufzudecken, so glaubte der Uebermuth und die Keckheit den Beruf zu haben, sie ihrer Stützen zu berauben und sie bis auf den Grund zu zerstören. Das ist das Schicksal unzähliger Sitten und Einrichtungen gewesen, in denen Völker und Zeiten ihre Lust und ihr Glück gefunden haben, das ist die Aussicht, die noch vielen </tei:seg>
         <tei:pb n="116"/>
-        <tei:seg>Resten unsrer alten Zustände droht. Haben sie dazu gedient, irgend eine Mühe der menschlichen Existenz zu erleichtern, so sind zwar die Bedürfnisse dieselben geblieben, aber die Art ihrer Befriedigung hat sich mannigfach geändert. An die Stelle der alten Ueberlieferungen sind neue Einrichtungen getreten, die zwar selten das Zeugniß der Erfahrung, immer aber das Vorurtheil der Neuheit für sich haben.</tei:seg>
+        <tei:seg>Resten unsrer alten Zustände droht. Haben sie dazu gedient, irgend eine Mühe der menschlichen Existenz zu erleichtern, so sind zwar die Bedürfnisse dieselben geblieben, aber die Art ihrer Befriedigung hat sich mannigfach geändert. </tei:seg>
+        <tei:ref target="#note36">An die Stelle der alten Ueberlieferungen sind neue Einrichtungen getreten, die zwar selten das Zeugniß der Erfahrung, immer aber </tei:ref>
+        <tei:ref target="#note37">das Vorurtheil der Neuheit</tei:ref>
+        <tei:ref target="#note36"> für sich haben.</tei:ref>
+        <tei:seg></tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Alle Kreise des menschlichen Daseins mußten diese Krisis überstehen. Den großartigen Veränderungen, die die Wissen­schaft, die Kunst, das gesellschaftliche Leben, ja selbst der Glaube an die Gottheit erlitten, entsprachen die neuen Begriffe über die Stellung der bürgerlichen Stände, ihrer Vorrechte, ihrer Ansprüche, ihrer wechselseitigen Beziehungen. Der Staat, die Regierung, die Verfassung des Gelehrtenstandes sind nach neuen Lehren gemodelt worden, und selbst die Zunfteinrichtung der Handwerke ist auf dem Puncte, als ein hülfloses Gebäude zusammenzustürzen.</tei:seg>
+        <tei:ref target="#note38">Alle Kreise des menschlichen Daseins mußten diese Krisis überstehen. Den großartigen Veränderungen, die die Wissen­schaft, die Kunst, das gesellschaftliche Leben, ja selbst der Glaube an die Gottheit erlitten, entsprachen die neuen Begriffe über die Stellung der bürgerlichen Stände, ihrer Vorrechte, ihrer Ansprüche, ihrer wechselseitigen Beziehungen. Der Staat, die Regierung, die Verfassung des Gelehrtenstandes sind nach neuen Lehren gemodelt worden, und selbst die Zunfteinrichtung der Handwerke ist auf dem Puncte, als ein hülfloses Gebäude zusammenzustürzen.</tei:ref>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Tausend Dinge haben sich vereinigt, um hier die entschiedensten Folgen nach sich zu ziehen. Die Zünfte, schon lange nicht mehr mit einem nach Außen gerichteten, einflußreichen Ansehen bekleidet, vermö-</tei:seg>
         <tei:pb n="117"/>
-        <tei:seg>gen nur noch einige unwesent­liche Vorschriften ihrer innern Verfassung aufrecht zu erhalten. Wie könnte auch am Tage ihrer gänzlichen Vernichtung den Zerstörern die Freude entzogen werden dürfen, daß sie wohl gar nichts mehr zu zertrümmern vorfänden? und doch wird man auch hierin täglich lässiger. Das Wandern der Zunftgenossen ist nichts mehr, als entweder bei den Armen ein ehrbarer Schein für die Bettelnden, oder bei den Vermögenden das Studium neuer Vorrichtungen, die mit Dampf- und Maschinenwerk ihr eigenes Metier zu Grunde richten. Ueber all die erbaulichen Sprüchlein, die sich sonst die Innungsverwandten zum Gruß in fremden Oertern zurufen mußten, über diese ehrwürdige Tabulatur der handwerksmäßigen Conversationssprache lachen jetzt die aufgeklärten Glaser, die mit dem Zeitalter der Revolution und den zertrümmerten Julilaternen Alles gewonnen haben, lachen die Kleiderkünstler, die schon längst an der Spitze der Civilisation stehen, lachen selbst die ergrimmten Weber, die mit den Maschinen, mit der Aufklärung Alles verloren.</tei:seg>
+        <tei:seg>gen nur noch einige unwesent­liche Vorschriften ihrer innern Verfassung aufrecht zu erhalten. Wie könnte auch am Tage ihrer gänzlichen Vernichtung den Zerstörern die Freude entzogen werden dürfen, daß sie wohl gar nichts mehr zu zertrümmern vorfänden? und doch wird man auch hierin täglich lässiger. Das Wandern der Zunftgenossen ist nichts mehr, als entweder bei den Armen ein ehrbarer Schein für die Bettelnden, oder bei den Vermögenden das Studium neuer Vorrichtungen, die mit Dampf- und Maschinenwerk ihr eigenes Metier zu Grunde richten. Ueber all die erbaulichen Sprüchlein, die sich sonst die Innungsverwandten zum Gruß in fremden Oertern zurufen mußten, über diese </tei:seg>
+        <tei:ref target="#note40">ehrwürdige Tabulatur der handwerksmäßigen Conversationssprache</tei:ref>
+        <tei:seg> lachen jetzt die aufgeklärten Glaser, die mit dem Zeitalter der Revolution und den zertrümmerten Julilaternen Alles gewonnen haben, lachen die Kleiderkünstler, die schon längst an der Spitze der Civilisation stehen, lachen selbst die ergrimmten Weber, die mit den Maschinen, mit der Aufklärung Alles verloren.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Und so sind der Bindemittel immer weniger geworden, der Dilettantismus hat die Autoritäten ge-</tei:seg>
@@ -1340,15 +1408,23 @@
         <tei:seg>stürzt, und nur für einen Zweck ist die Verfassung der Altmeister und Altgesellen noch in Ehren geblieben, für die Sterbecassen. Man resignirte auf die gemeinsamen Güter, die das Leben hätte bieten können, und begnügte sich, nach seinem Tode eine Hand zu wissen, die sich aus dem Geschäft des christlichen Begräbnisses eine heilige Pflicht machte.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Zur Zeit der französischen Revolution, als man mit dem Menschenleben ein so lustiges, leichtfertiges Spiel trieb, begann man namentlich in Deutschland an eine Sicherstellung seines Leichnams und derer, die an ihm weinten, zu denken. Von diesem Augenblicke und diesen Besorgnissen an wurde eine unglaubliche Sorgfalt auf Wittwen- und Sterbecassen verwandt. Man pries sich glücklich, sein geliebtes Weib mit funfzig Thalern in die Königl. Preußische Offizierswittwencasse, auch ohne Offizier zu sein, einschmuggeln zu können, und ehe man noch auf den Gedanken kam, größere Privatgesellschaften zu einem solchen, Tod und Leben garantirenden Zwecke zu vereinigen, warf man sich den Gewerken in die Arme, die zwar nur für ihre eigenen siechen oder verstorbenen Körper ein bestimmtes Vermögen verwalteten, dennoch aber die Un-</tei:seg>
+        <tei:seg>Zur Zeit der französischen Revolution, als man mit dem Menschenleben ein so lustiges, leichtfertiges Spiel trieb, begann man namentlich in Deutschland an eine Sicherstellung seines Leichnams und derer, die an ihm weinten, zu denken. Von diesem Augenblicke und diesen Besorgnissen an wurde eine unglaubliche Sorgfalt auf Wittwen- und Sterbecassen verwandt. Man pries sich glücklich, sein geliebtes Weib mit funfzig Thalern in die Königl. Preußische Offizierswittwencasse, auch ohne Offizier zu sein, </tei:seg>
+        <tei:ref target="#note45">einschmuggeln</tei:ref>
+        <tei:seg> zu können, und ehe man noch auf den Gedanken kam, größere Privatgesellschaften zu einem solchen, Tod und Leben garantirenden Zwecke zu vereinigen, warf man sich den Gewerken in die Arme, die zwar nur für ihre eigenen siechen oder verstorbenen Körper ein bestimmtes Vermögen verwalteten, dennoch aber die Un-</tei:seg>
         <tei:pb n="119"/>
         <tei:seg>eigennützigkeit besaßen, dies Kapital auch von fremden Personen vermehren und sie an den Zinsen desselben Theil nehmen zu lassen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Auf diese Weise war in der norddeutschen Hauptstadt vor Napoleons Invasion eines jeden Familienvaters Begräbniß durch vierteljährige Beiträge gesichert, und die hinterlassene Wittwe war gewiß, von den Schornsteinfegern, oder den Klempnern, oder den Töpfern das zu dem wehmüthigen Geschäft des Einscharrens nöthige Geld zu erhalten, ohne daß sie je mit diesen Leuten anders in Berührung gekommen, als durch die monat­liche Reinigung ihres Rauchfanges, durch eine löcherige Kasserole, oder einen schlecht verkitteten Ofen.</tei:seg>
+        <tei:seg>Auf diese Weise war </tei:seg>
+        <tei:ref target="#note46">in der norddeutschen Hauptstadt</tei:ref>
+        <tei:seg> </tei:seg>
+        <tei:ref target="#note47">vor Napoleons Invasion</tei:ref>
+        <tei:seg> eines jeden Familienvaters Begräbniß durch vierteljährige Beiträge gesichert, und die hinterlassene Wittwe war gewiß, von den Schornsteinfegern, oder den Klempnern, oder den Töpfern das zu dem wehmüthigen Geschäft des Einscharrens nöthige Geld zu erhalten, ohne daß sie je mit diesen Leuten anders in Berührung gekommen, als durch die monat­liche Reinigung ihres Rauchfanges, durch eine löcherige Kasserole, oder einen schlecht verkitteten Ofen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Doch die Leiden der Invasion und der spätern Kriegsjahre brachten den meisten dieser menschenfreundlichen Institute den Untergang. Die Tyrannei griff ihre Capitalien an, die ansteckenden Fieber und die feindlichen Kanonenkugeln verwirrten ihre Rechnungen, man brauchte mehr, als man einnahm, kurz, man schloß die Cassen zu, zeigte die leeren Hände, und erklärte sich für bankerott. Nur einige wenige Gewerke konnten noch einige Thaler aufweisen.</tei:seg>
+        <tei:seg>Doch die Leiden der Invasion und der spätern Kriegsjahre brachten den meisten dieser </tei:seg>
+        <tei:ref target="#note48">menschenfreundlichen Institute</tei:ref>
+        <tei:seg> den Untergang. Die Tyrannei griff ihre Capitalien an, die ansteckenden Fieber und die feindlichen Kanonenkugeln verwirrten ihre Rechnungen, man brauchte mehr, als man einnahm, kurz, man schloß die Cassen zu, zeigte die leeren Hände, und erklärte sich für bankerott. Nur einige wenige Gewerke konnten noch einige Thaler aufweisen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:pb n="120"/>
@@ -1364,35 +1440,65 @@
         <tei:seg>Welcher Zufall rettete sie?</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Ich schweige von einer Sage, die schon lange unter den mystischen Webern canonisches Ansehen erhalten hat, als habe ein Engel jede Nacht die </tei:seg>
+        <tei:seg>Ich schweige von einer Sage, die schon lange unter den </tei:seg>
+        <tei:ref target="#note50">mystischen Webern</tei:ref>
+        <tei:seg> canonisches Ansehen erhalten hat, als habe ein Engel jede Nacht die </tei:seg>
         <tei:pb n="121"/>
-        <tei:seg>Summen wieder ersetzt, die am Tage von den Contributionscommissären geholt worden, und erwähne nur, daß einige Rationalisten das unleugbare Factum der Zahlungsfähigkeit auf einem menschlichern Wege erklären wollen.</tei:seg>
+        <tei:seg>Summen wieder ersetzt, die am Tage von den </tei:seg>
+        <tei:ref target="#note51">Contributionscommissären</tei:ref>
+        <tei:seg> geholt worden, und erwähne nur, daß einige </tei:seg>
+        <tei:ref target="#note52">Rationalisten</tei:ref>
+        <tei:seg> das unleugbare Factum der Zahlungsfähigkeit auf einem menschlichern Wege erklären wollen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Man weiß wie Rothschild zu seinen Reichthümern gekommen ist. Man weiß, daß er als Hofjude Sr. Hoheit des Höchst­seligen Kurfürsten von Hessen, die ihm während der Usurpation anvertrauten Gelder seines hohen Gönners an heimlichen und sichern Orten versteckt hielt und dafür einen ewigen, klingenden Dank einerndtete.</tei:seg>
+        <tei:seg>Man weiß </tei:seg>
+        <tei:ref target="#note53">wie Rothschild zu seinen Reichthümern gekommen ist. Man weiß, daß er als </tei:ref>
+        <tei:ref target="#note54">Hofjude</tei:ref>
+        <tei:ref target="#note53"> Sr. Hoheit des Höchst­seligen Kurfürsten von Hessen, die ihm während der Usurpation anvertrauten Gelder seines hohen Gönners an heimlichen und sichern Orten versteckt hielt und dafür einen ewigen, klingenden Dank einerndtete.</tei:ref>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Denselben Kunstgriff soll der Hauptcassirer aus der Lindenstraße befolgt haben. Er dachte an die Heiligkeit des fremden Eigenthums, an die Thränen derer, die es gesammelt und nun so schmählich vermissen würden, wenn der Todesengel am Kopfkissen ihres Hausvaters die Fackel senkte; er kannte einige gefahrlose Schlupfwinkel, und barg dorthin die Summen, die sich freilich auf diesem Wege nicht verinteressiren konnten. Doch der größte und für die nächsten Zwecke hinreichende Theil wurde erhal-</tei:seg>
+        <tei:seg>Denselben Kunstgriff soll der Hauptcassirer aus der Lindenstraße befolgt haben. Er dachte an die Heiligkeit des fremden Eigenthums, an die Thränen derer, die es gesammelt und nun so schmählich vermissen würden, wenn der </tei:seg>
+        <tei:ref target="#note55">Todesengel am Kopfkissen ihres Hausvaters die Fackel senkte</tei:ref>
+        <tei:seg>; er kannte einige gefahrlose Schlupfwinkel, und barg dorthin die Summen, die sich freilich auf diesem Wege nicht </tei:seg>
+        <tei:ref target="#note56">verinteressiren</tei:ref>
+        <tei:seg> konnten. Doch der größte und für die nächsten Zwecke hinreichende Theil wurde erhal-</tei:seg>
         <tei:pb n="122"/>
         <tei:seg>ten, und seither sind die Chatullen reichlich gesegnet, und trösten viele Hunderte in bangen und verzweifelten Stunden.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Schweigend, wie die Todtenrichter der Unterwelt, sitzen drei geisterhafte Gestalten an dem obern Ende eines langen Tisches, in einem niedern, von Lampenruß schwarz gefärbten Zimmer. Drei mächtige Folianten liegen vor ihnen aufgeschlagen, und sinnend und forschend schwebt eine leicht beschwingte Feder über dem weißen, nur hier und da von rothen Rubricatlinien durchzogenen Raum des steifen Notenpapiers. Der erste dieser männlichen Parzen hat vor sich das Buch des Lebens, der Zweite das des Todes, und der Letzte das des Begräbnisses. Und nun rechnen sie still und combiniren die Möglichkeiten der Erkrankten, oder Genesenen, oder Dahingegangenen, der Zahl, dem Alter und der Zeitdauer nach, und sie setzen von Hunderten, die so eben ausrufen mögen: zwanzig Jahre denk’ ich es noch mit anzusehen! und von aber Hunderten, die in diesem Augenblicke sich lebensfroh an die Brust schlagen, und auf ihre Gesundheit an die Zeit </tei:seg>
+        <tei:ref target="#note57">Schweigend, wie die Todtenrichter der Unterwelt, sitzen drei geisterhafte Gestalten an dem obern Ende eines langen Tisches, in einem niedern, von Lampenruß schwarz gefärbten Zimmer.</tei:ref>
+        <tei:seg> Drei mächtige Folianten liegen vor ihnen aufgeschlagen, und sinnend und forschend schwebt eine leicht beschwingte Feder über dem weißen, nur hier und da von rothen Rubricatlinien durchzogenen Raum des steifen Notenpapiers. Der erste dieser männlichen </tei:seg>
+        <tei:ref target="#note58">Parzen</tei:ref>
+        <tei:seg> hat vor sich das Buch des Lebens, der Zweite das des Todes, und der Letzte das des Begräbnisses. Und nun rechnen sie still und combiniren die Möglichkeiten der Erkrankten, oder Genesenen, oder Dahingegangenen, der Zahl, dem Alter und der Zeitdauer nach, und sie setzen von Hunderten, die so eben ausrufen mögen: zwanzig Jahre denk’ ich es noch mit anzusehen! und von aber Hunderten, die in diesem Augenblicke sich lebensfroh an die Brust schlagen, und auf ihre Gesundheit an die Zeit </tei:seg>
         <tei:pb n="123"/>
-        <tei:seg>trotzige Wechsel ausstellen, den grausamen, aber gewissen Fall, daß im Nu die Kette ihrer Lebensuhr gesprengt sein könnte. Die Phan­tasie dieses Triumvirats erschöpft sich in den Annahmen plötzlicher, cassengefährlicher Zufälle, imaginirt sich die schrecklichsten Plagen aus Pandorens Büchse, Pestilenz, hitzige Fieber, Cholera, und doch erschrecken die Sichern nicht; denn Alles stimmt in den Rechnungen, die Hülfsmittel sind für tausend unvorhergesehene Fälle berechnet, und man wird es diesen Repräsentanten der Gewissenhaftigkeit und Zahlungsfähigkeit nicht verargen, wenn sie zuweilen stolz ihr Haupt emporrichten, und den schwarzen Sammtdeckel darauf lüften, als wollten sie vor sich selbst salutiren.</tei:seg>
+        <tei:seg>trotzige Wechsel ausstellen, den grausamen, aber gewissen Fall, daß im Nu </tei:seg>
+        <tei:ref target="#note60">die Kette ihrer Lebensuhr gesprengt</tei:ref>
+        <tei:seg> sein könnte. Die Phan­tasie dieses Triumvirats erschöpft sich in den Annahmen plötzlicher, cassengefährlicher Zufälle, imaginirt sich </tei:seg>
+        <tei:ref target="#note61">die schrecklichsten Plagen aus Pandorens Büchse, Pestilenz, hitzige Fieber, </tei:ref>
+        <tei:ref target="#note73">Cholera</tei:ref>
+        <tei:ref target="#note61"></tei:ref>
+        <tei:seg>, und doch erschrecken die Sichern nicht; denn Alles stimmt in den Rechnungen, die Hülfsmittel sind für tausend unvorhergesehene Fälle berechnet, und man wird es diesen Repräsentanten der Gewissenhaftigkeit und Zahlungsfähigkeit nicht verargen, wenn sie zuweilen stolz ihr Haupt emporrichten, und den schwarzen Sammtdeckel darauf lüften, als wollten sie vor sich selbst salutiren.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Es klopft. Herein!</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Welche Complimente! welche Artigkeit! man sollte das diesen Altmeistern des löblichen Mousselin- und Leinwebergewerks nicht zutrauen. „Sie wollen Ihr Vierteljährliches berichtigen? dürfen wir Sie gefälligst um das Quartalbuch ersuchen? wie befindet sich dero werthe Gesundheit?“</tei:seg>
+        <tei:seg>Welche Complimente! welche Artigkeit! man sollte das </tei:seg>
+        <tei:ref target="#note62">diesen Altmeistern des löblichen Mousselin- und Leinwebergewerks</tei:ref>
+        <tei:seg> nicht zutrauen. „Sie wollen </tei:seg>
+        <tei:ref target="#note63">Ihr Vierteljährliches berichtigen</tei:ref>
+        <tei:seg>? dürfen wir Sie gefälligst um das Quartalbuch ersuchen? wie befindet sich dero werthe Gesundheit?“</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:pb n="124"/>
         <tei:seg> Verteufelte Frage! Im Munde dieser Todtenmänner wird jede Artigkeit zur Ironie. „Was geht sie meine Gesundheit an? Ich denke noch zehn Jahre zu leben, ich will noch für meine jüngste Tochter ein Heirathsgut erwerben, ich hoffe in Jahren noch nicht pensionirt zu werden. Das ist ja unverschämt, mich nach meiner Gesundheit zu fragen.“</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Natürlich werden diese Ausrufungen nicht laut; es sind nur werdende, nur Duodezgedanken, die vor Beklommenheit sehr schwach im Bewußtsein auftauchen. Man zahlt seinen Beitrag, versichert mit einigem Nachdruck, daß man, Gott sei Dank! noch recht munter sei, nimmt die Schmeicheleien der Rhadamanthe wegen seines vollen, runden, blühenden Aussehens mit lächelndem Triumphe an, wirft noch einige Groschen in die Armenbüchse des Gewerks und empfiehlt sich unter vielen Verbeugungen zu geneigter Vergessenheit.</tei:seg>
+        <tei:seg>Natürlich werden diese Ausrufungen nicht laut; es sind nur werdende, nur </tei:seg>
+        <tei:ref target="#note64">Duodezgedanken</tei:ref>
+        <tei:seg>, die vor Beklommenheit sehr schwach im Bewußtsein auftauchen. Man zahlt seinen Beitrag, versichert mit einigem Nachdruck, daß man, Gott sei Dank! noch recht munter sei, nimmt die Schmeicheleien der </tei:seg>
+        <tei:ref target="#note65">Rhadamanthe</tei:ref>
+        <tei:seg> wegen seines vollen, runden, blühenden Aussehens mit lächelndem Triumphe an, wirft noch einige Groschen in die Armenbüchse des Gewerks und empfiehlt sich unter vielen Verbeugungen zu geneigter Vergessenheit.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Diese Scene wiederholt sich an den Quartalsonntagen zu unzähligen Malen; aber man glaube nicht, daß in diesem einfachen, nur auf Höflichkei-</tei:seg>
@@ -1400,7 +1506,9 @@
         <tei:seg>ten und Geldannahme beschränkten Geschäftsgange die ganze Thätigkeit der Vorsteher enthalten sei.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Die auswärtigen Angelegenheiten sind weit schwieriger. Da sind in einer Woche drei Gichtbrüchige, eine Schwindsüchtige, kurz eine reiche Anzahl Preßhafter zu besuchen, die das Recht haben, von der Casse eine Unterstützung zu verlangen, gleichsam schon auf Abschlag für die Ewigkeit.</tei:seg>
+        <tei:seg>Die auswärtigen Angelegenheiten sind weit schwieriger. Da sind in einer Woche drei Gichtbrüchige, eine Schwindsüchtige, kurz eine reiche Anzahl </tei:seg>
+        <tei:ref target="#note66">Preßhafter</tei:ref>
+        <tei:seg> zu besuchen, die das Recht haben, von der Casse eine Unterstützung zu verlangen, gleichsam schon auf Abschlag für die Ewigkeit.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
         <tei:seg>Dies ist ein wehmüthiges Geschäft. Man muß der trauernden Gattin, den weinenden Kindern Trost zusprechen, man muß zuweilen behaupten, der Kranke habe ein weit beruhigenderes Aussehen, als in der vergangenen Woche, und muß zuletzt dennoch der Frau heimlich zuraunen, sie möchte sogleich in der Lindenstraße Anzeige machen, falls das selige Ende wirklich kommen sollte.</tei:seg>
@@ -1411,14 +1519,26 @@
         <tei:seg>dem Fall herausgeben, wenn der wirkliche, reelle, leibhaftige Tod constatirt ist.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>In den Vorstädten hat man sich in dieser Hinsicht schon arge Späße erlaubt. Karls V. Pseudoexsequien finden hier zuweilen Nachahmer, doch mit dem Unterschiede, daß jener Kaiser diese Komödie aus Ueberdruß am Leben aufführte, unsere Vorstädter jedoch aus Lust, im Gegentheil noch länger zu leben. Dem Verhungern nah, griffen sie zu dieser letzten Auskunft, die ihnen nicht selten geglückt ist. Bei aller Armuth dennoch der Sterbecasse einverleibt, glaubten sie dem Schicksal zuvorkommen zu können, wenn sie versuchten, sich die Vortheile des Todes schon für das Leben anzueignen. Blaß, hager, gelb vor Hunger und Elend, hatten sie nicht nöthig, die Farbe eines Todten erst zu affectiren. Sie hüllten sich in ein weißes Sterbehemd, streckten ihre Glieder, so lang sie gewachsen, auf hartem Stroh von sich und schickten schleunigst zu den Todtenschauern, um sie mit ihrem klingenden Beutel zu citiren. Wie oft gelang die List! Vier Treppen steigen, ist für einen steifen Weber sehr beschwerlich, daher machten die Deputirten sehr </tei:seg>
+        <tei:seg>In den </tei:seg>
+        <tei:ref target="#note68">Vorstädten</tei:ref>
+        <tei:seg> hat man sich in dieser Hinsicht schon arge Späße erlaubt. </tei:seg>
+        <tei:ref target="#note69">Karls V. Pseudoexsequien</tei:ref>
+        <tei:seg> finden hier zuweilen Nachahmer, doch mit dem Unterschiede, daß jener Kaiser diese Komödie aus Ueberdruß am Leben aufführte, unsere Vorstädter jedoch aus Lust, im Gegentheil noch länger zu leben. Dem Verhungern nah, griffen sie zu dieser letzten Auskunft, die ihnen nicht selten geglückt ist. Bei aller Armuth dennoch der Sterbecasse einverleibt, glaubten sie dem Schicksal zuvorkommen zu können, wenn sie versuchten, sich die Vortheile des Todes schon für das Leben anzueignen. Blaß, hager, gelb vor Hunger und Elend, hatten sie nicht nöthig, die Farbe eines Todten erst zu affectiren. Sie hüllten sich in ein weißes Sterbehemd, streckten ihre Glieder, so lang sie gewachsen, auf hartem Stroh von sich und schickten schleunigst zu den Todtenschauern, um sie mit ihrem klingenden Beutel zu citiren. Wie oft gelang die List! </tei:seg>
+        <tei:ref target="#note70">Vier Treppen steigen</tei:ref>
+        <tei:seg>, ist für einen steifen Weber sehr beschwerlich, daher machten die Deputirten sehr </tei:seg>
         <tei:pb n="127"/>
-        <tei:seg>gern ihr Geschäft schon unten in der Hausthür mit der weinenden Gattin ab; oder man behauptete, es dufte bereits in der Kammer, und hielt sich die Nase zu, und der Thalermann begnügte sich, durch die kaum geöffnete Thüre zu lauschen, und sie, schauernd vor der Kälte und dem blassen Angesichte, rasch wieder anzulehnen. Ach! dann freuten sich die armen Spitzbuben, bezahlten ihre Schulden, fristeten noch ein paar Monate ihr Leben, und starben endlich wirklich, aller Aussicht beraubt, auf eine erträgliche Weise unter die Erde zu kommen.</tei:seg>
+        <tei:seg>gern ihr Geschäft schon unten in der Hausthür mit der weinenden Gattin ab; oder man behauptete, es dufte bereits in der Kammer, und hielt sich die Nase zu, und der </tei:seg>
+        <tei:ref target="#note71">Thalermann</tei:ref>
+        <tei:seg> begnügte sich, durch die kaum geöffnete Thüre zu lauschen, und sie, schauernd vor der Kälte und dem blassen Angesichte, rasch wieder anzulehnen. Ach! dann freuten sich die armen Spitzbuben, bezahlten ihre Schulden, fristeten noch ein paar Monate ihr Leben, und starben endlich wirklich, aller Aussicht beraubt, auf eine erträgliche Weise unter die Erde zu kommen.</tei:seg>
       </tei:p>
       <tei:p style="paragraph">
-        <tei:seg>Dir aber, unscheinbares Häuschen mit deinen zwei breitlaubigen Linden, lächle eine ewige Frühlingssonne! Möchten dir nie deine Capitalien aufgekündigt werden, nie die Häuser, auf die du die erste Hypothek hast, ohne Miether stehen! Möge die Pest und die Cholera nie mehr zwischen deinen Dividenden wüthen! Deine Solidität wird dir ewigen Nutzen bringen; denn fern von dem Wucher der Speculation, fern von den jüdischen Wirren der Börse und des Papiermarktes, ist nur die allgemeine Wohlfahrt dein Glück, und wo Thränen fließen, schickst du die Männer, die sie trocknen. </tei:seg>
+        <tei:seg>Dir aber, unscheinbares Häuschen mit deinen zwei breitlaubigen Linden, lächle eine ewige Frühlingssonne! Möchten dir nie deine Capitalien aufgekündigt werden, nie die Häuser, auf die du die erste Hypothek hast, ohne Miether stehen! Möge die Pest und die </tei:seg>
+        <tei:ref target="#note73">Cholera</tei:ref>
+        <tei:seg> nie mehr zwischen deinen Dividenden wüthen! Deine Solidität wird dir ewigen Nutzen bringen; denn fern von dem Wucher der Speculation, fern von den jüdischen Wirren der Börse und des Papiermarktes, ist nur die allgemeine Wohlfahrt dein Glück, und wo Thränen fließen, schickst du die Männer, die sie trocknen. </tei:seg>
         <tei:pb n="128"/>
-        <tei:seg>O ihr schwarzen Leute! steckt noch Tausenden, die am Sarge eines Geliebten leidtragend und beflort stehen, heimlich eure silbernen Thaler in die Tasche und seid versichert, daß ihr damit feurige Kohlen auf euer Haupt sammelt!</tei:seg>
+        <tei:seg>O ihr schwarzen Leute! steckt noch Tausenden, die am Sarge eines Geliebten leidtragend und beflort stehen, heimlich eure silbernen Thaler in die Tasche und seid versichert, daß ihr damit </tei:seg>
+        <tei:ref target="#note75">feurige Kohlen auf euer Haupt sammelt</tei:ref>
+        <tei:seg>!</tei:seg>
       </tei:p>
       <tei:head type="level-1">
         <tei:seg>Geständnisse einer Perrücke.</tei:seg>
