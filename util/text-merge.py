@@ -1,8 +1,5 @@
 import click
-import json
-import re
 
-from copy import deepcopy
 from lxml import etree
 
 
