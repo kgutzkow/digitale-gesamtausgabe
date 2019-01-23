@@ -7,20 +7,17 @@ from lxml import etree
 
 
 @click.command()
-@click.argument('header', type=click.File(mode='rb'))
-@click.argument('body', type=click.File(mode='rb'))
+@click.option('--header', '-h', type=click.File(mode='rb'))
+@click.option('--text', '-t', type=click.File(mode='rb'), multiple=True)
 @click.argument('output', type=click.File(mode='wb'))
-@click.option('--individual-annotations', type=click.File(mode='rb'))
-def merge_text(header, body, output, individual_annotations):
-    header = etree.parse(header).getroot()
-    body = etree.parse(body).getroot()
+def merge_text(header, text, output):
     document = etree.Element('{http://www.tei-c.org/ns/1.0}TEI', nsmap={'tei': 'http://www.tei-c.org/ns/1.0'})
-    document.append(header)
-    text = etree.Element('{http://www.tei-c.org/ns/1.0}text')
-    document.append(text)
-    text.append(body)
-    if individual_annotations:
-        text.append(etree.parse(individual_annotations).getroot())
+    if header:
+        document.append(etree.parse(header).getroot())
+    textElement = etree.Element('{http://www.tei-c.org/ns/1.0}text')
+    document.append(textElement)
+    for source in text:
+        textElement.append(etree.parse(source).getroot())
     output.write(etree.tostring(document, xml_declaration=True, pretty_print=True, encoding="UTF-8"))
 
 if __name__ == '__main__':
