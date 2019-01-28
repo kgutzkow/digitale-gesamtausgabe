@@ -6,6 +6,7 @@ Softwareabhängigkeiten
 
 * `Node.js <https://nodejs.org>`_
 * `pipenv <https://docs.pipenv.org>`_
+* `Yarn <https://yarnpkg.com>`_
 
 Installation
 ++++++++++++
@@ -21,7 +22,7 @@ Manuelle Installation
 
 .. sourcecode:: console
 
-  $ npm install
+  $ yarn install
   $ pipenv --three install
 
 Manuelle Generierung
