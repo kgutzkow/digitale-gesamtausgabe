@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block head %}
   {{ super() }}
-  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/digital-edition-reader.css"/>
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/tei-reader.css"/>
 {% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
@@ -17,13 +17,32 @@
       </ul>
       <div class="tabs-content" data-tabs-content="werke-tabs">
         <div class="tabs-panel is-active taxonomy-tree" id="auszug">
+          <div id="source">
+            {{ page.content }}
+            <div class="nav">{{ page.nav }}</div>
+            <div class="annotation">{{ page.annotation }}</div>
+          </div>
+          <script>
+            window.teiReaderConfig = {
+              loader: 'local-html-json',
+              elements: {
+                  text: '#source .text',
+                  nav: '#source .nav',
+                  annotation: '#source .annotation'
+              }
+            };
+          </script>
+          <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tei-reader.js"></script>
+          <tei-reader></tei-reader>
           {{ page.summary }}
+          <p class="text-right">
+            <button class="button primary" data-action="read">Weiterlesen ...</button>
+          </p>
         </div>
         <div class="tabs-panel" id="global">
           {{ page.comments }}
         </div>
       </div>
-      <div id="reader-attachment-point"></div>
     </section>
     <aside class="cell small-12 medium-4">
       <dl>
@@ -64,12 +83,20 @@
       </dl>
     </aside>
   </div>
-  <div id="reader-raw-html">{{ page.content }}</div>
-  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/digital-edition-reader.js"></script>
   <script>
-  DigitalEditionReader.install(document.getElementById('reader-attachment-point'), {
-      text: document.getElementById('reader-raw-html').innerHTML,
-      openReaderLabel: 'Weiterlesen'
-  });
+    var teiReader = null;
+
+    document.querySelector('*[data-action="read"]').addEventListener('click', function(ev) {
+        ev.preventDefault();
+        if (teiReader === null) {
+            teiReader = document.querySelector('#tei-reader');
+            teiReader.addEventListener('click', function(ev) {
+                if (ev.target === teiReader) {
+                    teiReader.classList.toggle('visible');
+                }
+            });
+        }
+        teiReader.classList.toggle('visible');
+    });
   </script>
 {% endblock %}

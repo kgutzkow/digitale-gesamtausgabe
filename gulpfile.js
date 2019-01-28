@@ -20,8 +20,8 @@ gulp.task('css:theme', function(cb) {
 
 gulp.task('css:reader', function(cb) {
     pump([
-        gulp.src(['node_modules/digital-edition-reader/dist/edition-reader.css']),
-        concat('digital-edition-reader.css'),
+        gulp.src(['node_modules/tei-reader/dist/app.css']),
+        concat('tei-reader.css'),
         gulp.dest('theme/static/css')
     ], cb);
 })
@@ -31,10 +31,9 @@ gulp.task('css', gulp.series('css:theme', 'css:reader'));
 gulp.task('js', function(cb) {
     pump([
         gulp.src([
-            'node_modules/digital-edition-reader/dist/edition-reader-vendor.js',
-            'node_modules/digital-edition-reader/dist/edition-reader.js',
+            'node_modules/tei-reader/dist/app.js'
         ]),
-        concat('digital-edition-reader.js'),
+        concat('tei-reader.js'),
         gulp.dest('theme/static/js')
     ], cb);
 });
