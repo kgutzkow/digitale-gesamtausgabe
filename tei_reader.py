@@ -117,6 +117,38 @@ NAV_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 </xsl:stylesheet>
 '''
 
+ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
+  <xsl:output method="text"/>
+  <xsl:template match="tei:TEI">
+    <xsl:apply-templates select="tei:text/tei:interpGrp"/>
+  </xsl:template>
+  <xsl:template match="tei:interpGrp">
+    <xsl:text>{"data": [</xsl:text>
+    <xsl:for-each select="tei:interp">
+      <xsl:text>{</xsl:text>
+      <xsl:text>"id":"</xsl:text>
+      <xsl:value-of select="@data-annotation-id"/>
+      <xsl:text>","page_line_ref":"</xsl:text>
+      <xsl:value-of select="tei:citedRange[@type='page-line-ref']/text()"/>
+      <xsl:text>","word_range":"</xsl:text>
+      <xsl:value-of select="tei:citedRange[@type='word-range']/text()"/>
+      <xsl:text>","content":"</xsl:text>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:text>"</xsl:text>
+      <xsl:text>}</xsl:text>
+      <xsl:if test="position() != last()">
+        <xsl:text>,</xsl:text>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:text>]}</xsl:text>
+  </xsl:template>
+  <xsl:template match="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref">
+    <xsl:value-of select="."/>
+  </xsl:template>
+</xsl:stylesheet>
+'''
+
 OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
@@ -162,38 +194,6 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         </xsl:attribute>
         <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
       </a>
-  </xsl:template>
-</xsl:stylesheet>
-'''
-
-ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
-  <xsl:output method="text"/>
-  <xsl:template match="tei:TEI">
-    <xsl:apply-templates select="tei:text/tei:interpGrp"/>
-  </xsl:template>
-  <xsl:template match="tei:interpGrp">
-    <xsl:text>{"data": [</xsl:text>
-    <xsl:for-each select="tei:interp">
-      <xsl:text>{</xsl:text>
-      <xsl:text>"id":"</xsl:text>
-      <xsl:value-of select="@data-annotation-id"/>
-      <xsl:text>","page_line_ref":"</xsl:text>
-      <xsl:value-of select="tei:citedRange[@type='page-line-ref']/text()"/>
-      <xsl:text>","word_range":"</xsl:text>
-      <xsl:value-of select="tei:citedRange[@type='word-range']/text()"/>
-      <xsl:text>","content":"</xsl:text>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
-      <xsl:text>"</xsl:text>
-      <xsl:text>}</xsl:text>
-      <xsl:if test="position() != last()">
-        <xsl:text>,</xsl:text>
-      </xsl:if>
-    </xsl:for-each>
-    <xsl:text>]}</xsl:text>
-  </xsl:template>
-  <xsl:template match="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref">
-    <xsl:value-of select="."/>
   </xsl:template>
 </xsl:stylesheet>
 '''
