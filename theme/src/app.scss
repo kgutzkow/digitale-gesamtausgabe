@@ -74,7 +74,9 @@ dd + dt {
 .tabs-content > div > ul {
     margin-left: -$global-padding;
 }
-
+.has-tip {
+    display: inline;
+}
 
 /**
  * Generic styling
@@ -324,6 +326,7 @@ footer {
                 margin-left: 3rem;
             }
             a {
+                cursor: help;
                 color: inherit;
                 text-decoration: underline dotted;
             }

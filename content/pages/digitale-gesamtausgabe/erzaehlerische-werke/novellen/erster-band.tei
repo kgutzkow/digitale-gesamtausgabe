@@ -5,11 +5,11 @@
       <tei:titleStmt>
         <tei:title>Novellen. Erster Band</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
-        <tei:respStmt data-heading-id="GertVonhoff">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>Digital edition</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
-        <tei:respStmt data-heading-id="MarkMichaelHall">
+        <tei:respStmt xml:id="MarkMichaelHall">
           <tei:resp>TEI transform</tei:resp>
           <tei:name>Mark M Hall</tei:name>
         </tei:respStmt>
@@ -20,7 +20,7 @@
     </tei:fileDesc>
     <tei:encodingDesc>
       <tei:classDecl>
-        <tei:taxonomy data-heading-id="gutzkow-taxonomy">
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
           <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
         </tei:taxonomy>
       </tei:classDecl>
