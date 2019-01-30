@@ -1,7 +1,7 @@
 {% macro page_menu(pages, direction='vertical', include_ul=True) -%}
   {% if include_ul %}<ul class="menu {{ direction }}">{% endif %}
     {% for menu_page in pages %}
-      <li {% if page and (menu_page == page or menu_page in page.parents) %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_page.url }}">{{ menu_page.title }}</a>
+      <li {% if page and (menu_page == page or menu_page in page.parents) %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_page.url }}">{% if menu_page.menu_title %}{{ menu_page.menu_title }}{% else %}{{ menu_page.title }}{% endif %}</a>
         {% if menu_page.children %}{{ page_menu(menu_page.children, direction='horizontal' if direction == 'vertical' else 'vertical') }}{% endif %}
       </li>
     {% endfor %}

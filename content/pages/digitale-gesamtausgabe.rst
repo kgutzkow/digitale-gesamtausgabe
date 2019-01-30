@@ -2,5 +2,5 @@ Digitale Gesamtausgabe
 ======================
 
 :slug: digitale-gesamtausgabe
-:order: 2
+:order: 3
 :template: edition-overview
