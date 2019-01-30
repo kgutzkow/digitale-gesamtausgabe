@@ -40,7 +40,7 @@
               <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
             {% if DISPLAY_PAGES_ON_MENU -%}
-              {{ page_menu(pages|selectattr('parent', 'none'), direction='horizontal', include_ul=False) }}
+              {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False) }}
             {% endif %}
           </ul>
         </nav>
