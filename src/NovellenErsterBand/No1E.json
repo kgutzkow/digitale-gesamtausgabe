@@ -39,11 +39,11 @@
                     "[('font-name', 'Times New Roman'), ('font-size', '14pt'), ('font-style', 'italic'), ('margin-bottom', '0.0417in'), ('margin-left', '0in'), ('margin-right', '0in'), ('margin-top', '0.1665in'), ('text-align', 'start'), ('text-indent', '0in')]": "",
                     "[('font-name', 'Times New Roman'), ('font-size', '12pt'), ('font-style', 'italic'), ('margin-bottom', '0.0417in'), ('margin-left', '0in'), ('margin-right', '0in'), ('margin-top', '0.1665in'), ('text-align', 'start'), ('text-indent', '0in')]": "",
                     "[('font-name', 'Times New Roman'), ('font-size', '10pt'), ('font-style', 'italic'), ('font-weight', 'bold'), ('margin-left', '0in'), ('margin-right', '0in'), ('text-align', 'justify'), ('text-indent', '0in')]": "",
-                    "[('font-style', 'normal'), ('letter-spacing', '-0.007cm')]": "",
-                    "[('font-style', 'normal'), ('letter-spacing', '0.053cm')]": "",
-                    "[('font-style', 'normal'), ('letter-spacing', '0.004cm')]": "",
-                    "[('font-style', 'normal'), ('letter-spacing', '-0.004cm')]": "",
-                    "[('font-style', 'normal')]": "",
+                    "[('font-style', 'normal'), ('letter-spacing', '-0.007cm')]": "font-style-normal",
+                    "[('font-style', 'normal'), ('letter-spacing', '0.053cm')]": "font-style-normal",
+                    "[('font-style', 'normal'), ('letter-spacing', '0.004cm')]": "font-style-normal",
+                    "[('font-style', 'normal'), ('letter-spacing', '-0.004cm')]": "font-style-normal",
+                    "[('font-style', 'normal')]": "font-style-normal",
                     "[('letter-spacing', '-0.004cm')]": "",
                     "[('letter-spacing', '0.004cm')]": "",
                     "[('letter-spacing', '0.053cm')]": "",
@@ -161,10 +161,45 @@
             "action": "extract-word-range"
         },
         {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-style-normal"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}q",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span"
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
             "action": "simplify-tree"
         },
         {
-            "action": "strip-whitespace"
+            "action": "trim-empty"
         }
     ],
     "post-process": [
@@ -173,6 +208,13 @@
             "params": {
                 "regex": "> ",
                 "replace": ">"
+            }
+        },
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "\\{\\{ellipsis\\}\\}",
+                "replace": "[...]"
             }
         }
     ]

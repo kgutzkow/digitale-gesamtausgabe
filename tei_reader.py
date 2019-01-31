@@ -146,13 +146,13 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     <xsl:text>{"data":[</xsl:text>
     <xsl:for-each select="tei:interp">
       <xsl:text>{"type":"annotations","id":"</xsl:text>
-      <xsl:value-of select="@data-annotation-id"/>
+      <xsl:value-of select="@xml:id"/>
       <xsl:text>","attributes":{"title":"&amp;lt;span class=\\"page-line-ref\\"&amp;gt;</xsl:text>
       <xsl:value-of select="tei:citedRange[@type='page-line-ref']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;&amp;lt;span class=\\"word-range\\"&amp;gt;</xsl:text>
       <xsl:value-of select="tei:citedRange[@type='word-range']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;","content":"</xsl:text>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:ref | tei:q"/>
       <xsl:text>"}}</xsl:text>
       <xsl:if test="position() != last()">
         <xsl:text>,</xsl:text>
@@ -160,9 +160,22 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     </xsl:for-each>
     <xsl:text>]}</xsl:text>
   </xsl:template>
-  <xsl:template match="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref">
+  <xsl:template match="tei:seg | tei:hi | tei:ref">
     <xsl:value-of select="."/>
   </xsl:template>
+  <xsl:template match="tei:foreign">
+    <xsl:text>&amp;lt;span class=\\"foreign-language\\"&amp;gt;</xsl:text>
+    <xsl:value-of select="."/>
+    <xsl:text>&amp;lt;/span&amp;gt;</xsl:text>
+  </xsl:template>
+  <xsl:template match="tei:q">
+    <xsl:text>&amp;lt;span class=\\"quote\\"&amp;gt;</xsl:text>
+    <xsl:value-of select="."/>
+    <xsl:text>&amp;lt;/span&amp;gt;</xsl:text>
+  </xsl:template>
+  <!--<xsl:template match="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | tei:q">
+    <xsl:value-of select="."/>
+  </xsl:template>-->
 </xsl:stylesheet>
 '''
 

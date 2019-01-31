@@ -62,19 +62,9 @@ def trim_empty(element):
     """Trim elements from the DOM that have no content."""
     for child in element:
         trim_empty(child)
-    idx = 0
-    for child in element:
-        if len(child) == 0:
-            if not child.text:
-                if idx > 0:
-                    attach_text(element[idx - 1], child.tail, to_tail=True)
-                else:
-                    attach_text(element, child.tail, to_tail=False)
-                element.remove(child)
-            else:
-                idx = idx + 1
-        else:
-            idx = idx + 1
+    if len(element) == 0 and not element.text:
+        element.getparent().remove(element)
+
 
 UNKNOWN_STYLES = []
 
@@ -125,7 +115,7 @@ def simplify_tree(element):
     """Simplify the tree, merging together elements that have no distinction."""
     for child in element:
         simplify_tree(child)
-    if element.tag in ['{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}p'] and len(element) > 1:
+    if element.tag in ['{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}p', '{http://www.tei-c.org/ns/1.0}interp'] and len(element) > 1:
         idx = 1
         while idx < len(element):
             style_1 = element[idx].attrib['style'] if 'style' in element[idx].attrib else None
@@ -200,17 +190,20 @@ def modify_elements(element, rules):
 def extract_word_range(element):
     if element.tag == '{http://www.tei-c.org/ns/1.0}interp':
         new_children = []
-        for child in list(element):
-            if child.tag == '{http://www.tei-c.org/ns/1.0}span' and ']' in child.text.replace('[...]', '{{ellipsis}}'):
-                text = child.text.replace('[...]', '{{ellipsis}}')
-                text_range = etree.Element('{http://www.tei-c.org/ns/1.0}citedRange')
-                text_range.attrib['type'] = 'word-range'
-                text_range.text = text[:text.find(']')].replace('{{ellipsis}}', '[...]')
-                new_children.append(text_range)
-                child.text = text[text.find(']') + 1:]
-                new_children.append(child)
+        in_word_range = False
+        for child in  list(element):
+            if in_word_range:
+                new_element = etree.Element('{http://www.tei-c.org/ns/1.0}citedRange')
+                new_element.attrib['type'] = 'word-range'
+                new_element.text = child.text
+                new_children.append(new_element)
+                if child.text.strip().endswith(']') and not child.text.strip().endswith('[...]'):
+                    new_element.text = new_element.text.strip()
+                    in_word_range = False
             else:
                 new_children.append(child)
+                if child.tag == '{http://www.tei-c.org/ns/1.0}citedRange':
+                    in_word_range = True
             element.remove(child)
         for child in new_children:
             element.append(child)
