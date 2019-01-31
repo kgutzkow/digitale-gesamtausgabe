@@ -5,7 +5,20 @@ from lxml import etree
 from pelican import signals
 from pelican.readers import BaseReader
 
-ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
+ns = {'tei': 'http://www.tei-c.org/ns/1.0',
+      'gutz': 'https://gutzkow.de/ns/1.0'}
+
+gutzkowNS = etree.FunctionNamespace(ns['gutz'])
+
+
+@gutzkowNS('ordered-distinct-values')
+def ordered_distinct_values(context, input):
+    result = []
+    for element in input:
+        if element not in result:
+            result.append(element)
+    return result
+
 
 READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
@@ -81,30 +94,36 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 '''
 
 NAV_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:gutz="https://gutzkow.de/ns/1.0" version="1.0">
   <xsl:output method="text"/>
   <xsl:template match="tei:TEI">
     <xsl:apply-templates select="tei:text/tei:body"/>
   </xsl:template>
   <xsl:template match="tei:body">
     <xsl:text>{"data":[</xsl:text>
-    <xsl:for-each select="tei:head">
-      <xsl:text>{"id":"</xsl:text>
-      <xsl:value-of select="@data-heading-id"/>
-      <xsl:text>","level":"</xsl:text>
-      <xsl:if test="@type='level-1'">
-        <xsl:text>1</xsl:text>
-      </xsl:if>
-      <xsl:if test="@type='level-2'">
-        <xsl:text>2</xsl:text>
-      </xsl:if>
-      <xsl:if test="@type='level-3'">
-        <xsl:text>3</xsl:text>
-      </xsl:if>
-      <xsl:text>","text":"</xsl:text>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
-      <xsl:text>"</xsl:text>
-      <xsl:text>}</xsl:text>
+    <xsl:for-each select="gutz:ordered-distinct-values(tei:head/@data-heading-id)">
+      <xsl:text>{"type":"heading","id":"</xsl:text>
+      <xsl:value-of select="."/>
+      <xsl:text>","attributes":{"labels":[</xsl:text>
+      <xsl:for-each select="//tei:body/tei:head[@data-heading-id=current()]">
+        <xsl:text>{"level":"</xsl:text>
+        <xsl:if test="@type='level-1'">
+          <xsl:text>1</xsl:text>
+        </xsl:if>
+        <xsl:if test="@type='level-2'">
+          <xsl:text>2</xsl:text>
+        </xsl:if>
+        <xsl:if test="@type='level-3'">
+          <xsl:text>3</xsl:text>
+        </xsl:if>
+        <xsl:text>","text":"</xsl:text>
+        <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+        <xsl:text>"}</xsl:text>
+        <xsl:if test="position() != last()">
+          <xsl:text>,</xsl:text>
+        </xsl:if>
+      </xsl:for-each>
+      <xsl:text>]}}</xsl:text>
       <xsl:if test="position() != last()">
         <xsl:text>,</xsl:text>
       </xsl:if>
@@ -124,19 +143,17 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     <xsl:apply-templates select="tei:text/tei:interpGrp"/>
   </xsl:template>
   <xsl:template match="tei:interpGrp">
-    <xsl:text>{"data": [</xsl:text>
+    <xsl:text>{"data":[</xsl:text>
     <xsl:for-each select="tei:interp">
-      <xsl:text>{</xsl:text>
-      <xsl:text>"id":"</xsl:text>
+      <xsl:text>{"type":"annotations","id":"</xsl:text>
       <xsl:value-of select="@data-annotation-id"/>
-      <xsl:text>","page_line_ref":"</xsl:text>
+      <xsl:text>","attributes":{"title":"&amp;lt;span class=\\"page-line-ref\\"&amp;gt;</xsl:text>
       <xsl:value-of select="tei:citedRange[@type='page-line-ref']/text()"/>
-      <xsl:text>","word_range":"</xsl:text>
+      <xsl:text>&amp;lt;/span&amp;gt;&amp;lt;span class=\\"word-range\\"&amp;gt;</xsl:text>
       <xsl:value-of select="tei:citedRange[@type='word-range']/text()"/>
-      <xsl:text>","content":"</xsl:text>
+      <xsl:text>&amp;lt;/span&amp;gt;","content":"</xsl:text>
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
-      <xsl:text>"</xsl:text>
-      <xsl:text>}</xsl:text>
+      <xsl:text>"}}</xsl:text>
       <xsl:if test="position() != last()">
         <xsl:text>,</xsl:text>
       </xsl:if>
@@ -212,6 +229,8 @@ MONTH_MAPPING = {
     '11': 'November',
     '12': 'Dezember'
 }
+
+
 class NewReader(BaseReader):
     enabled = True
     file_extensions = ['tei']
