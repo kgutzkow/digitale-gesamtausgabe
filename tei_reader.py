@@ -93,6 +93,77 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 </xsl:stylesheet>
 '''
 
+GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
+  <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
+  <xsl:template match="tei:TEI">
+    <xsl:apply-templates select="tei:text/tei:interpGrp[@type='global']"/>
+  </xsl:template>
+  <xsl:template match="tei:body">
+    <xsl:apply-templates/>
+  </xsl:template>
+  <xsl:template match="tei:head[@type='level-1']">
+    <h1>
+      <xsl:copy-of select="@xml:id"/>
+      <xsl:copy-of select="@class"/>
+      <xsl:copy-of select="@data-heading-id"/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </h1>
+  </xsl:template>
+  <xsl:template match="tei:head[@type='level-2']">
+    <h2>
+      <xsl:copy-of select="@xml:id"/>
+      <xsl:copy-of select="@class"/>
+      <xsl:copy-of select="@data-heading-id"/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </h2>
+  </xsl:template>
+  <xsl:template match="tei:head[@type='level-3']">
+    <h3>
+      <xsl:copy-of select="@xml:id"/>
+      <xsl:copy-of select="@class"/>
+      <xsl:copy-of select="@data-heading-id"/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </h3>
+  </xsl:template>
+  <xsl:template match="tei:p">
+    <p>
+      <xsl:if test="@xml:id">
+        <xsl:attribute name="id">
+          <xsl:value-of select="@xml:id"/>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:if test="@class">
+        <xsl:attribute name="class">
+          <xsl:value-of select="@style"/>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </p>
+  </xsl:template>
+  <xsl:template match="tei:seg">
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+  </xsl:template>
+  <xsl:template match="tei:hi">
+      <span><xsl:attribute name="class"><xsl:value-of select="@style"/></xsl:attribute><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:foreign">
+      <span class="foreign-language"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:pb">
+      <span class="page-break"><xsl:value-of select="@n"/></span>
+  </xsl:template>
+  <xsl:template match="tei:ref">
+      <a>
+        <xsl:attribute name="data-annotation-target">
+          <xsl:value-of select="@target"/>
+        </xsl:attribute>
+        <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+      </a>
+  </xsl:template>
+</xsl:stylesheet>
+'''
+
 NAV_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:gutz="https://gutzkow.de/ns/1.0" version="1.0">
   <xsl:output method="text"/>
@@ -255,6 +326,7 @@ class NewReader(BaseReader):
         reader = etree.XSLT(etree.XML(READER_STYLESHEET))
         nav = etree.XSLT(etree.XML(NAV_STYLESHEET))
         annotation = etree.XSLT(etree.XML(ANNOTATION_STYLESHEET))
+        global_comment = etree.XSLT(etree.XML(GLOBAL_COMMENT_STYLESHEET))
         metadata = {'title': str(doc.xpath('//tei:title/text()', namespaces=ns)[0]),
                     'bibl': str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0]),
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
@@ -274,6 +346,7 @@ class NewReader(BaseReader):
                     'summary': self.strip_ns(str(overview(doc))),
                     'nav': str(nav(doc)),
                     'annotation': self.strip_ns(str(annotation(doc))),
+                    'global_comment': self.strip_ns(str(global_comment(doc))),
                     'template': 'tei-reader'}
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
         if os.path.exists(filename.replace('.tei', '.pdf')):
