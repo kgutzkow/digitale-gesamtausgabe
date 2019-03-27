@@ -140,7 +140,7 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="text"/>
   <xsl:template match="tei:TEI">
-    <xsl:apply-templates select="tei:text/tei:interpGrp"/>
+    <xsl:apply-templates select="tei:text/tei:interpGrp[@type='individual']"/>
   </xsl:template>
   <xsl:template match="tei:interpGrp">
     <xsl:text>{"data":[</xsl:text>
@@ -148,11 +148,11 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:text>{"type":"annotations","id":"</xsl:text>
       <xsl:value-of select="@xml:id"/>
       <xsl:text>","attributes":{"title":"&amp;lt;span class=\\"page-line-ref\\"&amp;gt;</xsl:text>
-      <xsl:value-of select="tei:citedRange[@type='page-line-ref']/text()"/>
+      <xsl:value-of select="tei:p/tei:citedRange[@type='page-line-ref']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;&amp;lt;span class=\\"word-range\\"&amp;gt;</xsl:text>
-      <xsl:value-of select="tei:citedRange[@type='word-range']/text()"/>
+      <xsl:value-of select="tei:p/tei:citedRange[@type='word-range']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;","content":"</xsl:text>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:ref | tei:q"/>
+      <xsl:apply-templates select="tei:p/tei:seg | tei:p/tei:hi | tei:p/tei:foreign | tei:p/tei:ref | tei:p/tei:q"/>
       <xsl:text>"}}</xsl:text>
       <xsl:if test="position() != last()">
         <xsl:text>,</xsl:text>
@@ -173,9 +173,6 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     <xsl:value-of select="."/>
     <xsl:text>&amp;lt;/span&amp;gt;</xsl:text>
   </xsl:template>
-  <!--<xsl:template match="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | tei:q">
-    <xsl:value-of select="."/>
-  </xsl:template>-->
 </xsl:stylesheet>
 '''
 
