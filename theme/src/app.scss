@@ -168,6 +168,15 @@ footer {
 }
 #tei-reader {
     z-index: 10;
+    display: block !important;
+    visibility: hidden;
+    background-color: #00000000;
+    transition: background-color 0.5s;
+
+    &.visible {
+        visibility: visible;
+        background-color: #000000aa;
+    }
 
     .tei-reader-content {
         nav {
