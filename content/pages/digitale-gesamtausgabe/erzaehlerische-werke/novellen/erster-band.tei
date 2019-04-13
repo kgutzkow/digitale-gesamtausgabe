@@ -1271,13 +1271,14 @@
         <tei:seg>Fünf Uhr, und der spindeldünne, schwarze, gespenstige Küster zur </tei:seg>
         <tei:ref target="note6">St. Bethlehemskirche im Ostsüdostende von Berlin</tei:ref>
         <tei:seg> tritt mit einem klirrenden Schlüsselbunde aus dem kleinen Sacristeipförtchen an die großen Kirchenthüren, um sie aufzuschließen, und die Orgel beginnt ein schwellendes Recitativ, und der Tempel des Herrn speit allmählig die </tei:seg>
-        <tei:ref target="#note7">Kinder der Gerechtigkeit</tei:ref>
+        <tei:ref target="note7">Kinder der Gerechtigkeit</tei:ref>
         <tei:seg> aus.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:ref target="#note8">Da wanken sie her, diese begnadigten Gestalten, mit ihren verzückten Augen, ihren wiedergebornen Leibern, ihren gerechtfertigten Kleidern der Unschuld, und blicken schmerzhaft in die Straßen dieser sündvollen Welt, der sie auf den Flügeln der gotttrunkenen Rede ihres Seelenhirten kaum ent-</tei:ref>
-        <tei:pb n="110"/>
-        <tei:ref target="#note8">rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren.</tei:ref>
+        <tei:ref target="note8">Da wanken sie her, diese begnadigten Gestalten, mit ihren verzückten Augen, ihren wiedergebornen Leibern, ihren gerechtfertigten Kleidern der Unschuld, und blicken schmerzhaft in die Straßen dieser sündvollen Welt, der sie auf den Flügeln der gotttrunkenen Rede ihres Seelenhirten kaum ent-</tei:ref>
+        <tei:pb n="110" target="note8"/>
+        <tei:ref target="note8">rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren</tei:ref>
+        <tei:ref target="#note8">.</tei:ref>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>„Das waren heute Worte des ewigen Lebens!“ sagt hier eine Schwester zu einem geistlichen Bruder, der ihr seine bescheidene Tabatiere von Nußholz offerirt, und Jener erwiedert: „Ach! es war wie das </tei:seg>
@@ -2657,11 +2658,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp xml:id="note8">
-        <tei:p>
+        <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">75,11-18</tei:citedRange>
-          <tei:citedRange type="word-range">Da wanken [...]kritisiren.]</tei:citedRange>
+          <tei:citedRange type="word-range">Da wanken </tei:citedRange>
+          <tei:seg>[...]</tei:seg>
+          <tei:citedRange type="word-range">kritisiren.]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p style="text-left">
           <tei:seg>Die den Absatz einleitenden Formulierungen zitieren mit ironischer Distanz den Anfang der „Zueignung“ von Goethes „Faust“: „Ihr naht euch wieder, schwankende Gestalten, / Die früh sich einst dem trüben Blick gezeigt.“ – Eingeführt wird an dieser Stelle der Kontrast, den der Erzähler zwischen pietistischer Andacht und realem Leben sieht (vgl. etwa die ironisierende Verwendung des Verbums ‚wanken‘, das in der Bibel durchweg negativ konnotiert ist, oder die bloßstellende Enallage:</tei:seg>
           <tei:q>ihren gerechtfertigten Kleidern der Unschuld</tei:q>
           <tei:seg>für </tei:seg>
