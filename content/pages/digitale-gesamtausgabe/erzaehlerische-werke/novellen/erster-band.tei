@@ -1277,7 +1277,8 @@
       <tei:p style="text-left">
         <tei:ref target="#note8">Da wanken sie her, diese begnadigten Gestalten, mit ihren verzückten Augen, ihren wiedergebornen Leibern, ihren gerechtfertigten Kleidern der Unschuld, und blicken schmerzhaft in die Straßen dieser sündvollen Welt, der sie auf den Flügeln der gotttrunkenen Rede ihres Seelenhirten kaum ent-</tei:ref>
         <tei:pb n="110"/>
-        <tei:ref target="#note8">rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren.</tei:ref>
+        <tei:ref target="#note8">rückt waren, und sie drücken einander die Hände und geben sich den Kuß der Bruderliebe und fangen an, noch vor den Kirchenthüren die verklungenen Reden zu kritisiren</tei:ref>
+        <tei:ref target="#note8">.</tei:ref>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>„Das waren heute Worte des ewigen Lebens!“ sagt hier eine Schwester zu einem geistlichen Bruder, der ihr seine bescheidene Tabatiere von Nußholz offerirt, und Jener erwiedert: „Ach! es war wie das </tei:seg>
@@ -2609,11 +2610,11 @@
     </tei:interpGrp>
     <tei:interpGrp type="individual">
       <tei:interp xml:id="note4">
-        <tei:p>
+        <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">75,1</tei:citedRange>
           <tei:citedRange type="word-range">Sterbecassirer]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p style="text-left">
           <tei:seg>Mit dem Titel der kurzen Erzählung ist bereits ein sozialer Ausschnitt benannt: Sterbekassen sind genossenschaftliche Versicherungsanstalten, die in Deutschland vor allem von den unteren Klassen benutzt wurden, um im Todesfall die Beerdigungskosten zu decken. Meist handelte es sich bei den Sterbekassen um kleinere Privatvereine, die nur bestimmten Personengruppen oder Berufen offen standen, etwa Beamten derselben Behörde, Arbeitern derselben Fabrik, Personen bestimmter Berufe. Eine besondere Rolle kam ihnen im 19. Jahrhundert zu, wo die Pauperisierung weiter Bevölkerungsteile besondere finanzielle Härten im Todesfall mit sich brachte. (Vgl. etwa Meyer, Bd 18, S. 942.) – In Berlin bestanden Sterbekassen „seit dem Jahre 1775, wo am 19. Novbr. die erste, durch einen Verein von Privat-Personen zur Bestreitung der Beerdigungskosten, eingerichtet wurde. Es giebt in der Gegenwart“ (1834) „deren mehrere, die sich, durch besonders zweckmäßige Einrichtungen, als den Bedürfnissen der Zeit entsprechende Institute vortheilhaft besonders für die ärmere Klasse der Bewohner bewähren. Bei den verschiedenen Sterbekassen sind auch die Antrittsgelder, so wie die Beiträge und die beim Absterben auszuzahlenden Summen, verschieden.“ (Zedlitz, S. 746) </tei:seg>
         </tei:p>
       </tei:interp>
@@ -2644,11 +2645,11 @@
         </tei:p>
       </tei:interp>
       <tei:interp xml:id="note7">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">74,9</tei:citedRange>
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">75,9</tei:citedRange>
           <tei:citedRange type="word-range">Kinder der Gerechtigkeit]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p style="text-left">
           <tei:seg>Pietistischer Sprachgebrauch, der im Kontext der Textstelle zurückgewiesen wird: Die semantische Inkongruenz zwischen der pietistischen Formulierung und dem Verbum ‚speien‘ leistet dies; ‚speien‘ ist in der Bibel durchweg negativ konnotiert. Über den pietistischen Bruder der Mutter heißt es in Gutzkows autobiographischer Schrift </tei:seg>
           <tei:q>Aus der Knabenzeit</tei:q>
           <tei:seg>: </tei:seg>
@@ -2657,11 +2658,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp xml:id="note8">
-        <tei:p>
+        <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">75,11-18</tei:citedRange>
-          <tei:citedRange type="word-range">Da wanken [...]kritisiren.]</tei:citedRange>
+          <tei:citedRange type="word-range">Da wanken </tei:citedRange>
+          <tei:seg>[...]</tei:seg>
+          <tei:citedRange type="word-range">kritisiren.]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p style="text-left">
           <tei:seg>Die den Absatz einleitenden Formulierungen zitieren mit ironischer Distanz den Anfang der „Zueignung“ von Goethes „Faust“: „Ihr naht euch wieder, schwankende Gestalten, / Die früh sich einst dem trüben Blick gezeigt.“ – Eingeführt wird an dieser Stelle der Kontrast, den der Erzähler zwischen pietistischer Andacht und realem Leben sieht (vgl. etwa die ironisierende Verwendung des Verbums ‚wanken‘, das in der Bibel durchweg negativ konnotiert ist, oder die bloßstellende Enallage:</tei:seg>
           <tei:q>ihren gerechtfertigten Kleidern der Unschuld</tei:q>
           <tei:seg>für </tei:seg>
