@@ -70,6 +70,7 @@ $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
   primary: rgb(183, 81, 42),
+  highlight: #0a0a0a,
   secondary: #767676,
   success: #3adb76,
   warning: #ffae00,
@@ -390,7 +391,7 @@ $dropdownmenu-arrow-color: $anchor-color;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-arrow-padding: 1.5rem;
 $dropdownmenu-min-width: 200px;
-$dropdownmenu-background: $light-gray;
+$dropdownmenu-background: $white;
 $dropdownmenu-submenu-background: $dropdownmenu-background;
 $dropdownmenu-padding: $global-menu-padding;
 $dropdownmenu-nested-margin: 0;
@@ -472,10 +473,10 @@ $menu-margin: 0;
 $menu-nested-margin: $global-menu-nested-margin;
 $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
-$menu-item-color-active: get-color(primary);
-$menu-item-background-active: $light-gray;
+$menu-item-color-active: get-color(highlight);
+$menu-item-background-active: $white;
 $menu-icon-spacing: 0.25rem;
-$menu-item-background-hover: $light-gray;
+$menu-item-background-hover: $white;
 $menu-state-back-compat: true;
 $menu-centered-back-compat: true;
 $menu-icons-back-compat: true;
@@ -846,7 +847,7 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0 0.5rem;
-$topbar-background: $light-gray;
+$topbar-background: $white;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;

@@ -14,7 +14,7 @@
       <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,400i,700|Merriweather:300,400,700" rel="stylesheet"> 
+      <links href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,400i,700|Merriweather:300,400,700" rel="stylesheet">
       <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/app.css"/>
       {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
@@ -60,17 +60,6 @@
       </div>
     </header>
     <article class="grid-container">
-      <nav>
-        <ul class="breadcrumbs">
-          <li><a href="{{ SITEURL }}">{{ SITENAME }}</a></li>
-          {% if page %}
-           {% for parent in page.parents %}
-             <li><a href="{{ SITEURL }}/{{ parent.url }}">{{ parent.title }}</a></li>
-           {% endfor %}
-          {% endif %}
-          <li>{% block breadcrumb_title %}{% endblock %}</li>
-        </ul>
-      </nav>
       {% block content %}
       {% endblock %}
     </article>

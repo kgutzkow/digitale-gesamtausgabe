@@ -27,19 +27,6 @@
 /**
  * Foundation overrides
  */
-.top-bar {
-   .dropdown.menu {
-       li.active > a {
-           font-weight: normal;
-           border-bottom: 3px solid get-color(primary);
-       }
-       .vertical > li.active > a {
-           font-weight: normal;
-           border-bottom: 0;
-           border-left: 3px solid get-color(primary);
-       }
-   }
-}
 .breadcrumbs {
     background: $white;
     margin: 0;
@@ -105,7 +92,7 @@ aside {
         box-shadow: 0 0 4px $dark-gray;
     }
     article.grid-container {
-        margin-top: 3rem;
+        margin-top: 3.5rem;
     }
 }
 
