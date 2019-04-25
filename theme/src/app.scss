@@ -172,6 +172,7 @@ footer {
     visibility: hidden;
     background-color: #00000000;
     transition: background-color 0.5s;
+    font-family: 'Merriweather Sans', Arial, sans-serif;
 
     &.visible {
         visibility: visible;
@@ -281,7 +282,7 @@ footer {
         }
 
         main {
-            font-family: 'Open Sans', sans-serif;
+            font-family: Merriweather, Georgia, serif;
 
             *:last-child() {
                 padding-bottom: 100vh;
