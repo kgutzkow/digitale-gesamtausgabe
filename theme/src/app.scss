@@ -95,6 +95,14 @@ aside {
         margin-top: 3.5rem;
     }
 }
+@include breakpoint(small only) {
+    .top-bar-left > ul {
+        flex-direction: column;
+    }
+    .title-bar > .menu-icon {
+        margin-right: 1rem;
+    }
+}
 
 /**
  * Metadata styling
