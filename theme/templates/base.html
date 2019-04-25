@@ -46,6 +46,7 @@
         </nav>
         <nav class="top-bar-right">
           <ul class="menu dropdown" data-dropdown-menu="">
+            <li class="menu-text"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Karl Gutzkow"/></li>
             {% if DISPLAY_CATEGORIES_ON_MENU -%}
               <li><a href="#">Kategorien</a>
                 <ul class="menu vertical">
@@ -98,5 +99,16 @@
     </footer>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/foundation.js"></script>
     <script>$(document).foundation();</script>
+    <script>
+      var html = document.querySelector('html');
+      var body = document.querySelector('body');
+      window.addEventListener('scroll', function(ev) {
+          if (html.scrollTop < 50) {
+              body.classList.remove('scrolling');
+          } else {
+              body.classList.add('scrolling');
+          }
+      });
+    </script>
   </body>
 </html>
