@@ -1,0 +1,21 @@
+/**
+ * Article grid styling
+ */
+.article-preview {
+    margin-bottom: 2 * $global-margin;
+    position: relative;
+
+    &.narrow {
+        .cell {
+            width: 100%;
+        }
+    }
+
+    nav {
+        margin-bottom: 0.5rem;
+
+        @breakpoint(medium) {
+            margin-bottom: 0;
+        }
+    }
+}

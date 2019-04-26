@@ -1,0 +1,67 @@
+@import 'foundation';
+
+/* Include Foundation Components */
+@include foundation-global-styles;
+@include foundation-xy-grid-classes;
+@include foundation-typography;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-breadcrumbs;
+@include foundation-button;
+@include foundation-callout;
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-dropdown-menu;
+@include foundation-label;
+@include foundation-off-canvas;
+@include foundation-pagination;
+@include foundation-reveal;
+@include foundation-table;
+@include foundation-title-bar;
+@include foundation-tabs;
+@include foundation-tooltip;
+@include foundation-top-bar;
+
+/**
+ * Foundation overrides
+ */
+.breadcrumbs {
+    background: $white;
+    margin: 0;
+    padding: 0 0 $global-padding 0;
+}
+dt {
+    font-variant: small-caps;
+}
+dd + dt {
+    margin-top: $global-margin;
+}
+.menu.simple > li.menu-text {
+    padding: 0;
+}
+.tabs > .tabs-title {
+    border-bottom: 2px solid $light-gray;
+
+    &.is-active {
+        border-bottom: 2px solid get-color(primary);
+    }
+    a {
+        padding-bottom: $global-margin / 2;
+    }
+}
+.tabs-content {
+    .menu-text {
+        display: block;
+        font-weight: normal;
+        padding: $menu-items-padding;
+    }
+}
+.tabs-content > div > ul {
+    margin-left: -$global-padding;
+}
+.has-tip {
+    display: inline;
+}
+ul.menu.is-dropdown-submenu {
+    width: 100%;
+}

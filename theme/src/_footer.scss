@@ -1,0 +1,14 @@
+/**
+ * Footer styling
+ */
+footer {
+    font-size: 80%;
+    color: lighten($body-font-color, 20%);
+    border-top: 1px solid $light-gray;
+    margin-top: $global-margin;
+    padding-top: $global-margin;
+
+    h2 {
+        font-size: rem-calc(16);
+    }
+}
