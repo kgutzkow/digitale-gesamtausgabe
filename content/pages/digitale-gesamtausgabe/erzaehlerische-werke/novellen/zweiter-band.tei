@@ -43,10 +43,10 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
-        <tei:hi style="font-size-large">Novellen von Karl Gutzkow.</tei:hi>
+      <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
+        <tei:seg>Novellen von Karl Gutzkow.</tei:seg>
       </tei:head>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
         <tei:seg>Zweiter Band.</tei:seg>
       </tei:head>
       <tei:p style="text-center">
@@ -65,11 +65,10 @@
         <tei:hi style="font-size-medium letter-sparse">Der Prinz von Madagaskar</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:p>
-      <tei:head type="level-2">
-        <tei:hi style="font-size-large">Chevalier Clement</tei:hi>
-        <tei:seg>)</tei:seg>
+      <tei:head data-heading-id="chevalier-clement" type="level-2">
+        <tei:seg>Chevalier Clement</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="chevalier-clement" type="level-3">
         <tei:seg>Novelle.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -592,10 +591,10 @@
       <tei:p style="no-indent text-left">
         <tei:seg>Das sind die Nieten des Schicksals, auf die man gefaßt sein muß, wenn man den Einsatz wagt und sich mit der Möglichkeit eines glücklichen Treffers schmeichelt.</tei:seg>
       </tei:p>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="die-singekraenzchen" type="level-2">
         <tei:seg>Die  Singekränzchen.</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="die-singekraenzchen" type="level-3">
         <tei:seg>Bambocciade.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -805,7 +804,7 @@
         <tei:pb n="88"/>
         <tei:seg> reinen, silberhellen Stimmen fehlen und seinen Worten an der schlagenden Kraft, mit der er so viele altfränkische und zögernde Mütter von dem Sinn und der hohen Bedeutung der Musik zu überzeugen wußte!</tei:seg>
       </tei:p>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="der-prinz-von-madagaskar" type="level-2">
         <tei:seg>Der Prinz von Madagaskar.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
