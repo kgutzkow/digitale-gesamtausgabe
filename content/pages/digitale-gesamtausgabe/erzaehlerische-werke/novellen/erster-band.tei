@@ -6,7 +6,7 @@
         <tei:title>Novellen. Erster Band</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digital edition</tei:resp>
+          <tei:resp>Digitale edition</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MarkMichaelHall">
@@ -49,7 +49,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Novellen von Karl Gutzkow.</tei:seg>
       </tei:head>
       <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
@@ -2688,11 +2688,11 @@
         </tei:p>
       </tei:interp>
       <tei:interp xml:id="note11">
-        <tei:p>
+        <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">76,6-7</tei:citedRange>
           <tei:citedRange type="word-range">Die vornehmen Kinder Gottes, die mystischen Generale und Kammerpräsidenten]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p style="text-left">
           <tei:seg>→ Erläuterung zu 75,11-18. – In der überarbeiteten Auflage seiner autobiographischen Schrift </tei:seg>
           <tei:q>Aus der Knabenzeit</tei:q>
           <tei:seg>kritisiert Gutzkow 1873 rückblickend besonders deutlich den </tei:seg>
