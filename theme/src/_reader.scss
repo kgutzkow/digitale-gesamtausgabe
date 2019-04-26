@@ -39,7 +39,7 @@
                 }
                 a {
                     display: block;
-                    padding: 1rem;
+                    padding: $global-padding / 2 $global-padding;
                     cursor: pointer;
 
                     &:hover, &[aria-current=true] {
@@ -84,6 +84,9 @@
 
             *:last-child() {
                 padding-bottom: 100vh;
+            }
+            h1:first-child {
+                margin-top: $global-margin;
             }
             h1 {
                 font-size: 15pt;

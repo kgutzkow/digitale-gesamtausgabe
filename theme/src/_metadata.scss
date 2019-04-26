@@ -1,16 +1,16 @@
 /**
  * Metadata styling
  */
-.metadata {
+div.metadata {
     font-size: 80%;
     position:relative;
     top: -0.5rem;
     color: lighten($black, 20%);
 }
-.classification {
+div.classification {
     font-size: 80%;
     color: lighten($black, 20%);
 }
-aside {
+aside.metadata {
     font-family: 'Merriweather Sans', Arial, sans-serif;
 }
