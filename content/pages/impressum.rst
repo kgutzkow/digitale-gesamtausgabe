@@ -9,8 +9,7 @@ Inhaltlich verantwortlich
 | Professor Gert Vonhoff
 | University of Exeter
 | g.vonhoff@exeter..ac.uk
-|
-|
+
 | Junior Professor Dr Mark Hall
 | mark.hall@informatik.uni-halle.de
 
