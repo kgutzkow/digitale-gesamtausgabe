@@ -308,7 +308,8 @@ MONTH_MAPPING = {
     '09': 'September',
     '10': 'Oktober',
     '11': 'November',
-    '12': 'Dezember'
+    '12': 'Dezember',
+    '': ''
 }
 
 
@@ -340,8 +341,9 @@ class NewReader(BaseReader):
                                 for editor in doc.xpath('//tei:respStmt', namespaces=ns)],
                     'revisions': [{'revision': change.text,
                                    'date': change.attrib['when'],
-                                   'name': doc.xpath("//tei:respStmt[@xml:id='%s']/tei:name/text()" % change.attrib['who'][1:],
-                                                     namespaces=ns)}
+                                   'name': [str(doc.xpath("//tei:respStmt[@xml:id='%s']/tei:name/text()" % resp[1:],
+                                                          namespaces=ns)[0])
+                                            for resp in change.attrib['who'].split(' ')]}
                                   for change in doc.xpath('//tei:change', namespaces=ns)],
                     'summary': self.strip_ns(str(overview(doc))),
                     'nav': str(nav(doc)),
