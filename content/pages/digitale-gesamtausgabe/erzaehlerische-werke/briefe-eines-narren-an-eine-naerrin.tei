@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Briefe eines Narren an eine Naerrin</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="RJKavanagh">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>R.J. Kavanagh</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="GertVonhoff">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Gert Vonhoff</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Briefe eines Narren an eine Närrin. Hamburg: Hoffmann &amp; Campe, 1832. (Rasch 2.1)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1832">1832</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#erzaehlerische-werke #briefe-eines-narren-an-eine-naerrin"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2008-08" who="#RJKavanagh">Erstfassung</tei:change>
+      <tei:change when="2010-04" who="#MartinaLauster">Fassung 1.1: Korrekturen in DokEnt und Zusatz in Entstehungsgeschichte</tei:change>
+      <tei:change when="2010-04" who="#MartinaLauster #GertVonhoff">Fassung 1.2: Zusatz zur Entstehungsgeschichte (Hambach)</tei:change>
+      <tei:change when="2017-04" who="#MartinaLauster">Fassung 1.3: Zusätze in Entstehungsgeschichte und DokRez</tei:change>
+      <tei:change when="2018-03" who="#MartinaLauster">Fassung 1.4: Kleine weitere Korrekturen</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur rechts als PDF zugänglich.</tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
+</tei:TEI>
