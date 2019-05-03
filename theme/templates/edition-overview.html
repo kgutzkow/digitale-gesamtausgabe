@@ -2,9 +2,17 @@
   <ul class="menu vertical {{ 'nested' if nested else '' }}">
     {% for element in elements %}
       {% if pages|selectattr('taxonomy', 'equalto', ', '.join(hierarchy + (element[1], )))|first() %}
-        <li><a href="{{ SITEURL }}/{{ pages|selectattr('taxonomy', 'equalto', ', '.join(hierarchy + (element[1], )))|first()|attr('url') }}">{{ element[0] }}</a>
+        {% if nested %}
+          <li><a href="{{ SITEURL }}/{{ pages|selectattr('taxonomy', 'equalto', ', '.join(hierarchy + (element[1], )))|first()|attr('url') }}">{{ element[0] }}</a>
+        {% else %}
+          <li id="{{ loop.index }}"><a href="{{ SITEURL }}/{{ pages|selectattr('taxonomy', 'equalto', ', '.join(hierarchy + (element[1], )))|first()|attr('url') }}">{{ element[0] }}</a>
+        {% endif %}
       {% else %}
-        <li><span class="menu-text">{{ element[0] }}</span>
+        {% if nested %}
+          <li><span class="menu-text">{{ element[0] }}</span>
+        {% else %}
+          <li id="{{ loop.index }}"><span class="menu-text">{{ element[0] }}</span>
+        {% endif %}
       {% endif %}
       {% if element[2] %}
         {{ taxonomy(element[2], hierarchy + (element[1],)) }}
@@ -24,11 +32,28 @@
   </ul>
   <div class="tabs-content" data-tabs-content="werke-tabs">
     <div class="tabs-panel is-active taxonomy-tree" id="abteilungen">
-      {% if page.taxonomy_subtree %}
-        {{ taxonomy(TAXONOMY[page.taxonomy_subtree|int][2], hierarchy=(TAXONOMY[page.taxonomy_subtree|int][1],), nested=False) }}
-      {% else %}
-        {{ taxonomy(TAXONOMY, nested=False) }}
-      {% endif %}
+      <div class="grid-x">
+        <div class="small-12 medium-9">
+          {% if page.taxonomy_subtree %}
+            {{ taxonomy(TAXONOMY[page.taxonomy_subtree|int][2], hierarchy=(TAXONOMY[page.taxonomy_subtree|int][1],), nested=False) }}
+          {% else %}
+            {{ taxonomy(TAXONOMY, nested=False) }}
+          {% endif %}
+        </div>
+        <div class="hide-for-small-only medium-3">
+          <ul class="menu vertical sticky">
+            {% if page.taxonomy_subtree %}
+              {% for element in TAXONOMY[page.taxonomy_subtree|int][2] %}
+              <li><a href="#{{ loop.index }}">{{ element[0] }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for element in TAXONOMY %}
+                <li><a href="#{{ loop.index }}">{{ element[0] }}</a></li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+        </div>
+      </div>
     </div>
     <div class="tabs-panel" id="chronologisch">
       <ul class="menu vertical">
