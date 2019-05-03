@@ -36,7 +36,7 @@
           <li><span class="menu-text">{{ grouper }}</span>
             <ul class="menu vertical nested">
               {% for grouper, items in year_items|groupby('month') %}
-                <li><span class="menu-text">{{ grouper }}</span>
+                <li>{% if grouper %}<span class="menu-text">{{ grouper }}</span>{% endif %}
                   <ul class="menu vertical nested">
                     {% for child in items|sort(attribute='date') %}
                       <li><a href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></li>
