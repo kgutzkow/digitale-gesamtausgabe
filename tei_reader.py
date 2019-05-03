@@ -211,10 +211,11 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
   <xsl:output method="text"/>
   <xsl:template match="tei:TEI">
+    <xsl:text>{"data":[</xsl:text>
     <xsl:apply-templates select="tei:text/tei:interpGrp[@type='individual']"/>
+    <xsl:text>]}</xsl:text>
   </xsl:template>
   <xsl:template match="tei:interpGrp">
-    <xsl:text>{"data":[</xsl:text>
     <xsl:for-each select="tei:interp">
       <xsl:text>{"type":"annotations","id":"</xsl:text>
       <xsl:value-of select="@xml:id"/>
@@ -229,7 +230,6 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         <xsl:text>,</xsl:text>
       </xsl:if>
     </xsl:for-each>
-    <xsl:text>]}</xsl:text>
   </xsl:template>
   <xsl:template match="tei:seg | tei:hi | tei:ref">
     <xsl:value-of select="."/>
