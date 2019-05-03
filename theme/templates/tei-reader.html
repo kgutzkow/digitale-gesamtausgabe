@@ -65,9 +65,15 @@
         <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
         {% endif %}
         {% if page.editors %}
-          {% for editor in page.editors %}
-            <dt>{{ editor.role }}</dt>
-            <dd>{{ editor.name }}</dd>
+          {% for grouper, editors in page.editors|groupby('role') %}
+            <dt>{{ grouper }}</dt>
+            <dd>
+              <ul class="no-bullet no-indent">
+                {% for editor in editors %}
+                  <li>{{ editor.name }}</li>
+                {% endfor %}
+              <ul>
+            </dd>
           {% endfor %}
         {% endif %}
         {% if page.revisions %}
