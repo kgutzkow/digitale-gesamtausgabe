@@ -11,8 +11,9 @@
 <html lang="{{ DEFAULT_LANG }}">
   <head>
     {% block head %}
-      <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
       <meta charset="utf-8"/>
+      <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+      <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.ico" type="image/x-icon">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,400i,700|Merriweather:300,400,700" rel="stylesheet">
       <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/app.css"/>
