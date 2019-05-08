@@ -82,7 +82,7 @@
         main {
             font-family: 'Merriweather', Georgia, serif;
 
-            *:last-child() {
+            & > *:last-child() {
                 padding-bottom: 100vh;
             }
             h1:first-child {
@@ -139,6 +139,15 @@
             }
             h1 + p, h2 + p {
                 margin-top: 3rem !important;
+            }
+            div.line-group {
+                margin: $global-margin $global-margin * 3;
+
+                div.line {
+                    font-size: 11pt;
+                    line-height: $paragraph-lineheight;
+                    text-rendering: $paragraph-text-rendering;
+                }
             }
             a {
                 cursor: help;

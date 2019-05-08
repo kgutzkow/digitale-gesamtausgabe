@@ -70,6 +70,28 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
     </p>
   </xsl:template>
+  <xsl:template match="tei:lg">
+    <div>
+      <xsl:if test="@xml:id">
+        <xsl:attribute name="id">
+          <xsl:value-of select="@xml:id"/>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:attribute name="class">line-group</xsl:attribute>
+      <xsl:apply-templates select="tei:l"/>
+    </div>
+  </xsl:template>
+  <xsl:template match="tei:l">
+    <div>
+      <xsl:if test="@xml:id">
+        <xsl:attribute name="id">
+          <xsl:value-of select="@xml:id"/>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:attribute name="class">line</xsl:attribute>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </div>
+  </xsl:template>
   <xsl:template match="tei:seg">
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
   </xsl:template>
