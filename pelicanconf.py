@@ -30,7 +30,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 PLUGIN_PATHS = ['./']
 PLUGINS = ['tei_reader',
            'pelican_page_order',
-           'pelican_page_hierarchy']
+           'pelican_page_hierarchy',
+           'extra_tests']
 
 STATIC_PATHS = ['pages']
 
