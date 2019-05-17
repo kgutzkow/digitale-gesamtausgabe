@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Marino Faliari</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="CorneliaHobritz">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Cornelia Hobritz</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="SusanneSchuetz">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Susanne Schütz</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Marino Falieri. Dramatische Studie von K. Gutzkow. In: Morgenblatt für gebildete Stände. Stuttgart und Tübingen. Nr. 297, 12. Dezember 1834, S. 1185-1186; Nr. 298, 13. Dezember 1834, S. 1190-1192; Nr. 299, 15. Dezember 1834, S. 1193-1195; Nr. 300, 16. Dezember 1834, S. 1198-1199; Nr. 301, 17. Dezember 1834, S. 1203-1204. (Rasch 3.34.12.12).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1834">1834</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#dramatische-werke #marino-falieri"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2007-05" who="#CorneliaHobritz #SusanneSchuetz">Erstfassung</tei:change>
+      <tei:change when="2008-04" who="#CorneliaHobritz #SusanneSchuetz">Fassung 1.1</tei:change>
+      <tei:change when="2009-06" who="#CorneliaHobritz #SusanneSchuetz">Fassung 1.2</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nicht verfügbar.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
