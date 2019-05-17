@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Die neuen Serapionsbrüder. Zweiter Band</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="KurtJauslin">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Kurt Jauslin</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Die neuen Serapionsbrüder. Roman in drei Bänden. In: Schlesische Presse. Breslau. Nr. 723, 15. Oktober 1876, bis Nr. 60, 25. Januar 1877 (Rasch 3.76.10.15N).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1876">1876</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#erzaehlerische-werke #die-neuen-serapionsbrueder #zweiter-band"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2002-10" who="#KurtJauslin">Fassung 1.0 entspricht der "Editorischen Notiz" aus der Buchausgabe</tei:change>
+      <tei:change when="2007-01" who="#MartinaLauster">Fassung 2.0 vom Januar 2007 ist der daraus entstandene volle Kommentar</tei:change>
+      <tei:change when="2009-01" who="#MartinaLauster">Fassung 2.1 mit erweitertem Globalkommentar und neuem Vor- und Nachspann sowie Sperrungsauszeichnungen</tei:change>
+      <tei:change when="2010-05" who="#KurtJauslin #MartinaLauster">Fassung 2.2 mit neu hinzugefügten Dokumenten zur Entstehungs- und Rezeptionsgeschichte und ergänzten Herausgebertexten in Enststehungs- Rezeptionsgeschichte</tei:change>
+      <tei:change when="2010-09" who="#KurtJauslin #MartinaLauster">Fassung 2.3 Korrekturen nach Diskussion in Exeter, Zusätze zu Globalkommentar 6.1.6</tei:change>
+      <tei:change when="2016-02" who="#MartinaLauster">Fassung 2.4: Bei Anfertigung des gedruckten Bandes von diesem Kommentar (erschienen Ende 2015) fielen zahlreiche Korrekturen und Erweiterungen an, die in die Netzversion des Kommentars uebernommen wurden</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
