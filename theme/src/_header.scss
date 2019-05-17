@@ -22,8 +22,13 @@ header#main-nav {
             > nav > ul > li > a {
                 font-size: rem-calc(22);
             }
+
             .slim a {
                 padding: $global-padding / 4 $global-padding;
+            }
+
+            .top-bar-right {
+                padding-right: $global-padding * 2;
             }
         }
 
