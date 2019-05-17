@@ -60,7 +60,7 @@ TAXONOMY = (
             ('Zweites Buch', 'zweites-buch', ()),
             ('Drittes Buch', 'drittes-buch', ()),
             ('Viertes Buch', 'viertes-buch', ()),
-            ('Fünftes Buch', 'fuenftest-buch', ()),
+            ('Fünftes Buch', 'fuenftes-buch', ()),
             ('Sechstes Buch', 'sechstes-buch', ()),
             ('Siebentes Buch', 'siebentes-buch', ()),
             ('Achtes Buch', 'achtes-buch', ()),

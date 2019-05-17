@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Zauberer von Rom. Achtes Buch</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>Kurt Jauslin, Altdorf; Stephan Landshuter, München; Wolfgang Rasch
+        <tei:respStmt xml:id="KurtJauslin">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Kurt Jauslin</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="StephanLandshuter">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Stephan Landshuter</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Der Zauberer von Rom. Roman in neun Büchern von Karl Gutzkow. Bd. 1-9. Leipzig: Brockhaus, 1858-1861. (Rasch 2.34).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1858">1858</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#erzaehlerische-werke #der-zauberer-von-rom #achtes-buch"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2008-01" who="#KurtJauslin #StephanLandshuter #WolfgangRasch">Erstfassung</tei:change>
+      <tei:change when="2008-11" who="#WolfgangRasch">Fassung 1.1 mit neuem Vor- und Nachspann sowie Sperrungs-Auszeichnung</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
