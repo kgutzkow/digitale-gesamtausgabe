@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Die Diakonissin</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="StephanLandshuter">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Stephan Landshuter</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Die Diakonissin. Ein Lebensbild. Frankfurt/M.: Literarische Anstalt, 1855. (Rasch 2.31).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1847">1847</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#erzaehlerische-werke #die-diakonissin"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2016-05" who="#StephanLandshuter">Erstfassung</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
