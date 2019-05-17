@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Hamlet in Wittenberg</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="ClaudiaTosun">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Claudia Tosun</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Hamlet in Wittenberg. Umrisse von Karl Gutzkow. In: Allgemeine Theater-Revue. Hg. von August Lewald. Jg. 1. Stuttgart und Tübingen: Cotta, 1835. S. 97-118. (Rasch 4.35.1).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1835">1835</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#dramatische-werke #hamlet-in-wittenberg"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2003-07" who="#ClaudiaTosun">Erstfassung</tei:change>
+      <tei:change when="2006-04" who="#ClaudiaTosun">Fassung 1.1</tei:change>
+      <tei:change when="2008-07" who="#ClaudiaTosun">Fassung 1.2</tei:change>
+      <tei:change when="2009-07" who="#ClaudiaTosun">Fassung 1.3</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nicht verfügbar.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
