@@ -1,46 +1,77 @@
-/**
- * Header formatting
- */
-@include breakpoint(medium) {
-    header#main-nav {
-        position: fixed;
-        width: 100%;
-        top: 0;
-        left: 0;
-        z-index: 1;
-        box-shadow: 0 0 10px $dark-gray;
-    }
-    article.grid-container {
-        margin-top: 6rem;
-    }
-    .top-bar-left > ul.menu > li > a {
-        transition: padding-top 0.3s, padding-bottom 0.3s;
-        padding-top: $global-padding * 1.6;
-        padding-bottom: $global-padding * 1.6;
-        margin-right: $global-margin;
-    }
-    .top-bar-right img {
-        transition: height 0.3s;
-        height: 48px;
-    }
-    .scrolling {
-        .top-bar-left > ul.menu > li > a {
-            padding-top: $global-padding * 0.85;
-            padding-bottom: $global-padding * 0.85;
+header#main-nav {
+    @include breakpoint(medium) {
+        .top-bar.initial {
+            margin-bottom: $global-margin * 2;
+            padding: $global-padding 0;
+            box-shadow: 0 0 5px $medium-gray;
+            display: flex;
+
+            .title {
+                margin-right: $global-margin * 5;
+
+                a {
+                    color: $black;
+                    font-size: rem-calc(24);
+                }
+                small {
+                    display: block;
+                    font-size: rem-calc(16);
+                }
+            }
+
+            > nav > ul > li > a {
+                font-size: rem-calc(22);
+            }
+            .slim a {
+                padding: $global-padding / 4 $global-padding;
+            }
         }
-        .top-bar-right img {
-            height: 24px;
+
+        .top-bar.small {
+            display: none;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            box-shadow: 0 0 10px $dark-gray;
+
+            .top-bar-left > ul.menu > li > a {
+                padding-top: $global-padding * 0.85;
+                padding-bottom: $global-padding * 0.85;
+            }
+            .top-bar-right img {
+                height: 24px;
+            }
         }
     }
+
+    @include breakpoint(small only) {
+        .top-bar.initial {
+            display: none;
+        }
+        .top-bar.small {
+            display: flex;
+
+            .top-bar-left > ul {
+                flex-direction: column;
+            }
+            .title-bar > .menu-icon {
+                margin-right: 1rem;
+            }
+            .top-bar-right {
+                display: none;
+            }
+        }
+    }
+
 }
-@include breakpoint(small only) {
-    .top-bar-left > ul {
-        flex-direction: column;
-    }
-    .title-bar > .menu-icon {
-        margin-right: 1rem;
-    }
-    .top-bar-right {
-        display: none;
+@include breakpoint(medium) {
+    .scrolling {
+        header#main-nav {
+            .top-bar.small {
+                display: flex;
+            }
+        }
     }
 }

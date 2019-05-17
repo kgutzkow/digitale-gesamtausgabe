@@ -33,7 +33,42 @@
       <div class="title-bar-title">Menu</div>
     </div>
     <header id="main-nav">
-      <div class="top-bar">
+      <div class="top-bar initial">
+        <nav class="top-bar-left">
+          <ul class="menu">
+            <li class="title{% if output_file == 'index.html' %} active{% endif %}"><a href="{{ SITEURL }}">{{ SITENAME }}<small>{{ SITETAGLINE }}</small></a></li>
+            {% for title, link in MENUITEMS %}
+              <li><a href="{{ link }}">{{ title }}</a></li>
+            {% endfor %}
+            {% if DISPLAY_PAGES_ON_MENU -%}
+              {% for menu_page in pages|selectattr('parent', 'none')|rejectattr('no_menu') %}
+                <li><a href="{{ SITEURL }}/{{ menu_page.url }}">{% if menu_page.menu_title %}{{ menu_page.menu_title }}{% else %}{{ menu_page.title }}{% endif %}</a>
+                  <ul class="menu vertical slim nested">
+                    {% for top_child in menu_page.children %}
+                      <li><a href="{{ SITEURL }}/{{ top_child.url }}">{% if top_child.menu_title %}{{ top_child.menu_title }}{% else %}{{ top_child.title }}{% endif %}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+        </nav>
+        <nav class="top-bar-right">
+          <ul class="menu dropdown" data-dropdown-menu="">
+            {% if DISPLAY_CATEGORIES_ON_MENU -%}
+              <li><a href="#">Kategorien</a>
+                <ul class="menu vertical">
+                  {% for menu_category, null in categories %}
+                    <li {% if menu_category == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_category.url }}">{{ menu_category }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
+            <li class="menu-text"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Karl Gutzkow"/></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="top-bar small">
         <nav class="top-bar-left">
           <ul class="menu dropdown" data-dropdown-menu="">
             <li {% if output_file == 'index.html' %}class="active"{% endif %}><a href="{{ SITEURL }}">{{ SITENAME }}</a></li>
@@ -103,8 +138,9 @@
     <script>
       var html = document.querySelector('html');
       var body = document.querySelector('body');
+      var initialTopBar = document.querySelector('.top-bar.initial');
       window.addEventListener('scroll', function(ev) {
-          if (html.scrollTop < 50) {
+          if (html.scrollTop < initialTopBar.clientHeight) {
               body.classList.remove('scrolling');
           } else {
               body.classList.add('scrolling');

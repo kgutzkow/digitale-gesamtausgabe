@@ -5,6 +5,7 @@ from datetime import datetime
 
 AUTHOR = 'Mark M Hall'
 SITENAME = 'Karl Gutzkow'
+SITETAGLINE = 'Digitale Gesamtausgabe'
 SITEURL = ''
 
 PATH = 'content'
