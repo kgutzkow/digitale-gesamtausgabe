@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Richard Savage oder Der Sohn einer Mutter</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="SusanneHesse">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Susanne Hesse</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="Parthier">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Parthier</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Richard Savage. Oder: Der Sohn einer Mutter. Trauerspiel in fünf Aufzügen. Von Leonhard Falk [d.i. Karl Gutzkow]. (Als Manuscript gedruckt.) o.O. u. o.J. [1839]. IV, 1 Bl., 97 S. 8°. (Rasch 6.39.1).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1839">1839</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#dramatische-werke #richard-savage"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2008-04" who="#SusanneHesse #Parthier">Erstfassung</tei:change>
+      <tei:change when="2009-07" who="#SusanneHesse #Parthier">Fassung 1.1</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nicht verfügbar.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
