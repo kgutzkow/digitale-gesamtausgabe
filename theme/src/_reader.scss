@@ -4,6 +4,23 @@
 #source {
     display: none;
 }
+#global {
+    ul.sources {
+        margin-left: 0;
+        list-style-type: none;
+
+        li {
+            position: relative;
+            padding-left: 1.5rem;
+
+            span {
+                position: absolute;
+                left: 0;
+                top: 0;
+            }
+        }
+    }
+}
 #tei-reader {
     z-index: 10;
     display: block !important;
