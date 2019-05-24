@@ -163,6 +163,17 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
     </p>
   </xsl:template>
+  <xsl:template match="tei:list[@type='sources']">
+    <ul class="sources">
+      <xsl:apply-templates select="tei:item"/>
+    </ul>
+  </xsl:template>
+  <xsl:template match="tei:item">
+    <li>
+      <span><xsl:value-of select="@data-source-id"/></span>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+    </li>
+  </xsl:template>
   <xsl:template match="tei:seg">
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
   </xsl:template>
