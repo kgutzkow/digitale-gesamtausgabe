@@ -112,7 +112,7 @@ TAXONOMY = (
         ('6. Literaturkritik', 'literaturkritik', (
             ('6.1. Rezensionen und literaturkritische Essays', 'rezensionen-und-literaturkritische-essays', (
                 ('[Vorwort zum "Literatur-Blatt" des "Phönix"]', 'vorwort-zum-literatur-blatt-des-phoenix', ()),
-			    ('Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff', 'dichter-und-ihre-gesellen-novelle-von-jos-freih-von-eichendorfff', ()),
+			    ('Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff', 'dichter-und-ihre-gesellen-novelle-von-jos-freih-von-eichendorff', ()),
 			    ('Schriften in bunter Reihe. Herausgegeben von Theodor Mundt', 'schriften-in-bunter-reihe-herausgegeben-von-theodor-mundt', ()),
 			    ('Der Salon von H. Heine. Zweiter Theil', 'der-salon-von-h-heine-zweiter-theil', ()),
 			    ('Menzel\'s Geist der Geschichte', 'menzel-s-geist-der-geschichte', ()),
@@ -131,7 +131,7 @@ TAXONOMY = (
 			    ('Theater-Roman. Von August Lewald. Erster und zweiter Band', 'theater-roman-von-august-lewald-erster-und-zweiter-band', ()),
 			    ('Theater-Roman. Von August Lewald. Dritter, vierter und fünfter Band', 'theater-roman-von-august-lewald-dritter-vierter-und-fuenfter-band', ()),
 			    ('Diese Kritik gehört Bettinen', 'diese-kritik-gehoert-bettinen', ()),
-			    ('Was sollen wir lesen?', 'was-wollen-wir-lesen', ()),
+			    ('Was sollen wir lesen?', 'was-sollen-wir-lesen', ()),
 			    ('Die neuen Dorf- und Bauern-Novellen', 'die-neuen-dorf-und-bauern-novellen', ()),
 			    ('Vierzig Jahre von Karl von Holtei', 'vierzig-jahre-von-karl-von-holtei', ()),
 			    ('Josef Rank', 'josef-rank', ()),
