@@ -346,7 +346,23 @@ MONTH_MAPPING = {
 }
 
 
-class NewReader(BaseReader):
+def title_letter(text):
+    """Slightly smarter title letter extraction that ignores common articles/prefixes."""
+    if text.lower().startswith('der') or text.lower().startswith('die') or text.lower().startswith('das')\
+            or text.lower().startswith('zur') or text.lower().startswith('vom') or text.lower().startswith('ein'):
+        if text[4] != '"':
+            return text[4].upper()
+        else:
+            return text[5].upper()
+    if text.lower().startswith('eine'):
+        return text[5].upper()
+    else:
+        return text[0].upper()
+
+
+class TeiDocumentReader(BaseReader):
+    """Reader that converts Gutzkow TEI into the structure needed for Pelican and the HTML needed for the
+    TEI Reader using a series of XSLT transformations."""
     enabled = True
     file_extensions = ['tei']
 
@@ -366,7 +382,7 @@ class NewReader(BaseReader):
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
                     'year': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[0:4],
                     'month': MONTH_MAPPING[str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[5:7]],
-                    'title-letter': str(doc.xpath('//tei:title/text()', namespaces=ns)[0])[0],
+                    'title-letter': title_letter(str(doc.xpath('//tei:title/text()', namespaces=ns)[0])),
                     'taxonomy': ', '.join([t[1:] for t in str(doc.xpath('//tei:catRef/@target', namespaces=ns)[0]).split(' ')]),
                     'authors': [str(author) for author in doc.xpath('//tei:author/text()', namespaces=ns)],
                     'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
@@ -384,6 +400,7 @@ class NewReader(BaseReader):
                     'global_comment': self.strip_ns(str(global_comment(doc))),
                     'template': 'tei-reader'}
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
+        # Link the pdf if it has the same filename as the TEI file
         if os.path.exists(filename.replace('.tei', '.pdf')):
             metadata['pdf'] = '%s.pdf' % metadata['slug']
 
@@ -394,7 +411,7 @@ class NewReader(BaseReader):
         return str(reader(doc)), parsed
 
 def add_reader(readers):
-    readers.reader_classes['tei'] = NewReader
+    readers.reader_classes['tei'] = TeiDocumentReader
 
 def register():
     signals.readers_init.connect(add_reader)
