@@ -1,8 +1,8 @@
-{% macro page_menu(pages, direction='vertical', include_ul=True) -%}
+{% macro page_menu(pages, direction='vertical', include_ul=True, max_depth=10000) -%}
   {% if include_ul %}<ul class="menu {{ direction }}">{% endif %}
-    {% for menu_page in pages %}
-      <li {% if page and (menu_page == page or menu_page in page.parents) %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_page.url }}">{% if menu_page.menu_title %}{{ menu_page.menu_title }}{% else %}{{ menu_page.title }}{% endif %}</a>
-        {% if menu_page.children %}{{ page_menu(menu_page.children, direction='horizontal' if direction == 'vertical' else 'vertical') }}{% endif %}
+    {% for menu_page in pages|rejectattr('template', 'eq', 'tei-reader') %}
+    <li {% if page and (menu_page == page or menu_page in page.parents) %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_page.url }}">{% if menu_page.menu_title %}{{ menu_page.menu_title }}{% else %}{{ menu_page.title }}{% endif %}</a>
+        {% if menu_page.children|rejectattr('template', 'eq', 'tei-reader')|list|length > 0 and max_depth > 0 %}{{ page_menu(menu_page.children, direction='horizontal' if direction == 'vertical' else 'vertical', max_depth=max_depth - 1) }}{% endif %}
       </li>
     {% endfor %}
   {% if include_ul %}</ul>{% endif %}
@@ -76,7 +76,7 @@
               <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
             {% if DISPLAY_PAGES_ON_MENU -%}
-              {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False) }}
+              {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False, max_depth=1) }}
             {% endif %}
           </ul>
         </nav>
