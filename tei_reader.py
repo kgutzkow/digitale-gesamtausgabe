@@ -330,19 +330,19 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
 '''
 
 MONTH_MAPPING = {
-    '01': 'Januar',
-    '02': 'Februar',
-    '03': 'März',
-    '04': 'April',
-    '05': 'Mai',
-    '06': 'Juni',
-    '07': 'Juli',
-    '08': 'August',
-    '09': 'September',
-    '10': 'Oktober',
-    '11': 'November',
-    '12': 'Dezember',
-    '': ''
+    '01': (1, 'Januar'),
+    '02': (2, 'Februar'),
+    '03': (3, 'März'),
+    '04': (4, 'April'),
+    '05': (5, 'Mai'),
+    '06': (6, 'Juni'),
+    '07': (7, 'Juli'),
+    '08': (8, 'August'),
+    '09': (9, 'September'),
+    '10': (10, 'Oktober'),
+    '11': (11, 'November'),
+    '12': (12, 'Dezember'),
+    '': (13, '')
 }
 
 
