@@ -279,7 +279,7 @@ TAXONOMY = (
         ('Rückblicke auf mein Leben (Zeitschriftenfassung)', 'rueckblicke-auf-mein-leben-zeitschriftenfassung', ()),
         ('2. Rückblicke auf mein Leben', 'rueckblicke-auf-mein-leben', ()),
         ('3. Kleine autobiographische Schriften und Memorabilien', 'kleine-autobiographische-schriften-und-memorabilien', (
-            ('Julius Max Schottky, Professor', 'julios-max-schottky-professor', ()),
+            ('Julius Max Schottky, Professor', 'julius-max-schottky-professor', ()),
 			('Eine männliche Gräfin Hahn-Hahn', 'eine-maennliche-graefin-hahn-hahn', ()),
 			('Onkel Spener', 'onkel-spener', ())
         ))

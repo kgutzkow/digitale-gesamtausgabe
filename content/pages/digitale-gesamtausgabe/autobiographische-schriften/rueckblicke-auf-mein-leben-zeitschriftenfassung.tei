@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Rückblicke auf mein Leben.</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="PeterHasubek">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Peter Hasubek</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="GertVonhoff">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Gert Vonhoff</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Rückblicke auf mein Leben. Von Karl Gutzkow. In: Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben. Berlin. Bd. 6. Nr. 27, 4. Juli 1874, S. 7-10; Nr. 28, 11. Juli 1874, S. 22-25; Nr. 29, 18. Juli 1874, S. 38-41. (Rasch 3.74.07.04).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1874-07-04">4. Juli 1874</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#autobiographische-schriften #rueckblicke-auf-mein-leben-zeitschriftenfassung"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2001-07" who="#PeterHasubek">Fassung 1.0</tei:change>
+      <tei:change when="2008-12" who="#PeterHasubek">Fassung 1.1: Neuer Vor- und Nachspann sowie Sperrungs-Auszeichnung, 1 fehlende Kursivierungs-Auszeichnung ergaenzt, neue Kopfzeilen gemacht, Änderung der bibliographischen Angaben nach den aktuellen Konventionen der Editionsrichtlinien</tei:change>
+      <tei:change when="2018-07" who="#MartinaLauster #GertVonhoff">Fassung 1.2: Ergänzung unter Handschriften</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
