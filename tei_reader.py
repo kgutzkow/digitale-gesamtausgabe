@@ -349,7 +349,7 @@ MONTH_MAPPING = {
 def title_letter(text):
     """Slightly smarter title letter extraction that ignores common articles/prefixes."""
     if text.lower().startswith('der') or text.lower().startswith('die') or text.lower().startswith('das')\
-            or text.lower().startswith('zur') or text.lower().startswith('vom') or text.lower().startswith('ein'):
+            or text.lower().startswith('zur') or text.lower().startswith('vom') or text.lower().startswith('ein '):
         if text[4] != '"':
             return text[4].upper()
         else:
