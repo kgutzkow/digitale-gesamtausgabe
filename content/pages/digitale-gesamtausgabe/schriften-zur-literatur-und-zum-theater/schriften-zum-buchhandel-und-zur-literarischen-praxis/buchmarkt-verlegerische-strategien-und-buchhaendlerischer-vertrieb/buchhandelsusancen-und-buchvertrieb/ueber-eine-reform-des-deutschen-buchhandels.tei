@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Ueber eine Reform des deutschen Buchhandels</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="ChristineHaug">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Christine Haug</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="UteSchneider">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Ute Schneider</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>K[arl] G[utzkow:] Ueber eine Reform des deutschen Buchhandels. In: Frankfurter Telegraph [Neue Folge], Nr 46, [19.] Juni 1837, S. 361-368. (Rasch 3.37.06.19).</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1837-06-19">19. Juni 1837</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#schriften-zur-literatur-und-zum-theater #schriften-zum-buchhandel-und-zur-literarischen-praxis #buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb #buchhandelsusancen-und-buchvertrieb #ueber-eine-reform-des-deutschen-buchhandels"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2001-02" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
+</tei:TEI>
