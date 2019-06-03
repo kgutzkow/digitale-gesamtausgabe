@@ -245,18 +245,18 @@ TAXONOMY = (
 			        ('Eine Eisenbahn-Bibliothek', 'eine-eisenbahn-bibliothek', ()),
 			        ('Wovon leben die deutschen Buchhändler?', 'wovon-leben-die-deutschen-buchhaendler', ())
                 )),
-                ('Journalistische Praxis und Presse', 'jouirnalistische-praxis-und-presse', (
-                    ('H. Brockhaus, P. Lyser und die kritischen Zahlen um Leipzig', 'h-brockhaus-p-lyser-und-die-kritischen-zahlen-um-leipzig', ()),
-			        ('Die Journale Hamburgs', 'die-journale-hamburgs', ()),
-			        ('Soll sich die Theaterkritik bestechen lassen?', 'soll-sich-die-theaterkritik-bestechen-lassen', ()),
-			        ('Statistik des Absatzes deutscher Zeitschriften und Zeitungen', 'statistik-des-absatzes-deutscher-zeitschriften-und-zeitungen', ()),
-			        ('Zeitungslügen', 'zeitungsluegen', ()),
-			        ('Die gewandten Federn', 'die-gewandten-federn', ()),
-			        ('Ueber deutsche Publicistik', 'ueber-deutsche-publicistik', ()),
-			        ('Das Publicum und die Zeitschriften', 'das-publicum-und-die-zeitschriften', ()),
-			        ('Buchhandel und Kritik', 'buchhandel-und-kritik', ()),
-			        ('Literarischer Augiasstall', 'literarischer-augiasstall', ())
-                ))
+            )),
+            ('Journalistische Praxis und Presse', 'journalistische-praxis-und-presse', (
+                ('H. Brockhaus, P. Lyser und die kritischen Zahlen um Leipzig', 'h-brockhaus-p-lyser-und-die-kritischen-zahlen-um-leipzig', ()),
+		        ('Die Journale Hamburgs', 'die-journale-hamburgs', ()),
+		        ('Soll sich die Theaterkritik bestechen lassen?', 'soll-sich-die-theaterkritik-bestechen-lassen', ()),
+		        ('Statistik des Absatzes deutscher Zeitschriften und Zeitungen', 'statistik-des-absatzes-deutscher-zeitschriften-und-zeitungen', ()),
+		        ('Zeitungslügen', 'zeitungsluegen', ()),
+		        ('Die gewandten Federn', 'die-gewandten-federn', ()),
+		        ('Ueber deutsche Publicistik', 'ueber-deutsche-publicistik', ()),
+		        ('Das Publicum und die Zeitschriften', 'das-publicum-und-die-zeitschriften', ()),
+		        ('Buchhandel und Kritik', 'buchhandel-und-kritik', ()),
+		        ('Literarischer Augiasstall', 'literarischer-augiasstall', ())
             ))
         )),
         ('9. Theaterkritiken', 'theaterkritiken', (
