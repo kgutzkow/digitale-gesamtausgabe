@@ -354,8 +354,10 @@ def title_letter(text):
             return text[4].upper()
         else:
             return text[5].upper()
-    if text.lower().startswith('eine '):
+    elif text.lower().startswith('eine '):
         return text[5].upper()
+    elif text.lower().startswith('['):
+        return title_letter(text[1:])
     else:
         return text[0].upper()
 
