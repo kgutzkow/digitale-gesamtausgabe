@@ -90,5 +90,14 @@
       </ul>
     </div>
   </div>
-
 {% endblock %}
+{% block body_scripts %}
+<script>
+window.addEventListener('hashchange', function(ev) {
+    document.documentElement.scrollTop = document.documentElement.scrollTop - 70;
+});
+if (window.location.hash) {
+    document.documentElement.scrollTop = document.documentElement.scrollTop - 70;
+}
+</script>
+{% endblock body_scripts %}
