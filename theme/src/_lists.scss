@@ -1,0 +1,41 @@
+.abbreviation-list, .siglen-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    dt {
+        font-variant: normal;
+        margin: 0;
+        padding: $global-padding/2;
+
+        &:nth-child(4n+3) {
+            background: lighten($light-gray, 5);
+        }
+    }
+    dd {
+        padding: $global-padding/2;
+
+        &:nth-child(4n+4) {
+            background: lighten($light-gray, 5);
+        }
+
+        div.line-block {
+            margin-bottom: 0;
+        }
+    }
+}
+.abbreviation-list {
+    dt {
+        width: 30%;
+    }
+    dd {
+        width: 70%;
+    }
+}
+.siglen-list {
+    dt {
+        width: 20%;
+    }
+    dd {
+        width: 80%;
+    }
+}
