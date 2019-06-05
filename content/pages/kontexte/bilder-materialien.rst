@@ -2,7 +2,7 @@ Bilder und Materialien
 ======================
 
 :slug: bilder-materialien
-:order: 4
+:order: 2
 
 Hier finden Sie ergänzendes Material zu Gutzkow und seinen Werken.
 

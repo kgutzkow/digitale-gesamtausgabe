@@ -3,7 +3,7 @@ Siglen für Texte Gutzkows und die Bibliographie
 
 :menu_title: Siglen
 :slug: siglen
-:order: 5
+:order: 3
 
 *Großbuchstaben werden für Werkausgaben, die zu Gutzkows Lebzeiten erschienen, sowie für von anderen herausgegebene Werkausgaben oder Sammlungen verwendet (z. B. GW = Gesammelte Werke; HOU = die von Houben edierte Werkausgabe; DE = die von Demetz herausgegebene Sammlung kritischer Schriften). Siglen mit fortführenden oder eingestreuten Kleinbuchstaben bezeichnen Einzelwerke, die von Gutzkow selbst oder posthum publiziert wurden, z. B. Wa = Wally, die Zweiflerin; WaH = derselbe Text, herausgegeben von Heintz. Auch für die von Gutzkow redigierten Zeitschriften werden solche Siglen benutzt, z. B. TfD = Telegraph für Deutschland.*
 

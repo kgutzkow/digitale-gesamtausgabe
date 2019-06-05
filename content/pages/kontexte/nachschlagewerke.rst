@@ -3,7 +3,7 @@ Nachschlagewerke zur Literatur und Geschichte des 19. Jahrhunderts
 
 :menu_title: Nachschlagewerke
 :slug: nachschlagewerke
-:order: 1
+:order: 6
 :authors: Wulf Wülfing, Wolfgang Rasch
 
 Farbige Angaben liefern die Siglen / Abkürzungen, die im Editionsprojekt für gewisse Standard-Nachschlagewerke benutzt werden.

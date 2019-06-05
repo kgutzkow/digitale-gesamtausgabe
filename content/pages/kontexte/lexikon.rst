@@ -2,5 +2,5 @@ Gutzkowlexikon
 ==============
 
 :slug: gutzkowlexikon
-:order: 2
+:order: 1
 :Status: draft

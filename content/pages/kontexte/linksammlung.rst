@@ -2,7 +2,7 @@ Linksammlung
 ============
 
 :slug: linksammlung
-:order: 3
+:order: 5
 
 Eine Liste mit Projekten, die für das Verständnis von Gutzkow und seiner Zeit hilfreich sind, befindet sich hier im Aufbau. Wer immer uns mit Hinweisen auf Forschungsprojekte, Websites oder Ausgaben im Internet helfen will, sei hierzu herzlich eingeladen.
 

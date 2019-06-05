@@ -2,7 +2,7 @@ Abkürzungen
 ===========
 
 :slug: abkuerzungen
-:order: 6
+:order: 4
 
 .. class:: abbreviation-list
 
