@@ -14,13 +14,16 @@
       <ul class="tabs" data-tabs id="werke-tabs">
         <li class="tabs-title is-active"><a href="#auszug" aria-selected="true">Auszug</a></li>
         <li class="tabs-title"><a href="#global">Kommentierung</a></li>
+        {% if page.annotation.data %}
+          <li class="tabs-title"><a href="#individual">Einzelstellenkommentare</a></li>
+        {% endif %}
       </ul>
       <div class="tabs-content" data-tabs-content="werke-tabs">
         <div class="tabs-panel is-active taxonomy-tree" id="auszug">
           <div id="source">
             {{ page.content }}
             <div class="nav">{{ page.nav }}</div>
-            <div class="annotation">{{ page.annotation }}</div>
+            <div class="annotation">{{ page.annotation|json }}</div>
           </div>
           <script>
             window.teiReaderConfig = {
@@ -42,6 +45,16 @@
         <div class="tabs-panel" id="global">
           {{ page.global_comment }}
         </div>
+        {% if page.annotation.data %}
+          <div class="tabs-panel" id="individual">
+            <dl>
+              {% for annotation in page.annotation.data %}
+                <dt>{{ annotation.attributes.title|replace('&lt;', '<')|replace('&gt;', '>')|replace('&amp;', '&')|safe }}</dt>
+                <dd>{{ annotation.attributes.content|replace('&lt;', '<')|replace('&gt;', '>')|replace('&amp;', '&')|safe }}</dd>
+              {% endfor %}
+            </dl>
+          </div>
+        {% endif %}
       </div>
     </section>
     <aside class="cell small-12 medium-4 metadata">

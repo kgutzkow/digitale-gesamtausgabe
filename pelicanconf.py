@@ -33,7 +33,8 @@ PLUGIN_PATHS = ['./']
 PLUGINS = ['tei_reader',
            'pelican_page_order',
            'pelican_page_hierarchy',
-           'extra_tests']
+           'extra_tests',
+           'extra_filters']
 
 STATIC_PATHS = ['pages']
 
