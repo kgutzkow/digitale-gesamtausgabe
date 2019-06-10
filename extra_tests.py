@@ -6,11 +6,11 @@ def startswith(a, b):
     return a.startswith(b)
 
 
-def install_gettext(generator):
+def install_extra_tests(generator):
     """Install the extra tests."""
     generator.env.tests['startswith'] = startswith
 
 
 def register():
     """Register the extra tests installation"""
-    signals.generator_init.connect(install_gettext)
+    signals.generator_init.connect(install_extra_tests)
