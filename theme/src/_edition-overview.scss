@@ -1,3 +1,26 @@
-#chronologisch > .menu > li {
-    margin-bottom: $global-margin * 2;
+#chronologisch, #alphabetisch {
+    & > .menu > li {
+        margin-bottom: $global-margin * 2;
+
+        > .menu-text {
+            position: sticky;
+            top: 0;
+            background: $white;
+            z-index: 2;
+
+            @include breakpoint(medium) {
+                top: 45px;
+            }
+        }
+        li > .menu-text {
+            position: sticky;
+            top: 25px;
+            background: $white;
+            z-index: 1;
+
+            @include breakpoint(medium) {
+                top: 70px;
+            }
+        }
+    }
 }
