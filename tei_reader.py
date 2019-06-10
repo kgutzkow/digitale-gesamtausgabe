@@ -292,19 +292,7 @@ OVERVIEW_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
     </div>
   </xsl:template>
   <xsl:template match="tei:p">
-    <p>
-      <xsl:if test="@xml:id">
-        <xsl:attribute name="id">
-          <xsl:value-of select="@xml:id"/>
-        </xsl:attribute>
-      </xsl:if>
-      <xsl:if test="@class">
-        <xsl:attribute name="class">
-          <xsl:value-of select="@style"/>
-        </xsl:attribute>
-      </xsl:if>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
-    </p>
+    <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
   </xsl:template>
   <xsl:template match="tei:seg">
       <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
@@ -401,6 +389,20 @@ class TeiDocumentReader(BaseReader):
                     'annotation': self.strip_ns(str(annotation(doc))),
                     'global_comment': self.strip_ns(str(global_comment(doc))),
                     'template': 'tei-reader'}
+        if '<div>' in metadata['summary'] and '</div>' in metadata['summary']:
+            summary = metadata['summary']
+            summary = summary[summary.find('<div>') + 5:summary.find('</div>')]
+            if len(summary) > 900:
+                short_summary = []
+                length = 0
+                for word in summary.split():
+                    if length + len(word) > 800:
+                        break
+                    short_summary.append(word)
+                    length = length + len(word)
+                short_summary.append('...')
+                summary = ' '.join(short_summary)
+            metadata['summary'] = summary
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
         # Link the pdf if it has the same filename as the TEI file
         if os.path.exists(filename.replace('.tei', '.pdf')):
