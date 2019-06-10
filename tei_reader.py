@@ -388,7 +388,7 @@ class TeiDocumentReader(BaseReader):
                     'summary': self.strip_ns(str(overview(doc))),
                     'nav': str(nav(doc)),
                     'annotation': json.loads(self.strip_ns(str(annotation(doc)))),
-                    'global_comment': self.strip_ns(str(global_comment(doc))),
+                    'global_comment': self.strip_ns(str(global_comment(doc))).strip(),
                     'template': 'tei-reader'}
         if '<div>' in metadata['summary'] and '</div>' in metadata['summary']:
             summary = metadata['summary']
