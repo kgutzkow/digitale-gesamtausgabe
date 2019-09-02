@@ -146,7 +146,7 @@ header {
 
         .top-bar {
             max-height: 0;
-            transition: max-height 2s;
+            transition: max-height 0.5s;
 
             .top-bar-left {
                 > ul:first-child {
@@ -208,6 +208,8 @@ header {
                 }
 
                 @include breakpoint(large) {
+                    transition: max-height 1s;
+
                     .top-bar-left {
                         > ul {
                             &:first-child {
