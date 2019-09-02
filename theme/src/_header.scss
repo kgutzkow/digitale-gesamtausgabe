@@ -1,81 +1,246 @@
-header#main-nav {
-    @include breakpoint(medium) {
-        .top-bar.initial {
-            margin-bottom: $global-margin * 2;
-            padding: $global-padding 0;
-            box-shadow: 0 0 5px $medium-gray;
-            display: flex;
-
-            .title {
-                margin-right: $global-margin * 5;
-
-                a {
-                    color: $black;
-                    font-size: rem-calc(24);
-                }
-                small {
-                    display: block;
-                    font-size: rem-calc(16);
-                }
-            }
-
-            > nav > ul > li > a {
-                font-size: rem-calc(22);
-            }
-
-            .slim a {
-                padding: $global-padding / 4 $global-padding;
-            }
-
-            .top-bar-right {
-                padding-right: $global-padding * 2;
-            }
-        }
-
-        .top-bar.small {
-            display: none;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            left: 0;
-            z-index: 10;
-            box-shadow: 0 0 10px $dark-gray;
-
-            .top-bar-left > ul.menu > li > a {
-                padding-top: $global-padding * 0.85;
-                padding-bottom: $global-padding * 0.85;
-            }
-            .top-bar-right img {
-                height: 24px;
-            }
-        }
-    }
-
-    @include breakpoint(small only) {
-        .top-bar.initial {
-            display: none;
-        }
-        .top-bar.small {
-            display: flex;
-
-            .top-bar-left > ul {
-                flex-direction: column;
-            }
-            .title-bar > .menu-icon {
-                margin-right: 1rem;
-            }
-            .top-bar-right {
-                display: none;
-            }
-        }
-    }
-
+.title-bar-title {
+    padding-left: $global-padding / 2;
 }
-@include breakpoint(medium) {
-    .scrolling {
-        header#main-nav {
-            .top-bar.small {
+
+header {
+    &#main-nav {
+        .top-bar {
+            .top-bar-left {
+                > ul:first-child {
+                    a {
+                        color: $black;
+                    }
+                }
+            }
+        }
+
+        @include breakpoint(small only) {
+            .top-bar {
                 display: flex;
+
+                .top-bar-left > ul {
+                    flex-direction: column;
+                }
+            }
+        }
+
+        @include breakpoint(medium) {
+            background: $white;
+            z-index: 1;
+            margin-bottom: $global-margin;
+
+            .top-bar {
+                box-shadow: 0 0 5px $medium-gray;
+                transition: box-shadow 0.3s;
+
+                .top-bar-left {
+                    display: flex;
+
+                    > ul {
+                        &:first-child {
+                            a {
+                                font-size: rem-calc(24);
+                                white-space: nowrap;
+
+                                small {
+                                    font-size: rem-calc(18);
+                                    display: block;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                @include breakpoint(medium only) {
+                    .top-bar-left {
+                        > ul {
+                            &:first-child {
+                                width: 33.33333%;
+                            }
+                            &:last-child {
+                                width: 66.66666%;
+
+                                > li {
+                                    width: 50%;
+                                }
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+
+        @include breakpoint(large) {
+            .top-bar {
+                padding: $global-padding 0;
+
+                .top-bar-left {
+                    flex: 0 1 auto;
+
+                    > ul {
+                        &:last-child {
+                            > li {
+                                > a {
+                                    margin-top: rem-calc(4);
+                                    font-size: rem-calc(20);
+                                }
+
+                                > ul {
+                                    top: rem-calc(28) + 1rem;
+                                }
+                            }
+                        }
+                    }
+                }
+                .top-bar-right {
+                    flex: 1 1 auto;
+
+                    > ul > li {
+                        &:last-child {
+                            flex: 1 1 auto;
+                            text-align: right;
+                            padding: rem-calc(0) rem-calc(24);
+
+                            img {
+                                height: rem-calc(64);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        @include breakpoint(xxlarge) {
+            .top-bar {
+                margin-bottom: $global-margin * 2;
+                padding: $global-padding 0;
+                align-items: flex-start;
+
+                .top-bar-left {
+                    > ul {
+                        &:last-child {
+                            margin-left: $global-margin * 2;
+                            > li {
+                                > a {
+                                    &::after {
+                                        border: 0;
+                                    }
+                                }
+                                > ul {
+                                    display: block;
+                                    position: static;
+                                    border: 0;
+                                    padding-left: $global-padding;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &#medium-overlay-nav {
+        display: none;
+
+        .top-bar {
+            max-height: 0;
+            transition: max-height 2s;
+
+            .top-bar-left {
+                > ul:first-child {
+                    a {
+                        color: $black;
+                    }
+                }
+            }
+        }
+
+        @include breakpoint(medium) {
+            display: block;
+            position: fixed;
+            top: 0px;
+            width: 100%;
+            max-height: 0;
+            visibility: hidden;
+            background: $white;
+            z-index: 1;
+            margin-bottom: $global-margin;
+
+            .top-bar {
+                box-shadow: 0 0 5px $dark-gray;
+
+                .top-bar-left {
+                    display: flex;
+
+                    > ul {
+                        &:first-child {
+                            a {
+                                font-size: rem-calc(24);
+                                white-space: nowrap;
+
+                                small {
+                                    font-size: rem-calc(18);
+                                    display: block;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                @include breakpoint(medium only) {
+                    .top-bar-left {
+                        > ul {
+                            &:first-child {
+                                width: 33.33333%;
+                            }
+                            &:last-child {
+                                width: 66.66666%;
+
+                                > li {
+                                    width: 50%;
+                                }
+                            }
+                        }
+                    }
+
+                }
+
+                @include breakpoint(large) {
+                    .top-bar-left {
+                        > ul {
+                            &:first-child {
+                                a {
+                                    font-size: inherit;
+
+                                    small {
+                                        display: none;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                @include breakpoint(xlarge) {
+                    img {
+                        height: rem-calc(24);
+                    }
+                }
+            }
+        }
+    }
+}
+
+.scrolling {
+    header {
+        &#medium-overlay-nav {
+            max-height: 200px;
+            visibility: visible;
+
+            .top-bar {
+                max-height: 200px;
             }
         }
     }

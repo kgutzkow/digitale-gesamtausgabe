@@ -33,65 +33,41 @@
       <div class="title-bar-title">Menu</div>
     </div>
     <header id="main-nav">
-      <div class="top-bar initial">
+      <div class="top-bar">
         <nav class="top-bar-left">
-          <ul class="menu">
-            <li class="title{% if output_file == 'index.html' %} active{% endif %}"><a href="{{ SITEURL }}">{{ SITENAME }}<small>{{ SITETAGLINE }}</small></a></li>
+          <ul class="menu dropdown" data-dropdown-menu="">
+            <li {% if output_file == 'index.html' %}class="active"{% endif %}><a href="{{ SITEURL }}">{{ SITENAME }}<small class="show-for-medium">{{ SITETAGLINE }}</small></a></li>
             {% for title, link in MENUITEMS %}
               <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
-            {% if DISPLAY_PAGES_ON_MENU -%}
-              {% for menu_page in pages|selectattr('parent', 'none')|rejectattr('no_menu') %}
-                <li><a href="{{ SITEURL }}/{{ menu_page.url }}">{% if menu_page.menu_title %}{{ menu_page.menu_title }}{% else %}{{ menu_page.title }}{% endif %}</a>
-                  <ul class="menu vertical slim nested">
-                    {% for top_child in menu_page.children %}
-                      <li><a href="{{ SITEURL }}/{{ top_child.url }}">{% if top_child.menu_title %}{{ top_child.menu_title }}{% else %}{{ top_child.title }}{% endif %}</a></li>
-                    {% endfor %}
-                  </ul>
-                </li>
-              {% endfor %}
-            {% endif %}
+          </ul>
+          <ul class="menu dropdown" data-dropdown-menu="">
+            {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False, max_depth=1) }}
           </ul>
         </nav>
         <nav class="top-bar-right">
           <ul class="menu dropdown" data-dropdown-menu="">
-            {% if DISPLAY_CATEGORIES_ON_MENU -%}
-              <li><a href="#">Kategorien</a>
-                <ul class="menu vertical">
-                  {% for menu_category, null in categories %}
-                    <li {% if menu_category == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_category.url }}">{{ menu_category }}</a></li>
-                  {% endfor %}
-                </ul>
-              </li>
-            {% endif %}
-            <li class="menu-text"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Karl Gutzkow"/></li>
+            <li class="menu-text show-for-xlarge"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Porträt Karl Gutzkow"/></li>
           </ul>
         </nav>
       </div>
-      <div class="top-bar small">
+    </header>
+    <header id="medium-overlay-nav">
+      <div class="top-bar">
         <nav class="top-bar-left">
           <ul class="menu dropdown" data-dropdown-menu="">
-            <li {% if output_file == 'index.html' %}class="active"{% endif %}><a href="{{ SITEURL }}">{{ SITENAME }}</a></li>
+            <li {% if output_file == 'index.html' %}class="active"{% endif %}><a href="{{ SITEURL }}">{{ SITENAME }}<small>{{ SITETAGLINE }}</small></a></li>
             {% for title, link in MENUITEMS %}
               <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
-            {% if DISPLAY_PAGES_ON_MENU -%}
-              {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False, max_depth=1) }}
-            {% endif %}
+          </ul>
+          <ul class="menu dropdown" data-dropdown-menu="">
+            {{ page_menu(pages|selectattr('parent', 'none')|rejectattr('no_menu'), direction='horizontal', include_ul=False, max_depth=1) }}
           </ul>
         </nav>
         <nav class="top-bar-right">
           <ul class="menu dropdown" data-dropdown-menu="">
-            <li class="menu-text"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Karl Gutzkow"/></li>
-            {% if DISPLAY_CATEGORIES_ON_MENU -%}
-              <li><a href="#">Kategorien</a>
-                <ul class="menu vertical">
-                  {% for menu_category, null in categories %}
-                    <li {% if menu_category == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ menu_category.url }}">{{ menu_category }}</a></li>
-                  {% endfor %}
-                </ul>
-              </li>
-            {% endif %}
+            <li class="menu-text show-for-xlarge"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/gutzkow-head.jpg" alt="Porträt Karl Gutzkow"/></li>
           </ul>
         </nav>
       </div>
@@ -136,11 +112,11 @@
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/foundation.js"></script>
     <script>$(document).foundation();</script>
     <script>
-      var html = document.querySelector('html');
-      var body = document.querySelector('body');
-      var initialTopBar = document.querySelector('.top-bar.initial');
+      const html = document.querySelector('html');
+      const body = document.querySelector('body');
+      const baseHeader = document.querySelector('#main-nav');
       window.addEventListener('scroll', function(ev) {
-          if (html.scrollTop < initialTopBar.clientHeight) {
+          if (html.scrollTop <= baseHeader.clientHeight) {
               body.classList.remove('scrolling');
           } else {
               body.classList.add('scrolling');
