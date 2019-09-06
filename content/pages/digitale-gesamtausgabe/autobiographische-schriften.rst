@@ -1,5 +1,5 @@
-Autobiographische Schriften
-===========================
+VII. Autobiographische Schriften
+================================
 
 :slug: autobiographische-schriften
 :template: edition-overview

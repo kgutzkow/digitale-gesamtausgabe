@@ -1,5 +1,5 @@
-Reiseliteratur
-==============
+VI. Reiseliteratur
+==================
 
 :slug: reiseliteratur
 :template: edition-overview
