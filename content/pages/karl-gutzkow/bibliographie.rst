@@ -1,8 +1,7 @@
-Werke und Ausgaben Karl Gutzkows 1831-2014
-==========================================
+Werke und Ausgaben
+==================
 
-:order: 1
-:menu_title: Bibliographie
+:order: 2
 :author: Wolfgang Rasch
 
 Die Bibliographie bringt eine chronologische Übersicht der selbständig erschienenen Sammelausgaben, der Werke, der nur als Manuskriptdruck erschienenen Dramen, der von Gutzkow herausgegebenen Zeitschriften und der von Gutzkow bevorworteten Werke anderer.
