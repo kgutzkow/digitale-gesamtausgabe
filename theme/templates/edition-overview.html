@@ -40,12 +40,12 @@
 {% block content %}
   {{ super() }}
   <ul class="tabs" data-tabs id="werke-tabs">
-    <li class="tabs-title is-active"><a href="#abteilungen" aria-selected="true">Abteilungen</a></li>
+    <li class="tabs-title is-active"><a href="#einzelwerke" aria-selected="true">Einzelwerke</a></li>
     <li class="tabs-title"><a href="#chronologisch">Chronologisch</a></li>
     <li class="tabs-title"><a href="#alphabetisch">Alphabetisch</a></li>
   </ul>
   <div class="tabs-content" data-tabs-content="werke-tabs">
-    <div class="tabs-panel is-active taxonomy-tree" id="abteilungen">
+    <div class="tabs-panel is-active taxonomy-tree" id="einzelwerke">
       <div class="grid-x">
         <div class="small-12 medium-9">
           {{ taxonomy(TAXONOMY, prefix=page.taxonomy.split(',') if page.taxonomy else None, nested=False) }}
