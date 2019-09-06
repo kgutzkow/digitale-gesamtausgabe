@@ -335,22 +335,6 @@ MONTH_MAPPING = {
 }
 
 
-def title_letter(text):
-    """Slightly smarter title letter extraction that ignores common articles/prefixes."""
-    if text.lower().startswith('der ') or text.lower().startswith('die ') or text.lower().startswith('das ')\
-            or text.lower().startswith('zur ') or text.lower().startswith('vom ') or text.lower().startswith('ein '):
-        if text[4] != '"':
-            return text[4].upper()
-        else:
-            return text[5].upper()
-    elif text.lower().startswith('eine '):
-        return text[5].upper()
-    elif text.lower().startswith('['):
-        return title_letter(text[1:])
-    else:
-        return text[0].upper()
-
-
 class TeiDocumentReader(BaseReader):
     """Reader that converts Gutzkow TEI into the structure needed for Pelican and the HTML needed for the
     TEI Reader using a series of XSLT transformations."""
@@ -373,7 +357,7 @@ class TeiDocumentReader(BaseReader):
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
                     'year': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[0:4],
                     'month': MONTH_MAPPING[str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[5:7]],
-                    'title-letter': title_letter(str(doc.xpath('//tei:title/text()', namespaces=ns)[0])),
+                    'title-letter': str(doc.xpath('//tei:title/text()', namespaces=ns)[0])[0].upper(),
                     'taxonomy': ', '.join([t[1:] for t in str(doc.xpath('//tei:catRef/@target', namespaces=ns)[0]).split(' ')]),
                     'authors': [str(author) for author in doc.xpath('//tei:author/text()', namespaces=ns)],
                     'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
