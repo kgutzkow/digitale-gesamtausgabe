@@ -7,6 +7,8 @@ Anhang zur Ausgabe
 In diesem Bereich finden sie kontextuelle Inhalte in den Bereichen:
 
 * `Bilder und Materialien <anhang/bilder-materialien.html>`_
+* Lexikon
+* Fragen und Probleme
 * `Siglen <anhang/siglen.html>`_
 * `Abkürzungen <anhang/abkuerzungen.html>`_
 * `Linksammlung <anhang/linksammlung.html>`_
