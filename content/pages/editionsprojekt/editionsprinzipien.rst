@@ -1,7 +1,7 @@
 Allgemeine Editionsprinzipien
 =============================
 
-:order: 1
+:order: 2
 :menu_title: Editionsprinzipien
 
 Die Editionsprinzipien können `hier heruntergeladen werden <{static}editionsprinzipien.pdf>`_.

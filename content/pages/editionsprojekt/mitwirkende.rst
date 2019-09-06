@@ -1,7 +1,7 @@
 Mitwirkende
 ===========
 
-:order: 2
+:order: 3
 
 * Anne-Kathrin Bernsdorf (Halle) [seit 2006]
 * Prof. Dr. Thomas Bremer (Halle)
