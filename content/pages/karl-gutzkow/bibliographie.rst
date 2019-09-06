@@ -8,8 +8,6 @@ Die Bibliographie bringt eine chronologische Übersicht der selbständig erschie
 Außerdem enthält sie alle wichtigen nach Gutzkows Tod herausgekommenen Werkausgaben, Einzelwerke und selbständig erschienenen Briefeditionen bis heute.
 Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow ist die "Bibliographie Karl Gutzkow" von Wolfgang Rasch (2 Bde., Bielefeld: Aisthesis, 1998).
 
-`Nachträge <{static}bibliographie-nachtraege.pdf>`_
-
 1831
 ----
 
