@@ -269,6 +269,7 @@ TAXONOMY = (
             ('Richard Wagner\'sche Musik', 'richard-wagner-sche-musik', ())
         ))
     )),
+    ('V. Epigramme, Denksprüche, Gedichte', 'epigramme-denksprueche-gedichte', ()),
     ('VI. Reiseliteratur', 'reiseliteratur', (
         ('1. Briefe aus Paris', 'briefe-aus-paris', ()),
         ('3. Berliner Eindruecke', 'berliner-eindruecke', (
@@ -285,5 +286,6 @@ TAXONOMY = (
 			('Eine männliche Gräfin Hahn-Hahn', 'eine-maennliche-graefin-hahn-hahn', ()),
 			('Onkel Spener', 'onkel-spener', ())
         ))
-    ))
+    )),
+    ('VIII. Briefe', 'briefe', ())
 )
