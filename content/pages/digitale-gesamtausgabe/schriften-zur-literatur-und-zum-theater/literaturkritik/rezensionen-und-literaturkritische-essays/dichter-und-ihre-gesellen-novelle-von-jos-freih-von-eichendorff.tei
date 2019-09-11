@@ -70,9 +70,17 @@
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head type="level-1">
+        <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
+        <tei:seg>. Novelle von Jos. Freih. </tei:seg>
+        <tei:hi style="letter-sparse">von Eichendorff</tei:hi>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>(Bearbeitung: Wolfgang Rasch, Berlin)</tei:seg>
+      </tei:head>
+      <tei:head type="level-1">
         <tei:seg>Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head type="level-3">
         <tei:seg>Handschriften</tei:seg>
       </tei:head>
       <tei:head type="level-3">
@@ -81,24 +89,26 @@
       <tei:p>
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head type="level-3">
         <tei:seg>Drucke</tei:seg>
       </tei:head>
       <tei:p>
-        <tei:seg>Gutzkows Rezension von Eichendorffs "Dichter und ihre Gesellen" wurde zuerst im "Literatur-Blatt" zum "Phönix" veröffentlicht. Diese Arbeit verwendete Gutzkow 1836 in seinen Beiträgen zur Geschichte der neuesten Literatur, wo er den Text ohne Überschrift, aber weitgehend unverändert im Abschnitt Roman integrierte.</tei:seg>
+        <tei:seg>Gutzkows Rezension von Eichendorffs "</tei:seg>
+        <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
+        <tei:seg>" wurde zuerst im "Literatur-Blatt" zum "Phönix" veröffentlicht. Diese Arbeit verwendete Gutzkow 1836 in seinen Beiträgen zur Geschichte der neuesten Literatur, wo er den Text ohne Überschrift, aber weitgehend unverändert im Abschnitt Roman integrierte.</tei:seg>
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>[Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1)</tei:seg>
+          <tei:seg>J [Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1)</tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
+          <tei:seg>E Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-1">
+      <tei:head type="level-2">
         <tei:seg>Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head type="level-3">
         <tei:seg>Edierter Text</tei:seg>
       </tei:head>
       <tei:p>
@@ -111,7 +121,12 @@
         <tei:seg>Textänderungen</tei:seg>
       </tei:head>
       <tei:p>
-        <tei:seg>3,33 in der sich] in dem sich korrigiert nach E</tei:seg>
+        <tei:hi style="font-weight-bold">3,33</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:ref target="#unknown">in der sich</tei:ref>
+        <tei:seg>] </tei:seg>
+        <tei:ref target="#unknown">in dem sich</tei:ref>
+        <tei:seg> korrigiert nach E</tei:seg>
       </tei:p>
     </tei:interpGrp>
     <tei:interpGrp type="individual"/>
