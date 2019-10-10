@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="45"/>
         <tei:seg> 1) </tei:seg>
         <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
@@ -72,28 +72,28 @@
         <tei:seg> sind; diese Hautreliefs sind allerdings die klägliche Folge der Romantik, und haben diese heruntergebracht zur Poesie des Nichts; allein das lyrische Element, so ausgeprägt wie bei Eichendorff, so verwebt in die Wahrheit der Natur, wenn auch nur der einseitigsten, in die Wahrheit der Landschaft, dies Element, so aufgegangen in dem Dichter, der in seinem Roman wenigstens die einzige haltbare und begreifliche Person ist, muß unsre Darstellungskunst fördern; denn wer wollte sagen, daß wir zu Göthe's Einfachheit zurückkehren müssen; und wer es sagt, wer wollte damit etwas andres ausdrücken, als daß wir ein so klares, beruhigtes Resultat in unsrer Poesie erreichen müssen, wie Göthe? Göthe's spiegelglatte, wie man zu sagen pflegt, jonischhelle Darstellung ist nur die erste Stufe des Romans, die epische; jene Stufe wo der Dichter einen Gegenstand sich "vom Leibe" hielt, wo er wie ein Cherub des Friedens über ihn hinfährt, wo man den Künstler sieht, der aus dem rohen Marmorblock eine göttliche Gestalt, aber eine Gestalt mit trauerndhohlen Augen, meißelt. Hier blieb Göthe stehen. Die romantische Schule drang auf Vergeistigung, sie wollte aus dem Ich die Welt schaffen, und bereicherte die Kunst mit einem neuen Gedanken, den die Narren christlich, mittelaltrig, was weiß ich! genannt haben, der aber kein andrer ist, als die Subjektivität, in der sich die Welt spiegelt. Man begann lyrisch zu componiren, die gespenstischen, die humoristischen Darstellungen kamen auf, es war gleichsam eine Selbstbefruchtung; denn Niemand hat in der That etwas anderes damals hervorgebracht, als sich selbst. Für die Misère kam dies Prinzip wie gerufen: die Romantik der Restauration wucherte daraus hervor, wie Unkraut und Pilze. Für die dritte Stufe der Darstellungskunst, für die dramatische, für die lebenschaffende, welche den subjektiven Prozeß überstanden hat, für eine Kunst, welche erst im Anzuge ist, geschah wenig, wenn man Arnim, Brentano, vielleicht Tieck und Eichendorff ausnimmt. Eichendorff hat nur den Fehler, daß er zu spät kömmt: er verbessert ihn vielleicht dadurch, daß er das Prinzip recht klar macht, die Tradition lebendig erhält, und uns Jüngern recht lebhaft zeigt, wie man die Weise seiner Schule mit Göthe's Classizität verbinden muß. Unsre Romane sollen von der Leidenschaft geboren sein oder einer hohen Idee; wir sollen Alles, was in uns Leben schafft, aussprühen lassen als elektrische Funken zur Belebung der Personen, welche die Träger unsres Gedichts sind, und nichts objektiv darstellen, was wir nicht subjektiv aus uns selbst geboren haben. Nur so kann Neues kommen: Neues, das hie und da dem Alten ähnlich sieht, aber einen gewissen unerklärlichen Ursprung verräth, ein unheimliches, wirres Auge, das noch nicht Alle verstehen, jetzt noch sonderbar, auffallend, selbst peinlich ist für einen Betrachter, der in die alte Sauce noch ganz eingetunkt ist; aber allmählich muß das Verständniß eintreten und das Sonderbare wird uns so gewohnt werden, daß wir es lieben lernen. Diese ganze Deduktion ist keine Sophistik; sondern ein tiefes Gesetz, welches aus der Verwirrung der gegenwärtigen Literatur sich deutlich herausscheidet.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global">
-      <tei:head type="level-1">
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
         <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
         <tei:seg>. Novelle von Jos. Freih. </tei:seg>
         <tei:hi style="letter-sparse">von Eichendorff</tei:hi>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>(Bearbeitung: Wolfgang Rasch, Berlin)</tei:seg>
       </tei:head>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Übersicht</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Drucke</tei:seg>
       </tei:head>
       <tei:p>
@@ -109,10 +109,10 @@
           <tei:seg>E Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Edierter Text</tei:seg>
       </tei:head>
       <tei:p>
@@ -121,15 +121,15 @@
       <tei:p>
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Textänderungen</tei:seg>
       </tei:head>
       <tei:p>
         <tei:hi style="font-weight-bold">3,33</tei:hi>
         <tei:seg> </tei:seg>
-        <tei:ref target="#unknown">in der sich</tei:ref>
+        <tei:q>in der sich</tei:q>
         <tei:seg>] </tei:seg>
-        <tei:ref target="#unknown">in dem sich</tei:ref>
+        <tei:q>in dem sich</tei:q>
         <tei:seg> korrigiert nach E</tei:seg>
       </tei:p>
     </tei:interpGrp>
