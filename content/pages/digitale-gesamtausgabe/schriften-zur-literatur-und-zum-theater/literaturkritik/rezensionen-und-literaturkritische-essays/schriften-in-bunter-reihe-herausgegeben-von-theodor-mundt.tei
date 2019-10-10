@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="46"/>
         <tei:seg> 2) </tei:seg>
         <tei:hi style="letter-sparse">Schriften in bunter Reihe</tei:hi>
@@ -82,8 +82,6 @@
         <tei:l>
           <tei:seg>Unter Weibern auferzogen, gleichest du dem Achilleus,</tei:seg>
         </tei:l>
-      </tei:lg>
-      <tei:lg>
         <tei:l>
           <tei:seg>Der das Schlachtschwert zwar zu wählen; doch es nicht zu führen weiß.</tei:seg>
         </tei:l>
@@ -95,7 +93,7 @@
         <tei:seg>*) Erscheint jetzt unter dem Titel: Literarischer Zodiakus. Die Mitarbeiter sind zum großen Theile junge Doktrinäre mit etwas henriquinquistischem Anstrich.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global">
+    <tei:interpGrp type="global" xml:id="global">
       <tei:head type="level-1">
         <tei:seg>Schriften in bunter Reihe. Herausgegeben von Theodor Mundt</tei:seg>
       </tei:head>
