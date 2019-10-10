@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="46"/>
         <tei:seg> 2) </tei:seg>
         <tei:hi style="letter-sparse">Schriften in bunter Reihe</tei:hi>
@@ -72,8 +72,8 @@
         <tei:seg> Diese Figürlichkeiten sind freilich in Deutschland schon zum großen Theile verwischt, aber sie lassen sich alle wieder ausschraffiren zu einer neuen stylistischen Schöpfung. Ich möchte mich nicht ausdrücken, als handelte es sich in dieser Hinsicht um eine Bereicherung des Sprachschatzes; nein, es sind nichts, als dreiste und glückliche Griffe aus seiner unversiegbaren Quelle.</tei:seg>
       </tei:p>
       <tei:p>
-        <tei:seg>Wie schön, daß wir wieder eine Zeit erleben, wo </tei:seg>
-        <tei:hi style="letter-sparse">der Gedanke</tei:hi>
+        <tei:seg>Wie schön, daß wir wieder eine Zeit erleben, wo der </tei:seg>
+        <tei:hi style="letter-sparse">Gedanke</tei:hi>
         <tei:seg> für die Literatur interessant wird! Unsre sehr kleinen, und sehr naseweisen Vorgänger von gestern hatten den Gedanken ziemlich aus der Literatur hinausgeschrieben; es sollte alles Poesie sein, das heißt, Verwaschung, Wasserfarbe, Pastell, Schmetterlingsstaub, und Empfindung. Es ist so viel genascht und gescherzt und geschäkert worden, daß der </tei:seg>
         <tei:hi style="letter-sparse">Gedanke</tei:hi>
         <tei:seg> sich noch recht mühselig und schwerfällig bewegt, und daß es Schriftsteller gibt, welchen zuzusehen bei ihren Operationen des Nachdenkens, oft Mitleid erregt. Th. Mundt gehört zu ihnen. Wie mühselig und beladen spricht er oft! Allein das Prinzip ist vortrefflich und nur Geduld, die Grazie bleibt zuletzt nicht aus! Wer so von der Schule geknechtet worden ist, wie dieser junge Landsmann von mir, wem die Hegelschen Sätze und die Metrik so viel Schweiß gekostet haben, wer um das Ewige, das Wahre, die Idee des Schönen, die klassischen Studien so viele Thränen vergossen hat; und doch den Zauberruf der Muse nicht von sich wies, und für das Große und Erhabene für die Zeit und ihre Interessen ein so empfindungsvolles Herz bewahren konnte; dem wendet Euch mit Liebe und Achtung hin und sprecht ihm Muth zu, wenn auch noch nicht Alles bei ihm klappen und klingen will! Vor einem Jahre schrieb ich über diesen ringenden Geist in mein Portefeuille:</tei:seg>
@@ -82,8 +82,6 @@
         <tei:l>
           <tei:seg>Unter Weibern auferzogen, gleichest du dem Achilleus,</tei:seg>
         </tei:l>
-      </tei:lg>
-      <tei:lg>
         <tei:l>
           <tei:seg>Der das Schlachtschwert zwar zu wählen; doch es nicht zu führen weiß.</tei:seg>
         </tei:l>
@@ -95,7 +93,7 @@
         <tei:seg>*) Erscheint jetzt unter dem Titel: Literarischer Zodiakus. Die Mitarbeiter sind zum großen Theile junge Doktrinäre mit etwas henriquinquistischem Anstrich.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global">
+    <tei:interpGrp type="global" xml:id="global">
       <tei:head type="level-1">
         <tei:seg>Schriften in bunter Reihe. Herausgegeben von Theodor Mundt</tei:seg>
       </tei:head>
