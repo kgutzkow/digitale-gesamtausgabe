@@ -1,9 +1,51 @@
 /**
  * Reader formatting
  */
+ // Generic formatting
+ .page-break {
+     font-size: 80%;
+     font-style: italic;
+
+     &::before {
+         content: '['
+     }
+     &::after {
+         content: ']'
+     }
+ }
+ .letter-sparse {
+     letter-spacing: 3pt;
+     padding-left: 3pt;
+ }
+ .font-weight-bold {
+     font-weight: 700;
+ }
+ .font-style-italic {
+     font-style: italic;
+ }
+ .font-size-large {
+     font-size: 15pt;
+ }
+ .font-size-medium {
+     font-size: 13pt;
+ }
+ .font-size-small {
+     font-size: 10pt;
+ }
+ .font-size-very-small {
+     font-size: 8pt;
+ }
+ .foreign-language {
+     font-weight: 300;
+ }
+ .quote {
+     font-style: italic;
+ }
+
 #source {
     display: none;
 }
+
 #global {
     ul.sources {
         margin-left: 0;
@@ -20,7 +62,19 @@
             }
         }
     }
+
+    span.cited-page-line-ref {
+        font-weight: bold;
+        padding-right: 0.5rem;
+    }
+
+    span.cited-word-range {
+        &::after{
+            content: ']';
+        }
+    }
 }
+
 #tei-reader {
     z-index: 10;
     display: block !important;
@@ -215,46 +269,6 @@
                     border-bottom: 1px solid #cacaca;
                 }
             }
-        }
-
-        // Generic formatting
-        .page-break {
-            font-size: 80%;
-            font-style: italic;
-
-            &::before {
-                content: '['
-            }
-            &::after {
-                content: ']'
-            }
-        }
-        .letter-sparse {
-            letter-spacing: 1.5pt;
-        }
-        .font-weight-bold {
-            font-weight: 700;
-        }
-        .font-style-italic {
-            font-style: italic;
-        }
-        .font-size-large {
-            font-size: 15pt;
-        }
-        .font-size-medium {
-            font-size: 13pt;
-        }
-        .font-size-small {
-            font-size: 10pt;
-        }
-        .font-size-very-small {
-            font-size: 8pt;
-        }
-        .foreign-language {
-            font-weight: 300;
-        }
-        .quote {
-            font-style: italic;
         }
     }
 }

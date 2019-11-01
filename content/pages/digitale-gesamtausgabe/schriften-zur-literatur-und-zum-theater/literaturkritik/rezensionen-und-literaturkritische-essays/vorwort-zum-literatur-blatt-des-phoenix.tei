@@ -155,12 +155,14 @@
         <tei:q>Kritik</tei:q>
         <tei:seg> integrierte.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>J Karl Gutzkow: [Vorwort zum "Literatur-Blatt" des "Phönix"]. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 1, 7. Januar 1835, S. 21-24. (Rasch 3.35.01.07)</tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>E Kritik. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 23-28. (Rasch 2.13.1.3)</tei:seg>
-      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: [Vorwort zum "Literatur-Blatt" des "Phönix"]. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 1, 7. Januar 1835, S. 21-24. (Rasch 3.35.01.07)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>Kritik. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 23-28. (Rasch 2.13.1.3)</tei:seg>
+        </tei:item>
+      </tei:list>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
@@ -177,12 +179,10 @@
         <tei:seg>2.1.1. Textänderungen</tei:seg>
       </tei:head>
       <tei:p>
-        <tei:hi style="font-weight-bold">9,5</tei:hi>
+        <tei:citedRange type="page-line-ref">9,5</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:q>Quarterly</tei:q>
-        <tei:seg>] </tei:seg>
-        <tei:q>Quaterly</tei:q>
-        <tei:seg> </tei:seg>
+        <tei:citedRange type="word-range">Quarterly</tei:citedRange>
+        <tei:seg> Quaterly </tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>

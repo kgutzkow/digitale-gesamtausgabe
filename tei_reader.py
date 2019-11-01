@@ -161,7 +161,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
           <xsl:value-of select="@style"/>
         </xsl:attribute>
       </xsl:if>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | tei:citedRange"/>
     </p>
   </xsl:template>
   <xsl:template match="tei:list[@type='sources']">
@@ -194,6 +194,12 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         </xsl:attribute>
         <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
       </a>
+  </xsl:template>
+  <xsl:template match="tei:citedRange[@type='page-line-ref']">
+    <span class="cited-page-line-ref"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:citedRange[@type='word-range']">
+    <span class="cited-word-range"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
   </xsl:template>
 </xsl:stylesheet>
 '''
