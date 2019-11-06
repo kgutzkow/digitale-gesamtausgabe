@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0 </tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-10">Text &amp; Miniapp: Fassung 1.1</tei:change>
+      <tei:change who="#GertVonhoff" when="2019-09-10">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="21"/>
         <tei:seg> [Vorwort zum "Literatur-Blatt" des "Phönix"]</tei:seg>
       </tei:head>
@@ -176,8 +176,12 @@
       <tei:p>
         <tei:citedRange type="page-line-ref">9,5</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:citedRange type="word-range">Quarterly</tei:citedRange>
-        <tei:seg> Quaterly </tei:seg>
+        <tei:citedRange type="word-range">
+          <tei:q>Quarterly</tei:q>
+        </tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>Quaterly</tei:q>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
