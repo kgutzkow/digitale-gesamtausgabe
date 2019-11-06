@@ -41,8 +41,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-12" who="#WolfgangRasch">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-11">Fassung 1.1</tei:change>
+      <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0</tei:change>
+      <tei:change who="#GertVonhoff" when="2019-09-11">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -74,27 +74,22 @@
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
       <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
-        <tei:seg>. Novelle von Jos. Freih. </tei:seg>
-        <tei:hi style="letter-sparse">von Eichendorff</tei:hi>
+        <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>(Bearbeitung: Wolfgang Rasch, Berlin)</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:seg>Textüberlieferung</tei:seg>
+        <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Handschriften</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Übersicht</tei:seg>
+        <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Drucke</tei:seg>
+        <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg>Gutzkows Rezension von Eichendorffs "</tei:seg>
@@ -103,17 +98,17 @@
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J [Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1)</tei:seg>
+          <tei:seg>[Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1)</tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>E Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
+          <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2">
-        <tei:seg>Textdarbietung</tei:seg>
+        <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Edierter Text</tei:seg>
+        <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
@@ -122,15 +117,29 @@
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Textänderungen</tei:seg>
+        <tei:seg>2.1.1. Textänderungen</tei:seg>
       </tei:head>
       <tei:p>
-        <tei:hi style="font-weight-bold">3,33</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:q>in der sich</tei:q>
-        <tei:seg>] </tei:seg>
+        <tei:hi type="page-line-ref" style="font-weight-bold"/>
+        <tei:hi type="page-line-ref" style="font-weight-bold"/>
+        <tei:hi type="page-line-ref" style="font-weight-bold"/>
+        <tei:hi type="page-line-ref" style="font-weight-bold">
+          <tei:hi style="font-weight-bold">3,33 </tei:hi>
+        </tei:hi>
+        <tei:hi type="page-line-ref" style="font-weight-bold"/>
+        <tei:hi type="word-range" style="font-weight-bold">
+          <tei:hi style="font-weight-bold"> </tei:hi>
+          <tei:q>in der sich</tei:q>
+          <tei:seg> </tei:seg>
+        </tei:hi>
         <tei:q>in dem sich</tei:q>
         <tei:seg> korrigiert nach E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
     <tei:interpGrp type="individual"/>
