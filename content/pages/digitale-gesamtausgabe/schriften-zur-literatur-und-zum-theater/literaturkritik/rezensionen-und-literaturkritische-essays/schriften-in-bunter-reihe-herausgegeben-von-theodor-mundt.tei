@@ -37,8 +37,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-12" who="#WolfgangRasch">Fassung 1.0: Text und Minimalkommentar bereitgestellt</tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-11">Fassung 1.1: Anpassung an TEI vom Text</tei:change>
+      <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0</tei:change>
+      <tei:change who="#GertVonhoff" when="2019-09-11">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI) vom Text</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -97,10 +97,7 @@
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
       <tei:head data-heading-id="" type="level-1">
-        <tei:seg>Schriften in bunter Reihe. Herausgegeben von Theodor Mundt</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>(Bearbeitung: Wolfgang Rasch, Berlin)</tei:seg>
+        <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
