@@ -41,8 +41,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-12" who="#WolfgangRasch">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-10">Fassung 1.1</tei:change>
+      <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0 </tei:change>
+      <tei:change who="#GertVonhoff" when="2019-09-10">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -127,11 +127,8 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
-        <tei:seg>Vorwort zum "Literatur-Blatt" des "Phönix"</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-2">
-        <tei:seg>(Bearbeitung: Wolfgang Rasch, Berlin)</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
@@ -150,9 +147,7 @@
       </tei:head>
       <tei:p>
         <tei:seg>Gutzkows leitet 1835 mit Ausführungen über Literatur und Kritik als eine Art "Vorwort" sein "Literatur-Blatt" zum "Phönix" ein. Der Beitrag füllt die ganze erste Nummer des "Literatur-Blatts" aus. Diese titellose Arbeit verwendete er 1836 in seinen </tei:seg>
-        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg>, wo er den Text - ebenfalls ohne Überschrift - stark gekürzt und überarbeitet in den Abschnitt </tei:seg>
-        <tei:q>Kritik</tei:q>
         <tei:seg> integrierte.</tei:seg>
       </tei:p>
       <tei:list type="sources">
@@ -181,8 +176,12 @@
       <tei:p>
         <tei:citedRange type="page-line-ref">9,5</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:citedRange type="word-range">Quarterly</tei:citedRange>
-        <tei:seg> Quaterly </tei:seg>
+        <tei:citedRange type="word-range">
+          <tei:q>Quarterly</tei:q>
+        </tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>Quaterly</tei:q>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
