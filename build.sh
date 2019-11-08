@@ -4,7 +4,7 @@ export http_proxy="http://192.168.5.200:3128"
 export https_proxy="http://192.168.5.200:3128"
 
 # Fetch all remote branches
-git checkout master
+git checkout master -- .
 for remote in `git branch -r | grep -v '\->'`; do git branch --track ${remote#origin/} $remote; done
 git pull --all
 
