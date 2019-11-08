@@ -37,7 +37,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h1>
   </xsl:template>
   <xsl:template match="tei:head[@type='level-2']">
@@ -45,7 +45,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h2>
   </xsl:template>
   <xsl:template match="tei:head[@type='level-3']">
@@ -53,7 +53,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h3>
   </xsl:template>
   <xsl:template match="tei:p">
@@ -68,7 +68,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
           <xsl:value-of select="@style"/>
         </xsl:attribute>
       </xsl:if>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </p>
   </xsl:template>
   <xsl:template match="tei:lg">
@@ -90,17 +90,17 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         </xsl:attribute>
       </xsl:if>
       <xsl:attribute name="class">line</xsl:attribute>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </div>
   </xsl:template>
   <xsl:template match="tei:seg">
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+      <xsl:apply-templates select="* | text()"/>
   </xsl:template>
   <xsl:template match="tei:hi">
-      <span><xsl:attribute name="class"><xsl:value-of select="@style"/></xsl:attribute><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+      <span><xsl:attribute name="class"><xsl:value-of select="@style"/></xsl:attribute><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:foreign">
-      <span class="foreign-language"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+      <span class="foreign-language"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:pb">
       <span class="page-break"><xsl:value-of select="@n"/></span>
@@ -110,8 +110,16 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         <xsl:attribute name="data-annotation-target">
           <xsl:value-of select="@target"/>
         </xsl:attribute>
-        <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+        <xsl:apply-templates select="* | text()"/>
       </a>
+  </xsl:template>
+  <xsl:template match="tei:note[@type='footnote']">
+    <abbr>
+      <xsl:attribute name="title">
+        <xsl:value-of select="text()"/>
+      </xsl:attribute>
+      <xsl:value-of select="@data-marker"/>
+    </abbr>
   </xsl:template>
 </xsl:stylesheet>
 '''
@@ -130,7 +138,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h1>
   </xsl:template>
   <xsl:template match="tei:head[@type='level-2']">
@@ -138,7 +146,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h2>
   </xsl:template>
   <xsl:template match="tei:head[@type='level-3']">
@@ -146,7 +154,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:copy-of select="@xml:id"/>
       <xsl:copy-of select="@class"/>
       <xsl:copy-of select="@data-heading-id"/>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </h3>
   </xsl:template>
   <xsl:template match="tei:p">
@@ -161,7 +169,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
           <xsl:value-of select="@style"/>
         </xsl:attribute>
       </xsl:if>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | tei:citedRange"/>
+      <xsl:apply-templates select="*"/>
     </p>
   </xsl:template>
   <xsl:template match="tei:list[@type='sources']">
@@ -172,17 +180,17 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
   <xsl:template match="tei:item">
     <li>
       <span><xsl:value-of select="@data-source-id"/></span>
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref"/>
+      <xsl:apply-templates select="*"/>
     </li>
   </xsl:template>
   <xsl:template match="tei:seg">
-      <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+      <xsl:apply-templates select="* | text()"/>
   </xsl:template>
   <xsl:template match="tei:hi">
       <span><xsl:attribute name="class"><xsl:value-of select="@style"/></xsl:attribute><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:foreign">
-      <span class="foreign-language"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+      <span class="foreign-language"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:pb">
       <span class="page-break"><xsl:value-of select="@n"/></span>
@@ -192,14 +200,20 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
         <xsl:attribute name="data-annotation-target">
           <xsl:value-of select="@target"/>
         </xsl:attribute>
-        <xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/>
+        <xsl:apply-templates select="* | text()"/>
       </a>
   </xsl:template>
   <xsl:template match="tei:citedRange[@type='page-line-ref']">
-    <span class="cited-page-line-ref"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+    <span class="cited-page-line-ref"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
   <xsl:template match="tei:citedRange[@type='word-range']">
-    <span class="cited-word-range"><xsl:apply-templates select="tei:seg | tei:hi | tei:foreign | tei:pb | tei:ref | text()"/></span>
+    <span class="cited-word-range"><xsl:apply-templates select="* | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:lem">
+    <span class="lemma"><xsl:apply-templates select="* | text()"/></span>
+  </xsl:template>
+  <xsl:template match="tei:corr">
+    <span class="correction"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
 </xsl:stylesheet>
 '''
