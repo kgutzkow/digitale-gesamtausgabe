@@ -19,7 +19,7 @@ then
     cat branches.txt | while read branch
     do
         git branch -r | grep $branch
-        if [ $? -eq 0]
+        if [ $? -eq 0 ]
         then
             git branch | grep $branch
             if [ $? -ne 0 ]
