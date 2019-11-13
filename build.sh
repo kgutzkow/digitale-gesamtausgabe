@@ -18,7 +18,7 @@ then
     git checkout -f master
     cat branches.txt | while read branch
     do
-        if [ -n $branch ]
+        if [ -n "$branch" ]
         then
             git branch -r | grep $branch
             if [ $? -eq 0 ]
@@ -46,7 +46,7 @@ if [ -f 'branches.txt' ]
 then
     cat branches.txt | while read branch
     do
-        if [ -n $branch ]
+        if [ -n "$branch" ]
         then
             git branch | grep $branch
             if [ $? -ne 0 ]
