@@ -18,7 +18,15 @@ then
     git checkout -f master
     cat branches.txt | while read branch
     do
-        git branch --track $branch origin/$branch
+        git branch -r | grep $branch
+        if [ $? -eq 0]
+        then
+            git branch | grep $branch
+            if [ $? -ne 0 ]
+            then
+                git branch --track $branch origin/$branch
+            fi
+        fi
     done
 fi
 git pull --all
@@ -35,9 +43,13 @@ if [ -f 'branches.txt' ]
 then
     cat branches.txt | while read branch
     do
-        git checkout $branch;
-        node_modules/.bin/gulp
-        pipenv run pelican -o output/preview/$branch -d content
+        git branch | grep $branch
+        if [ $? -ne 0 ]
+        then
+            git checkout $branch;
+            node_modules/.bin/gulp
+            pipenv run pelican -o output/preview/$branch -d content
+        fi
     done
 fi
 
