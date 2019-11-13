@@ -13,11 +13,14 @@ then
 fi
 
 # Fetch all remote branches
-git checkout master -- .
-cat branches.txt | while read branch
-do
-    git branch --track $branch origin/$branch
-done
+if [ -f 'branches.txt' ]
+then
+    git checkout master -- .
+    cat branches.txt | while read branch
+    do
+        git branch --track $branch origin/$branch
+    done
+fi
 git pull --all
 
 # Build the main site
@@ -28,12 +31,15 @@ node_modules/.bin/gulp
 pipenv run pelican -o output -d content
 
 # Build the branch-specific preview sites
-cat branches.txt | while read branch
-do
-    git checkout $branch;
-    node_modules/.bin/gulp
-    pipenv run pelican -o output/preview/$branch -d content
-done
+if [ -f 'branches.txt' ]
+then
+    cat branches.txt | while read branch
+    do
+        git checkout $branch;
+        node_modules/.bin/gulp
+        pipenv run pelican -o output/preview/$branch -d content
+    done
+fi
 
 # Get us back to the master branch
 git checkout master -- .
