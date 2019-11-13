@@ -15,7 +15,7 @@ fi
 # Fetch all remote branches
 if [ -f 'branches.txt' ]
 then
-    git checkout master -- .
+    git checkout -f master
     cat branches.txt | while read branch
     do
         git branch --track $branch origin/$branch
@@ -42,7 +42,7 @@ then
 fi
 
 # Get us back to the master branch
-git checkout master -- .
+git checkout -f master
 
 # Run optional post-build scripts
 if [ -f 'post-build' ]
