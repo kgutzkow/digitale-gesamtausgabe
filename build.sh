@@ -12,10 +12,11 @@ then
     ./pre-build
 fi
 
+git checkout -f master
+
 # Fetch all remote branches
 if [ -f 'branches.txt' ]
 then
-    git checkout -f master
     cat branches.txt | while read branch
     do
         if [ -n "$branch" ]
@@ -49,7 +50,7 @@ then
         if [ -n "$branch" ]
         then
             git branch | grep $branch
-            if [ $? -ne 0 ]
+            if [ $? -eq 0 ]
             then
                 git checkout $branch;
                 pipenv install
