@@ -52,6 +52,8 @@ then
             if [ $? -ne 0 ]
             then
                 git checkout $branch;
+                pipenv install
+                yarn install
                 node_modules/.bin/gulp
                 pipenv run pelican -o output/preview/$branch -d content
             fi
