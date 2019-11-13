@@ -1,8 +1,5 @@
 #!/bin/bash
 
-export http_proxy="http://192.168.5.200:3128"
-export https_proxy="http://192.168.5.200:3128"
-
 # The local-config file can be used to set deployment-specific environment settings, such as proxies
 if [ -f 'local-config' ]
 then
@@ -17,7 +14,10 @@ fi
 
 # Fetch all remote branches
 git checkout master -- .
-for remote in `git branch -r | grep -v '\->'`; do git branch --track ${remote#origin/} $remote; done
+cat branches.txt | while read branch
+do
+    git branch --track $branch origin/$branch
+done
 git pull --all
 
 # Build the main site
@@ -28,10 +28,15 @@ node_modules/.bin/gulp
 pipenv run pelican -o output -d content
 
 # Build the branch-specific preview sites
-for branch in `git branch | grep -v '* master'`; do git checkout $branch; node_modules/.bin/gulp; pipenv run pelican -o output/preview/$branch content; done
+cat branches.txt | while read branch
+do
+    git checkout $branch;
+    node_modules/.bin/gulp
+    pipenv run pelican -o output/preview/$branch -d content
+done
 
 # Get us back to the master branch
-git checkout master
+git checkout master -- .
 
 # Run optional post-build scripts
 if [ -f 'post-build' ]
