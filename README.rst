@@ -39,6 +39,12 @@ In zwei separaten Terminals die folgenden Befehle ausführen
   $ pipenv shell
   $ pelican -o output -d -r content
 
+Preview Generierung
++++++++++++++++++++
+
+Wenn eine Datei ``branches.txt`` existiert, dann generiert das ``build.js`` Skript für jeden Branch der darin
+aufgeführt wird eine Kopie unter ``output/preview/{branch-name}``.
+
 Data Preprocessing
 ++++++++++++++++++
 
