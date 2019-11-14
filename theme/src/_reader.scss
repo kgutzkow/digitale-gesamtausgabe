@@ -75,17 +75,17 @@
             }
         }
 
-        &.correction {
+        &.sic {
+            font-style: italic;
+        }
+
+        &.lemma {
             font-style: italic;
 
             &::after {
                 content: ' ]';
                 font-style: normal;
             }
-        }
-
-        &.lemma {
-            font-style: italic;
         }
     }
 }

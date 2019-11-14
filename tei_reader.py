@@ -212,8 +212,8 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
   <xsl:template match="tei:lem">
     <span class="lemma"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
-  <xsl:template match="tei:corr">
-    <span class="correction"><xsl:apply-templates select="* | text()"/></span>
+  <xsl:template match="tei:sic">
+    <span class="sic"><xsl:apply-templates select="* | text()"/></span>
   </xsl:template>
 </xsl:stylesheet>
 '''
