@@ -63,7 +63,7 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
           <xsl:value-of select="@xml:id"/>
         </xsl:attribute>
       </xsl:if>
-      <xsl:if test="@class">
+      <xsl:if test="@style">
         <xsl:attribute name="class">
           <xsl:value-of select="@style"/>
         </xsl:attribute>
@@ -164,7 +164,7 @@ GLOBAL_COMMENT_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
           <xsl:value-of select="@xml:id"/>
         </xsl:attribute>
       </xsl:if>
-      <xsl:if test="@class">
+      <xsl:if test="@style">
         <xsl:attribute name="class">
           <xsl:value-of select="@style"/>
         </xsl:attribute>
