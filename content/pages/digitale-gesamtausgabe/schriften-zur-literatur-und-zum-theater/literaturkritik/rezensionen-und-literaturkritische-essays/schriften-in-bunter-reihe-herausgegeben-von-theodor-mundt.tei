@@ -38,7 +38,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-11">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI) vom Text</tei:change>
+      <tei:change who="#GertVonhoff" when="2019-09-11">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI) </tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -93,22 +93,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p>
@@ -122,16 +122,16 @@
           <tei:seg>Kritik. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 42-47. (Rasch 2.13.1.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p>

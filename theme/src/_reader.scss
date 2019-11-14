@@ -63,14 +63,29 @@
         }
     }
 
-    span.cited-page-line-ref {
-        font-weight: bold;
-        padding-right: 0.5rem;
-    }
+    span {
+        &.cited-page-line-ref {
+            font-weight: bold;
+            padding-right: 0.5rem;
+        }
 
-    span.cited-word-range {
-        &::after{
-            content: ']';
+        &.cited-word-range {
+            &::after {
+                content: ' ]';
+            }
+        }
+
+        &.sic {
+            font-style: italic;
+        }
+
+        &.lemma {
+            font-style: italic;
+
+            &::after {
+                content: ' ]';
+                font-style: normal;
+            }
         }
     }
 }

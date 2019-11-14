@@ -7,11 +7,16 @@
   "dependencies": {
     "foundation-sites": "^6.4.4-rc1",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.1.0",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.1",
-    "http-server": "^0.11.1",
     "pump": "^3.0.0",
     "tei-reader": "^0.2.3"
-  }
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }
