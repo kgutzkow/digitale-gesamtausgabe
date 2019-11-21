@@ -53,6 +53,7 @@ then
             if [ $? -eq 0 ]
             then
                 git checkout $branch;
+                git pull
                 pipenv install
                 yarn install
                 node_modules/.bin/gulp

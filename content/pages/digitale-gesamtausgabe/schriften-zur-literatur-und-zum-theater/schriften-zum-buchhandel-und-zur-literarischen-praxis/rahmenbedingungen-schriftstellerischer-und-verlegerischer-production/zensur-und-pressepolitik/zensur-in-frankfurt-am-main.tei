@@ -42,14 +42,80 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MarkMichaelHall" when="2019-11-21">Fassung 1.1: TEI Transform</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="1384"/>
+        <tei:seg> [Zensur in Frankfurt am Main.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>* Die Russischen Blätter enthalten eine Schilderung Louis Philipps  von einem Russen, deren Abdruck der Russischen Censur Ehre macht. Die  Censur in Frankfurt a. M. würde den Artikel nicht geduldet haben.  Erlaubte sie uns doch vor einem Jahre, als der Telegraph noch in  Frankfurt erschien, nicht einmal eine freimüthige Biographie Lord  Palmerstons zu geben! Wenn Verhältnisse schwierig sind, so muß man dies  still ertragen. Sind aber Menschen da, die entweder aus Furcht,  Beschränktheit oder Fanatismus die Verhältnisse noch überbieten wollen,  so erreicht ihr Druck eine Höhe, die unerträglich wird.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 173, [29.] Oktober 1838, S. 1384. (Rasch 3.38.10.29.2).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Entfällt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>4. Entstehung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
