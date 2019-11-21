@@ -42,14 +42,80 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MarkMichaelHall" when="2019-11-21">Fassung 1.1: TEI Transform</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="508"/>
+        <tei:seg> [Allgemeines Pressgesetz des Bundestages.]</tei:seg>
+      </tei:head>
       <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+        <tei:seg>Auch die angerufenen ältern landesherrlichen Verordnungen von 1804 beweisen Nichts, weil sie sämmtliche von einem einzelnen, bestimmten, damals im Ausland geschlossenen Verein, nehmlich von der in Stuttgart bestandenen allgemeinen deutschen Industrieanstalt oder philanthropischen Gesellschaft, nicht aber von Vereinen überhaupt sprechen; vielmehr am Eingang der an genannter Stelle allegirten Verordnung ein ausdrückliches Anerkenntniß „der uneingeschränkten Freiheit jedes Staatsbürgers, für das wissenschaftliche oder sittliche Wohl seiner Nebenmenschen nach eigener Einsicht (also auch die mittelst Vereinen) zu wirken, und dazu das Gutfindende aus seinem Vermögen zu verwenden“, (also auch die ökonomische Bevormundung findet hier nicht statt), zu lesen ist, und nur die „Unterwerfung unter eine fremde Willkühr“ und das Eingehen „in die Staatseinrichtung wirkender Verpflichtungen“ und das eigenmächtige sich Erigiren als „erwerbsfähige moralische Personen“ verworfen wird. So weit war die absolute damals churfürstlich-badische Regierung an liberalen Grundsätzen der heutigen konstitutionellen voran! (Schl. folgt.)</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.; Verf. unges.:] Berlin, 29. Juni. In: Der Freisinnige. Freiburg. Nr. 126, 6. Juli 1832, S. 508. (Rasch *3.32.07.06).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Entfällt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>4. Entstehung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
