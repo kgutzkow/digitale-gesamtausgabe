@@ -37,12 +37,13 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-09" who="#WolfgangRasch">Fassung 1.0</tei:change>
+      <tei:change when="2019-11-22" who="#WolfgangRasch">Fassung 1.1 TEI-Auszeichnung</tei:change>
+      <tei:change/>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> Eine männliche Gräfin Hahn-Hahn.</tei:seg>
       </tei:head>
@@ -114,6 +115,80 @@
         <tei:seg>Die ruhiger Denkenden unter den Katholiken wissen es selbst, daß unser neures, immer leidenschaftlicher werdendes Vorgehen der ultramontanen Wortführer im Wesentlichen von den Konvertiten ausgeht. Diese beunruhigt ihr Gewissen. Diese reizt es, ihren neuen Genossen stetig zu beweisen, was sie in ihnen gewonnen haben. Aber was sollen all die Proteste, die Adressen, die ewigen Broschüren -? "Propst Döllinger wird dem Erzbischof mit einer Broschüre antworten" - meldet der Telegraph. Schlage Einer 95 Thesen an die Münchener Frauenkirche und eröffne in einem der vielen kirchenweiten Säle Münchens einen Gottesdienst auf den Glauben an eine einzige apostolische Kirche mit Allem, was nun eben Eurem Herzen einmal am katholischen Wesen wohlthut, doch ohne Bischöfe und ohne Papst -! dann erst kann die Gewalt der geistigen Herrschsucht, die Verbindung derselben mit so viel - Thorheit und Lüge, wie wir im Obigen schilderten, gebrochen werden.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p/>
+      <tei:p style="no-indent">
+        <tei:seg>Die Erinnerungen an August Lewald wurden einige Wochen nach dem am 10. März 1871 erfolgten Tod Lewalds in der Berliner "National-Zeitung" veröffentlicht. Gutzkow übernahm die Arbeit ohne wesentliche Modifikationen vier Jahre später in die erweiterte Neuausgabe seiner </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> innerhalb der Edition </tei:seg>
+        <tei:q>Gesammelter Werke</tei:q>
+        <tei:seg>. Dabei änderte er den Titel in </tei:seg>
+        <tei:q>August Lewald</tei:q>
+        <tei:seg>, fügte die Jahresangabe der Erstpublikation </tei:seg>
+        <tei:q>1871</tei:q>
+        <tei:seg> hinzu, fasste den ersten und zweiten Absatz zusammen und schrieb den Namen </tei:seg>
+        <tei:q>des Fürsten L.</tei:q>
+        <tei:seg> (190,6 unserer Ausgabe) mit </tei:seg>
+        <tei:q>des Fürsten Lynar</tei:q>
+        <tei:seg> aus.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="">
+          <tei:seg>J Karl Gutzkow: Eine männliche Gräfin Hahn-Hahn. In: National-Zeitung. Berlin. Nr. 240, 25. Mai 1871, Morgenausgabe, [S. 1-3]. (Rasch 3.71.05.25) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> August Lewald. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 416-426. (Rasch 1.5.9.38)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">193,19</tei:citedRange>
+        <tei:seg> Persönliche] Persöniche </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
