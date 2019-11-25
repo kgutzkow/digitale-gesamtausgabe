@@ -37,15 +37,276 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-01" who="#WolfgangRasch">Fassung 1.0</tei:change>
+      <tei:change when="2019-11-22" who="#WolfgangRasch">Fassung 1.1 Anpassung an TEI</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="5"/>
+        <tei:seg> Eine nächtliche Unterkunft.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>In jenen, noch dem ersten Drittel unseres Jahrhunderts angehörenden Tagen, wo Berlin rundum keine andere große Stadt in der Nachbarschaft hatte, als eine solche, die erst nach einer Postreise von zwanzig Meilen zu erreichen war, bildete sich jene noch nicht vollkommen überwundene eigenthümliche Naivetät oder, nennen wir es beim richtigeren Namen - kleinstädtische Unzulänglichkeit aus, die den Charakter des berliner Pfahlbürgerthums in Manchem auch noch heute bezeichnen dürfte. Die Sperre gegen eine Welt, die damals dem Berliner schon hinter Potsdam für gleichsam "mit Brettern vernagelt" galt, war eine beinahe hermetische. Daher auch die Langsamkeit, womit sich der Zeitgeist, die freiheitliche Entwicklung Preußens nur erst allmälig, ja mit Beweisen völliger Unbeholfenheit, anschickte, dem Fortschritt des übrigen Europa zu folgen.</tei:seg>
+      </tei:p>
       <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+        <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der Wohnung des Monarchen, </tei:seg>
+        <tei:ref target="#unknown">in jenem Portal</tei:ref>
+        <tei:seg>, das seit dem Jahre 1844 dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
+        <tei:hi target="#new-text-2" style="letter-sparse">
+          <tei:hi style="letter-sparse">Portechaise</tei:hi>
+        </tei:hi>
+        <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
+        <tei:ref target="#new-text-3">Nagelgasse</tei:ref>
+        <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des neuen Rathhauses - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Und auf dem Gensdarmenmarkt, an derjenigen Seite des "französischen Thurms," die dem Wechselgeschäft der Herren Brest und Gelpcke grade gegenüber liegt, wuchs nicht nur in den Winkeln, die von den dürftigen Anbauten der beiden stolzen "Gensdarmenmarktthürme" gebildet werden, das helle, frische, grüne Gras, untermischt zuweilen mit "Butterblumen," sondern es war sogar möglich, daß die damalige schutzmannslose, nur auf jene "Polizeikommissarien" mit den Dreimastern und karmoisinrothen Kragen und Aufschlägen am Rock angewiesene Zeit in einem dieser Winkel - einen alten ausgedienten </tei:seg>
+        <tei:hi style="letter-sparse">Leichenwagen</tei:hi>
+        <tei:seg> duldete, der entweder durch irgend ein Mißverständniß zur Ueberwinterung dort stehen geblieben oder sonst aus dem Inventar des Leichenfuhrwesens in der Georgenstraße ausgestrichen war. Die Deichsel für die Rosse, die uns zum ewigen Frieden fahren, fehlte nicht. Aber die schwarze Draperie schillerte schon in's vollkommen Röthliche. Die Todtengräber Hamlets hätten hier Betrachtungen anstellen können über die Vergänglichkeit alles Irdischen. Ludwig Devrient, von Lutter und Wegener kommend und sich auf die Rolle besinnend, die der große Mime am Abend zu spielen hatte, mag manchen verstohlenen Blick hinüber geworfen haben auf den alten Charonsnachen, der manchmal fehlte, nach kurzer Pause sich aber immer wieder einstellte unter den gewölbten Thürmen, um deren Säulen und Säulchen die Spatzen und die Krähen und die Habichte nisteten. Berlin, das gegenwärtig alles brauchen kann, selbst die Denkmäler von den Gräbern, Berlin, das jetzt die Broncebilder der Todten von den Kirchhöfen stiehlt, ließ diesen alten Leichenwagen unangetastet.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Abends, wenn der Sturm brauste, die Laternen, ohne Gaslicht </tei:seg>
+        <tei:pb n="6"/>
+        <tei:seg> und manchmal quer über die Straßen hinweggezogen, in ächzenden Tönen hin und her schaukelten, die Wagen der Vornehmen und Reichen dumpf über ein noch naturwüchsiges Pflaster rollten, hier und da ein Leierkasten aus einem Keller wie ein ferner Unkenruf ertönte und in den Straßen jener gespenstische Mann umging, der, ein Fäßchen in der Hand tragend, aus einer bis zu seinen Ohren, ja bis zur Nase hinaufreichenden stolzen rothen Cravatte mit einem gewissen würdevollen Anstand, aber geisterhaft hohl, den Ausruf hervorpreßte: "Neunaugen! Neunaugen -!" da schlich sich fröstelnd, die Hände in abgetragene, viel zu kurze, geflickte Beinkleider gesteckt, einen verschossenen Frack auf dem ausgehungerten Leibe, einen mannigfach brüchigen, beulenreichen Filzhut auf dem Haupte, eine verwitterte, magere, kleine Gestalt über den Markt, auf welchem öde Stille herrschte, nachdem sich eben die Zuschauer des Schauspielhauses, die vielleicht eine neue Posse von Raupach ausgezischt hatten, verlaufen hatten.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Der sich scheu Umblickende hatte keine Wohnung. Sein Name war von den Sternen hergenommen. Dort oben am blitzenden Nachthimmel stand die Constellation, die ihm den Vornamen gegeben. Besonders zur Winterszeit leuchtete sein Stern hellauf in einem Licht, das alle andern Sterne überstrahlte. In den Sternen auch hatte er seine eigentliche Behausung, nicht in der Dorotheen- und nicht in der Friedrichsstadt. Vorsichtig nähert er sich dem Leichenwagen ... Bist du heute wieder da, alter Freund -? Hat dich Charon heute Nacht nicht nöthig, um vom "Thürmchen" im "Voigtland" eine Leiche auf die Anatomie zu fahren -? Schont der "Leichenkommissarius" seine Gäule, wenn er sie erst hier einspannt, um einen Armen im "Nasenquetscher" auf Saturns großes Brach- und Nivellirungsfeld, auf den Friedhof, zu fahren -? .... Und husch -! Die verwitterte Gestalt, herabgekommen wie der Apotheker von Mantua, der an Romeo Gift verkaufte, weil die Geschäfte der üblichen Pharmakopöe so schlecht gingen, hebt die Vorhangsfetzen des Wagens auf und schiebt sich langsam hinein in ein damaliges - Asyl für Obdachlose.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Fand sich wohl ein Stück Holz, eine Planke darin vor - den Trägern mit den langen Flören am Dreimaster benöthigt, um den Sarg in die Grube zu senken - so rückt sie der lebende Todte so, daß sein Haupt mit den langen weißen Haaren eine Stütze findet beim Sichausstrecken. Vielleicht achtet er auch die neue Beule nicht viel an seinem wettererprobten Cylinder, wenn er damit dem harten Holz einige Weiche giebt und die hohle, gefurchte Wange aufstützt. Ruhen wird er; er wird schlafen. An diesem schwarzen Wagen huscht die von einem Ball bei "Dalichows" in der Dorotheenstraße kommende Schöne aus dem Volke, der Spieler, der im Hinterzimmer eines "Italieners" - wir meinen nicht gerade des damaligen Austern-Sala-Tarone - einen glücklichen Wurf gethan, der in der Nacht gerufene Arzt, der um Mitternacht sein Coupé nicht anspannen lassen kann, schnell und scheu vorüber. Selbst der Nachtwächter hält sich in der Ferne, dort, wo ein Ruf: "Wächter -!" ihm ein Trinkgeld für's Einlassen in ein verschlossenes Haus, dessen Schlüssel an seinem klirrenden Eisenbunde hängt, sicherer einbringt, als wenn er hier Posto faßte in der düster-unheimlichen Ecke an einer Kirche, wo vielleicht damals - der junge </tei:seg>
+        <tei:hi style="letter-sparse">Fournier</tei:hi>
+        <tei:seg> als feuriger Candidat in französischer Sprache predigte und sich nicht träumen ließ, wie übel einem Geistlichen der Wetteifer mit dem Pathos eines Schauspielers bekommen kann.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:seg>Der Obdachlose war ein Dichter ohne Verleger. Er lebte in einer Zeit, wo die Journale Berlins unter Censur standen. Ein Absatz von 500 Exemplaren war schon die allerglücklichste Chance für - "Belletristik." Ein Honorar von einem Thaler zahlte man für ein Gedicht, von funfzehn Silbergroschen für eine Reihe von Lückenbüßern, damals "Aphorismen," "Streckverse," "Sternschnuppen" oder ähnlich genannt. Ach ja, die Sterne, die hatten es dem halben Polen angethan! Er hatte sich die Sprache Schiller's und Goethe's angeeignet, sang Dithyramben, Oden, Bardenlieder - alles in einem Styl, der an Pindar erinnerte - seiner Unverständlichkeit wegen. Aber schon in jener Zeit war die Lektüre frivol. Lieber wollte man Clauren lesen, als Klopstock. Die Gebildeteren hatten gerade Van der Velde. Sogar die Aesthetiker </tei:seg>
+        <tei:hi style="letter-sparse">sprachen</tei:hi>
+        <tei:seg> zwar von Goethe, nippten aber, wie in dem Hinterzimmer des "Italieners" Rosoglio, so an den "Teufelselixiren" von Hoffmann. Was war da der verkommene Träumer, der noch bei Ossian stand und bei Jean Paul! Der einen Gedanken, der ihm aufgeblitzt bei seinem jeweiligen Erwachen in seinem dunkeln Leichenwagen (- und wo denken wir wahrer, fühlen wir tiefer, als in der Nähe der Todten! -) nur dadurch schlagend, </tei:seg>
+        <tei:pb n="7"/>
+        <tei:seg> zündend, lapidar zu machen glaubte, daß er ihn immer enger und enger, immer epigrammatischer und epigrammatischer, zuletzt in zwei Zeilen drängte, wie bei Rochefoucauld und Montaigne, jedes Wort eine ganze Welt - aber - die Zeile laut Quartalsberechnung des Journals drei bis vier Pfennige!</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Dieser Obdachlose hieß </tei:seg>
+        <tei:hi style="letter-sparse">Orion Julius</tei:hi>
+        <tei:seg>. Seine Werke stehen nicht in den Katalogen der hiesigen Leihbibliotheken. Wer sich aber die Mühe geben will, in alten Jahrgängen des "Freimüthigen", des "Gesellschafters" zu blättern, der wird dort - dem nächtlichen Bewohner des Leichenwagens am Gensdarmenmarkt zuweilen begegnen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung des Apparats: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="">
+          <tei:seg>J Karl Gutzkow: Eine nächtliche Unterkunft. In: Bazar-Zeitung. Berlin. Nr. 2, 9. März 1870, S. 5-7. (Rasch 3.70.03.09). </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>E Eine nächtliche Unterkunft. In: In bunter Reihe. Briefe, Skizzen, Novellen von Karl Gutzkow. Breslau: Schottlaender, 1878, S. 97-106. (Rasch 2.49.2).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">5,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:sic>Rochefoucauld</tei:sic>
+        <tei:seg>] Rochefaucould </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Verglichen wird der Erstdruck (J) mit dem Buchdruck (E). Gutzkows Änderungen in der Buchausgabe von 1878 betreffen nur einige stilistische Glättungen und minimale Abwandlungen: </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,1</tei:citedRange>
+        <tei:seg> Eine nächtliche Unterkunft.] Eine nächtliche Unterkunft. Zur Asylfrage. 1870. E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
+        <tei:seg> jene noch nicht] jene noch jetzt nicht E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,8-9</tei:citedRange>
+        <tei:seg> in Manchem auch noch heute bezeichnen dürfte] in Manchem bezeichnen dürfte E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,10-11</tei:citedRange>
+        <tei:citedRange type="page-line-ref"/>
+        <tei:seg> für gleichsam "mit Brettern vernagelt"] für gleichsam wie "mit Brettern vernagelt" E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,13-14</tei:citedRange>
+        <tei:seg> ja mit Beweisen völliger Unbeholfenheit] ja mit Beweisen völliger Unbeholfenheit und Unreife E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
+        <tei:seg> 1844] 1848 E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">2,1</tei:citedRange>
+        <tei:seg> Gelpcke] Gelpke E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">2,16</tei:citedRange>
+        <tei:seg> Devrient, von Lutter] Devrient, drüben von Lutter E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">2,19</tei:citedRange>
+        <tei:seg> hinüber geworfen] hinübergeworfen E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,9-10</tei:citedRange>
+        <tei:seg> ausgezischt hatten,] ausgezischt, E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,12</tei:citedRange>
+        <tei:seg> hergenommen] hergekommen E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,16-17</tei:citedRange>
+        <tei:seg> nicht in der Dorotheen- und nicht in der Friedrichsstadt] nicht in der Dorotheen-, nicht in der Friedrichsstadt E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,16</tei:citedRange>
+        <tei:seg> mit dem Pathos] mit dem leidenschaftlichen Pathos E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,17</tei:citedRange>
+        <tei:seg> bekommen kann] bekommen konnte E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,26</tei:citedRange>
+        <tei:seg> Goethe's] Göthe's E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">5,3</tei:citedRange>
+        <tei:seg> fühlen wir tiefer, als in der] fühlen wir tiefer als in der E </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">5,10</tei:citedRange>
+        <tei:seg> der hiesigen Leihbibliotheken] der Leihbibliotheken E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. F. Bernso [d.i. Josef Friedrich Sobernheim]: Der Leichenwagen an der französischen Kirche. In: Ders.: Fresco-Bilder in auf- und absteigender Linie. Berlin: Krause, 1833, S. 53-82.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>4. Entstehung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Brief Gutzkows an Julius Rodenberg, 28. Februar 1870 (nach der Handschrift im GSA, Weimar, Nachlass Rodenberg, Sign.: 81/IV,7.)</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:q>Vorräthig, verehrter Freund, habe ich nichts. Aber es wird mir schon etwas einfallen. Nennen Sie mich getrost.</tei:q>
+      </tei:p>
+      <tei:p/>
+      <tei:p style="no-indent">
+        <tei:seg>Brief Gutzkows an Julius Rodenberg, 3. März 1870 (nach der Handschrift im GSA, Weimar, Nachlass Rodenberg, Sign.: 81/IV,8).</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:q>Meinen kleinen Asylbeitrag, verehrter Freund, habe ich eben geschrieben. Bitte, holen Sie ihn sich selbst morgen Abend und bleiben Sie mir Ihrer lieben Frau zum Thee.</tei:q>
+      </tei:p>
+      <tei:p/>
+      <tei:p style="no-indent">
+        <tei:seg>Brief Gutzkows an Julius Rodenberg, 5. März 1870 (nach der Handschrift im GSA, Weimar, Nachlass Rodenberg, Sign.: 81/IV,9).</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:q>Die kleine Asylgabe las ich gestern in unserm Kreise, dem Sie leider fehlten, vor, will aber doch erst eine Abschrift nehmen lassen, die erst morgen fertig sein wird. Als Freund der "andern namhaften Schriftsteller" kann ich ja zurückstehen u eventuell auch ganz fehlen. Ich habe zur Ausstellung schon ca. 40 Thaler baar, ein Autograph u meine Tochter als Dame de boutique gestellt.</tei:q>
+      </tei:p>
+      <tei:p/>
+      <tei:p style="no-indent">
+        <tei:seg>Brief Gutzkows an Julius Rodenberg, 6. März 1870 (nach der Handschrift im GSA, Weimar, Nachlass Rodenberg, Sign.: 81/IV,10).</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:q>Ich erwarte jeden Augenblick meinen Copisten. Jedenfalls kommt die kleine Arbeit: "Eine nächtliche Unterkunft" noch im Laufe des Tages.</tei:q>
+      </tei:p>
+      <tei:p>
+        <tei:q>Ueber die "andern namhaften Schriftsteller" kann Einem zu weilen die Geduld reißen. Geht sie von Leihbibliotheken aus, so sind diese eben die Interpreten der nachäffenden Mode. Jede höhere Nähmansell muß Herrn N. N. kennen. Was Andres ist, wenn solche Jubelbotschaften aus dem literarischen Feldlager selbst kommen. Vielleicht war Frau Duncker die Verfasserin der Notiz, eine Dame, die ich nicht die Ehre habe, näher zu kennen.</tei:q>
+      </tei:p>
+      <tei:p>
+        <tei:q>Eine Stelle in meinem kleinen Artikel wird Sie stutzig machen. Sie kann mir Steinigung, wenigstens eingeworfene Fenster (die meinen sind auf 550 Thaler taxirt) eintragen. Ueberlegen Sie! Andren freilich werde ich "aus der Seele" gesprochen haben. Vorgestern gab es das lebhafteste Pro u Contra. Eine Mittelparthei sagte: Laß es weg! Ich möchte aber trotzen, immerfort "gegen den Strom" schwimmen! Und Ihr guter Julian Schmidt, den Sie literarisch rehabilitirten, hat, glaub ich, in seiner Lit. Gesch. den Satz aufgestellt: Ich ginge immer mit dem Strom!</tei:q>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+    </tei:interpGrp>
+    <tei:interpGrp type="individual">
+      <tei:interp xml:id="new-text-1">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:metamark function="missing"/>
+        </tei:p>
+      </tei:interp>
+      <tei:interp xml:id="new-text-2">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,19</tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Portechaise</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Frz.: Porte-Chaise, Sänfte, Tragesessel.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp xml:id="new-text-3">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Nagelgasse]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
