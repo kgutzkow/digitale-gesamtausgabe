@@ -116,22 +116,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p/>
@@ -152,21 +152,17 @@
       </tei:p>
       <tei:p/>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J Karl Gutzkow: Eine männliche Gräfin Hahn-Hahn. In: National-Zeitung. Berlin. Nr. 240, 25. Mai 1871, Morgenausgabe, [S. 1-3]. (Rasch 3.71.05.25) </tei:seg>
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Eine männliche Gräfin Hahn-Hahn. In: National-Zeitung. Berlin. Nr. 240, 25. Mai 1871, Morgenausgabe, [S. 1-3]. (Rasch 3.71.05.25) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>August Lewald. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 416-426. (Rasch 1.5.9.38)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:list type="sources">
-        <tei:item>
-          <tei:seg>A</tei:seg>
-          <tei:hi style="sup">2</tei:hi>
-          <tei:seg> August Lewald. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 416-426. (Rasch 1.5.9.38)</tei:seg>
-        </tei:item>
-      </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -175,14 +171,14 @@
       <tei:p>
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">193,19</tei:citedRange>
         <tei:seg> Persönliche] Persöniche </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
