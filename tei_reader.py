@@ -276,7 +276,7 @@ ANNOTATION_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <xsl:text>","attributes":{"title":"&amp;lt;span class=\\"page-line-ref\\"&amp;gt;</xsl:text>
       <xsl:value-of select="tei:p/tei:citedRange[@type='page-line-ref']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;&amp;lt;span class=\\"word-range\\"&amp;gt;</xsl:text>
-      <xsl:value-of select="tei:p/tei:citedRange[@type='word-range']/text()"/>
+      <xsl:value-of select="tei:p/tei:citedRange[@type='word-range']/*/text()|tei:p/tei:citedRange[@type='word-range']/text()"/>
       <xsl:text>&amp;lt;/span&amp;gt;","content":"</xsl:text>
       <xsl:apply-templates select="tei:p/tei:seg | tei:p/tei:hi | tei:p/tei:foreign | tei:p/tei:ref | tei:p/tei:q"/>
       <xsl:text>"}}</xsl:text>
@@ -388,10 +388,11 @@ class TeiDocumentReader(BaseReader):
                                    'name': [str(doc.xpath("//tei:respStmt[@xml:id='%s']/tei:name/text()" % resp[1:],
                                                           namespaces=ns)[0])
                                             for resp in change.attrib['who'].split(' ')]}
-                                  for change in doc.xpath('//tei:change', namespaces=ns)],
+                                  for change in doc.xpath('//tei:change', namespaces=ns)
+                                  if 'when' in change and 'who' in change and change.text],
                     'summary': self.strip_ns(str(overview(doc))),
                     'nav': str(nav(doc)),
-                    'annotation': json.loads(self.strip_ns(str(annotation(doc)))),
+                    'annotation': json.loads(self.strip_ns(str(annotation(doc))).replace('\n', ' ')),
                     'global_comment': self.strip_ns(str(global_comment(doc))).strip(),
                     'template': 'tei-reader'}
         if '<div>' in metadata['summary'] and '</div>' in metadata['summary']:
