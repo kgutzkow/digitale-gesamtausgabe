@@ -1,0 +1,18 @@
+full-build:
+  image: python:3.7-buster
+  script:
+    - pip install pipenv
+    - pipenv install
+    - pipenv run pelican -o output -d content
+  only:
+    - master
+
+merge:
+  image: python:3.7-buster
+  script:
+    - pip install pipenv
+    - pipenv install
+    - pipenv run pelican -o output -d content
+  only:
+    - merge_requests
+
