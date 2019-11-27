@@ -43,11 +43,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="396"/>
         <tei:seg> Eine Woche in Berlin.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>I.</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -88,7 +88,7 @@
       <tei:p>
         <tei:seg>Suchen wir nun in einigen weitern Artikeln die Eindrücke eines kurzen Carnevalbesuchs in Berlin ausführlicher festzuhalten.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:pb n="409"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
@@ -172,7 +172,7 @@
           <tei:seg> erweist!</tei:seg>
         </tei:l>
       </tei:lg>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg> </tei:seg>
         <tei:pb n="442"/>
         <tei:seg> III.</tei:seg>
@@ -225,6 +225,59 @@
         <tei:seg> gehen können. Ein Krankenhausbesuch ist eine Lehre, die nach "Satanella" und Aladin's "Wunderlampe" sehr nützlich, sehr heilsam sein kann. Aber Bethanien verläßt man doch mit dem Gefühl, daß hier, wie in unserer Zeit überhaupt, noch mehr Menschen krank sind, als die da offen eingestehen, des Arztes bedürftig zu sein.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Beitrag </tei:seg>
+        <tei:q>Eine Woche in Berlin</tei:q>
+        <tei:seg> wurde zuerst in den </tei:seg>
+        <tei:q>Unterhaltungen am häuslichen Herd</tei:q>
+        <tei:seg> veröffentlicht und zweiundzwanzig Jahre später weitestgehend unverändert in die zweite Ausgabe der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> aufgenommen. Weitere Drucke oder Teildrucke zu Lebzeiten Gutzkows sind nicht bekannt. </tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Eine Woche in Berlin. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 25, [18. März] 1854, S. 396-399; Bd. 2, Nr. 26, [25. März] 1854, S. 409-416; Bd. 2, [8. April] 1854, S. 442-447. (Rasch 3.54.03.18)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A1">
+          <tei:seg>Eine Woche in Berlin. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammtausgabe. Erste Serie. Bd. 11. Jena: Costenoble, [1876]. S. 208-235. (Rasch 1.5.11.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
