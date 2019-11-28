@@ -106,12 +106,12 @@ READER_STYLESHEET = b'''<?xml version="1.0" encoding="UTF-8"?>
       <span class="page-break"><xsl:value-of select="@n"/></span>
   </xsl:template>
   <xsl:template match="tei:ref">
-      <a>
+      <!--<a>
         <xsl:attribute name="data-annotation-target">
           <xsl:value-of select="@target"/>
-        </xsl:attribute>
-        <xsl:apply-templates select="* | text()"/>
-      </a>
+        </xsl:attribute>-->
+        <span><xsl:apply-templates select="* | text()"/></span>
+      <!--</a>-->
   </xsl:template>
   <xsl:template match="tei:note[@type='footnote']">
     <abbr>
