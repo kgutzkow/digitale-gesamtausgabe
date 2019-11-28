@@ -109,6 +109,17 @@ def check_footnotes(doc, errors):
             errors.append('Empty marker specified for the note')
 
 
+def check_source_lists(doc, errors):
+    """Check that the source lists are valid."""
+    markup = doc.xpath("//tei:list[@type='sources']", namespaces=ns)
+    for list in markup:
+        next_sibling = list.getnext()
+        if next_sibling is not None:
+            if next_sibling.tag == '{{{0}}}list'.format(ns['tei']):
+                if 'type' in next_sibling.attrib and next_sibling.attrib['type'] == 'sources':
+                    errors.append('Two source lists next to each other')
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -123,6 +134,7 @@ for basepath, _, filenames in walk('content'):
                 check_revision_descriptions(doc, file_errors)
                 check_page_number_markup(doc, file_errors)
                 check_footnotes(doc, file_errors)
+                check_source_lists(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
