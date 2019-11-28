@@ -95,6 +95,20 @@ def check_page_number_markup(doc, errors):
                     errors.append('Page number marked up as italic highlight')
 
 
+def check_footnotes(doc, errors):
+    """Check that footnotes are valid."""
+    markup = doc.xpath('//tei:note', namespaces=ns)
+    for note in markup:
+        if 'type' not in note.attrib:
+            errors.append('No type specified for the note')
+        elif note.attrib['type'] != 'footnote':
+            errors.append('Unknown note type {0}'.format(note.attrib['type']))
+        if 'data-marker' not in note.attrib:
+            errors.append('No marker specified for the note')
+        elif note.attrib['data-marker'].strip() == '':
+            errors.append('Empty marker specified for the note')
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -108,6 +122,7 @@ for basepath, _, filenames in walk('content'):
                 check_reponsible_users(doc, file_errors)
                 check_revision_descriptions(doc, file_errors)
                 check_page_number_markup(doc, file_errors)
+                check_footnotes(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
