@@ -15,7 +15,7 @@ build:
     - master
     - merge_requests
 
-merge:
+validate:
   stage: validate
   script:
     - pip install pipenv
