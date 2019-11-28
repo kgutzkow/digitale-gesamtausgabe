@@ -22,5 +22,4 @@ validate:
     - pipenv install
     - pipenv run python util/validate-tei.py
   only:
-    - master
     - merge_requests
