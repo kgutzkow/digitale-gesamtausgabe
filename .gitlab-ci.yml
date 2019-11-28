@@ -1,7 +1,11 @@
 default:
   image: python:3.7-buster
 
-full-build:
+stages:
+  - validate
+  - build
+
+build:
   stage: build
   script:
     - pip install pipenv
@@ -12,9 +16,11 @@ full-build:
     - merge_requests
 
 merge:
-  stage: test
+  stage: validate
   script:
-    - pipenv run pelican -o output -d content
+    - pip install pipenv
+    - pipenv install
+    - pipenv run python util/validate-tei.py
   only:
     - master
     - merge_requests
