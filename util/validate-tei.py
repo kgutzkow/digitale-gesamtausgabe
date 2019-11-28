@@ -76,6 +76,25 @@ def check_revision_descriptions(doc, errors):
                     errors.append('Change {0} refers to a missing respStmt {1}'.format(idx + 1, user_id))
 
 
+def check_page_number_markup(doc, errors):
+    """Check that page numbers are correctly marked up."""
+    markup = doc.xpath('//tei:pb', namespaces=ns)
+    for pb in markup:
+        if 'n' not in pb.attrib:
+            errors.append('Page begin markup without page number attribute')
+        else:
+            if not re.fullmatch('[IVX0-9]+', pb.attrib['n']):
+                errors.append('Page begin markup with invalid page number {0}'.format(pb.attrib['n']))
+    markup = doc.xpath('//tei:hi', namespaces=ns)
+    for hi in markup:
+        if 'style' in hi.attrib:
+            styles = hi.attrib['style'].split(' ')
+            if 'font-style-italic' in styles:
+                text = hi.xpath('text()')
+                if text and re.fullmatch('.*\[[IVX0-9]+\].*', text[0]):
+                    errors.append('Page number marked up as italic highlight')
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -88,6 +107,7 @@ for basepath, _, filenames in walk('content'):
                 check_creation_date(doc, file_errors)
                 check_reponsible_users(doc, file_errors)
                 check_revision_descriptions(doc, file_errors)
+                check_page_number_markup(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
