@@ -56,7 +56,7 @@ TAXONOMY = (
             ('Erster Band', 'erster-band', ()),
             ('Zweiter Band', 'zweiter-band', ()),
         )),
-        ('4. Wally die Zweiflerin', 'wally-die-zweiflerin', ()),
+        ('4. Wally, die Zweiflerin', 'wally-die-zweiflerin', ()),
         ('7. Kleine erzählerische Werke I', 'kleine-erzaehlerische-werke-i', (
             ('Imagina Unruh', 'imagina-unruh', ()),
         )),
