@@ -40,8 +40,7 @@ export PIPENV_VENV_IN_PROJECT=True
 pipenv install
 yarn install
 node_modules/.bin/gulp
-rm -rf output
-#pipenv run pelican -o output -d content
+pipenv run pelican -o output -d content
 
 # Build the branch-specific preview sites
 #if [ -f 'branches.txt' ]
