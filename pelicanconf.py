@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
+from git import Repo
 
 AUTHOR = 'Mark M Hall'
 SITETITLE = 'Karl Gutzkow - Editionsprojekt'
@@ -40,7 +41,10 @@ STATIC_PATHS = ['pages']
 
 THEME = './theme'
 
-GENERATION_DATE = datetime.now()
+# Generate build information
+repo = Repo('.')
+GENERATION_DATE = repo.head.commit.committed_datetime
+GENERATION_CHANGE = repo.head.commit.hexsha
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
