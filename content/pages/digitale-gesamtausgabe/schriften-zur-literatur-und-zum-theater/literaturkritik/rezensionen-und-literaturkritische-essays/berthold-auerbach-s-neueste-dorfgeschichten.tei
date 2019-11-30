@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="160"/>
         <tei:seg> Berthold Auerbach's neueste Dorfgeschichten.</tei:seg>
       </tei:head>
@@ -57,6 +57,46 @@
         <tei:seg>Von der zweiten Erzählung: "Brosi und Moni", müssen wir leider eingestehen, nicht in gleichem Maße befriedigt zu sein. Sie enthält nicht minder eine Fülle der trefflichsten Charakterzüge aus dem ländlichen Idyllleben, bewegt sich gleichfalls zwischen einigen, dem Leben entnommenen Figuren mit einer fast lichtbildnerischen Wahrheit, die uns immer auf factischem Boden erhält; indessen scheinen uns diesmal die Figuren zu niedrig gegriffen. Die Beschränktheit derselben erzeugt auf die Länge das Gefühl einer unendlichen Leere. Für solche Fälle, wo die Dorfgeschichte absolut Unzurechnungsfähiges schildert, hat Jeremias Gotthelf das vortreffliche Auskunftsmittel, trotz seines völligen Heimischseins im Leben dieser Menschen, doch über ihnen zu stehen entweder als Strafredner oder als Ironiker. Wir sind sowol gegen Didaktik wie gegen Ironik, wo es sich um Stoffe handelt, die der Poesie Stand halten sollen; aber unerläßlich wird irgend eine Form von beiden da, wo die Seele vor der drückenden Schwere der geschilderten Kleinwelt kaum aufathmen kann. Hätte der Verfasser das Leben Severin's entwickelt und dazu die beschränkten Aeltern als Hintergrund benutzt, so hätte das ohne Zweifel jene bei Auerbach immer vorhandene Erhebung und Kräftigung des Geistes gegeben, die wir bei "Brosi und Moni" entbehren, so sehr sich auch der Dichter in sein Haldenbrunner Philemon und Baucis-Paar gemüthlich und innig vertieft hat.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Berthold Auerbach's neueste Dorfgeschichten. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 10, [3. Dezember] 1852, S. 160. (Rasch 3.52.12.03.4)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
