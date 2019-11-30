@@ -43,11 +43,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="105"/>
         <tei:seg> Julius Max Schottky, Professor.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Eine Skizze.</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -212,7 +212,7 @@
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
       <tei:head data-heading-id="" type="level-1">
-        <tei:seg>Bearbeitung des Apparats: Wolfgang Rasch, Berlin</tei:seg>
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
