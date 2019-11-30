@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="599"/>
         <tei:seg> 80) </tei:seg>
         <tei:hi style="letter-sparse">Das Haus Düsterweg</tei:hi>
@@ -65,6 +65,85 @@
         <tei:seg> Von allen Seiten wird man zur Versöhnlichkeit aufgefordert: man solle dem Indifferentismus der Menge keine Augenweide geben. Wäre dies die Sprache eines gefallenen Königs; wohlan! Aber es ist die Sprache des Bettlers. Ich gestehe, sehnsüchtig auf ein Buch von W. Alexis gewartet zu haben, von einem Manne, dessen Unmännlichkeit mir im Grunde der Seele zuwider ist, der aber das Gefühl seiner Schwäche hat, der an seiner Situation krank ist, und sich, wie man hoffen konnte, vielleicht emporarbeitet. Ich hätte ihm gern, uneingedenk der Angriffe, welche ich von ihm zu erfahren habe, den kleinen Finger meiner Hand gereicht; aber was läßt sich thun? Ein Buch erscheint, das uns zwingt, fortwährend an den Kopf zu greifen, ob wir ihn noch haben, ob wir nicht durch das Gerede eines Wahnsinnigen selber thöricht geworden sind; ein Buch, worin Allegorie, Zerrissenheit, Redseligkeit die geflickteste Rolle von der Welt spielen, ein Buch, worin es Gedanken gibt, z. B. "Es ist im Grunde einerlei, nach einer Krone greifen, oder nach einer Kasse," Gedanken, die einem Schlafenden im Traume aus dem Munde zu fallen scheinen, so leer und schlottericht sind sie. Möchte man nicht glauben, nur noch die Franzosen könnten Bücher schreiben! Ich fühle dieses Urtheil schmerzlicher, als der Autor. Denn geboren bin ich, alle Welt zu lieben. Noch verzweifl' ich nicht. W. Alexis ist geboren, alle Tage zu sterben, und immer wieder aufzustehen. Er hat es mit Scott, Hoffmann und Tieck versucht, mit der Genremalerei, mit allem, er hat es jetzt mit Mundt versucht, zu dessen modernen Lebenswirren er ein Seitenstück schreiben wollte. Alles mißlungen. Vielleicht glückt es noch. Die Episode: eine Nacht in Hamburg: ist das einzig Leserliche im ganzen Buche und beweist, daß W. Alexis sich nicht versahe, als er den Entschluß faßte, die Feder zu führen. Möchte doch irgendwo ein Pharus leuchten, der ihm zeigte, wie er in's rechte Fahrwasser seines Talentes käme!</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Alexis' Roman "Das Haus Düsterweg" wurde zuerst 1835 im "Literaur-Blatt" zum "Phönix" veröffentlicht. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er den Text gekürzt und ohne Überschrift in den Abschnitt </tei:seg>
+        <tei:q>Roman</tei:q>
+        <tei:seg> einfügte.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 599-600. (Rasch 3.35.06.27.3) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 241-242. (Rasch 2.13.1.7)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
+        <tei:lem> darauf pikirt ist, den</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>darauf pikirt ist den</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>der Staatswissenschaften</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>den Staatswissenschaften </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">2,24</tei:citedRange>
+        <tei:lem> compromittirt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>compromitirt </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
