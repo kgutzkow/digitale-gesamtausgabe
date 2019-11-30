@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="405"/>
         <tei:seg> Wolfgang Menzel und der deutsche Tiersparti.</tei:seg>
       </tei:head>
@@ -87,6 +87,65 @@
         <tei:seg>Den Menzel'schen Widerspruch aber will ich lösen. Bei ihm ist die Poesie nur Geschmackssache, sie ist nicht Leben. Er interessirt sich nur für Gedichte oder Dichter, für das Vereinzelte und Individuelle. Er ist hingegeben dem poetischen Genusse und badet sich in etwas, was er von Außen her an sich herannimmt. Die Poesie ist ihm ein Sonntagskleid, ein Bratenrock, Zukost zum Schwarzbrod des Lebens. Bei uns aber läuft sie nicht so nebenbei. Sie ist unser Leben, was man auch nennen mag, unser Tod. Wir emanzipiren uns von der Sitte und Tradition und schaffen uns neu aus unserm Herzblut heraus. Wir haben keine Schule und kein Vorbild; aber wir wissen, daß das, was wir ausathmen, Poesie ist. Hier noch Zerrissenheit, dort schon keimende Objektivität. Nach dieser Theorie, der Theorie der Natur, braucht Amerika keine Gedichte zu haben und kann doch poetisch sein. Und so ist es zuletzt gekommen, daß wir Göthe und die Freiheit mit einem und demselben Herzen lieben.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Beitrag </tei:seg>
+        <tei:q>Wolfgang Menzel und der deutsche Tiersparti</tei:q>
+        <tei:seg> wurde nach der Erstpublikation im "Literatur-Blatt" des "Phönix" am 3. und 4. Mai 1835 im "Frankfurter Konversationsblatt" nachgedruckt, hier mit der Bemerkung ihres Redakteurs Ignaz Schusters: "Dieser Aufsatz ist dem von seinem Verfasser redigirten Literaturblatte entnommen, welches an Gediegenheit und intensiver Wirkung die sämmtlichen kritischen Blätter unseres Vaterlandes zu überflügeln scheint." (Frankfurter Konversationsblatt. Frankfurt/M. Nr. 122, 3. Mai 1835, [S. 2].) Der Nachdruck spielt für die Textgeschichte keine Rolle, da Gutzkows daran nicht beteiligt war.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Wolfgang Menzel und der deutsche Tiersparti. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 17, 30. April 1835, S. 405-408. (Rasch 3.35.04.30.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,14-15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>desavouirt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>desavoucirt </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
