@@ -32,11 +32,13 @@
         <tei:catRef target="#autobiographische-schriften #kleine-autobiographische-schriften-und-memorabilien #alter-und-neuer-glaube-bei-tisch"/>
       </tei:textClass>
     </tei:profileDesc>
-    <tei:revisionDesc/>
+    <tei:revisionDesc>
+      <tei:change who="#WolfgangRasch" when="2019-11-30">Fassung 1.0, Text hinzueguegt, TEI-Auszeichnung</tei:change>
+    </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> Alter und neuer Glaube - bei Tisch.</tei:seg>
       </tei:head>
