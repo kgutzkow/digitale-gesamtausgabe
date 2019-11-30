@@ -51,7 +51,7 @@
         <tei:pb n="21"/>
         <tei:seg> [Vorwort zum "Literatur-Blatt" des "Phönix"]</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Diese wöchentlich einmal wiederkehrenden Blätter beschäftigen sich damit, von unsrer zeitgenössischen Literatur ein treues Bild zu geben. Ein vollständiges Glaubensbekenntniß über Methode, Plan und Absicht, die bei unsrer Darstellung zu Grunde liegen, lassen wir bei Seite, treten mitten in die Verwirrung unsres Gegenstandes ein, und hoffen theils durch nachfolgende Ausführung, theils durch die Urtheile, welche über bestimmte vorliegende Erscheinungen gefällt werden sollen, das deutsche Publikum hinlänglich mit dem Tone vertraut zu machen, welcher hinfort in diesen Verhandlungen gelten wird.</tei:seg>
       </tei:p>
       <tei:p>
@@ -128,29 +128,30 @@
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
       <tei:p/>
-      <tei:head type="level-1">
-        <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Gutzkows leitet 1835 mit Ausführungen über Literatur und Kritik als eine Art "Vorwort" sein "Literatur-Blatt" zum "Phönix" ein. Der Beitrag füllt die ganze erste Nummer des "Literatur-Blatts" aus. Diese titellose Arbeit verwendete er 1836 in seinen </tei:seg>
-        <tei:seg>, wo er den Text - ebenfalls ohne Überschrift - stark gekürzt und überarbeitet in den Abschnitt </tei:seg>
-        <tei:seg> integrierte.</tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur </tei:q>
+        <tei:seg>, wo er den Text - ebenfalls ohne Überschrift - stark gekürzt und überarbeitet in den Abschnitt  integrierte.</tei:seg>
       </tei:p>
+      <tei:p/>
       <tei:list type="sources">
         <tei:item data-source-id="J">
           <tei:seg>Karl Gutzkow: [Vorwort zum "Literatur-Blatt" des "Phönix"]. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 1, 7. Januar 1835, S. 21-24. (Rasch 3.35.01.07)</tei:seg>
@@ -159,20 +160,20 @@
           <tei:seg>Kritik. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 23-28. (Rasch 2.13.1.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p>
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p>
         <tei:citedRange type="page-line-ref">9,5</tei:citedRange>
@@ -181,10 +182,10 @@
         <tei:seg> </tei:seg>
         <tei:sic>Quaterly</tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
