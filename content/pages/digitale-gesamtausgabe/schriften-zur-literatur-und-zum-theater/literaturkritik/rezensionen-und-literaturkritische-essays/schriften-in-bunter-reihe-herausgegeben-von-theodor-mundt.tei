@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="46"/>
         <tei:seg> 2) </tei:seg>
         <tei:hi style="letter-sparse">Schriften in bunter Reihe</tei:hi>
@@ -52,7 +52,7 @@
         <tei:seg>. Erstes Heft. Leipzig, Reichenbach, 1834. </tei:seg>
         <tei:note type="footnote" data-marker="*)">Erscheint jetzt unter dem Titel: Literarischer Zodiakus. Die Mitarbeiter sind zum großen Theile junge Doktrinäre mit etwas henriquinquistischem Anstrich.</tei:note>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Möge der Herausgeber dieser Aufsätze von verschiedenen Verfassern und verschiedenem Werthe in der vorangehenden Auseinandersetzung auch den Grund einer Erscheinung finden, welche er recht glücklich hervor-</tei:seg>
         <tei:pb n="47"/>
         <tei:seg>gehoben hat. Th. Mundt behauptet nämlich, daß der Charakter unserer gegenwärtigen Literaturperiode in einer so glänzenden </tei:seg>
@@ -93,22 +93,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -127,16 +127,16 @@
           <tei:seg>Kritik. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 42-47. (Rasch 2.13.1.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
