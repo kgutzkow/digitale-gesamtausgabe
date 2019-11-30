@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="237"/>
         <tei:seg> Der Salon von H. Heine. Zweiter Theil.</tei:seg>
       </tei:head>
@@ -79,6 +79,73 @@
       </tei:p>
       <tei:p/>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension vom zweiten Teil des "Salons" wurde zuerst 1835 im "Literatur-Blatt" zum "Phönix" veröffentlicht. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er den Text als Teil seines Beitrages </tei:seg>
+        <tei:q>H. Heine</tei:q>
+        <tei:seg> vornehmlich stilistisch stärker überarbeitet in den Abschnitt </tei:seg>
+        <tei:q>Charaktere und Tendenzen</tei:q>
+        <tei:seg> einfügte. Das Motto wurde in der Buchfassung weggelassen. Der Buchbeitrag enthält nämlich nicht nur die Rezension, sondern im Anschluß daran (S. 89-94) den ebenfalls im "Literatur-Blatt" zum "Phönix" veröffentlichten Beitrag </tei:seg>
+        <tei:q>Börne gegen Heine</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:item data-source-id="J">
+        <tei:seg>[Anon.:] Der Salon von H. Heine. Zweiter Theil. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 10, 11. März 1835, S. 237-239. (Rasch 3.35.03.11.1) </tei:seg>
+      </tei:item>
+      <tei:item data-source-id="E">
+        <tei:seg>H. Heine. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 79-89. (Rasch 2.13.1.4.5)</tei:seg>
+      </tei:item>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriff</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wenn</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wann</tei:sic>
+        <tei:seg> korrigiert nach E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
