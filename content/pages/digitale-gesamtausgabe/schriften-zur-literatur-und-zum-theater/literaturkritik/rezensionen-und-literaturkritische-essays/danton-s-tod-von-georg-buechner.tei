@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="645"/>
         <tei:seg> Danton's Tod, von Georg Büchner.</tei:seg>
       </tei:head>
@@ -75,6 +75,66 @@
         <tei:seg>Ich bin stolz darauf, der Erste gewesen zu sein, der im literarischen Verkehr und Gespräch den Namen Georg Büchner's genannt hat.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Büchners "Danton's Tod" wurde zuerst 1835 im "Literatur-Blatt" zum "Phönix" veröffentlicht. Auszüge der Besprechung druckte die Frankfurter "Didaskalia", ein Beiblatt zum "Frankfurter Journal", nach, wo Wilhelm Wagner Gutzkows literaturkritisches Wirken in einem Beitrag "Carl Gutzkow und sein Literaturblatt" positiv herausstrich und einige Rezensionen auszugsweise als Proben dieser Tätigkeit abdruckte. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er den Text ohne Überschrift, leicht gekürzt und überarbeitet im Abschnitt </tei:seg>
+        <tei:q>Theater</tei:q>
+        <tei:seg> integrierte.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>[Anon.:] Danton's Tod, von Georg Büchner. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 27, 11. Juli 1835, S. 645-646. (Rasch 3.35.07.11.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="J2">
+          <tei:seg>Danton's Tod, von Georg Büchner. [Auszüge.] In: Didaskalia. Frankfurt/M. Nr. 194, 16. Juli 1835. (Rasch 3.35.07.16.2N) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Theater. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 181-189. (Rasch 2.13.1.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
