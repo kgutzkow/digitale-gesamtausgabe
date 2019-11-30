@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="45"/>
         <tei:seg> 1) </tei:seg>
         <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
@@ -55,7 +55,7 @@
         <tei:hi style="letter-sparse">von Eichendorff</tei:hi>
         <tei:seg>. Berlin, Duncker und Humblot, 1834.</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Der Kreis von Anschauungen, in welchen sich Eichendorff bewegt, ist klein, aber er ist reizend. Es gibt einige Situationen in der Natur, welche Niemand so warm empfunden hat, als dieser Preußische Regierungsrath, welcher nahe an der Schneelinie, in Königsberg, wohnt. In diesem Manne lebt nur Wanderlust, die Natur, nicht in ihren Schauern, sondern in ihrer trauten Heimlichkeit, in seinen Gedanken blitzt Alles von Morgenthau und Sonnenschein. Es scheint, als könne man nur so in Deutschland empfinden, in einem Lande, das in seinen kleinen Harzgründen, in seinen Oderbrüchen, in seinen Nachtigallenhainen an den Elbufern, in seinen Rheingauen und den lachenden Neckarthälern mit hellen Klosterglocken und einer immer wachen historischen Erinnerung so ungemein viel sanfte, bescheidene und wehmüthige Poesie verbirgt. Eichendorff jubelt, wenn man ihm nur eine einfache Scene vorführt, wie Ihr sie alle erlebt habt: Ihr wandert durch einen Wiesenplan, die Lerche steigt, ein fernes Glöcklein ruft, Ihr tretet in einen Busch, der Specht hackt in der Nähe, da kömmt der Jäger aus dem Laub, der hat einen grünen Strauß am Hut - Eichendorff schwelgt! Oder es ist Herbst, der Regen klatscht an die hohen Fenster eines Schlosses, das Euch beherbergt, die Kastanien in der Allee platzen, weit im Walde schallen sanfte Waldhornklänge, der Jäger bläs't dem Sommer Abschied. Am Morgen tretet Ihr hinaus in den Schloßgarten, es ist Alles frisch, die Sonne meint es gut, sie denkt noch sommerlich, aber das Laub verdünnt sich schon, und in der Weite sieht man melancholische Statuen durch die offnen Bäume glänzen. Da ist wieder Eichendorff. Oder macht es so wie ich, und besucht Heidelberg, den Kaiserstuhl deutscher Romantik, des Nachts: da schwimmt die dämmernde Stadt in dem murmelnden Neckar, tausend Lichter spiegeln sich im Flusse, ein Anblick, nicht so erhaben wie Venedig, aber geisterhaft und geheimnißvoll, hier Gesang eines lauten Chors, dort tiefe Stille, nur ein gemüthlicher Student spielt die Cither, Alles ernst, selig und übermannend, Alles Poesie. Ich habe diesen Traum zwei Mal erlebt und dabei immer an Eichendorff gedacht.</tei:seg>
       </tei:p>
       <tei:p>
@@ -73,22 +73,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p>
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p>
@@ -104,10 +104,10 @@
           <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p>
@@ -116,26 +116,21 @@
       <tei:p>
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1.1. Textänderungen</tei:seg>
       </tei:head>
       <tei:p>
-        <tei:hi type="page-line-ref" style="font-weight-bold"/>
-        <tei:hi type="page-line-ref" style="font-weight-bold"/>
-        <tei:hi type="page-line-ref" style="font-weight-bold"/>
-        <tei:hi type="page-line-ref" style="font-weight-bold">
-          <tei:hi style="font-weight-bold">3,33 </tei:hi>
-        </tei:hi>
-        <tei:hi type="page-line-ref" style="font-weight-bold"/>
-        <tei:hi type="word-range" style="font-weight-bold">
-          <tei:hi style="font-weight-bold"> </tei:hi>
-          <tei:q>in der sich</tei:q>
-          <tei:seg> </tei:seg>
-        </tei:hi>
+        <tei:hi style="font-weight-bold"/>
+        <tei:hi style="font-weight-bold"/>
+        <tei:hi style="font-weight-bold"/>
+        <tei:hi style="font-weight-bold font-weight-bold">3,33 </tei:hi>
+        <tei:hi style="font-weight-bold"/>
+        <tei:hi style="font-weight-bold">
+          </tei:hi>
         <tei:q>in dem sich</tei:q>
         <tei:seg> korrigiert nach E</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p>
