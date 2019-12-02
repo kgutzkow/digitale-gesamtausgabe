@@ -43,7 +43,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> Der Geist des Ortes.</tei:seg>
       </tei:head>
@@ -150,7 +150,8 @@
         <tei:seg> </tei:seg>
         <tei:lem>zwängen</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:sic>zwänzen</tei:sic>
+        <tei:rdg wit="#J">zwänzen</tei:rdg>
+        <tei:rdg wit="#"/>
       </tei:p>
       <tei:p>
         <tei:citedRange type="page-line-ref">9,8</tei:citedRange>
