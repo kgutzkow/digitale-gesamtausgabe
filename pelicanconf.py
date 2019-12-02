@@ -43,8 +43,9 @@ THEME = './theme'
 
 # Generate build information
 repo = Repo('.')
-GENERATION_DATE = repo.head.commit.committed_datetime
-GENERATION_CHANGE = repo.head.commit.hexsha
+latest_commit = next(repo.iter_commits('{0}@{{u}}'.format(repo.active_branch.name)))
+GENERATION_DATE = latest_commit.committed_datetime
+GENERATION_CHANGE = latest_commit.hexsha
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
