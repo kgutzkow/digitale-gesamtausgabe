@@ -5,12 +5,14 @@ include:
   template: Dependency-Scanning.gitlab-ci.yml
   
 stages:
-  - pre
   - validate
   - build
 
 dependency_scanning:
-  stage: pre
+  stage: validate
+  only:
+    - master
+  DS_DISABLE_DIND: "true"
   
 build:
   stage: build
