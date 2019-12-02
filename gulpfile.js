@@ -21,21 +21,34 @@ gulp.task('css:reader', function(cb) {
         concat('tei-reader.css'),
         gulp.dest('theme/static/css')
     ], cb);
-})
+});
 
 gulp.task('css', gulp.series('css:theme', 'css:reader'));
 
-gulp.task('js', function(cb) {
+gulp.task('js:reader', function(cb) {
     pump([
         gulp.src([
-            'node_modules/tei-reader/dist/app.js'
+            'node_modules/tei-reader/dist/app.js',
         ]),
         concat('tei-reader.js'),
         gulp.dest('theme/static/js')
     ], cb);
 });
 
-gulp.task('default', gulp.series('css', 'js'));
+gulp.task('js:theme', function(cb) {
+    pump([
+        gulp.src([
+            'node_modules/foundation-sites/dist/js/foundation.min.js',
+            'node_modules/jquery/dist/jquery.min.js',
+            'node_modules/what-input/dist/what-input.min.js',
+        ]),
+        gulp.dest('theme/static/js')
+    ], cb);
+});
+
+gulp.task('js', gulp.parallel('js:reader', 'js:theme'));
+
+gulp.task('default', gulp.parallel('css', 'js'));
 
 gulp.task('watch', gulp.series('default', function(cb) {
     gulp.watch('theme/src/**/*.scss', gulp.series('css:theme'));

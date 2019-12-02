@@ -23,8 +23,8 @@
       {% if FEED_ALL_RSS %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
       {% endif %}
-      <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.js"></script>
-      <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/what-input.js"></script>
+      <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+      <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/what-input.min.js"></script>
     {% endblock %}
   </head>
   <body>
@@ -109,7 +109,7 @@
         <p>Erstellt mit <a href="http://getpelican.com/">Pelican</a> und der Kraft von <a href="http://python.org">Python</a>.</p>
       </nav>
     </footer>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/foundation.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/foundation.min.js"></script>
     <script>$(document).foundation();</script>
     <script>
       const html = document.querySelector('html');
