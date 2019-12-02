@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Ensure only on copy of the script runs at any time
+exec 100>.build.lock || exit 1
+flock -w 300 100 || exit 1
+trap 'rm -f .build.lock' EXIT
+
 # The local-config file can be used to set deployment-specific environment settings, such as proxies
 if [ -f 'local-config' ]
 then
