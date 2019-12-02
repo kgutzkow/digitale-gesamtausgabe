@@ -1,6 +1,9 @@
 default:
   image: python:3.7-buster
 
+include:
+  template: Dependency-Scanning.gitlab-ci.yml
+  
 stages:
   - validate
   - build
