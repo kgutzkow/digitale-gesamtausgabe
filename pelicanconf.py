@@ -43,7 +43,10 @@ THEME = './theme'
 
 # Generate build information
 repo = Repo('.')
-latest_commit = next(repo.iter_commits('{0}@{{u}}'.format(repo.active_branch.name)))
+try:
+    latest_commit = next(repo.iter_commits('{0}@{{u}}'.format(repo.active_branch.name)))
+except TypeError:
+    latest_commit = repo.head.commit
 GENERATION_DATE = latest_commit.committed_datetime
 GENERATION_CHANGE = latest_commit.hexsha
 
