@@ -5,6 +5,7 @@ include:
   template: Dependency-Scanning.gitlab-ci.yml
   
 stages:
+  - pre
   - validate
   - build
 
