@@ -134,7 +134,7 @@ def check_readings(doc, errors):
         elif not rdg.attrib['wit'].startswith('#'):
             errors.append('Witness does not specify an identifier')
         else:
-            doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]))
+            doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]), namespaces=ns)
 
 
 errors = []
