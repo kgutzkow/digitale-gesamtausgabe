@@ -12,7 +12,8 @@ dependency_scanning:
   stage: validate
   only:
     - master
-  DS_DISABLE_DIND: "true"
+  variables:
+    DS_DISABLE_DIND: "true"
   
 build:
   stage: build
