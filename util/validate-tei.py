@@ -122,7 +122,7 @@ def check_source_lists(doc, errors):
 
 def check_readings(doc, errors):
     """Check all readings for validity."""
-    markup = doc.xpath('//tei:rdg')
+    markup = doc.xpath('//tei:rdg', namespaces=ns)
     for rdg in markup:
         text = rdg.xpath('text()')
         if not text or text[0].strip() == '':
