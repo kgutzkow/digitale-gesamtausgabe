@@ -9,6 +9,9 @@ stages:
   - validate
   - build
 
+dependency_scanning:
+  stage: pre
+  
 build:
   stage: build
   script:
