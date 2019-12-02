@@ -120,6 +120,23 @@ def check_source_lists(doc, errors):
                     errors.append('Two source lists next to each other')
 
 
+def check_readings(doc, errors):
+    """Check all readings for validity."""
+    markup = doc.xpath('//tei:rdg', namespaces=ns)
+    for rdg in markup:
+        text = rdg.xpath('text()')
+        if not text or text[0].strip() == '':
+            errors.append('Empty reading')
+        if 'wit' not in rdg.attrib:
+            errors.append('No witness specified in the reading')
+        elif rdg.attrib['wit'].strip() == '':
+            errors.append('Empty witness specified in the reading')
+        elif not rdg.attrib['wit'].startswith('#'):
+            errors.append('Witness does not specify an identifier')
+        else:
+            doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]))
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -135,6 +152,7 @@ for basepath, _, filenames in walk('content'):
                 check_page_number_markup(doc, file_errors)
                 check_footnotes(doc, file_errors)
                 check_source_lists(doc, file_errors)
+                check_readings(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
