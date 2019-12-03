@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
   <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Am Lethestrom. Erinnerungen</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Karl Gutzkow: Am Lethestrom. Erinnerungen. In: Die Gartenlaube. Leipzig. Nr. 19, [Mai] 1876, S. 315-319. (Rasch 3.76.05.1)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1876-05-00">Mai 1876</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#autobiographische-schriften #kleine-autobiographische-schriften-und-memorabilien #am-lethestrom"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change who="#WolfgangRasch" when="2019-12-03">Fassung 1.0</tei:change>
+    </tei:revisionDesc>
   </tei:teiHeader>
+  <tei:text>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
 </tei:TEI>
