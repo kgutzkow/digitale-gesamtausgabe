@@ -262,6 +262,79 @@
         <tei:seg>Ob wohl ein Geschichtsprofessor der Sorbonne oder sonstwo in Frankreich, wenn dieser die jähe Flucht der Erben des Lorbeers von Roßbach bei Jena im Jahre 1806 erzählt und die Zuhörer ebenfalls vor Jubel über den alten steifen General Möllendorf lachen, eine entsprechende Aeußerung thun würde über die Deutschen und unsern Ruhm der Tapferkeit von des Tacitus' Zeiten an?</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows sechsteiligen Erinnerungszyklus </tei:seg>
+        <tei:q>Am Lethestrom</tei:q>
+        <tei:seg> brachte zuerst die von Ernst Keil redigierte Leipziger Familienzeitschrift "Die Gartenlaube" im Mai 1876. Zwei Jahre später übernahm Gutzkow ihn in seinen Sammelband </tei:seg>
+        <tei:q>In bunter Reihe</tei:q>
+        <tei:seg>. Für die Buchausgabe überarbeitete er den Text stilistisch, nahm einige Umformulierungen und Wortumstellungen vor, strich einzelne Worte, präzisierte Ausdrücke oder Sachverhalte - etwa Ortsangaben - durch knappe Zusätze und fügte einige Sätze hinzu. Durch die Textänderungen kommen in der Buchfassung einige Standpunkte Gutzkows etwas unverblümter und pointierter zum Ausdruck als in der Familienzeitschrift.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Am Lethestrom. Erinnerungen. In: Die Gartenlaube. Leipzig. Nr. 19, [Mai] 1876, S. 315-319. (Rasch 3.76.05.1) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>Am Lethestrom. Erinnerungen. (1876.) In: Karl Gutzkow: In bunter Reihe. Briefe, Skizzen, Novellen. Breslau: Schottlaender, 1878. S. 181-216. (Rasch 2.49.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">259,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>-seelennerven</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>-seelennerveu</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">260,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Stolzenfels'schen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Stolzenfel'schen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
