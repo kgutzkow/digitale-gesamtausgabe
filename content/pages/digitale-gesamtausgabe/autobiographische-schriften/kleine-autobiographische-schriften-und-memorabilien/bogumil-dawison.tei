@@ -42,7 +42,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="373"/>
         <tei:seg> Bogumil Dawison.</tei:seg>
       </tei:head>
@@ -105,6 +105,64 @@
         <tei:seg>Den Tadel mancher seiner Leistungen bestreite ich nicht. Die Form, wie das Dämonische innerhalb der germanischen Welt hervortritt, war ihm versagt. Er bedurfte des rhetorischen Beiwerks. Er hatte nicht jenen Ton passiver Leidenschaft, die englischen, die deutschen Schauspielern eigen ist. Sein Verstand mußte gestalten, das Gegebene erschöpfen können. Der Zusatz einer latenten Schönheit, die wir Poesie nennen, war in der Regel bei ihm fraglich. Und doch waren sein Richard III., sein Othello, Franz Moor hinreißende Gebilde, wie selbstverständlich alles in der rein verständigen Sphäre Liegende, Carlos im Clavigo, Marinelli, Riccaut de la Marlinière, französische Chargen, wie sein Bonjour. Eine absolut seltsame und ganz vergriffen herauskommende Rolle war die des Philipp im Don Carlos. Hier wollte er die spanische Bigotterie, die steife Andächtelei charakterisiren, aber das Gebilde wurde darüber düster, aschgrau, langweilig. Sein hochliegendes, oft zur Fistelstimme greifendes Organ störte ihn überall, besonders wo schon im Ton die breite Pinselführung edler Leidenschaft, tragischer Würde liegen mußte. Er war kein Wallenstein. Immer kam die Rede spitz und eckig heraus. Dennoch war sie durch die klare Darlegung des Inhalts der Rollen hinreißend für den wahren Freund der dramatischen Muse. Man sollte nur auf das Lobens- nicht Tadelnswerthe im Gedächtniß dieses großen Künstlers halten. Dawison war ein Muster von Gewissenhaftigkeit und als Mensch, wenn auch schwach und allzu biegsam, doch liebenswürdig für die, die überhaupt zu lieben verstehen.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Erinnerungen an seinen langjährigen Freund, den 1872 verstorbenen Schauspieler Bogumil Dawison, brachte im September 1878 die Monatsschrift "Nord und Süd", die Paul Lindau im Jahr zuvor gegründet hatte und herausgab. Der Beitrag gehört zu den letzten Arbeiten, die Gutzkow schrieb. Ein weiterer Abdruck oder Nachdruck ist nicht nachgewiesen.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Bogumil Dawison. In: Nord und Süd. Berlin. Bd. 6, Heft 18, September 1878, S. 373-379. (Rasch 3.78.09.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriff</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">278,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>kommen.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>kommen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
