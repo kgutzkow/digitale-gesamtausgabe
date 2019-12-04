@@ -48,7 +48,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="45"/>
         <tei:seg> 1) </tei:seg>
         <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
@@ -74,67 +74,69 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head type="level-1">
-        <tei:seg>Bearbeitung des Kommentars: Wolfgang Rasch, Berlin</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg>Gutzkows Rezension von Eichendorffs "</tei:seg>
-        <tei:hi style="letter-sparse">Dichter und ihre Gesellen</tei:hi>
-        <tei:seg>" wurde zuerst im "Literatur-Blatt" zum "Phönix" veröffentlicht. Diese Arbeit verwendete Gutzkow 1836 in seinen Beiträgen zur Geschichte der neuesten Literatur, wo er den Text ohne Überschrift, aber weitgehend unverändert im Abschnitt Roman integrierte.</tei:seg>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Eichendorffs "Dichter und ihre Gesellen" wurde zuerst im "Literatur-Blatt" zum "Phönix" veröffentlicht. Diese Arbeit verwendete Gutzkow 1836 in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er den Text ohne Überschrift, aber weitgehend unverändert im Abschnitt </tei:seg>
+        <tei:q>Roman</tei:q>
+        <tei:seg> integrierte.</tei:seg>
       </tei:p>
+      <tei:p/>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>[Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1)</tei:seg>
+          <tei:seg>[Anon.:] Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 2, 14. Januar 1835, S. 45-46. (Rasch 3.35.01.14.1) </tei:seg>
         </tei:item>
+      </tei:list>
+      <tei:list type="sources">
         <tei:item data-source-id="E">
           <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 314-323. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p>
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriff</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:hi style="font-weight-bold"/>
-        <tei:hi style="font-weight-bold"/>
-        <tei:hi style="font-weight-bold"/>
-        <tei:hi style="font-weight-bold">3,33 </tei:hi>
-        <tei:hi style="font-weight-bold"/>
-        <tei:hi style="font-weight-bold">
-          </tei:hi>
-        <tei:q>in dem sich</tei:q>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>in der sich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>in dem sich</tei:sic>
         <tei:seg> korrigiert nach E</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
