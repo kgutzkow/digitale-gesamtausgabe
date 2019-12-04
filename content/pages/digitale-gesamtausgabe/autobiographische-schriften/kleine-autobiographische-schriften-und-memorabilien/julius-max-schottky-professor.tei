@@ -258,12 +258,12 @@
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p>
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>vielem</tei:lem>
@@ -271,7 +271,7 @@
         <tei:sic>vielen</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,32</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Folgendes</tei:lem>
@@ -279,21 +279,21 @@
         <tei:sic>Folgeudes</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,6</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Kopf, roch</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Kopf roch, </tei:sic>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>sich</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>fich </tei:sic>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">6,26</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>verlebt</tei:lem>
@@ -301,7 +301,7 @@
         <tei:sic>verlebte</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">7,7</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>augenblicklich</tei:lem>
@@ -309,7 +309,7 @@
         <tei:sic>augenblicklch</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">11,19</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>welchen</tei:lem>
@@ -317,7 +317,7 @@
         <tei:sic>welchem</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">14,33</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Wohnhäusern</tei:lem>
@@ -325,7 +325,7 @@
         <tei:sic>Wohnhäuser</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">18,17</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>brachte</tei:lem>
@@ -333,7 +333,7 @@
         <tei:sic>brachten</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">18,30</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>geblieben</tei:lem>
@@ -341,7 +341,7 @@
         <tei:sic>gebileben</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">19,20</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Sie</tei:lem>
@@ -349,7 +349,7 @@
         <tei:sic>sie</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">23,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Ueber</tei:lem>
@@ -357,7 +357,7 @@
         <tei:sic>Uber</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">25,19</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>zu</tei:lem>
@@ -365,7 +365,7 @@
         <tei:sic>zn</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">26,18</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>das</tei:lem>
