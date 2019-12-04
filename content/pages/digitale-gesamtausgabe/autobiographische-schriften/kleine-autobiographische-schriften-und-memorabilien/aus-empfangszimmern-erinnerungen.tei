@@ -42,14 +42,14 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> Aus Empfangszimmern.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Erinnerungen.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>I.</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -159,7 +159,7 @@
       <tei:p>
         <tei:seg>Wir haben meine Berührungen mit Preußen und Rußland kennen gelernt. Es fehlt der Dritte im Bunde der damaligen "heiligen Allianz": Oesterreich. Auch diese so schöne Gegend werde ich mir erlauben, in meinem Nächsten vom diplomatischen Standpunkte aus dem freundlichen Leser vorzuführen.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:pb n="1"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
@@ -257,7 +257,7 @@
         <tei:foreign>Agent provocateur</tei:foreign>
         <tei:seg> sein -! denkt man. Wie sagt der Dichter? "Wer das Vertrauen vergiftet, der mordet das werdende Geschlecht im Mutterleibe -!" Jener literarische Kreis "Unter den Linden" war in der That, soll ich sagen, so harmlos oder so vorsichtig, daß Niemand in ihm freudiger begrüßt wurde, als plötzlich - der Polizeirath Duncker! Sieh da! Sieh da! Der Freund der Dichter - Polizeirath Duncker! Als er kam, klangen ihm alle Gläser entgegen. Ich traute meinen Augen nicht: Lamm und Wolf friedlich beisammen -?! Wahrlich, hier ruhte die Politik. Der Polizeirath war ja nur der berühmte Schrecken der Diebe, der Mörder - und im Uebrigen liebte die kindliche Seele Kunst und Literatur, konnte schwärmen für Poesie, Musik, Theater, Albums, berühmte Namen -! Jeder verbürgte sich für ihn - Glaßbrenner, Mundt, Mügge, Marx -! "Duncker!" Er schüttelte Allen die Hand. Ich dachte: "Vocativus!"</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:pb n="1"/>
         <tei:seg> III.</tei:seg>
       </tei:head>
@@ -349,7 +349,7 @@
         <tei:hi style="letter-sparse">Fürsten Metternich</tei:hi>
         <tei:seg>, von Angesicht zu Angesicht sehen sollte.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:pb n="1"/>
         <tei:seg> IV.</tei:seg>
       </tei:head>
@@ -428,7 +428,7 @@
         <tei:hi style="letter-sparse">Herzog Ernst von Coburg</tei:hi>
         <tei:seg> zu begrüßen.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:pb n="1"/>
         <tei:seg> V.</tei:seg>
       </tei:head>
@@ -486,6 +486,108 @@
         <tei:seg> Höhepunkt meiner "Erinnerungen aus den Empfangszimmern" wol gar noch ein willkommenes Material liefern für die Anklage Ihrer Zeitung, sie wäre - subventionirt.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Den mehrteiligen Feuilletinartikel brachte im April und Mai 1869 die Wiener Tageszeitung "Neue Freie Presse". Ein Jahr später nahm Gutzkow die Arbeit mit einigen kleineren Änderungen in den zweiten Band seiner </tei:seg>
+        <tei:q>Lebensbilder</tei:q>
+        <tei:seg> auf, der den Bandtitel </tei:seg>
+        <tei:q>Novellen und Skizzen</tei:q>
+        <tei:seg> trägt. Den Titelzusatz </tei:seg>
+        <tei:q>Erinnerungen</tei:q>
+        <tei:seg> ließ Gutzkow bei der Buchausgabe weg. Davon erschien 1874 eine zweite, unveränderte Auflage. Zu Gutzkows Lebzeiten wurde der Text nicht mehr veröffentlicht.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Aus Empfangszimmern. Erinnerungen. I.-V. In: Neue Freie Presse. Wien. Nr. 1654, 7. April 1869, Morgenblatt, [S. 1-3]; Nr. 1661, 14. April 1869, Morgenblatt, [S. 1-4]; Nr. 1665, 18. April 1869, Morgenblatt, [S. 1-4]; Nr. 1681, 4. Mai 1869, [S. 1-4]; Nr. 1683, 6. Mai 1869, Morgenblatt, [S. 1-3]. (Rasch 3.69.04.07) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E1">
+          <tei:seg>Aus Empfangszimmern. I.-V. In: Karl Gutzkow: Novellen und Skizzen. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1870. S. 127-220. (Rasch 2.40.2.3) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E2">
+          <tei:seg>Aus Empfangszimmern. I.-V. In: Karl Gutzkow: Novellen und Skizzen. 2. Aufl. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1874. S. 127-220. (Rasch 2.40a.2.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">155,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>III.</tei:lem>
+        <tei:seg> III </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">164,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>bouleverserons</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>bonleverserons</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">165,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>den Organen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>denOrganen </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">170,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Senatoren Roms</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>SenatorenRoms </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">183,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Sophie</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Katharina</tei:sic>
+        <tei:seg> korrigiert nach E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
