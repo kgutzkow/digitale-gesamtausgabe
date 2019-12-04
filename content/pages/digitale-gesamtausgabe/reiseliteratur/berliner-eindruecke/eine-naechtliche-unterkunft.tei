@@ -53,7 +53,7 @@
         <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der Wohnung des Monarchen, </tei:seg>
         <tei:ref target="#unknown">in jenem Portal</tei:ref>
         <tei:seg>, das seit dem Jahre 1844 dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
-        <tei:hi style="letter-sparse letter-sparse">Portechaise</tei:hi>
+        <tei:hi style="letter-sparse">Portechaise</tei:hi>
         <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
         <tei:ref target="#new-text-3">Nagelgasse</tei:ref>
         <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des neuen Rathhauses - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
@@ -126,7 +126,7 @@
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p>
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
@@ -146,71 +146,139 @@
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,1</tei:citedRange>
-        <tei:seg> Eine nächtliche Unterkunft.] Eine nächtliche Unterkunft. Zur Asylfrage. 1870. E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>Eine nächtliche Unterkunft.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Eine nächtliche Unterkunft. Zur Asylfrage. 1870.</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
-        <tei:seg> jene noch nicht] jene noch jetzt nicht E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>jene noch nicht</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">jene noch jetzt nicht</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,8-9</tei:citedRange>
-        <tei:seg> in Manchem auch noch heute bezeichnen dürfte] in Manchem bezeichnen dürfte E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>in Manchem auch noch heute bezeichnen dürfte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">in Manchem bezeichnen dürfte</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,10-11</tei:citedRange>
-        <tei:seg> für gleichsam "mit Brettern vernagelt"] für gleichsam wie "mit Brettern vernagelt" E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>für gleichsam "mit Brettern vernagelt"</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">für gleichsam wie "mit Brettern vernagelt"</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,13-14</tei:citedRange>
-        <tei:seg> ja mit Beweisen völliger Unbeholfenheit] ja mit Beweisen völliger Unbeholfenheit und Unreife E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>ja mit Beweisen völliger Unbeholfenheit</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">ja mit Beweisen völliger Unbeholfenheit und Unreife</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
-        <tei:seg> 1844] 1848 E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>1844</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">1848</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,1</tei:citedRange>
-        <tei:seg> Gelpcke] Gelpke E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>Gelpcke</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Gelpke</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,16</tei:citedRange>
-        <tei:seg> Devrient, von Lutter] Devrient, drüben von Lutter E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>Devrient, von Lutter</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Devrient, drüben von Lutter</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,19</tei:citedRange>
-        <tei:seg> hinüber geworfen] hinübergeworfen E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>hinüber geworfen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">hinübergeworfen</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,9-10</tei:citedRange>
-        <tei:seg> ausgezischt hatten,] ausgezischt, E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>ausgezischt hatten,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">ausgezischt,</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,12</tei:citedRange>
-        <tei:seg> hergenommen] hergekommen E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>hergenommen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">hergekommen</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,16-17</tei:citedRange>
-        <tei:seg> nicht in der Dorotheen- und nicht in der Friedrichsstadt] nicht in der Dorotheen-, nicht in der Friedrichsstadt E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>nicht in der Dorotheen- und nicht in der Friedrichsstadt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">nicht in der Dorotheen-, nicht in der Friedrichsstadt</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,16</tei:citedRange>
-        <tei:seg> mit dem Pathos] mit dem leidenschaftlichen Pathos E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>mit dem Pathos</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">mit dem leidenschaftlichen Pathos</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,17</tei:citedRange>
-        <tei:seg> bekommen kann] bekommen konnte E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>bekommen kann</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">bekommen konnte</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,26</tei:citedRange>
-        <tei:seg> Goethe's] Göthe's E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>Goethe's</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Göthe's</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,3</tei:citedRange>
-        <tei:seg> fühlen wir tiefer, als in der] fühlen wir tiefer als in der E </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>fühlen wir tiefer, als in der</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">fühlen wir tiefer als in der</tei:rdg>
+        <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,10</tei:citedRange>
-        <tei:seg> der hiesigen Leihbibliotheken] der Leihbibliotheken E</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>der hiesigen Leihbibliotheken</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">der Leihbibliotheken</tei:rdg>
+        <tei:seg> E</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
@@ -275,7 +343,7 @@
           <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
         </tei:p>
         <tei:p>
-          <tei:metamark function="missing"/>
+          <tei:metamark/>
         </tei:p>
       </tei:interp>
       <tei:interp xml:id="new-text-2">
