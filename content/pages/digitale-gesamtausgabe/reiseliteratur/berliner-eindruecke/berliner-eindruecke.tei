@@ -172,18 +172,24 @@
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p>
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,18</tei:citedRange>
-        <tei:seg> ließ mich] ließen mich </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>ließ mich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ließen mich </tei:sic>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">11,18</tei:citedRange>
-        <tei:seg> einwerfen] inwerfen ausgefallene Letter</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>einwerfen</tei:lem>
+        <tei:sic> inwerfen</tei:sic>
+        <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
