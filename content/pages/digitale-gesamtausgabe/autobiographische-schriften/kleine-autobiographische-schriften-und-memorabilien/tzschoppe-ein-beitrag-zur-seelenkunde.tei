@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
   <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Tzschoppe. Ein Beitrag zur Seelenkunde</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Karl Gutzkow: Tzschoppe. Ein Beitrag zur Seelenkunde. In: Telegraph für Deutschland. Hamburg. Nr. 173, [24.] Oktober 1842, S. 677-679. (Rasch 3.42.10.24)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1842-10-24">24. Oktober 1842</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#autobiographische-schriften #kleine-autobiographische-schriften-und-memorabilien #tzschoppe-ein-beitrag-zur-seelenkunde"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change who="#WolfgangRasch" when="2019-12-05">Fassung 1.0</tei:change>
+    </tei:revisionDesc>
   </tei:teiHeader>
+  <tei:text>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
 </tei:TEI>
