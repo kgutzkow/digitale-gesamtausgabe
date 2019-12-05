@@ -39,11 +39,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="105"/>
         <tei:seg> Rosa Maria Assing,</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:hi style="font-size-medium">geb. Varnhagen von Ense.</tei:hi>
       </tei:head>
       <tei:p style="no-indent">
@@ -145,6 +145,91 @@
         <tei:seg>, die wir ihre Freunde waren, uns die Hände drücken und andächtig flüstern: Rosa Maria ist unter uns!</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows persönlich gehaltener Nachruf auf Rosa Maria Assing, die am 22. Januar 1840 in Hamburg gestorben war, wurde wenige Wochen nach ihrem Tod im "Telegraph für Deutschland" veröffentlicht. 1842 nahm Gutzkow ihn mit geringfügigen Überarbeitungen in den Sammelband </tei:seg>
+        <tei:q>Mosaik. Novellen und Skizzen</tei:q>
+        <tei:seg>, den dritten Band seiner </tei:seg>
+        <tei:q>Vermischten Schriften</tei:q>
+        <tei:seg>, auf. Im </tei:seg>
+        <tei:q>Inhaltsverzeichniß zum dritten Bande</tei:q>
+        <tei:seg> (S. V) wird der Beitrag anders als im Buch (S. 133) unter dem Titel </tei:seg>
+        <tei:q>Erinnerung an Rosa Maria, geborne Varnhagen von Ense</tei:q>
+        <tei:seg> aufgeführt. Vermutlich wollte Gutzkow den Titel ändern, um den Rahmen subjektiver Reminiszenzen, der diesen Nekrolog kennzeichnet, stärker hervorzuheben. Warum die Titeländerung im Buch nicht erfolgte, ist unklar.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Drei Jahre reihte Gutzkow den Text in den sechsten Band der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> ein, wo er nur mit </tei:seg>
+        <tei:q>Rosa Maria</tei:q>
+        <tei:seg> betitelt wurde. Unter ihrem Vornamen Rosa Maria hatte die Verstorbene publiziert; ihr Autorname war inzwischen einer breiteren Öffentlichkeit durch den Band "Rosa Maria's poetischer Nachlass" (Altona, 1841) bekannt geworden. Gutzkow verband unter dem Gesamttitel </tei:seg>
+        <tei:q>Rosa Maria und J. D. Assing</tei:q>
+        <tei:seg> den Beitrag mit dem etwas später erschienenen über Rosa Maria Assings Gatten. Auf diese Arbeit griff er später nicht mehr zurück; weitere Abdrucke zu seinen Lebzeiten sind nicht nachgewiesen.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K[arl] G[utzkow]: Rosa Maria Assing, geb. Varnhagen von Ense. In: Telegraph für Deutschland. Hamburg. Nr. 27, [14.] Februar 1840, S. 105-107; Nr. 28. [15.] Februar 1840, S. 109-111. (Rasch 3.40.02.14) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Rosa Maria Assing, geb. Varnhagen von Ense. In: Karl Gutzkow: Mosaik. Novellen u. Skizzen. Leipzig: Weber, 1842. S. 133-147. (Rasch 2.23.3.7) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A1">
+          <tei:seg>Rosa Maria. In: Karl Gutzkow: Gesammelte Werke. Vollständig umgearbeitete Ausgabe. Bd. 6. Börne's Leben. (Aus Börne's ungedrucktem Nachlasse reich vermehrt.) - Rosa Maria und J. D. Assing. - Friedrich von Hurter, K. K. Hofrath u. Historiograph. Frankfurt/M.: Literarische Anstalt, 1845. S. 291-302. (Rasch 1.2.6.2.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">5,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>nicht gleich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gleich</tei:sic>
+        <tei:seg> Korrektur nach E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
