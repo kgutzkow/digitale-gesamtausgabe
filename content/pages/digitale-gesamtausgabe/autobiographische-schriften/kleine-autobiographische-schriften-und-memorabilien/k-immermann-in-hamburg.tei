@@ -39,7 +39,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="609"/>
         <tei:seg> K. Immermann in Hamburg.</tei:seg>
       </tei:head>
@@ -152,6 +152,94 @@
         <tei:seg>, dem heitern und ernsten, so glückliche Erfolge feierte. Was ihm fehlte, um "populär" zu werden, hätte er sich wohl geben können, aber er hätte wieder dadurch seine Kraft vermindern und das, was er besaß, verrücken müssen. Immermann war Egoist, so lange ihm die Anerkennung fehlte. Als er diese fand, lös'te sich sein Gemüth auf, zugleich aber auch seine Existenz; er starb. Es giebt Naturen, die an ihrem Wesen nichts ändern dürfen, ohne nicht zugleich ihren ganzen Bau zu zerstören. Und doch sollen wir da, wo wir an uns auf Lücken stoßen, ändern, ausfüllen und selbst auf Lebensgefahr bessern, denn auch der Tod ist eine Pflicht, die wir den Göttern zu leisten haben und Sterben leicht unser schönster Beruf.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der Beitrag </tei:seg>
+        <tei:q>K. Immermann in Hamburg</tei:q>
+        <tei:seg> wurde wenige Wochen nach Immermanns Tod (25. August 1840) im "Telegraph für Deutschland" veröffentlicht und 1842 in Gutzkows Textsammlung </tei:seg>
+        <tei:q>Mosaik. Novellen und Skizzen</tei:q>
+        <tei:seg> (Bd. 3 der </tei:seg>
+        <tei:q>Vermischten Schriften</tei:q>
+        <tei:seg>) nahezu unverändert übernommen. Die einzige markante Abweichung des Buchdrucks vom Journaldruck besteht in der Chiffrierung des Namens von Theodor Mundt: Die Immermann zugeschriebene Äußerung </tei:seg>
+        <tei:q>Mundt mag ich nicht</tei:q>
+        <tei:seg> (19,27-28 unserer Ausgabe) ändert Gutzkow 1842 in </tei:seg>
+        <tei:q>*** mag ich nicht</tei:q>
+        <tei:seg> (VSch, Bd. 3, S. 161). Eine weitere Nennung Mundts wird ebenfalls durch drei Sternchen ersetzt. Die anderen Chiffrierungen von Namen durch Sternchen bleiben erhalten. Sie betreffen Äußerungen Immermanns über lebende Autoren. Der zeitgenössische Leser dürfte diese leicht erraten haben, zumal die Zahl der Sternchen mit der Anzahl von Buchstaben in den Namen der gemeinten Persönlichkeiten übereinstimmt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Jahrzehnte später, 1875, nahm Gutzkow die Arbeit in den neunten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> auf, eine stark erweiterte Ausgabe der </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> von 1835 bzw. 1845. Gutzkow legte dieser Veröffentlichung nicht den Journaldruck zugrunde, sondern benutzte den Text der ersten Buchausgabe. Diesen unterzog er einer ausgiebigen stilistischen Überarbeitung: Wendungen wurden knapper gefasst, Worte umgestellt, einzelne Ausdrücke gestrichen oder neu hinzugefügt. Die Stern-Chiffren, die er in J und E benutzte, löste er durch Namensnennungen auf.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die gravierendste inhaltliche Änderung in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> betrifft wieder Immermanns Äußerung über Theodor Mundt. Der Satz </tei:seg>
+        <tei:q>Mundt mag ich nicht</tei:q>
+        <tei:seg> findet sich in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> überhaupt nicht mehr. Stattdessen soll Immermann gesagt haben: </tei:seg>
+        <tei:q>Mundt ist ein interessantes Talent; allein bei der freundlichsten Gesinnung, die ich für ihn hege, muß man doch über die nichtssagende Oberflächlichkeit, mit der er ein paar Romane zusammengeschrieben hat, statt seiner erröthen.</tei:q>
+        <tei:seg> (GWII, Bd. 9, S. 296-297.) Bei diesem Satz ist in der Journalfassung (19,29-32 unserer Ausgabe) mit den fünf Sternchen sicher nicht Mundt gemeint, sondern vermutlich Heinrich Laube. Und wenn es in J heißt: </tei:seg>
+        <tei:q>Von ***** hab' ich nichts, als seine drolligen Lobpreisungen des Mundt gelesen</tei:q>
+        <tei:seg> (19,28-29 unserer Ausgabe), so dürfte sich hinter den fünf Sternchen der Name von Mundts Freund und Mitstreiter Ferdinand Gustav Kühne verbergen. Gutzkow ersetzt aber 1875 diese fünf Sternchen durch den Namen Laubes und Mundt durch den Namen des Fürsten Pückler. Abweichend von der Erstfassung lässt er 1875 Immermann also sagen: </tei:seg>
+        <tei:q>Von Laube habe ich nichts, als seine drolligen Lobpreisungen des Fürsten Pückler gelesen.</tei:q>
+        <tei:seg> (GWII, Bd. 9, S. 296.) Somit passen einige Zuschreibungen 1875 nicht mehr, und es besteht zwischen den Fassungen von J und A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> ein eklatanter Widerspruch, was Immermanns angebliche Äußerungen über Mundt angeht.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K[arl] G[utzkow]: K. Immermann in Hamburg. In: Telegraph für Deutschland. Hamburg. Nr. 153, [23.] September 1840, S. 609-616; Nr. 154, [25.] September 1840, S. 613-615. (Rasch 3.40.09.23) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>K. Immermann in Hamburg. In: Karl Gutzkow: Mosaik. Novellen u. Skizzen. (Vermischte Schriften. Bd. 3.) Leipzig: Weber, 1842. S. 148-163. (Rasch 2.23.3.8) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A2">
+          <tei:seg>Karl Immermann in Hamburg. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 288-298. (Rasch 1.5.9.28)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
