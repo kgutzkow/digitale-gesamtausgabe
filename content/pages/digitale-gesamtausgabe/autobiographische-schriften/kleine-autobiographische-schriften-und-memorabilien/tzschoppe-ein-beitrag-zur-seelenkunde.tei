@@ -39,11 +39,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="677"/>
         <tei:seg> Tzschoppe.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:hi style="font-size-medium letter-sparse">Ein Beitrag zur Seelenkunde</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:head>
@@ -83,6 +83,75 @@
         <tei:seg> des Wahnsinns auflösen mußte, ist wahrlich für den preußischen Staat eine so demüthigende Beschämung, daß man sich beeilen sollte, die vielen damals gekränkten Interessen wieder herzustellen und das Verschuldete durch herzliches Vertrauen und wohlwollende Reue wieder gutzumachen.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Die Reminiszenz an Gustav Adolf von Tzschoppe brachte der "Telegraph für Deutschland" nur wenige Wochen nach dessen am 16. September 1842 erfolgten Tod. Zwei Jahre später übernahm Gutzkow die Arbeit in seine Sammlung </tei:seg>
+        <tei:q>Aus der Zeit und dem Leben</tei:q>
+        <tei:seg>. Dabei änderte er stilistisch nur wenig, strich aber den gesamten zweiten Absatz (22,7 bis 22,17 unserer Ausgabe) sowie die beiden Schlusssätze (25,34 bis 26,9).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>1875 integrierte er den Text in den neunten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>, einer stark erweiterten Ausgabe der </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> von 1835 bzw. 1845. Dafür benutzte er nicht den Journalerstdruck, sondern die erste Buchausgabe von 1844. Die dort gestrichenen Passagen und kleinen Änderungen wurden nicht rückgängig gemacht. Gutzkow unterzog den Text nochmals einer detaillierten stilistischen Überarbeitung. Den Titelzusatz </tei:seg>
+        <tei:q>Ein Beitrag zur Seelenkunde</tei:q>
+        <tei:seg> ließ er 1875 weg und fügte dem Titel lediglich die Jahreszahl</tei:seg>
+        <tei:q> 1840</tei:q>
+        <tei:seg> hinzu (irrtümlich offenbar für 1842, das Jahr der Erstpublikation). Die auffallendste Varianz gegenüber E besteht in der veränderten Absatzgestaltung von A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>. Gutzkow fasste die ersten drei Absätze von E zusammen und untergliederte sie durch lange Gedankenstriche.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Tzschoppe. Ein Beitrag zur Seelenkunde. In: Telegraph für Deutschland. Hamburg. Nr. 173, [24.] Oktober 1842, S. 677-679. (Rasch 3.42.10.24) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Tzschoppe. Ein Beitrag zur Seelenkunde. In: Karl Gutzkow: Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844. S. 101-109. (Rasch 2.25.3.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A2">
+          <tei:seg>Tzschoppe. 1840. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 279-282. (Rasch 1.5.9.26)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
