@@ -42,11 +42,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="223"/>
         <tei:seg> Ein Millionär als Bettler.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:hi style="letter-sparse">Atelier-Plauderei.</tei:hi>
       </tei:head>
       <tei:p style="no-indent">
@@ -106,6 +106,112 @@
         <tei:seg>" von Hamburg hatte in Dresden eine prachtvolle Wohnung bezogen, gab Gesellschaften von einem Glanz, wie man sie von einem inzwischen durch den Tod seines Schwiegervaters selbst zum Millionär Gewordenen erwarten konnte, galt aber als ein vom Schlage getroffener, zu schonender und nicht nach den üblichen Lebensbedingungen zu beurtheilender Mann. Indessen erlaubte ihm doch sein umflorter Geist manche Aeußerung, die treffend Vergangenheit oder Gegenwart berührte. Nur fiel mir, ehe ich ganz seinen Zustand kannte, die übermäßige Gereiztheit auf, als ich einst den reichen Mann um ein Geschenk für die neubegründete Schillerstiftung ersuchte. Ich hatte dabei auf seinen eigenen Verwandten Heinrich Heine verwiesen, der ja auch in seiner "Matratzengruft", ich fügte ausdrücklich hinzu, ohne den Beistand seiner reichen Verwandten schwerlich vom Ertrage seiner Schriften würde haben leben können. Noch ehe ich diesen Satz vollendet hatte, unterbrach mich der Kranke ohne jede Veranlassung mit den Zeichen des äußersten Unwillens. Als wenn eine Anklage bestünde des Inhalts, daß die reichen Verwandten nichts für H. Heine gethan, ihn dauernd so gering geschätzt hätten, wie es in den Zeiten der Confiscation jedes seiner Bücher allerdings den Anschein hatte, tobte er sich theils in eine excessive Bewunderung seiner Verwandten hinein, die ihm wenigstens vor Jahren fremd gewesen, theils in die durch den Reichthum und die Liebe seiner Verwandten garantirte Widerlegung einer Möglichkeit, die ich ihm ja nur hypothetisch und rein beispielsweise ausgesprochen hatte! Aber trotz dieses maßlosen Selbstgefühls versank der Mann in die trübe Vorstellung, mit seinem Reichthum könnte es bald zu Ende gehen, er wäre nahe daran, nichts mehr zu haben und in der That traf man ihn in denselben Promenaden um Dresden, wo ich ihm zuerst begegnete, im Begriff, wie er Befreundete mit stillem Jammer seiner Augen ansprach um - einige Schillinge! Er ist bald darauf gestorben.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Die "Deutsche Dichterhalle" veröffentlichte im Oktober 1873 Gutzkows Causerie Ein Millionär als Bettler. Ein vermutlicht nicht autorisierter (und daher für die Druckgeschichte unerheblicher) Nachdruck erschien wenige Wochen danach im "Süddeutschen Telegraph". Zwei Jahre später benutzte Gutzkow für die </tei:seg>
+        <tei:q>Rückblicke auf mein Leben</tei:q>
+        <tei:seg> jenen Teil seiner </tei:seg>
+        <tei:q>Atelier-Plauderei</tei:q>
+        <tei:seg>, der sich Christian Hermann Adolf Halle, dem Schwiegersohn von Salomon Heine in Hamburg, befasst. Für die Lebenserinnerungen überarbeitete er diesen Auszug leicht (225,10 bis 226,25 unserer Ausgabe; vgl. die ‚Parallelstelle' in Rückblicke auf mein Leben, GWB, VII, Bd. 2, S. 135-137). Den letzten Satz </tei:seg>
+        <tei:q>Er ist bald darauf gestorben</tei:q>
+        <tei:seg> übernahm er nicht in die Buchausgabe.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>Karl Gutzkow: Ein Millionär als Bettler. Atelier-Plauderei. In: Deutsche Dichterhalle. Leipzig. Bd. 2, Nr. 19, [Oktober 1873], S. 222-225. (Rasch 3.73.10.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="J2">
+          <tei:seg>Karl Gutzkow: Ein Millionär als Bettler. Atelier-Plauderei. In: Süddeutscher Telegraph. München. Nr. 283, 30. November 1873, Beilage, S. 1-2. (Rasch 3.73.11.30N) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Karl Gutzkow: Rückblicke auf mein Leben. Berlin: Hofmann, 1875. S. 116-117. (Rasch 2.46)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">221,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>entschuldigen.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>entschuldigen</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen am Zeilenende</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">224,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="letter-sparse">kommen</tei:hi>
+          <tei:seg>."</tei:seg>
+        </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="letter-sparse">kommen</tei:hi>
+          <tei:seg>"</tei:seg>
+        </tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">225,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Backenbart.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:lem>Backenbart</tei:lem>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">225,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verwandelten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Verwandel en</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
