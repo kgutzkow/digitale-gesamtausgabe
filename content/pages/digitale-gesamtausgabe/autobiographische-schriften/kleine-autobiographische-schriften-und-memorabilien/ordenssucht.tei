@@ -39,7 +39,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="5"/>
         <tei:seg> Ordenssucht.</tei:seg>
       </tei:head>
@@ -67,6 +67,76 @@
         <tei:seg> zu begutachten hatte. Da widmete er denn eine der insipidesten, unsinnigsten, rasch wie aus dem Aermel geschüttelten "Dichtungen" unter dem Titel "das gefangene Bild" (es sollte die Sixtina sein), dem gelehrten geistreichen Einsiedler auf Schloß Weesenstein und siehe da! ein sächsischer Orden traf alsbald ein und hätte nun auch in der Synagoge zu Kassel aufgehängt werden können zum ewigen Gedächtniß, wie man, um zu etwas in der Welt zu gelangen, auch als Literat das "Geschäft" betreiben muß.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der Beitrag wurde im "Deutschen Montags-Blatt" veröffentlicht, das im Juni 1877 als Beiblatt des "Berliner Tageblatts" gegründet worden war und - überwiegend mit feuilletonistischen Artikeln - einen Ersatz für die montags nicht erscheinende Hauptausgabe der Zeitung lieferte. Redigiert wurde es von Arthur Levysohn. Gutzkow hatte für das junge Blatt die Sparte </tei:seg>
+        <tei:q>Zeitfragen und Anregungen</tei:q>
+        <tei:seg> ins Leben gerufen und schrieb in bunter Folge die ersten (anfänglich noch bezifferten) Artikel dafür. Die fünfte Folge </tei:seg>
+        <tei:q>Ordenssucht</tei:q>
+        <tei:seg> enthält einen sinnentstellenden Druckfehler, der in Nr. 8 des Blattes vom 20. August 1877 berichtigt wurde (Rasch 3.77.08.20). Weitere Abdrucke des Beitrags sind nicht nachgewiesen.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Zeitfragen und Anregungen. V. Ordenssucht. In: Deutsches Montags-Blatt. Berlin. Nr. 7, 13. August 1877, S. 5-6. (Rasch 3.77.08.13)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">272,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>aufzuhängen).</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>aufzuhängen)</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">274,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>nicht</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>auch</tei:sic>
+        <tei:seg> Korrigiert nach der "Berichtigung" in Nr. 8 des "Deutschen Montags-Blatts" vom 20. August 1877 </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
