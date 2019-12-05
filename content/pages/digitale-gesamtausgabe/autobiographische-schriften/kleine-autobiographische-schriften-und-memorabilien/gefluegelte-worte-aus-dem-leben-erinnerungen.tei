@@ -42,11 +42,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="5"/>
         <tei:seg> Geflügelte Worte aus dem Leben.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Erinnerungen.</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -139,9 +139,7 @@
         <tei:hi style="letter-sparse">Auguste Crelinger</tei:hi>
         <tei:seg> meine Aufwartung zu machen. Es lag ein eigenes Gemisch im Wesen dieser berühmten Frau. Erfahrungen, veranlaßt theilweise durch eigene Schuld, Beschämungen sogar, die sie nach ihrem Verhältniß mit dem Grafen Blücher erlitten, hatten ihr Gemüth verbittert. Ihr Herz war von Hause aus nicht so kalt, wie man nach ihrem Spiel hätte glauben sollen. Diese "gemalten Flammen der Leidenschaft", die nicht immer in wirkliche Gluth übergehen wollten (wie war das auch beim ewigen Raupachspielenmüssen möglich!), schlossen bei ihr das Bedürfniß wahrer Freundschaft und Hingebung nicht aus. Doch mißtraute sie ständig, wählte, zweifelte. Entschied sie sich dann, so war sie nicht immer glücklich in der Wahl. Lange Zeit hatte sie das Bestreben, ihre liebenswürdigen, reichtalentirten Töchter am königlichen Theater zur Geltung zu bringen, ihnen gleiche Rechte mit Charlotte von Hagn zu sichern, ja zuletzt sich sogar noch in eigener Person zu behaupten, den veränderten Geschmacks- und Direktionsprincipien gegenüber, da der unselige selige Küstner das ganze königliche Schauspiel der Frau Birchpfeiffer zu Füßen gelegt hatte. In dieser Zeit glich sie einer im Käfig auf und niedergehenden Löwin. Ihr Haus war wie im Kriegszustande. Jedes neue Stück, die Austheilung der Rollen erzeugte Aufregungen und Kämpfe. So traf ich sie oft. Nachsichtig und milde war ihr scharfer Verstand für den jungen Bewerber um die Gunst der dramatischen Muse. Sie duldete eine ganze Vorlesung eines Stückes, was der Dünkel und die Spielgeld-Erwerbssucht neuerer Darstellerinnen, die jeden Abend auf der Scene stehen wollen, kaum noch ertrüge. Aber auch hier - eine allgemeine Zusammenfassung vieler von Auguste Crelinger gethanen Aeußerungen könnte ich geben, doch mit sogenannten Gänsefüßen als authentisch richtig nur das einzige mir im Gedächtniß gebliebene Wort: "</tei:seg>
         <tei:hi style="letter-sparse">Jeder tragische Aktschluß, der wirksam sein soll, muß im Buchstaben </tei:hi>
-        <tei:hi style="letter-sparse">
-          <tei:hi style="letter-sparse">A</tei:hi>
-        </tei:hi>
+        <tei:hi style="letter-sparse letter-sparse">A</tei:hi>
         <tei:hi style="letter-sparse"> endigen.</tei:hi>
         <tei:seg>" Die große Tragödin verlangte also Abgänge beim Fallen des Vorhangs wie: "Und meine Macht, ihr sollt sie bald erfahren!" Oder Hamlets: "Schnöde Thaten, birgt sie die Erd' auch, müssen sich verrathen."</tei:seg>
       </tei:p>
@@ -183,6 +181,95 @@
         <tei:seg>Möge auch mir das Bewußtsein bleiben, daß die verehrten Leserinnen und Leser an diesen harmlosen Plaudereien nichts gestört hat.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Die feuilletonistische Plauderei </tei:seg>
+        <tei:q>Geflügelte Worte aus dem Leben</tei:q>
+        <tei:seg> erschien zuerst 1873 in Adolf Glaßbrenners Unterhaltungs- und Satireblatt "Berliner Montags-Zeitung". Nahezu unverändert übernahm Gutzkow den Text zwei Jahre später als Schlussbeitrag in seine erweiterte Neuausgabe der </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> innerhalb der Ausgabe </tei:seg>
+        <tei:q>Gesammelter Werke</tei:q>
+        <tei:seg>. In der Buchausgabe wurde der Titelzusatz </tei:seg>
+        <tei:q>Erinnerungen</tei:q>
+        <tei:seg> gestrichen und durch die Jahresangabe der Erstpublikation </tei:seg>
+        <tei:q>1873</tei:q>
+        <tei:seg> ersetzt.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Geflügelte Worte aus dem Leben. Erinnerungen. In: Berliner Montags-Zeitung. Berlin. Nr. 4, 27. Januar 1873, [S. 5], Beilage; Nr. 5, 3. Februar 1873, [S. 5], Beilage; Nr. 6, 10. Februar 1873, [S. 5], Beilage. (Rasch 3.73.01.27) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A2">
+          <tei:seg>Geflügelte Worte aus dem Leben. 1873. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 447-460. (Rasch 1.5.9.41)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">206,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>nähme</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>nehme</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">208,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="letter-sparse">endigen</tei:hi>
+        </tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>endigen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">212,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ein),</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ein) </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
