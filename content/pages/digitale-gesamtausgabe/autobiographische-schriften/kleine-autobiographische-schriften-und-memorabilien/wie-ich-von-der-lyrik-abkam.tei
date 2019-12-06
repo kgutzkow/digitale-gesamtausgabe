@@ -39,7 +39,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="151"/>
         <tei:seg> Wie ich von der Lyrik abkam.</tei:seg>
       </tei:head>
@@ -79,6 +79,86 @@
         <tei:seg> beweist - sondern blieb eine ätherische Freundin, die nur noch ab und zu, wenn auf dem Herzen die Stimmungen zu schwer lasteten, sich mit ihrem lösenden und beruhigenden Zauber nahte.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der Beitrag </tei:seg>
+        <tei:q>Wie ich von der Lyrik abkam</tei:q>
+        <tei:seg> wurde im Juli 1873 in der von Oskar Blumenthal herausgegebenen Zeitschrift "Deutsche Dichterhalle" veröffentlicht. Für die zwei Jahre später erfolgte Ausarbeitung der </tei:seg>
+        <tei:q>Rückblicke auf mein Leben</tei:q>
+        <tei:seg> übernahm Gutzkow einen Teil dieses Artikels (215,9 bis 218,30 unserer Ausgabe). Im Buch heißt es: </tei:seg>
+        <tei:q>Ich erzählte</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>vor einiger Zeit in einer Plauderei,</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>warum ich nicht ebenfalls unter die Lyriker gegangen sei. Ich wiederhole sie hier.</tei:q>
+        <tei:seg> (GWB, VII, Bd. 2, S. 72-73.) Gutzkow nennt hier in einer Fußnote den Namen "Deutsche Dichterhalle" als Erstpublikationsort und erweckt durch die Verwendung von Anführungszeichen am Anfang und Ende des Auszuges den Eindruck, es handele sich um eine wörtliche Wiedergabe (vgl. GWB, VII, Bd. 2, S. 73-76). Tatsächlich hat er aber den Textausschnitt stilistisch stark überarbeitet, etliche Umformulierungen vorgenommen, einige Sätze gestrichen sowie ein paar kurze Hinzufügungen gemacht. Inhalt und Intention der Darstellung blieben dabei im Kern jedoch unverändert.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Artikel wurde in der Breslauer "Schlesischen Presse" nachgedruckt (vgl. Rasch 3.73.07.17N). Da nicht feststeht, ob Gutzkow diesen Nachdruck autorisiert hat, ist er für die Druckgeschichte irrelevant. Vollkommen belanglos ist ein kurzer Auszug, den Glaßbrenners "Berliner Montags-Zeitung" in Nr. 29 vom 21. Juli 1873 mit einer empfehlenden Notiz brachte. Er bezieht sich auf Gutzkows Urteil über die unlängst gegründete "Deutsche Dichterhalle" (213,16 bis 214,14 unserer Ausgabe).</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>Karl Gutzkow: Wie ich von der Lyrik abkam. In: Deutsche Dichterhalle. Leipzig. Bd. 2, Nr. 13, [Juli 1873], S. 151-153. (Rasch 3.73.07.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="J2">
+          <tei:seg>Literaturgeschichtliche Reminiscenzen. In der "Deutschen Dichterhalle" schreibt Carl Gutzkow ... In: Schlesische Presse. Breslau. Nr. 77, 17.07.1873, Morgen-Ausgabe, S. 3-4. (Rasch 1873.07.17N) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Karl Gutzkow: Rückblicke auf mein Leben. Berlin: Hofmann, 1875. S. 61-64. (Rasch 2.46)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">216,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>not</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>no</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
