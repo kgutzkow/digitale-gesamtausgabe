@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
   <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Zwei Gefangene. Ein Erlebniß</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Karl Gutzkow: Zwei Gefangene. Ein Erlebniß. In: Über Land und Meer. Stuttgart. Bd. 21, Nr. 1, Oktober 1868, S. 1-3; Bd. 21, Nr. 2, Oktober 1868, S. 17-19. (Rasch 3.68.10.1)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1868-10-00">Oktober 1868</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#autobiographische-schriften #kleine-autobiographische-schriften-und-memorabilien #zwei-gefangene-ein-erlebnisz"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change who="#WolfgangRasch" when="2019-12-06">Fassung 1.0</tei:change>
+    </tei:revisionDesc>
   </tei:teiHeader>
+  <tei:text>
+    <tei:interpGrp type="individual"/>
+  </tei:text>
 </tei:TEI>
