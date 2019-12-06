@@ -39,11 +39,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> Zwei Gefangene.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Ein Erlebniß.</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -528,6 +528,90 @@
         <tei:seg>In meinen trüben, grauen Mauern wurde es nach diesem phantastischen Tage einsamer und stiller als zuvor. Ich glaubte geträumt zu haben. Noch lange umgaukelten mich die Gestalten, die ich wie mit Händen greifbar gesehen hatte. Jetzt waren es nur stumme Schatten! Dennoch lehrten auch sie mich ausharren, dulden und hoffen.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:q>Zwei Gefangene</tei:q>
+        <tei:seg> wurde zuerst in der von Eduard Hallberger verlegten illustrierten Unterhaltungszeitschrift "Über Land und Meer" publiziert. Schon wenige Monate später wurde der Beitrag in Gutzkows Sammelband </tei:seg>
+        <tei:q>Die schöneren Stunden</tei:q>
+        <tei:seg> aufgenommen, der im März 1869 ebenfalls bei Hallberger in Stuttgart herauskam. Gutzkow änderte den Text für die Buchausgabe nur geringfügig, hauptsächlich durch Streichung einiger Worte, Wortergänzungen und -umstellungen sowie die gelegentliche Modifikation einzelner Ausdrücke. Den Titelzusatz ließ er bei der Buchausgabe weg, ebenso die Schlusspassage des vorletzten Absatzes (79,14-16 unserer Ausgabe). Von der Buchausgabe erschien im Mai 1869 eine zweite, unveränderte Auflage. Zu Lebzeiten Gutzkows wurde der Text nicht mehr gedruckt.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Zwei Gefangene. Ein Erlebniß. In: Über Land und Meer. Stuttgart. Bd. 21, Nr. 1, Oktober 1868, S. 1-3; Bd. 21, Nr. 2, Oktober 1868, S. 17-19. (Rasch 3.68.10.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E1">
+          <tei:seg>Zwei Gefangene. In: Karl Gutzkow: Die schöneren Stunden. Rückblicke. Stuttgart: Hallberger, 1869. S. 291-339. (Rasch 2.39.14) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E2">
+          <tei:seg>Zwei Gefangene. In: Karl Gutzkow: Die schöneren Stunden. Rückblicke. 2. Aufl. Stuttgart: Hallberger, 1869. S. 291-339. (Rasch 2.39a.14N)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">61,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>"Jetzt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Jetzt </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">70,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Shakspere's</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Shekspere's </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">79,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ausharren,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ausharren. </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
