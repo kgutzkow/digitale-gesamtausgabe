@@ -19,8 +19,13 @@ def check_creation_date(doc, errors):
         errors.append('More than one creation date specified')
         return
     date = str(date[0])
-    if not re.fullmatch('[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?', date):
+    match = re.fullmatch('[0-9]{4}(?:-([0-9]{2})(?:-([0-9]{2}))?)?', date)
+    if not match:
         errors.append('Creation date invalid ({0})'.format(date))
+    elif match.group(1) and match.group(1) not in ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']:
+        errors.append('Invalid creation month ({0})'.format(match.group(1), date))
+    elif match.group(2) and not re.fullmatch('(0[1-9])|([12][0-9])|(3[01])', match.group(2)):
+        errors.append('Invalid creation day ({0})'.format(match.group(2), date))
 
 
 def check_reponsible_users(doc, errors):
