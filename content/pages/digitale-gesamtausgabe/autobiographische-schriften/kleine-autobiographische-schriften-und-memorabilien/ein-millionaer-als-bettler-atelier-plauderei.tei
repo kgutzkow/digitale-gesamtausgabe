@@ -6,8 +6,9 @@
         <tei:title>Ein Millionär als Bettler. Atelier-Plauderei</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp/>
-          <tei:name/>
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -103,22 +104,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -135,21 +136,17 @@
         <tei:item data-source-id="J1">
           <tei:seg>Karl Gutzkow: Ein Millionär als Bettler. Atelier-Plauderei. In: Deutsche Dichterhalle. Leipzig. Bd. 2, Nr. 19, [Oktober 1873], S. 222-225. (Rasch 3.73.10.1)</tei:seg>
         </tei:item>
-      </tei:list>
-      <tei:list type="sources">
         <tei:item data-source-id="J2">
           <tei:seg>Karl Gutzkow: Ein Millionär als Bettler. Atelier-Plauderei. In: Süddeutscher Telegraph. München. Nr. 283, 30. November 1873, Beilage, S. 1-2. (Rasch 3.73.11.30N) </tei:seg>
         </tei:item>
-      </tei:list>
-      <tei:list type="sources">
         <tei:item data-source-id="E">
           <tei:seg>Karl Gutzkow: Rückblicke auf mein Leben. Berlin: Hofmann, 1875. S. 116-117. (Rasch 2.46)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -160,7 +157,7 @@
       <tei:p>
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -197,7 +194,7 @@
         <tei:sic>Verwandel en</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
