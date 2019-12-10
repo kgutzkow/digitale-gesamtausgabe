@@ -6,12 +6,8 @@
         <tei:title>Geflügelte Worte aus dem Leben. Erinnerungen</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>Digitale edition</tei:resp>
-          <tei:name>Wolfgang Rasch</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Wolfgang Rasch</tei:name>
+          <tei:resp/>
+          <tei:name/>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -139,7 +135,7 @@
         <tei:hi style="letter-sparse">Auguste Crelinger</tei:hi>
         <tei:seg> meine Aufwartung zu machen. Es lag ein eigenes Gemisch im Wesen dieser berühmten Frau. Erfahrungen, veranlaßt theilweise durch eigene Schuld, Beschämungen sogar, die sie nach ihrem Verhältniß mit dem Grafen Blücher erlitten, hatten ihr Gemüth verbittert. Ihr Herz war von Hause aus nicht so kalt, wie man nach ihrem Spiel hätte glauben sollen. Diese "gemalten Flammen der Leidenschaft", die nicht immer in wirkliche Gluth übergehen wollten (wie war das auch beim ewigen Raupachspielenmüssen möglich!), schlossen bei ihr das Bedürfniß wahrer Freundschaft und Hingebung nicht aus. Doch mißtraute sie ständig, wählte, zweifelte. Entschied sie sich dann, so war sie nicht immer glücklich in der Wahl. Lange Zeit hatte sie das Bestreben, ihre liebenswürdigen, reichtalentirten Töchter am königlichen Theater zur Geltung zu bringen, ihnen gleiche Rechte mit Charlotte von Hagn zu sichern, ja zuletzt sich sogar noch in eigener Person zu behaupten, den veränderten Geschmacks- und Direktionsprincipien gegenüber, da der unselige selige Küstner das ganze königliche Schauspiel der Frau Birchpfeiffer zu Füßen gelegt hatte. In dieser Zeit glich sie einer im Käfig auf und niedergehenden Löwin. Ihr Haus war wie im Kriegszustande. Jedes neue Stück, die Austheilung der Rollen erzeugte Aufregungen und Kämpfe. So traf ich sie oft. Nachsichtig und milde war ihr scharfer Verstand für den jungen Bewerber um die Gunst der dramatischen Muse. Sie duldete eine ganze Vorlesung eines Stückes, was der Dünkel und die Spielgeld-Erwerbssucht neuerer Darstellerinnen, die jeden Abend auf der Scene stehen wollen, kaum noch ertrüge. Aber auch hier - eine allgemeine Zusammenfassung vieler von Auguste Crelinger gethanen Aeußerungen könnte ich geben, doch mit sogenannten Gänsefüßen als authentisch richtig nur das einzige mir im Gedächtniß gebliebene Wort: "</tei:seg>
         <tei:hi style="letter-sparse">Jeder tragische Aktschluß, der wirksam sein soll, muß im Buchstaben </tei:hi>
-        <tei:hi style="letter-sparse letter-sparse">A</tei:hi>
+        <tei:hi style="letter-sparse">A</tei:hi>
         <tei:hi style="letter-sparse"> endigen.</tei:hi>
         <tei:seg>" Die große Tragödin verlangte also Abgänge beim Fallen des Vorhangs wie: "Und meine Macht, ihr sollt sie bald erfahren!" Oder Hamlets: "Schnöde Thaten, birgt sie die Erd' auch, müssen sich verrathen."</tei:seg>
       </tei:p>
@@ -182,22 +178,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -224,10 +220,10 @@
           <tei:seg>Geflügelte Worte aus dem Leben. 1873. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 447-460. (Rasch 1.5.9.41)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -236,7 +232,7 @@
       <tei:p>
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -263,7 +259,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>ein) </tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
