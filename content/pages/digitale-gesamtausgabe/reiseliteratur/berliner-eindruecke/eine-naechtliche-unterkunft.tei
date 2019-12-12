@@ -42,7 +42,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="5"/>
         <tei:seg> Eine nächtliche Unterkunft.</tei:seg>
       </tei:head>
@@ -53,10 +53,14 @@
         <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der Wohnung des Monarchen, </tei:seg>
         <tei:ref target="#unknown">in jenem Portal</tei:ref>
         <tei:seg>, das seit dem Jahre 1844 dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
-        <tei:hi style="letter-sparse">Portechaise</tei:hi>
+        <tei:hi target="#unknown" style="letter-sparse letter-sparse">
+          <tei:hi style="letter-sparse letter-sparse">Portechaise</tei:hi>
+        </tei:hi>
         <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
         <tei:ref target="#new-text-3">Nagelgasse</tei:ref>
-        <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des neuen Rathhauses - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
+        <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des </tei:seg>
+        <tei:ref target="#unknown">neuen Rathhauses</tei:ref>
+        <tei:seg> - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
       </tei:p>
       <tei:p>
         <tei:seg>Und auf dem Gensdarmenmarkt, an derjenigen Seite des "französischen Thurms," die dem Wechselgeschäft der Herren Brest und Gelpcke grade gegenüber liegt, wuchs nicht nur in den Winkeln, die von den dürftigen Anbauten der beiden stolzen "Gensdarmenmarktthürme" gebildet werden, das helle, frische, grüne Gras, untermischt zuweilen mit "Butterblumen," sondern es war sogar möglich, daß die damalige schutzmannslose, nur auf jene "Polizeikommissarien" mit den Dreimastern und karmoisinrothen Kragen und Aufschlägen am Rock angewiesene Zeit in einem dieser Winkel - einen alten ausgedienten </tei:seg>
@@ -90,22 +94,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -116,10 +120,10 @@
           <tei:seg>Eine nächtliche Unterkunft. In: In bunter Reihe. Briefe, Skizzen, Novellen von Karl Gutzkow. Breslau: Schottlaender, 1878, S. 97-106. (Rasch 2.49.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2.Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -128,7 +132,7 @@
       <tei:p>
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -138,7 +142,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Rochefaucould</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -149,7 +153,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>Eine nächtliche Unterkunft.</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">Eine nächtliche Unterkunft. Zur Asylfrage. 1870.</tei:rdg>
+        <tei:rdg>Eine nächtliche Unterkunft. Zur Asylfrage. 1870.</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -157,7 +161,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>jene noch nicht</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">jene noch jetzt nicht</tei:rdg>
+        <tei:rdg>jene noch jetzt nicht</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -165,7 +169,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>in Manchem auch noch heute bezeichnen dürfte</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">in Manchem bezeichnen dürfte</tei:rdg>
+        <tei:rdg>in Manchem bezeichnen dürfte</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -173,7 +177,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>für gleichsam "mit Brettern vernagelt"</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">für gleichsam wie "mit Brettern vernagelt"</tei:rdg>
+        <tei:rdg>für gleichsam wie "mit Brettern vernagelt"</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -181,7 +185,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>ja mit Beweisen völliger Unbeholfenheit</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">ja mit Beweisen völliger Unbeholfenheit und Unreife</tei:rdg>
+        <tei:rdg>ja mit Beweisen völliger Unbeholfenheit und Unreife</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -189,7 +193,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>1844</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">1848</tei:rdg>
+        <tei:rdg>1848</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -197,7 +201,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>Gelpcke</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">Gelpke</tei:rdg>
+        <tei:rdg>Gelpke</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -205,7 +209,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>Devrient, von Lutter</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">Devrient, drüben von Lutter</tei:rdg>
+        <tei:rdg>Devrient, drüben von Lutter</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -213,7 +217,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>hinüber geworfen</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">hinübergeworfen</tei:rdg>
+        <tei:rdg>hinübergeworfen</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -221,7 +225,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>ausgezischt hatten,</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">ausgezischt,</tei:rdg>
+        <tei:rdg>ausgezischt,</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -229,7 +233,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>hergenommen</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">hergekommen</tei:rdg>
+        <tei:rdg>hergekommen</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -237,7 +241,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>nicht in der Dorotheen- und nicht in der Friedrichsstadt</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">nicht in der Dorotheen-, nicht in der Friedrichsstadt</tei:rdg>
+        <tei:rdg>nicht in der Dorotheen-, nicht in der Friedrichsstadt</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -245,7 +249,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>mit dem Pathos</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">mit dem leidenschaftlichen Pathos</tei:rdg>
+        <tei:rdg>mit dem leidenschaftlichen Pathos</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -253,7 +257,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>bekommen kann</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">bekommen konnte</tei:rdg>
+        <tei:rdg>bekommen konnte</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -261,7 +265,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>Goethe's</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">Göthe's</tei:rdg>
+        <tei:rdg>Göthe's</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -269,7 +273,7 @@
         <tei:seg> </tei:seg>
         <tei:lem>fühlen wir tiefer, als in der</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">fühlen wir tiefer als in der</tei:rdg>
+        <tei:rdg>fühlen wir tiefer als in der</tei:rdg>
         <tei:seg> E </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
@@ -277,22 +281,22 @@
         <tei:seg> </tei:seg>
         <tei:lem>der hiesigen Leihbibliotheken</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg wit="#">der Leihbibliotheken</tei:rdg>
+        <tei:rdg>der Leihbibliotheken</tei:rdg>
         <tei:seg> E</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>J. F. Bernso [d.i. Josef Friedrich Sobernheim]: Der Leichenwagen an der französischen Kirche. In: Ders.: Fresco-Bilder in auf- und absteigender Linie. Berlin: Krause, 1833, S. 53-82.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -325,27 +329,17 @@
       <tei:p>
         <tei:q>Eine Stelle in meinem kleinen Artikel wird Sie stutzig machen. Sie kann mir Steinigung, wenigstens eingeworfene Fenster (die meinen sind auf 550 Thaler taxirt) eintragen. Ueberlegen Sie! Andren freilich werde ich "aus der Seele" gesprochen haben. Vorgestern gab es das lebhafteste Pro u Contra. Eine Mittelparthei sagte: Laß es weg! Ich möchte aber trotzen, immerfort "gegen den Strom" schwimmen! Und Ihr guter Julian Schmidt, den Sie literarisch rehabilitirten, hat, glaub ich, in seiner Lit. Gesch. den Satz aufgestellt: Ich ginge immer mit dem Strom!</tei:q>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
     </tei:interpGrp>
     <tei:interpGrp type="individual">
-      <tei:interp xml:id="new-text-1">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
-          <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:metamark/>
-        </tei:p>
-      </tei:interp>
       <tei:interp xml:id="new-text-2">
         <tei:p>
           <tei:citedRange type="page-line-ref">1,19</tei:citedRange>
@@ -366,6 +360,26 @@
         </tei:p>
         <tei:p>
           <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp xml:id="new-text-4">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">neuen Rathhauses]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Nachdem das alte, zum Teil noch aus dem 14. Jahrhundert stammende Berliner Rathaus an der Spandauer Straße zu klein geworden war, beschloss man Ende der 1850er Jahre einen Neubau. Er wurde nach Plänen des Architekten Hermann Friedrich Waesemann (1813-1879) unter Berücksichtigung früherer Entwürfe Schinkels zwischen 1861 und 1869 auf einer Fläche zwischen der damaligen Königs- und Jüdenstraße, der Nagelgasse und der Spandauer Straße ausgeführt. Mehrere Häuser und die Anlagen des alten Rathauses wurden dafür abgerissen.  Der rote Backsteinbau gab dem Gebäude bald den Namen 'Rotes Rathaus'. Das prächtige Gebäude im Rundbogenstil, mit Neorenaissanceelementen, reichem Terracottaschmuck der Fassade und prachtvoll gestalteten Innenräumen sowie einem 97 Meter hohen Turm war Ausdruck eines durch die Industrialisierung gesteigerten Selbstbewußtseins  des Berliner Bürgertums und wiedergewonnener kommunaler Selbständigkeit. Schon 1865 konnte in einem fertig gewordenen Teilabschnitt des Rathauses der Magistrat tagen, am 6. Januar 1870 fand im Rathaus die erste Stadtverordnetenversammlung statt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp xml:id="new-text-1">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>   Dabei handelte es sich um das Portal I, dem rechten der beiden Portale, die sich am Schloßplatz befanden. Das Schloss hatte fünf Portale, die ins Schlossinnere bzw. in die Schlosshöfe führten: Portal I und II lagen auf der Südfront des Schlosses am Schlossplatz, Portal III (Eosanderportal) an der westlichen Seite an der Schlossfreiheit, Portal IV und V an der nördlichen Seite gegenüber dem Lustgarten. </tei:seg>
         </tei:p>
       </tei:interp>
     </tei:interpGrp>
