@@ -117,6 +117,98 @@
         <tei:seg> aufs bedächtigste abfinden. Man kann der literarischen Jugend Deutschlands wahrlich keinen aufrichtigeren Rath ertheilen.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Heines Broschüre "Ueber den Denunzianten Eine Vorrede zum dritten Theile des Salon" (Hamburg, 1837) erschien zuerst 1837 in "Beurmann's Telegraph". Gutzkow übernahm den Text im Jahr darauf etwas verändert in seinen Sammelband </tei:seg>
+        <tei:q>Götter, Helden, Don-Quixote</tei:q>
+        <tei:seg>, wo er unter dem Titel </tei:seg>
+        <tei:q>H. Heine</tei:q>
+        <tei:seg> im zweiten Abschnitt des Buches unter </tei:seg>
+        <tei:q>Helden</tei:q>
+        <tei:seg> zu finden ist. Für die Buchfassung strich Gutzkow den gesamten ersten Absatz des Zeitschriftendrucks, fügte am Schluß einen kurzen hinzu, der ironisch auf eine mutmaßliche Reaktion Heines nach der Lektüre der Rezension Bezug nimmt.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K[arl] G[utzkow]: H. Heine über den Denunzianten. In: Beurmann's Telegraph. (Neueste Folge.) Frankfurt/M. Nr. 20, [04.] August 1837, S. 153-157. (Rasch 3.37.08.04) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>H. Heine. In: Karl Gutzkow: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann u. Campe, 1838, S. 201-214. (Rasch 2.17.2.7)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zu</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zn </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">3,31-32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>im Vorgrunde</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="letter-sparse">im</tei:hi>
+          <tei:seg> </tei:seg>
+        </tei:hi>
+        <tei:sic>Vorgrunde </tei:sic>
+        <tei:seg>korrigiert (Entsperrung) nach E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Anders als die Zeitschriftenfassung bringt die Buchfassung zum Schluß (S. 214) folgenden Absatz: </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent"/>
+      <tei:p style="no-indent">
+        <tei:seg>Fehlt in J] </tei:seg>
+        <tei:rdg wit="#">Als Heine diesen Aufsatz gelesen hatte, rief er mit komischem Schmerze aus: Ach er wird meinem Credit schaden!</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
