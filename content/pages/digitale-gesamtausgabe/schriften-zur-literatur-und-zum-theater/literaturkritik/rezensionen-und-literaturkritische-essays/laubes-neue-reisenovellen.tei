@@ -118,6 +118,82 @@
         <tei:seg>Laube will mit diesem Buche nicht bloß eine Dichtungsweise, sondern selbst einen Lebensabschnitt schließen. Sein "junges Europa" wird in kurzer Zeit, gleichfalls vollendet, dem Schluß der Reisenovellen nachfolgen. Was uns der neue Lebensabschnitt bringen wird, erfahren wir wohl zu seiner Zeit. Erscheint der Rest des jungen Europa, so werden wir alle Hülfsmittel beisammen haben, um einen vollständigen Rückblick auf die bisherigen Leistungen eines Schriftstellers zu werfen, der durch sein Talent wie durch sein Schicksal dem öffentlichen Interesse gleich merkwürdig geworden ist.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Laubes "Neuen Reisenovellen" (2 Bde., Mannheim, 1837) erschien zuerst 1837 in "Beurmann's Telegraph". Gutzkow übernahm die Arbeit im Jahr darauf in seinen Sammelband </tei:seg>
+        <tei:q>Götter, Helden, Don-Quixote</tei:q>
+        <tei:seg>, wo sie den letzten Textbaustein des aus drei Rezensionen zusammengesetzten Beitrags </tei:seg>
+        <tei:q>H. Laube</tei:q>
+        <tei:seg> bildet, der sich im zweiten Abschnitt des Buches unter </tei:seg>
+        <tei:q>Helden</tei:q>
+        <tei:seg> (S. 235-270) findet. Die Rezension wurde nahezu unverändert übernommen. Nur der Schlußabsatz wurde fast vollständig umgearbeitet und für die Buchfassung ergänzt und aktualisiert.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K[arl] G[utzkow]: Laubes neue Reisenovellen. In: Beurmann's Telegraph. (Neueste Folge.) Frankfurt/M. Nr. 50, [25.] September 1837, S. 393-397. (Rasch 3.37.09.25)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>H. Laube. In: Karl Gutzkow: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann u. Campe, 1838, S. 256-268. (Rasch 2.17.2.9)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,18-19 </tei:citedRange>
+        <tei:lem>übersetzt.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>übersetzt </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">6,14-15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>"junges Europa"</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>junges Europa"</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p/>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
