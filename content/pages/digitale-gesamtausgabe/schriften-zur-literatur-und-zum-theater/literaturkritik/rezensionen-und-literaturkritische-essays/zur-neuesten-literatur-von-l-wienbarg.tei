@@ -83,6 +83,61 @@
         <tei:seg>Wir hören, daß eine neue Publikation Wienbarg's unterwegs ist und freuen uns, schon in den nächsten Nummern unsern Lesern eine detaillirtere Charakteristik dieses Autors geben zu können.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Wienbargs Sammelband "Zur neuesten Literatur" wurde zuerst 1835 im "Literatur-Blatt" zum "Phönix" veröffentlicht. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er den Text unter dem Titel </tei:seg>
+        <tei:q>Ludolf Wienbarg</tei:q>
+        <tei:seg> nur geringfügig veränderte (der Schluß ist leicht überarbeitet) und als letzten Beitrag in den Abschnitt </tei:seg>
+        <tei:q>Charaktere und Tendenzen</tei:q>
+        <tei:seg> einfügte.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Zur neuesten Literatur, von L. Wienbarg. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 31, 8. August 1835, S. 741-742. (Rasch 3.35.08.08.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Ludolf Wienbarg. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 95-102. (Rasch 2.13.1.4.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
