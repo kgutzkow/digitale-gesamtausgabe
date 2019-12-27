@@ -122,6 +122,97 @@
         <tei:seg> a. M. den 1. October 1843.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Gutzkows Rezension von Bettina von Arnims "Dies Buch gehört dem König" erschien zuerst 1843 im "Telegraph für Deutschland". Schon wenig später nahm Gutzkow den Text fast unverändert in seinen Sammelband </tei:seg>
+        <tei:q>Aus der Zeit und dem Leben</tei:q>
+        <tei:seg> auf. Diese Buchausgabe benutzte er später als Textgrundlage für den dritten Druck seines Beitrages: Unter dem Titel </tei:seg>
+        <tei:q>Bettinens Königsbuch </tei:q>
+        <tei:seg>wurde dieser - wieder nur mit minimalen Änderungen - 1875 in die erweiterte Neuausgabe der </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> integriert, Band 9 der zweiten Ausgabe der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>. Hier fügt Gutzkow als Titelzusatz das Jahr der Erstveröffentlichung </tei:seg>
+        <tei:q>1843</tei:q>
+        <tei:seg> hinzu.</tei:seg>
+      </tei:p>
+      <tei:p/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Diese Kritik gehört Bettinen. In: Telegraph für Deutschland. Hamburg. Nr. 165, [14.] Oktober 1843, S. 657-659; Nr. 166, [16.] Oktober 1843, S. 661-663. (Rasch 3.43.10.14) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Diese Kritik gehört Bettinen. In: Karl Gutzkow: Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844. S. 371-395. (Rasch 2.25.6) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A2">
+          <tei:seg>Bettinens Königsbuch. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 233-242. (Rasch 1.5.9.22)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">4,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ursprünglichsten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ursprüglichsten </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">5,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>dem der freisinnigen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>der der freisinnigen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent">
+        <tei:citedRange type="page-line-ref">8,13</tei:citedRange>
+        <tei:lem> Divination</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Devination</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
