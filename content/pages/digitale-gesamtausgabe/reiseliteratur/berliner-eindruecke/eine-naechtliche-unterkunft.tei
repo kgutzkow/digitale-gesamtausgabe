@@ -42,7 +42,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="5"/>
         <tei:seg> Eine nächtliche Unterkunft.</tei:seg>
       </tei:head>
@@ -55,9 +55,7 @@
         <tei:seg>, das </tei:seg>
         <tei:ref target="#new-text-5">seit dem Jahre 1844</tei:ref>
         <tei:seg> dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
-        <tei:hi target="#unknown" style="letter-sparse">
-          <tei:hi style="letter-sparse">Portechaise</tei:hi>
-        </tei:hi>
+        <tei:hi style="letter-sparse letter-sparse">Portechaise</tei:hi>
         <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
         <tei:ref target="#new-text-3">Nagelgasse</tei:ref>
         <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des </tei:seg>
@@ -96,22 +94,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -122,10 +120,10 @@
           <tei:seg>Eine nächtliche Unterkunft. In: In bunter Reihe. Briefe, Skizzen, Novellen von Karl Gutzkow. Breslau: Schottlaender, 1878, S. 97-106. (Rasch 2.49.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2.Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -134,7 +132,7 @@
       <tei:p>
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -144,7 +142,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Rochefaucould</tei:sic>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -155,150 +153,146 @@
         <tei:seg> </tei:seg>
         <tei:lem>Eine nächtliche Unterkunft.</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>Eine nächtliche Unterkunft. Zur Asylfrage. 1870.</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">Eine nächtliche Unterkunft. Zur Asylfrage. 1870.</tei:rdg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>jene noch nicht</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>jene noch jetzt nicht</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">jene noch jetzt nicht</tei:rdg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,8-9</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>in Manchem auch noch heute bezeichnen dürfte</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>in Manchem bezeichnen dürfte</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">in Manchem bezeichnen dürfte</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,10-11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>für gleichsam "mit Brettern vernagelt"</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>für gleichsam wie "mit Brettern vernagelt"</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">für gleichsam wie "mit Brettern vernagelt"</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,13-14</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ja mit Beweisen völliger Unbeholfenheit</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>ja mit Beweisen völliger Unbeholfenheit und Unreife</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">ja mit Beweisen völliger Unbeholfenheit und Unreife</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>1844</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>1848</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">1848</tei:rdg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Gelpcke</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>Gelpke</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">Gelpke</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,16</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Devrient, von Lutter</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>Devrient, drüben von Lutter</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">Devrient, drüben von Lutter</tei:rdg>
+        <tei:seg>  </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">2,19</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>hinüber geworfen</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>hinübergeworfen</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">hinübergeworfen</tei:rdg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,9-10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ausgezischt hatten,</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>ausgezischt,</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">ausgezischt,</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,12</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>hergenommen</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>hergekommen</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">hergekommen</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">3,16-17</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>nicht in der Dorotheen- und nicht in der Friedrichsstadt</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>nicht in der Dorotheen-, nicht in der Friedrichsstadt</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">nicht in der Dorotheen-, nicht in der Friedrichsstadt</tei:rdg>
+        <tei:seg>  </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,16</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>mit dem Pathos</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>mit dem leidenschaftlichen Pathos</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">mit dem leidenschaftlichen Pathos</tei:rdg>
+        <tei:seg>  </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,17</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>bekommen kann</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>bekommen konnte</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">bekommen konnte</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">4,26</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Goethe's</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>Göthe's</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">Göthe's</tei:rdg>
+        <tei:seg>  </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,3</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>fühlen wir tiefer, als in der</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>fühlen wir tiefer als in der</tei:rdg>
-        <tei:seg> E </tei:seg>
+        <tei:rdg wit="#E">fühlen wir tiefer als in der</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="no-indent">
         <tei:citedRange type="page-line-ref">5,10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>der hiesigen Leihbibliotheken</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:rdg>der Leihbibliotheken</tei:rdg>
-        <tei:seg> E</tei:seg>
+        <tei:rdg wit="#E">der Leihbibliotheken</tei:rdg>
+        <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
         <tei:seg>J. F. Bernso [d.i. Josef Friedrich Sobernheim]: Der Leichenwagen an der französischen Kirche. In: Ders.: Fresco-Bilder in auf- und absteigender Linie. Berlin: Krause, 1833, S. 53-82.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="no-indent">
@@ -331,13 +325,13 @@
       <tei:p>
         <tei:q>Eine Stelle in meinem kleinen Artikel wird Sie stutzig machen. Sie kann mir Steinigung, wenigstens eingeworfene Fenster (die meinen sind auf 550 Thaler taxirt) eintragen. Ueberlegen Sie! Andren freilich werde ich "aus der Seele" gesprochen haben. Vorgestern gab es das lebhafteste Pro u Contra. Eine Mittelparthei sagte: Laß es weg! Ich möchte aber trotzen, immerfort "gegen den Strom" schwimmen! Und Ihr guter Julian Schmidt, den Sie literarisch rehabilitirten, hat, glaub ich, in seiner Lit. Gesch. den Satz aufgestellt: Ich ginge immer mit dem Strom!</tei:q>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
     </tei:interpGrp>
