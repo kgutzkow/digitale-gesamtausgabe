@@ -2293,6 +2293,590 @@
         <tei:seg>   </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global" xml:id="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Gutzkow schrieb seine Börne-Biographie als Supplement zu Börnes "Gesammelten Schriften" für den Campe-Verlag, dessen ausschließliche Rechte auf diese Werkausgabe 1839 ausliefen. Der Verleger wollte durch den Supplementband einen Anreiz bieten, Restbestände der Ausgabe zu verkaufen und Börnes Nachlassverwalterin Jeanette Wohl-Strauß zur Verlängerung der Rechte und Bereitstellung unpublizierter Materialien zu bewegen. Das Erscheinen des Bandes verzögerte sich bis August 1840. Eine um neue Quellen erweiterte und berichtigte Ausgabe von </tei:seg>
+        <tei:q>Börne's Leben</tei:q>
+        <tei:seg> erschien 1845 in Band 6 von Gutzkows eigenen </tei:seg>
+        <tei:q>Gesammelten Werken</tei:q>
+        <tei:seg>; dazu siehe die Übersicht unter 2.2. Gutzkow nahm die Börne-Biographie 1876 nochmals in Band 12 seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> auf.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>E Börne's Leben. Mit Börne's Bildniß in Stahl gestochen und einem Facsimile. Hamburg: Hoffmann und Campe, 1840. (Rasch 2.21)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A1">
+          <tei:seg> A1 Börne's Leben. (Aus Börne's ungedrucktem Nachlasse reich vermehrt.) In: Gesammelte Werke von Karl Gutzkow. Vollständig umgearb. Ausgabe. Bd. 6. Frankfurt/M.: Literarische Anstalt, 1845. S. 3-288. (Rasch 1.2.6.1) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A2 Börne's Leben. In: Gesammelte Werke von Karl Gutzkow. Erste vollständige Gesammt-Ausgabe. Erste Serie. Zweite vermehrte und verbesserte Auflage. Bd. 12. Jena: Costenoble, [1876]. S. 205-429. (Rasch 1.5.12.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Buchdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">1,4 </tei:citedRange>
+        <tei:lem>in's Stocken</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>in Stocken</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">13,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>überein, daß</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>überein, das</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">20,26-27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>In-den-Tag-Hineinlebens</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>In-den Tag-Hineinlebens</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">22,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Paragraph</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Paragraphe</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">25,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Dichter- und</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Dichter und</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">26,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Montesquieu</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Montesquien</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">35,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>so gern</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>sogern</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">36,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>was ihn</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>was ihm</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">37,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>herrschen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>herschen</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">38,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>und</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>un</tei:sic>
+        <tei:seg> ausgefallene Letter am Zeilenende</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">39,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Herzlosigkeit</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Herz losigkeit</tei:sic>
+        <tei:seg> nicht gesetztes Trennungszeichen</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">39,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zu [37] vertheidigen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zu-[37]vertheidigen</tei:sic>
+        <tei:seg>  falsch gesetztes Trennungszeichen</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">41,25-26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ehrfurcht vor</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Ehrfurcht von</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">48,17-18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Rektor des</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Rektor, des</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">48,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>noch</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>nach</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">49,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>uns</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>aus</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">51,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>maaßlos</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>maaslos</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">60,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Studenten-Lebens</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Studenten-Leben</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">61,14-15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Preußischen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Preußichen</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">66,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>handeln</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="letter-sparse">handel</tei:hi>
+          <tei:seg>n</tei:seg>
+        </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">68,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>baierische</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>baiersche</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">71,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>rings um</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ringsum</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">73,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Zukunft die</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Zukunft, die</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">74,5-6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>unterdrückte; [95] gewissenhaft</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>unterdrückte; [95] Gewissenhaft</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">84,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>das</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>daß</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">84 Fußnote</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß er sich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>das er sich</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">85,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Immermann</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Immerman</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">86,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>niemals</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>nimals</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">89,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Uebersichten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Ubersichten</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">89,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Publizisten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Puplizisten</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">101,18-19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="letter-sparse">Herrn von Malesherbes</tei:hi>
+        </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:sic>
+          <tei:hi style="letter-sparse">Herr</tei:hi>
+          <tei:seg>n von </tei:seg>
+          <tei:hi style="letter-sparse">Malesherbes</tei:hi>
+        </tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">104,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>in seinen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>in seinem</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">108,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>das</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>daß</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">108 Fußnote</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß es ihm</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>das es ihm</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">123,18-19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Suppe. Décazes</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Suppe Décazes</tei:sic>
+        <tei:seg> nicht gesetztes Satzzeichen</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">129,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Stellung</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Sellung</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">130,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wissen. Es</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wissen. Es</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">131,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Frauen. Die</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Frauen Die</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">136,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>seinem</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>seinen</tei:sic>
+        <tei:seg>  </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">137,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Zu bedauern</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Zubedauern</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">138,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Hohenstaufen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Hofenstaufen</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">153,5</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>das</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">162,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>das</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>daß</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">173,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>20. Juli</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>20 Juli</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">175,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>das</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">175,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Mennais'</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Mennais, </tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">176,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ihm</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ihn</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">180,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Schriftsteller</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Schrifsteller</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">180,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Reformateur</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Roformateur</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">182,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Sie</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>sie</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">186,24-25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Kolloff*), "bewohnte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Kolloff*),"  bewohnte</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">186,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>fauteuil</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>fauteueil</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">191,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Paul-Louis Courier</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Paul-Louis-Courier</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">195,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ließ;</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ließ,</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">196,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>verflochten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>verpflochten</tei:sic>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">197,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Auch sieht man</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Auch man sieht</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">201,20 </tei:citedRange>
+        <tei:lem>aussetzte.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>aussetzte,</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Faktische Berichtigungen in A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:head>
+      <tei:p/>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">106,5-7 </tei:citedRange>
+        <tei:lem>als plötzlich das fernere Erscheinen der Zeitschrift in Offenbach verhindert und Börne auf Großherzogliches Hessisches Ansuchen gefänglich eingezogen wurde.</tei:lem>
+        <tei:seg> Dies wird berichtigt durch die Schilderung von Börnes Rheinreise im Herbst 1819, auf der er mit Görres, Schleiermacher, A. W. Schlegel und Arndt zusammentraf, und seines ersten Parisaufenthaltes. Beide gingen der Inhaftierung voraus (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 135-136).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">107,16-18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Er äußerte später noch oft die Absicht, einmal diese Geschichte seines Gefängnisses zu schreiben. Es würden sicher sehr humoristische Mi prigione geworden seyn.</tei:lem>
+        <tei:seg> Auf die tatsächliche Existenz dieser humoristischen Gefangenschaftsskizze wird nun verwiesen; sie war im zweiten Band von Börnes  "Nachgelassenen Schriften" erschienen (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 138).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">108,15-16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:seg>deren Strafbarkei</tei:seg>
+          <tei:hi style="letter-sparse">t ihn</tei:hi>
+          <tei:seg> nur allein treffen dürfte.</tei:seg>
+        </tei:lem>
+        <tei:seg> Nach diesem Absatz findet sich eine Ergänzung, die Börnes für seine publizistischen Kontakte wichtige Aufenthalte in Stuttgart und München schildert (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 140).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">118,17-18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Börne konnte damals, als er zum ersten Male in Paris lebte</tei:lem>
+        <tei:seg> Berichtigt zu: </tei:seg>
+        <tei:q>Börne konnte damals, als er (zum zweiten Male) 1822 in Paris lebte</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 152).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">119,1-6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Aus jener Zeit reihen wir hier einige Brieffragmente an, die aus Börne's Verkehre mit Friedrich Murhard in Kassel stammen, einem Publizisten, der ihm nicht bloß als Herausgeber der politischen Annalen, sondern auch aus näherm Zusammentreffen in Frankfurt befreundet war.</tei:lem>
+        <tei:seg> Dieser gesamte Passus ist, wie auch die folgenden Briefstellen bis einschließlich 124,16, gestrichen. Gutzkow hatte erfahren, dass diese Mitteilungen in den von Murhard redigierten "Politischen Annalen" bereits veröffentlicht worden waren. An Stelle des gestrichenen Textes finden sich </tei:seg>
+        <tei:q>eine Reihe von Aeußerungen Börne's [...], die nach mündlichen Gesprächen ohne sein Wissen niedergeschrieben wurden</tei:q>
+        <tei:seg> (A1, S. 153). Der ersetzende Text geht in A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> bis einschließlich S. 156.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">124,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Als Börne im Jahre 1822 Paris verließ</tei:lem>
+        <tei:seg> Die Jahreszahl ist berichtigt zu 1824 (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 156).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">135,7-8</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ein witziger Prospektus lud das Publikum zur Subscription ein.</tei:lem>
+        <tei:seg> Hier folgt ein Zusatz, der die Vorbereitungen für die "Gesammelten Schriften" im Sommer und Herbst 1828 erwähnt, als Börne und Jeanette Wohl sich in Gesellschaft des Komponisten Aloys Schmitt und seiner Familie zunächst am Rhein, dann in Hannover aufhielten (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 181).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">135,9-136,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Auf der Reise nach Hamburg [...] reiste er allein nach Hamburg.</tei:lem>
+        <tei:seg> Diese Passage, die sich auf Börnes Aufenthalt in Kassel konzentriert, erscheint in modifizierter Form an späterer Stelle, nämlich nach dem zweiten Hannover-Aufenthalt (138,7 folgend). Nach 139,8-9: </tei:seg>
+        <tei:q>Diesen Sommer aber von 1829 sollte er wenig Kirschen essen</tei:q>
+        <tei:seg> folgt ein Hinweis auf die Rückreise von Hannover, die Börne nach Kassel zum befreundeten Murhard führte. Außerdem korrigiert Gutzkow die Aussage über Börnes Bedienten in einem Zusatz zu 136,19-21, in dem er klarstellt, dass Konrad nach Börnes Tod zuerst in den Dienst Meyerbeers trat, dann als Begleiter des Landschaftsmalers Bertin nach Italien reiste und schließlich nach Paris zurückkehrte, wo er eine Französin heiratete (A1, S. 181-185). Die Erwähnung einer ungeklärten </tei:seg>
+        <tei:q>gemüthlichen Aufregung, die Börne in Hannover erlebte</tei:q>
+        <tei:seg>, entfällt (136,25-27).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">163,11-16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:seg>Eine weitere Schilderung dieses sehr beklagenswerthen Mißverhältnisses zwischen Börne und </tei:seg>
+          <tei:hi style="letter-sparse">Heine</tei:hi>
+          <tei:seg> wünschten wir durch eine von Heine versprochene Darstellung desselben nicht hervorgerufen zu sehen. Sie kann für das Publikum nur von geringem Interesse sein.</tei:seg>
+        </tei:lem>
+        <tei:seg> Dieser Passus ist ersetzt durch weitere Informationen zum ‚Missverhältnis' der beiden Kontrahenten anlässlich der von Richard Otto Spazier und Eugen v. Breza ab 1834 herausgegebenen Sammlung "Die ausgezeichneten Israeliten aller Jahrhunderte, ihre Porträts und Biographien" (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 217).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:citedRange type="page-line-ref">174,29-34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Er ließ das kleine Buch auf seine eigne Kosten drucken und hatte die Freude, fast die ganze Auflage in Frankreich und der Schweiz abgesetzt zu sehen. Nur ein einziger Buchhändler in Leipzig wagte es, in Deutschland damit Geschäfte zu machen. Er kaufte Börnen aber auch gleich 500 Exemplare baar ab.</tei:lem>
+        <tei:seg> Korrektur: Börne schickte seine Übersetzung von Lamennais' "Paroles d'un croyant" zum Drucken in die Schweiz, ohne Honorar zu verlangen. Diese Auflage wurde fast ausschließlich in der Schweiz und in Frankreich abgesetzt, wobei Börne selbst </tei:seg>
+        <tei:q>einige hundert Exemplare [...] an die deutschen Arbeiter in Paris verschickte</tei:q>
+        <tei:seg>. Es folgte eine zweite Auflage durch einen deutschen Buchhändler in der Höhe von 1000 Exemplaren, von denen Börne 500 als Honorar erhielt (A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 231-232).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p>
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
     <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
