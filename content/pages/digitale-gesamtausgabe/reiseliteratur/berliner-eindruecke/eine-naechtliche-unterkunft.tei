@@ -51,15 +51,15 @@
       </tei:p>
       <tei:p>
         <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der Wohnung des Monarchen, </tei:seg>
-        <tei:ref target="#new-text-1">in jenem Portal</tei:ref>
+        <tei:ref type="esv" target="#annotation-1">in jenem Portal</tei:ref>
         <tei:seg>, das </tei:seg>
-        <tei:ref target="#new-text-5">seit dem Jahre 1844</tei:ref>
+        <tei:ref type="esv" target="#annotation-5">seit dem Jahre 1844</tei:ref>
         <tei:seg> dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
         <tei:hi style="letter-sparse letter-sparse">Portechaise</tei:hi>
         <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
-        <tei:ref target="#new-text-3">Nagelgasse</tei:ref>
+        <tei:ref type="esv" target="#annotation-3">Nagelgasse</tei:ref>
         <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des </tei:seg>
-        <tei:ref target="#new-text-4">neuen Rathhauses</tei:ref>
+        <tei:ref type="esv" target="#annotation-4">neuen Rathhauses</tei:ref>
         <tei:seg> - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
       </tei:p>
       <tei:p>
@@ -92,6 +92,58 @@
         <tei:hi style="letter-sparse">Orion Julius</tei:hi>
         <tei:seg>. Seine Werke stehen nicht in den Katalogen der hiesigen Leihbibliotheken. Wer sich aber die Mühe geben will, in alten Jahrgängen des "Freimüthigen", des "Gesellschafters" zu blättern, der wird dort - dem nächtlichen Bewohner des Leichenwagens am Gensdarmenmarkt zuweilen begegnen.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,19</tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Portechaise</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Frz.: Porte-Chaise, Sänfte, Tragesessel.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Nagelgasse]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">neuen Rathhauses]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>Nachdem das alte, zum Teil noch aus dem 14. Jahrhundert stammende Berliner Rathaus an der Spandauer Straße zu klein geworden war, beschloss man Ende der 1850er Jahre einen Neubau. Er wurde nach Plänen des Architekten Hermann Friedrich Waesemann (1813-1879) unter Berücksichtigung früherer Entwürfe Schinkels zwischen 1861 und 1869 auf einer Fläche zwischen der damaligen Königs- und Jüdenstraße, der Nagelgasse und der Spandauer Straße ausgeführt. Mehrere Häuser und die Anlagen des alten Rathauses wurden dafür abgerissen.  Der rote Backsteinbau gab dem Gebäude bald den Namen 'Rotes Rathaus'. Das prächtige Gebäude im Rundbogenstil, mit Neorenaissanceelementen, reichem Terracottaschmuck der Fassade und prachtvoll gestalteten Innenräumen sowie einem 97 Meter hohen Turm war Ausdruck eines durch die Industrialisierung gesteigerten Selbstbewußtseins  des Berliner Bürgertums und wiedergewonnener kommunaler Selbständigkeit. Schon 1865 konnte in einem fertig gewordenen Teilabschnitt des Rathauses der Magistrat tagen, am 6. Januar 1870 fand im Rathaus die erste Stadtverordnetenversammlung statt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>   Dabei handelte es sich um das Portal I, dem rechten der beiden Portale, die sich am Schloßplatz befanden. Das Schloss hatte fünf Portale, die ins Schlossinnere bzw. in die Schlosshöfe führten: Portal I und II lagen auf der Südfront des Schlosses am Schlossplatz, Portal III (Eosanderportal) an der westlichen Seite an der Schlossfreiheit, Portal IV und V an der nördlichen Seite gegenüber dem Lustgarten. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p>
+          <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">seit dem Jahre 1844]</tei:citedRange>
+        </tei:p>
+        <tei:p>
+          <tei:seg>  Portal I war 1844 Schauplatz eines Attentats auf Friedrich Wilhelm IV. geworden. Hier hatte der Bürgermeister von Storkow, Heinrich Ludwig Tschech, am 26. Juli 1844 auf den König und die Königin geschossen, als sie ihren Reisewagen nach Schlesien besteigen wollten. Das königliche Paar blieb unverletzt, Tschech wurde ein paar Monate später in Spandau mit einem Beil hingerichtet</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global" xml:id="global">
       <tei:head data-heading-id="" type="level-1">
@@ -334,60 +386,6 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
-    </tei:interpGrp>
-    <tei:interpGrp type="individual">
-      <tei:interp xml:id="new-text-2">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,19</tei:citedRange>
-          <tei:citedRange type="word-range">
-            <tei:hi style="letter-sparse">Portechaise</tei:hi>
-            <tei:seg>]</tei:seg>
-          </tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:seg>Frz.: Porte-Chaise, Sänfte, Tragesessel.</tei:seg>
-        </tei:p>
-      </tei:interp>
-      <tei:interp xml:id="new-text-3">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,22</tei:citedRange>
-          <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">Nagelgasse]</tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt.</tei:seg>
-        </tei:p>
-      </tei:interp>
-      <tei:interp xml:id="new-text-4">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,24</tei:citedRange>
-          <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">neuen Rathhauses]</tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:seg>Nachdem das alte, zum Teil noch aus dem 14. Jahrhundert stammende Berliner Rathaus an der Spandauer Straße zu klein geworden war, beschloss man Ende der 1850er Jahre einen Neubau. Er wurde nach Plänen des Architekten Hermann Friedrich Waesemann (1813-1879) unter Berücksichtigung früherer Entwürfe Schinkels zwischen 1861 und 1869 auf einer Fläche zwischen der damaligen Königs- und Jüdenstraße, der Nagelgasse und der Spandauer Straße ausgeführt. Mehrere Häuser und die Anlagen des alten Rathauses wurden dafür abgerissen.  Der rote Backsteinbau gab dem Gebäude bald den Namen 'Rotes Rathaus'. Das prächtige Gebäude im Rundbogenstil, mit Neorenaissanceelementen, reichem Terracottaschmuck der Fassade und prachtvoll gestalteten Innenräumen sowie einem 97 Meter hohen Turm war Ausdruck eines durch die Industrialisierung gesteigerten Selbstbewußtseins  des Berliner Bürgertums und wiedergewonnener kommunaler Selbständigkeit. Schon 1865 konnte in einem fertig gewordenen Teilabschnitt des Rathauses der Magistrat tagen, am 6. Januar 1870 fand im Rathaus die erste Stadtverordnetenversammlung statt.</tei:seg>
-        </tei:p>
-      </tei:interp>
-      <tei:interp xml:id="new-text-1">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
-          <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:seg>   Dabei handelte es sich um das Portal I, dem rechten der beiden Portale, die sich am Schloßplatz befanden. Das Schloss hatte fünf Portale, die ins Schlossinnere bzw. in die Schlosshöfe führten: Portal I und II lagen auf der Südfront des Schlosses am Schlossplatz, Portal III (Eosanderportal) an der westlichen Seite an der Schlossfreiheit, Portal IV und V an der nördlichen Seite gegenüber dem Lustgarten. </tei:seg>
-        </tei:p>
-      </tei:interp>
-      <tei:interp xml:id="new-text-5">
-        <tei:p>
-          <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
-          <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">seit dem Jahre 1844]</tei:citedRange>
-        </tei:p>
-        <tei:p>
-          <tei:seg>  Portal I war 1844 Schauplatz eines Attentats auf Friedrich Wilhelm IV. geworden. Hier hatte der Bürgermeister von Storkow, Heinrich Ludwig Tschech, am 26. Juli 1844 auf den König und die Königin geschossen, als sie ihren Reisewagen nach Schlesien besteigen wollten. Das königliche Paar blieb unverletzt, Tschech wurde ein paar Monate später in Spandau mit einem Beil hingerichtet</tei:seg>
-        </tei:p>
-      </tei:interp>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>

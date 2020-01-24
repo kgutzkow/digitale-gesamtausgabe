@@ -102,16 +102,14 @@ def check_page_number_markup(doc, errors):
 
 def check_footnotes(doc, errors):
     """Check that footnotes are valid."""
-    markup = doc.xpath('//tei:note', namespaces=ns)
+    markup = doc.xpath('//tei:ref[@type="footnote"]', namespaces=ns)
     for note in markup:
-        if 'type' not in note.attrib:
-            errors.append('No type specified for the note')
-        elif note.attrib['type'] != 'footnote':
-            errors.append('Unknown note type {0}'.format(note.attrib['type']))
-        if 'data-marker' not in note.attrib:
-            errors.append('No marker specified for the note')
-        elif note.attrib['data-marker'].strip() == '':
-            errors.append('Empty marker specified for the note')
+        if not doc.xpath('//tei:note[@xml:id="{0}"]'.format(note.attrib['target'][1:]), namespaces=ns):
+            errors.append('Reference to missing footnote {0}'.format(node.attrib['xml:id']))
+    markup = doc.xpath('//tei:note[@type="footnote"]', namespaces=ns)
+    for note in markup:
+        if len(note) == 0:
+            errors.append('Empty footnote')
 
 
 def check_source_lists(doc, errors):
@@ -142,6 +140,26 @@ def check_readings(doc, errors):
             doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]), namespaces=ns)
 
 
+def check_editor_transition(doc, errors):
+    """Check that no old formatting exists."""
+    references = doc.xpath('//tei:ref', namespaces=ns)
+    for ref in references:
+        if 'type' not in ref.attrib or ref.attrib['type'] not in ('esv', 'footnote'):
+            errors.append('Old reference found')
+    annotations = doc.xpath('//tei:interp', namespaces=ns)
+    for annotation in annotations:
+        if 'type' not in annotation.attrib or annotation.attrib['type'] not in ('esv', ):
+            errors.append('Old annotation found')
+    footnotes = doc.xpath('//tei:note[@type="footnote"]', namespaces=ns)
+    for footnote in footnotes:
+        if 'data-marker' in footnote.attrib:
+            errors.append('Old footnote found')
+    markup = doc.xpath('//tei:note[@type="footnote"]', namespaces=ns)
+    for note in markup:
+        if note.text and note.text.strip() != '':
+            errors.append('Footnote with direct text')
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -158,6 +176,7 @@ for basepath, _, filenames in walk('content'):
                 check_footnotes(doc, file_errors)
                 check_source_lists(doc, file_errors)
                 check_readings(doc, file_errors)
+                check_editor_transition(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
