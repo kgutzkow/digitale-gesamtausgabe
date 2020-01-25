@@ -43,13 +43,13 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="1"/>
         <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">Was sollen wir lesen</tei:hi>
         <tei:seg>?</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:hi style="letter-sparse">Ein Fingerzeig für die Winterabende.</tei:hi>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -154,6 +154,45 @@
         <tei:seg>Zwei Gräber! Schauerlicher Titel in einer Zeit, wo so Vielen auf den Gräbern nicht mehr die tröstenden Engel des Jenseits erscheinen wollen. Doch erschrecke man nicht! Dies Buch enthält gerade eben so viel vom Grab, als andere Romane, die auch mit dem Tode enden, es aber freilich nicht gleich auf dem Titel sagen. Die erste der beiden Erzählungen scheint mir die bessere. Sie erinnert an die hübschen pharmazeutischen Novellen von Ludwig Bechstein. Auch hier sind Apothekerleiden und Apothekerfreuden geschildert. Die Lebensschicksale des armen Hanf sind mit einfachen, aber naturwahren Farben wiedergegeben, der arme Lehrling und künftige Provisor hält eine "Selbstschau", die im Anfang für die Bildung eines jungen Mannes von siebzehn Jahren nicht ganz richtig den naiven Ausdruck getroffen hat. Späterhin steht dem moralischen Goldmacher sein elegischer Ton, seine Sentimentalität viel natürlicher. Wie der Verfasser schon in seinem Romane "Karl" gezeigt hat, ist ihm auch hier wieder das norddeutsche Land- und Provinzleben sehr geläufig. Schon als ein deutsches Genre- und Sittenbild würde die erste Mittheilung einen entschiedenen Werth ansprechen dürfen. Minder gelungen ist freilich die zweite. Hier tritt die Sentimentalität über alle Ufer hinaus, überschwemmt uns mit Briefen, die alle ein einziges Thema variiren, und kann uns mit dem Verf., der hier gewiß sehr tief gefühlt, sehr innerlich empfunden hat, dennoch nicht mit fortreißen. Diese "Briefe zweier Liebenden" sind eine ästhetische Verirrung, entschuldbar nur durch eine Selbsttäuschung des Verfassers, der das moralische und ästhetische Mitleid verwechselte. Victor und Maria spielen den Roman Abälard's und Heloisens noch einmal durch, so aber, daß nicht andere Menschen, sondern sie selbst sich quälen. Ich gestehe, daß ich meinem geistreichen und gefühlvollen Freunde in der Nachempfindung dieser hier von ihm mit übermäßiger Wortfülle geschilderten Verhältnisse nicht habe folgen können, ja, sogar eine Abneigung innerlichster Art gegen einen Romanhelden empfinden muß, der feurig, ja, überschwänglich liebt und doch sagen kann: "Ja, ich habe vom Manne nicht viel mehr als den Bart, ich bin ein geistiger Hermaphrodit." In solche Verirrungen geräth man bei übermäßiger, gestaltenloser Sentimentalität oder auch wohl bei wehmüthigen Lebenserinnerungen, trüben Schicksalsschlägen und einem grauen Anschauungshorizonte, von dem sich aber jeder Dichter, wenn er nicht ein genialer Lyriker ist, wenigstens für seine Productionen befreien muß.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow, Frankfurt am Main: Was sollen wir lesen? Ein Fingerzeig für die Winterabende. In: Kölnische Zeitung. Köln. Nr. 333, 29. November 1843, [S. 1-3]. (Rasch 3.43.11.29.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
