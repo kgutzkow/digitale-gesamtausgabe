@@ -70,6 +70,74 @@
         <tei:seg>Wir brechen, nur eine Voranzeige bezweckend, in unsern kleinen Rügen ab. Es gäbe noch manche Frage an den Dichter zu stellen, ob z. B. in den Circeln eines gewöhnlichen Berliner "Geheimenraths", wo man sich nach dem Thee zum "warmen Abendessen" mit Förmlichkeit zu Tische setzt, der bevollmächtigte französische Gesandte erscheinen und sich, gemüthlich an einen Ofen gelehnt, mit allerlei kleinem Gehofräthsel politisch unterhalten kann; ob ein Duellant, im Begriff mit einem scharf treffenden Gegner Kugeln zu wechseln, von einem tactvollen Secundanten fünf Minuten vor seinem möglichen Tod auf politische Erörterungen, Depeschen, dechiffrirte Noten im Gespräch geführt werden wird; ob es möglich ist daß ein preußischer Minister vor fünfzig Jahren in der Nacht keine Depeschen vom Kriegsschauplatz annimmt, oder solche Grundsätze debitirt wie sie von ihm ein junger Amtsbewerber (II. 287) in erster Audienz zu hören bekommt; allein die meisten dieser und ähnlicher Bedenken verschwinden gegen das starke und volle Interesse des ganzen Buches, verschwinden gegen den mit Fleiß zusammengestellten Apparat von Thatsachen, gegen die gemüthvolle Vertiefung in den mit Liebe erfaßten Gegenstand, gegen das ersichtliche Hindrängen der Handlung auf Entwickelungen, die uns von der hoffentlich nicht zu lange ausbleibenden Fortsetzung des Werks noch einen gesteigerten Genuß und in der Lösung des Ganzen eine ungetheilte Befriedigung schon jetzt für fast gewiß voraussehen lassen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K[arl] G[utzkow]: Ein neuer Roman von Wilibald Alexis. In: Allgemeine Zeitung. Augsburg. Nr. 139, 18. Mai 1852, S. 2217-2218. (Rasch 3.52.05.18)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>angethan</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>angethau</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">2,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>"Löscheimer"</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Löscheimer" </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Tète-à-Tète-Erörterungen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Tète à-Tète-Erörterungen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
