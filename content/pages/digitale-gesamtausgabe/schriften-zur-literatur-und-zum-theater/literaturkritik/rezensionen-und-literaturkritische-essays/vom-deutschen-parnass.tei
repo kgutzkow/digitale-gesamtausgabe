@@ -266,6 +266,74 @@
         <tei:seg>Die Romanliteratur steht in voller bunter Blüte. Sie ist fast die Conversation der Zeit geworden. Man begrüßt neue Werke von beliebten Autoren dieser Gattung wie Ereignisse, die uns fast persönlich berühren. Man kann nicht Allem folgen, was der Tag bringt, aber man müßigt sich gern die Stunde ab, das Besprochenste sich gleichfalls anzueignen. Berichten wir gelegentlich über einige hierher gehörende Werke, die uns eine gemessene Zeit zu lesen erlaubte.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkows Aufsatzreihe </tei:seg>
+        <tei:q>Vom deutschen Parnaß</tei:q>
+        <tei:seg> umfasst insgesamt sechs Folgen und erschien von Dezember 1853 bis zum Mai 1854 in den "Unterhaltungen am häuslichen Herd". Nur die ersten drei Artikel enthalten literaturkritische Beiträge. Die vierte bis sechste Folge vom Mai 1854 befasst sich dagegen ausschließlich mit dem Theater, mit der dramatischen Literatur und der modernen Bühne in Deutschland und wird in Band 9 der Werkabteilung "Schriften zur Literatur und zum Theater" veröffentlicht. In Buchform erschienen diese Aufsätze zu Lebzeiten Gutzkows nicht. Lediglich eine Passage aus der dritten Folge über den </tei:seg>
+        <tei:q>Roman des Nebeneinander</tei:q>
+        <tei:seg> verwendete er 1868 überarbeitet im Kapitel </tei:seg>
+        <tei:q>Walten und Schaffen des Genius</tei:q>
+        <tei:seg> seiner Denkspruchsammlung </tei:seg>
+        <tei:q>Vom Baum der Erkenntniß</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Vom deutschen Parnaß. I.-III. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 11, [10. Dezember] 1853, S. 174-176; Bd. 2, Nr. 13, [24. Dezember] 1853, S. 206-208; Bd. 2, Nr. 18, [28. Januar] 1854, S. 286-288. (Rasch 3.53.12.10.1; 3.53.12.24.1; 3.54.01.28.1) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>Walten und Schaffen des Genius. In: Karl Gutzkow: Vom Baum der Erkenntniß. Stuttgart: Cotta, 1868. S. 213-214. (Rasch 2.38)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zurückkommen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zurückzukommen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
