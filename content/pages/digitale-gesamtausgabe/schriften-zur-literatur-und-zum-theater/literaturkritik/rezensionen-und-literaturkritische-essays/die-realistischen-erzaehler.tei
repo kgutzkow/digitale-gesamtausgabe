@@ -136,6 +136,64 @@
         <tei:seg>Diese Betrachtung auf Malerei, auf Musik, auf Plastik auszudehnen (wo der Realismus es auch noch dahin bringen wird, daß wir uns seine Schöpfungen eher in Dragée als in Marmor ausgeführt denken müssen), liegt nahe. Doch brechen wir sie für heute ab, um sie gelegentlich wieder aufzunehmen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Die 1857 in den "Unterhaltungen am häuslichen Herd" erschienene Sammelrezension </tei:seg>
+        <tei:q>Die "realistischen" Erzähler</tei:q>
+        <tei:seg> ist von Gutzkow gemeinsam mit seinem engsten Mitarbeiter am Blatt Karl Frenzel verfasst worden. Welcher Anteil dabei Gutzkow und welcher Frenzel zukommt, lässt sich im Detail nicht mehr ausmachen. Sicher ist, dass Frenzel zunächst einen ausführlichen Entwurf schrieb, den Gutzkow dann ergänzte und überarbeitete. In Buchform erschien diese Arbeit zu Lebzeiten Gutzkows nicht.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Karl Gutzkow u. Karl Frenzel:] Die "realistischen" Erzähler. In: Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd. 2, Nr. 17, [24. Januar] 1857, S. 270-271. (Rasch 3.57.01.24)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">6,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>welch</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>welche </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
