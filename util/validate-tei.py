@@ -160,6 +160,18 @@ def check_editor_transition(doc, errors):
             errors.append('Footnote with direct text')
 
 
+def check_empty_text_nodes(doc, errors):
+    """Check that there are no empty text content nodes."""
+    def walk_tree(node):
+        if len(node) > 0:
+            for child in node:
+                walk_tree(child)
+        elif not node.text and not node.attrib:
+            errors.append('Empty {0} tag'.format(node.tag[node.tag.find('}') + 1:]))
+    text = doc.xpath('//tei:text', namespaces=ns)
+    walk_tree(text)
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -177,6 +189,7 @@ for basepath, _, filenames in walk('content'):
                 check_source_lists(doc, file_errors)
                 check_readings(doc, file_errors)
                 check_editor_transition(doc, file_errors)
+                check_empty_text_nodes(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:
