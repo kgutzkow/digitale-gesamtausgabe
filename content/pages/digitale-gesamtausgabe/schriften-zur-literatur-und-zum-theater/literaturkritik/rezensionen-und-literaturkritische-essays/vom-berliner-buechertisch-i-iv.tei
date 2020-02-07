@@ -217,6 +217,75 @@
         </tei:p>
       </tei:note>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Kurt Jauslin, Altdorf</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>Karl Gutzkow: Vom Berliner Büchertisch. I.- IV. In: Allgemeine Zeitung. Augsburg. Nr. 294, 21. Oktober 1873, S. 4457-4458; Nr. 296, 23. Oktober 1873, S. 4490-4491; Nr. 303, 30. Oktober 1873, S. 4593-4594; Nr. 313, 9. November 1873, S. 4749-4750. (Rasch 3.73.10.21, 3.73.10.23, 3.73.10.30, 3.73.11.09)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Die eigenwollige Kommasetzung geht auf eine redaktionelle Übereinkunft der Allgemeinen Zeitung zurück. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> </tei:seg>
+        <tei:citedRange type="page-line-ref">2,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>"Accidenz"-Blättchen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>"Accidenz "Blättchen </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">11,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>einen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>einem</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">11,27-28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gekommen, und</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gekommen und</tei:sic>
+        <tei:seg>  </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
