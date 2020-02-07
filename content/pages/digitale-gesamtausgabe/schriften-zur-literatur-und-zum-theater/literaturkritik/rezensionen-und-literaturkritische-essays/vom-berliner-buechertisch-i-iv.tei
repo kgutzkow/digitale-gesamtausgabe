@@ -5,9 +5,9 @@
       <tei:titleStmt>
         <tei:title>Vom Berliner Büchertisch</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
-        <tei:respStmt xml:id="WolfgangRasch">
+        <tei:respStmt xml:id="KurtJauslin">
           <tei:resp>Digitale edition</tei:resp>
-          <tei:name>Wolfgang Rasch</tei:name>
+          <tei:name>Kurt Jauslin</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MarkMichaelHall">
           <tei:resp>TEI transform</tei:resp>
@@ -37,7 +37,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2009-11" who="#WolfgangRasch">Fassung 1.0</tei:change>
+      <tei:change when="2009-11" who="#KurtJauslin">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-02-07">Fassung 1.1, TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
