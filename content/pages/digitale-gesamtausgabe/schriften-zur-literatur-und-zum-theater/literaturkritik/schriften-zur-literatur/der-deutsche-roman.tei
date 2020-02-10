@@ -80,6 +80,75 @@
         <tei:seg>Eine Bemerkung möge hier noch Raum finden. Ich glaube nämlich, daß sich eine besondre Meinungsunvollkommenheit an Emerentius Scävola gerächt hat. Sein Roman fängt in demselben Augenblicke, wo er auf loyal-royalistische Gesinnungen basirt ist, auch an, gewöhnlich zu werden. Sowie der Verfasser seinen Abscheu vor einer großen Thatsache der Geschichte, die man statt zu verdammen, immer, wenn nicht entschuldigen, doch erklären sollte, vor der französischen Revolution ausspricht, sowie seine Helden die weiße Kokarde des Servilismus aufstecken, sind auch die Schwingen seines Fluges gelähmt und er klatscht nur noch unten auf dem gemeinen Boden der Wirklichkeit. Man sieht dann keinen Genius mehr in ihm, sondern einen ganz gewöhnlichen Regierungsrath, der plötzlich die Marotte bekömmt, Bücher schreiben zu wollen. Man riecht den Aktenstaub seines Büreaus und hört die klingenden Zehnthalerdüten seines vierteljährlichen Gehaltes. Illusion und Poesie sind verschwunden. Nicht aus der Phantasie des Lesers; denn das könnte eine Ungerechtigkeit sein; sondern aus dem Autor selbst, aus seiner Intrigue, aus seiner Darstellungsweise, aus allem, was den ersten Theil seines Romans, der im rein Menschlichen, von der Parthei unabhängigen Lebenskreisen sich bewegt, so besonders auszeichnet. Wir wissen es schon, welches der Fluch des Servilismus in der Poesie ist. Es ist die Langeweile. -</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkows Beitrag </tei:seg>
+        <tei:q>Der deutsche Roman</tei:q>
+        <tei:seg> wurde zuerst im "Literatur-Blatt" zum "Phönix" veröffentlicht. Diese Arbeit verwendete Gutzkow 1836 in seinen </tei:seg>
+        <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>, wo er im Abschnitt </tei:seg>
+        <tei:q>Roman</tei:q>
+        <tei:seg> zwei längere Passagen des Aufsatzes einarbeitete.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J"/>
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Der deutsche Roman. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 12, 25. März 1835, S. 285-287. (Rasch 3.35.03.25.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 338-339, 344-350. (Rasch 2.13.1.7)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id=""/>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">4,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>versetzte</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>versetzter</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
