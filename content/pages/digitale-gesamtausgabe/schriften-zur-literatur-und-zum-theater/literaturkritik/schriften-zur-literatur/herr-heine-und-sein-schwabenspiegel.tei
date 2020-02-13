@@ -219,6 +219,67 @@
         <tei:seg> Reisebilder zu schreiben, jetzt auf den Boulevards herumgrübelt und sich aussinnt, wie er diesen Artikel wohl recht pikant beantworten, mich wie Pfizer etwa an den Galgen bringen oder wie Wolfgang Menzel mit dem isabellfarbnen Hemde meiner Frau widerlegen könnte, so würde es mich tief, nicht meinet- sondern der Literatur und seinetwegen schmerzen; denn müßte dann nicht die Achtung vor diesem einst so reichen Geiste, der seit beinahe sechs Jahren nichts mehr schaffen zu können scheint, und, um sich nicht vergessen zu machen, nach dem schmutzigsten Scandale greift, vollends verloren gehen?</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Karl] G[utzkow]: Herr Heine und sein Schwabenspiegel. In: Telegraph für Deutschland. Hamburg. Nr. 75, [10.] Mai 1839, S. 593-597; Nr. 76, [11.] Mai 1839, S. 601-607. (Rasch 3.39.05.10)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zu machen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zumachen</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">11,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>persönliche,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>persönliche;</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
