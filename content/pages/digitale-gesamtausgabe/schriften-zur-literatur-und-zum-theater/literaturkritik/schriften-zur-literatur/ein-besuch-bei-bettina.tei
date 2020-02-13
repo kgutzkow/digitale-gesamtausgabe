@@ -72,6 +72,89 @@
         <tei:seg>Bettina hat eine Hand, so weiß, zart gepflegt und magnetisch, daß sie nie aufhören wird, Lippen anzuziehen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Gutzkows Beitrag </tei:seg>
+        <tei:q>Ein Besuch bei Bettina</tei:q>
+        <tei:seg> wurde zuerst im "Telegraph für Deutschland" veröffentlicht und 1842 in Gutzkows Textsammlung </tei:seg>
+        <tei:q>Mosaik. Novellen und Skizzen</tei:q>
+        <tei:seg>, dem dritten Band seiner </tei:seg>
+        <tei:q>Vermischten Schriften</tei:q>
+        <tei:seg>, unverändert aufgenommen. Erst 1875 griff er auf diese Arbeit zurück und integrierte sie, mit ganz wenigen stilistischen Veränderungen, in den neunten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>, der die erweiterte Ausgabe der </tei:seg>
+        <tei:q>Oeffentlichen Charaktere</tei:q>
+        <tei:seg> enthält.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Karl] G[utzkow]: Ein Besuch bei Bettina. In: Telegraph für Deutschland. Hamburg. Nr. 12, [20.] Januar 1840, S. 45-46. (Rasch 3.40.01.20) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Ein Besuch bei Bettina. In: Karl Gutzkow: Mosaik. Novellen u. Skizzen. Leipzig: Weber, 1842. S. 127-132. (Rasch 2.23.3.6) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:list type="sources">
+        <tei:item data-source-id="A2 ">
+          <tei:seg>Ein Besuch bei Bettina. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammtausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 229-232. (Rasch 1.5.9.21)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">2,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Selbstbeherrschung</tei:lem>
+        <tei:sic> Selbstbeherrschnng</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">2,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>mittlerem</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>mitlerem </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
