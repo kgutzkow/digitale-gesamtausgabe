@@ -105,7 +105,7 @@ def check_footnotes(doc, errors):
     markup = doc.xpath('//tei:ref[@type="footnote"]', namespaces=ns)
     for note in markup:
         if not doc.xpath('//tei:note[@xml:id="{0}"]'.format(note.attrib['target'][1:]), namespaces=ns):
-            errors.append('Reference to missing footnote {0}'.format(node.attrib['xml:id']))
+            errors.append('Reference to missing footnote {0}'.format(note.attrib['xml:id']))
     markup = doc.xpath('//tei:note[@type="footnote"]', namespaces=ns)
     for note in markup:
         if len(note) == 0:
