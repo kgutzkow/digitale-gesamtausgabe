@@ -121,6 +121,12 @@ def check_source_lists(doc, errors):
             if next_sibling.tag == '{{{0}}}list'.format(ns['tei']):
                 if 'type' in next_sibling.attrib and next_sibling.attrib['type'] == 'sources':
                     errors.append('Two source lists next to each other')
+    markup = doc.xpath("//tei:list[@type='sources']/tei:item", namespaces=ns)
+    for item in markup:
+        if len(item) == 0:
+            errors.append('Source item without any content')
+        if 'data-source-id' not in item.attrib or not item.attrib['data-source-id']:
+            errors.append('Source item without an identifier')
 
 
 def check_readings(doc, errors):
