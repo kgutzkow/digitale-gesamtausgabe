@@ -195,7 +195,7 @@ TAXONOMY = (
 			    ('Theodor Mundt', 'theodor-mundt', ()),
 			    ('Die Familie Büchner', 'die-familie-buechner', ()),
 			    ('Zum Gedächtniß Wilhelm Härings', 'zum-gedaechtniss-wilhelm-haerings', ()),
-			    ('Wolfgang Menzel und das "junge Deutschland"', 'woflgang-menzel-und-das-junge-deutschland', ()),
+			    ('Wolfgang Menzel und das "junge Deutschland"', 'wolfgang-menzel-und-das-junge-deutschland', ()),
 			    ('Zur deutschen Rechtschreibung', 'zur-deutschen-rechtschreibung', ()),
 			    ('Deutsche Classiker-Philologie', 'deutsche-classiker-philologie', ()),
 			    ('Das Feuilleton', 'das-feuilleton', ())
