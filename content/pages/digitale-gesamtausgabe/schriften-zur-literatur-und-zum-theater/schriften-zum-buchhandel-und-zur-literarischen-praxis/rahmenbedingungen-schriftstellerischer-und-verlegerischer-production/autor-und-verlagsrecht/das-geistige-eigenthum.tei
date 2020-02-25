@@ -42,14 +42,80 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen nach pdf Datei</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="576"/>
+        <tei:seg> Das geistige Eigenthum.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>In Nr. 21 dieser „Unterhaltungen“ richteten wir an den Bundestag ein „harmloses Anliegen“, die Verbesserung der Bestimmungen betreffend, die bei uns in noch sehr beschränktem Maße das geistige Eigenthum schützen. Von Preußen hört man, daß die Ausdehnung der Rechte der dramatischen Autoren auch auf ihre bereits im Druck vorliegenden Werke und die Sicherstellung derselben gegen unbefugte Bühnendarstellung daselbst im Werke sein soll. Auch von Oestreich erfahren wir, daß die kaiserliche Regierung in verwichenem Januar das daselbst im Jahre 1846 gegebene Gesetz gegen Beeinträchtigungen des geistigen Eigenthums der Handelskammer zur neuen Begutachtung übergeben hat. Die Handelskammer wählte zur nähern Meinungsabgabe betheiligter Sachverständiger die Musiker </tei:seg>
+        <tei:hi style="letter-sparse">Vesque von Püttlingen</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Dessauer</tei:hi>
+        <tei:seg>, die Maler </tei:seg>
+        <tei:hi style="letter-sparse">Einsle</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Amerling</tei:hi>
+        <tei:seg>, den Bildhauer </tei:seg>
+        <tei:hi style="letter-sparse">Gasser</tei:hi>
+        <tei:seg> und die Schriftsteller </tei:seg>
+        <tei:hi style="letter-sparse">Frankl</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Eduard von Bauernfeld</tei:hi>
+        <tei:seg>. Diese Commission hat sich ihrer Aufgabe mit Eifer unterzogen und in besonders dankenswerther Weise darauf angetragen, daß sich Oestreich in dieser Angelegenheit mit der allgemeinen deutschen Preßgesetzgebung in Verbindung und in ein möglichstes Einvernehmen stellen möge.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wie rasch Frankreich in dergleichen Dingen den Künstlern und Autoren entgegenkommt, beweist die letzte Erhöhung des Eigenthumsrechts nach dem Tode eines Künstlers oder Autors von 20 auf 30 Jahre. </tei:seg>
+        <tei:hi style="letter-sparse">Scribe</tei:hi>
+        <tei:seg> machte einen Besuch in den Tuilerien und sein Anliegen war bewilligt. Daß die Tantième in Deutschland erst in Wien, Berlin und München eingeführt ist und in Dresden, Stuttgart, Hannover an eine Nachfolge kaum gedacht wird, ist für die Auffassung solcher Fragen in Deutschland charakteristisch genug.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Das geistige Eigenthum. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 36, [3. Juni] 1853, S. 576. (Rasch 3.53.06.03.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
