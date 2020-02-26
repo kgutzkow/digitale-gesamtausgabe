@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; fehlende Sperrungen und Fremdwoerter im Text ausgezeichnet</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; fehlende Sperrungen und Fremdwoerter im Text ausgezeichnet</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="881"/>
         <tei:seg> Hitzig über die Existenz der Schriftsteller.</tei:seg>
       </tei:head>
@@ -57,7 +57,7 @@
       <tei:p style="text-left">
         <tei:seg>Besäße das junge Berlin von der Deutschen Literatur irgend eine moralische Vorstellung, hätte es Erfahrung und Takt genug, das Leben der Literatur als ein Ganzes zu überblicken und Erscheinungen, die ihnen günstig sind, vom Zufälligen schnell zu unterscheiden, so würde es die Warnung Hitzigs,</tei:seg>
         <tei:hi style="letter-sparse"> die Belle-</tei:hi>
-        <tei:hi n="882" style="letter-sparse"/>
+        <tei:hi style="letter-sparse"/>
         <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">tristerei als Lebensberuf zu wählen</tei:hi>
         <tei:seg>, von einer ganz andern Seite, als bisher geschehen ist, betrachtet haben. Es würde zunächst einem öffentlichen, in der Gesellschaft nicht tief gestellten Charakter haben danken müssen, daß er sich mit dieser überraschenden Theilnahme um die kleinen Spektakel der laufenden Literatur bekümmert und seinem allerdings demüthigenden Zurufe nicht die Folie einer vornehmen Verachtung der jüngern Interessen giebt. Ich wenigstens hielt diese Theilnahme für äußerst werthvoll; denn ich gedachte jener diplomatischen Mäcenaten der jungen Literatur, welche auf dem Lotterbette der Quiescenz von dem Nachwuchs sich die Cour machen lassen, ordentlich Parthei nehmen, Einen gegen den Andern aufhetzen, kleine Notizen auf goldrandigen Blättchen in die frechsten Journale schicken, Namen hinstellen, die man loben, Andre, die man angreifen solle, und dabei nichts verlangen, als leise flüsternd: </tei:seg>
@@ -169,7 +169,7 @@
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>K[arl] G[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13)</tei:seg>
+          <tei:seg>K.[arl] G.[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:p style="no-indent text-left">
