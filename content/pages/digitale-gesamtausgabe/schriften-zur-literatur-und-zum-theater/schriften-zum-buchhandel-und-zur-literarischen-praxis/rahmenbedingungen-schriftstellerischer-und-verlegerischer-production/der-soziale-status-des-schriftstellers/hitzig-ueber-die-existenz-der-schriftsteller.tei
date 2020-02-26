@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,164 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; fehlende Sperrungen und Fremdwoerter im Text ausgezeichnet</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="881"/>
+        <tei:seg> Hitzig über die Existenz der Schriftsteller.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es macht einen schmerzlichen Eindruck, in den jüngsten Nummern des Berliner Gesellschafters einen ehrwürdigen Veteranen literarischer Erinnerungen, den Herrn Criminaldirektor Hitzig, im abwehrenden Kampfe zu erblicken gegen die in unserem Blatte schon mehrmals signalisirte Rotte junger Berliner Kritiker, die ihm einen wohlgemeinten guten Rath mit Steinwürfen und Schimpfreden vergilt. In keiner Stadt werden soviel öffentliche Denkmäler beschädigt, wie in Berlin. In keiner Stadt wird an den Häusern soviel gebeten, gedroht und gewarnt, man möchte sie nicht beschmutzen. Nirgends hat sich auch der Straßengeist, der gerade in Berlin das Höchste an Charakterlosigkeit und feiger Tücke leistet, so sehr dem literarischen Getriebe mitgetheilt, als dort. Mit Hohn und Spott pfeifen die Jungen hinter dem ehrwürdigen Manne her, für dessen halberblindeten Augenstern und rüstiges nach allen Seiten hingewandt gewesenes Verdienst diese rein durch Bücher und Straßenleben gebildeten Menschen kein Gefühl haben. Es liegt grade im Berliner Straßengeist eine gemüthlose Pöbelhaftigkeit und eine dumpfe Abwesenheit alles Gewissens, die durch die Frechheit, mit welcher man jüngst die ehrlichen Warnungen Hitzigs aufnahm, nur auf’s Neue bestätigt wird.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Besäße das junge Berlin von der Deutschen Literatur irgend eine moralische Vorstellung, hätte es Erfahrung und Takt genug, das Leben der Literatur als ein Ganzes zu überblicken und Erscheinungen, die ihnen günstig sind, vom Zufälligen schnell zu unterscheiden, so würde es die Warnung Hitzigs, </tei:seg>
+        <tei:hi style="letter-sparse">die Belle-</tei:hi>
+        <tei:pb n="882"/>
+        <tei:hi style="letter-sparse">tristerei als Lebensberuf zu wählen</tei:hi>
+        <tei:seg>, von einer ganz andern Seite, als bisher geschehen ist, betrachtet haben. Es würde zunächst einem öffentlichen, in der Gesellschaft nicht tief gestellten Charakter haben danken müssen, daß er sich mit dieser überraschenden Theilnahme um die kleinen Spektakel der laufenden Literatur bekümmert und seinem allerdings demüthigenden Zurufe nicht die Folie einer vornehmen Verachtung der jüngern Interessen giebt. Ich wenigstens hielt diese Theilnahme für äußerst werthvoll; denn ich gedachte jener diplomatischen Mäcenaten der jungen Literatur, welche auf dem Lotterbette der Quiescenz von dem Nachwuchs sich die Cour machen lassen, ordentlich Parthei nehmen, Einen gegen den Andern aufhetzen, kleine Notizen auf goldrandigen Blättchen in die frechsten Journale schicken, Namen hinstellen, die man loben, Andre, die man angreifen solle, und dabei nichts verlangen, als leise flüsternd: </tei:seg>
+        <tei:hi style="letter-sparse">Diskretion! Diskretion!</tei:hi>
+        <tei:seg> Ich gedachte jener vornehmen Freunde der jungen Literatur, die nur hinter dem Vorhange operiren, hinter dem Vorhange loben, hinter dem Vorhange überzeugt sind, daß dieser Literatur von Seiten der öffentlichen Thatsachen Unrecht geschieht, und in den Schritten, die man gegen sie that, das Kind mit dem Bade verschüttete. Ich gedachte der vielen Mühsal und Verwirrung, der man würde entgangen seyn, hätte einer dieser vornehmen Anhänger des Evangeliums, die jedoch, </tei:seg>
+        <tei:hi style="letter-sparse">wie Nikodemus, nur des Nachts zum Herrn kommen</tei:hi>
+        <tei:seg>, die öffentliche Meinung aus seinem Schatz literarischer Erfahrung über das Werden und Gähren der Literatur unterrichtet und Staatsmännern die vorgefaßten Meinungen genommen. Wer würde von ihnen Billigung des Neuen verlangt haben? Wer würde sie zu Mitschuldigen der Excesse haben machen wollen? Sie hätten alles Bedenkliche verwerfen und einen recht künstlichen Gräuel vor dem Neuen aussprechen dürfen, ihrer Stellung wegen; aber sie hätten den </tei:seg>
+        <tei:hi style="letter-sparse">literarischen</tei:hi>
+        <tei:seg> Gesichtspunkt einer rein polizeilich gefaßten Frage wohl öffentlich feststellen können und Männern, denen sie ja heimlich die ganze Zukunft der Literatur in den Schooß schütten, diese auch öffentlich vindiziren können in Augenblicken, wo von den jungen Männern schlechter-</tei:seg>
+        <tei:pb n="883"/>
+        <tei:seg>dings nur das Verwerfliche für erwiesen galt. Hätte die junge Literatur nicht soviel offne Feinde gehabt, ihre geheimen Freunde würden sie nicht gerettet haben.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das Erfreuliche an Herrn Hitzigs Aufsatze ist das </tei:seg>
+        <tei:hi style="letter-sparse">Eingehen auf die schwebende Literaturfrage</tei:hi>
+        <tei:seg>. Kann man mit den Prädikaten nicht übereinstimmen, die ihr von Herrn Hitzig gegeben wurden, so ist es doch schon ein Fortschritt, daß das Subjekt nicht ignorirt wird. Herr Hitzig hat eine Verhandlung möglich gemacht, die das junge Berlin statt mit schnödem Bettelstolze zurückzuweisen, mit klugem Ernste und vorsichtiger Besonnenheit hätte aufnehmen sollen. Der Herausfordernde war ein geachteter, mehr außer- als innerhalb der Literatur stehender Name – warum knüpfte man an diesen nicht an, was man schon so lange auf dem Herzen trug und was sich längst Bahn zu brechen sehnte? Mundt beherrscht das junge Berlin, seine Treibhauspflanze; warum ließ er die Blätter derselben nicht anders ausschlagen? Alle Bonbons der „diplomatischen Literaturvermittelung“ werden ihm das nicht ersetzen, was er sich und seiner Sache durch eine würdige Antwort auf Herrn Hitzigs Warnung hat entgehen lassen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es klingt wahrhaft lächerlich, wenn das junge Berlin stolz auf seine Schreibfeder zeigt und sagt: Es hat sich ein neuer Stand gebildet, der Literatenstand und eine Ehre ist es, ihm anzugehören! Dieser Stolz ist lächerlich, weil keiner dieser Leute sich weigern würde, eine Oberlehrerstelle, ein Assessorat, eine außerordentliche Professur anzunehmen, wenn man sie ihm nur anböte! Die Literatur hat auch niemals darauf hingearbeitet, einen eigenen Stand zu schaffen, ebensowenig wie es einen Stand geistreicher und witziger Menschen giebt. Es ist traurig genug, wenn wir ausgezeichnete Geister gesehen haben, die von dem Ertrage ihrer Feder ein ganzes eignes Dasein und das Leben einer Gattin und vieler Kinder fristen mußten; es ist einer Thräne werth, daß sie den Muth und das Publikum nicht die Liebe verloren und sie die Gefahr zu verhungern, durch die andre Gefahr, sich zu überarbeiten, vermieden; es ist sogar entschieden, daß viele geistreiche Männer gegenwärtig in dieser </tei:seg>
+        <tei:pb n="884"/>
+        <tei:seg> Lage sind, rein durch sich selbst zu existiren und die Musen zum Brodbacken abzurichten; allein aus dieser schmerzlichen Thatsache soll hergeleitet werden, daß sich ein eigner </tei:seg>
+        <tei:hi style="letter-sparse">Schriftstellerstand</tei:hi>
+        <tei:seg> bilde? Daß die Belletristik Lebensberuf werden könne? Sie kann es werden, aber wahrlich nicht durch ein Gesetz der Nothwendigkeit, das in unsern Sitten begründet wäre. Wird sie es, so sind öffentliche Dinge, Lauheit des Publikums, Mittelmäßigkeit des Talents, Sprödigkeit und Verwilderung des Staats daran Schuld; Ursachen, die doch wahrlich eine Abhülfe finden sollten!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Um meine Meinung zu sagen, muß ich gestehen, daß auch mich Herrn Hitzigs Aufsatz schmerzlich berührt hat. Es liegt eine Demüthigung darin, hören zu müssen, daß die Musen so wenig Credit haben. Es ist eine Demüthigung, daß die Regierungsräthe, die Majore, die Capitalisten und Aktieninhaber erfahren, die Literatur lebe nothdürftig von der Feder in den Mund. Jeder von seinem Miethherrn vor die Thür gesetzte zahlungsunfähige Journalist ist ein Unglück für die Literatur; denn der Philister unterscheidet die Talente nicht; hat er eine Tochter, er wird sie nur dem Dichter geben, der ein Amt hat. Fürstliche Pensionen giebt es für die Talente nicht mehr. Die Regierungen beobachten zwischen dem Publikum und dem Schriftsteller eine bewaffnete Neutralität. Schiller, Klopstock, Lessing entblödeten sich nicht, an alle Potentaten Deutschlands zu schreiben und um eine Anstellung, einen Jahrgehalt zu bitten. Sie bekamen ihre Pensionen nicht freiwillig; nein, sie lagen allen Ministern, allen Geheimderäthen, selbst Günstlingen und Frauen mit ihren Bitten an und ermüdeten nicht, zu denken und zu sagen: </tei:seg>
+        <tei:foreign>Quaerenda pecunia primum est!</tei:foreign>
+        <tei:seg> Wer würde von unsern jetzigen Schriftstellern in diesen Eingaben nicht eine jammervolle Demüthigung sehen? Wer würde nicht, erführe man seine Petitionen, mit der Pension seine Stellung in der Literatur verlieren? In dem entsetzlichen Grade ist alles Partei geworden. Es ist wahr, der literarische Erwerb ist jetzt ergiebiger, als vor dreißig Jahren oder länger; aber in demselben Maaße sind auch die Anforderungen an den Anstand einer bürgerlichen Existenz </tei:seg>
+        <tei:pb n="885"/>
+        <tei:seg> gestiegen; der Luxus hat alle Budgets gesteigert. Wenn die Schriftsteller heutiges Tages mit Beamten und Kaufleuten conkurriren wollen, dann müssen sie gewiß mehr Aufwand machen als Gleim, der reiche Canonikus, machte.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Mit vieler Phantasie hat man in unsern Tagen den zeitgenössischen Dichtern die schönsten Häuser geschenkt, die herrlichsten Tapeten, den wohnlichsten Comfort, und viele Pferde hat die Phantasie und der Schriftstellerstolz vor Wägen gespannt, die die Autoren selten besitzen. Warum raubt uns nun Herr Hitzig diese einzige erdichtete Entschädigung, die wir für die Unbilden der Kritik und die Beschlagnahmen unsrer Bücher haben? Warum läßt er uns, da man uns mit Anstellungen nicht bedenkt, nicht wenigstens den Schein, daß wir ihrer nicht bedürfen? In dem Elend, welches Herr Hitzig bei den Schriftstellern unsrer Tage erblickt, liegt eine große Kränkung, die er der Literatur zugefügt hat.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Herr Hitzig würde aber auch besser gethan haben, die Ursachen des Verfalls der Belletristik in andern Umständen zu finden, als in der mangelnden Gründlichkeit der Neuern und den schlechten Geschäften, die die Literatur überhaupt jetzt mache. Die Mißstände, die er rügen konnte, schreiben sich weit mehr von den Verhältnissen, als von den Personen her und es wäre des Warners würdig gewesen, sie mehr in der Mangelhaftigkeit jener als in der Unzulänglichkeit dieser aufzusuchen. Die Talente der Jetzigen würd’ ich gar nicht so entschieden in Abrede gestellt haben, wie Herr Hitzig, von der vergangenen Literaturepoche eingenommen, thut; nur die schwierigen Umstände, unter welchen sich gegenwärtig die Literatur entwickelt, verdienen allein die heftigere Anklage. Wir wollen Einiges von dem nachholen, was Herr Hitzig anzugeben versäumt hat.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Zunächst trägt die Verfassung des Deutschen Buchhandels an der allzuschnellen Wahl des literarischen Lebensberufes mehr Schuld, als alle unterlassene Selbstprüfung und alles Überschätzen seiner eigenen Kraft. Der Buchhandel kommt in Deutschland jedem, der literarisch wirken will, viel zu leicht entgegen. Es ist dies ein Glück für das Genie, das durch buchhändlerische </tei:seg>
+        <tei:pb n="886"/>
+        <tei:seg> Hindernisse nicht zurückgeschreckt wird; aber ein Unglück für den Stümper, der schon längst einen Namen in den Leihbibliotheken sich erworben haben kann, noch ehe sein Mangel an der ächten Weihe von der Kritik erkannt ist. In England und Frankreich ist nichts schwerer als das erste literarische Debüt. Selten wagt ein Buchhändler, das Erzeugniß eines Anfängers in Kauf zu nehmen, nicht einmal Druck und Papier würde sich ein Londoner Buchhändler erboten haben, zu Lord Byrons ersten Gedichten vorzuschießen. In Deutschland dagegen glaubt jeder Verleger, ermuthigt durch die nur uns eigenthümliche Methode des Novaversendens, es mit einer ihm angebotenen Novelle wagen zu dürfen; er rechnet auf so und soviel Leihbibliotheken, auf die Unfähigkeit vieler ihrer Vorsteher, das Mittelmäßige, Schlechte und Gute zu unterscheiden, besonders aber auf den Mangel jeder imponirenden und das Schicksal der Bücher entscheidenden Kritik. Nach einem Jahr kann von dem Verlagsartikel erst ein Resultat abgesehen werden. Die Frist ist lang. Die Ungeduld des Anfängers weiß schon einen zweiten Artikel flott zu machen. Kritiken des ersten, von guten Freunden verfaßt, dem Verleger vorgelegt, ermuntern diesen, das Wagniß noch einmal zu versuchen. Gewöhnlich geschieht es hier wie in dem Liede; der Herr, der schickt den Jäckel aus, der Jäckel, der kömmt nicht zu Haus; nun schickt der Herr den Prügel aus u.s.w. Es ergiebt sich nie ein Resultat; Gewinn und Verlust halten sich das Gleichgewicht; der Absatz ist zu groß, um aufzuhören und zu klein, um fortzufahren. Während dieser Experimente hat sich der junge Debütant festgesetzt, hat einige Cameraderien geschlossen, hat seinem Referendariat als einer allzustörenden Berufspflicht Ade gesagt und ist Literat geworden, Belletrist, Mitglied jener großen Schriftstellerkette, die nach den Gegnern des Herrn Hitzig einen eignen Stand bildet, einen Staat im Staate.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Der Deutsche Buchhandel befindet sich gegenwärtig in Schwankungen, die schon verschiedene Versuche, diesen Erwerbszweig zu reformiren, hervorgerufen haben. Ich kann mich noch immer nicht ganz von der Idee lossagen, daß das Hauptübel in den Novaversendungen liegt. Die Buchhändler sind zum </tei:seg>
+        <tei:pb n="887"/>
+        <tei:seg> größten Theile dagegen aufgestanden und haben wenigstens darin Recht gehabt, daß sich ein einmal eingerissener Übelstand nicht ohne Lebensgefahr für sie tilgen läßt. Die Belletristik anlangend bleib’ ich noch bei meiner frühern Behauptung, (Siehe </tei:seg>
+        <tei:hi style="letter-sparse">Telegraph </tei:hi>
+        <tei:seg>von 1837) daß sie beim Einstellen der Novaversendungen, ist sie gut, nur gewinnen, ist sie schlecht, ganz unmöglich werden wird. Freilich werden geniale Anfänger es schwer haben, wenn ihre Versuche von den eingesandten Bestellungszetteln abhängig gemacht werden sollen; indessen hier könnten die Journale, die Vorreden und Einführungen bereits beachteter Namen als Piloten auftreten. Versendet der Buchhändler belletristischen Verlag nur auf Bestellung, so wird der gute bessere Geschäfte machen (indem er ein größres Terrain gewönne) und der schlechte gar nicht vorhanden seyn.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Der Buchhandel tappt und tastet in der Irre, weil wir keine wie Leuchtthürme dastehende Journale haben. Die Deutschen Journale in ihrer gegenwärtigen Verfassung sind ein zweites Beförderungsmittel der schlechten Belletristik oder, um mit Herrn Hitzig zu reden, der Brodlosigkeit. In jedem Winkel Deutschlands giebt es belletristische Journale; in jedem Winkel kann der Gymnasiast, der Ladendiener anfangen, seine novellistischen, humoristischen, kritischen Studien zu machen. Da ist nirgends eine Gefahr, zurückgewiesen zu werden; da ist das Schlechteste und Trivialste immer noch so gut und geistreich, wie das, was der Redakteur und seine ältern Mitarbeiter selber schreiben. Aber nicht blos diese Wochen- und Winkelblätter der Provinz stehen aller Welt offen, sondern sogar die bessern Deutschen Blätter, die man gewöhnlich in unsern Lesezirkeln findet. Fast alle befinden sich in einer Finanzverfassung, die ihnen jede Erleichterung ihres Budgets, jeden unentgeldlich angebotenen Aufsatz willkommen macht. Alle Welt kann ihnen Mittheilungen schikken, sie drucken, was nur irgend Hand und Fuß hat. Ich gestehe, daß mehre alte Jahrgänge Berliner Journale Novellen abgedruckt haben, die ich ihnen als Sekundaner schickte und noch stehen in den Verzeichnissen ihrer Mitarbeiter die Pseudonamen, die ich mir damals gegeben hatte. Ich wüßte nur wenig Deutsche Journale an-</tei:seg>
+        <tei:pb n="888"/>
+        <tei:seg>zugeben, die eine gewisse aristokratische Haltung zu behaupten verstünden und selbst diese entscheiden nichts, regieren nichts, imponiren Niemanden. Besäßen wir in Deutschland </tei:seg>
+        <tei:hi style="letter-sparse">Revüen</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Magazine</tei:hi>
+        <tei:seg>, die einige tausend Abnehmer hätten und mehr administrirt als redigirt würden, so würde das übrige kleine Geblätter und Gewucher nicht emporkommen und es möglich machen, daß die an dem kümmerlichen Abhub Betheiligten irgendwie in Anschlag gebracht würden. Am Morgenblatte in Stuttgart findet ein Gymnasiast nicht so leichten Zugang, wie am Freimüthigen in Berlin. Etwas, was die elegante Zeitung zurückweist, wird immer noch von andern Blättern in Leipzig aufgenommen werden. Die schlechten Journale sind an der leichten Wahl der Belletristik als Lebensberuf Schuld, und es kömmt eher darauf an, diese zu bessern, als jungen Unsterblichkeitskandidaten, die doch keine Vernunft annehmen, in’s Gewissen zu reden. Wie aber den Journalen zu helfen ist – darüber würde Herr Hitzig gut thun, uns einige Winke zu geben.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="891"/>
+        <tei:seg> Eine dritte Verführung zur Belletristerei liegt in dem Mangel aller imponirenden Kritik. Kein einziges Institut ist in Deutschland vorhanden, das, selbst wenn es gediegene Urtheile brächte, dafür Echo genug besäße. Die Kritik müßte, um wirksam zu werden, aus den belletristischen Blättern ganz in die politischen übergehen. Die Allgemeine Zeitung, die Preuß. Staatszeitung, der Hamburger Correspondent müßten sich kritische Beilagen schaffen, die, von geistreicher Hand verwaltet, bald die schwebende Wetzlar’sche Prozeßverwirrung in Sachen des Urtheils über diesen oder jenen Namen entscheiden würde. In den meisten Deutschen Unterhaltungs-Journalen ist die Kritik entweder Lückenbüßer oder erkaufte Partheisache. Ein wahres Urtheil, in Leipzig gefällt, wird in Stuttgart wieder aufgehoben. Die Literaturzeitungen sind dem Publikum fremd; das Menzel’sche Literaturblatt hat keine moralische Geltung mehr. Selbst die geistreichen und scharfsinnigen Kritiker urtheilen zum Besten ihrer Sache und können oft das Wahre sagen, müssen aber dulden, daß der Getroffene sich tröstet: Ich gehöre nicht zu ihrer Parthei! So existiren denn viele Schriftsteller mit einem Namen und Titel, der niemals recht geprüft wurde. Sie können erst in dem Augenblick eine Kritik erfahren, die über sie das Todesurtheil spricht, wo sie schon zehn Jahre unter dem Troß mitschlenderten und hundertmal die Gelegenheit versäumten, eine nützlichere </tei:seg>
+        <tei:pb n="892"/>
+        <tei:seg> Beschäftigung zu wählen, wenn auch nicht gerade die, Holz zu hacken, wie, glaub’ ich, Herr Hitzig will.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Außer diesen rein literarischen Begünstigungen und Aufreizungen zur Belletristerei giebt es noch andere, die in unsrer politischen und gesellschaftlichen Verfassung liegen. Herr Hitzig hat z. B. seine Epistel an einen jungen Berliner Kritiker und Belletristen gerichtet, </tei:seg>
+        <tei:hi style="letter-sparse">A. Rebenstein</tei:hi>
+        <tei:seg>. Herr Rebenstein ist </tei:seg>
+        <tei:hi style="letter-sparse">Israelit</tei:hi>
+        <tei:seg>. Hier war gleich ein Feld zu ganz andern Schlußfolgerungen als zu denen, die Herr Hitzig machte, gegeben. Woher kömmt es, daß gut und gern </tei:seg>
+        <tei:hi style="letter-sparse">ein Drittel </tei:hi>
+        <tei:seg>unsers heutigen Journal- und Unterhaltungswesens in den Händen der Juden liegt? Daher, daß sie der Staat nicht emancipirt, daß dem gebildeten studirten Juden die Übernahme öffentlicher Ämter unmöglich gemacht wird. Seitdem sich die Reichthümer der Juden in so hohem Grade vermehrt haben und die Emanzipationsfrage bei ihnen rege wurde, warfen sich ihre Söhne mit Feuereifer und oft bewundernswerthem Talente in die wissenschaftliche Laufbahn. Die Bildung und der Geist der Juden wollen einen Abzugskanal haben, den ihnen der Staat nicht bietet. So muß es die Literatur werden. Die Literatur konnte nicht einsprechen, die Literatur nimmt jeden Eindruck hin, den ihr Geist, Witz, Phantasie geben. So ist jetzt das Schriftwesen vom jüdischen unterwühlt. Die Hälfte der Deutschen Zeitungen wird von Juden, getauften und ungetauften, redigirt. Alles, was im Judenthum Geist hat, (ich spreche von dem jüdischen Schachergesindel nicht einmal, das allerdings besser thäte, statt mit Geschriebenem, mit Band zu handeln!) wirft sich auf die Literatur und beutet alles aus, was zu verdienen in ihr möglich ist. Hier sind doch wahrlich nicht die mangelhaften Schul- und Universitätszeugnisse, sondern lediglich die Gesetze des Staates Schuld; und ich wüßte nicht, ob die Staatsmänner besser thäten, diejenigen im Judenthum, welche die gesetzlichen Prüfungen überstanden haben, in der Staatscarrière den Christen gleichzustellen, als ferner diese Unterwühlung der Literatur durch ein gereiztes, höchst einseitiges und bekanntlich mehr zersetzend als bindend wirkendes Nationalinteresse dulden zu müssen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="893"/>
+        <tei:seg> Ob man nicht noch weiter greifen könnte, um den Staat zum Mitschuldigen an der schlechten Literatur zu machen? Wer zwingt die Schriftsteller, auf den Gedanken zu kommen, daß sie einen eignen Stand zu bilden hätten? Wer versieht es darin, die Literatur als eine organische Blüthe der gegebenen Zustände zu betrachten und ihren Saamen immer wieder in den Boden der Gesellschaft niederzulegen? Wer stellt den Irrthümern und Überschreitungen in der Literatur nichts, als die polizeiliche Maßregel entgegen und trennt das Leben des Geistes und der Institutionen mit einer schroffen, unübersteiglichen Scheidewand? Wo sieht man Fürsten, die den Dichter ehren; wo Staatsmänner, die, statt vor dem Geist der Literatur zu erschrecken, ihn liebend pflegen, ihn zu mildern und zu versöhnen suchen? Wenn ein Kandidat oder Exspektant seine bürgerlichen Hoffnungen mit dem Beruf der Belletristerei vertauscht, so geschieht es nicht selten, weil er wohl weiß, daß seine Vorgesetzten die Maxime haben: „wir mögen Leute nicht, die da schreiben!“ Es ist hier wie in so vielem, daß der Geist, in dem gewirkt werden soll, nur von Oben ausgehen kann; geht aber von Oben nur der Fanatismus gegen die Presse durch die Staatsmänner, und durch die Fürsten nur die Gleichgültigkeit für sie aus, so muß allerdings das literarische Leben nach einem eignen Centrum suchen und dies in dem verführerischen Satze finden, unsre Zeit hätte einen neuen Stand geschaffen, den Schriftstellerstand. Es giebt aber einen solchen nicht. Die Schriftsteller sind auf die Anerkennung und die Belohnung des Volkes verwiesen und es wäre ein mechanisch dürrer Staat und ein knöcherner Begriff von Herrschaft und Souverainität, der sich dem Schriftsteller nicht verpflichtet fühlte. Die Intelligenz ist die Atmosphäre, in der wir leben; und die Literatur ist der Thau, den sie sanft und erquickend auf die Pflanzen der sichtbaren gesellschaftlichen Ordnung niederträufelt. Findet man dies Bild bei unsrer meist schlechten Literatur lächerlich; so kann die Atmosphäre der Intelligenz sich wohl auch in heftigen Strömen und langweiligen Strichregen ergießen, woran denn aber wohl nur die von der Erde aufsteigenden Dünste Schuld sind, die einen </tei:seg>
+        <tei:pb n="894"/>
+        <tei:seg> so gewaltsamen Niederschlag nöthig machen. Hört die Urtheile der Staatsmänner und Fürsten über die Literatur und Ihr werdet es Euch erklären können, wie die Schriftsteller darauf kommen, einen eignen Stand bilden zu wollen, eine motivirte Absicht, die mehr Schuld an dem Hitzig’schen Schreckbild trägt, als die mangelhaften Gymnasialstudien unserer Tage und die Conditoreien.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Hier ist ein Feld für die Freimüthigkeit und den Organisationsgeist des Herrn Hitzig gegeben; seine sonstigen, nur an das Symptom sich haltenden Warnungen und guten Lehren, fürcht’ ich, werden </tei:seg>
+        <tei:hi style="letter-sparse">ohne</tei:hi>
+        <tei:seg> jene </tei:seg>
+        <tei:hi style="letter-sparse">thatsächliche</tei:hi>
+        <tei:seg> Begründung und Rückkehr auf den eigentlichen Sitz des Übels, sich bald doch nur wie leere und unverdiente Kränkungen anhören.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>K.[arl] G.[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow veröffentlichte den Text in leicht veränderter und gekürzter Form nochmals:</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>Hitzig über die Existenz der Schriftsteller. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 21-36. (Rasch 2.23.2.1.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:metamark function="missing">[Aufzufüllen].</tei:metamark>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

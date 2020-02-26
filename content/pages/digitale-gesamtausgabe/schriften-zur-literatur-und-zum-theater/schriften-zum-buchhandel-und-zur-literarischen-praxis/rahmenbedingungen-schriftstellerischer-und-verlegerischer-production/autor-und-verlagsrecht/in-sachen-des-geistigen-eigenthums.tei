@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,72 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen und auslaendischen Textes nach pdf</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="1"/>
+        <tei:seg> In Sachen des geistigen Eigenthums.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Sollte Hr. </tei:seg>
+        <tei:foreign>
+          <tei:hi style="letter-sparse">Dr.</tei:hi>
+        </tei:foreign>
+        <tei:hi style="letter-sparse"> Braun</tei:hi>
+        <tei:seg> nicht besser thun, die Hühnchen, die er mit den deutschen Buchhändlern zu pflücken hat, beim nächsten Schriftstellervereinstage oder zu Ostern auf der Leipziger Messe den Herren Buchhändlern selbst vorzulegen? Im Reichstage können seine Irrthümer, je glänzender sie vorgetragen werden, die Gesetzgeber bei Lösung einer wichtigen Frage nur verwirren. Die Regierung hat die lobenswerthe Absicht, die Errungenschaften einer geläuterten Auffassung vom geistigen Eigenthumsrecht und namentlich die schon in Preußen und Sachsen giltigen Schutzfristen übertragen zu sehen auf das ganze Gebiet des norddeutschen Bundes. Geschieht dies auch leider in einer Gesetzesfassung, die in Bezug auf die </tei:seg>
+        <tei:hi style="letter-sparse">Form</tei:hi>
+        <tei:seg>. Manches zu wünschen übrig läßt und entbehrt namentlich die Vorlage fast zu sehr der redactionellen Hand eines Juristen, die verstanden hätte, das Wesentliche vom Unwesentlichen zu trennen, Wiederholungen zu vermeiden und alles Besondere aus allgemeineren Gesichtspunkten herzuleiten, so ist doch der </tei:seg>
+        <tei:hi style="letter-sparse">Geist</tei:hi>
+        <tei:seg> der Vorlage ein durchaus schätzenswerther. Eine Frist von 30 Jahren nach dem Tode eines Autors, die sein Eigenthum für ihn und seine Angehörigen schützt, kann die sonderbarer Weise erhobenen „berechtigten Ansprüche des Publikums“ kaum beeinträchtigen, es sei denn, daß die Herren Braun und v. Hennig die Absicht haben, den </tei:seg>
+        <tei:hi style="letter-sparse">Staat</tei:hi>
+        <tei:seg> zu bestimmen, schon vor dem Ablauf jener 30 Jahre den Hinterlassenen eines Schriftstellers die Eigenthumsrechte abzukaufen und auf diese Art dem Volke „Bildungsquellen“ zuzuführen, d. h. gewisse Schriften dem Publikum um ein Spottgeld zugänglich zu machen. Wir glauben aber kaum, daß vor dem Anbruch des goldenen Zeitalters Schweitzer-Lassalle der Staat sich solche Opfer aufbürden wird. Ein Schriftsteller und dessen Erben, oder die legitimirten Verleger sorgen wahrlich schon von selbst dafür, daß die Schriften, die nur einige Zugkraft haben, immer wohlfeiler und wohlfeiler werden. Nur ein Verleger, der Jahrelang von einem Autor die rechtmäßige Eigenthumsübertragung besaß, wird geneigt sein, wie z. B. jetzt Cotta gethan, den ganzen Schiller um Einen Thaler zu verkaufen, d. h. kaum daran den Druck, das Papier und den Einband zu verdienen! Machen die Autoren oder deren Erben mit den Buchhändlern unüberlegte Contracte, sichern sie sich nicht gewisse Termine des zurückfallenden Eigenthums, so trifft die Schuld die Ersteren und dem Reichstag darf dafür jedes nähere Interesse fehlen. Der Gesetzgeber hat in diese Frage seine Einsicht und sein Wohlwollen nur dadurch zu bekunden, daß er ein von jeder Deutelei, von jedem Abzwacken freies, großherzig gewährtes und einer „Denkernation“ würdiges geistiges Eigenthumsrecht aufstellt mit der Schutzfrist von 30 Jahren nach dem Tode, wenn Hinterlassene vorhanden sind, einer geringeren und kürzeren, wenn nachweisbar, wie z. B. bei Alexander von Humboldt, Niemand vorhanden ist, der auf Honorarbezüge Anspruch macht. Aber auch da wäre wohl vorzusehen, daß ein Autor, der voraussichtlich bald der Natur seinen Tribut zu bezahlen hat, keine Verleger mehr finden würde, wenn diesen der Tod seines Pfleglings um alle Aussicht brächte, in einer allzu bemessenen, allzu kurzen Frist wieder zu seinen Auslagen zu kommen! Den Schutz a dato der ersten Veröffentlichung wolle man doch ganz verwerfen. In Dingen, die wir besser haben, sollten wir uns nicht zu Affen der Engländer machen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Karl] Gutzkow: In Sachen des geistigen Eigenthums. In: Königlich privilegirte Berlinische Zeitung von Staats- und gelehrten Sachen. Vossische Zeitung. Berlin. Nr. 50, 1. März 1870, 2. Beilage, S. 1. (Rasch 3.70.03.01)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
