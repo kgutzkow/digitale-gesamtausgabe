@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="881"/>
         <tei:seg> Hitzig über die Existenz der Schriftsteller.</tei:seg>
       </tei:head>
@@ -55,10 +55,9 @@
         <tei:seg>Es macht einen schmerzlichen Eindruck, in den jüngsten Nummern des Berliner Gesellschafters einen ehrwürdigen Veteranen literarischer Erinnerungen, den Herrn Criminaldirektor Hitzig, im abwehrenden Kampfe zu erblicken gegen die in unserem Blatte schon mehrmals signalisirte Rotte junger Berliner Kritiker, die ihm einen wohlgemeinten guten Rath mit Steinwürfen und Schimpfreden vergilt. In keiner Stadt werden soviel öffentliche Denkmäler beschädigt, wie in Berlin. In keiner Stadt wird an den Häusern soviel gebeten, gedroht und gewarnt, man möchte sie nicht beschmutzen. Nirgends hat sich auch der Straßengeist, der gerade in Berlin das Höchste an Charakterlosigkeit und feiger Tücke leistet, so sehr dem literarischen Getriebe mitgetheilt, als dort. Mit Hohn und Spott pfeifen die Jungen hinter dem ehrwürdigen Manne her, für dessen halberblindeten Augenstern und rüstiges nach allen Seiten hingewandt gewesenes Verdienst diese rein durch Bücher und Straßenleben gebildeten Menschen kein Gefühl haben. Es liegt grade im Berliner Straßengeist eine gemüthlose Pöbelhaftigkeit und eine dumpfe Abwesenheit alles Gewissens, die durch die Frechheit, mit welcher man jüngst die ehrlichen Warnungen Hitzigs aufnahm, nur auf’s Neue bestätigt wird.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Besäße das junge Berlin von der Deutschen Literatur irgend eine moralische Vorstellung, hätte es Erfahrung und Takt genug, das Leben der Literatur als ein Ganzes zu überblicken und Erscheinungen, die ihnen günstig sind, vom Zufälligen schnell zu unterscheiden, so würde es die Warnung Hitzigs,</tei:seg>
-        <tei:hi style="letter-sparse"> die Belle-</tei:hi>
-        <tei:hi style="letter-sparse"/>
-        <tei:seg> </tei:seg>
+        <tei:seg>Besäße das junge Berlin von der Deutschen Literatur irgend eine moralische Vorstellung, hätte es Erfahrung und Takt genug, das Leben der Literatur als ein Ganzes zu überblicken und Erscheinungen, die ihnen günstig sind, vom Zufälligen schnell zu unterscheiden, so würde es die Warnung Hitzigs, </tei:seg>
+        <tei:hi style="letter-sparse">die Belle-</tei:hi>
+        <tei:pb n="882"/>
         <tei:hi style="letter-sparse">tristerei als Lebensberuf zu wählen</tei:hi>
         <tei:seg>, von einer ganz andern Seite, als bisher geschehen ist, betrachtet haben. Es würde zunächst einem öffentlichen, in der Gesellschaft nicht tief gestellten Charakter haben danken müssen, daß er sich mit dieser überraschenden Theilnahme um die kleinen Spektakel der laufenden Literatur bekümmert und seinem allerdings demüthigenden Zurufe nicht die Folie einer vornehmen Verachtung der jüngern Interessen giebt. Ich wenigstens hielt diese Theilnahme für äußerst werthvoll; denn ich gedachte jener diplomatischen Mäcenaten der jungen Literatur, welche auf dem Lotterbette der Quiescenz von dem Nachwuchs sich die Cour machen lassen, ordentlich Parthei nehmen, Einen gegen den Andern aufhetzen, kleine Notizen auf goldrandigen Blättchen in die frechsten Journale schicken, Namen hinstellen, die man loben, Andre, die man angreifen solle, und dabei nichts verlangen, als leise flüsternd: </tei:seg>
         <tei:hi style="letter-sparse">Diskretion! Diskretion!</tei:hi>
@@ -68,7 +67,7 @@
         <tei:hi style="letter-sparse">literarischen</tei:hi>
         <tei:seg> Gesichtspunkt einer rein polizeilich gefaßten Frage wohl öffentlich feststellen können und Männern, denen sie ja heimlich die ganze Zukunft der Literatur in den Schooß schütten, diese auch öffentlich vindiziren können in Augenblicken, wo von den jungen Männern schlechter-</tei:seg>
         <tei:pb n="883"/>
-        <tei:seg> dings nur das Verwerfliche für erwiesen galt. Hätte die junge Literatur nicht soviel offne Feinde gehabt, ihre geheimen Freunde würden sie nicht gerettet haben.</tei:seg>
+        <tei:seg>dings nur das Verwerfliche für erwiesen galt. Hätte die junge Literatur nicht soviel offne Feinde gehabt, ihre geheimen Freunde würden sie nicht gerettet haben.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Das Erfreuliche an Herrn Hitzigs Aufsatze ist das </tei:seg>
@@ -104,8 +103,8 @@
         <tei:seg>Der Deutsche Buchhandel befindet sich gegenwärtig in Schwankungen, die schon verschiedene Versuche, diesen Erwerbszweig zu reformiren, hervorgerufen haben. Ich kann mich noch immer nicht ganz von der Idee lossagen, daß das Hauptübel in den Novaversendungen liegt. Die Buchhändler sind zum </tei:seg>
         <tei:pb n="887"/>
         <tei:seg> größten Theile dagegen aufgestanden und haben wenigstens darin Recht gehabt, daß sich ein einmal eingerissener Übelstand nicht ohne Lebensgefahr für sie tilgen läßt. Die Belletristik anlangend bleib’ ich noch bei meiner frühern Behauptung, (Siehe </tei:seg>
-        <tei:hi style="letter-sparse">Telegraph</tei:hi>
-        <tei:seg> von 1837) daß sie beim Einstellen der Novaversendungen, ist sie gut, nur gewinnen, ist sie schlecht, ganz unmöglich werden wird. Freilich werden geniale Anfänger es schwer haben, wenn ihre Versuche von den eingesandten Bestellungszetteln abhängig gemacht werden sollen; indessen hier könnten die Journale, die Vorreden und Einführungen bereits beachteter Namen als Piloten auftreten. Versendet der Buchhändler belletristischen Verlag nur auf Bestellung, so wird der gute bessere Geschäfte machen (indem er ein größres Terrain gewönne) und der schlechte gar nicht vorhanden seyn.</tei:seg>
+        <tei:hi style="letter-sparse">Telegraph </tei:hi>
+        <tei:seg>von 1837) daß sie beim Einstellen der Novaversendungen, ist sie gut, nur gewinnen, ist sie schlecht, ganz unmöglich werden wird. Freilich werden geniale Anfänger es schwer haben, wenn ihre Versuche von den eingesandten Bestellungszetteln abhängig gemacht werden sollen; indessen hier könnten die Journale, die Vorreden und Einführungen bereits beachteter Namen als Piloten auftreten. Versendet der Buchhändler belletristischen Verlag nur auf Bestellung, so wird der gute bessere Geschäfte machen (indem er ein größres Terrain gewönne) und der schlechte gar nicht vorhanden seyn.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Der Buchhandel tappt und tastet in der Irre, weil wir keine wie Leuchtthürme dastehende Journale haben. Die Deutschen Journale in ihrer gegenwärtigen Verfassung sind ein zweites Beförderungsmittel der schlechten Belletristik oder, um mit Herrn Hitzig zu reden, der Brodlosigkeit. In jedem Winkel Deutschlands giebt es belletristische Journale; in jedem Winkel kann der Gymnasiast, der Ladendiener anfangen, seine novellistischen, humoristischen, kritischen Studien zu machen. Da ist nirgends eine Gefahr, zurückgewiesen zu werden; da ist das Schlechteste und Trivialste immer noch so gut und geistreich, wie das, was der Redakteur und seine ältern Mitarbeiter selber schreiben. Aber nicht blos diese Wochen- und Winkelblätter der Provinz stehen aller Welt offen, sondern sogar die bessern Deutschen Blätter, die man gewöhnlich in unsern Lesezirkeln findet. Fast alle befinden sich in einer Finanzverfassung, die ihnen jede Erleichterung ihres Budgets, jeden unentgeldlich angebotenen Aufsatz willkommen macht. Alle Welt kann ihnen Mittheilungen schikken, sie drucken, was nur irgend Hand und Fuß hat. Ich gestehe, daß mehre alte Jahrgänge Berliner Journale Novellen abgedruckt haben, die ich ihnen als Sekundaner schickte und noch stehen in den Verzeichnissen ihrer Mitarbeiter die Pseudonamen, die ich mir damals gegeben hatte. Ich wüßte nur wenig Deutsche Journale an-</tei:seg>
@@ -128,8 +127,8 @@
         <tei:seg>. Herr Rebenstein ist </tei:seg>
         <tei:hi style="letter-sparse">Israelit</tei:hi>
         <tei:seg>. Hier war gleich ein Feld zu ganz andern Schlußfolgerungen als zu denen, die Herr Hitzig machte, gegeben. Woher kömmt es, daß gut und gern </tei:seg>
-        <tei:hi style="letter-sparse">ein Drittel</tei:hi>
-        <tei:seg> unsers heutigen Journal- und Unterhaltungswesens in den Händen der Juden liegt? Daher, daß sie der Staat nicht emancipirt, daß dem gebildeten studirten Juden die Übernahme öffentlicher Ämter unmöglich gemacht wird. Seitdem sich die Reichthümer der Juden in so hohem Grade vermehrt haben und die Emanzipationsfrage bei ihnen rege wurde, warfen sich ihre Söhne mit Feuereifer und oft bewundernswerthem Talente in die wissenschaftliche Laufbahn. Die Bildung und der Geist der Juden wollen einen Abzugskanal haben, den ihnen der Staat nicht bietet. So muß es die Literatur werden. Die Literatur konnte nicht einsprechen, die Literatur nimmt jeden Eindruck hin, den ihr Geist, Witz, Phantasie geben. So ist jetzt das Schriftwesen vom jüdischen unterwühlt. Die Hälfte der Deutschen Zeitungen wird von Juden, getauften und ungetauften, redigirt. Alles, was im Judenthum Geist hat, (ich spreche von dem jüdischen Schachergesindel nicht einmal, das allerdings besser thäte, statt mit Geschriebenem, mit Band zu handeln!) wirft sich auf die Literatur und beutet alles aus, was zu verdienen in ihr möglich ist. Hier sind doch wahrlich nicht die mangelhaften Schul- und Universitätszeugnisse, sondern lediglich die Gesetze des Staates Schuld; und ich wüßte nicht, ob die Staatsmänner besser thäten, diejenigen im Judenthum, welche die gesetzlichen Prüfungen überstanden haben, in der Staatscarrière den Christen gleichzustellen, als ferner diese Unterwühlung der Literatur durch ein gereiztes, höchst einseitiges und bekanntlich mehr zersetzend als bindend wirkendes Nationalinteresse dulden zu müssen.</tei:seg>
+        <tei:hi style="letter-sparse">ein Drittel </tei:hi>
+        <tei:seg>unsers heutigen Journal- und Unterhaltungswesens in den Händen der Juden liegt? Daher, daß sie der Staat nicht emancipirt, daß dem gebildeten studirten Juden die Übernahme öffentlicher Ämter unmöglich gemacht wird. Seitdem sich die Reichthümer der Juden in so hohem Grade vermehrt haben und die Emanzipationsfrage bei ihnen rege wurde, warfen sich ihre Söhne mit Feuereifer und oft bewundernswerthem Talente in die wissenschaftliche Laufbahn. Die Bildung und der Geist der Juden wollen einen Abzugskanal haben, den ihnen der Staat nicht bietet. So muß es die Literatur werden. Die Literatur konnte nicht einsprechen, die Literatur nimmt jeden Eindruck hin, den ihr Geist, Witz, Phantasie geben. So ist jetzt das Schriftwesen vom jüdischen unterwühlt. Die Hälfte der Deutschen Zeitungen wird von Juden, getauften und ungetauften, redigirt. Alles, was im Judenthum Geist hat, (ich spreche von dem jüdischen Schachergesindel nicht einmal, das allerdings besser thäte, statt mit Geschriebenem, mit Band zu handeln!) wirft sich auf die Literatur und beutet alles aus, was zu verdienen in ihr möglich ist. Hier sind doch wahrlich nicht die mangelhaften Schul- und Universitätszeugnisse, sondern lediglich die Gesetze des Staates Schuld; und ich wüßte nicht, ob die Staatsmänner besser thäten, diejenigen im Judenthum, welche die gesetzlichen Prüfungen überstanden haben, in der Staatscarrière den Christen gleichzustellen, als ferner diese Unterwühlung der Literatur durch ein gereiztes, höchst einseitiges und bekanntlich mehr zersetzend als bindend wirkendes Nationalinteresse dulden zu müssen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:pb n="893"/>
@@ -144,27 +143,24 @@
         <tei:hi style="letter-sparse">thatsächliche</tei:hi>
         <tei:seg> Begründung und Rückkehr auf den eigentlichen Sitz des Übels, sich bald doch nur wie leere und unverdiente Kränkungen anhören.</tei:seg>
       </tei:p>
-      <tei:p style="text-right">
-        <tei:seg>K. G.</tei:seg>
-      </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -180,10 +176,10 @@
           <tei:seg>Hitzig über die Existenz der Schriftsteller. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 21-36. (Rasch 2.23.2.1.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -192,13 +188,13 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:metamark function="missing">[Aufzufüllen].</tei:metamark>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
