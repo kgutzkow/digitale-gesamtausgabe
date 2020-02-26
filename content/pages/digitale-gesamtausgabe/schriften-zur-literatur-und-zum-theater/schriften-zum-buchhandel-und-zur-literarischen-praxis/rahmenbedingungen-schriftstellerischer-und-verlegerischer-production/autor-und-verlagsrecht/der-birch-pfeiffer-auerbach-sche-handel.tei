@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; Korrektur der Sperrungen nach pdf Datei </tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; Korrektur der Sperrungen nach pdf Datei </tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="458"/>
         <tei:seg> Der Birch-Pfeiffer-Auerbach’sche Handel.</tei:seg>
       </tei:head>
@@ -115,38 +115,35 @@
         <tei:hi style="letter-sparse">möglichen</tei:hi>
         <tei:seg> Procedur zu kommen: man spielt die Frage auf das Gebiet des Nachdrucks und will aus den gedruckten Büchern, welche die Bearbeiterin der Novelle an die Bühnen sandte, einen vielleicht unerlaubten Grad von Nachdruck eruiren; der Erfolg wird schwerlich ein günstiger seyn. Diese Wirkung aber sollte jene Frage haben daß wir bald in allen deutschen Gesetzgebungen folgende Bestimmung fänden: „Jedes im Druck vorhandene Dichtwerk kann für die Bühne benutzt werden. Der Verfasser dieser Benutzung hat sich jedoch vorher mit dem noch lebenden Autor oder dessen Erben abzufinden. Unterläßt er diese Abfindung, so fällt, auf gerichtliche Anzeige, die Hälfte der von jenem Stück erzielten Einnahme dem ursprünglichen Verfasser anheim.“ Hat jener Proceß diese Bestimmung zur Folge, so wollen wir Mad. Birch für die Bearbeitung der „Frau Professorin“ doppelten Dank wissen und uns eine Zeitlang die schwäbelnde Naivetät, auch eine vorübergehende Coketterie und Mode des Tages, auf der Bühne mit Freuden gefallen lassen. </tei:seg>
       </tei:p>
-      <tei:p style="text-right">
-        <tei:seg>K.G.</tei:seg>
-      </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>K[arl] G[utzkow]: Der Birch-Pfeiffer-Auerbach’sche Handel. In: Allgemeine Zeitung. Augsburg. Nr.29, 29. Januar 1848, S. 458–459. (Rasch 3.48.01.29)</tei:seg>
+          <tei:seg>K.[arl] G.[utzkow]: Der Birch-Pfeiffer-Auerbach’sche Handel. In: Allgemeine Zeitung. Augsburg. Nr.29, 29. Januar 1848, S. 458–459. (Rasch 3.48.01.29)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -155,7 +152,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
