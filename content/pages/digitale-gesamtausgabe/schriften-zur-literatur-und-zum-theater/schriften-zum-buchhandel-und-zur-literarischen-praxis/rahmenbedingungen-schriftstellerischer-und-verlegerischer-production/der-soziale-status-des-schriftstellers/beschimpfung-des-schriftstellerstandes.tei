@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,7 +42,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen nach pdf Datei</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen nach pdf Datei</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -59,9 +59,6 @@
         <tei:seg> und </tei:seg>
         <tei:hi style="letter-sparse">Laurian Moris</tei:hi>
         <tei:seg> wiedererzählen. Wie könnt Ihr nur die Waffen so gegen Euch selbst führen? Wie könnt Ihr nur dulden, daß man so gründlich die Gaunereien von Menschen erörtert, denen es einmal eingefallen ist, sich für ihr gestohlenes Geld einen Doctortitel zu kaufen oder auf ihre Kosten eine paar Gedichte drucken zu lassen? In Berlin sind Gedichte von einem Mörder erschienen, Lacenaire hat Verse gemacht und die Lafarge ihre Memoiren geschrieben. Soll es hier auf die Beschimpfung eines Standes abgesehen seyn, so fragt man billig, warum beutet Ihr in gleicher Weise nicht auch die Escroquerieen von Menschen aus, die, wie jene sich Literaten, sich nicht nur Adlige nennen, sondern sogar Adlige sind? Verdient denn der Priesterstand diese Eure heftigen Ausfälle, wenn es sich einmal findet, daß ein Priester wegen fleischlicher Vergehen aus seinem Stande gestoßen würde? Oder habt Ihr die Professoren so heftig verunglimpft, als neulich ein Gießner Exemplar zu fünfjähriger [375] Zuchthausstrafe verurtheilt wurde? Wenn sich so viele vornehme Leute zu freuen scheinen über den Makel, der den Literatennamen, den Namen eines deutschen Schriftstellers, in Mißkredit bringen soll, so möge man sich doch ja erinnern, daß die englischen Blätter vor einigen Jahren von hochgestellten Lords erzählten, die wegen Betrügereien von den Londoner Clubbs ausgeschlossen wurden. </tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>G.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
@@ -85,7 +82,7 @@
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>[Karl] G[utzkow]: Aus der Schriftstellerwelt. In: Telegraph für Deutschland. Hamburg. Nr. 94, [10.] Juni 1843, S. 374–375. (Rasch 3.43.06.10)</tei:seg>
+          <tei:seg>[Karl] G.[utzkow]: Aus der Schriftstellerwelt. In: Telegraph für Deutschland. Hamburg. Nr. 94, [10.] Juni 1843, S. 374–375. (Rasch 3.43.06.10)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2">
