@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,7 +42,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und Miniapp; Korrektur von Sperrungen und Fremdsprachentext nach pdf Datei</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und Miniapp; Korrektur von Sperrungen und Fremdsprachentext nach pdf Datei</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -72,9 +72,10 @@
       <tei:p style="no-indent text-left">
         <tei:seg>Fast alle diese (nur in elf Nummern) bestohlenen Journale haben Mühe, sich mit den Anforderungen der Zeit auf gleicher Höhe zu halten. Sie bezahlen theure Correspondenzen, sie bezahlen eben diese Artikel, welche ein im Sold der Frankfurter Oberpostbehörde stehender Nachdrucker schleunigst an sich rafft und seinen Lesern in einer Auflage von 1500 Exemplaren für einen spottwohlfeilen Preis überlässt. Die deutschen Buchhändler und Schriftsteller müssen sich es sauer werden lassen, damit die Frankfurter Postbehörde ein Journal hat, das ihr kein Geld kostet. Wir werden dieses Schmachregister deutscher Preßzustände von Zeit zu Zeit fortsetzen.</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="no-indent text-right">
         <tei:hi style="font-style-italic">Miscellen. Telegraph für Deutschland, [31.] Januar 1842.</tei:hi>
       </tei:p>
+      <tei:p style="text-left"/>
       <tei:p style="no-indent text-left">
         <tei:seg>* </tei:seg>
         <tei:hi style="letter-sparse">Nachdruck unter den Augen des Bundestages</tei:hi>
@@ -132,7 +133,7 @@
         <tei:hi style="letter-sparse">Schuster</tei:hi>
         <tei:seg> die Spitze zu bieten.</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="no-indent text-right">
         <tei:hi style="font-style-italic">Miscellen. Telegraph für Deutschland, [12.] Februar 1842.</tei:hi>
       </tei:p>
     </tei:body>
