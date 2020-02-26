@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen und auslaendischen Textes nach pdf</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen und auslaendischen Textes nach pdf</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="1"/>
         <tei:seg> In Sachen des geistigen Eigenthums.</tei:seg>
       </tei:head>
@@ -64,9 +64,6 @@
         <tei:seg> der Vorlage ein durchaus schätzenswerther. Eine Frist von 30 Jahren nach dem Tode eines Autors, die sein Eigenthum für ihn und seine Angehörigen schützt, kann die sonderbarer Weise erhobenen „berechtigten Ansprüche des Publikums“ kaum beeinträchtigen, es sei denn, daß die Herren Braun und v. Hennig die Absicht haben, den </tei:seg>
         <tei:hi style="letter-sparse">Staat</tei:hi>
         <tei:seg> zu bestimmen, schon vor dem Ablauf jener 30 Jahre den Hinterlassenen eines Schriftstellers die Eigenthumsrechte abzukaufen und auf diese Art dem Volke „Bildungsquellen“ zuzuführen, d. h. gewisse Schriften dem Publikum um ein Spottgeld zugänglich zu machen. Wir glauben aber kaum, daß vor dem Anbruch des goldenen Zeitalters Schweitzer-Lassalle der Staat sich solche Opfer aufbürden wird. Ein Schriftsteller und dessen Erben, oder die legitimirten Verleger sorgen wahrlich schon von selbst dafür, daß die Schriften, die nur einige Zugkraft haben, immer wohlfeiler und wohlfeiler werden. Nur ein Verleger, der Jahrelang von einem Autor die rechtmäßige Eigenthumsübertragung besaß, wird geneigt sein, wie z. B. jetzt Cotta gethan, den ganzen Schiller um Einen Thaler zu verkaufen, d. h. kaum daran den Druck, das Papier und den Einband zu verdienen! Machen die Autoren oder deren Erben mit den Buchhändlern unüberlegte Contracte, sichern sie sich nicht gewisse Termine des zurückfallenden Eigenthums, so trifft die Schuld die Ersteren und dem Reichstag darf dafür jedes nähere Interesse fehlen. Der Gesetzgeber hat in diese Frage seine Einsicht und sein Wohlwollen nur dadurch zu bekunden, daß er ein von jeder Deutelei, von jedem Abzwacken freies, großherzig gewährtes und einer „Denkernation“ würdiges geistiges Eigenthumsrecht aufstellt mit der Schutzfrist von 30 Jahren nach dem Tode, wenn Hinterlassene vorhanden sind, einer geringeren und kürzeren, wenn nachweisbar, wie z. B. bei Alexander von Humboldt, Niemand vorhanden ist, der auf Honorarbezüge Anspruch macht. Aber auch da wäre wohl vorzusehen, daß ein Autor, der voraussichtlich bald der Natur seinen Tribut zu bezahlen hat, keine Verleger mehr finden würde, wenn diesen der Tod seines Pfleglings um alle Aussicht brächte, in einer allzu bemessenen, allzu kurzen Frist wieder zu seinen Auslagen zu kommen! Den Schutz a dato der ersten Veröffentlichung wolle man doch ganz verwerfen. In Dingen, die wir besser haben, sollten wir uns nicht zu Affen der Engländer machen.</tei:seg>
-      </tei:p>
-      <tei:p style="text-right">
-        <tei:seg>Gutzkow</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
