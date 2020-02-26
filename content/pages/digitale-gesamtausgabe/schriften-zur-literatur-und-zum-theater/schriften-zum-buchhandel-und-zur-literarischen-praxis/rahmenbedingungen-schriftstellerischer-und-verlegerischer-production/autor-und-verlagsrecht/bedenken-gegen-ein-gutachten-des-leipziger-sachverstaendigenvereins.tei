@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>GertVonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-19">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen nach pdf Datei</tei:change>
+      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: TEI Transformation Text und MiniApp; Korrekturen der Sperrungen nach pdf Datei</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="56"/>
         <tei:seg> Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins.</tei:seg>
         <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
@@ -84,13 +84,10 @@
       <tei:p style="text-left">
         <tei:seg>Wol möglich, daß der Richter decretirt hätte, die Ausgabe wäre unrechtmäßig. Dann hätten Beck und Voß die Strafe zu zahlen. Aber gleich das Auskunftsmittel: Hier ist Nachdruck! zu ergreifen, das scheint uns gefährlich oder wenigstens ein Proceß, der doch zu kurz ist und zu dem es keiner Sachverständigen bedarf.</tei:seg>
       </tei:p>
-      <tei:p style="text-right">
-        <tei:hi style="letter-sparse">Ein Literat</tei:hi>
-      </tei:p>
       <tei:p style="text-left">
         <tei:seg>*) Wir machen ganz besonders darauf aufmerksam, daß der Herr Verfasser der Bedenken das Gutachten selbst, welches wir S. 51 mittheilten, nicht kannte, sondern blos das Resultat, demzufolge die Voß’sche Ausgabe der Beck’schen Gedichte für Nachdruck erklärt wurde.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p style="text-right">
         <tei:seg>D. Red.</tei:seg>
       </tei:p>
       <tei:note type="footnote" xml:id="footnote-1">
@@ -103,33 +100,34 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>Ein Literat [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18)</tei:seg>
+          <tei:hi style="letter-sparse">Ein Literat</tei:hi>
+          <tei:seg> [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -138,7 +136,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
