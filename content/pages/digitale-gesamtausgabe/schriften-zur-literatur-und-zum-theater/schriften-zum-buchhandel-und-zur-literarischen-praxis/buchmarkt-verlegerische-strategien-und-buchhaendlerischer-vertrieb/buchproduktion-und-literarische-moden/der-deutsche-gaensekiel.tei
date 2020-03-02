@@ -42,6 +42,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-03-02">Fassung 1.1, TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -95,6 +96,60 @@
         <tei:seg>" einzuführen wissen, ist bekannt genug. Frankreich nimmt weit weniger Antheil an der deutschen Literatur; es berücksichtigt weit mehr die Erscheinungen der romanischen Sprachen, namentlich die englischen und italienischen Werke. Wir finden hierin einen neuen Beweis, daß England uns in Beziehung auf Cultur und Nationalität verwandter ist als Frankreich, welches trotz seines Elsaß die deutschen Bildungselemente vielfach ignorirt und das exclusiv Romanische möglichst festzuhalten sucht. Im ersten Quartal dieses Jahres erschienen z. B. in Frankreich nur fünf Uebersetzungen deutscher Werke, und zwar: Ranke's "Französische Geschichte"; ein medicinisches Werk von Skoda in Wien; Kant's "Metaphysik der Sitten"; Brentano's "Leben der Heiligen Jungfrau" und - "Von Babylon nach Jerusalem", von Gräfin Hahn-Hahn. Solche Thatsachen sind charakteristisch für den Geschmack von Frankreich und nicht schmeichelhaft für die deutsche Literatur. Desto angelegener lassen es sich unsere deutschen Verleger sein, der französischen Literatur nach allen Richtungen hin zu schmeicheln.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Der deutsche Gänsekiel. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 46, 12. August 1854, S. 734-736. (Rasch 3.54.08.12.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt unverändert in Orthographie und Interpunktion dem Erstdruck. Textsperrungen im Erstdruck wurden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung des Erstdrucks ist mit Klammern [ ] in den Text an den betreffenden Stellen eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>3.1. Quellen</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Antoine Augustin Renouard: Catalogue mensuel des nouveautés de la librairie parisienne. Paris: Renouard, Januar - März 1854.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Messrs. Longman, Brown, Green, Longmans: Roberts' Monthly List of New Books Published in Great Britain. London: Longman's, Januar - März 1854.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Hinrichs' Bücher-Catalog. Leipzig: Hinrichs, 1854.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>3.2. Folien</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>[Anon.:] Das Kaufen von Büchern. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 37 (1854), S. 592. (Rasch 3.54.06.10.1)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
