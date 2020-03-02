@@ -46,10 +46,17 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="592"/>
+        <tei:seg> Das Kaufen von Büchern.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es ist eine stehende Klage unserer Schriftsteller und Buchhändler, daß so wenig Bücher gekauft würden. Man citirt das Ausland und behauptet, daß z. B. England weit kräftiger die Literatur unterstütze.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Diese Klage ist ungerecht. Die deutsche Nation kauft weit mehr Bücher als irgend eine andere. Das Uebel ist nur dies, daß wir auch mehr Bücher, die sich zum Kauf darbieten, produciren. Wollen wir bei uns einen noch lebhaftern Bücherkauf befördern, so sollten wir uns an die Buchhändler wenden, nicht an das Publicum. Jene schaffen Vorräthe von solchem Umfange, daß sie nothwendigerweise ohne Käufer bleiben müssen. Der unbedeutendste Verleger eines kleinen Provinzstädtchens nimmt keinen Anstand, sein jährliches Büchercontingent auf die Messe zu schicken; jedes nur einigermaßen brauchbare Manuscript wird bei uns wirklich gedruckt. Jede Schule will ihr eigenes Lehrbuch, jeder Lehrstuhl seinen eigenen Leitfaden haben. Wer in einer praktischen Unternehmung nicht mehr weiter kann, ergreift bei uns die Feder. Wer eine Reise gemacht hat, muß sie zu Buch bringen. Frauen, die sich langweilen oder ein Nadelgeld haben wollen, schreiben Romane. Wem alle Kräfte eigenen Schwunges versagen, stellt Albums, Blumenlesen, Mustersammlungen zusammen oder faselt sich für die liebe Weihnachtzeit in Kinderschriften aus. Wo so viel Büchervorräthe geliefert werden und doch die Verleger immer noch nicht gebessert worden sind, muß auch die Thatsache feststehen, daß bei uns unverhältnißmäßig viel gekauft wird.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
