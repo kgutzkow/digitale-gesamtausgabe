@@ -65,7 +65,7 @@
       </tei:p>
       <tei:p>
         <tei:seg>Einen Theil der Eindrücke, die ich bei meinem Aufenthalte in Hamburg in dem kleinen Hause der Poolstraße, das diese Familie bewohnte, empfing, hab' ich schon in meinen "Erinnerungen an Rosa Maria" gesammelt.</tei:seg>
-        <tei:ref type="footnote" target="#footnote-1">*</tei:ref><tei:note type="footnote" xml:id="footnote-1"><tei:p><tei:seg>Vermischte Schriften, Bd. 3. Leipzig, Weber.</tei:seg></tei:p></tei:note>
+        <tei:ref type="footnote" target="#footnote-1">*</tei:ref>
         <tei:seg> Der Gatte der dort geschilderten seltnen Frau war eine kleine Figur von einem auffallenden Gesichtsausdrucke. Der obere Theil des von Falten durchfurchten Antlitzes hatte etwas Adlerartiges, das eine Auge war in Folge einer Verletzung beim Experimentiren fast ohne Augenlid, das gab dem Blick etwas Scheues, etwas Vogelartiges. Das Haupt war stets von allmählig grauwerdenden langen Haaren umwallt. Wenn aus Rosa Marias wohlwollendem Antlitz immer Sonnenschein leuchtete, so glaubte man bei ihrem Gatten immer in die Nacht zu sehen. Viele fürchteten diese düsteren Mienen und nahmen sie für menschenfeindlich </tei:seg>
         <tei:pb n="19"/>
         <tei:seg> und doch, hätte man länger den Blick auf ihnen verweilen lassen, würde man gefunden haben, daß ein schmerzlicher Hauch auf ihnen lag, ein leidendes Etwas auf den Mundwinkeln, ja fast ein bittender Ausdruck. Assing isolirte sich selbst, er machte nicht Gebrauch von seinem häuslichen Vorrechte, sondern ließ die Seinigen walten, während er im engen Studirstübchen saß. Jede neue Bekanntschaft, die seine Familie machte, prüfte er mit fast mißtrauischer Kühle, und es währte oft lange, bis er mit einem von den Uebrigen längst wohl aufgenommenen und täglich gern gesehenen Gaste des Hauses sich selbst befreunden konnte. Selten griff er störend in das ein, was, ohne ihm selbst zu gefallen, den Seinigen Freude machte: ertrug er doch Jahre lang im Hause einen Hund, den er förmlich haßte und bei dem er sich, um der Kinder willen, die den Hund gern hatten, nur damit begnügte, so oft er ihn sah, zu seufzen und mit verhaltenem Grimm gegen ihn zu protestiren.</tei:seg>
@@ -102,8 +102,13 @@
       <tei:p>
         <tei:seg>Dieß, lieber Freund, ist Ihr Königsberger Landsmann, dem Sie gewiß oft in den Straßen Hamburgs, als Sie selbst noch dorten lebten, begegnet sind! Assings verwandtschaftliche Verhältnisse rechtfertigen einerseits eine öffentliche Bekanntmachung dieser Erinnerungen, andrerseits kann dieses Gedenkblatt als Vorläufer einer demnächst zu erwartenden Sammlung seiner Gedichte gelten. Dem größeren Publikum wird die Bekanntschaft mit einem Originale um so erfreulicher werden, als die interessanten Ausnahmen von der allgemeinen Regel der Sitte und nivellirenden Bildung immer seltener werden und es doppelten Reiz gewährt, dem Karakteristischen nicht bloß im Romane, sondern zuweilen auch noch in der Wirklichkeit zu begegnen. - - -</tei:seg>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p>
+          <tei:seg>Vermischte Schriften, Bd. 3. Leipzig, Weber.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="global" xml:id="global">
+    <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
@@ -116,16 +121,16 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Gutzkows Erinnerungen an David Assing kamen Ende 1844 in der von August Lewald herausgegebenen Zeitschrift "Das neue Europa" heraus, einer Fortsetzung seiner 1835 gegründeten "Europa". Für die überwiegend sehr persönlich gehaltenen Aufzeichnungen über Assing wählte Gutzkow eine briefliche Form. Den Brief richtete er an August Lewald, mit dem er seit 1833 befreundet war und der ebenso wie Assing aus Königsberg stammte. Der im Brief mehrfach von Gutzkow direkt angesprochene Lewald lieferte im Anschluss an Gutzkows Ausführungen eine "Nachschrift des Herausgebers", in der er Gutzkows Erinnerungen und biographisches Miniaturbild um einige Nuancen und Details ergänzt (vgl. 5.1 Dokumente zur Rezeptionsgeschichte).</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="text-left">
         <tei:seg>Schon einige Monate später nahm Gutzkow seinen Beitrag nahezu unverändert in den sechsten Band der </tei:seg>
         <tei:q>Gesammelten Werke</tei:q>
         <tei:seg> auf, wo er ihn mit seinem Artikel über Rosa Maria Assing aus dem Jahr 1840 unter dem Gesamttitel </tei:seg>
@@ -146,16 +151,16 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>2.1.1. Textengriffe</tei:seg>
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">28,33</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ihm</tei:lem>
@@ -163,7 +168,7 @@
         <tei:sic>ihn</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">33,25</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>antwortete</tei:lem>
@@ -176,20 +181,19 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>A[ugust] L[ewald]: Nachschrift des Herausgebers. In: Das neue Europa. Chronik der gebildeten Welt. Karlsruhe. 1845, Bd. 1, Lfg. 2, (16. Dezember 1844), S. 22. (Rasch 9/2.44.12.16N)</tei:seg>
       </tei:p>
-      <tei:p style="no-indent"/>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left"/>
+      <tei:p style="no-indent text-left">
         <tei:seg>Das Original, das Sie uns hier so interessant und liebenswürdig schildern, habe ich selbst gekannt. Schon in seiner Jugend zeigte sich Assing im gesellschaftlichen Verkehr auf sehr abnorme Weise. Ich erinnere mich, daß er einst, als er ein falsch gezeichnetes Hemd angezogen hatte, mit Dinte in die Ecke schrieb: Druckfehler: oben am Schlitz lies H. A. statt u. s. w. Das Buch "Ueber den Umgang mit Menschen" warf er bei der Stelle: "Mit Verliebten ist vernünftiger Weise gar nicht umzugehen," unter den Tisch und schrieb diesen Satz, wie zur Warnung vor dem Lesen des Buches, mit Kohle an die Wand seines Zimmers. Auch in Göttingen wollte er studiren, allein es gefiel ihm dort nicht, weil die Studenten zu elegant gekleidet waren und weiße Kappen trugen. Er ging dort gar nicht aus, wie er mir bei seiner Heimkehr erzählte, und hatte sich so eingerichtet, daß Bett und Sopha an derselben Wand standen und er aus dem Bette auf das Sopha steigen konnte, wo er den Tag über liegen blieb und dann Abends wieder in's Bett stieg. In seiner Jugend war er heiter, liebenswürdig und von einer unbeschreiblichen Herzensgüte. Im Jahre 1809 verließ er Königsberg. Im "Dichterwald", den Uhland 1811 herausgab, las ich die ersten Verse von Assing, die in Königsberg großes Interesse unter seinen Bekannten erregten. Ein kleines Gedicht "die Wandnachbarin" gefiel mir, wie ich mich noch erinnere, das Andere nicht. Während meines Aufenthaltes in Hamburg bewegte ich mich in Kreisen, denen er zu fern stand, als daß die alten Fäden sich wieder hätten anknüpfen lassen können. Auch sagte mir sein abgeschlossenes, menschenscheues Wesen nicht zu und ich besuchte das einsam-stille Haus in der Poolstraße nur ein Paarmal. Nur auf Spaziergängen sah ich ihn noch zuweilen, wenn er, seine beiden Töchter am Arm, mir begegnete und sich dann, mit dem freundlichsten Ausdrucke in den Zügen, nach meinem Befinden erkundigte.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
