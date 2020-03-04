@@ -46,10 +46,19 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="420"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Katalog des Verlags B. F. Voigt.]</tei:hi>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Ein in der That bewunderungswürdiger Beleg buchhändlerischer Thätigkeit ist der von </tei:seg>
+        <tei:hi style="letter-sparse">Voigt</tei:hi>
+        <tei:seg> in Weimar herausgegebene Katalog seiner vieljährigen literarischen Unternehmungen. Es ist wahr, daß Voigt den Buchhandel mehr von der industriellen Seite auffaßte, und so, wie er für Gewerbe und Fabriken Handbücher herausgab, auch wiederum etwas Fabrikmäßiges in seiner Art, Bücher in die Welt zu setzen, nicht verläugnen kann. Indessen ist die Umsicht dieses Geschäftsmannes, seine Belesenheit, sein richtiges Treffen der Zeitbedürfnisse doch erstaunenswerth. Dieser Verlagskatalog ist so vollständig, daß er fast das Ansehen einer systematischen Anlage hat, als wenn Voigt in seinen Unternehmungen ordentlich nach einem Grund- und Aufriß verfahren wäre. Alle Zweige der Technologie sind hier mit praktischen, meist in mehrfachen Auflagen gangbaren Handbüchern bedacht. Geschichte, Biographie, moralische Wissenschaften, Gesundheitslehre, populäre Medizin, Naturkunde – für jeden Bereich menschlicher Erkenntniß findet man in Voigts Waarenlager einen passenden Wegweiser und einige lexikographische Werke sind sogar von wissenschaftlicher Bedeutung und mit großem Kostenaufwande hergestellt. Den </tei:seg>
+        <tei:hi style="letter-sparse">Nekrolog der Deutschen</tei:hi>
+        <tei:seg> setzt Voigt, ob er gleich nicht das Spatengeld dabei verdient, als ehrlicher Todtengräber fort. Voigts Etablissement in Weimar ist sehenswerth. Er beschäftigt in einem umfassenden Bereich von Gebäulichkeiten eine Menge Drucker, Zeichner, Schriftsetzer, Buchbinder, Coloristen, er bildet eine Hauptstütze der Weimarschen Industrie. Mit zufriedenem Behagen sieht man den reichgewordenen Mann durch sein Waarenlager schreiten; so groß sein Katalog ist, so klein ist dieses, so wenig blieb ihm unverkauft liegen. Einige Artikel dieses Katalogs beweisen, daß Voigt auch nicht abgeneigt ist, gediegenen gelehrten, und ästhetischen Arbeiten, wenn sie ihn ansprechen, seine reichen Hülfsquellen zu eröffnen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
