@@ -46,10 +46,14 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="240"/>
+        <tei:seg> Unsere Bücherfabrikation.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Wahrhaft schwindelerregend war in letzter Weihnachtzeit wieder der Anblick der zahllosen neuen Jugendschriften, die in den Zeitungen angeboten wurden, ebenso wie der Sammlungen von Musterstellen, Blumenlesen, Gedenk- und Spruchbüchern aus den Classikern und neuen Dichtern u. s. w. Die Schuld dieser Ueberflutung trägt nicht allein der schriftstellerische Industrialismus, die materielle Noth oder die Eitelkeit, sondern zum größern Theile auch unser Buchhandel, der seine vortrefflichen Seiten hat, aber auch in der Meinung, daß jede einzelne kleine Stadt in Schwaben, Kurhessen, Böhmen ihr Contingent zum großen Büchermarkte liefern müsse, Unglaubliches leistet. Fast möchte man versucht sein, dem Börsenvorstand in Leipzig vorzuschlagen, er möchte das Privilegium, Kinderschriften und Anthologieen drucken zu lassen, die Reihe herum alle fünf Jahre nur an ein paar Buchhändler vertheilen und die vorigen Verleger verpflichten, sich im Interesse des guten Geschmacks und der Ehre unserer Nation, als einer scheinbar nichts als Papier producirenden, diese Fabrikation zu versagen. Wenigstens wird es so in Dresden mit dem Backen der Fastenbrezeln gehalten.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
