@@ -97,19 +97,19 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -117,19 +117,22 @@
           <tei:seg>[Anon.:] Der deutsche Gänsekiel. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 46, 12. August 1854, S. 734-736. (Rasch 3.54.08.12.1)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>J. Der Text folgt unverändert in Orthographie und Interpunktion dem Erstdruck. Textsperrungen im Erstdruck wurden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung des Erstdrucks ist mit Klammern [ ] in den Text an den betreffenden Stellen eingefügt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>3.1. Quellen</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -141,13 +144,13 @@
       <tei:p style="no-indent text-left">
         <tei:seg>Hinrichs' Bücher-Catalog. Leipzig: Hinrichs, 1854.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>3.2. Folien</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>[Anon.:] Das Kaufen von Büchern. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 37 (1854), S. 592. (Rasch 3.54.06.10.1)</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
     </tei:interpGrp>
