@@ -46,10 +46,25 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:p style="text-left">
+        <tei:pb n="251"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Krise der französischen Belletristik und Jules Janin.]</tei:hi>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Auch der französische belletristische Buchhandel hat Bankerott gemacht. Eine Menge junger Romantiker, die auf der vierten Seite der Zeitungen schon unsterblich waren (die Zeile 1 Franc 50 Centimes) mußten wieder in das Chaos der </tei:seg>
+        <tei:pb n="252"/>
+        <tei:seg> Nichtexistenz zurück. Sie konnten keine Verleger, oder besser gesagt, die Verleger konnten keine Capitalisten mehr finden. Aus diesem Schiffbruch von Genie und Albernheit, Geist und Fadheit, Phantasie und schlechten Sitten hat sich nur Einer gerettet, Jules Janin, der apportirende Pudel der Tagesconversation, die Ephemere des Feuilletons, die täglich sterbende und täglich vom Sonnenschein neu ausgebrütete, Jules Janin, der Schatten jedes Ereignisses, das Echo jeder Begebenheit, der Daguerre des Tages, der in der unausgesetzt schaukelnden Bewegung der Mode und der kleinen Ereignisse jeden nur einen Moment fixirt, Jules Janin, der Feuilletonist der </tei:seg>
+        <tei:foreign>Debats</tei:foreign>
+        <tei:seg>. Dafür wird er beneidet, angefeindet, man nennt ihn den Lakai des Herrn Bertin </tei:seg>
+        <tei:foreign>ainé</tei:foreign>
+        <tei:seg>, den Jokei, der die kleinen </tei:seg>
+        <tei:foreign>Billets doux</tei:foreign>
+        <tei:seg> der Conversation aus einem Pariser Boudoir in's andere trägt, er wird als käuflich hingestellt, als einer jener Leichtköpfe, die, das Schicksal mag sie werfen, wie es will, immer auf den Bauch stürzen, der ihnen immer fetter und fetter wird. Das Genie, klagt die junge Literatur Frankreichs, die jetzt schon eine greisige ist, das Genie muß hungern, aber der Pudel des Herrn Bertin hat ein goldenes Halsband, die Medisance fährt im eigenen Tilbury, die Geschwätzigkeit ißt Austern und trinkt Champagner, die Kritik hält sich eine Mätresse, das Feuilleton wohnt im ersten Stock. Jules Janin hat sich jetzt Luft gemacht. Er hat eine Reprise des Alfred de Vignyschen </tei:seg>
+        <tei:hi style="letter-sparse">Chatterton</tei:hi>
+        <tei:seg> zur Veranlassung einer heftigen Diatribe gegen Poeten gemacht, die, wenn sie kein Geld verdienen, die Unglücklichen spielen und eine Welt anklagen, wo es für die Poesie nicht Raum gäbe. Jules Janin hat die Epiciers der Boulevards mit der Bemerkung sehr erfreut, daß Poeten, die kein Geld hätten, besser thäten, Holz zu hacken. Er sagt: "Ein Schriftsteller von Talent hat Erfolge, hat Publikum, hat Geld." Lächerliche Eingebungen eines Übermuths, der nur aus einem wohlgenährten Embonpoint kommen kann! Der Satte hat gut über den Hunger schreiben. Wenn man die Kritik Janins über den Chatterton liest, so vergesse man ja nicht, daß das Ganze eine Vertheidigung gegen die Pariser Autorenwelt seyn soll, mit der der Verfasser des "todten Esels und der guillotinirten Frau" verfallen ist und daß Cinq Mars von de Vigny länger leben wird, als alle Kritiken, die man nicht schreibt, um wahr, sondern die man schreibt, um witzig zu seyn.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
