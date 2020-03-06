@@ -46,10 +46,50 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="135"/>
+        <tei:seg> Die Journale Hamburgs.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Volksblätter, die jedoch das Weichbild der Stadt nicht überschreiten, sind hier am gelesensten und haben Tausende von Abnehmern, so der „</tei:seg>
+        <tei:hi style="letter-sparse">Beobachter</tei:hi>
+        <tei:seg>“, der besonders durch seine officiellen Polizeiberichte über Diebstähle u.s.w. für das Volk sehr interessant ist. „</tei:seg>
+        <tei:hi style="letter-sparse">Der Erzähler</tei:hi>
+        <tei:seg>“ bewegt sich in demselben Gebiete, doch ist er nicht so authentisch und darum sogar noch beliebter; denn das Gerücht spannt immer mehr, als die Wahrheit. In die „</tei:seg>
+        <tei:hi style="letter-sparse">Nachrichten</tei:hi>
+        <tei:seg>“ schreibt der jetzt vergessene Humorist Prätzel Theaterkritiken, die von der Direktion des Theaters selbst inspirirt werden. Die „</tei:seg>
+        <tei:hi style="letter-sparse">Originalien</tei:hi>
+        <tei:seg>“ finden durch das Mitleid für den erblindeten Herausgeber noch immer Theilnahme; das Originelle an ihnen ist bekanntlich, daß sie durchaus </tei:seg>
+        <tei:hi style="letter-sparse">keine</tei:hi>
+        <tei:seg> Originalien, sondern nur Uebersetzungen bringen. Literärisch am bedeutsamsten ist unstreitig der „</tei:seg>
+        <tei:hi style="letter-sparse">Telegraph</tei:hi>
+        <tei:seg>“, an welchem die besten deutschen Schriftsteller arbeiten. Er soll einer sich fortwährend steigernden Verbreitung genießen und zählt gegenwärtig einige über 600 Abnehmer</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+        <tei:seg>. „</tei:seg>
+        <tei:hi style="letter-sparse">Argus</tei:hi>
+        <tei:seg>“ ist in den Verlag eines unternehmungslustigen Buchhändlers übergegangen, der wahrscheinlich mehr für das Blatt thun wird, als der frühere Besitzer that, ein Buchdrucker. Die „</tei:seg>
+        <tei:hi style="letter-sparse">literarischen Blätter der Börsenhalle</tei:hi>
+        <tei:seg>“ haben noch immer 500 Abnehmer im Durchschnitt, leiden aber an dem Mangel einer geordneten Redaktion, und sind im Verkürzen der ihnen meistens eingesandten Aufsätze nicht streng genug. Die Artikel des Herrn von Florencourt sind zu weitschweifig und wiederholen meist das schon öfters Gesagte. Der Hamburger „</tei:seg>
+        <tei:hi style="letter-sparse">Correspondent</tei:hi>
+        <tei:seg>“ ist anerkannt ein der besten deutschen Zeitungen und zählt mehr als 3000 Abnehmer. </tei:seg>
+        <tei:hi style="sup">*</tei:hi>
+        <tei:seg>*</tei:seg>
+        <tei:hi style="sup">*</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:ref type="footnote" target="#footnote-2"/>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>*) Somit wäre die Notiz berichtigt, welche </tei:seg>
+          <tei:hi style="letter-sparse">Bäuerle</tei:hi>
+          <tei:seg>’s „Theaterzeitung“ vor Kurzem einem ausländischen Journal nachschrieb: daß der </tei:seg>
+          <tei:hi style="letter-sparse">Telegraph</tei:hi>
+          <tei:seg> – unstreitig eines der trefflichsten, vielleicht das trefflichste Journal Deutschlands – nur 70 Abnehmer hätte!!    D. Red.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-2">
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
