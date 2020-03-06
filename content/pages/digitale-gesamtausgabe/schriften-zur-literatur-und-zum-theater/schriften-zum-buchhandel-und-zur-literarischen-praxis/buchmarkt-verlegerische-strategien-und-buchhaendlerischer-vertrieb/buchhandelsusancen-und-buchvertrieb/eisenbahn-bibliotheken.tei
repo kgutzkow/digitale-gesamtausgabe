@@ -42,14 +42,45 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-03-06">Fassung 1.1 Ueberfuehrung in TEI</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="815"/>
+        <tei:seg> Eisenbahn-Bibliotheken.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Wenn man in unsere Buchläden tritt, findet man jetzt auf den Tischen massenhaft ausgebreitet kleine Bücher liegen, die um einen Preis von 5 - 10 Groschen per Stück sich als unterhaltende Reisebegleiter ankündigen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Da liegen kleine </tei:seg>
+        <tei:hi style="letter-sparse">weiße</tei:hi>
+        <tei:seg> Hefte, Criminalgeschichten enthaltend. Sie gehören einer Otto Wigand'schen Eisenbahn-Bibliothek an. Sie sind jedenfalls, um im Waggon gelesen zu werden, zu klein gedruckt. Wer mag ferner im einsamen Bergwirthshause, vom Regen überrascht, einen Abend sich allein überlassen, während tobend ein Wasser-</tei:seg>
+        <tei:pb n="816"/>
+        <tei:seg>sturz durch die Schlucht am Wirthshause donnert, rings nächtliches Dunkel sich breitet und für die im Zugwind klappernde Thür eines engen Zimmers sich nirgends im Hause ein Schlüssel findet, Raub- und Mordgeschichten lesen!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Zweckmäßiger für den Reisehumor berechnet sind jene </tei:seg>
+        <tei:hi style="letter-sparse">rothen</tei:hi>
+        <tei:seg> Bücher, die zur zur Lorck'schen Eisenbahnbibliothek gehören. Sie enthalten in Uebersetzungen allerlei nützliche Unterhaltung aus französischen und englischen Quellen. Um sie im Waggon zu lesen, sind sie zu ernst und nehmen zu sehr das Nachdenken in Anspruch. Zweckmäßiger sind sie für längern Aufenthalt. Wer am Genfersee acht Tage ruhen will und sich, wie es zu gehen pflegt, auf Alles, nur nicht auf Bücher vorbereitete, wähle noch in Bern oder Zürich einige dieser rothen Bücher: es befinden sich recht nützliche und lehrreiche unter ihnen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="letter-sparse">Grüne</tei:hi>
+        <tei:seg> Bände einer Eisenbahn- und Reisebibliothek versendet die Buchhandlung von J. J. Weber in Leipzig. Sie gibt, wie immer, sehr geschmackvolle Ausstattungen. Ihre Reisehandbücher sind mit Holzschnitten illustrirt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es gibt auch noch eine </tei:seg>
+        <tei:hi style="letter-sparse">gelbe</tei:hi>
+        <tei:seg> Auswahl. Sie gehört der Brockhaus'schen Eisenbahn-Bibliothek an. Hier ist die schriftstellerische deutsche Originalproduction mit ins Interesse gezogen und der touristische Charakter vorzugsweise hervorgehoben. Namen ersten Rangs werden als künftig Beitragende genannt. Vorläufig liegen nur erst sechs dieser Büchlein vor, empfehlen sich aber ganz besonders Jedem, der nach Wien, nach Westfalen, Lübeck, Hamburg und nach dem Harze reisen will. Eins lehrt auch poetisch reisen, d. h. Josef Rank hat Reiselieder gesammelt, Gruß und Abschied und Willkommen und Andenken, Klänge unserer besten Poeten. Ob sich diese Arbeiten noch neben den großen Reisehandbüchern und Städteführern halten können, muß der Erfolg zeigen. Uns scheint die französische und englische Form dieser Eisenbahn-Bibliotheken, nämlich in wohlfeilstem Neudruck gute ältere Lectüre und nebenbei gelungenes Neues, aber nur aus dem Bereiche der allgemeinen Unterhaltung zu geben, die lohnendere. Möge daher die </tei:seg>
+        <tei:hi style="letter-sparse">zweite</tei:hi>
+        <tei:seg> Serie der Brockhaus'schen Reisebibliothek, die diesen Anforderungen entsprechen wird, die nach unserer Ueberzeugung wichtigere und umfassendere Partie des Unternehmens werden.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ein neuer "Passagier auf Reisen" ist der L. Lenz'sche "Reisekalender" (Leipzig, Volkmar, 1855). Er erstreckt sich in seinen, wie man wenigstens für Deutschland, England und Frankreich sich bald überzeugt, eingesammelten Originalerkundigungen auf die besuchtesten Gegenden Europas, bringt in bündiger Form die Zusammenstellung aller neuesten Fahrpläne, für welche die laufenden Ergänzungen durch das leipziger Postamt bürgen, und fügt sogar ein Reisevocabularium in vier Sprachen bei. Recht originell sind an diesem nicht zu theuern Buche die Nachweise über die besten Gelegenheiten, für des Leibes Nahrung und Nothdurft zu sorgen. Bekanntlich geht diese Nothdurft auf Reisen noch etwas weiter als zu Hause und wird Gourmandise und Luxus. So findet man denn auch hier praktische Winke über die Orte, wo man am besten und doch möglichst wohlfeil in halb Europa ißt, wo man in Paris gute Cigarren kauft, wo man in London eine unverfälschte Tasse Kaffee trinkt, und ähnliche Nachweise, die sich selbst auf die besten Handwerker und Fabrikanten, ja sogar auf die gesuchtesten Aerzte und Advocaten erstrecken.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
