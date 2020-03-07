@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="21"/>
         <tei:seg> Statistik des Absatzes deutscher Zeitschriften und Zeitungen.</tei:seg>
       </tei:head>
@@ -85,7 +85,7 @@
         <tei:hi style="letter-sparse">unrichtig</tei:hi>
         <tei:seg> erschienen sind. Wir würden uns viele Feindschaft zuziehen, wollten wir diejenigen Blätter, deren Angaben offenbar nur renommiren, hier namentlich aufführen. Außerdem ließen wir die Blätter von weniger allgemeinem Interesse und Rufe fort.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:pb n="22"/>
         <tei:seg> I. Wissenschaftlich-artistische Zeitschriften.</tei:seg>
       </tei:head>
@@ -161,7 +161,7 @@
       <tei:p style="text-left">
         <tei:seg>Sächsische Vaterlandsblätter                    "                500                     "</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>II. Zeitungen.</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -360,13 +360,13 @@
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>
