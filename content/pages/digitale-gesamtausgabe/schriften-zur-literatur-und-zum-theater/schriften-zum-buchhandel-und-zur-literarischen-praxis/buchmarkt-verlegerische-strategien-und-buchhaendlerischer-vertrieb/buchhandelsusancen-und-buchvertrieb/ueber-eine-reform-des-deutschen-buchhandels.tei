@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="361"/>
         <tei:seg> Ueber eine Reform des deutschen Buchhandels.</tei:seg>
       </tei:head>
@@ -316,19 +316,19 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -341,16 +341,16 @@
           <tei:seg>K[arl] G[utzkow:] Ueber eine Reform des deutschen Buchhandels. In: Börsenblatt für den deutschen Buchhandel und für die mit ihm verwandten Geschäftszweige. Leipzig. Nr. 60, 28. Juli 1837, Sp. 1337-1342, und Nr. 61, 1. August 1837, Sp. 1369-1372. (Rasch 3.37.06.19)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>J1. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Zeitschriftendruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck werden stillschweigend berichtigt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -396,10 +396,10 @@
         <tei:seg> </tei:seg>
         <tei:sic>entgegesetzten</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>5.1 Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -417,7 +417,7 @@
           <tei:seg>Wilhelm Hoffmann: Durchgehauen! In: Börsenblatt für den deutschen Buchhandel. Leipzig. Nr. 79, 3. Oktober 1837, Sp. 1849-1850. (Rasch 9/2.37.10.03)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
