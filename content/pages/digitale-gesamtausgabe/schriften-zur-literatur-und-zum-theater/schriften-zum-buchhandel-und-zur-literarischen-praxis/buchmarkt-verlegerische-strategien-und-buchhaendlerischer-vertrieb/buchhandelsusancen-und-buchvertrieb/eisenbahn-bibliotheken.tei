@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -82,62 +82,61 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1 Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1 Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2 Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
           <tei:seg>[Anon.; Verfasser unges.:] Eisenbahn-Bibliotheken. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 51, [22. September] 1855, S. 815-816. (Rasch *3.55.09.22.1) - Die Autorschaft Gutzkows ist nicht hundertprozentig gesichert.</tei:seg>
         </tei:item>
-        <tei:item data-source-id=""/>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1 Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung ist mit Klammern [] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck werden stillschweigend berichtigt.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>[Anon.:] Eine Eisenbahn-Bibliothek. In: Unterhaltungen am häuslichen Herd. Bd. 3, Nr. 28, [14. April] 1855, S. 448. (Rasch 3.55.04.14.4)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>4.2 Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Aufgrund einer vorläufigen Mitteilung des Verlags Brockhaus über die geplante Herausgabe einer "Eisenbahnbibliothek" erschien im April 1855 anonym in den "Unterhaltungen am häuslichen Herd" ein Artikel Gutzkows über diese neue und im Kontext der zunehmenden Erschließung Deutschlands durch die Eisenbahn entstandene Publikationsform und ihre besonderen Verkaufskriterien. Abschließend versprach er den Lesern, sobald er mehr Informationen über die neue Reihe habe, diese der literarischen Öffentlichkeit bekannt zu machen. In dem im September 1855 erschienenen Artikel Eisenbahn-Bibliotheken löste er diese Zusage ein.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>6.1 Globalkommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -162,7 +161,7 @@
         <tei:seg>Die Entstehung von Reisebibliotheken sowie die enorme Nachfrage nach Reiselektüre seit den sechziger und siebziger Jahren des 19. Jahrhunderts lassen sich aber nicht nur mit der zunehmenden Expansion der Eisenbahnverbindungen und einem vermehrten Reiseaufkommen erklären. Die inflationäre Verbreitung von Reiselektüre korrelierte mit der Ausbildung einer modernen Unterhaltungsindustrie unter dem Eindruck einer fortschreitenden Industrialisierung und Verstädterung in Deutschland. Mit der Entstehung einer industriellen Massenkultur veränderte sich der Charakter der Lektüre. Die massenhafte Produktion von Literatur förderte ein extensives, flüchtiges Leseverhalten, das vor allem dem Zweck des Zeitvertreibs und der Unterhaltung diente. Die Lektürebedürfnisse des Lesepublikums wurden durch ein vielfältiges Angebot an Novellen, Fortsetzungs- und Feuilletonromanen sowie Kolportage- und Heftromanen befriedigt, die als preisgünstige Taschenbücher oder als Vorabdrucke in Familienblättern einem Massenpublikum zugänglich waren. Zur Erzielung optimaler Verkaufsumsätze verfolgten die Verleger von Reisebibliotheken innovative und teilweise aggressive Absatz- und Werbestrategien. Erfolgsgaranten einer Reisebibliothek waren die Reihenkonzeption, verlegergelenkte Auswahl der Buchtitel und Autoren sowie die äußere Ausstattung der einzelnen Bände und eine verbraucherfreundliche Preisgestaltung.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>6.2 Einzelstellenerläuterungen</tei:seg>
       </tei:head>
     </tei:interpGrp>
