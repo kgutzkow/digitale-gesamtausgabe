@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -47,7 +47,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="33"/>
         <tei:seg> Die gewandten Federn.</tei:seg>
       </tei:head>
@@ -146,22 +146,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -169,10 +169,10 @@
           <tei:seg>Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35; Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -181,7 +181,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
