@@ -29,7 +29,7 @@
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
-    <tei:body xmlns:ns0="http://www.tei-c.org/ns/1.0">
+    <tei:body>
       <tei:head>
         <tei:hi style="letter-sparse">Vorwort</tei:hi>
         <tei:seg>.</tei:seg>
@@ -47,7 +47,7 @@
         <tei:ref type="esv" target="#annotation-1">da&#223;</tei:ref>
         <tei:interp type="esv" xml:id="annotation-1">
           <tei:p>
-            <tei:corr>da&#223;</tei:corr>
+            <tei:lem>da&#223;</tei:lem>
             <tei:sic>das</tei:sic>
           </tei:p>
         </tei:interp>
@@ -168,7 +168,7 @@
         <tei:ref type="esv" target="#annotation-2">ihre</tei:ref>
         <tei:interp type="esv" xml:id="annotation-2">
           <tei:p>
-            <tei:corr>ihre</tei:corr>
+            <tei:lem>ihre</tei:lem>
             <tei:sic>seine</tei:sic>
           </tei:p>
         </tei:interp>
@@ -181,7 +181,7 @@
         <tei:ref type="esv" target="#annotation-3">Schein</tei:ref>
         <tei:interp type="esv" xml:id="annotation-3">
           <tei:p>
-            <tei:corr>Schein</tei:corr>
+            <tei:lem>Schein</tei:lem>
             <tei:sic>Rhein</tei:sic>
           </tei:p>
         </tei:interp>
@@ -208,7 +208,7 @@
         <tei:ref type="esv" target="#annotation-4">ei-</tei:ref>
         <tei:interp type="esv" xml:id="annotation-4">
           <tei:p>
-            <tei:corr>ei-<tei:pb n="25"/>nes</tei:corr>
+            <tei:lem>ei-</tei:lem>
             <tei:sic>ei-<tei:pb n="25"/>des</tei:sic>
           </tei:p>
         </tei:interp>
@@ -292,7 +292,7 @@
         <tei:ref type="esv" target="#annotation-5">es</tei:ref>
         <tei:interp type="esv" xml:id="annotation-5">
           <tei:p>
-            <tei:corr>es</tei:corr>
+            <tei:lem>es</tei:lem>
             <tei:sic>er</tei:sic>
           </tei:p>
         </tei:interp>
@@ -409,7 +409,7 @@
         <tei:ref type="esv" target="#annotation-6">das</tei:ref>
         <tei:interp type="esv" xml:id="annotation-6">
           <tei:p>
-            <tei:corr>das</tei:corr>
+            <tei:lem>das</tei:lem>
             <tei:sic>da&#223;</tei:sic>
           </tei:p>
         </tei:interp>
@@ -438,7 +438,7 @@
         <tei:ref type="esv" target="#annotation-7">pl&#246;tzlichen</tei:ref>
         <tei:interp type="esv" xml:id="annotation-7">
           <tei:p>
-            <tei:corr>pl&#246;tzlichen</tei:corr>
+            <tei:lem>pl&#246;tzlichen</tei:lem>
             <tei:sic>pl&#246;tzliche</tei:sic>
           </tei:p>
         </tei:interp>
@@ -454,7 +454,7 @@
         <tei:ref type="esv" target="#annotation-8">ihn</tei:ref>
         <tei:interp type="esv" xml:id="annotation-8">
           <tei:p>
-            <tei:corr>ihn</tei:corr>
+            <tei:lem>ihn</tei:lem>
             <tei:sic>ihm</tei:sic>
           </tei:p>
         </tei:interp>
@@ -478,7 +478,7 @@
         <tei:ref type="esv" target="#annotation-9">Verm&#246;gens-,</tei:ref>
         <tei:interp type="esv" xml:id="annotation-9">
           <tei:p>
-            <tei:corr>Verm&#246;gens-,</tei:corr>
+            <tei:lem>Verm&#246;gens-,</tei:lem>
             <tei:sic>Verm&#246;gens-</tei:sic>
           </tei:p>
         </tei:interp>
@@ -491,7 +491,7 @@
         <tei:ref type="esv" target="#annotation-10">entlehnen</tei:ref>
         <tei:interp type="esv" xml:id="annotation-10">
           <tei:p>
-            <tei:corr>entlehnen</tei:corr>
+            <tei:lem>entlehnen</tei:lem>
             <tei:sic>ntlehnen</tei:sic>
           </tei:p>
         </tei:interp>
@@ -553,7 +553,7 @@
         <tei:ref type="esv" target="#annotation-11">Lili</tei:ref>
         <tei:interp type="esv" xml:id="annotation-11">
           <tei:p>
-            <tei:corr>Lili</tei:corr>
+            <tei:lem>Lili</tei:lem>
             <tei:sic>Lidi</tei:sic>
           </tei:p>
         </tei:interp>
@@ -561,7 +561,7 @@
         <tei:ref type="esv" target="#annotation-12">Hausaltar</tei:ref>
         <tei:interp type="esv" xml:id="annotation-12">
           <tei:p>
-            <tei:corr>Hausaltar</tei:corr>
+            <tei:lem>Hausaltar</tei:lem>
             <tei:sic>Hausalter</tei:sic>
           </tei:p>
         </tei:interp>
@@ -824,7 +824,7 @@
         <tei:ref type="esv" target="#annotation-13">das</tei:ref>
         <tei:interp type="esv" xml:id="annotation-13">
           <tei:p>
-            <tei:corr>das</tei:corr>
+            <tei:lem>das</tei:lem>
             <tei:sic>da&#223;</tei:sic>
           </tei:p>
         </tei:interp>
@@ -881,7 +881,7 @@
         <tei:ref type="esv" target="#annotation-14">zwei</tei:ref>
         <tei:interp type="esv" xml:id="annotation-14">
           <tei:p>
-            <tei:corr>zwei</tei:corr>
+            <tei:lem>zwei</tei:lem>
             <tei:sic>zwe</tei:sic>
           </tei:p>
         </tei:interp>
@@ -927,7 +927,7 @@
         <tei:ref type="esv" target="#annotation-15">das</tei:ref>
         <tei:interp type="esv" xml:id="annotation-15">
           <tei:p>
-            <tei:corr>das</tei:corr>
+            <tei:lem>das</tei:lem>
             <tei:sic>da&#223;</tei:sic>
           </tei:p>
         </tei:interp>
@@ -1090,7 +1090,7 @@
         <tei:ref type="esv" target="#annotation-16">unsern</tei:ref>
         <tei:interp type="esv" xml:id="annotation-16">
           <tei:p>
-            <tei:corr>unsern</tei:corr>
+            <tei:lem>unsern</tei:lem>
             <tei:sic>unserm</tei:sic>
           </tei:p>
         </tei:interp>
@@ -1296,7 +1296,7 @@
         <tei:ref type="esv" target="#annotation-17">Beanstandnahmen</tei:ref>
         <tei:interp type="esv" xml:id="annotation-17">
           <tei:p>
-            <tei:corr>Beanstandnahmen</tei:corr>
+            <tei:lem>Beanstandnahmen</tei:lem>
             <tei:sic>Beandstandnahmen</tei:sic>
           </tei:p>
         </tei:interp>
@@ -1316,7 +1316,7 @@
         <tei:ref type="esv" target="#annotation-18">Regeln</tei:ref>
         <tei:interp type="esv" xml:id="annotation-18">
           <tei:p>
-            <tei:corr>Regeln</tei:corr>
+            <tei:lem>Regeln</tei:lem>
             <tei:sic>Regelu</tei:sic>
           </tei:p>
         </tei:interp>
@@ -1394,7 +1394,7 @@
         <tei:ref type="esv" target="#annotation-19">philosophischen</tei:ref>
         <tei:interp type="esv" xml:id="annotation-19">
           <tei:p>
-            <tei:corr>philosophischen</tei:corr>
+            <tei:lem>philosophischen</tei:lem>
             <tei:sic>philophischen</tei:sic>
           </tei:p>
         </tei:interp>
@@ -1419,7 +1419,7 @@
         <tei:ref type="esv" target="#annotation-20">da&#223;</tei:ref>
         <tei:interp type="esv" xml:id="annotation-20">
           <tei:p>
-            <tei:corr>da&#223;</tei:corr>
+            <tei:lem>da&#223;</tei:lem>
             <tei:sic>das</tei:sic>
           </tei:p>
         </tei:interp>

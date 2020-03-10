@@ -69,7 +69,10 @@ def process_inline(inline, block):
         annotation.attrib['type'] = 'esv'
         annotation.attrib['{http://www.w3.org/XML/1998/namespace}id'] = 'annotation-{0}'.format(annotation_counter)
         para = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-        para.extend(inline)
+        lem = etree.Element('{http://www.tei-c.org/ns/1.0}lem')
+        lem.text = inline.xpath('tei:corr/text()', namespaces=namespaces)[0]
+        para.append(lem)
+        para.append(inline.xpath('tei:sic', namespaces=namespaces)[0])
         annotation.append(para)
         block.append(annotation)
         annotation_counter = annotation_counter + 1
@@ -113,16 +116,6 @@ def transform_text(input, output):
     body = etree.Element('{http://www.tei-c.org/ns/1.0}body')
     body.extend(blocks)
     output.write(etree.tostring(body, pretty_print=True).decode('utf-8').replace('ns0:', 'tei:').encode('utf-8'))
-    """parser = etree.XMLParser(remove_blank_text=True)
-    document = etree.Element('{http://www.tei-c.org/ns/1.0}TEI', nsmap={'tei': 'http://www.tei-c.org/ns/1.0'})
-    if header:
-        document.append(etree.parse(header, parser).getroot())
-    textElement = etree.Element('{http://www.tei-c.org/ns/1.0}text')
-    document.append(textElement)
-    for source in text:
-        textElement.append(etree.parse(source, parser).getroot())
-    remove_whitespace(document)
-    output.write(etree.tostring(document, xml_declaration=True, pretty_print=True, encoding="UTF-8"))"""
 
 if __name__ == '__main__':
     transform_text()
