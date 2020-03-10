@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,381 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2001-02" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-03-07">Fassung 1.1 Ueberfuehrung nach TEI</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="361"/>
+        <tei:seg> Ueber eine Reform des deutschen Buchhandels.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Mit jeder Messe nehmen die Klagen über den stockenden Geschäftsgang im deutschen Buchhandel zu. Wenigstens behaupten dies Leipziger Berichterstatter, die freilich an der Quelle sind, und dies wissen müssen. Einige Andere sprechen es ihnen nach und beschränken ein Symptom, das allgemein ist, auf einige Branchen der Literatur, z. B. auf die schön-wissenschaftliche, und endlich findet sich hie und da ein Berichterstatter, der die Thatsache namentlich an Autoren anknüpft, von denen man bisher geglaubt hat, ihre Schriften würden allgemein, um das apokalyptische Bild zu brauchen, verschlungen. Laube hat unklug gethan, in der Mitternachtszeitung diesen Gegenstand bloß zur Anknüpfung einer leidenschaftlichen Klage zu benutzen. Ueber ein Zugeständniß so delikater Art darf man vor dem Publikum nicht anders verhandeln, als wenn man Mittel und Wege anzugeben weiß, um den Zustand, der beklagenswerth ist, zu bessern. Hier sollen Vorschläge zu einer Reform des Buchhandels in dem Sinne, daß sie dringend nöthig ist, gegeben werden!</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Vom deutschen Buchhandel ist viel Aufhebens gemacht worden. Liest man das Buchhändlerwochenblatt, so möchte man glauben, die deutschen Buchhändler hätten den Stein der Weisen gefunden. Sie brüsten sich vor Frankreich und England, sie schildern ihre Organisation als eine Blüthe des modernen Handelsgeistes. Halten sich doch einige für so wichtig, sich in einer Gallerie von Porträts lithographieren zu lassen und ihre Lebensbeschreibungen herauszugeben!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Worin besteht nun ihr großes Geheimniß? Ein Buchhändler in Berlin, Hamburg, Stuttgart verträgt sich mit einem Autor über eine herauszugebende Leistung desselben. Jener macht seinen Ueberschlag und denkt: Soviel brauch' ich Absatz für die </tei:seg>
+        <tei:pb n="362"/>
+        <tei:seg> Kosten, sechshundert Buchhändler gibt es bereits, ich wag' es! Er druckt die Schrift, zahlt den Ehrensold und beginnt nun jene großartige Manipulation, welche die Buchhändler </tei:seg>
+        <tei:hi style="letter-sparse">Versenden</tei:hi>
+        <tei:seg> nennen. Jeder der 600 Buchhändler, "so weit die deutsche Zunge reicht," erhält ein, zwei, drei, mancher, der an einem guten Platze wohnt, ein Dutzend Exemplare der neuen Schrift. Dies wird in Leipzig und Frankfurt durch Commissionäre vermittelt. Die 600 Buchhändler bekommen das Buch und stellen es in ihren Laden. Gut, sie sollen noch mehr thun. Sie sollen es Kunden anbieten, den Bibliotheken, den Schulanstalten. Die Schrift wird zur </tei:seg>
+        <tei:hi style="letter-sparse">Ansicht</tei:hi>
+        <tei:seg> in die ganze Stadt ausgeboten. Sie bleibt vielleicht bei einem Liebhaber sitzen, in den meisten Fällen wird sie zurückgesandt. Steht sie unverkauft </tei:seg>
+        <tei:hi style="letter-sparse">ein Jahr</tei:hi>
+        <tei:seg> im Buchladen, so packt sie der sogenannte Sortimentshändler wieder ein und schickt sie als Krebs, als Remittend dem trostlosen Verleger wieder zurück. Er zählt die Häupter seiner Lieben und sieh, es fehlt kein theures Haupt. Er hat nichts verkauft, er hat 1000 Thaler verloren. Was soll aus ihm werden?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Gut; er soll auch 200, 300, er soll 600 Exemplare absetzen; das Uebel bleibt dasselbe; er könnte weit mehr absetzen, wenn die gegenwärtige Methode des deutschen Buchhandels nicht bis zur Abgeschmacktheit naiv wäre. Man schiebt die Schuld der schlechten Geschäfte, die </tei:seg>
+        <tei:hi style="letter-sparse">überwiegend</tei:hi>
+        <tei:seg> im Buchhandel gemacht werden, auf das Publikum. Das ist Thorheit; das Publikum ist nicht so stumpf, als es scheint. Es </tei:seg>
+        <tei:hi style="letter-sparse">benutzt</tei:hi>
+        <tei:seg> nur die Gutmüthigkeit der Buchhändler, es liest die Schriften, ohne sie zu benutzen. Will man denn von manchen Schriften mehr, als die bloße Ansicht? Wer will sie durchlesen, von A bis Z, im gemüthlichen Familienkreise, hinterm Lichtschirm; wer will das? Das Interesse z. B., was dieser oder jener Professor an einer Dichtung von </tei:seg>
+        <tei:hi style="letter-sparse">Julius Mosen</tei:hi>
+        <tei:seg> hat, ist ganz oberflächlich; aber man spricht davon, man will das Buch sehen, beriechen, man braucht es nicht aufzuschneiden, nicht einmal an der Seite und kennt den Ton, die Manier, den Gegenstand des Buches hinlänglich, um darüber au fait zu sein. Ihr gutmüthigen Verleger! Ihr schickt ihm von Stuttgart oder Leipzig das Buch nach Dorpat, Wien, Triest; der Sortimentshändler schickt's ihm in's Haus; er schickt's zurück, der Sortimentshändler schickt's nach Leipzig, </tei:seg>
+        <tei:foreign>voilà</tei:foreign>
+        <tei:seg>, Petz ist wieder </tei:seg>
+        <tei:pb n="363"/>
+        <tei:seg> da, der Commissionär schickt ihn in den Schooß der Mutter zurück, in welchen er mit sovielen andern vergeblichen Hoffnungen geboren wurde. So kann ein Buch in 600 Exemplaren versandt sein, in 600 kömmt es wieder zurück - und hat seine Bestimmung erfüllt, ist </tei:seg>
+        <tei:hi style="letter-sparse">nicht</tei:hi>
+        <tei:seg> spurlos vorübergegangen, ist gelesen und beurtheilt worden.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich seh' es an mir selbst. Hätten nicht Buchhändler die Gewogenheit, meiner Kritik ihre Nova anzuvertrauen, und versendeten sie nichts; ich würde bald aus dem Zusammenhang kommen oder gezwungen sein, viel Geld auszugeben. Gesetzt, es erscheint in Hamburg eine Schrift von Mundt und wird Niemanden, auch </tei:seg>
+        <tei:hi style="letter-sparse">mir</tei:hi>
+        <tei:seg> nicht zugesandt. Was muß ich thun? Ich muß die Schrift kommen lassen; denn lesen muß ich sie doch! Die Herren Sortimentisten glauben auch hier wohlfeil wegzukommen; sie verschreiben das Buch </tei:seg>
+        <tei:foreign>à</tei:foreign>
+        <tei:seg> Condition; d. h. sie nehmen es nicht auf feste Rechnung, sie behalten sich das Recht vor, das Buch zu remittiren. Toller Gebrauch! Ich weiß keinen andern Ausdruck dafür. Mundts Schrift kömmt, ich lese sie, und - schicke sie zurück. Wer wollte mir verdenken, daß ich einige Thaler, die ich sparen kann, in der Tasche behalte! Ich denke, Herr Veit in Berlin, Herr Perthes und Besser in Hamburg sind reiche Leute, die brauchen meinen Thlr. 20 Slbgr. nicht. Sagte der Verleger: ich versende nur fest! so würde mich der Sortimentist in Frankfurt fragen: Ja, ich verschreib' es, aber Sie müssen es behalten? Ich werde ein saures Gesicht machen und sagen: Nun, wenn's denn nicht anders ist, </tei:seg>
+        <tei:hi style="letter-sparse">schreiben Sie nur!</tei:hi>
+        <tei:seg> Dies soll nur ein Beispiel sein und etwa die HH. Buchhändler nicht verleiten, indem sie mich für einen großen Bücherkäufer halten, mir keine Zusendungen mehr zu machen!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es ist ein ganz thörichter Wahn, anzunehmen, die Bücher wären da, um gekauft zu werden. </tei:seg>
+        <tei:hi style="letter-sparse">Die Bücher sind da, um gelesen zu werden</tei:hi>
+        <tei:seg>. Und der Verleger soll bedacht sein, dies </tei:seg>
+        <tei:hi style="letter-sparse">Lesenkönnen</tei:hi>
+        <tei:seg> der Bücher nur </tei:seg>
+        <tei:hi style="letter-sparse">durch das Kaufen möglich</tei:hi>
+        <tei:seg> zu machen. In Frankreich und England hat man diesen Grundsatz. In Deutschland dagegen wird der Autor durch eine falsche Buchhändlermanipulation </tei:seg>
+        <tei:hi style="letter-sparse">geplündert</tei:hi>
+        <tei:seg>. In Deutschland würde dreimal mehr als in Frankreich gekauft werden, wenn unsre schöne Buchhandlungsverfassung nicht das </tei:seg>
+        <tei:hi style="letter-sparse">Nichtkaufen</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Doch Lesen</tei:hi>
+        <tei:seg> so sehr erleichterte. Der Pa-</tei:seg>
+        <tei:pb n="364"/>
+        <tei:seg> riser Buchhändler verlegt eine Brochüre von Clauzel. Er kündigt sie in den Journalen an und läßt sich einen Gensdarmen an den Laden stellen, wenn der Zudrang der Kaufenden zu stark ist. Wird er ein Narr sein, und seine Brochüre </tei:seg>
+        <tei:hi style="letter-sparse">zur Ansicht</tei:hi>
+        <tei:seg> versenden? </tei:seg>
+        <tei:hi style="letter-sparse">Zur Ansicht</tei:hi>
+        <tei:seg> in den Fauburg St. Germain? </tei:seg>
+        <tei:hi style="letter-sparse">Zur Ansicht</tei:hi>
+        <tei:seg> in die Cabinets der Lektüre? </tei:seg>
+        <tei:hi style="letter-sparse">Zur Ansicht</tei:hi>
+        <tei:seg> in die Provinz? </tei:seg>
+        <tei:hi style="letter-sparse">Zur Ansicht</tei:hi>
+        <tei:seg> in die Kolonien? Nein; die Deutschen sind wirklich grade da am dümmsten, wo sie sich für die Klügsten halten, nämlich in der Literatur.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wollte man das </tei:seg>
+        <tei:hi style="letter-sparse">Kaufen</tei:hi>
+        <tei:seg> der Bücher nur auf den </tei:seg>
+        <tei:hi style="letter-sparse">Ehren</tei:hi>
+        <tei:seg>punkt ankommen lassen, auf den Dilettantismus und den seltnen Trieb, sich eine kleine Bibliothek anzulegen, so würde unter diesen Umständen auch in Frankreich und England so wenig </tei:seg>
+        <tei:hi style="letter-sparse">gekauft</tei:hi>
+        <tei:seg> werden, wie in Deutschland. Von Lamartines Jocelyn, versandt an die Pariser Buchhändler, versandt in die Provinz, würden 1000 Exemplare verkauft sein; während Gosselin, der ihn, glaub' ich, verlegte, </tei:seg>
+        <tei:hi style="letter-sparse">wenigstens</tei:hi>
+        <tei:seg> 5000 Exemplare verkaufte. Cormenins Brochüre, die bald 20 Auflagen erlebt hat, würde, wenn ein Deutscher die schöne auf der Leipziger Buchhändlerakademie gelernte Versendung derselben betrieben hätte, mit Fakturen und Spesen und Commissionsgebühren u. s. w. es kaum auf 3 Auflagen gebracht haben. Also kann man nicht gradezu sagen, der deutsche Schriftsteller wird durch den schlechten Vertrieb, der im deutschen Buchhandel herrscht, um den Vortheil betrogen, den er von seinem Talente ziehen könnte? Ich will an mir selbst ein Beispiel geben. Die vergessene und verschmerzte </tei:seg>
+        <tei:hi style="letter-sparse">Wally</tei:hi>
+        <tei:seg> ist in ihrer ganzen Auflage allerdings vergriffen und Niemand wird wagen, sie wieder aufzulegen. Allein nähme man das Verbot fort, zöge man es als nicht dagewesen von dem Beispiele ab, so würde vielleicht noch eine 2. Auflage nicht grade das, was bei der ersten verdient war, wie das gewöhnlich geht, wieder aufgezehrt haben, es aber bei der </tei:seg>
+        <tei:hi style="letter-sparse">Methode</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:foreign>à cond.</tei:foreign>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">auszuliefer</tei:hi>
+        <tei:seg>n</tei:seg>
+        <tei:hi style="letter-sparse">, und zu versenden</tei:hi>
+        <tei:seg>, nicht höher gebracht haben, als eben auf die 2. Auflage. Im entgegengesetzten Falle, nach Art des französischen Buchhandels, würde der Erfolg um das Doppelte größer gewesen sein.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es kömmt bei so vielen Schriften darauf an, sie </tei:seg>
+        <tei:hi style="letter-sparse">schnell zu haben</tei:hi>
+        <tei:seg>. Die Neugier läßt sich's wohl einmal etwas kosten. Eh' ich in einer Leihbibliothek Wochenlang mich vertrösten lasse, </tei:seg>
+        <tei:pb n="365"/>
+        <tei:seg> geh' ich lieber zum Buchhändler und kaufe die Schrift, wenn sie einmal auf andre Art gar nicht </tei:seg>
+        <tei:hi style="letter-sparse">angesehen</tei:hi>
+        <tei:seg> werden kann. Deutschland hat ja nichts, woran es sich erholt, als sein Schriftwesen. Selbst der Indifferentismus unsrer Epoche liegt nur darin, daß die Menschen </tei:seg>
+        <tei:hi style="letter-sparse">selbst</tei:hi>
+        <tei:seg> keine Meinungen mehr fassen wollen; aber - für die Meinungen </tei:seg>
+        <tei:hi style="letter-sparse">Andrer</tei:hi>
+        <tei:seg>, für den Schnack, für die Kritik, für die Conversation werden sie sich immer interessiren. Es liegt in den Voraussetzungen eines nur den Wissenschaften, Künsten und der Literatur zugewandten Volkes, daß sich bei ihm das geistige Kapital weit </tei:seg>
+        <tei:hi style="letter-sparse">mehr</tei:hi>
+        <tei:seg> verinteressiren muß, als in Frankreich und in England, wo es noch andere und für wichtiger gehaltene Hebel des öffentlichen Lebens gibt. Wenn hievon grade das Gegentheil bei uns der Fall ist, so ist der Buchhandel und nicht das Publikum Schuld daran.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es gibt für den Verleger Chancen genug; aber ein Mittel, sie zu besiegen, ist: </tei:seg>
+        <tei:hi style="letter-sparse">Guter</tei:hi>
+        <tei:seg> Verlag und </tei:seg>
+        <tei:hi style="letter-sparse">Ankündigungen</tei:hi>
+        <tei:seg>. Das Publikum muß im Nu wissen, was erschienen ist. Wo leben wir Alle? In der Provinz. Berlin und Wien - wir leben überall in der Provinz. Eine Hauptstadt gibt es nicht, sie ist unsichtbar, sie ist ideell. Wir alle sind gewohnt, in den Dingen, die uns interessiren, 8, 14 Tage zu spät zu kommen. Hamburg ist gegen Frankfurt Provinz, Frankfurt gegen Hamburg. </tei:seg>
+        <tei:hi style="letter-sparse">Hauptstadt für den norddeutschen Buchhändler</tei:hi>
+        <tei:seg> ist </tei:seg>
+        <tei:hi style="letter-sparse">Leipzig</tei:hi>
+        <tei:seg>, für den Süddeutschen und rheinländischen </tei:seg>
+        <tei:hi style="letter-sparse">Frankfurt</tei:hi>
+        <tei:seg>. Jetzt gäbe ein Verleger im kleinsten Orte, in Quedlinburg, in Zeitz nach </tei:seg>
+        <tei:hi style="letter-sparse">unsrer</tei:hi>
+        <tei:seg> Art eine Schrift heraus; so werden zwei Fälle eintreten: 1.) Er hat die Ankündigungen nicht gespart, die Kritik ist zum Urtheil aufgefordert, das Publikum weiß, was da ist. Der Gelehrte hört von einem neuen Commentar über Tacitus. Wer hat ihn geschrieben? Zumpt. Was ist zu thun? Man kann ihn entweder haben wollen, oder </tei:seg>
+        <tei:hi style="letter-sparse">nicht</tei:hi>
+        <tei:seg> haben wollen. Der Gelehrte läßt ihn kommen und muß ihn behalten. Ein </tei:seg>
+        <tei:foreign>Homo novus </tei:foreign>
+        <tei:seg>schrieb den Commentar. Nun, warten wir die Kritik ab! So ist es in der Gelehrsamkeit, so in den schönen Wissenschaften. Ein Roman von W. v. Wachsmann ist erschienen. </tei:seg>
+        <tei:hi style="letter-sparse">Ich</tei:hi>
+        <tei:seg> mag ihn nicht lesen: meinetwegen kann er auch </tei:seg>
+        <tei:hi style="letter-sparse">nicht</tei:hi>
+        <tei:seg> erschienen sein. Allein die Grisette will ihn lesen, der Hausknecht, der Kutscher, der Soldat auf dem Wachtposten, der Copist, der sich Sekretär nennt; also die Leihbibliothek muß ihn haben. Sie wird ihn kommen lassen. Wird er nicht ver-</tei:seg>
+        <tei:pb n="366"/>
+        <tei:seg>langt, was ich noch eher glaube, sie muß ihn </tei:seg>
+        <tei:hi style="letter-sparse">doch</tei:hi>
+        <tei:seg> kommen lassen, um frisches Material zu haben, und der Conkurrenz mit dem andern Leihbibliothekar im Orte wegen. 2.) Die Schrift ist so wichtig, daß der Sortimentshändler eine Nachfrage </tei:seg>
+        <tei:hi style="letter-sparse">ahnt</tei:hi>
+        <tei:seg>. Er weiß, daß er da und dort Absatz hat, er frägt bei Diesem oder Jenem an, und schreibt, noch ehe die Schrift erschienen, um schleunige Zusendung der Exemplare, die er </tei:seg>
+        <tei:hi style="letter-sparse">fest</tei:hi>
+        <tei:seg> behält. Oder er frägt nicht nach; er sieht aber ein, daß es fatal wäre, wenn etwas von Rückert, Steffens, Rehfues, Schelling, etwas von Mundt, Heine, u. s. w. angekündigt in den Blättern stünde und er könne damit nicht sogleich zur Hand sein; er fürchtet, sein Nachbar, mit dem er rivalisirt, drüben könne es und risquire die Verschreibung - nun, dann mag er's wagen, so gut, wie der Seidenhändler </tei:seg>
+        <tei:foreign>en detail</tei:foreign>
+        <tei:seg> den Seidenhändler </tei:seg>
+        <tei:foreign>en gros</tei:foreign>
+        <tei:seg> bezahlen muß, so gut der Spezereihändler seinen Kaffée, Indigo nicht in </tei:seg>
+        <tei:hi style="letter-sparse">Commission</tei:hi>
+        <tei:seg> nimmt, er lasse sich das Buch kommen, einfach, zweifach, je nachdem er spekulirt! Steht denn nicht eine außerordentliche Prämie auf sein Risiko? Womit verdient denn der Sortimentshändler seine 33 </tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>/3 %, diese beispiellose Prämie! Durch seine Mühe! Gut, aber </tei:seg>
+        <tei:hi style="letter-sparse">welche</tei:hi>
+        <tei:seg> Mühe? die Mühe, die du dir mit einem fremden Artikel, der nicht zieht, nimmst, soll dir </tei:seg>
+        <tei:hi style="letter-sparse">ein</tei:hi>
+        <tei:seg> andrer, für den du vielleicht nichts thust, ersetzen? Dafür, daß das Buch vielleicht ganz einfach von dem Leihbibliothekar des Ortes gekauft wird, willst du ein Drittel des Gewinns haben? Ja, du sollst ihn haben; dann mußt du aber auch das Risiko deiner Geschäftskenntniß tragen, du mußt durch falsche und irrthümliche Spekulation eben so leicht falliren können, wie der Verleger! </tei:seg>
+        <tei:hi style="letter-sparse">Spekulire</tei:hi>
+        <tei:seg>! Das ist die Firma alles heutigen Handels, und du, Buchhändler, bist </tei:seg>
+        <tei:hi style="letter-sparse">sehr</tei:hi>
+        <tei:seg> erzürnt, wenn man dich nicht als </tei:seg>
+        <tei:hi style="letter-sparse">Kaufmann</tei:hi>
+        <tei:seg> anerkennt, du bist eifersüchtig auf die, welche in dir keinen eigentlichen </tei:seg>
+        <tei:hi style="letter-sparse">Kaufmann</tei:hi>
+        <tei:seg> sehen wollen!</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Reform des deutschen Buchhandels, wie sie dringend nothwendig wird, ist demnach in folgenden Grundzügen enthalten:</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="367"/>
+        <tei:seg> 1) Der Verleger </tei:seg>
+        <tei:hi style="letter-sparse">versendet</tei:hi>
+        <tei:seg> nur noch Schriften, die </tei:seg>
+        <tei:hi style="letter-sparse">Spekulationen auf die Masse</tei:hi>
+        <tei:seg> sind und des </tei:seg>
+        <tei:hi style="letter-sparse">Colporteurs</tei:hi>
+        <tei:seg> bedürfen! Demnach, alle heftweisen Unternehmungen, Zeitschriften, Encyklopädien, Kupferstichsammlungen, kurz Alles, was sich erst durch </tei:seg>
+        <tei:hi style="letter-sparse">Autopsie</tei:hi>
+        <tei:seg> empfehlen kann! Auch wissenschaftliche Werke, Handbücher, wenn der Verleger einmal darauf besteht und fest glaubt, die </tei:seg>
+        <tei:hi style="letter-sparse">Ansicht</tei:hi>
+        <tei:seg> werde zum </tei:seg>
+        <tei:hi style="letter-sparse">Kaufe</tei:hi>
+        <tei:seg> veranlassen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>2) Alles Andre von literarischen Produkten ist zu betrachten, wie jene Geheimnisse der Essigfabrikation u. s. w. die nur versiegelt ausgegeben werden. Dahin gehören alle Originalschriften namhafter Gelehrten, alle poetischen Produktionen, alle Gelegenheitsschriften. Sie werden </tei:seg>
+        <tei:hi style="letter-sparse">nicht</tei:hi>
+        <tei:seg> versandt; sondern nur angekündigt und stapeln in Leipzig, Frankfurt, in Berlin, an so vielen Commissionsörtern, als es passende Verbindungen gibt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>3) Der Verleger kündigt seinen Verlagsartikel erst auf Verlangszetteln an. </tei:seg>
+        <tei:foreign>A</tei:foreign>
+        <tei:seg> Condition wird </tei:seg>
+        <tei:hi style="letter-sparse">nichts</tei:hi>
+        <tei:seg> verabfolgt. Wer ein Buch </tei:seg>
+        <tei:hi style="letter-sparse">sehen</tei:hi>
+        <tei:seg> will, muß es auch bezahlen: das ist ein </tei:seg>
+        <tei:hi style="letter-sparse">natürliches</tei:hi>
+        <tei:seg> Autor- und Verlagsrecht. Denn wer würde es sehen wollen, ohne es zu </tei:seg>
+        <tei:hi style="letter-sparse">lesen</tei:hi>
+        <tei:seg>? Und es benutzen (denn das ist Lesen) und nichts dafür bezahlen, ist unbillig und jedem analogen Verhältnisse schnurstracks widersprechend.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>4) Wer auf Verlagszettel achten will, wer da glaubt, er müsse das Buch </tei:seg>
+        <tei:hi style="letter-sparse">schnell</tei:hi>
+        <tei:seg> haben, weil es vielleicht sein Rival auf Risiko verschreibt, wer gewiß weiß, daß er das Buch absetzt und schon Aufträge hat; der verschreibe das Buch vor der Erscheinung und er wird 33 </tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>/3 % vergütet erhalten.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich weiß, daß zu diesen Vorschlägen grade diejenigen HH. Sortimentshändler lächeln werden, welche eine hübsche Firma am Laden und Kundschaft haben, und diejenigen mich verwünschen, welchen Brod zu verdienen, allerdings sauer wird. Allein der Verleger, der doch das Meiste auf's Spiel setzt, ist sich selbst der Nächste. Auch</tei:seg>
+        <tei:hi style="letter-sparse"> er </tei:hi>
+        <tei:seg>wird zu diesen Vorschlägen zweideutig blicken. Er denkt, je </tei:seg>
+        <tei:hi style="letter-sparse">mehr</tei:hi>
+        <tei:seg> er versendet, desto mehr käme unter die Leute und hafte hier und dort. Großer Gott, </tei:seg>
+        <tei:hi style="letter-sparse">Bücherkaufen</tei:hi>
+        <tei:seg> ist die Sache weniger Menschen. Ich bin gewiß, daß sich diese Ueberzeugung, wenn sie sich mit </tei:seg>
+        <tei:hi style="letter-sparse">der</tei:hi>
+        <tei:seg> verbindet, </tei:seg>
+        <tei:hi style="letter-sparse">Bücherlesen</tei:hi>
+        <tei:seg> ist die Sache Aller, zuletzt meinen Vorschlägen bereitwillig fügen wird.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das Beste an diesen Vorschlägen ist, daß sie, um eingeführt zu werden, keines Leipziger Börsendekrets bedürfen. Es </tei:seg>
+        <tei:pb n="368"/>
+        <tei:seg> steht jedem Verleger frei, sie in Betreff seiner Artikel geltend zu machen. Er mache nur den </tei:seg>
+        <tei:hi style="letter-sparse">Anfang</tei:hi>
+        <tei:seg>! Freilich darf es kein </tei:seg>
+        <tei:hi style="letter-sparse">unbedeutender</tei:hi>
+        <tei:seg> Verlag sein, der sich auf diese Weise eröffnet, obschon die Firma es nicht macht, sondern das </tei:seg>
+        <tei:hi style="letter-sparse">Buch</tei:hi>
+        <tei:seg>. Gesetzt, es schriebe Jemand:</tei:seg>
+      </tei:p>
+      <tei:p style="text-center">
+        <tei:hi style="letter-sparse">Kleines Buchhändlerlexikon</tei:hi>
+      </tei:p>
+      <tei:p style="text-center">
+        <tei:seg>oder</tei:seg>
+      </tei:p>
+      <tei:p style="text-center">
+        <tei:seg>Alphabetische Aphorismen über die deutschen Buchhändler</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:p style="no-indent text-left">
+        <tei:seg>und versendet </tei:seg>
+        <tei:hi style="letter-sparse">nichts</tei:hi>
+        <tei:seg> von diesem Buche und gäbe es </tei:seg>
+        <tei:hi style="letter-sparse">nur</tei:hi>
+        <tei:seg> auf feste Rechnung, ich bin gewiß, er würde 600 Exemplare an 600 Buchhändler </tei:seg>
+        <tei:hi style="letter-sparse">verkaufen</tei:hi>
+        <tei:seg>. Würde der Thor aber das Buch </tei:seg>
+        <tei:hi style="letter-sparse">versenden</tei:hi>
+        <tei:seg>, so kämen ihm von 600 vielleicht 590 wieder </tei:seg>
+        <tei:hi style="letter-sparse">zurück</tei:hi>
+        <tei:seg>. Das ist Demonstration </tei:seg>
+        <tei:foreign>ad hominem</tei:foreign>
+        <tei:seg>! Allein man mache nur hie und da den Versuch und in einigen Jahren wird der Buchhandel eine ganz neue Gestalt gewonnen haben.</tei:seg>
+      </tei:p>
+      <tei:p style="text-right">
+        <tei:seg>K. G.</tei:seg>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>*) (</tei:seg>
+          <tei:hi style="letter-sparse">Anmerkung eines Sortimentshändlers.</tei:hi>
+          <tei:seg>) </tei:seg>
+          <tei:hi style="letter-sparse">Ohne</tei:hi>
+          <tei:seg> 33 </tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>/3% können wir nicht bestehen, da wir ohnehin dem Publikum schon 10% vergüten. Mein Laden kostet mich fl. 400; meine Commis kosten fl. 1200. Fuhrkosten und Spesen jährlich fl. 800: macht fl. 2400. Wo soll das her?</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>K[arl] G[utzkow:] Ueber eine Reform des deutschen Buchhandels. In: Frankfurter Telegraph [Neue Folge], Nr. 46, [19.] Juni 1837, S. 361-368. (Rasch 3.37.06.19) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>K[arl] G[utzkow:] Ueber eine Reform des deutschen Buchhandels. In: Börsenblatt für den deutschen Buchhandel und für die mit ihm verwandten Geschäftszweige. Leipzig. Nr. 60, 28. Juli 1837, Sp. 1337-1342, und Nr. 61, 1. August 1837, Sp. 1369-1372. (Rasch 3.37.06.19)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J1. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Zeitschriftendruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck werden stillschweigend berichtigt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>schön-wissenschaftliche</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>schön- wissenschaftliche</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">1,23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Organisation</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Organisition</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">2,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ausgeboten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ausboten</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Niemand</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Nimand</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>geht, wieder</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>geht wieder</tei:sic>
+        <tei:seg>  ausgefallenes Satzzeichen</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">5,8-9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>entgegengesetzten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>entgegesetzten</tei:sic>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>5. Rezeption</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>5.1 Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="1.">
+          <tei:seg>[Anon.:] Das Novaversenden und die Ursachen des Verfalles des Deutschen Buchhandels. (In Bezug auf den Gutzkowschen Aufsatz in Nr. 60 des jetzigen Jahrgangs dies. Bl.) In: Börsenblatt für den deutschen Buchhandel. Leipzig. Nr. 71, 5. September 1837, Sp. 1649-1654. (Rasch 9/2.37.09.05)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="2.">
+          <tei:seg>[Anon.:] Ein Wort über die Aussicht, das größte Verderben des Deutschen Buchhandels liege im Novaversenden. In: Börsenblatt für den deutschen Buchhandel. Leipzig. Nr. 74, 15. September 1837, Sp. 1729-1734, und Nr. 75, 19. September 1837, Sp. 1753-1755. (Rasch 9/2.37.09.15)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="3.">
+          <tei:seg>Wilhelm Hoffmann: Durchgehauen! In: Börsenblatt für den deutschen Buchhandel. Leipzig. Nr. 79, 3. Oktober 1837, Sp. 1849-1850. (Rasch 9/2.37.10.03)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

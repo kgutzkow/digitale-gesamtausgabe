@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,63 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-03-06">Fassung 1.1 Ueberfuehrung in TEI</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="2129"/>
+        <tei:seg> Die Buchhändlermesse.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>° Leipzig. Den Tuch-, Leder- und Calicohändlern hat Merkur mit seinem Flügelstabe dießmal, trotz Krieg und Revolution, goldene Ernten gezaubert; als aber die Buchhändler mit ihren Strazzen und Verlangslisten kamen, floh der schlimme Gott auf behenden Sohlen davon, und die Messe verdient weit mehr Lugete- als Jubilate-Messe genannt zu werden. Das Eine nur war an dieser Messe tröstlich: es zeigte sich ein guter geschäftlicher Wille. Einige der ersten Sortimentsherren waren persönlich auf dem Platz erschienen. Jene Anarchie, die im vorigen Jahr in dieß im ganzen so schön geordnete deutsche Buchhandlungswesen hereinzubrechen drohte, hat sich nicht fortgesetzt, im Gegentheil würde man gern gezahlt haben, wenn nur mehr – abgesetzt gewesen wäre. Die dießjährige Messe war der völlige Gegensatz der vorjährigen. Vorm Jahre das dem buchhändlerischen Verkehr außerordentlich günstig gewesene Jahr 1847; aber in den Wirren der Zeit keine Abrechnung und noch weniger baare Deckung. In diesem Jahre viel solide Neigung dem Verfall des Buchhandels durch klingende Erfüllung seiner Verpflichtungen entgegenzuarbeiten, aber die Basis davon: das dem Bücherabsatz völlig unfruchtbar gewesene Jahr 1848! Wer hatte Muße und Lust etwas anderes zu lesen als Zeitungen? Wer hielt nicht ängstlich Haus mit seinen finanziellen Mitteln? Die Aufhebung der Censur benahm den Reiz der Verbote, die so vielen Schriften sonst zur Beförderung ihres Absatzes dienten. Oesterreich, durch seine Büchersperre sonst so bücherlüstern, ist gegen die Litteratur entweder jetzt ganz blasirt oder von Krieg, Revolution und Zeitungslectüre so in Anspruch genommen daß das Geschäft nach jener sonst so ergiebigen Gegend hin dießmal kaum in Betracht kam. Wenn nicht glücklicherweise die deutsche Sprache auch außerhalb Deutschlands geliebt wäre, würde unser Buchhandel unter jetzigen Umständen kaum bestehen können. Das Interesse das in Amerika, England und den russischen Ostseeprovinzen am deutschen Büchermarkte noch genommen wird, hat ihm dießmal fast ausschließlich die baaren Geldmittel zugeführt, mit denen der Buchhandel bis zum nächsten Jahre sich fristen soll. Und wie wird es dann aussehen? Ist der vaterländische Boden von Rosseshufen zerstampft, mit Bruderblut befleckt – wer weiß ob dann nicht die Bücher als Streu in den Ställen der Kosaken dienen! Vielleicht wirkt der allgemeinen Verwilderung der Gemüther und der einseitigen Verflachung unserer geistigen Interessen, </tei:seg>
+        <tei:hi style="letter-sparse">etwas</tei:hi>
+        <tei:seg> wenigstens, die Goethe-Feier entgegen. Die Regierungen die ihre Kraft jetzt nur in Spitzkugeln und Shrapnells suchen müssen, sollten zur Versöhnung der Humanität etwas für die Erinnerung an Goethe’s hundertjährige Geburt thun, und auf die Belagerungszustände des Vaterlands einige, wenn auch Treibhausblumen streuen. Ein Aufblick zu den Wahrheiten und Gütern, die über den Kampf der Parteien erhaben sind, thut der Nation wahrlich noth!</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>[Anon.:] Leipzig. Die Buchhändlermesse. In: Allgemeine Zeitung. Augsburg. Nr. 138, 18. Mai 1849, S. 2129. (Rasch 3.49.05.18).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
