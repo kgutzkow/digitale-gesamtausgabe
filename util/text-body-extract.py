@@ -66,7 +66,7 @@ def trim_empty(element):
         element.getparent().remove(element)
 
 
-UNKNOWN_STYLES = []
+UNKNOWN_STYLES = set()
 
 
 def merge_styles(element, styles, extract_style_names, style_mappings):
@@ -84,13 +84,15 @@ def merge_styles(element, styles, extract_style_names, style_mappings):
             if key in extract_style_names:
                 style_list.append((key, value))
         if style_list:
-            style_list.sort(key=lambda i: i[0])
-            style_desc = str(style_list)
-            if style_desc not in style_mappings:
-                style_mappings[style_desc] = 'style-%i' % len(style_mappings)
-                UNKNOWN_STYLES.append((style_desc, style_mappings[style_desc]))
-            if style_mappings[style_desc]:
-                element.attrib['style'] = style_mappings[style_desc]
+            for style in (str(style) for style in style_list):
+                if style in style_mappings:
+                    if style_mappings[style]:
+                        if 'style' in element.attrib:
+                            element.attrib['style'] = '{0} {1}'.format(element.attrib['style'], style_mappings[style])
+                        else:
+                            element.attrib['style'] = style_mappings[style]
+                else:
+                    UNKNOWN_STYLES.add(style)
 
 
 def strip_whitespace(doc):
@@ -227,7 +229,7 @@ def apply_post_processing(root, styles, steps):
                 print('==============')
                 print('Unknown styles')
                 for style_desc in UNKNOWN_STYLES:
-                    print(style_desc)
+                    print('"{0}": "",'.format(style_desc))
                 print('==============')
         elif step['action'] == 'simplify-tree':
             simplify_tree(root, **(step['params'] if 'params' in step else {}))
