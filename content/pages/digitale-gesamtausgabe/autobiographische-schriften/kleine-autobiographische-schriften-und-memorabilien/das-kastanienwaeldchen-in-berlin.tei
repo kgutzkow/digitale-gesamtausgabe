@@ -370,11 +370,16 @@
       </tei:p>
       <tei:p>
         <tei:seg>Diese traf ein, und so wurde denn - ein altes Felleisen mit meinen Habseligkeiten gepackt. Meine Reiselectüre war ein eben erschienenes Buch von Karl Rosenkranz: "Geschichte der deutschen Poesie im Mittelalter." Im strömenden Regen und nach Abschieden, deren Schmerz auf anderem Gebiet zu suchen war, als auf dem welken Laub im Kastanienwäldchen (dem Capitel vom jungen Geist sollte sich in meinen "Lateinischen Jahren" eigentlich noch ein Capitel vom jungen Herzen anschließen dürfen</tei:seg>
-        <tei:ref type="footnote" target="#footnote-1">*</tei:ref><tei:note type="footnote" xml:id="footnote-1"><tei:p><tei:seg>Der Leser wird mit uns übereinstimmen, wenn wir unserm berühmten Freund und Mitarbeiter auch für dieses „Capitel vom jungen Herzen“ schon im Voraus ein herzliches Willkommen zurufen! Die Herausgeber des „Salon“."</tei:seg></tei:p></tei:note>
+        <tei:ref type="footnote" target="#footnote-1">*</tei:ref>
         <tei:seg>), rasselte ich aus der Stadt der Pest hinaus zum noch cholerafreien und überhaupt in Allem und Jedem freieren Süden. Man bedenke das feierliche Tempo dieses gewagten ersten Schrittes in die große Welt! Ich fuhr nicht einmal mit der "Schnell"-, sondern, meiner bemessenen Reisekasse wegen, mit der "Fahrpost" -! Zwei Nächte und einen ganzen Tag gönnte sich ein begnügteres Jahrhundert, um von Berlin nur allein - bis nach Halle zu kommen.</tei:seg>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p>
+          <tei:seg>Der Leser wird mit uns übereinstimmen, wenn wir unserm berühmten Freund und Mitarbeiter auch für dieses „Capitel vom jungen Herzen“ schon im Voraus ein herzliches Willkommen zurufen! Die Herausgeber des „Salon“."</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="global" xml:id="global">
+    <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
@@ -387,33 +392,37 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Gutzkows Erinnerungen an seine Studienzeit erschienen zuerst Anfang 1869 in der von Julius Rodenberg und Ernst Dohm herausgegebenen illustrierten Monatsschrift "Der Salon für Literatur, Kunst und Gesellschaft". Ein Jahr später nahm Gutzkow die umfangreiche Arbeit mit einigen kleineren Änderungen in den zweiten Band seiner </tei:seg>
         <tei:q>Lebensbilder</tei:q>
         <tei:seg> auf, der den Bandtitel </tei:seg>
         <tei:q>Novellen und Skizzen</tei:q>
         <tei:seg> trägt. Davon erschien 1874 eine zweite, unveränderte Auflage. Weitere Druckes des Textes zu Lebzeiten Gutzkows sind nicht nachgewiesen.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="text-left">
         <tei:seg>Im Goethe- und Schiller-Archiv werden im Nachlass von Julius Rodenberg 10 Blatt Druckfahnen mit Autorkorrekturen des Erstdrucks aufbewahrt (Signatur GSA 81/IV,7,10). Es handelt sich dabei um die letzten Seiten des Beitrags mit einer von der Publikation leicht abweichenden Paginierung. Gutzkow hat mit Tinte Druckfehler berichtigt, einige wenige stilistische Änderungen und Modifikationen der Zeichensetzung angebracht und auf dem letzten Blatt seine Druckgenehmigung erteilt: </tei:seg>
         <tei:q>Gut zum Druck, / Gutzkow</tei:q>
         <tei:seg>. Die Autorkorrekturen sind sämtlich umgesetzt worden und entsprechen dem Erstdruck im "Salon".</tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item data-source-id="J">
-          <tei:seg>Karl Gutzkow: Das Kastanienwäldchen in Berlin. In: Der Salon für Literatur, Kunst und Gesellschaft. Leipzig. Bd. 3, [Heft 2, Januar 1869], S. 129-148; Bd. 3, [Heft 3, Februar 1869], S. 278-292. (Rasch 3.69.01.1) </tei:seg>
+        <tei:item>
+          <tei:seg>J. Karl Gutzkow: Das Kastanienwäldchen in Berlin. In: Der Salon für Literatur, Kunst und Gesellschaft. Leipzig. Bd. 3, [Heft 2, Januar 1869], S. 129-148; Bd. 3, [Heft 3, Februar 1869], S. 278-292. (Rasch 3.69.01.1) </tei:seg>
         </tei:item>
-        <tei:item data-source-id="E1">
-          <tei:seg>Das Kastanienwäldchen in Berlin. In: Karl Gutzkow: Novellen und Skizzen. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1870. S. 45-126. (Rasch 2.40.2.2) </tei:seg>
+        <tei:item>
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>. Das Kastanienwäldchen in Berlin. In: Karl Gutzkow: Novellen und Skizzen. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1870. S. 45-126. (Rasch 2.40.2.2) </tei:seg>
         </tei:item>
-        <tei:item data-source-id="E2">
-          <tei:seg>Das Kastanienwäldchen in Berlin. In: Karl Gutzkow: Novellen und Skizzen. 2. Aufl. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1874. S. 45-126. (Rasch 2.40a.2.2)</tei:seg>
+        <tei:item>
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>. Das Kastanienwäldchen in Berlin. In: Karl Gutzkow: Novellen und Skizzen. 2. Aufl. (Lebensbilder. Bd. 2.) Stuttgart: Hallberger, 1874. S. 45-126. (Rasch 2.40a.2.2)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2">
@@ -422,16 +431,16 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">85,2</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>hatte</tei:lem>
@@ -439,7 +448,7 @@
         <tei:sic>hatten</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">92,29</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>disparatesten</tei:lem>
@@ -447,7 +456,7 @@
         <tei:sic>disperatesten</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">94,27</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>hinaus</tei:lem>
@@ -455,7 +464,7 @@
         <tei:sic>hinaus-</tei:sic>
         <tei:seg> Irrtümlich Trennstrich am Zeilenende. </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">96,10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Individualität</tei:lem>
@@ -463,21 +472,21 @@
         <tei:sic>Individuali tät</tei:sic>
         <tei:seg> Ausgefallener Trennstrich am Zeilenende. </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">100,22</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Ponce</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Pouce </tei:sic>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">112,10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Standpunkt</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Standtpunkt </tei:sic>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">115,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>erschien,</tei:lem>
@@ -485,14 +494,14 @@
         <tei:sic>erschien</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">115,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Ich</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>"Ich </tei:sic>
       </tei:p>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">123,6</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Henning,</tei:lem>
@@ -503,10 +512,9 @@
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
