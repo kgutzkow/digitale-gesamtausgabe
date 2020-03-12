@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -47,16 +47,16 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="733"/>
         <tei:seg> Literarischer Augiasstall.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>N</tei:seg>
         <tei:hi style="sup">o</tei:hi>
         <tei:seg>. 1.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg> </tei:seg>
         <tei:hi style="font-size-small">Der Schriftsetzer J. </tei:hi>
         <tei:hi style="font-size-small letter-sparse">Mendelsson</tei:hi>
@@ -128,19 +128,19 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -148,10 +148,10 @@
           <tei:seg>[Karl] G[utzkow]: Literarischer Augiasstall. No. 1. Der Schriftsetzer J. Mendelsson in Hamburg. In: Telegraph für Deutschland. Hamburg. Nr 184, [17.] November 1841, S. 733-735. (Rasch 3.41.11.17)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -160,10 +160,10 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteinriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>3.1. Quellen</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -181,10 +181,10 @@
       <tei:p style="no-indent text-left">
         <tei:seg>5. Christoph Vorholz: Lyraklänge, ernste und heitere aus dem Leben eines Handwerksmannes. Karlsruhe: Vorholz, 1840.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -208,7 +208,7 @@
       <tei:p style="no-indent text-left">
         <tei:seg>6. Der "Schriftsetzer" Joseph Mendelssohn: Aufrichtige Danksagung an Herrn Dr. Karl Gutzkow in Hamburg gerichtet. In: Panorama der Gegenwart. Hamburg. Nr 4, 8. Januar 1842, Sp. 25-31. (Rasch 9/2.42.01.08)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
