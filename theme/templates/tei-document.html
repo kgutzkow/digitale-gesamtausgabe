@@ -1,0 +1,751 @@
+{% extends "base.html" %}
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/reader/app.css"/>
+{% endblock %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block breadcrumb_title %}{{ page.title }}{% endblock %}
+{% block content %}
+  <h1>{{ page.title }}</h1>
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+  <div class="grid-x grid-padding-x">
+    <section class="cell small-12 medium-8">
+      {{ page.extract }}
+    </section>
+    <aside class="cell small-12 medium-4 metadata">
+      <button class="button primary expanded" data-action="read">Lesen</button>
+      <dl>
+        {% if page.bibl %}
+        <dt>Bibliographischer Nachweis</dt>
+        <dd>{{ page.bibl }}</dd>
+        {% endif %}
+        {% if page.authors %}
+        <dt>Autor</dt>
+        <dd>
+          <ul class="no-bullet">
+            {% for author in page.authors %}
+              <li>{{ author }}</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
+        {% if page.pdf %}
+        <dt>Druckansicht des Textes</dt>
+        <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
+        {% endif %}
+        {% if page.editors %}
+          {% for grouper, editors in page.editors|groupby('role') %}
+            <dt>{{ grouper }}</dt>
+            <dd>
+              <ul class="no-bullet no-indent">
+                {% for editor in editors %}
+                  <li>{{ editor.name }}</li>
+                {% endfor %}
+              <ul>
+            </dd>
+          {% endfor %}
+        {% endif %}
+        {% if page.revisions %}
+        <dt>Geschichte der Versionen in der Internetausgabe</dt>
+        <dd>
+          <ul class="no-bullet">
+            {% for revision in page.revisions | reverse() %}
+              <li class="ellipsis"><abbr title="{{ revision.date }}: {{ revision.revision }} [{{ revision.name | join(', ') }}]" data-tooltip data-position="bottom" data-alignment="left">{{ revision.revision }}</abbr> [{{ revision.name | join(', ') }}]</li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
+      </dl>
+    </aside>
+  </div>
+  <div class="reader-overlay hidden">
+    <div id="app"></div>
+  </div>
+  <script id="TEIReaderContent" type="text/xml">
+    {{ page.content }}
+  </script>
+  <script id="TEIReaderConfig" type="application/json">
+    {
+        "sections": {
+            "body": {
+                "label": "Text",
+                "type": "Text",
+                "parser": {
+                    "selector": "tei:text/tei:body"
+                },
+                "schema": [
+                    {
+                        "name": "paragraph",
+                        "type": "block",
+                        "parser": {
+                            "selector": "tei:p"
+                        },
+                        "attrs": {
+                            "noIndent": {
+                                "default": false,
+                                "parser": {
+                                    "selector": "contains(@style, \"no-indent\")"
+                                }
+                            },
+                            "textAlign": {
+                                "default": "left",
+                                "parsers": [
+                                    {
+                                        "selector": "contains(@style, \"text-left\")",
+                                        "type": "static",
+                                        "value": "left"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-center\")",
+                                        "type": "static",
+                                        "value": "center"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-right\")",
+                                        "type": "static",
+                                        "value": "right"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-justify\")",
+                                        "type": "static",
+                                        "value": "justify"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "heading",
+                        "type": "block",
+                        "content": "inline*",
+                        "parser": {
+                            "selector": "tei:head"
+                        },
+                        "attrs": {
+                            "headingId": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@data-heading-id"
+                                }
+                            },
+                            "level": {
+                                "default": "1",
+                                "parser": {
+                                    "selector": "substring(@type, 7)"
+                                }
+                            }
+                        },
+                        "navigation": {
+                            "attr": "headingId"
+                        }
+                    },
+                    {
+                        "name": "line",
+                        "type": "block",
+                        "parser": {
+                            "selector": "tei:l"
+                        }
+                    },
+                    {
+                        "name": "lineGroup",
+                        "type": "wrapping",
+                        "content": "line",
+                        "parser": {
+                            "selector": "tei:lg"
+                        }
+                    },
+                    {
+                        "name": "pageLineRef",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "wordRange",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"word-range\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "quotation",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:q",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "annotation",
+                        "type": "nested",
+                        "parser": {
+                            "selector": "tei:interp[@type=\"esv\"]"
+                        },
+                        "attrs": {
+                            "id": {
+                                "parser": {
+                                    "selector": "@xml:id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "footnote",
+                        "type": "nested",
+                        "parser": {
+                            "selector": "tei:note[@type=\"footnote\"]"
+                        },
+                        "attrs": {
+                            "id": {
+                                "parser": {
+                                    "selector": "@xml:id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "text",
+                        "type": "inline",
+                        "parsers": [
+                            {
+                                "selector": "tei:seg",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:hi",
+                                "text": "text()"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "annotationGlobal",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@target=\"#global\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "global",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            },
+                            "headingId": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@data-heading-id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "annotationMarker",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@type=\"esv\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            }
+                        },
+                        "reference": {
+                            "type": "annotation",
+                            "attr": "target",
+                            "display": "sidebar"
+                        }
+                    },
+                    {
+                        "name": "footnoteMarker",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@type=\"footnote\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            }
+                        },
+                        "reference": {
+                            "type": "footnote",
+                            "attr": "target",
+                            "display": "footer"
+                        }
+                    },
+                    {
+                        "name": "pageBegin",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:pb",
+                            "text": "@n"
+                        }
+                    },
+                    {
+                        "name": "foreignLanguage",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:foreign",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "lemma",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:lem",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "sic",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:sic",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "reading",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:rdg",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "wit": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "substring(@wit, 2)"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "missing",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:metamark[@function=\"missing\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "signed",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:signed",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "letterSparse",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"letter-sparse\")"
+                        }
+                    },
+                    {
+                        "name": "sup",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"sup\")"
+                        }
+                    },
+                    {
+                        "name": "fontSize",
+                        "type": "mark",
+                        "parsers": [
+                            {
+                                "selector": "contains(@style, \"font-size-small\")"
+                            },
+                            {
+                                "selector": "contains(@style, \"font-size-medium\")"
+                            },
+                            {
+                                "selector": "contains(@style, \"font-size-large\")"
+                            }
+                        ],
+                        "attrs": {
+                            "size": {
+                                "default": "",
+                                "parsers": [
+                                    {
+                                        "selector": "contains(@style, \"font-size-small\")",
+                                        "type": "static",
+                                        "value": "small"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"font-size-medium\")",
+                                        "type": "static",
+                                        "value": "medium"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"font-size-large\")",
+                                        "type": "static",
+                                        "value": "large"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "fontWeightBold",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"font-weight-bold\")"
+                        }
+                    },
+                    {
+                        "name": "fontStyleItalic",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"font-style-italic\")"
+                        }
+                    }
+                ]
+            },
+            "annotations": {
+                "label": "Stellenerläuterungen",
+                "type": "NestedList",
+                "source": "body",
+                "nodeName": "annotation"
+            },
+            "aparatus": {
+                "label": "Apparat",
+                "type": "Text",
+                "parser": {
+                    "selector": "tei:text/tei:interpGrp[@type=\"global\"]"
+                },
+                "schema": [
+                    {
+                        "name": "paragraph",
+                        "type": "block",
+                        "parser": {
+                            "selector": "tei:p"
+                        },
+                        "attrs": {
+                            "noIndent": {
+                                "default": false,
+                                "parser": {
+                                    "selector": "contains(@style, \"no-indent\")"
+                                }
+                            },
+                            "textAlign": {
+                                "default": "left",
+                                "parsers": [
+                                    {
+                                        "selector": "contains(@style, \"text-left\")",
+                                        "type": "static",
+                                        "value": "left"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-center\")",
+                                        "type": "static",
+                                        "value": "center"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-right\")",
+                                        "type": "static",
+                                        "value": "right"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-justify\")",
+                                        "type": "static",
+                                        "value": "justify"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "heading",
+                        "type": "block",
+                        "content": "inline*",
+                        "parser": {
+                            "selector": "tei:head"
+                        },
+                        "attrs": {
+                            "headingId": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@data-heading-id"
+                                }
+                            },
+                            "level": {
+                                "default": "1",
+                                "parser": {
+                                    "selector": "substring(@type, 7)"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "source",
+                        "type": "block",
+                        "parser": {
+                            "selector": "tei:item"
+                        },
+                        "attrs": {
+                            "sourceId": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@data-source-id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "sourceList",
+                        "type": "wrapping",
+                        "content": "source",
+                        "parser": {
+                            "selector": "tei:list[@type=\"sources\"]"
+                        }
+                    },
+                    {
+                        "name": "text",
+                        "type": "inline",
+                        "parsers": [
+                            {
+                                "selector": "tei:seg",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:hi",
+                                "text": "text()"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pageLineRef",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "wordRange",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"word-range\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "annotationGlobal",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@target=\"#global\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "global",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            },
+                            "headingId": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@data-heading-id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "annotationMarker",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "unknown",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "foreignLanguage",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:foreign",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "quotation",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:q",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "lemma",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:lem",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "sic",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:sic",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "reading",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:rdg",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "wit": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "substring(@wit, 2)"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "missing",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:metamark[@function=\"missing\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "letterSparse",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"letter-sparse\")"
+                        }
+                    },
+                    {
+                        "name": "sup",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"sup\")"
+                        }
+                    },
+                    {
+                        "name": "fontSize",
+                        "type": "mark",
+                        "parsers": [
+                            {
+                                "selector": "contains(@style, \"font-size-small\")"
+                            },
+                            {
+                                "selector": "contains(@style, \"font-size-medium\")"
+                            },
+                            {
+                                "selector": "contains(@style, \"font-size-large\")"
+                            }
+                        ],
+                        "attrs": {
+                            "size": {
+                                "default": "",
+                                "parsers": [
+                                    {
+                                        "selector": "contains(@style, \"font-size-small\")",
+                                        "type": "static",
+                                        "value": "small"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"font-size-medium\")",
+                                        "type": "static",
+                                        "value": "medium"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"font-size-large\")",
+                                        "type": "static",
+                                        "value": "large"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "fontWeightBold",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "contains(@style, \"font-weight-bold\")"
+                        }
+                    }
+                ]
+            }
+        },
+        "ui": {
+            "closeLabel": "Schließen"
+        }
+    }
+  </script>
+  <script>
+      const overlayElement = document.querySelector('.reader-overlay');
+      const bodyElement = document.querySelector('body');
+
+      window.TEIReader = {
+          callbacks: {
+              autoLoad: function(callback) {
+                  const content = document.querySelector('#TEIReaderContent');
+                  if (content) {
+                      callback({
+                          content: content.innerHTML,
+                          identifier: '{{ page.slug|sha256 }}'
+                      });
+                  }
+              },
+              close: function() {
+                  overlayElement.classList.add('hidden');
+                  bodyElement.classList.remove('overflow-hidden');
+              }
+          }
+      }
+
+      document.querySelector('*[data-action="read"]').addEventListener('click', function(ev) {
+          overlayElement.classList.remove('hidden');
+          bodyElement.classList.add('overflow-hidden');
+      });
+
+      overlayElement.addEventListener('click', function(ev) {
+          if (ev.target === overlayElement) {
+              overlayElement.classList.add('hidden');
+              bodyElement.classList.remove('overflow-hidden');
+          }
+      });
+
+      const teiReaderSrc = window.localStorage.getItem('tei-reader');
+      if (teiReaderSrc) {
+          const teiReader = JSON.parse(teiReaderSrc);
+          if (teiReader && teiReader['{{ page.slug|sha256 }}']) {
+              document.querySelector('*[data-action="read"]').innerHTML = 'Weiterlesen';
+          }
+      }
+  </script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/reader/chunk-vendors.js"></script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/reader/app.js"></script>
+{% endblock %}

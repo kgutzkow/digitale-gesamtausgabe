@@ -370,11 +370,6 @@ class TeiDocumentReader(BaseReader):
 
     def read(self, filename):
         doc = etree.parse(filename)
-        overview = etree.XSLT(etree.XML(OVERVIEW_STYLESHEET))
-        reader = etree.XSLT(etree.XML(READER_STYLESHEET))
-        nav = etree.XSLT(etree.XML(NAV_STYLESHEET))
-        annotation = etree.XSLT(etree.XML(ANNOTATION_STYLESHEET))
-        global_comment = etree.XSLT(etree.XML(GLOBAL_COMMENT_STYLESHEET))
         metadata = {'title': str(doc.xpath('//tei:title/text()', namespaces=ns)[0]),
                     'bibl': str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0]),
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
@@ -393,26 +388,14 @@ class TeiDocumentReader(BaseReader):
                                             for resp in change.attrib['who'].split(' ')]}
                                   for change in doc.xpath('//tei:change', namespaces=ns)
                                   if 'when' in change and 'who' in change and change.text],
-                    'summary': self.strip_ns(str(overview(doc))),
-                    'nav': str(nav(doc)),
-                    'annotation': json.loads(self.strip_ns(str(annotation(doc))).replace('\n', ' ')),
-                    'global_comment': self.strip_ns(str(global_comment(doc))).strip(),
-                    'template': 'tei-reader'}
-        if '<div>' in metadata['summary'] and '</div>' in metadata['summary']:
-            summary = metadata['summary']
-            summary = summary[summary.find('<div>') + 5:summary.find('</div>')]
-            if len(summary) > 900:
-                short_summary = []
-                length = 0
-                for word in summary.split():
-                    if length + len(word) > 800:
-                        break
-                    short_summary.append(word)
-                    length = length + len(word)
-                short_summary.append('...')
-                summary = ' '.join(short_summary)
-            metadata['summary'] = summary
+                    'extract': '',
+                    'template': 'tei-document'}
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
+        extracts = doc.xpath('//tei:body/*[@data-extract="true"]', namespaces=ns)
+        if len(extracts) == 0:
+            extracts = doc.xpath('//tei:body/tei:p', namespaces=ns)
+        if len(extracts) > 0:
+            metadata['extract'] = ''.join(['<p>{0}</p>'.format(''.join(node.itertext())) for node in extracts[:2]])
         # Link the pdf if it has the same filename as the TEI file
         if os.path.exists(filename.replace('.tei', '.pdf')):
             metadata['pdf'] = '%s.pdf' % metadata['slug']
@@ -421,7 +404,7 @@ class TeiDocumentReader(BaseReader):
         for key, value in metadata.items():
             parsed[key] = self.process_metadata(key, value)
 
-        return str(reader(doc)), parsed
+        return etree.tostring(doc).decode('utf-8'), parsed
 
 def add_reader(readers):
     readers.reader_classes['tei'] = TeiDocumentReader
