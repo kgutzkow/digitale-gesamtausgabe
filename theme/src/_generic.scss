@@ -4,15 +4,26 @@
 ul.no-margin, ol.no-margin {
     margin-left: 0;
 }
+
 aside {
     font-size: 80%;
 }
+
 .ellipsis {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
 .sticky {
     position: sticky;
     top: 4rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.overflow-hidden {
+    overflow: hidden;
 }

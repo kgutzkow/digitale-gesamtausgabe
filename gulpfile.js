@@ -1,7 +1,6 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
-    concat = require('gulp-concat'),
     pump = require('pump');
 
 gulp.task('css:theme', function(cb) {
@@ -15,23 +14,15 @@ gulp.task('css:theme', function(cb) {
     ], cb);
 });
 
-gulp.task('css:reader', function(cb) {
-    pump([
-        gulp.src(['node_modules/tei-reader/dist/app.css']),
-        concat('tei-reader.css'),
-        gulp.dest('theme/static/css')
-    ], cb);
-});
+gulp.task('css', gulp.series('css:theme'));
 
-gulp.task('css', gulp.series('css:theme', 'css:reader'));
-
-gulp.task('js:reader', function(cb) {
+gulp.task('reader', function(cb) {
     pump([
         gulp.src([
-            'node_modules/tei-reader/dist/app.js',
+            'node_modules/tei-reader/dist/js/*.*',
+            'node_modules/tei-reader/dist/css/*.*',
         ]),
-        concat('tei-reader.js'),
-        gulp.dest('theme/static/js')
+        gulp.dest('theme/static/reader')
     ], cb);
 });
 
@@ -46,9 +37,9 @@ gulp.task('js:theme', function(cb) {
     ], cb);
 });
 
-gulp.task('js', gulp.parallel('js:reader', 'js:theme'));
+gulp.task('js', gulp.parallel('js:theme'));
 
-gulp.task('default', gulp.parallel('css', 'js'));
+gulp.task('default', gulp.parallel('css', 'js', 'reader'));
 
 gulp.task('watch', gulp.series('default', function(cb) {
     gulp.watch('theme/src/**/*.scss', gulp.series('css:theme'));
