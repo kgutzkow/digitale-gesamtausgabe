@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block breadcrumb_title %}{{ page.title }}{% endblock %}
+{% block content %}
+  <h1>{{ page.title }}</h1>
+  <div class="grid-x grid-padding-x image-viewer">
+    <div class="cell hide-for-small medium-6 large-4">
+      <nav>
+        <ul class="menu vertical">
+          {% for images in page.children %}
+            <li><a>{{ images.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+    <div class="cell small-12 medium-6 large-8">
+      <ul class="image-viewer-images">
+        {% for image in page.children %}
+          <li>
+            <figure>
+              <picture>
+                <source media="(min-width: 640px)" srcset="{{ SITEURL }}/pages/{{ image.slug }}-large{% if image.extension %}{{ image.extension }}{% else %}.jpg{% endif %}">
+                <img src="{{ SITEURL }}/pages/{{ image.slug }}-small{% if image.extension %}{{ image.extension }}{% else %}.jpg{% endif %}" alt="{{ image.title }}"/>
+              </picture>
+              <figcaption>{{ image.title }}</figcaption>
+            </figure>
+            <div>
+              <span>
+                <a aria-label="Details verstecken">
+                  <svg viewBox="0 0 24 24" class="icon white">
+                    <path d="M7,10L12,15L17,10H7Z" />
+                  </svg>
+                </a>
+                <a aria-label="Details anzeigen">
+                  <svg viewBox="0 0 24 24" class="icon white">
+                    <path d="M7,15L12,10L17,15H7Z" />
+                  </svg>
+                </a>
+              </span>
+              {{ image.content }}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock %}
