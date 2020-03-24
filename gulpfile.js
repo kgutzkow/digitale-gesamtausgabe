@@ -34,6 +34,7 @@ gulp.task('js:libs', function(cb) {
             'node_modules/foundation-sites/dist/js/foundation.min.js',
             'node_modules/jquery/dist/jquery.min.js',
             'node_modules/what-input/dist/what-input.min.js',
+            'node_modules/femtotween//dist/femtoTween.umd.js',
         ]),
         gulp.dest('theme/static/js')
     ], cb);

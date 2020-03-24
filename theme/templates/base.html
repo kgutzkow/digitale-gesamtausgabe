@@ -25,6 +25,7 @@
       {% endif %}
       <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
       <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/what-input.min.js"></script>
+      {% block head_scripts %}{% endblock %}
     {% endblock %}
   </head>
   <body>

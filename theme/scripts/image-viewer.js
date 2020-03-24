@@ -1,5 +1,6 @@
 (function() {
     function initViewer(viewer) {
+        const nav = viewer.querySelector('nav ul');
         const links = viewer.querySelectorAll('nav a');
         const images = viewer.querySelectorAll('ul.image-viewer-images li');
         let currentIdx = 0;
@@ -20,6 +21,7 @@
             image.querySelector('div').classList.remove('minimised');
             image.setAttribute('aria-current', 'true');
             links[currentIdx].setAttribute('aria-current', 'true');
+            femtoTween.tween(nav.scrollTop, links[currentIdx].parentElement.offsetTop, (value) => { nav.scrollTop = value; });
             autoNavTimeout = setTimeout(nextImage, 10000);
             hideHeaderTimeout = setTimeout(() => {
                 image.classList.add('hide-heading');

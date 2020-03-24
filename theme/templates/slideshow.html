@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock %}
+{% block head_scripts %}
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/femtoTween.umd.js"></script>
+{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
 {% block content %}
   <h1>{{ page.title }}</h1>
