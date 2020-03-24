@@ -14,6 +14,11 @@ Bilder
   * `Porträts von Gutzkow <bilder-materialien/portraets-von-gutzkow.html>`_
   * `Karikaturen <bilder-materialien/karikaturen.html>`_
   * `Handschriften und Drucke <bilder-materialien/handschriften-und-drucke.html>`_
+
+    .. class:: no-bullet margin-left
+
+      * `Physiologien <bilder-materialien/physiologien>`_
+
   * `Illustrationen zu Gutzkows Werken <bilder-materialien/illustrationen-zu-gutzkows-werken.html>`_
   * `Bildnisse und Dokumente aus Gutzkows persönlichem Umkreis <bilder-materialien/bildnisse-und-dokumente-aus-gutzkows-persoenlichem-umkreis.html>`_
   * `Bilder aus Berlin <bilder-materialien/bilder-aus-berlin.html>`_

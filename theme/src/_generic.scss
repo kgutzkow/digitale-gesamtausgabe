@@ -27,3 +27,13 @@ aside {
 .overflow-hidden {
     overflow: hidden;
 }
+
+.margin-left {
+    margin-left: $global-margin;
+}
+
+ul, ol {
+    &.margin-left {
+        margin-left: $global-margin;
+    }
+}
