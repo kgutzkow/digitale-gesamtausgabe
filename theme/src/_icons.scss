@@ -1,0 +1,11 @@
+svg.icon {
+    width: rem-calc(18);
+    height: rem-calc(18);
+
+    &.white {
+        path {
+            stroke: $white;
+            fill: $white;
+        }
+    }
+}
