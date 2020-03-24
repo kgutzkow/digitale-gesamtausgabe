@@ -76,7 +76,7 @@ def load_images(base_url, target_dir):
                         tmp.append(node.text)
             text = strip_spaces(''.join(tmp))
             if len(text) > 0:
-                blocks.append((block.attrib['size'], text.strip()))
+                blocks.append((block.attrib['size'] if 'size' in block.attrib else '3', text.strip()))
         if len(blocks) > 0:
             tmp = [blocks[0]]
             for block in blocks[1:]:
