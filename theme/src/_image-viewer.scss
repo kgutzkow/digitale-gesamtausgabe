@@ -1,4 +1,20 @@
 .image-viewer {
+    &.automove {
+        ul.image-viewer-images {
+            li {
+                @include breakpoint(medium) {
+                    figcaption {
+                        visibility: hidden;
+                    }
+                }
+
+                div {
+                    visibility: hidden;
+                }
+            }
+        }
+    }
+
     nav {
         ul {
             height: 70vh;
@@ -15,6 +31,8 @@
 
     ul.image-viewer-images {
         padding-left: 0;
+        margin-left: 0;
+        margin-bottom: 0;
         height: 70vh;
         position: relative;
 
@@ -35,8 +53,10 @@
             }
 
             &.hide-heading {
-                figcaption {
-                    opacity: 0;
+                @include breakpoint(medium) {
+                    figcaption {
+                        opacity: 0;
+                    }
                 }
 
                 div {
@@ -89,6 +109,10 @@
                 z-index: 2;
                 opacity: 1;
                 transition: 0.5s opacity;
+
+                @include breakpoint(small only) {
+                    visibility: hidden;
+                }
 
                 &.minimised {
                     p {

@@ -14,18 +14,22 @@
             links[currentIdx].setAttribute('aria-current', 'false');
         }
 
-        function showImage() {
+        function showImage(autoMove) {
             clearTimeout(autoNavTimeout);
             clearTimeout(hideHeaderTimeout);
             const image = images[currentIdx];
-            image.querySelector('div').classList.remove('minimised');
             image.setAttribute('aria-current', 'true');
             links[currentIdx].setAttribute('aria-current', 'true');
             femtoTween.tween(nav.scrollTop, links[currentIdx].parentElement.offsetTop, (value) => { nav.scrollTop = value; });
             autoNavTimeout = setTimeout(nextImage, 10000);
-            hideHeaderTimeout = setTimeout(() => {
+            image.querySelector('div').classList.remove('minimised');
+            if (autoMove) {
                 image.classList.add('hide-heading');
-            }, 5000);
+            } else {
+                hideHeaderTimeout = setTimeout(() => {
+                    image.classList.add('hide-heading');
+                }, 5000);
+            }
         }
 
         function nextImage() {
@@ -34,7 +38,8 @@
             if (currentIdx >= images.length) {
                 currentIdx = 0;
             }
-            showImage();
+            viewer.classList.add('automove');
+            showImage(true);
         }
 
         for (let idx = 0; idx < images.length; idx++) {
@@ -51,12 +56,50 @@
                 clearTimeout(autoNavTimeout);
                 clearTimeout(hideHeaderTimeout);
                 image.classList.remove('hide-heading');
+                viewer.classList.remove('automove');
             });
             image.addEventListener('mouseout', function(ev) {
                 hideHeaderTimeout = setTimeout(() => {
                     image.classList.add('hide-heading');
                 }, 5000);
                 autoNavTimeout = setTimeout(nextImage, 10000);
+            });
+            let startX = null;
+            let startY = null;
+            let offsetX = null;
+            let offsetY = null;
+            image.addEventListener('touchstart', function(ev) {
+                if (ev.touches && ev.touches[0]) {
+                    startX = ev.touches[0].clientX;
+                    startY = ev.touches[0].clientY;
+                }
+            });
+            image.addEventListener('touchmove', function(ev) {
+                if (ev.touches && ev.touches[0]) {
+                    offsetX = startX - ev.touches[0].clientX;
+                    offsetY = startY - ev.touches[0].clientY;
+                }
+            });
+            image.addEventListener('touchend', function(ev) {
+                if (Math.abs(offsetY) < 100) {
+                    if (offsetX <= -100) {
+                        hideImage();
+                        currentIdx = currentIdx - 1;
+                        if (currentIdx < 0) {
+                            currentIdx = images.length - 1;
+                        }
+                        viewer.classList.add('automove');
+                        showImage(true);
+                    } else if (offsetX >= 100) {
+                        hideImage();
+                        currentIdx = currentIdx + 1;
+                        if (currentIdx >= images.length) {
+                            currentIdx = 0;
+                        }
+                        viewer.classList.add('automove');
+                        showImage(true);
+                    }
+                }
             });
         }
         for (let idx = 0; idx < links.length; idx++) {
