@@ -1214,15 +1214,15 @@ UBFM
 
 .. class:: siglen-list
 
-A1
+A\ :sup:`1`
     Karl Gutzkow: Gesammelte Werke. 13 Bde. Frankfurt/M.: Literarische Anstalt, 1845-1852.
-A2
+A\ :sup:`2`
     Karl Gutzkow: Gesammelte Werke. Ertse vollständige Gesammt-Ausgabe. 12 Bde. Jena: Costenoble, [1873-1876].
-B1
+B\ :sup:`1`
     Karl Gutzkow: Dramatische Werke. 9 Bde. Leipzig: (Bd. 1-3) Weber; (Bd. 4-6) Lorck; (Bd. 7-9.1) Brockhaus, 1842-1857.
-B2
+B\ :sup:`2`
     Karl Gutzkow: Dramatische Werke. 20 Bdchen. Leipzig: Brockhaus, 1862-1863.
-B3
+B\ :sup:`3`
     Karl Gutzkow: Dramatische Werke. 20 Bdchen. Jena: Costenoble, 1871-1872.
 E
     Einzeldruck
