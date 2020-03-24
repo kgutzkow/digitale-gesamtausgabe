@@ -8,12 +8,4 @@ Ida Gräfin Hahn-Hahn, 1805-1880
 
 .. class:: source
 
-  (
-
-.. class:: source
-
-  Europa. Chronik der gebildeten Welt. Karlsruhe u. Baden 1842, Band 3.
-
-.. class:: source
-
-  )
+  (Europa. Chronik der gebildeten Welt. Karlsruhe u. Baden 1842, Band 3.)

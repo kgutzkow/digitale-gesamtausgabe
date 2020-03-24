@@ -9,7 +9,3 @@ Der zurückkehrende Kronsyndicus, aus "Der Zauberer von Rom". Zeichnung von Wilh
 .. class:: source
 
   Aus: Die Gartenlaube. Leipzig. Nr. 34, [August] 1859
-
-.. class:: source
-
-  )

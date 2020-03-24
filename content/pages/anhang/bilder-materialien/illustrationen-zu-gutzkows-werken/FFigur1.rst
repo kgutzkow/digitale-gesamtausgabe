@@ -9,7 +9,3 @@ Figurentableaux aus Gutzkows Werken. Zeichnung von Herbert König. Herbert Köni
 .. class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Nr. 1105, 3. September 1864
-
-.. class:: source
-
-  )

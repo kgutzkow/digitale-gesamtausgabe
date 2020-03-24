@@ -9,7 +9,3 @@ Olga, die eine weiße Rose herabwirft, in "Die Ritter vom Geiste". Zeichnung von
 .. class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Bd. XVII. Nr. 433, 18. Oktober 1851
-
-.. class:: source
-
-  )

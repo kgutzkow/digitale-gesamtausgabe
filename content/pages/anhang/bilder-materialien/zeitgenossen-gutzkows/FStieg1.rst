@@ -6,8 +6,4 @@ Charlotte Stieglitz
 
 .. class:: source
 
-  (Charlotte Stieglitz, ein Denkmal. [Hg. von Theodor Mundt.] Berlin: Veit, [1835].
-
-.. class:: source
-
-  )
+  (Charlotte Stieglitz, ein Denkmal. [Hg. von Theodor Mundt.] Berlin: Veit, [1835].)

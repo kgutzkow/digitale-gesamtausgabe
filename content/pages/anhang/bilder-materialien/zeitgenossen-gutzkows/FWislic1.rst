@@ -10,8 +10,4 @@ freisinniger protest. Theologe
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig 1864, S. 469.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig 1864, S. 469.)

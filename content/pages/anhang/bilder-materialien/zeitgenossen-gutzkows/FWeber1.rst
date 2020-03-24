@@ -8,10 +8,6 @@ Johann Jakob Weber, 1803-1880. Fotografie, um 1860. (Deutsches Buch- und Schrift
 
 .. class:: source
 
-  (In: Wolfgang Weber: Johann Jakob Weber. Der Begründer der illustrierten Presse in Deutschland. Leipzig: Lehmstedt, 2003. S. 55.
-
-.. class:: source
-
-  )
+  (In: Wolfgang Weber: Johann Jakob Weber. Der Begründer der illustrierten Presse in Deutschland. Leipzig: Lehmstedt, 2003. S. 55.)
 
 Vgl. auch den entsprechenden Artikel

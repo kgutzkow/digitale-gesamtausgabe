@@ -9,7 +9,3 @@
 .. class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Nr. 84, 8. Februar 1845
-
-.. class:: source
-
-  )

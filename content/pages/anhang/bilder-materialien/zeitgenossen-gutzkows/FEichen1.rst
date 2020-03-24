@@ -8,8 +8,4 @@ Joseph Freiherr von Eichendorff, 1788-1857
 
 .. class:: source
 
-  (Joseph Freiherr von Eichendorff: Sämmtliche Werke. 2. Aufl. Bd 1. Leipzig: Voigt u. Günther, 1864.
-
-.. class:: source
-
-  )
+  (Joseph Freiherr von Eichendorff: Sämmtliche Werke. 2. Aufl. Bd 1. Leipzig: Voigt u. Günther, 1864.)

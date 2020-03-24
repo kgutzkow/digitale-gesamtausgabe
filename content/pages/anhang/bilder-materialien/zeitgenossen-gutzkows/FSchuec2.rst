@@ -8,8 +8,4 @@ Levin Schücking, 1814-1883
 
 .. class:: source
 
-  (Originalphotographie um 1870, Privatbesitz.
-
-.. class:: source
-
-  )
+  (Originalphotographie um 1870, Privatbesitz.)

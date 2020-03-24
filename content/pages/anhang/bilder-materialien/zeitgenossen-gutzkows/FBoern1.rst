@@ -8,8 +8,4 @@ Ludwig Börne, 1786-1837
 
 .. class:: source
 
-  (Stahlstich, Privatbesitz.
-
-.. class:: source
-
-  )
+  (Stahlstich, Privatbesitz.)

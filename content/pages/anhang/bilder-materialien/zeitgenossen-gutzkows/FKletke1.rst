@@ -8,8 +8,4 @@ Hermann Kletke, 1813-1886
 
 .. class:: source
 
-  (Hermann Kletke: Gedichte. Vermehrte Gesammt-Ausg. Berlin: Schroeder, 1873.
-
-.. class:: source
-
-  )
+  (Hermann Kletke: Gedichte. Vermehrte Gesammt-Ausg. Berlin: Schroeder, 1873.)

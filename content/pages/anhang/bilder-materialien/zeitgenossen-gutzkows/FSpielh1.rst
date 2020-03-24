@@ -8,8 +8,4 @@ Friedrich Spielhagen, 1829-1911
 
 .. class:: source
 
-  (Originalphotographie um 1878, Privatbesitz.
-
-.. class:: source
-
-  )
+  (Originalphotographie um 1878, Privatbesitz.)

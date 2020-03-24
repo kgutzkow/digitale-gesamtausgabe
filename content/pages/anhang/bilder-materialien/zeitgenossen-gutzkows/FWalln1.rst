@@ -8,8 +8,4 @@ Franz Wallner (d.i. Fr. Leidesdorf), 1810-1876
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig 1876, S. 565.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig 1876, S. 565.)

@@ -8,8 +8,4 @@ Heinrich Leo, 1799-1878
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig 1869, S. 437.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig 1869, S. 437.)

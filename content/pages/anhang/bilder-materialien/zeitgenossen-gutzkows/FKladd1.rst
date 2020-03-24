@@ -8,8 +8,4 @@ Die Gelehrten des Kladderadatsch: Ernst Dohm, 1819-1883; David Kalisch, 1820-187
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig 1867, S. 205.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig 1867, S. 205.)

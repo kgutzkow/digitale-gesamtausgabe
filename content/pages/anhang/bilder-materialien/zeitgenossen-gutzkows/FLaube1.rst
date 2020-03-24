@@ -6,8 +6,4 @@ Heinrich Laube
 
 Heinrich Laube, 1798-1873
 
-.. class:: source
-
-  (.)
-
 Vgl. auch den entsprechenden Artikel

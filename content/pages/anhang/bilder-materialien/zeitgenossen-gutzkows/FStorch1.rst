@@ -8,12 +8,4 @@ Ludwig Storch, 1803-1881
 
 .. class:: source
 
-  (Stahlstich, in: Ludwig Storch: Ausgewählte Romane. Leipzig: Keil, 1855, Bd 1
-
-.. class:: source
-
-  .
-
-.. class:: source
-
-  )
+  (Stahlstich, in: Ludwig Storch: Ausgewählte Romane. Leipzig: Keil, 1855, Bd 1.)

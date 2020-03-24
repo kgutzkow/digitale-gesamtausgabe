@@ -6,8 +6,4 @@ Emil Devrient
 
 .. class:: source
 
-  (Emil Kneschke: Emil Devrient. Biographisch-krit. Studie zur deutschen Bühnengeschichte. Dresden: Meinhold, [1868].
-
-.. class:: source
-
-  )
+  (Emil Kneschke: Emil Devrient. Biographisch-krit. Studie zur deutschen Bühnengeschichte. Dresden: Meinhold, [1868].)

@@ -8,8 +8,4 @@ Robert Prutz, 1816-1872
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig 1870, S. 229.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig 1870, S. 229.)

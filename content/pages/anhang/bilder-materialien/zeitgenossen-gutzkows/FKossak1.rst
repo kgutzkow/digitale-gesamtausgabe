@@ -8,8 +8,4 @@ Ernst Kossak, 1814-1880
 
 .. class:: source
 
-  (Originalphotographie um 1868, Privatbesitz.
-
-.. class:: source
-
-  )
+  (Originalphotographie um 1868, Privatbesitz.)

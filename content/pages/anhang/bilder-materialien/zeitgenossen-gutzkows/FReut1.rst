@@ -8,8 +8,4 @@ Fritz Reuter, 1810-1874
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig. 1864, S. 589.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig. 1864, S. 589.)

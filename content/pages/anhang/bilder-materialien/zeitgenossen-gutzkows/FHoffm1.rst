@@ -8,8 +8,4 @@ Ernst Theodor Amadeus Hoffmann (1776-1822) und Ludwig Devrient (1784-1832) in de
 
 .. class:: source
 
-  (Die Gartenlaube. Leipzig. 1856, S. 665.
-
-.. class:: source
-
-  )
+  (Die Gartenlaube. Leipzig. 1856, S. 665.)

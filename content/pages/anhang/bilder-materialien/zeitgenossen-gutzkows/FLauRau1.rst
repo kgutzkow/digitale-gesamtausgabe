@@ -8,10 +8,6 @@ Charlotte Birch-Pfeiffer (als Fischersfrau), Heinrich Laube (als verschreckter A
 
 .. class:: source
 
-  (Tutu. Phantastische Episoden und poetische Exkursionen von A. von [Ungern-]Sternberg. Mit Illustr. von Sylvan [d.i. A. von Ungern-Sternberg]. Meersburg: Hendel 1936. [Reprint d. Ausg. Leipzig 1848], S. 178.
-
-.. class:: source
-
-  )
+  (Tutu. Phantastische Episoden und poetische Exkursionen von A. von [Ungern-]Sternberg. Mit Illustr. von Sylvan [d.i. A. von Ungern-Sternberg]. Meersburg: Hendel 1936. [Reprint d. Ausg. Leipzig 1848], S. 178.)
 
 Vgl. auch den entsprechenden Artikel zu LaubeRaupachBirch-Pfeiffer

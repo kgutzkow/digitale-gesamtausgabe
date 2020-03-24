@@ -9,7 +9,3 @@ Zwei Szenenbilder von der Aufführung von "Das Urbild des Tartüffe" am Leipzige
 .. class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Nr. 91, 19. März 1845
-
-.. class:: source
-
-  )

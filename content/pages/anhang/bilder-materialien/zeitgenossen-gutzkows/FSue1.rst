@@ -8,8 +8,4 @@ Eugène Sue, 1804-1857
 
 .. class:: source
 
-  (Stahlstich um 1850, Privatbesitz.
-
-.. class:: source
-
-  )
+  (Stahlstich um 1850, Privatbesitz.)

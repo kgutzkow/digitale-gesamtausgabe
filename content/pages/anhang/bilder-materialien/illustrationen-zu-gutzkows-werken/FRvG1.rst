@@ -9,7 +9,3 @@ Hackert als Nachtwandler in die "Ritter vom Geiste". Zeichnung von Friedrich Pec
 .. class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Bd. XVII. Nr. 431, 4. Oktober 1851
-
-.. class:: source
-
-  )

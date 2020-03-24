@@ -6,8 +6,4 @@ Friedrich Wilhelm IV., König von Preußen
 
 .. class:: source
 
-  (um 1854, nach einer alten Fotographie.
-
-.. class:: source
-
-  )
+  (um 1854, nach einer alten Fotographie.)
