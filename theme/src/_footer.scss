@@ -16,8 +16,15 @@ footer {
     ul.menu {
         li {
             a {
-                padding-top: $global-padding / 3;
-                padding-bottom: $global-padding / 3;
+                padding: $global-padding / 3 $global-padding $global-padding / 3 0;
+            }
+        }
+    }
+
+    nav {
+        &:last-child {
+            @include breakpoint(small only) {
+                margin-top: $global-margin;
             }
         }
     }
