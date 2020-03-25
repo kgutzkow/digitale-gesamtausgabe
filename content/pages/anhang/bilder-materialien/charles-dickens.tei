@@ -4,7 +4,7 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Charles Dickens</tei:title>
-        <tei:author>Edward Lytton Bulwer</tei:author>
+        <tei:author>Hieronymus Lorm</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Martina Lauster</tei:name>
@@ -21,12 +21,12 @@
     <tei:encodingDesc>
       <tei:classDecl>
         <tei:taxonomy xml:id="gutzkow-taxonomy">
-          <tei:bibl></tei:bibl>
+          <tei:bibl/>
         </tei:taxonomy>
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Edward Lytton Bulwer: England und die Engländer. Übersetzt von Louis Lax. 3 Bde. Aachen, Leipzig: Jacob Anton Mayer / Brüssel: J. A. Mayer und Somershausen, 1833.</tei:bibl>
+      <tei:bibl>Hieronymus Lorm: Charles Dickens. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 17, [21. Januar] 1854. S. 268-270.</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -43,10 +43,43 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nicht online verfügbar.</tei:seg>
+      <tei:p style="text-left">
+        <tei:seg>Aus London berichtet man von dem großen Erfolge, welchen der neue Roman von Charles Dickens, "</tei:seg>
+        <tei:hi style="letter-sparse">Bleakhouse</tei:hi>
+        <tei:seg>", gefunden hat. Bevor wir ihn noch gelesen, übermannte uns ein Gefühl von Staunen und Ehrfurcht, dessen Grund zwar ein höchst materieller scheinen </tei:seg>
+        <tei:pb n="269"/>
+        <tei:seg> könnte, in Wahrheit aber auf dem Bewußtsein beruht, wie das Immaterielle diese ganz von Geldzwecken ausgetrocknete Zeit doch noch zu einer Anerkennung zu bewegen vermag, so klingend und vollwichtig, als gälte es ein geschäftliches Unternehmen, an dem Hunderttausende Glück und Reichthum zu gewinnen hätten. Das Werk trug seinem Verfasser 20,000 Pfd. Sterl. oder nach möglichst annähernder Berechnung drei Thaler für die kleine gedruckte Zeile ein. Auf welchen erhabenen, dem irdischen abgewendeten Standpunkt man sich auch bei Betrachtung literarischer Erzeugnisse stellen mag, dieser Umstand kann niemals als ein geringfügiger angesehen werden.</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wir bemerken ihn wahrhaftig nicht aus dem Grunde, um Boz' schriftstellerische Collegen in Deutschland zu unedlem Neide anzuspornen. Wir möchten nur einfach die Frage aufstellen, was ein Epimenides, der seit dem Alterthum geschlafen hätte und jetzt erwachen würde, von dem Inhalt einiger wenigen bedruckten Seiten denken müßte, die ihrem Verfasser einen Ehrensold zuführen, der das Ansehen einer Nationalbelohnung hat. Er würde ohne Zweifel auf einen geretteten Ueberrest der verbrannten Sybillinischen Bücher rathen oder auf eine neue Lehre, fähig in den Seelen aller Völker das Heil zu entzünden oder auf ein entdecktes Geheimmittel, Allen gleichen Genuß an den Gütern der Erde ohne Mühe und Arbeit zu vermitteln. Alles Dies fände er nicht und doch sind wir weit davon entfernt, die Belohnung, die Boz zutheil wird und die sich genau nach dem Bedürfniß richtet, welches seine Werke befriedigen, für eine zu überschwängliche zu erachten.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Menschen unserer Zeit sind zwar reicher an Wünschen als die irgend einer frühern, die Wünsche selbst aber sind im Hinblick auf ihre Ziele kleiner und bescheidener geworden. War die Sehnsucht der Entbehrenden in frühern Jahrhunderten auf die Erscheinung unnatürlicher Wunder gerichtet, so ist man jetzt schon mit der Erlangung des Naturgemäßen zufrieden, das eigentlich Niemand entbehren sollte. Man tröstet sich, daß kein geheimnißvolles Buch einer Prophetin uns die Zukunft erschließt, wenn man nur weiß, was den gegenwärtigen Tag verschönern kann; man setzt sich darüber hinweg, niemals in das Paradies der travestirten Aeneide zu gelangen, wo die Hasen schon gespickt und mit Messer und Gabel im Rücken herumlaufen, wenn man nur einmal auf gewöhnlichem Wege einen erjagt. Es nehmen sich Wenige mehr zu Gemüthe, daß sie ihr Leben nicht zu Aeonen verlängern können, sie würden ein sicheres Stück Brot für die kurze Spanne Zeit einem Geheimmittel vorziehen, der längsten Lebenszeit theilhaftig zu werden. Die meisten Wünsche gehen nur auf etwas Salz zum täglichen Brot des Lebens, auf etwas Erfrischung der müden Glieder und der keuchenden Brust.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Aus welchem Bergwerk aber zieht man das erfrischende Salz des Daseins, wenn nicht aus der Phantasie? Ist sie es doch eigentlich, die selbst den Dingen, die man positiv als die Güter des Glücks anzusehen gewohnt ist, erst ihnen erfreulichen Inhalt verleiht. Die vier Pferde machen den Mann nicht glücklich, den sie ziehen, aber wol die Einbildung von seiner Geltung, die er dadurch den Andern beizubringen vermeint. Am Ende kann man doch mit allen irdischen Besitzthümern nicht mehr erreichen, als daß man satt wird, aber ihren Werth erhalten sie von dem Vergleich mit dem kärglichen Sattwerden Anderer, den die schmeichlerische Phantasie uns aufdrängt. Was schafft sie aber erst aus dem Leben des Armen! Einen Edelstein, eine Marmorstatue kann man bald schön finden und rasch entzündet sich daran auch die Phantasie des Nüchternsten zum Genusse. So beglückt den Reichen der Park seines Schlosses und der Teppich seines Salons. Daß aber das Knöpfchen am groben Hemde Strahlen werfe wie der Edelstein, der derbe Holzschnitt an der Wand sich von der Marmorstatue in seiner Wirkung nicht übertreffen lasse, der Resedatopf am Fenster sich zum Park erweitere und die kalte Ziegelplatte nicht ungemüthlicher und härter sei als der Teppich - das sind schwere, große Thaten der Phantasie, die sie nicht von selbst und in Jedem vollbringt, wozu sie von einer besondern dichterischen Kraft erst geweckt werden muß.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="270"/>
+        <tei:seg>Charles Dickens besitzt sie im höchsten Grade. Sie ist das Geheimniß seiner Erfolge und seiner Popularität, sie ist die Ursache, warum der Penny in der Hand des Dürftigen zuweilen lieber in den Buchladen als in die Schenke wandert, damit auch einmal die Seele zu einem angenehmen Rausche komme. Leidest du von Menschen, die dich umgeben und deren abhängiges Werkzeug du bist, der Dichter zeigt dir in ihren Irrthümern, Schwächen und Lastern peruanische Schätze des Humors und tief im Grunde eine unendliche Güte des menschlichen Herzens, sodaß es dich stolz erhebt, zu ihnen zu gehören. Hast du eine Geliebte, die nie dein werden kann, er erhöht einen verstohlenen Händedruck zum Glück des ganzen Lebens. Bist du so arm, daß kein Mensch von dir weiß, so gibt er dem Kettenhunde die Gestalt eines Freundes, dem Vogel im Bauer ein ergötzliches Gesicht, daß er dein belustigender Hofnarr werde. Und mußt du selbst des Thiers entrathen, so umkleidet er die leblosen Dinge, deinen Stuhl, deine Pfeife mit den holdesten Liebenswürdigkeiten, daß du vertrauliche Wesen in ihnen erkennst von überaus verständigem Charakter.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wer, der nichts Anderes mehr zu kaufen hat, möchte sich nicht gern solchen Trost dafür erkaufen? Die Tausende von Pfunden, die dem Verfasser vom "Bleakhouse" zuströmen, sind ihm pfennigweise zugezählt und die Zahl der einzelnen Pennys erreicht noch immer nicht die der freudig gerührten, der süß getrösteten Momente, die er den derselben Bedürftigsten schuf und sie geben ihm immer weniger als er ihnen. Dem Dichter ist ein Erfolg zu gönnen, der anzeigt, wie diese um ihres blos praktischen Sinnes willen viel geschmälte Zeit doch Aug' und Ohr offen hat für die scheinbar so müßigen Bilder der Illusion, ein Erfolg, der wie Alles in England seine Größe am besten durch die Summe des Ertrags ausdrückt, der damit verbunden ist.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+        <tei:ref type="esv" target="#annotation-1"/>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>So sehr wir mit dem Herrn Verfasser über die Belohnungen einverstanden sind, welche der das Leben verschönernden Phantasie der Dichter gebühren, so müssen wir doch in Betracht des Romans "Bleakhouse" von Dickens hinzufügen, daß sein Werth nicht nach jenem obenerwähnten, enormen Ertrage zu beurtheilen ist. Vielleicht hat man in diesem und dem vorigen Sommer hier und da auf unsern Eisenbahnen Gelegenheit gehabt, Engländern und Engländerinnen zu begegnen, die eins der Hefte, in welchen jener Roman periodisch veröffentlicht wurde, bei sich hatten und darin blätterten. Für einen Schilling kaufte der Engländer nur drei Bogen vom Texte jenes Romans; der Rest des starken Bandes bestand aus Annoncen. Die Industrie benutzte diesen Roman als öffentlichen Anzeiger und Charles Dickens gab dazu selbst die Idee an. Er verlegte ihn selbst und ließ Lampen, Gummigaloschen, Sattlerwaaren, Shirtinghemden, kurz alles nur irgend an die Oeffentlichkeit Angewiesene in beigebundenen Blättern von den betreffenden Fabrikanten anzeigen. Diese Methode, sich mit einem Romane 120,000 Thlr. zu erwerben, würde man in Deutschland schon annäherungsweise nachahmen können, wenn nur nicht der Autor, der es thäte, vielleicht bereits nach der zweiten Lieferung seines Werks vor Verdruß über den Hohn und Spott, den er dafür ernten würde, für immer verstummt wäre. Der deutsche Dichter soll nun einmal nur so schreiben und wirken, als wenn er vom Dufte der Blumen lebte.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:interp type="esv" xml:id="annotation-1">
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:p style="text-left">
+        <tei:seg>Mit einer redaktionellen Anmerkung Gutzkows am Schluss des Artikels.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
