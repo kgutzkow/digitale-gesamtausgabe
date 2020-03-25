@@ -4,7 +4,7 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Edward Lytton Bulwer (1832)</tei:title>
-        <tei:author>Edward Lytton Bulwer</tei:author>
+        <tei:author>William Maginn</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Martina Lauster</tei:name>
@@ -21,33 +21,87 @@
     <tei:encodingDesc>
       <tei:classDecl>
         <tei:taxonomy xml:id="gutzkow-taxonomy">
-          <tei:bibl></tei:bibl>
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
         </tei:taxonomy>
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Edward Lytton Bulwer: England und die Engländer. Übersetzt von Louis Lax. 3 Bde. Aachen, Leipzig: Jacob Anton Mayer / Brüssel: J. A. Mayer und Somershausen, 1833.</tei:bibl>
+      <tei:bibl>[William Maginn]: Edward Lytton Bulwer, esq. Gallery of Literary Characters. No. XXVII. In: Fraser’s Magazine for Town and Country. London. Bd. 6, Nr. 31, August 1832, S. 112.</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1833">1833</tei:date>
+        <tei:date when="1832">1832</tei:date>
       </tei:creation>
       <tei:textClass>
-        <tei:catRef target=""/>
+        <tei:catRef target="#anhang #edward-lytton-bulwer-1832"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001" who="#MartinaLauster">Fassung 1.0: Für den Lexikonartikel zu Bulwer</tei:change>
-      <tei:change when="2007-08" who="#MartinaLauster">Fassung 1.1: Ergänzungen</tei:change>
-      <tei:change when="2020-03-25" who="#MarkMichaelHall">Fassung 1.2: TEI Version</tei:change>
+      <tei:change when="2007" who="#MartinaLauster">Fassung 1.0</tei:change>
+      <tei:change when="2020-03-25" who="#MarkMichaelHall">Fassung 1.1: TEI Version</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nicht online verfügbar.</tei:seg>
+      <tei:p style="text-left">
+        <tei:seg>Here we have Bulwer in an appropriate position, viewing his face, and reviewing his beard. With razor far keener than the edge of his "Siamese Twins", is he delicately mowing his chin; and, clothed in a "robe de nuit" far more flowing than the numbers of his "Milton, a Poem", looks with charmed eyes upon the scene before him, and exclaims, with all the rapture of a satisfied editor, "What a charming article! Worth any thing per sheet!" We have taken him just on the eve of publication, revising his last proof the moment before coming out.</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>He has himself, in an autobiography published some time ago in the "New Monthly", given us an ample history of his seed, breed, and generation. We are sorry to say that we have forgotten the genealogy [...]. The same history contained many other interesting particulars concerning the curl of his whiskers - which, by our plate it will be seen, are well put on - the peculiarity of his coat, the tournure of his countenance, and other matters, momentous to the general reader. L.E.L., however, in her "Romance and Reality", which we take shame to ourselves for not having hitherto reviewed, has so completely depictured him (we shall not say "con amore", lest that purely technical phrase should be construed literally), as having a high nose, relieved by an open mouth, a forehead of an especial shape, contrasted with a peculiar chin, &amp;c. &c., that it would be useless to go over the concern any more.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>His poetry is so-so, or rather very bad; and yet with a strange, but at the same time usual perversity, he prefers it to his prose, which is, or was, readable and pleasant. "Falkland", to be sure, is no great things - it being a book the naughtiness of the conception of which is happily neutralised by the dulness of its execution. But "Pelham" was full of smart magazine papers, any one of which would be worth any money to the "New Monthly" - two or three of them might, perhaps, find admission in a dull month into "Fraser"; and it is on this work he should take his stand. The reason is plain: he had, close by, the pattern and exemplar of the hero - "He but looked in the glass, and he drew from himself." "Devereux", "Disowned", "Doomed", &amp;c., are barely unreadable; and "Eugene Aram" has been already celebrated in our pages.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>As a statesman, he is chiefly remarkable for his strenuous exertions in the great and vital question of the Majors and Minors. He is bending all the powers of his mighty mind to arrange the great and truculent feud between Drury and Davidge, the Garden and the Wells. In oratory he has not succeeded; which [h]is ill-willers attribute to his injudicious custom of applying too liberal a stimulus of brandy before venturing on the desperate attempt of addressing an assembly so awful and august as that which congregates in St. Stephen’s. [...]</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Yet we must not so part with Bulwer, after all. If he would give up his "affectations" - and, surely, he is now old enough to do so - and learn to believe, that to be a Garrick Club dandy is not one of the highest objects of human ambition; if he would not fancy that the authorship of some three or four flimsy, and one clever novel, is the perfection of literary fame; if he would forswear the use of such words as "liberal principles," "enlarged ideas," "progress of mind," "behind the age," and other nonsense of the kind, which could be used by a parrot with as much effect as by the rising talent of the day; if he would read something, and think a little - get to harder study and a humbler mind, there is the making of something well worth praising in Bulwer; - and when we see it, nobody will be happier to proclaim it than ourselves.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Übersetzung</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Hier sehen wir Bulwer in passender Stellung: Er betrachtet sein Gesicht und revidiert zugleich seinen Bart. Mit scharfer Klinge, die weit besser schneidet als die Satire seiner "Siamese Twins", mäht er sich sanft das Kinn. Umhüllt von seiner "robe de nuit", die bedeutend besser fließt als der Absatz seines "Milton", schaut er gebannt auf die sich darbietende Szene und ruft mit dem Entzücken eines Redakteurs: "Was für ein reizender Artikel! Jeden Preis pro Bogen wert!" Wir haben Bulwer nämlich am Vorabend einer Publikation erwischt, als er letzte Hand an die Korrekturen legt. Es ist der Moment vor der Veröffentlichung.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Er selbst hat uns vor einiger Zeit im "New Monthly Magazine" ein autobiographisches Epos seiner Klasse, Rasse und Abstammung geliefert. Leider ist uns die Genealogie entfallen [...]. Dieselbe Geschichte enthielt auch viel Interessantes mit Bezug auf seine Bartlocken - geschickt angebracht, wie unsere Abbildung zeigt -, das Besondere seiner Kleidung, das gewisse Etwas seiner Haltung und andere Dinge, die für das allgemeine Publikum von höchstem Interesse sein dürften. </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">L.E.L.</tei:ref>
+        <tei:seg> hat ihn jedoch in "Romance and Reality", einem Werk, von dem wir zu unserer Schande gestehen müssen, es bisher nicht rezensiert zu haben, so vollständig abgemalt (wir wollen nicht sagen 'liebevoll', um der Gefahr zu entgehen, dass dieser rein technisch gemeinte Ausdruck etwa wörtlich verstanden würde) als jemanden mit Adlernase, die durch einen offenen Mund ausgeglichen wird, mit einer besonders geformten Stirn, deren Gegengewicht wiederum ein eigenartiges Kinn bildet usw. usw., dass sich für uns jede weitere Auseinandersetzung mit dem Thema erübrigt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Bulwers Lyrik ist mittelmäßig oder vielmehr sehr schlecht; und doch gibt er ihr mit einer seltsamen, bei ihm jedoch gewohnten Abartigkeit den Vorrang vor seiner Prosa, die immerhin lesbar und unterhaltsam ist oder es zumindest war. "Falkland" ist natürlich kein großer Wurf - ein Buch, bei dem die Frivolität der Konzeption durch die Langweiligkeit der Ausführung aufgehoben wird. "Pelham" aber steckte voller geistreicher Zeitungsartikel, für die das "New Monthly Magazine" jeden Preis zahlen würde. Zwei oder drei davon könnten in einem sauren Monat vielleicht sogar einmal bei "Fraser’s Magazine" Aufnahme finden. "Pelham" ist jedenfalls das Werk, auf das Bulwer bauen sollte. Der Grund liegt auf der Hand, denn der Autor hatte das Musterbeispiel des Helden direkt vor sich: "Er sah nur in den Spiegel und schöpfte aus sich selbst". "Devereux", "Der Verstoßene", Verbannte, Verkannte usw. sind schlechterdings unlesbar; dem "Eugene Aram" haben wir in unseren Blättern bereits die Ehre erwiesen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Als Staatsmann ist Bulwer vor allem wegen seiner Bemühungen in einer hohen und wichtigen Angelegenheit bemerkenswert. Die ganze Wucht seines Geistes verwendet er darauf, </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">eine Fehde zwischen Groß und Klein, zwischen Drury und Davidge, Garden und Wells in die Wege zu leiten</tei:ref>
+        <tei:seg> [...]. Als Redner hatte er bislang keinen Erfolg. Diejenigen, die ihm nicht wohl wollen, erklären dies aus seinem Genuss üppiger Mengen von Branntwein, bevor er zu der hohen Versammlung von </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">St. Stephen</tei:ref>
+        <tei:seg>’s zu reden wagt. [...]</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Aber so dürfen wir uns von Bulwer denn doch nicht verabschieden. Wenn er nur aufhören wollte, so affektiert zu tun - dazu ist er nun schließlich alt genug - und einsehen würde, dass ein Leben als Dandy im Garrick-Club nicht zu den höchsten Zielen menschlichen Strebens gehört; wenn er sich die Vorstellung abgewöhnen würde, als Verfasser von drei oder vier zusammengeschusterten und einem geistreichen Roman befinde er sich bereits auf dem Gipfel des literarischen Ruhms; wenn er sich den Umgang mit Worten wie "liberale Prinzipien", "umfassende Ideen", "Fortschritt des Geistes", "hinter dem Zeitalter zurück" und ähnlichem Unsinn verbieten würde, den ein Papagei genau so gut von sich geben kann wie ein neu aufsteigendes Tagestalent; wenn er etwas lesen und ein wenig nachdenken, sich zu gewissenhafterem Studium und einer bescheideneren Haltung disziplinieren wollte, dann hätte Bulwer tatsächlich das Zeug, etwas Lobenswertes zustande zu bringen. Wenn wir dieses zu Gesicht bekommen, wird niemand lieber davon Kunde geben als wir selbst.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p style="text-left">
+          <tei:seg>Letitia Elizabeth Landon, 1802-1838, Schriftstellerin, angeblich in eine Liebesaffäre mit Bulwer, sicherlich aber in eine mit dem Verfasser dieser Satire, William Maginn, verwickelt</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p style="text-left">
+          <tei:seg>Anspielung auf die Bemühungen des Parlamentariers Bulwer um die rechtliche Stellung von Autoren; hier geht es um sein Engagement für die Abschaffung des Monopols königlicher Patenttheater wie Drury Lane oder Covent Garden und gegen die Benachteiligung von Bühnen wie Sadlers Wells und Davidge’s Surrey Theatre</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p style="text-left">
+          <tei:seg>St. Stephen's Chapel, 1834 abgebrannt, war die Debattierkammer des Unterhauses im alten Westminster-Palast</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:p style="text-left">
+        <tei:seg>(Dies ist der Text zu dem Porträt Bulwers im Morgenrock von Daniel Maclise).</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
