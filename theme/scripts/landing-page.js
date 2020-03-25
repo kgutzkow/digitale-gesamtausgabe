@@ -70,7 +70,7 @@
                     if (quoteIdx % 2 === 0) {
                         leftQuote.children[Math.floor(quoteIdx / 2)].setAttribute('aria-current', 'false');
                     } else {
-                        rightQuote.children[Math.floor(quoteIdx / 2) + 1].setAttribute('aria-current', 'false');
+                        rightQuote.children[Math.floor(quoteIdx / 2)].setAttribute('aria-current', 'false');
                     }
                 } else {
                     rightQuote.children[quoteIdx].setAttribute('aria-current', 'false');
@@ -84,7 +84,7 @@
                 if (quoteIdx % 2 === 0) {
                     leftQuote.children[Math.floor(quoteIdx / 2)].setAttribute('aria-current', 'true');
                 } else {
-                    rightQuote.children[Math.floor(quoteIdx / 2) + 1].setAttribute('aria-current', 'true');
+                    rightQuote.children[Math.floor(quoteIdx / 2)].setAttribute('aria-current', 'true');
                 }
             } else {
                 rightQuote.children[quoteIdx].setAttribute('aria-current', 'true');
