@@ -20,8 +20,8 @@
     </tei:fileDesc>
     <tei:encodingDesc>
       <tei:classDecl>
-        <tei:taxonomy xml:id="">
-          <tei:bibl/>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
         </tei:taxonomy>
       </tei:classDecl>
     </tei:encodingDesc>
@@ -33,7 +33,7 @@
         <tei:date when="1833">1833</tei:date>
       </tei:creation>
       <tei:textClass>
-        <tei:catRef target=""/>
+        <tei:catRef target="#anhang #england-und-die-englander"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
