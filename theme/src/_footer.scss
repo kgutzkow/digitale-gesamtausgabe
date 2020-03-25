@@ -6,9 +6,19 @@ footer {
     color: lighten($body-font-color, 20%);
     border-top: 1px solid $light-gray;
     margin-top: $global-margin;
+    margin-bottom: $global-margin;
     padding-top: $global-margin;
 
     h2 {
         font-size: rem-calc(16);
+    }
+
+    ul.menu {
+        li {
+            a {
+                padding-top: $global-padding / 3;
+                padding-bottom: $global-padding / 3;
+            }
+        }
     }
 }

@@ -83,7 +83,7 @@
           <h2>{{ LINKS_WIDGET_NAME | default('Links') }}</h2>
           <ul class="menu vertical">
             {% for name, link in LINKS %}
-              <li><a href="{{ link }}">{{ name }}</a></li>
+              <li><a href="{{ link }}" target="_blank" rel="noopener">{{ name }}</a></li>
             {% endfor %}
           </ul>
         </nav>
