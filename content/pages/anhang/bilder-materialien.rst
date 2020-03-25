@@ -29,4 +29,11 @@ Bilder
 Materialien
 +++++++++++
 
-Nicht leicht zugängliche Texte anderer Autoren.
+.. class:: no-bullet
+
+  * `Edward Lytton Bulwer, England und die Engländer <bilder-materialien/england-und-die-englander.html>`_
+  * `Heinrich Laube, "Edward Lytton Bulwer" (1835) <bilder-materialien/edward-lytton-bulwer-1835.html>`_
+  * `William Maginn, "Edward Lytton Bulwer" (1832) <bilder-materialien/edward-lytton-bulwer-1832.html>`_
+  * `Wolfgang Menzel, "Briefe aus Paris, 1830-1831. Von Ludwig Börne" (1831) <bilder-materialien/briefe-aus-paris-von-ludwig-borne.html>`_
+  * `Levin Schücking, "Bulwers neueste Schriften" (1838) <bilder-materialien/bulwers-neueste-schriften.html>`_
+  * `Hieronymus Lorm, "Charles Dickens" (1854) <bilder-materialien/charles-dickens.html>`_
