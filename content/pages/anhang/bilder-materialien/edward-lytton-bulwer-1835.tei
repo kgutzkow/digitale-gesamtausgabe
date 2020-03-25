@@ -4,7 +4,7 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Edward Lytton Bulwer (1835)</tei:title>
-        <tei:author>Edward Lytton Bulwer</tei:author>
+        <tei:author>Heinrich Laube</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Martina Lauster</tei:name>
@@ -21,19 +21,19 @@
     <tei:encodingDesc>
       <tei:classDecl>
         <tei:taxonomy xml:id="gutzkow-taxonomy">
-          <tei:bibl></tei:bibl>
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
         </tei:taxonomy>
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Edward Lytton Bulwer: England und die Engländer. Übersetzt von Louis Lax. 3 Bde. Aachen, Leipzig: Jacob Anton Mayer / Brüssel: J. A. Mayer und Somershausen, 1833.</tei:bibl>
+      <tei:bibl>Heinrich Laube: Edward Lytton Bulwer. In: Moderne Charakteristiken. 2 Bde. Mannheim: Löwenthal, 1835. Bd. 2, S. 355-379.</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1833">1833</tei:date>
+        <tei:date when="1835">1835</tei:date>
       </tei:creation>
       <tei:textClass>
-        <tei:catRef target=""/>
+        <tei:catRef target="#anhang #edwart-lytton-bulwer-1835"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
@@ -44,10 +44,186 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nicht online verfügbar.</tei:seg>
+      <tei:p style="text-left">
+        <tei:seg>Die Consumtion der romanartigen Schriften ist bei uns noch immer so groß, daß unsere Landesprodukte nicht ausreichen, und nicht eher Behaglichkeit in unser Romanlesen einkehrt, als bis irgend ein fruchtbarer Ausländer die Theilnahme des Publikums ausschließend in Anspruch nimmt, bis einer Mode wird; denn viele Leute lesen nur dann gern, wenn sie wissen, daß es andere auch thun, daß sie darüber sprechen können. Sie mögen nichts Neues suchen, aber sie mögen der Mode, dem bestbefolgten Gesetze, in allen Dingen gehorchen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Zur französischen Revolutionszeit entwickelte sich </tei:seg>
+        <tei:pb n="356"/>
+        <tei:seg> eben in Deutschland rührig und geschäftig die erste klassische Epoche unsrer eignen Literatur, Don Carlos und Wilhelm Meister bewegten uns, als die Franzosen einander hinrichteten und die Horen waren unsre Journale, die Xenien unsre Guillotine. Dabei haben sich unsere Köpfe sicherlich besser befunden; die französischen Schriften Diderot’s, Voltaires, Rousseau’s waren keineswegs allgemeine Lektüre, man darf kaum von Rousseau’s Emil sagen, daß er populär war. Unser Publikum verstand auch damals noch zu wenig Französisch und die Gouvernanten waren noch Prärogative des Adels, erst Napoleon hat die Sprache verbreitet, und das Uebersetzen datirt von ihm zuerst Bülletins, dann Memoiren.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Franzosen sind überhaupt als Schriftsteller niemals so populär bei uns geworden, es findet sich immer zu viel kleines geistreiches Zeug in ihnen, was den bloß stofflustigen, handfesten Leser stört, das starke romantische Interesse ist den Helden der unromantischen Gesellschaft durchaus nicht geläufig, nicht die Phantasie, sondern der Esprit ist </tei:seg>
+        <tei:pb n="357"/>
+        <tei:seg> ihnen Mittelpunkt, das Herz ist aber immer populärer, als der Kopf.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Und so war es auch mit den Memoiren, welche nach Napoleons Sturze aufkamen, trotz ihres mannigfachen Interesses wurden sie durch die Engländer überboten, durch Byron und Scott. Byron wurde nicht just populär, aber er interessirte sehr, und wenn ihn auch die Leute nicht überall lasen, so ließen sie sich gern von ihm erzählen. Die Weiber bestach er durch seine genialen Gedanken und seinen genialen Kopf mit den romantischen Augen. Dieser Kopf ist wie der Friedrichs des Großen und Napoleons populär geworden, die Damen haben ihn stets wie einen Normal-Dichterkopf vor Augen, und wenn sie in ein Bad oder in die Theaterloge kommen, so sehen sie Aehnlichkeiten oder Unähnlichkeiten mit Lord Byron. Unsere Poeten stammten zudem meist vom Lande, hatten Ziegen gehütet, mit kleinen Stipendien studirt, eine magre Pfründe mühselig erreicht, ein Weib genommen, Kinder gezeugt, Philister gespielt - dort war’s ein Lord, der seinen Reich-</tei:seg>
+        <tei:pb n="358"/>
+        <tei:seg>thum mit Poesie verhöhnte, der sein goldnes Leben tagtäglich wie ein pauvrer Matrose in die Schanze schlug, der Mann war Gegenstand des Salonklatsches, des häuslichen Skandals, er starb in der Blüthe der Jugend. Gewiß, wenn’s auch seine Schriften nicht waren, Byron war persönlich populair und spielte den kleinen englischen Napoleon in den deutschen Herzen fort.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Nach ihm kam Walter Scott; wir müssen ein Faible haben, und bekanntlich macht uns ein ausländisches am glücklichsten. Scott griff in die bunte Baronen- und Räuberzeit Alt-Englands, und mit unbeschreiblichem Staunen sahen wir große Geschichts- und Flächenräume mit aller Staffage, mit noch größerer Verwunderung sahen wir auf dem wirklichsten Hintergrunde der Geschichte Handlung an Handlung vorüberschreiten, es befing uns der historische Roman mit all dem Zauber, welchen der romantische Hintergrund wirklicher Welt, wirklich geschehener Dinge immer ausübt. Die schottischen Haiden, die grünen Schützen, welche durch die alten Wälder schweiften, die </tei:seg>
+        <tei:pb n="359"/>
+        <tei:seg> dunkeln Moorgründe, wo sich eine Bauernschlacht herumtummelte, standen Tag und Nacht vor unserm Blicke. Es kümmerte die Demokratie nicht, daß Scott die Baronenherrschaft verherrlichte, und die Aristokraten gewahrten es im Taumel kaum, das Wirkliche, Wahrhaftige seiner Poesie ließ die künstlichen Definitionen, die Begriffsfeindschaften nicht aufkommen. Erst mit seinem "Leben Napoleons" zerstörte er die Illusion, und raubte einem großen Theile seiner Leser jene Unbefangenheit, welche der Empfängniß eines Romans so überaus günstig ist.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>So ereignete sich von England aus das Unglaubliche, daß ein einzelner Mann länger als ein Decennium die ganze Lesewelt Europa’s beschäftigte, und bei uns allein beschäftigte. Es existirt seit Lopez de Vega und Shakespeare kein Beispiel in der Geschichte, daß ein Schriftsteller bei solch immenser Produktion auch immer neu erfinden konnte. Er starb.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Unterdeß war die Zeit von Neuem aufgeregt worden, und zwar wieder von den Franzosen, es </tei:seg>
+        <tei:pb n="360"/>
+        <tei:seg> stand nun auch eine Schaar neufranzösischer Schriftsteller auf, sie sangen tolle Lieder, veranstalteten Orgien, erzählten sich rothe, braune und schwarze Geschichten, wollten um jeden Preis interessiren, und holten dazu die Erregungsmittel aus allen Theilen zusammen. Die französischen Romantiker nahmen einen Theil unsrer Leser und Leserinnen in Anspruch, "der Salamander," "</tei:seg>
+        <tei:foreign>Notre Dame de Paris</tei:foreign>
+        <tei:seg>," "</tei:seg>
+        <tei:foreign>L’ane mort</tei:foreign>
+        <tei:seg>," ["]</tei:seg>
+        <tei:foreign>Barnave</tei:foreign>
+        <tei:seg>" etc. wurden gelesen, besprochen, beschimpft, belobt, aber es mußte wieder ein Engländer kommen, um unser Leseinteresse völlig in Beschlag zu nehmen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das ist Edward Lytton Bulwer. Vielleicht ruht in dieser eigensinnigen historischen Erscheinung ein Geheimniß alter Verwandtschaft zwischen unsern Nationalitäten, ein alter Familienzug zu den vergessenen Sachsen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Bulwer stammt aus einer reichen englischen Familie, ist ein junger, feiner Mann mit einem länglichen, ächt englischen Gesichte, und sitzt seit einigen Jahren im Parlamente, wo er zu den sogenannten Radikalen gehört, welche ohne sonder-</tei:seg>
+        <tei:pb n="361"/>
+        <tei:seg>liche Beachtung des Herkömmlichen die Verfassung von der Wurzel umbilden möchten. Die historische Illusion, die romantische Vorliebe scheint ihm also im Gegensatze zu Walter Scott fehlen zu müssen, und dies ist auch wirklich ein Moment seiner Beurtheilung. Es darf jedoch nie vergessen werden, daß sich diese Unterschiede in England viel sanfter schattiren, als dies auf dem Kontinente, und namentlich in Frankreich der Fall ist; der bloße Begriff, die nackte Definition ist im Engländer bei Weitem nicht so mächtig, und er hängt mit tausend Fasern an den Sympathieen der Gewohnheit.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es ist wunderlich, daß ein so poetisches Volk, wie das englische, Hauptmuster europäischer Literatur in Erfindung poetischer Formen und interessanter Begebenheiten geworden ist. Man sollte glauben, dergleichen Dinge müßten den Britten am ersten läppisch erscheinen, und unter so streng reeller Umgebung müßten sie durch und durch baar aller Phantasie und Illusion werden. Daß Shakespeare in Strafford [</tei:seg>
+        <tei:hi style="font-style-italic">sic</tei:hi>
+        <tei:seg>] aufwachsen, in London </tei:seg>
+        <tei:pb n="362"/>
+        <tei:seg> unser größter Dichter werden konnte, schoben wir gern auf die Zeit der Elisabeth, wo dieser Staat erst anfing, alle Kräfte nach dem Handel hinzustrecken. Man kann ferner nicht begreifen, wie eine Gelehrsamkeit gleich der englischen, die in so enormem Ansehn steht, und das klassische und unklassische Alterthum mit pedantischem, geschmacklosem Heißhunger durch einander genießt, wie solche Gelehrsamkeit dem Schriftsteller so viel modernen Reiz übrig lasse.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Vielleicht ist gerade eine solche Composition, wie die des englischen Volkes, nöthig zum chemisch literarischen Prozesse, das Ritterthum des Barons, der Stolz, die Selbständigkeit des Bürgers, der praktische, untäuschbare Sinn des Kaufmanns, die beschränkten Formen in Sitte und Religion, die Jungfräulichkeit, die Prüderie der Frauen, die weite bequeme Form des gemeinen Rechtes sind vielleicht just die Kontraste, welche der Dichtung zu statten kommen. Uebrigens finden auch alle jene erhobenen Zweifel ihre Bestätigung in den englischen Schriften. Eine gewisse altkluge Ob-</tei:seg>
+        <tei:pb n="363"/>
+        <tei:seg>jektivität raubt immer den englischen Romantikern die Frische der Illusion, und von diesem Vorwurfe ist auch Bulwer keineswegs frei zu sprechen. Sie erzählen Alles wie aus einem Großvatermunde, in alten Werkeltagskleidern erscheinen sie auf der Bühne, und diese müssen sie alle erst nach und nach ablegen, ehe man das schöne, warme Fleisch finden kann. Wie sehr vernünftige Leute gehen sie an die Romantik, sie entschuldigen sich, daß sie es thun, sie reiten sich erst ein Paar Stunden warm, ehe sie geschmeidig werden. Die ganze untheilbare romantische Atmosphäre eines deutschen Poeten bringen sie nie, weil sie sich nie enthalten können, sich selbst als prosaische, ungläubige Schriftsteller zwischen die Zeilen zu malen. Alle die Puppen englischer Entwickelung schälen sie langsam und träge ab, aber weil diese Puppen so ansprechend sind, so werden sie trotz ihrer Manier interessant: sie führen uns über den sammtnen grünen Rasen unter die hundertjährigen Bäume ihrer Gartenwälder, es ist Sonntag, die hinter Ulmen verborgenen Dörfer sind still und feierlich, </tei:seg>
+        <tei:pb n="364"/>
+        <tei:seg> die Glocken läuten, man glaubt, die alte kirchliche Zeit unter den Stuarts noch zu sehen, das alte Lordschloß sieht ernsthaft vom Hügel auf uns hernieder, die geharnischten Barone scheinen uns hinter den Fenstern zu stehen; oder sie bringen uns Feierabends in die Schenke, wo die feisten Pächter ihre alten Lieder poltern, ihre lustige Derbheit entwickeln, tüchtige Toasts mit mannigfachen Bezügen ausbringen, und es dünkt uns wirklich, das lustige Alt-England sey wieder da, nicht das ernste, geschäftige.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>So machen’s die englischen Schriftsteller. Sie überraschen wie mit Zauber, sie entschuldigen sogar den Zauber, weil sie nicht die Schönheit, sondern mehr als diese die Wahrscheinlichkeit beabsichtigen. Bei dem großen Interesse, das sie zu erregen verstehn, bleiben sie völlig romantisch-geschmacklos; sie dürfen einen Schritt weiter gehn, eine Hand voll spannender Fakta weniger haben, so werden sie abgeschmackt. Sie sind keine Poeten und ihre Gedichte sind größtentheils langweilig, die alten schönen Balladen wissen sie wol noch als Antiqui-</tei:seg>
+        <tei:pb n="365"/>
+        <tei:seg>täten zu schätzen, aber nicht mehr zu schaffen. Beschreiben und Reflektiren ist ihre Sache nicht, aber Singen. Die Art von geschmacklosem Philisterthume in ihren Romanen kommt wol von der pedantischen Schulerziehung und den praktischen Umgebungen, von welchen sie eigentlich jede Art von Schwung entschuldigen zu müssen glauben, obwohl diese Umgebungen auch der herkömmlichen Meinung sind, Poesie sey etwas sehr Großes, und müsse geachtet werden.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Diese Vorwürfe gewisser Geschmacklosigkeit treffen auch Bulwer. Auch er sperrt sich mit vielen Redensarten, eh’ er sich in die Erzählung, das heißt in erfundene Begebenheiten hineinwagt, und wo er sich stellen kann, als sey die Sache nicht bloß erfunden, da hascht er begierig nach dieser Entschuldigung. Denn ein praktisches Volk, wie das englische, hat einen ungemessenen Respekt vor dem, was wirklich geschehen ist. Das ist an sich ein Vorzug und wird nur eben beim romantischen Schriftsteller ein Fehler. Auch Bulwer bewegte sich, besonders Anfangs, in den altherkömmlichen </tei:seg>
+        <tei:pb n="366"/>
+        <tei:seg> Begebenheiten der Romane: Ueberfälle auf der Landstraße, Criminal- und Galgeninteressen. Die Polizei ist bei einem freien Volke immer schlecht, es wurde immer in England Viel gestohlen, die öffentliche Criminaljustiz verbreitet Stoffs und Antheils die Fülle von Verbrechergeschichten. Sie enthalten z. B. die ganze Handlung in Bulwers Eugen Aram.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Bulwer suchte nun später mehr und moderner als die meisten andern englischen Romantiker neue Vorwürfe zu seinen Romanen, aber das eigentliche Fleisch und Blut ist noch immer nicht sehr verschieden von dem altenglischen; die Breite dramatischer Gespräche ist noch wenig verkürzt, wenn auch mehr durch Geist gehoben; die geschmacklose Ueberhäufung mit Citaten aus allen Schriften der Welt, womit sich die englische literarische Bildung breit zu machen pflegt, ist auch bei ihm noch in aller Widerwärtigkeit. Die Leute des Romans können sich nicht drei Worte über Liebe, Frühling, Wind, Kummer sagen, ohne daß sie einen Klassiker zu Hilfe nehmen. Um alle Ueberraschung </tei:seg>
+        <tei:pb n="367"/>
+        <tei:seg> zu vermeiden, welche der breit sprechende Engländer nicht liebt, steht der Inhalt des kommenden Romanabschnittes über jedem Kapitel.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Und daß wir eine Summe ziehn: die Form der englischen historischen Romane, welche so unumschränkten Eingang bei uns finden, ist keineswegs künstlerisch schön, sie ist sogar voll Mängel, träg, ohne höhere Schönheit. Aber die Romanschriftsteller sind höchst geistreich, höchst erfahren, ihr Talent ist größer als ihre Intention, sie verstehen es meisterhaft, eine Menge Interessen klar, anschaulich darzulegen, gesunde Menschen rücksichtslos handeln zu lassen, und so bereiten sie mit einer gewissen freistaatlichen Kühnheit eine solche Menge interessanten Stoffs, daß alle unsre Thätigkeiten beschäftigt werden.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Unterliegt nun auch Bulwer fast all jenen Vorwürfen, welche man den englischen Romanschriftstellern machen darf, so hebt er sich doch durch glänzende Vorzüge aus der Masse. Wenn auch ohne Glanz und Zauber, so ist doch seine Darstellung glatt und leicht, und es spielt die feinste Weisheit </tei:seg>
+        <tei:pb n="368"/>
+        <tei:seg> um Alles. Eugen Aram z. B. [→ Lexikon: Bulwer: Bulwer und Deutschland] ist eine der schönsten, auf das Weiseste gezeichneten Figuren irgend eines Romans. Die höchste Kraft von Bildung, von genialer Humanität ist in ihm verkörpert, und Alles, was er spricht, ist gediegen wie der Fluß des Goldes.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Aber Bulwer ist noch besonders merkwürdig. Nicht bloß weil er so viel und so gut schreibt und so viel gelesen wird, sondern weil er vielleicht ganz anders schreibt, als die meisten Leute glauben, und weil er wegen ganz andrer Dinge gelesen wird, als die meisten Leser vermuthen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es ist zu verwundern, daß sich unsre Literaten das entgehen lassen. Etwas Definitives in Geschichte und Literatur läßt sich jetzt nicht sagen - wir erwarten Alle mit Sehnsucht jenes Genie, welches alle Radien in sich vereinigen und uns eine große historische Leuchte aufstecken wird; denn es ist uns klar, daß der Alles vereinigende Mittelpunkt unsrer Geschichte noch nicht gefunden ist, vor welchem alle Welt anerkennend niederfallen muß. Er wird gefunden werden, wenn auch nach </tei:seg>
+        <tei:pb n="369"/>
+        <tei:seg> vielen, vielen Jahren; denn es ist unsre merkwürdige Konstruktion, daß wir auch immer die Erfüllung dessen auffinden, wovon wir das Bedürfniß erkannt haben. Aber was können wir besser thun, so lange wir um das tiefe Geheimniß wie die Motten um das Licht herumschwärmen, als die Göthische Erfindung ausbeuten: das Einzelne genauer kennen lernen, Bausteine fertigen. Die Individualitäten bilden die Welt, wir sollten Individualitäten bis auf das Mark der Seele studiren; wichtige Individualitäten sind einzelne Kapitel der Weltgeschichte.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ein solch Kapitel ist Edward Lytton Bulwer, namentlich in Bezug auf uns, er wirft Licht über unser Publikum. Welches?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das Hervorstechende an ihm ist eine umfassende Bildung. Alles dokumentirt eine überraschende, ausgebreitete Kenntniß, sorgfältige, ja feine Beobachtung, eine milde, geläuterte Humanität, daß ich es mit dem einen, oben schon gebrauchten, kostbaren deutschen Worte sage: Alles bekundet Weisheit.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="370"/>
+        <tei:seg> Und das interessirt jetzt mehr als die gräßte Vollendung in der Kunst. Ein Künstler im höchsten Sinne des Wortes ist er nicht, er ist die glänzendste Potenz eines praktischen Mannes, ein liebenswürdiger, höchst bedeutender Philister. - Philisterthum ist natürlich hier nur der Gegensatz von Poesie, an die schäbige, fadenscheinige Couleur dieser deutschen Eigenschaft ist dabei nicht zu denken. Denken, Lernen, Entwickeln, Schildern, Alles ist da; aber Schaffen, das Herz des Poeten?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Er ist viel mehr als Göthes Madame Melina, welche eine Anempfinderin genannt wird, aber er ist, wie unser Publikum größtentheils, eine Madame Melina. Ein designirter englischer Minister ist er ebenfalls: der gesellschaftliche Zustand Englands und die Sorge um denselben hat seine Bücher eingegeben, der Aram, Clifford, Devereux, Pelham, England und die Engländer, all seine Gedanken und Bestrebungen gehen von Haus aus auf das Nützliche; seine Lernbegierde, seine natürliche Liebenswürdigkeit, seine zarte Humanität ha-</tei:seg>
+        <tei:pb n="371"/>
+        <tei:seg>ben ihm manches Poetische angewöhnt, er ist ein designirter Minister, aber kein designirter Dichter. Der Dichter soll auf Jahrhunderte spekuliren, der Staatsmann auf ein Lebensalter. Man vergleiche dazu Bulwers etwas schwülstig angeordnetes, aber sehr umfassendes "</tei:seg>
+        <tei:foreign>England and the Englishmanns</tei:foreign>
+        <tei:seg>," [→ Die Zeitgenossen, Quellen, Folien, Anspielungshorizonte: Gattungsfolien] wie fein, wie reif prüft er die Zustände, wie trefflich giebt er an, was man verlangen könnte, was zu verbessern wäre. Nun? Aber es sind die Verbesserungen und Veränderungen eines praktischen Mannes, es ist tüchtige englische Spekulation, die er im Nothfalle vor einem gebildeten Kaufmanne verantworten und vertreten kann - höhere, poetische Spekulation ist nicht darin, die kann man vor keinem Kaufmanne vertreten.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Er beurtheilt englische Poeten, z. B. Sheridan, Shelley, Wordsworth, Coleridge, Lord Byron: dabei ist er nicht gerade ein englischer Moralist, ein befangener Episkopale oder Puritaner, nicht gerade Master Johnson selber, aber er ist nur gebildeter als jene Begriffe und als dieser, nicht anders; nicht ein unbefangenes dichterisches Gemüth, </tei:seg>
+        <tei:pb n="372"/>
+        <tei:seg> das die Kritik handhaben kann ohne allen Schatten von Herkömmlichkeit. Er hat nicht übel Lust, uns den unbedeutenden, civilen Wordsworth, einen rhetorischen Gentleman, eben so hoch zu stellen, als den Lord Byron; er spricht noch viel von </tei:seg>
+        <tei:hi style="font-weight-bold">didaktischen</tei:hi>
+        <tei:seg> Gedichten, er </tei:seg>
+        <tei:hi style="font-weight-bold">entschuldigt</tei:hi>
+        <tei:seg> Byron wegen seiner unbändigen Vorzüge, und schiebt sie auf Verhältnisse, er </tei:seg>
+        <tei:hi style="font-weight-bold">entschuldigt</tei:hi>
+        <tei:seg> Shelley wegen seines brausenden Geistes; es ist kein welthistorisches Auge in ihm, wie es in jedem Dichter ist, der sich nicht befangen läßt. Er ist nur für Auffassung des Nächsten vortrefflich.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Diesen Vorwurf eines Mangels an originaler schaffender Poesie scheinen nun auf den ersten Anblick seine "Pilger am Rheine" [→ Lexikon: Bulwer: Bulwer und Deutschland] zu widerlegen. Es enthält dies Buch die Reise zweier Liebenden den Rhein entlang und nebenher flattern Elfenliebschaften und allerlei andere hübsche Geschichten. Aber er widerlegt es so wenig, wie sein neustes "die letzten Tage von Pompeji," [→ Lexikon: Bulwer: Bulwer und Deutschland] von welchem gleich die Rede sein soll. Es enthält den Beweis vielfacher poetischer Thätigkeit Bulwers, es ist die </tei:seg>
+        <tei:pb n="373"/>
+        <tei:seg> Anempfindung Deutschlands, deutscher Auffassung und Darstellungsweise, es ist eine ganz verführerische Madame Melina, aber nein, kein Schöpfer der Melina.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Poetische Fähigkeiten sind viel weniger als Poesie, so wie Tugenden weniger sind als Tugend.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Und wenn nun diese Auffassung Bulwers richtig wäre - um in bescheidner Bulwerscher Manier zu sprechen - so verbreitete sie wirklich ein merkwürdiges Licht über unser Lesepublikum.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Mit den Lesegelüsten der Menge ist es wie mit den Liebschaften und Heurathen der Menge: das Verwandte, das Handwerk sucht sich.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Belehrung, jener beliebte didaktische Beigeschmack, was die Mehrzahl unsers ästhetischen Publikums noch immer charakterisirt, dürfte das wesentliche Anziehungsorgan sein. Es ist also Göthe noch nicht gelungen, die Gellertsche moralische Fabelperiode ganz zu verdrängen, und das reine, unverfälschte Verlangen nach der Schönheit zu erwecken. Sie fragen auch immer bei der Kunst, was sie nütze, lesen Walter Scott der englischen </tei:seg>
+        <tei:pb n="374"/>
+        <tei:seg> Geschichte wegen und loben Theodor Körner, weil er die Keuschheit befördre.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das ist ein Beweis, wie allgemein und tief das liebenswürdige Philisterthum in uns sitzt - nicht wegen seiner künstlerischen Vorzüge, sondern wegen seiner Wissenschaft wird Bulwer gelesen. Ich meine hierbei das Wort "liebenswürdig" vollkommen ehrlich und harmlos. Wenn Bulwer in Italien, Frankreich und Spanien eben so viel Theilnahme fänd, was ich allerdings bezweifle, so ist am Ende diese Art Philisterthum ein nothwendiger Erdbestandtheil ganzer Völker.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Vielleicht ist Bulwer selbst so etwas durch den Kopf gegangen; denn es erschien plötzlich ein Buch, was auf den ersten Anblick wenig Berührung mit jenem Philisterthume zu haben schien, wo namentlich gar keine englischen Staatsinteressen zu wittern waren - "die letzten Tage von Pompeji" heißt es. [→ Lexikon: Bulwer: Bulwer und Deutschland]</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Und doch welch ein Gewaltsames liegt in dieser Intention! Man kann sich des Gedankens nicht erwehren, daß es ein gemachtes künstliches Pro-</tei:seg>
+        <tei:pb n="375"/>
+        <tei:seg>dukt werden muß, wenn ein Schriftsteller an Darstellung solcher Scenen geht, die gar keinen Berührungspunkt mit unserm Herzen haben. Die Archäologie braucht kein Herz, aber der Roman braucht eins. Das wird um so eindringlicher, als dieser Vorwurf vielfach zu dem eben charakterisirten Wesen Bulwers stimmt. Er koncipirt seine Sachen immer mit dem Verstande, ein ächter Vertreter unsers Publikums, was durch die Kulturschwankungen an den Grenzen so vieler Interessen steht, und sich noch nicht entschieden für ein Ganzes erklärt hat, dem ein solcher Elektricismus erwünscht ist, welcher nirgends auf entscheidende Wahl dringt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wenn man indeß bedenkt, daß Bulwer leidend zu Neapel lebte und also doch auf einem natürlichen Wege das Unglück Pompeji’s und dieses Buch empfangen hat, so sieht man ein, daß alle diese Vorwürfe nicht in bestimmter aufrechter Figur, sondern mehr bescheiden und fragsam zu ihm treten müssen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ueber die philiströse Behandlung des Stoffs </tei:seg>
+        <tei:pb n="376"/>
+        <tei:seg> herrscht aber wiederum kein Zweifel: ohne Unterlaß schwatzt er als Forscher und Lehrer in den Stoff hinein, theilt die Zufälligkeiten, die kleinen Veranlassungen seiner Erfindung den Lesern mit, um recht geflissentlich und prosaisch - ächt englisch - alle poetische Illusion zu zerstören. Die Leute sollen ja nicht glauben, ein undefinirbarer Genius habe ihm Dies oder Jenes zugeflüstert, nein, dieser Stein oder jene Stelle des Herrn Plinius habe die Veranlassung gegeben.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>So viel dichterisches Element also in diesem Buche ist - schon des Stoffes wegen mehr, als in den übrigen - so sehr beweist doch auch gerade dies Buch wieder, daß der Verfasser kein eigentlicher Dichter ist. Er glaubt selbst nicht einen Augenblick an seine Täuschungen und Erfindungen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Just diese "letzten Tage von Pompeji" erinnern deutlich an die englischen Schulen, wo prosaisch und schulmeisterlich so außerordentlich viel gelehrt wird. Sie kennen die Urspünglichkeit, </tei:seg>
+        <tei:pb n="377"/>
+        <tei:seg> aber es dünkt ihnen constitutionell schamlos, sie zu zeigen, überall klebt Malztaxe.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Was das romantische Element anbetrifft, so hat die bekannte Lady Morgan [→ Die Deutschen Uebersetzungsfabriken, Erläuterung zu 6,32: Tarnow] Aehnlichkeit mit Bulwer. Es ist ihm vorgeworfen worden, daß er es im Grunde nur als Nebensache ansehe, und sich desselben nur als eines Vehikels bediene. Das thut die Morgan in viel stärkerem Grade, viel ungeschickter, gröber, unzarter. Sie ist eine gewandte, geistreiche Frau, welche sich mit viel Lebhaftigkeit ihrer Kombination der Zeitinteressen bemächtigt hat, und diese durch Romane propagiren will. Der Roman an sich ist ihr nur das Mittel, ein für die Menge anziehendes Journal zu schreiben. Ihr neuster Roman "die Prinzessin," der sich die Justifikation Belgiens zum Vorwurfe genommen hat und nebenbei den störrigen Torrysmus geißelt, ist eigentlich nur ein ausgeführter Artikel der "Times". Von diesem Standpunkte aus müssen ihre Romane angesehen werden, welche sie dann auch nur mit Hilfe einiger Verstandeskombinationen zusammen setzt, eine doppelgängerische, mystificirende Figur </tei:seg>
+        <tei:pb n="378"/>
+        <tei:seg> fehlt beinahe nirgends, und ein irischer Bursche belustigt mit seinem Jargon und seiner Ungeschicktheit, tiefere Herzensverflechtungen gestalten bei ihr niemals anziehende Verhältnisse und Zustände. Parallel mit dieser Aeußerlichkeit sind denn auch ihre Ansichten von Staat und Kunst, praktisch und räthlich, gesund und einfach, aber arm und ohne tiefere Beziehungen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Bei alle dem findet sich in dieser kolossalen irischen Dame viel Kraft und Energie und sie faßt namentlich äußere Geselligkeitsverhältnisse mit einer überraschenden Schärfe auf, wie sich das in einem ihrer letzten Bücher "dramatische Scenen" am deutlichsten herausstellt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Darf man die Staël damit bezeichnen, daß man ihr ein witziges, rednerisches Herz, eine kombinirende Leidenschaft zuschreibt, so kann von der Morgan gesagt werden, sie besitze einen interessanten, behenden Verstand. Von eigentlicher Romantik ist weder bei der einen, noch bei der andern die Rede, und Coriune [recte: Corinne] mit aller störsamen Beschreibung italischer Kunstwerke, besonders aber </tei:seg>
+        <tei:pb n="379"/>
+        <tei:seg> Delphine in den Spielereien mit Herzenswitz ist jedenfalls noch eher Roman zu nennen, als die "Prinzessin" der Lady Morgan, die übrigens strotzt von unterrichtendem Material.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:p style="text-left"/>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
