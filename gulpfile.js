@@ -7,7 +7,10 @@ var autoprefixer = require('gulp-autoprefixer'),
 
 gulp.task('css:theme', function(cb) {
     pump([
-        gulp.src('theme/src/app.scss'),
+        gulp.src([
+            'theme/src/fonts.scss',
+            'theme/src/app.scss'
+        ]),
         sass({
             includePaths: ['node_modules/foundation-sites/scss']
         }),
