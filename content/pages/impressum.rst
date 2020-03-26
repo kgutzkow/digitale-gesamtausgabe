@@ -6,20 +6,20 @@ Impressum
 Inhaltlich verantwortlich
 -------------------------
 
-| Dr Wolfgang Rasch
+| Dr. Wolfgang Rasch
 | dr.rasch@gmx.net
 
-| Dr Martina Lauster
+| Prof. Dr. Martina Lauster
 | m.lauster26@gmail.com
 
-| Dr Jörg Ritter
+| Dr. Jörg Ritter
 | joerg.ritter@informatik.uni-halle.de
 
 | Stephan Landshuter
 | ste.landshuter@t-online.de
 
-| Dr Mark Hall
-| mark.hall@informatik.uni-halle.de
+| Dr. Mark Hall
+| mark.hall@open.ac.uk
 
 Institution
 -----------

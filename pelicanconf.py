@@ -24,10 +24,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Gutzkow im Digitalen Textarchive', 'http://www.deutschestextarchiv.de/api/pnd/118543830'),
+LINKS = (('Gutzkow im Deutschen Textarchiv', 'http://www.deutschestextarchiv.de/api/pnd/118543830'),
          ('Gutzkow im TextGrid Repository', 'https://textgridrep.org/search?filter=edition.agent.value:Gutzkow%2C+Karl'),
          ('Design & Implementierung - Dr. Mark Hall', 'http://www.open.ac.uk/people/mmh352'),
-         ('Digitale Bereitstellung - Informatik @ Martin-Luther-Universität Halle-Wittenberg', 'https://www.informatik.uni-halle.de/ti/forschung/ehumanities/'))
+         ('Digitale Bereitstellung - Institut für Informatik, Martin-Luther-Universität Halle-Wittenberg', 'https://www.informatik.uni-halle.de/ti/forschung/ehumanities/'))
 
 DEFAULT_PAGINATION = 6
 
