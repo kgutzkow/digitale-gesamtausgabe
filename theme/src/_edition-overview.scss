@@ -9,6 +9,7 @@
             z-index: 2;
             border-bottom: 1px solid $light-gray;
             width: 100%;
+            display: inline-block;
 
             @include breakpoint(medium) {
                 top: 45px;
