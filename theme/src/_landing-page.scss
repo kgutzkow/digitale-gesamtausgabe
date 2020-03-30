@@ -21,7 +21,7 @@
 .landing-page {
     height: 50vh;
     align-items: center;
-    margin: $global-margin 0;
+    margin: $global-margin 0 $global-margin*5 0;
 
     .left-quote, .right-quote {
         position: relative;
