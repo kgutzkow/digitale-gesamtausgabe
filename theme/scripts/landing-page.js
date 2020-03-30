@@ -90,7 +90,7 @@
                 rightQuote.children[quoteIdx].setAttribute('aria-current', 'true');
             }
 
-            quoteTimeout = setTimeout(nextQuote, 10000);
+            quoteTimeout = setTimeout(nextQuote, 13000);
         }
 
         nextQuote();
@@ -99,13 +99,13 @@
             clearTimeout(quoteTimeout);
         });
         leftQuote.addEventListener('mouseout', () => {
-            quoteTimeout = setTimeout(nextQuote, 10000);
+            quoteTimeout = setTimeout(nextQuote, 13000);
         });
         rightQuote.addEventListener('mouseover', () => {
             clearTimeout(quoteTimeout);
         });
         rightQuote.addEventListener('mouseout', () => {
-            quoteTimeout = setTimeout(nextQuote, 10000);
+            quoteTimeout = setTimeout(nextQuote, 13000);
         });
 
         window.addEventListener('resize', () => {

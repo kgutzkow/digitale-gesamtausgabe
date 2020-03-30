@@ -35,7 +35,7 @@
             width: 90%;
             transform: translate(-50%, -50%);
             opacity: 0;
-            transition: 1s opacity;
+            transition: 5s opacity;
 
             &[aria-current="true"] {
                 opacity: 1;
