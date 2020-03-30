@@ -1,3 +1,18 @@
+.text-extract {
+    h2 {
+        font-size: rem-calc(14);
+        font-weight: normal;
+        font-variant: small-caps;
+    }
+
+    div.extract {
+        font-size: rem-calc(13);
+    }
+
+    div.buttons {
+        text-align: right;
+    }
+}
 /**
  * Reader formatting
  */

@@ -10,12 +10,27 @@
 {% block title %}{{ page.title }}{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
 {% block content %}
-  <h1>{{ page.title }}</h1>
+  <div class="grid-x">
+    <h1 class="cell small-10 medium-12">{{ page.title }}</h1>
+    <div class="cell small-2 hide-for-medium" style="align-self: center; text-align: right;">
+      <button data-action="read" data-action-read-no-inner-html>
+        <svg class="icon primary" viewBox="0 0 24 24">
+          <path d="M13,12H20V13.5H13M13,9.5H20V11H13M13,14.5H20V16H13M21,4H3A2,2 0 0,0 1,6V19A2,2 0 0,0 3,21H21A2,2 0 0,0 23,19V6A2,2 0 0,0 21,4M21,19H12V6H21" />
+        </svg>
+      </button>
+    </div>
+  </div>
   {% import 'translations.html' as translations with context %}
   {{ translations.translations_for(page) }}
   <div class="grid-x grid-padding-x">
-    <section class="cell small-12 medium-8">
-      {{ page.extract }}
+    <section class="cell small-12 medium-8 text-extract">
+      <h2 class="cell small-10">Auszug</h2>
+      <div class="extract">
+        {{ page.extract }}
+      </div>
+      <div class="buttons hide-for-small">
+        <button class="button primary small" data-action="read">Lesen</button>
+      </div>
     </section>
     <aside class="cell small-12 medium-4 metadata">
       <button class="button primary expanded" data-action="read">Lesen</button>
@@ -736,10 +751,13 @@
           }
       }
 
-      document.querySelector('*[data-action="read"]').addEventListener('click', function(ev) {
-          overlayElement.classList.remove('hidden');
-          bodyElement.classList.add('overflow-hidden');
-      });
+      const readLinks = document.querySelectorAll('*[data-action="read"]');
+      for (let idx = 0; idx < readLinks.length; idx++) {
+          readLinks[idx].addEventListener('click', function(ev) {
+              overlayElement.classList.remove('hidden');
+              bodyElement.classList.add('overflow-hidden');
+          });
+      }
 
       overlayElement.addEventListener('click', function(ev) {
           if (ev.target === overlayElement) {
@@ -752,7 +770,11 @@
       if (teiReaderSrc) {
           const teiReader = JSON.parse(teiReaderSrc);
           if (teiReader && teiReader['{{ page.slug|sha256 }}']) {
-              document.querySelector('*[data-action="read"]').innerHTML = 'Weiterlesen';
+              for (let idx = 0; idx < readLinks.length; idx++) {
+                  if (readLinks[idx].getAttribute('data-action-read-no-inner-html') === null) {
+                      readLinks[idx].innerHTML = 'Weiterlesen ...';
+                  }
+              }
           }
       }
   </script>
