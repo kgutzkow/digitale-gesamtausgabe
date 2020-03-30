@@ -103,6 +103,7 @@
                     max-height: 100%;
                     opacity: 0;
                     transition: 3s opacity;
+                    border-radius: 15px;
 
                     &[aria-current="true"] {
                         opacity: 1;
