@@ -12,6 +12,8 @@ Bulwer-Lytton Web Sites.
 
 The Dickens Project. University of California. Established 1981.
 
+`Deutsches Textarchiv <http://www.deutschestextarchiv.de/api/pnd/118543830>`_
+
 `Digitilisation of 18th and 19th century literary journals. University of Bielefeld <http://www.ub.uni-bielefeld.de/diglib/aufklaerung/>`_.
 
 Heine-Institut. Düsseldorf.
@@ -34,6 +36,8 @@ Historisch-Kritische Gottfried Keller-Ausgabe. (HKKA)
 
 | `Resources for 18th-century studies across the disciplines <http://www.personal.psu.edu/special/C18/c18-l.htm>`_. Founded in early 1990s.
 | Interdisziplinäre `Bibliography <http://www.personal.psu.edu/special/C18/sr/sr88.htm>`_ für Eighteeth-Century Studies.
+
+`TextGrid Repository <https://textgridrep.org/search?filter=edition.agent.value:Gutzkow%2C+Karl>`_
 
 `Theodor-Storm-Gesellschaft <http://www.storm-gesellschaft.de/>`_.
 
