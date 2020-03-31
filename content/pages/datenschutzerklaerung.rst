@@ -4,18 +4,13 @@ Datenschutzerklärung
 :slug: datenschutzerklaerung
 :no_menu: True
 
-Es werden keine Cookies in ihrem Browser gespeichert. Es werden auch keine externen Dienste einbezogen.
+Die relevante Datenschutzerklärung der Martin-Luther-Universität Halle-Wittenberg finden sie hier:
+https://www.uni-halle.de/datenschutzerklaerung/
 
-Um technische Probleme und etwaige Missbrauchsversuche nachfollziehen zu können werden auf dem Server in Log-Dateien
-folgende Daten für jede Seite (und die dazugehörigen Bilder, Stylesheets, und Schriftarten) die sie besuchen gespeichert:
+Dazu noch ein paar Zusatzinformationen für die Seiten des "Karl Gutzkow - Editionsprojekts":
 
-* IP Addresse
-* Angefragte URL
-* Datum und Uhrzeit der Serveranfrage
-* Browsertyp und Browserversion
-* Verwendetes Betriebssystem
-* Referrer URL
-
-Diese Daten werden im Backup System der Martin-Luther-Universität Halle-Wittenberg mindestens ein Jahr gespeichert.
-
-Es findet keine Zusammenführung der Logdaten mit Daten aus anderen Quellen statt.
+* Es werden **keine** externen Dienste oder Inhalte Dritter eingebunden.
+* Es wird **keine** Webanalyse mittels Matomo durchgeführt.
+* Es werden **keine** Cookies genutzt.
+* Es werden Daten im Browser gespeichert um die Interaktion so nutzerfreundlich wie möglich zu gestalten. Diese Daten
+  werden **nicht** an den Server übertragen oder von der Martin-Luther-Universität Halle-Wittenberg gespeichert.
