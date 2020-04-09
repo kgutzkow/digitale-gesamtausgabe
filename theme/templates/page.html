@@ -2,8 +2,12 @@
 {% block title %}{{ page.title }}{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
 {% block content %}
-  <h1>{{ page.title }}</h1>
-  {% import 'translations.html' as translations with context %}
-  {{ translations.translations_for(page) }}
-  {{ page.content }}
+  <div class="grid-x grid-padding-x">
+    <div class="cell small-12 medium-8">
+      <h1>{{ page.title }}</h1>
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(page) }}
+      {{ page.content }}
+    </div>
+  </div>
 {% endblock %}

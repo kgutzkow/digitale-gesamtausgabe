@@ -1,0 +1,534 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:teiHeader>
+<tei:fileDesc>
+<tei:titleStmt>
+<tei:title>CIGAR</tei:title>
+<tei:author>Christine Haug </tei:author>
+<tei:respStmt xml:id="MarkMichaelHall">
+<tei:resp>TEI transform</tei:resp>
+<tei:name>Mark M Hall</tei:name>
+</tei:respStmt>
+</tei:titleStmt>
+<tei:publicationStmt>
+<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+</tei:publicationStmt>
+</tei:fileDesc>
+<tei:encodingDesc>
+<tei:classDecl>
+<tei:taxonomy xml:id="gutzkow-taxonomy">
+<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+</tei:taxonomy>
+</tei:classDecl>
+</tei:encodingDesc>
+<tei:sourceDesc>
+<tei:bibl></tei:bibl>
+</tei:sourceDesc>
+<tei:profileDesc>
+<tei:creation>
+<tei:date when="2006-06-25">2006-06-25</tei:date>
+</tei:creation>
+<tei:textClass>
+<tei:catRef target="#anhang #lexikon #cigar"/>
+</tei:textClass>
+</tei:profileDesc>
+<tei:revisionDesc>
+<tei:change when="2020-03-30" who="#MarkMichaelHall">Fassung 1.1: TEI Version</tei:change>
+</tei:revisionDesc>
+</tei:teiHeader>
+<tei:text>
+<tei:body>
+<tei:p>
+<tei:hi style="font-size-large font-weight-bold">CIGAR</tei:hi>
+<tei:seg>, consumed for pleasure on a massive scale in the 19th century; significant phenomenon in social and cultural history and, as such, viewed by Gutzkow diagnostically. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:hi style="font-weight-bold">General background </tei:hi>
+<tei:seg>
+</tei:seg>
+<tei:seg>The manner in which goods are consumed for enjoyment is one key to social and cultural history; and this applies particularly in the case of tobacco. Of the numerous methods used for its consumption, at different times one or other in particular came to be preferred. From the beginning smoking habits in Europe were dependent on governmental bans, cultural consensus and social status. Not to be overlooked is the medical aspect, since, from the 16th to the 18th century, tobacco was held to have healing properties. From the 17th century onwards, tobacco was subject to tax, and, after the introduction of state tobacco monopolies in the majority of European states, it became a significant source of government revenue. The cultivation of tobacco in Europe began in Holland at the start of, and in the German states towards the middle of the 17th century. By the end of the 19th century the German tobacco harvest amounted to c. 30,000 tonnes. Some 150,000 people were employed in the tobacco industry.</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:hi style="font-weight-bold">General background </tei:hi><tei:p>
+<tei:seg>The manner in which goods are consumed for enjoyment is one key to social and cultural history; and this applies particularly in the case of tobacco. Of the numerous methods used for its consumption, at different times one or other in particular came to be preferred. From the beginning smoking habits in Europe were dependent on governmental bans, cultural consensus and social status. Not to be overlooked is the medical aspect, since, from the 16th to the 18th century, tobacco was held to have healing properties. From the 17th century onwards, tobacco was subject to tax, and, after the introduction of state tobacco monopolies in the majority of European states, it became a significant source of government revenue. The cultivation of tobacco in Europe began in Holland at the start of, and in the German states towards the middle of the 17th century. By the end of the 19th century the German tobacco harvest amounted to c. 30,000 tonnes. Some 150,000 people were employed in the tobacco industry.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Around the middle and in the second half of the 16th century the smoking of tobacco was introduced into Spain from the West Indies and into England from Virginia. The French ambassador to Portugal, Jean Nicot, after whom nicotine is named, was, in turn, responsible for the introduction of tobacco into France in the year 1559. In Germany, smoking was spread during the Thirty Years War by Dutch troops, and, as a result, was restricted in nearly every part of the land by edict. In most German states smoking in public was forbidden up to 1848, while at the same time governments drew in considerable revenues through high levels of taxation. At times the use of snuff and the chewing of tobacco, both virtually unknown in the countries of origin, were more widespread than smoking itself.</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>The preferred method of smoking tobacco frequently changed, even though the pipes, cigars and cigarettes we have with us today already existed in rudimentary form in the countries of origin, the West Indies and North America. The natives of Haiti, from where the tobacco plant was introduced into Europe in 1511, were by then smoking rolled leaves like cigars or cut tobacco rolled in maize leaf like cigarettes. The Indians of North America used the pipe. Smoking habits in Europe since the 16th century developed from those in the colonies. Cigars were imported from Spain, which is where local manufacture in Europe commenced, and the smoking of pipes spread to Holland and England from North America.</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Up to the end of the 18th century the pipe was the preferred smoking utensil in the German states. Dutch clay pipes were mostly employed since they were relatively simple to use, and they did not need to be broken in. They were, however, fragile, and therefore not carried on the person; rather, supplies were kept either in the home or in the coffee houses. In the smoking room of Frederick William I pipes placed in jars awaited the guests (cf. Gutzkows depiction in </tei:seg>
+<tei:seg>Zopf und Schwert</tei:seg>
+<tei:seg>, IV, 6). </tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>With the construction of the first German cigar factories in Hamburg and Baden at the end of the 18th century, the cigar became the smokers favourite for almost 100 years. In 1855 Wilhelm Raabe dubbed it "the great source of consolation in the nineteenth century" (Raabe, p. 173). What largely contributed to this proliferation was "the economic blossoming in the wake of the Wars of Liberation and the further stimulus given to the market by the founding of the Customs Union". As early as 1809 the "Brockhaus-Konversationslexikon" records the gradual retreat of the pipe before the cigar: "This mode, rather than the pipe from Spanish America, has started to become widespread in our lands as well" (Böse, p. 61).</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Cigarettes were already being imported from South America into Spain by the 18th century. Casanova tells in his memoirs of a Spanish lady friend "who rolled herself 'sigaritos' by wrapping the tobacco in thin white paper" (Böse, p. 67). Spanish troops brought the cigarette with them to North Germany in 1807. Böse (p. 68) quotes a newspaper article from the "Leipziger Anzeiger" that strongly recommends refraining from their use on account of the attendant health risks. The attempt to establish cigarette production in Hamburg ended in failure, and it was only in the second half of the 19th century that cigarettes became common in large quantities on the European continent. The reason for their re-discovery, according to the Encyclopaedia Britannica (vol. 3, p. 319), was the lack of suitable smoking materials during the Crimean War, which led to soldiers wrapping tobacco in paper. The first German cigarette factory was set up in Dresden in 1862, but the spread of the cigarette was a slow business, and its dominant position in the smoking world was only achieved in the 20th century. The considerable expense involved in making cigarettes by hand was probably the principal impediment. It was only in 1880 that James A. Bonsack took out the US patent for a cigarette machine, which was then imported into England in 1883 (Encyclopaedia Britannica, vol. 3, pp. 318-319). From statistics for 1898 we learn that within the German Reich almost 77% of tobacco was used even then in the production of cigars, over 12% in pipe tobacco and only 3.4% in cigarettes (Meyer, vol. 19, entry 'Tabak'). Even after the introduction of mechanised cigarette production, rolling ones own cigarettes was common and occasioned neither the suspicion of poverty nor stinginess. In Fontanes "Quitt" (1889), l'Hermite "casually tears a sheet of tissue from a block to roll another cigarette" (Fontane, vol. 1, p. 361). The low proportion of tobacco used in the manufacture of cigarettes is explained by the fact that for a long time cigarettes were smoked alongside, as it were, by smokers of cigars and pipes. In Fontane's "Stechlin" (1897), Dubslav offers a choice of cigars or cigarettes (Fontane, vol. 5, p. 212). Botho von Rienäcker in "Irrungen, Wirrungen" (1887) exchanges "his meerschaum half mechanically for a cigarette" (Fontane, vol. 2, p. 401).</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>The changes in smoking habits from the 18th to the beginning of the 20th century cannot, however, be fully explained in economic terms, given that technical developments rendered them obsolete. The switch from pipe to cigar, and then cigar to cigarette, bears all the signs of a cultural change which expresses itself first and foremost in the de-ritualisation and the speeding up of the act of smoking. In the smoking rooms the act of smoking was primarily a social event; communal smoking was the motive for coming together, and it was in these rooms only that smoking took place; an exclusivity determined by the fragility of the clay pipes. Wooden pipes, which were quite commonplace by the 19th century, could be carried anywhere, but had some disadvantages: they had to be broken in and they had to be constantly cleaned. It was for this reason that in England expensive pipes for distinguished gentlemen were supplied with two mouthpieces, one for the servant who had to break in the pipe, thus sparing his master discomfiture of the tongue and taste buds.</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>A higher social value was attached to the very long decorative pipes ('Gesteckpfeifen') with their porcelain bowls upon which ones membership of a regiment, a student fraternity or some other organisation might be recorded. For this reason they were referred to as 'reservists' pipes'. The pipe came to be seen as the honest,'good old' German mode of smoking, and this is referred to ironically by Börne in his "Schilderungen aus Paris" (1822-24). He sits himself down with some Germans at a "patriotic table", ostentatiously discards his cigar, "this rotten French stuff", and turns his attention to a "pouch of tobacco with some homely-barbaric Dutch words on it" (Börne, p. 106).</tei:seg>
+<tei:seg>
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>The cigar was a considerably less complicated option since it could be smoked in a wide variety of circumstances. However, the opportunity to smoke was still always limited by the considerable length of time it took to smoke the cigar. It was only with the cigarette that one could practically smoke anywhere and at every opportunity, provided an ashtray was to hand. Wolfgang Schivelbusch has isolated the factor of acceleration in this history of smoking: "The standards for relaxation and concentration in a given epoch can be read off the dominant mode of tobacco consumption. For a twentieth-century smoker, the five to seven minutes it takes to finish a cigarette represent the same degree of leisure and concentration as did, for a smoker in the nineteenth century, the near-half hour it took to finish a cigar." (Schivelbusch, p. 127)</tei:seg></tei:p>
+<tei:p>
+</tei:p>
+<tei:hi style="font-weight-bold">The social and political significance of the cigar</tei:hi><tei:p>
+<tei:seg>The history of cigar smoking is closely interwoven with the emancipation movements of the 19th century. In Prussia, smoking in public was forbidden up to 1848, a measure justified originally, and quite rightly, by the fire risk, since striking a light was, until the friction match had become established (1832), no simple undertaking. With the growth of revolutionary movements, flouting the ban on smoking in public came to be viewed as a sign of insubordination towards authority. As late as 1848 the ultra-conservative "Neue Preußische Kreuzzeitung" expressed the view that "the cigar has become the sceptre for doing as one pleases. With a cigar in his mouth, a young person dares to say and do things which he would not dare to do and say without the cigar" (Böse, p. 62). Even in the revolutions of 1830 the lifting of the ban was among the revolutionary demands, but this was only finally achieved in the revolution of 1848. The demand for a lifting of the ban on smoking took on political significance if only because those engaged in cigar rolling belonged to the spearhead of the workers' movement in the March Revolution (Schivelbusch, p. 141). The significance of smoking in public as a liberal status symbol is made manifest by an anecdote, related in the memoirs of Werner von Siemens, about the lifting of the ban. When Prince Lichnowsky announced to the incensed crowd assembled in the forecourt of the royal palace in Berlin that all their demands had been conceded, a shout went up, in broad Berlin dialect, "Smoking as well?" - "Yes, smoking as well." - "Also in the Tiergarten [the citys major recreational area and locus of liberal assemblies]?" - "Yes, also in the Tiergarten [...]". (Briese, p. 27)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>The notion that the cigar, of all things, should have become a symbol of rebellion against authority seems odd at first, given that, in the decades leading up to the 1848 Revolution (the so-called 'Vormärz' period), it had become a hallmark of bourgeois prosperity. This can be gleaned, for example, from Gutzkow's satirical depiction of the Dutch couple in his </tei:seg>
+<tei:seg>Zeitgenossen</tei:seg>
+<tei:seg> of 1837 (ZgWWW, p. 12, l. 23). In Joseph von Eichendorff's "Dichter und ihre Gesellen", too (1834), a cigar is lit "in a relaxed fashion" from the fire in the chimney "where left-overs from lunch were being warmed up" (Werke, vol. 2, p. 402). The "relaxed" ("gelassen"), or as Hauff has it in 1826, "comfortable" ("behaglich", Hauff, p. 464) lighting of a cigar presents in many ways the most complete contrast to any revolutionary agitation. One reason for the revolutionary significance of the cigar is purely practical. Smoking a cigar in a public place presented no difficulties, while the long German 'Gesteckpfeife', the 'classic' political tool, was hardly manageable outside enclosed spaces. However, the main reason for the ascent of the cigar out from the bourgeois sitting room onto the barricades lies in the prehistory of the March Revolution in Prussia. Smoking in public was briefly permitted during the cholera epidemic of 1831-32 since sanitary properties had been attributed to tobacco, but afterwards the ban was re-imposed. This resulted in a whole series of provocative violations of the ban. Olaf Briese has shown how bourgeois protest manifested itself in a two-pronged manner: "Smoking and paying one's fine with arrogance (it must be noted that the fine amounted to half the weekly wage of a worker after all), was not just a manifestation of political sovereignty against the powers that be, but, in addition, a two-fold demonstration of social power, aimed at the upper as well as the lower classes" (Briese, p. 39). The bourgeois revolution thus turned the citizen's preferred option for smoking in public into a symbol of middle-class public power, eventually achieved.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>With the lifting of the ban the cigar returned at once to the bourgeois drawing room, or, to be more exact, the drawing room extended to the public sphere, since it was, above all, the middle class who enjoyed this new freedom, as Briese argues (Briese, p. 35). In the late 19th century, as liberal ideas waned (something Gutzkow depicts in </tei:seg>
+<tei:seg>Die neuen Serapionsbrüder</tei:seg>
+<tei:seg> [NserWWW, Globalkommentar]), so too the positive image of the cigar as symbol of middle-class self-esteem and bourgeois emancipation waned. It became "symbolic of the 'Gründerzeit', the period of rapid industrialisation after 1871, of ill-concealed self-satisfaction, in short, of that materialist middle-class mentality that is geared towards nothing but profit and advantage" (Böse, p. 64). </tei:seg></tei:p>
+<tei:p>
+<tei:seg>In marked contrast to this, smoking had been invested, since the 'Vormärz', with new revolutionary significance in the context of female emancipation. Cigar-smoking women had become a favourite of graphic satire since the times of George Sand and Lola Montez (cf. the illustrations in Schivelbusch, pp. 134-139), a paradigmatic change, since up to the close of the 18th century the smoker in such cartoons was always male. This aspect of female emancipation achieved prominence in a male-dominated society which understood female smoking as a sign of fundamental rejection of the social order. And this is exactly what it was intended to be. The Russian pianist and musicologist Wilhelm von Lenz gives an account of a clash he had with George Sand in a Paris salon in 1842: "She extracted from her mantilla pocket a fat Trabucco cigar and called across the salon: 'Frédéric, a spill!'" He continues: "Chopin tottered up obediently with a lighted spill. From somewhere within the first mighty cloud of smoke George Sand finally deigned to address a few words to me again." (Chopin, p. 225) In his fictional satire featuring George Sand, </tei:seg>
+<tei:seg>Die literarischen Elfen</tei:seg>
+<tei:seg> (inserted into his memoirs, </tei:seg>
+<tei:seg>Rückblicke auf mein Leben</tei:seg>
+<tei:seg>), Gutzkow does not refer at all to Sands cigar, almost her trademark. This reticence is all the more remarkable since he deems worth mentioning the fact that he saw the Countess dAgoult "with a cigar in her mouth, stoking the fire in the hearth" (RueWWW, p. 332, ll.17-19) in the Paris flat of Georg Herwegh. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>That he chose to ignore the matter might well be construed as mild form of disapproval. Certainly in Eichendorff ("Geschichte der poetischen Literatur Deutschlands", 1857) the cigar indicates the rather dubious character of the lady in question: "The freethinking ladies, on the other hand, love those men with whom they like to smoke a cigar very much indeed, no matter whether it makes them ill or not." (Eichendorff, Werke, vol. 3, p. 916) Viewed from the male standpoint, as the quotation shows, the cigar was read as infallible evidence of an immoral lifestyle. Women themselves, however, understood smoking as a protest against an image of woman that was characterised by Romantic idealisation on the one hand and oppression on the other, as the position of a female reported by Eichendorff in his memoirs ("Erlebtes") makes clear: "A Berlin lady, on the other hand, who had just had a puff of her cigar, stated with a smile" that he doubtless "was the last of the Romantics who had taken refuge from the progress of advancing education in the primeval forests of the Middle Ages." (Eichendorff, Werke, vol. 1, p. 896) The pseudo-romantic image of woman corresponds to the subservient role of the female who lights a cigar for a man. In </tei:seg>
+<tei:seg>Die Ritter vom Geiste</tei:seg>
+<tei:seg> Pauline tries to cheer up Prince Egon, who is out of sorts, by passing him a cigar which she has lit herself (RvGN, p. 2820). That the cigar should remain unsmoked by her is evidence of voluntary servility. Bettina von Arnim, whose persistence in worshipping Goethe was likened by the latter to that of an "annoying horsefly", is filled with pride as she tells her idol of a conversation with the Duke of Weimar during which "he was gracious enough to smoke a cigar lit by myself" (Arnim, vol. 1, p. 251). Should one of these 'emancipated women' dare to cross the line and herself smoke the masculine status symbol, male imagination will come up with a fitting punishment. In "Tutu" (1846), a satirical novel of contemporary mores written and illustrated by Alexander von Ungern-Sternberg, a shocked female first-person narrator chances, during a visit to the moon, upon a group of abominable male creatures who are smoking. These are "the swells in the moon", "whose preferred smoking material", that is, "unusually long and fat cigars", is made out of women. "These", her companion explains, are "unfeminine emancipated women" who "themselves took to smoking upon earth", "and therefore [...] are now being smoked in turn". There is little left for the narrator but to sigh: "'These poor emancipated creatures!' [...] 'Verily, verily, I shall have a care not to become one as they.'" All this occurs as a "totally bald old blade" has just "casually shoved a female author in his mouth with a view to puffing away on her." It is not difficult to identify this individual in the accompanying </tei:seg>
+<tei:seg>illustration</tei:seg>
+<tei:seg> as Karl Gutzkow, who, according to the commentary to the 1936 edition, is smoking the writer Therese von Bacheracht with whom he had an affair. (Ungern-Sternberg, pp. 155-156; commentary, pp. 217-218) It is to be noted that at this time Gutzkow neither smoked himself, nor do his works in the 30s and 40s provide any justification for such an anti-feminist attitude.</tei:seg></tei:p>
+<tei:p>
+</tei:p>
+<tei:hi style="font-weight-bold">Zeitgeist and the cigar in Gutzkow </tei:hi><tei:p>
+<tei:seg>For Gutzkow the smoking of cigars is an essential part of male social intercourse. In his memoirs (</tei:seg>
+<tei:seg>Rückblicke auf mein Leben</tei:seg>
+<tei:seg>) he includes the following image of Heinrich Laube: "Anyone who has ever smoked a cigar with him or listened to his authorative statements at the table dhôte of the Hôtel de Bavière in Leipzig would walk through fire for him." (RueWWW, p. 332, ll. 17-19) He, of course, did not join Laube in smoking: "Even then the cigar did not permit me a carefree gaze into Saturn's hourglass. I had succumbed to the attractions of the nicotine weed too early in life, as a sixth-former, and the rest, for years to come, was - silence. Forty years were not sufficient to stifle the nausea." (RueWWW, p. 51. ll. 11-15) In his final years he did take up cigar smoking, but did not use tobacco as a stimulus to writing, unlike, for example, Wilhelm Raabe. Emil Pirazzi gives an account of Gutzkow's smoking habits on occasion of a visit he paid him in Sachsenhausen: "The cigar plays a large role in Gutzkow's novels, and, as a result, I was highly surprised to hear him say on the occasion where, some years ago, I had the honour of meeting this celebrated author for the first time, that he himself did not smoke. He only acquired this modern vice, to which the numerous mouthpieces strewn about his desk attested, in his later years; but he was not at all what one would call an impassioned smoker, he only smoked when conversing or as he sat meditating on the sofa, but never - and this because of his very restricted eyesight - when he was writing or reading." (Emil Pirazzi: Karl Gutzkows Tod und Bestattung. In: Der Sammler. Augsburg. No. 149, 24 December 1878, pp. 4-6) </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Gutzkow employed the smoking of cigars in his literary work - other forms of smoking play almost no role at all - as an important indicator of the social reality of the bourgeois age, and, in doing so, he can only be compared to Fontane and Raabe; the latter, of course, being a ferocious smoker of cigars himself. This means that cigar smoking becomes structurally important in Gutzkows literary work. In pointing out that there is an unwritten no-smoking rule where women were present, Gutzkow is also describing a phenomenon that is typical of the time. The houses of the upper middle classes contained a smoking or gentlemen's room used for communal smoking. In the better circles it was cigars that were smoked almost exclusively, since the cigar had a rather higher social status than the proletarian pipe and had usurped its social function. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Die Ritter vom Geiste</tei:seg>
+<tei:seg> of 1850-51 is probably the first German novel in which the cigar plays a major role when it comes to characterising the moods and conditions of existence of the persons involved, as well as of contemporary trends. Where in </tei:seg>
+<tei:seg>Die Zeitgenossen</tei:seg>
+<tei:seg> of 1837, smoke appears as the equivalent of the void in the head of the philistine, the cigar which Dankmar lights for himself "at his ease and contentedly" as he lies in the grass, becomes the equivalent of the "fresh and fragrant flowers of the meadow", a symbol of his harmony with the world and with nature (RvGN, p. 381). When Egon is about to be freed, the feeling of elation with which Dankmar is seized is underlined by the detail "that he first lit another cigar in anticipation of his enterprise" (RvGN, p. 578). On the other hand, excessive smoking can signal tension and concentration. In his machine works Mr. Willing smokes "one cigar after another" in the course of his night shift in the clerical office (RvGN, p. 1347). The modalities of smoking point to minor, everyday events of the age, for example the proliferation of matches, where Hackert lights his cigar "with a portable friction lighter" (RvGN, p. 114). A short piece of dialogue between Dankmar and the hunter makes clear that while the smoking of cigars is "really" forbidden in the woods, not so the hunters pipe - with which he then helps Dankmar to light his cigar (RvGN, p. 417).</tei:seg></tei:p>
+<tei:p>
+<tei:seg>The cigar is important as an indicator of social difference, and this all the more subtly when the cigar ceases to be a bourgeois status symbol. Even in a work as early as Immermann's "Münchhausen" (1838-39) the valet is smoking a cigar while awaiting his master (Immermann, p. 634). As cigar-smoking itself has become virtually classless, it is necessary to indicate social difference by the way in which the cigar is smoked, and through minor detail. In </tei:seg>
+<tei:seg>Die Ritter vom Geiste</tei:seg>
+<tei:seg>, a slightly false note is struck when Leidenfrost passes out cigars to the workers in the scene where the brotherhood between upper and lower classes is founded (RvGN, pp. 2071-2072). Here the contentedness so obvious in Immermanns valet is specifically avoided. In contrast to the cigar-smoking bourgeois in the novel who quite deliberately indulge in this familiar, ritual pleasure, the social outsider Hackert smokes cigars as an act of aggression. In an exchange with Dankmar he uses his cigar as a means of "retaining his balance", blowing the smoke straight out as if "to indicate his contempt for anyone wanting to relegate him forcefully to an inferior social position" (RvGN, p. 114). It is the cigar that indicates the aggressive aspect of his quarrel with the lady's maid Jeannette, for Hackert only "half takes it out of his mouth" when he bars her path (RvGN, p. 2766). The cigar is also used to signify obstreperous attitudes to good bourgeois order when Major von Werdeck relates that his "lieutenants" mistakenly consider Sandrart a "democrat" because he smokes cigars in the barracks, and Werdeck cites the cigar as an example of growing indiscipline (RvGN, p. 2166).</tei:seg></tei:p>
+<tei:p>
+<tei:seg>In Gutzkow's last novel, </tei:seg>
+<tei:seg>Die neuen Serapionsbrüder</tei:seg>
+<tei:seg>, written in 1876, the social change that renders the cigar proletarian is considerably more emphasised, not only because it has become the status symbol of the organised agitators, but also because it comes to mirror the decline in morals in the ruling noble and bourgeois classes. While it is true that the old rules of decency have not been suspended, they are coming to be practised in a laxer way. In the salon of the Treuenfels family, Count Udo offers his guests cigars in the presence of his mother, is glad, however, when Ottomar Althing quite properly declines. Baron von Forbeck, the typical aristocrat who has come down in the world, does not, however, stick to the rule of not smoking in the presence of ladies, even on those occasions when he is their guest. Nor, indeed, is he put in his place, for clearly conventions have long since become brittle (NSer, p. 18, l. 20). In the course of a family argument his mother, objecting to this provocation, strikes the lighted cigar from his hand (NSer, p. 209, l. 7). What would have been the correct thing is probably indicated by the reflex action of the two men who, in </tei:seg>
+<tei:seg>Die Ritter vom Geiste</tei:seg>
+<tei:seg>, are taken by surprise at Melanie's entry: "Eugen Lasally at once discarded his cigar, and Herr von Reichmeyer quickly put down the newspaper." (RvGN, p. 286)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>What gave the cigar an even worse name than the awareness of its harmful effects on health (NSerWWW, p. 6, l. 23) was the fact that it had become the status symbol of a new class of social upstarts. This group not only included the nouveau-riche speculators at the stock exchange, but, above all, the elected agitators and strike leaders from the world of labour. Through his status as a smoker of cigars Raimund Ehlert emphasises his prominent position in the worker movement, just as any bourgeois before him used it to emphasise his prosperity. And even in these circles the chosen mode of smoking serves to emphasise class differences: Mahlo smokes only cigars he has been given, and thus, strictly in accordance to the rules of society, is classified as one who serves. The transformation in the status-value of cigar smoking within the social hierarchy mirrors the decline of once revolutionary liberal ideas, one of the novel's central themes. The cigar, once the badge of a revolutionary attitude, has descended to being a status symbol for the bourgeoisie and the swanky upstart. In </tei:seg>
+<tei:seg>Rückblicke auf mein Leben</tei:seg>
+<tei:seg> Gutzkow notes, as he remembers "convivial evenings" in the winter of 1835, the change in the significance of smoking: "The cigar and ambition did not then go together easily, as they do now. Being able to smoke a cigar at one's ease and being of a pushy, irritable disposition at the same time, is only an achievement of our recent times." (RueWWW, p. 140, ll. 9-12)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>In </tei:seg>
+<tei:seg>Die neuen Serapionsbrüder</tei:seg>
+<tei:seg> the reader only learns incidentally that there has, in the meantime, been a revolution in female smoking. Ada von Forbeck smokes cigarettes, and this, apparently, causes no offence. The relevant scene depicts pleasure postponed. Ada "went looking for cigars and grumbled that she could not find anything suitable for herself, in other words, cigarettes." (NSerWWW p. 76, l. 27) It would probably not be incorrect to interpret this frustration of her craving as disapproval by the author of women smoking. In his </tei:seg>
+<tei:seg>Briefe aus Paris</tei:seg>
+<tei:seg> Gutzkow, in reporting a visit he made to George Sand in 1842, pokes fun at her smoking, which he clearly views as a pose: "George Sand put aside her needlework, stoked the fire in the hearth and lit one of those innocent cigarettes, the ones with more paper than tobacco, more coquetry than emancipation." (BaP, part 2, p.44) The father of Hertha Wingolf in </tei:seg>
+<tei:seg>Die Nihilisten</tei:seg>
+<tei:seg>, first published in 1853, condemns his daughter's smoking as "nonsensical emancipation" (LA, p. 243).</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Even though Gutzkow denies Ada the enjoyment of a cigarette, her behaviour is still indicative of the historical significance of the cigarette for the emancipation of women towards the close of the 19th century. In the society depicted by Friedrich Spielhagen in his novel "Zum Zeitvertreib" (1897), the prohibition against smoking in the company of women has become a mere historical reminiscence, and the motif of emancipation has almost taken on the character of sporting rivalry: "The ladies, he learned, would have no objection. On the contrary! Stephanie frequently did them the honour of visiting them in their rooms at home, if only to smoke with them as some contest. And Frau von Sorbitz was not at all against the occasional cigarette; after all, the good lady of the house knew how to temper justice with mercy!" (Spielhagen, p. 68). The triumph of the cigarette at the start of the 20th century is closely bound up with the fact that women made it acceptable in polite society. From the start of cigarette advertising, the cigarette was depicted as very much a feminine requisite (Schivelbusch, pp. 132-137). By the same token, however, female smoking finally loses its emancipatory character and becomes a matter of fashion.</tei:seg></tei:p>
+<tei:hi style="font-weight-bold">Sources </tei:hi><tei:p>
+<tei:seg>Bettina von </tei:seg>
+<tei:hi style="font-weight-bold">Arnim</tei:hi>
+<tei:seg>: Goethes Briefwechsel mit einem
+Kinde. In: Werke und Briefe. Ed. by Gustav Konrad. 5 vols. Frechen: Bartmann,
+1951-60. Vol. 2, pp. 7-428. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Ludwig </tei:seg>
+<tei:hi style="font-weight-bold">Börne</tei:hi>
+<tei:seg>: Schilderungen aus Paris. In: Sämtliche
+Schriften. Ed. by Inge and Peter Rippmann. 5 vols. Düsseldorf: Melzer, 1964-68.
+Vol. 2, pp. 3-190. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>[Frédéric] </tei:seg>
+<tei:hi style="font-weight-bold">Chopin</tei:hi>
+<tei:seg>: Briefe und Dokumente. Ed. by Willi Reich. Zurich: Manesse,
+1959.</tei:seg></tei:p>
+<tei:p>
+<tei:hi style="font-weight-bold">Conversations-Lexikon</tei:hi>
+<tei:seg> oder kurzgefaßtes
+Handwörterbuch für die in der gesellschaftlichen Unterhaltung aus den
+Wissenschaften und Künsten vorkommenden Gegenstände mit beständiger Rücksicht
+auf die Ereignisse der älteren und neueren Zeit. 6 vols. Amsterdam: Kunst- und
+Industrie-Comptoir, 1809-11.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Joseph von
+</tei:seg>
+<tei:hi style="font-weight-bold">Eichendorff</tei:hi>
+<tei:seg>: Werke. Ed. by Ansgar Hillach. 4 vols. Munich: Winkler,
+1970-80.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:hi style="font-weight-bold">The New Encyclopaedia Britannica</tei:hi>
+<tei:seg>. 15th edn. 32 vols.
+Chicago etc.: Encyclopaedia Britannica, 2005. Vol. 3, entry "Cigarette".
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Theodor </tei:seg>
+<tei:hi style="font-weight-bold">Fontane</tei:hi>
+<tei:seg>: Werke, Schriften und Briefe. Ed. by Walter Keitel and Helmuth Nürnberger. Munich: Hanser, 1980. Abt. 1.
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Wilhelm </tei:seg>
+<tei:hi style="font-weight-bold">Hauff</tei:hi>
+<tei:seg>: Mitteilungen aus den Memoiren des
+Satans. In: Sämtliche Werke in drei Bänden. Nach den Originaldrucken und
+Handschriften. Ed. by Sibylle von Steinsdorff. Munich:
+Winkler, 1970. Vol. 1, pp. 351-604. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Immermann</tei:hi>
+<tei:seg>: Münchhausen. In: Werke. Ed. by
+Benno von Wiese. 5 vols. Frankfurt/M., Wiesbaden: Athenäum, 1971-77. Vol. 3, pp.
+7-812. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:hi style="font-weight-bold">Meyers</tei:hi>
+<tei:seg> Großes Konversations-Lexikon. 6th edn. 20
+vols. Leipzig, Vienna: Bibliographisches Institut, 1905-09. Vol. 19, entry "Tabak";
+vol. 20, entry "Zigarre".</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Zeitgenossen. Ihre Schicksale,
+ihre Tendenzen, ihre großen Charaktere. Aus dem Englischen des E.L. Bulwer. 2
+vols. Stuttgart: Verlag der Classiker, 1837. (Rasch 2.14)</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Briefe aus Paris. Theil 1. Theil 2.
+Leipzig: Brockhaus, 1842. (Rasch 2.24)</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl Ferdinand </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Ritter vom Geiste. Roman
+in neun Büchern. 3 vols. and 1 vol. of materials. Ed. by Thomas Neumann.
+Frankfurt/M.: Zweitausendeins, 1998.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Nihilisten. In: Die Selbsttaufe.
+Erzählungen und Novellen. Ed. by Stephan Landshuter. Passau: Stutz, 1998. Pp.
+233-360.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Rückblicke auf mein Leben. Ed. by
+Peter Hasubek. In: Gutzkows Werke und Briefe. Ed. by Editionsprojekt Karl
+Gutzkow. Autobiographische Schriften. Vol. 2. Münster: Oktober Verlag,
+2006.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die neuen Serapionsbrüder. Roman. Ed. by Kurt Jauslin. In: Gutzkows Werke und Briefe. Ed. by Editionsprojekt Karl
+Gutzkow. Erzählerische Werke. Vol. 17. Münster: Oktober Verlag,
+2002.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Wilhelm </tei:seg>
+<tei:hi style="font-weight-bold">Raabe</tei:hi>
+<tei:seg>: Die Chronik der Sperlingsgasse. In:
+Ausgewählte Werke in sechs Bänden. Ed. by Peter Goldammer and Helmut Richter.
+Berlin, Weimar: Aufbau, 1964-66. Vol. 1, pp. 151-309. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Friedrich </tei:seg>
+<tei:hi style="font-weight-bold">Spielhagen</tei:hi>
+<tei:seg>: Zum Zeitvertreib. Leipzig:
+Staackmann, 1897. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Alexander von </tei:seg>
+<tei:hi style="font-weight-bold">[Ungern-]Sternberg</tei:hi>
+<tei:seg>: Tutu.
+Phantastische Episoden und poetische Exkursionen. Mit Illustrationen von Sylvan.
+Meersburg am Bodensee: F.W. Hendel, 1936. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:hi style="font-weight-bold">Selected secondary literature</tei:hi>
+<tei:seg>
+</tei:seg>
+<tei:seg>Georg </tei:seg>
+<tei:hi style="font-weight-bold">Böse</tei:hi>
+<tei:seg>: Im blauen Dunst. Eine Kulturgeschichte
+des Rauchens. Stuttgart: Deutsche Verlags-Anstalt, 1957. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Olaf </tei:seg>
+<tei:hi style="font-weight-bold">Briese</tei:hi>
+<tei:seg>: "Jleechgültigkeit und rochen im
+Thierjarten". In: FVF Jahrbuch 1997. Bielefeld: Aisthesis, 1998. Pp.
+27-42.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Riha</tei:hi>
+<tei:seg>: Roman und Bilder-Roman in einem:
+Ungern-Sternbergs "Tutu". In: FVF Jahrbuch 2005. Bielefeld: Aisthesis, 2006. Pp.
+247-264.</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Wolfgang </tei:seg>
+<tei:hi style="font-weight-bold">Schivelbusch</tei:hi>
+<tei:seg>: Das Paradies, der
+Geschmack und die Vernunft. Eine Geschichte der Genußmittel. Munich, Vienna:
+Hanser, 1980. Pp. 108-158. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:hi style="font-weight-bold">Quotations and locations in Gutzkow </tei:hi>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Briefe aus Paris: BaP, Theil 2, p. 44. (Rasch 2.24)</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Die neuen Serapionsbrüder: NSerWWW, p. 6, l. 23; p. 18, l. 20; p. 76, l. 27; p. 209, l. 7; Globalkommentar [printed volume, appendix, pp. 604-612]. </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Die Nihilisten: LA, p. 243.</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Die Ritter vom Geiste: RvGN, p. 114; p. 286; p. 381; p. 417; p. 578; p. 1347; p. 2071-2072; p. 2166; p. 2766; p. 2820.</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Rückblicke auf mein Leben: RueWWW, p. 18, ll. 21-24; p. 51, ll. 11-15; p. 140, ll. 9-12; p. 332, ll. 17-19.</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>Die Zeitgenossen: ZgWWW, p. 12, ll. 23.</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>(Kurt
+Jauslin, Altdorf; English translation R.J. Kavanagh)</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Gutzkows Werke
+und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom
+Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+<tei:seg>© Editionsprojekt Karl Gutzkow, 2000. /
+Not to be published in any form without the author's prior permission. / Layout
+Judith Näther &amp; Juliane Schaefer. </tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg>Autor der
+Seite: Christine Haug / Martina Lauster.</tei:seg>
+<tei:seg>Seite angelegt am 25. 06. 2006
+.</tei:seg>
+<tei:seg>Fassung: 1.0</tei:seg>
+<tei:seg>Geschichte der Seitenänderungen: .</tei:seg>
+<tei:seg>Letzte Änderung: </tei:seg>
+<tei:seg> #BeginDate format:Ge1m </tei:seg>
+<tei:seg>10.02.2006 21.00</tei:seg>
+<tei:seg> #EndDate </tei:seg>
+<tei:seg> .
+</tei:seg>
+<tei:seg>
+</tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg>
+<tei:seg> </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Joseph von
+</tei:seg>
+<tei:hi style="font-weight-bold">Eichendorff</tei:hi>
+<tei:seg>: Werke. Ed. by Ansgar Hillach. 4 vols. Munich: Winkler,
+1970-80.</tei:seg></tei:p>
+<tei:p>
+<tei:hi style="font-weight-bold">The New Encyclopaedia Britannica</tei:hi>
+<tei:seg>. 15th edn. 32 vols.
+Chicago etc.: Encyclopaedia Britannica, 2005. Vol. 3, entry "Cigarette".
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Theodor </tei:seg>
+<tei:hi style="font-weight-bold">Fontane</tei:hi>
+<tei:seg>: Werke, Schriften und Briefe. Ed. by Walter Keitel and Helmuth Nürnberger. Munich: Hanser, 1980. Abt. 1.
+</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Wilhelm </tei:seg>
+<tei:hi style="font-weight-bold">Hauff</tei:hi>
+<tei:seg>: Mitteilungen aus den Memoiren des
+Satans. In: Sämtliche Werke in drei Bänden. Nach den Originaldrucken und
+Handschriften. Ed. by Sibylle von Steinsdorff. Munich:
+Winkler, 1970. Vol. 1, pp. 351-604. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Immermann</tei:hi>
+<tei:seg>: Münchhausen. In: Werke. Ed. by
+Benno von Wiese. 5 vols. Frankfurt/M., Wiesbaden: Athenäum, 1971-77. Vol. 3, pp.
+7-812. </tei:seg></tei:p>
+<tei:p>
+<tei:hi style="font-weight-bold">Meyers</tei:hi>
+<tei:seg> Großes Konversations-Lexikon. 6th edn. 20
+vols. Leipzig, Vienna: Bibliographisches Institut, 1905-09. Vol. 19, entry "Tabak";
+vol. 20, entry "Zigarre".</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Zeitgenossen. Ihre Schicksale,
+ihre Tendenzen, ihre großen Charaktere. Aus dem Englischen des E.L. Bulwer. 2
+vols. Stuttgart: Verlag der Classiker, 1837. (Rasch 2.14)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Briefe aus Paris. Theil 1. Theil 2.
+Leipzig: Brockhaus, 1842. (Rasch 2.24)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl Ferdinand </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Ritter vom Geiste. Roman
+in neun Büchern. 3 vols. and 1 vol. of materials. Ed. by Thomas Neumann.
+Frankfurt/M.: Zweitausendeins, 1998.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die Nihilisten. In: Die Selbsttaufe.
+Erzählungen und Novellen. Ed. by Stephan Landshuter. Passau: Stutz, 1998. Pp.
+233-360.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Rückblicke auf mein Leben. Ed. by
+Peter Hasubek. In: Gutzkows Werke und Briefe. Ed. by Editionsprojekt Karl
+Gutzkow. Autobiographische Schriften. Vol. 2. Münster: Oktober Verlag,
+2006.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+<tei:seg>: Die neuen Serapionsbrüder. Roman. Ed. by Kurt Jauslin. In: Gutzkows Werke und Briefe. Ed. by Editionsprojekt Karl
+Gutzkow. Erzählerische Werke. Vol. 17. Münster: Oktober Verlag,
+2002.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Wilhelm </tei:seg>
+<tei:hi style="font-weight-bold">Raabe</tei:hi>
+<tei:seg>: Die Chronik der Sperlingsgasse. In:
+Ausgewählte Werke in sechs Bänden. Ed. by Peter Goldammer and Helmut Richter.
+Berlin, Weimar: Aufbau, 1964-66. Vol. 1, pp. 151-309. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Friedrich </tei:seg>
+<tei:hi style="font-weight-bold">Spielhagen</tei:hi>
+<tei:seg>: Zum Zeitvertreib. Leipzig:
+Staackmann, 1897. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Alexander von </tei:seg>
+<tei:hi style="font-weight-bold">[Ungern-]Sternberg</tei:hi>
+<tei:seg>: Tutu.
+Phantastische Episoden und poetische Exkursionen. Mit Illustrationen von Sylvan.
+Meersburg am Bodensee: F.W. Hendel, 1936. </tei:seg></tei:p>
+<tei:hi style="font-weight-bold">Selected secondary literature</tei:hi><tei:p>
+<tei:seg>Georg </tei:seg>
+<tei:hi style="font-weight-bold">Böse</tei:hi>
+<tei:seg>: Im blauen Dunst. Eine Kulturgeschichte
+des Rauchens. Stuttgart: Deutsche Verlags-Anstalt, 1957. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Olaf </tei:seg>
+<tei:hi style="font-weight-bold">Briese</tei:hi>
+<tei:seg>: "Jleechgültigkeit und rochen im
+Thierjarten". In: FVF Jahrbuch 1997. Bielefeld: Aisthesis, 1998. Pp.
+27-42.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Karl </tei:seg>
+<tei:hi style="font-weight-bold">Riha</tei:hi>
+<tei:seg>: Roman und Bilder-Roman in einem:
+Ungern-Sternbergs "Tutu". In: FVF Jahrbuch 2005. Bielefeld: Aisthesis, 2006. Pp.
+247-264.</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Wolfgang </tei:seg>
+<tei:hi style="font-weight-bold">Schivelbusch</tei:hi>
+<tei:seg>: Das Paradies, der
+Geschmack und die Vernunft. Eine Geschichte der Genußmittel. Munich, Vienna:
+Hanser, 1980. Pp. 108-158. </tei:seg></tei:p>
+<tei:hi style="font-weight-bold">Quotations and locations in Gutzkow </tei:hi><tei:p>
+</tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+<tei:seg> </tei:seg></tei:p>
+<tei:p>
+<tei:seg>(Kurt
+Jauslin, Altdorf; English translation R.J. Kavanagh)</tei:seg></tei:p>
+<tei:p>
+<tei:seg>Gutzkows Werke
+und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom
+Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+<tei:seg>© Editionsprojekt Karl Gutzkow, 2000. /
+Not to be published in any form without the author's prior permission. / Layout
+Judith Näther &amp; Juliane Schaefer. </tei:seg></tei:p>
+<tei:p>
+<tei:seg>Autor der
+Seite: Christine Haug / Martina Lauster.</tei:seg>
+<tei:seg>Seite angelegt am 25. 06. 2006
+.</tei:seg>
+<tei:seg>Fassung: 1.0</tei:seg>
+<tei:seg>Geschichte der Seitenänderungen: .</tei:seg>
+<tei:seg>Letzte Änderung: </tei:seg>
+<tei:seg> #BeginDate format:Ge1m </tei:seg>
+<tei:seg>10.02.2006 21.00</tei:seg>
+<tei:seg> #EndDate </tei:seg>
+<tei:seg> .
+</tei:seg></tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+<tei:seg> </tei:seg></tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+</tei:p>
+<tei:p>
+<tei:seg> </tei:seg></tei:p>
+</tei:body>
+</tei:text>
+<tei:interpGrp type="global">
+<tei:p style="text-left"/>
+</tei:interpGrp>
+</tei:TEI>
