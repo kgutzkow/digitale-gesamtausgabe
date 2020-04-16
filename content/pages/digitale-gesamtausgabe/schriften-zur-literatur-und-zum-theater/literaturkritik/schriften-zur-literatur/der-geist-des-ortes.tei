@@ -103,13 +103,13 @@
       <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:seg>Gutzkows Plädoyer für eine Reiseliteratur, die zugleich eine literarische Kulturgeographie der Städte und Regionen Deutschlands wäre, wurde nach der Erstveröffentlichung 1843 in der "Kölnischen Zeitung" in keine spätere Miszellensammlung übernommen.</tei:seg>
       </tei:p>
       <tei:list type="sources">
@@ -123,13 +123,16 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
       <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-4">
-        <tei:seg>2.1.1. Textänderungen</tei:seg>
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">4,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Blicke</tei:lem>
@@ -137,7 +140,7 @@
         <tei:sic>Bl cke</tei:sic>
         <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">4,20</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>eine [2] größere</tei:lem>
@@ -145,14 +148,14 @@
         <tei:sic>ein [2] größere</tei:sic>
         <tei:seg> ausgefallene Letter am Seitenende</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">7,6</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>zwängen</tei:lem>
         <tei:seg> </tei:seg>
         <tei:rdg wit="#J">zwänzen</tei:rdg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">9,8</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Volkes.</tei:lem>
@@ -160,7 +163,7 @@
         <tei:sic>Volkes</tei:sic>
         <tei:seg> ausgefallenes Satzzeichen</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">9,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Voranstehenden</tei:lem>
@@ -170,7 +173,7 @@
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
