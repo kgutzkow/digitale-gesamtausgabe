@@ -8,4 +8,11 @@ svg.icon {
             fill: $white;
         }
     }
+
+    &.primary {
+        path {
+            stroke: $primary-color;
+            fill: $primary-color;
+        }
+    }
 }

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Bulwers neueste Schriften</tei:title>
+        <tei:author>Levin Schücking</tei:author>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Levin Schücking: Bulwers neueste Schriften. In: Telegraph für Deutschland. Hamburg. Nr. 191, [29.] November 1838, S. 1521-1524; Nr. 192, [30.] November 1838, S. 1529-1533.</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1833">1833</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #bulwers-neueste-schriften"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2001" who="#MartinaLauster">Fassung 1.0: Für den Lexikonartikel zu Bulwer</tei:change>
+      <tei:change when="2007-08" who="#MartinaLauster">Fassung 1.1: Ergänzungen</tei:change>
+      <tei:change when="2020-03-25" who="#MarkMichaelHall">Fassung 1.2: TEI Version</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p style="text-left">
+        <tei:seg>Die meisten Erscheinungen der Literatur bewahrheiten die Bemerkung, daß jede Zeit wie jeder Zweig der Kunst selten ein ganzes und nach jeder Richtung hin vollendetes Werk bildet; an der großen Mehrzahl der Schöpfungen sind eben so viel Mängel als Vorzüge. Der Schatten theilt sich brüderlich mit dem Licht in die gegebene Fläche und das Ganze ist sehr oft, genau besehen, nur ein Halbes - als hätten die Schaffenden, in zu sorglosem Vertrauen auf das alte: utile per inutile non vitiatur, sich gehen lassen. So schilderte früher der Roman Situationen in der raschesten Wechselfolge, Handlung in reichster Fülle, daß die Helden kaum zu Athem kommen konnten. Aber das Werk war ohne die Grundlage der Charakteristik, als Motiv für die Handlungen; den Situationen mangelte die innere Nothwendigkeit ihres Entstehens, und das bunte Gewebe der </tei:seg>
+        <tei:hi style="font-weight-bold">Einbildungskraft</tei:hi>
+        <tei:seg>, welche man mit Unrecht Phantasie nennen würde, wenn man jene als die Unbelebtes, diese als die Lebendiges erzeugende Potenz der Geistesthätigkeit betrachtet - konnte nur der Zeit eines kindlicheren Gemüthes Geschmack und Interesse abgewinnen. Jetzt schildert der Roman Charaktere, aber der großen Masse derer, in denen dies Streben gelungen ist, fast in allen denen, welche Resultate weiblicher feinerer Beobachtungsgabe sind, fehlen nun dafür interessante wirklich neue Situationen und eine spannende Handlung, die dennoch poetisch wahr bleibt und nicht bloß von der Willkühr auf Kosten der </tei:seg>
+        <tei:pb n="1522"/>
+        <tei:seg> Wahrscheinlichkeit zusammengewürfelt ist. Früher war der Roman breit, jetzt ist er tief. So schaffte früher die Malerei geniale Compositionen - jetzt führt sie die ungenialen mit einer unerhörten Sorgfalt bis ins unbedeutendste Detail aus. In der dramatischen Literatur ist das Gute, sogenannt Classische, gewöhnlich zum Sterben langweilig, dagegen so oft das recht Unterhaltende gerade unklassisch und schlecht. Wen unterhielte nicht der Birch-Pfeiffer Pfefferrösel, aufrichtig gestanden, mehr, als Racine’s Athalie, wen nicht Kotzebue’s Johanna von Montfaucon besser, als Kronegk’s Kodrus? Die Vereinigung beider Elemente, des Unterhaltenden, Spannenden und dessen, was wir zur kürzern Bezeichnung das Classische nennen wollen, so daß eine Schöpfung der Kunst das große Publikum hinreißt und den Gebildetsten ergreift, möchte das wahre Merkmal des Genius seyn - am hervorstechendsten z. B. an dem größten aller, an Shakespeare ausgeprägt, und an allen eigentlich großen Künstlern außer ihm zu erkennen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Nach diesem Criterium können wir auch Bulwer den Namen eines Genius nicht versagen. Bulwer ist recht eigentlich zugleich breit und tief, er weiß die treffendste Charakteristik mit dem reichsten Wechsel der Situationen zu vereinigen, die gemüthreichste Poesie mit dem eindringendsten Scharfsinn des Verstandes, seltne psychologische Durchdringung der tausend Blätter, in die sich die Herzkrone der Seele birgt, mit dem wärmsten und edelsten Gefühl; und für Alles, was aus diesen Faktoren seines schaffenden Genius sich entwickelt, besitzt Bulwer die geistreichste lebendigste Darstellungsgabe, unabgeschwächt unter dem Gewichte der umfassendsten Kenntnisse, wie wir nur von der Gelehrsamkeit eines Deutschen Professors sie verlangen könnten. Das hat, als man es undankbar über der mißlungenen "Herzogin de la Valliere" zu verkennen begann, auf’s Neue siegend sein </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">
+          <tei:hi style="font-weight-bold">Maltravers</tei:hi>
+        </tei:ref>
+        <tei:seg> dargethan, jenes Buch, auf dessen Widmung das Deutsche Volk stolzer seyn sollte. Unbegreiflich ist uns deshalb immer gewesen, warum so viele kritische Stimmen in Deutschland sich schmähend gegen seine Schöpfungen erheben. Das Publikum hat längst </tei:seg>
+        <tei:pb n="1523"/>
+        <tei:seg> für ihn entschieden; ist es jene Oppositions- und Paradoxensucht, jener </tei:seg>
+        <tei:hi style="font-weight-bold">Widerspruchsgeist</tei:hi>
+        <tei:seg>, der, wie alle Menschen, die gern </tei:seg>
+        <tei:hi style="font-weight-bold">geistreich</tei:hi>
+        <tei:seg> scheinen, am meisten die Kritiker plagt und manchen in dem Sinne den Anspruch darauf nicht abstreiten läßt? Von dem gelehrten Gewäsch, das einst in den Brockhausischen literarischen Blättern "die letzten Tage von Pompeji" herunterriß und über den Mängeln die vielen außerordentlichen Schönheiten des Romans übersah, wollen wir hier nichts sagen. Ernste Rüge aber verdient jene philisterhafte Stimme, welche in No. 56 des Magazins für die Literatur des Auslandes, Berlin 1838, bei einer Beurtheilung des Maltravers sich schonungslose Verunglimpfung erlauben zu dürfen glaubte. Das Haupt-Argument gegen Bulwer wurde aus dem Umstande hergenommen, daß die Heldin Alix bei der Eingehung der Ehe mit Lord Vargrave darauf besteht, ihrem vermeintlich todten Jugendgeliebten oder Gatten vielmehr ihre Treue bewahren zu dürfen. Das ist ächt weiblich und durchaus psychologisch und wahr aus dem innersten Gefühl einer edlen Frauennatur hergeleitet, es ist endlich poetisch unerläßlich; der geistreiche Berliner Rezensent aber hält das in seiner gefühllosen Bornirtheit für pflichtwidrig und unchristlich, für sitten- und schaamlos und weiß Gott für was Alles noch, ist dabei nicht übel geneigt, alle diese Beiwörter als Epitheta auf das Haupt des unglücklichen Schriftstellers zu häufen, der seine Geschöpfe so unmoralisch handeln lassen kann, wie wir denn der Persönlichkeiten in der Kritik einmal nicht mehr entrathen können. Ein so strenger Moralist könnte unsers Erachtens nur so räsonniren: "Alix liebt Vargrave nicht: deshalb ist es ihre Pflicht, zu handeln, wie sie thut, wenn sie von den Umständen gedrungen eine Quasi-Ehe mit ihm eingeht; daß sie aber die Ehe eingeht, daß sie ein so heiliges Institut mißbraucht, das ist sündhaft. Denn Alix protestirt nur gegen Etwas, das ohne die Durchgeistigung und spirituelle Potenzirung durch die Liebe des Menschen unwürdig ist, ihn zum Thiere oder zum geopferten Leibeigenen heruntersetzt, eine Sünde ist. Daran also thut sie recht: aber besser wäre es gewesen, nun auch kein Spiel mit der Ehe zu treiben.- Das wäre die Sprache der </tei:seg>
+        <tei:pb n="1524"/>
+        <tei:seg> wahren Moral, wie sie z. B. auch Ehrenberg vertheidigt - wo? brauchen wir wohl nicht näher anzugeben, da es doch Niemand gern nachschlagen mögen wird. Aber das Philisterthum hütet sich schönstens vor einem solchen Räsonnement; es müßte dann weiter schließen, daß die Ehe überhaupt unmoralisch sey, wenn keine Liebe sie schließt und davon will es nichts hören, so lange es Töchter hat, die, mag auch immer das Herz ihnen darüber brechen, unter die Haube gebracht werden müssen: weltliches und kirchliches Recht sanktionirt ja solche Ehen. -</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>(Der Beschluß folgt.)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="font-weight-bold">Bulwers neueste Schriften.</tei:hi>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>(Beschluß.)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Nur etwas hat uns unangenehm berührt in dem Romane; das ist der Schluß, der um Vergebung bittet, wenn der Verf. endlich seine Heldin noch glücklich werden läßt. Als ob die poetische Gerechtigkeit der reinen und makellosen Alix irgend eine Strafe aufzubürden hätte, gesetzt auch, sie wäre nicht das arme geistesschwache Wesen ohne alle christliche Erziehung gewesen! Das ist eine Connivenz gegen die Thee-Kränzchen-Moral und die gefühllose Bornirtheit der Pedanterei, die einen Bulwer, welcher sonst mit so klarem Blicke das Vorurtheil durchschaut und so muthig ihm auf das Haupt tritt, schlecht ansteht. Unschön ist es auch und den feineren ästhetischen Sinn verletzend, ja widrig, wenn Maltravers eine heftige Leidenschaft für ein Wesen faßt, welches der Leser für dessen eigne Tochter halten muß, verletzend endlich, wenn er noch nicht geheilt von dieser Leidenschaft mit seiner Alix zum Altare schreitet. Die erste Hälfte der </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">"Alix"</tei:ref>
+        <tei:seg> ist zu gedehnt und arm an Handlung; das ganze umfassende Werk aber trotzdem völlig in sich vollendet und rund abgekreist.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Novelle </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">
+          <tei:hi style="font-weight-bold">Calderon der Höfling</tei:hi>
+        </tei:ref>
+        <tei:seg> ist ein neuer Beleg, wie tief Bulwer das menschliche Herz zu durchschauen, wie sehr er durch die Entwicklung dieser Kunst seine Leser zu fesseln weiß. Der Schauplatz ist Madrid unter der Herrschaft Philipp’s III. Wie gut nun aber auch das Intriguengewebe des Spanischen Hofes jener Zeit dargestellt und durch die Verwicklung der Erzählung selbst abgespiegelt ist, so mangelt doch Eines an der </tei:seg>
+        <tei:pb n="1530"/>
+        <tei:seg> treuen Abbildung der Zeit, in welche sich der Leser versetzen soll, nämlich die eigentliche nationelle Färbung, das Costüm der Zeit, die rechten Lokaltinten. Die Figuren der Erzählung könnten mit sehr geringen Modifikationen Engländer unsres Jahrhunderts, Franzosen vom Hofe Ludwig’s XIV. sein, wenn sie statt Rodrigo, Sir Charles oder Marquis de Florencour hießen. Der Dichter muß von seinem Genius auf eine Höhe geführt werden, von der er wie in unbewußter Intuition auch längstvergangne oder fremde Zustände wie ein rückwärtsschauender Prophet zu durchblicken vermag. Bulwer hat nicht ganz die Höhe erreicht und steht darin unter Walter Scott, der, wie Salvandy in der Vorrede zum Alonso sagt, </tei:seg>
+        <tei:foreign>nous rend familiarisés avec leurs usages</tei:foreign>
+        <tei:seg> (der Gestalten und Träger früherer Zeiten) </tei:seg>
+        <tei:foreign>
+          <tei:seg>l’esprit de leur siècle tout entier; en apprenant leurs actions nous croyons assister aux grands drames qu’elles composent. La manière de l’admirable Sir Walter </tei:seg>
+          <tei:hi style="font-weight-bold">fait de nous les contemporains de nos aieux</tei:hi>
+        </tei:foreign>
+        <tei:seg>. - Dann ist Bulwers Ansicht von dem Geiste, der den Orden Loyola’s bewegte, doch zu craß; dieser hat nie dem Fanatismus, von dem er ihn ergriffen wähnt, gehuldigt, wenn auch wohl zu seinen Zwecken benutzt, nie so furchtbare Grundsätze offen ausgesprochen oder auch nur gehegt, wie er sie dem Pater Aliaga in den Mund legt. Um Fanatiker zu seyn, waren die Väter von der Gesellschaft Jesu viel zu klug. - Der Novelle Calderon hat der Übersetzer, </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Herr Dr. Bärmann</tei:ref>
+        <tei:seg>, dessen Übertragung uns vorliegt (und der nebenbei bemerkt wenig zu wünschen übrig läßt, wenn er sich nur des fatalen Wortes: "er enthob sich", das allein im Bibeltone gebräuchlich ist, entwöhnte,) das erzählende Gedicht </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">
+          <tei:hi style="font-weight-bold">O’Neill, der Rebell</tei:hi>
+        </tei:ref>
+        <tei:seg> beigefügt, schon früher aus Bulwers Feder geflossen, aber leider eine ebenso insolvente Bürgschaft seines Talents für die eigentliche Poesie in gebundener Rede, wie seine Herzogin de la Valliere, wie seine Verse in der schönen Lyoneserin es waren. Bulwer ist zu sehr Philosoph bei dem Dichter und hat sich zu sehr eine belehrende Pragmatik in seinem Schaffen angewöhnt, um seine Verse von dem rein erhalten zu können, was nicht hineingehört, und um ihnen andrerseits den fessellosen Schwung </tei:seg>
+        <tei:pb n="1531"/>
+        <tei:seg> emanzipirter Phantasie und Begeisterung verleihen zu können; so werden seine Gedichte höchstens den zweideutigen Ruhm erhalten können, geistreich zu seyn. Jedenfalls aber hätte er sich mehr Ansprüche auf unsern Dank erworben, wenn er diese Erzählung O’Neill in der Form der Novelle bearbeitet hätte, wie er einst weise genug war, </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">sein Trauerspiel Eugen Aram in die Form des Romans umzugießen</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das jüngstübersetzte, wenn auch nicht jüngste von Bulwers Werken ist </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">Leila oder die Belagerung von Granada</tei:ref>
+        <tei:seg>. Es liegt ein unerschöpflicher Born von Poesie in dem sagenreichen blühenden Schauplatze dieser Erzählung, der einen nie versiegenden Reiz auf uns übt, wie oft wir auch von den Wellen des Xenil und Darro gehört, die wunderbare Mythen flüstern von dem Glanze vergangener Tage; von den Myrthen- und Sycamorenhainen der Vega, durch welche der Abendhauch die gespenstigen Echos der Cytherklänge trägt, welche die edlen ritterlichen Maurenhelden, in denen der feurige dichterische Muth der Araber sich mit der weicheren Sehnsucht der Germanischen Poesie vermählt hatte, ihren Saiten entlockten. Es war ein wahrhaft goldnes Zeitalter für die Dichtkunst, das der Maurischen Herrschaft über Andalusien, über Granada, ein herrlicher Sonnentag, durch dessen Abenddämmerung die Geschichte das schönste Epos gesponnen hat, welches sie je dichtete: noch durch die Nacht tönt Schwertergeklirr und Waffenlärm, der krumme Yathagan blitzt und der Dscherrid zischt durch die Luft, als seyen von Santa Fe die gefallenen Christenritter herangezogen, die gewaltigen de Pulgar und Ponce de Leon an ihrer Spitze, als seyen die Schaaren der Zegris und Abencerragen aus ihren Gräbern erstanden. Noch einmal und wie ermüdet läßt unsre Phantasie wie bei dem Klange der Namen den gewaltigen Kampf zwischen dem heuchelnden oder betrogenen Fanatismus und den löwenherzigen Streitern für den herrlichen neidenswerthen Überrest ihrer alten Macht beginnen; auf’s Neue tönt uns das Allah il Allah der Verzweifelnden, auf’s Neue röthet sich die Vega mit dem Blut der Erschlagenen, bis der Halbmond sinkt und der Weheruf der Zerstörung über Vivarambla </tei:seg>
+        <tei:pb n="1532"/>
+        <tei:seg> und Zacatin hallt, bis das Kreuzesbanner von den rothen Thürmen der Alhambra mit seinem Rauschen den Siegesruf: San Jago! grüßt. - So ist uns jedes Werk willkommen, welches jene Scene uns auszumalen weiß, die Phantasie ansprechend, wie eine Kunde aus einer langverlassenen Heimath das Herz. Der Dichter der Leila aber ist der Mann nicht, unsre Erwartungen, unsre Hoffnungen zu täuschen, mit denen wir in eine Schrift uns vertiefen, die von der Eroberung Granada’s handelt. Doch auch hier, bei dem für die Phantasie so verführerischen Stoffe, bleibt Bulwer der Tiefe seines Geistes getreu, und die Wärme eines südlichen Himmels verleitet ihn nicht, sich behaglich in den Schatten von Orangenbäumen hinzustrecken, um den wollüstigen Hauch ihrer Düfte einzusaugen und das Denken dem kalten Norden zu überlassen. Nicht durch die Aufregung der Einbildungskraft und das Schwelgen in jenen Erinnerungen hat Bulwer seinem Buche den Hauptreiz zu geben gesucht; dennoch aber ist das Costüm der Zeit, sind die Lokaltinten besser wiedergegeben, als in der Novelle Calderon. Wir vermissen nichts von dem, was unsre Phantasie wünscht, was unser Gefühl fesselt und finden dazu wieder die herrlichsten Resultate der scharfsinnigsten psychologischen Beobachtung. Nur Eines ist zu tadeln - die vielen Zauberkünste Almamen’s, die zu sehr über die Wahrscheinlichkeit hinausgehen: denn was auch immer man sagen mag von dem tiefern Eindringen in die geheimnisvollen Kräfte der Natur, das der Vorzeit oder der Weisheit Einzelner darin gelungen sey, auf welche die alte Kunde Egyptischer oder Chaldäischer Magie überkommen; so hoch wie unsre Naturforscher standen sie nicht, und eine ganze Gesellschaft derselben würde es nicht dem Almamen Bulwer’s gleich thun, könnte sich nicht so plötzlich in Aller Augen blendenden Dampf hüllen - es müßte denn der der eignen Gelehrsamkeit seyn.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Weiter möchten wir an der Leila nicht mäkeln, überzeugt, daß sie genug der bekrittelnden Stimmen in der Kritik finden wird, deren Hauptgrundsatz zu seyn scheint: "seliger ist Nehmen, denn Geben," die lieber </tei:seg>
+        <tei:hi style="font-weight-bold">Nein!</tei:hi>
+        <tei:seg> sagt denn </tei:seg>
+        <tei:hi style="font-weight-bold">Ja!</tei:hi>
+        <tei:seg> Daß sie nur selbst der Kunst wegen da ist, hat sie ja längst vergessen; es ist damit </tei:seg>
+        <tei:pb n="1533"/>
+        <tei:seg> gegangen, wie mit dem Begriffe der Souverainität dem Volk gegenüber. Man betrachtet die eigentlichen Schöpfungen der Kunst als den tiers état im Reiche des Geistes, nur existirend, um der Noblesse Kritik willen, daß diese auf ihre Kosten sich in hoffärtige Pracht hüllen, sie aussaugen und mit dem schimmernden Reichthum dann prunken könne, den sie aus ihren Domänen gezogen, während der arme Untersasse daheim im stillen Kämmerlein sitzt und für den Schweiß seines Angesichts nur die Thränen der Trübsal und Demüthigung einerndtet. Jeder junge Aspirant auf Namen und Celebrität findet Aufnahme unter die Geistes-Aristokratie nur dann gewährt, wenn er sechszehn altkluge Rezensionen als Ahnen aufweisen kann, und wird, wie bei den Völkern der Heiden in der Versammlung der Männer nur anerkannt, wenn er den Schopf eines Erschlagenen als Trophäe heimgebracht hat. Wir reagiren ja überall zur guten alten Zeit; warum nicht auch hier? Und doch sollte man sich erinnern, daß die Kritik nur Dienerin ist im Tempel der Kunst, und daß, wenn sie selbst die Bildsäulen der Heiligen, die dort aufgestellt sind - mögen die Heiligen mitunter auch etwas wunderlich seyn - zertrümmert und herabreißt, sie zugleich unausbleiblich die Heiligkeit ihres eignen Cultus entwürdigt und zerstört.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p style="text-left">
+          <tei:seg>Ernest Maltravers (1837); → Lexikon: Bulwer: Bulwer und Deutschland</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p style="text-left">
+          <tei:seg>Alice: or the Mysteries (1838)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p style="text-left">
+          <tei:seg>Calderon the Courtier (1838)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p style="text-left">
+          <tei:seg>Übersetzer für die Zwickauer Ausgabe von Bulwers Werken; → Die Zeitgenossen, Quellen, Folien, Anspielungshorizonte: Gattungsfolien</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p style="text-left">
+          <tei:seg>O’Neill: or the Rebel (1827)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p style="text-left">
+          <tei:seg>"Eugene Aram: a Tragedy" erschien erst nach dem Roman von 1832 im "New Monthly Magazine", August 1833, und wurde späteren Ausgaben des Romans beigefügt. Das Hamburger Stadttheater brachte 1839-40 eine dramatische Bearbeitung von Bulwers Roman durch Ludwig Rellstab, die Gutzkow lobend besprach: Literaturkritiken, TfD, Nr. 158, [2.] Oktober 1839, S. 1263, und TfD, Nr. 63, [17.] April 1840, S. 251</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p style="text-left">
+          <tei:seg>Leila: or the Siege of Granada (1837)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>Wir empfehlen die Mayer’sche Uebersetzung in drei Bänden. A. d. R. [J. A. Mayer in Aachen: einer der drei Verlage, die deutsche Bulwer-Ausgaben herausbrachten; → Die Zeitgenossen, Quellen, Folien, Anspielungshorizonte: Gattungsfolien]</tei:seg>
+        </tei:p>
+      </tei:note>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:p style="text-left"/>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

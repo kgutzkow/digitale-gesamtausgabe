@@ -1,6 +1,7 @@
-Gutzkowlexikon
-==============
+Lexikon
+=======
 
-:slug: gutzkowlexikon
-:order: 1
-:Status: draft
+:slug: lexikon
+:order: 2
+:template: lexikon
+:taxonomy: anhang, lexikon

@@ -26,7 +26,6 @@ header {
 
         @include breakpoint(medium) {
             background: $white;
-            z-index: 1;
             margin-bottom: $global-margin;
 
             .top-bar {
@@ -37,13 +36,15 @@ header {
                     display: flex;
 
                     > ul {
+                        z-index: 2;
+                        
                         &:first-child {
                             a {
-                                font-size: rem-calc(24);
+                                font-size: rem-calc(16);
                                 white-space: nowrap;
 
                                 small {
-                                    font-size: rem-calc(18);
+                                    font-size: rem-calc(12);
                                     display: block;
                                 }
                             }
@@ -82,8 +83,7 @@ header {
                         &:last-child {
                             > li {
                                 > a {
-                                    margin-top: rem-calc(4);
-                                    font-size: rem-calc(20);
+                                    font-size: rem-calc(16);
                                 }
 
                                 > ul {

@@ -13,10 +13,10 @@
     {% block head %}
       <meta charset="utf-8"/>
       <title>{% block title %}{{ SITETITLE }}{% endblock %}</title>
-      <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.ico" type="image/x-icon">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,400i,700|Merriweather:300,400,700" rel="stylesheet">
-      <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/app.css"/>
+      <link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.ico" type="image/x-icon"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fonts.css" />
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/app.css" />
       {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
       {% endif %}
@@ -78,37 +78,19 @@
       {% endblock %}
     </article>
     <footer class="grid-x grid-padding-x">
-      {% if LINKS %}
-        <nav class="cell small-12 medium-auto">
-          <h2>{{ LINKS_WIDGET_NAME | default('Links') }}</h2>
-          <ul class="menu vertical">
-            {% for name, link in LINKS %}
-              <li><a href="{{ link }}">{{ name }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      {% endif %}
-      {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
-        <nav class="cell small-12 medium-4">
-          <h2>{{ SOCIAL_WIDGET_NAME | default('Social') }}</h2>
-          <ul class="menu vertical">
-            {% if FEED_ALL_ATOM %}
-              <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
-            {% endif %}
-            {% if FEED_ALL_RSS %}
-              <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
-            {% endif %}
-            {% for name, link in SOCIAL %}
-              <li><a href="{{ link }}">{{ name }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      {% endif %}
-      <nav class="cell small-12 medium-4">
+      <div class="cell small-12">
         <h2><a href="{{ SITEURL }}/pages/impressum.html">Impressum</a></h2>
+        <h2><a href="{{ SITEURL }}/pages/datenschutzerklaerung.html">Datenschutzerklärung</a></h2>
+        {% if LINKS %}
+          <nav>
+            <ul class="menu vertical">
+              {% for name, link in LINKS %}
+                <li><a href="{{ link }}" target="_blank" rel="noopener">{{ name }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+        {% endif %}
         <p>Zuletzt aktualisiert: <a href="https://gitlab.informatik.uni-halle.de/gutzkow/digitale-gesamtausgabe/commit/{{ GENERATION_CHANGE }}" target="_blank" rel="noopener">{{ GENERATION_DATE | strftime('%d.%m.%Y %H:%M')}}</a></p>
-        <p>Erstellt mit <a href="http://getpelican.com/">Pelican</a> und der Kraft von <a href="http://python.org">Python</a>.</p>
-      </nav>
     </footer>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/foundation.min.js"></script>
     <script>$(document).foundation();</script>

@@ -65,3 +65,13 @@ dd + dt {
 ul.menu.is-dropdown-submenu {
     width: 100%;
 }
+
+@include breakpoint(xlarge) {
+    .dropdown {
+        .is-dropdown-submenu {
+            a {
+                padding: 0.3rem $global-padding;
+            }
+        }
+    }
+}

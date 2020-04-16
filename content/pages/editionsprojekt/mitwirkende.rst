@@ -8,7 +8,7 @@ Mitwirkende
 * Prof. Dr. Wolfgang Fink (Lyon, F) [seit 2014]
 * Dr. Anne Friedrich (Halle) [seit 2001]
 * Prof. Dr. Dirk Göttsche (Nottingham, GB) [ab 2003]
-* Dr. Mark Hall (The Open University, GB) [seit 2018]
+* `Dr. Mark Hall <http://www.open.ac.uk/people/mmh352>`_ (The Open University, GB) [seit 2018]
 * Prof. Dr. Peter Hasubek (Göttingen) [bis Herbst 2001]
 * Prof. Dr. Christine Haug (München)
 * Toni Helmle (Mainz) [seit 2013]

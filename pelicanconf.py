@@ -24,7 +24,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('eHumanities@Martin-Luther-Universität Halle-Wittenberg', 'https://blogs.urz.uni-halle.de/ehumanities/'),)
+LINKS = (('Digitale Bereitstellung - Institut für Informatik, Martin-Luther-Universität Halle-Wittenberg', 'https://www.informatik.uni-halle.de/ti/forschung/ehumanities/'),)
 
 DEFAULT_PAGINATION = 6
 

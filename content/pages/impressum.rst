@@ -6,12 +6,20 @@ Impressum
 Inhaltlich verantwortlich
 -------------------------
 
-| Professor Gert Vonhoff
-| University of Exeter
-| g.vonhoff@exeter..ac.uk
+| Dr. Wolfgang Rasch
+| dr.rasch@gmx.net
 
-| Junior Professor Dr Mark Hall
-| mark.hall@informatik.uni-halle.de
+| Prof. Dr. Martina Lauster
+| m.lauster26@gmail.com
+
+| Dr. Jörg Ritter
+| joerg.ritter@informatik.uni-halle.de
+
+| Stephan Landshuter
+| ste.landshuter@t-online.de
+
+| Dr. Mark Hall
+| mark.hall@open.ac.uk
 
 Institution
 -----------

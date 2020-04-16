@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>England und die Engländer</tei:title>
+        <tei:author>Edward Lytton Bulwer</tei:author>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Edward Lytton Bulwer: England und die Engländer. Übersetzt von Louis Lax. 3 Bde. Aachen, Leipzig: Jacob Anton Mayer / Brüssel: J. A. Mayer und Somershausen, 1833.</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1833">1833</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #england-und-die-englander"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2001" who="#MartinaLauster">Fassung 1.0: Für den Lexikonartikel zu Bulwer</tei:change>
+      <tei:change when="2007-08" who="#MartinaLauster">Fassung 1.1: Ergänzungen</tei:change>
+      <tei:change when="2020-03-25" who="#MarkMichaelHall">Fassung 1.2: TEI Version</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p style="no-indent text-left">
+        <tei:hi style="font-weight-bold">Auszug aus Bd. 2: Drittes Buch. Uebersicht der aristokratischen und populairen Erziehung und des allgemeinen Einflusses der Moralität und Religion der Engländer. Dem Dr. Theol. Thomas Chalmers, Professor der Moral-Philosophie an der Universität von St. Andrew's gewidmet. - Sechstes Kapitel. Moralischer Zustand:</tei:hi>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wo ich mich nach dem Stand der Moral in diesem Lande umsehe, finde ich einen Mangel an Pflege der Moral-Wissenschaft. Tausend seichte und nüchterne Bemerkungen über </tei:seg>
+        <tei:pb n="151"/>
+        <tei:seg> jede vorkommende moralische Frage, werden von der Presse zum Vorschein gebracht und von der Gesetzgebung angehört. Man macht Gesetze, bildet Meinungen, und empfiehlt Institutionen auf den Grund der irrigsten Ansichten von der menschlichen Natur und der nothwendigen Geistesthätigkeiten. Es hat sich eine Kluft zwischen öffentlicher und Privat-Tugend gebildet; man hält sie für unabhängige Eigenschaften und jemand kann einen Mann einen schurkischen Staatsmann nennen und dabei versichern, "er meine jedoch seinen </tei:seg>
+        <tei:hi style="font-weight-bold">Privatkarakter</tei:hi>
+        <tei:seg> nicht im mindesten herabzusetzen." Da wir Moral nur in äußeren Anstand setzen, haben wir eine gemeine und niedrige Richtschnur der Meinung unter uns aufkommen lassen; und die herabziehenden Gewohnheiten des kommerziellen Lebens werden keinesweges durch die geistigen und erhabenen Begriffe gehoben und gemildert, welche eine gehörig betriebene Philosophie immer durch ein Volk verbreitet.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich habe eine Anekdote von einem Gentleman gehört, der eine Gouvernante für seine Töchter suchte. Eine Operntänzerin meldete sich zu dem Amte. Der Vater lehnte das Anerbieten ab. "Was," sagte die Dame, "passe </tei:seg>
+        <tei:pb n="152"/>
+        <tei:seg> ich nicht ganz für die Stelle? Kann ich nicht Tanzen, Musik, Französisch und feine Manieren lehren?" - "Das mag seyn - aber - bedenken Sie nur - eine Operntänzerin!" - "Oh, wenn es weiter nichts ist," antwortete die Gouvernante in Hoffnung, "</tei:seg>
+        <tei:hi style="font-weight-bold">so kann ich ja meinen Namen ändern!</tei:hi>
+        <tei:seg>" Ich bewundere die Naivetät der Tänzerin weniger, als ihren Scharfsinn: sie wußte, daß der Engländer, wenn er nach Tugenden verlangt, unter zehn Malen neun Mal nur auf den Namen sieht.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>In thörichter und kurzsichtiger Verblendung glauben wir in England, daß die abstrakten und die praktischen Kenntnisse in Widerspruch mit einander stehen. Aber man bedenke, daß jedes neue Gesetz, welches dem Volke nicht angemessen ist, welches wirkungslos bleibt, ein todter Buchstabe wird - entweder aus Unkunde des Geistes, welcher im Gesetze, oder dessen, welcher im Volke herrscht, auf den es wirken soll - ein Beweis ist, daß das Gesetz nicht praktisch war, weil es dem Gesetzgeber an abstrakter Kenntniß gefehlt hat. In keinem Lande erscheinen so viele unwirksame Gesetze, und dies ist ein hinlänglicher Beweis, daß in keinem andern Lande größere </tei:seg>
+        <tei:pb n="153"/>
+        <tei:seg> Unkenntniß der Wissenschaft moralischer Gesetzgebung - eines Zweiges der Moralphilosophie - existirt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wegen dieses Mangels an Studium ethischer Forschungen urtheilen wir über Moral nach unanwendbaren religiösen Vorschriften. Von Bishop,</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+        <tei:seg> dem Mörder, hieß es in den Zeitungen, er habe Frieden mit Gott geschlossen, und sey zu einem sanften Schlummer berechtigt, weil - - weil er dem Geistlichen von Newgate die Art gebeichtet, wie er seine Opfer umgebracht hatte! Die öffentlichen Wohlthätigkeits-Anstalten, die, wie wir gesehen haben, so unselig auf die Moralität des Volkes einwirken, wenn sie nicht höchst vorsichtig verwaltet werden, hält man für bewunderungswürdig </tei:seg>
+        <tei:hi style="font-weight-bold">an und für sich selbst</tei:hi>
+        <tei:seg>; Tumulte, Bestechungen und Wahlumtriebe werden für die </tei:seg>
+        <tei:hi style="font-weight-bold">nothwendigen</tei:hi>
+        <tei:seg> Wahrzeichen der Freiheit gehalten. Einige hängen an der Vergangenheit, ohne deren Moralität zu fassen, andere stürzen sich ohne einen einzigen leitenden Grundsatz in Versuche für die Zukunft. Die Ver-</tei:seg>
+        <tei:pb n="154"/>
+        <tei:seg>besserungslustigen wissen nicht, was sie wollen, und volksthümliche Prinzipien werden ein bloßer Deckmantel, um das Volk zu täuschen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wenn Religion nicht durch Moralwissenschaft unterstützt wird, ist immer zu besorgen, daß dem Prinzip der </tei:seg>
+        <tei:hi style="font-weight-bold">Furcht</tei:hi>
+        <tei:seg> zu viel überlassen bleiben wird. "Oft und laut Verdammniß zu predigen," sagt der geistreiche Selden, "ist der Weg, hoch zu steigen. Wir lieben einen Mann, der uns verdammt, und laufen ihm nach, damit er uns wieder errette." Dieser th[e]ologische Gemeinplatz wird auf Erziehung und Gesetze übertragen. Wir erziehen unsere Kinder mit der Ruthe.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-2">*)</tei:ref>
+        <tei:seg> Wir regieren unsere Arme durch Zwang. Wir bemühen uns unablässig, unsere Nebenmenschen durch den Schrecken herabzuwürdigen, statt sie durch Vernunft zurecht zu führen. Nicht so würde uns der hochherzige Bossuet gelehrt haben. </tei:seg>
+        <tei:pb n="155"/>
+        <tei:seg> Wenn in seiner schönen Predigt "Pour la Profession de Madame de la Vallière" dieser große Redner die Seele zum Himmel zu erheben sucht, spricht er nicht von Schrecken und Strafe, sondern von himmlischer Liebe, von dem Schwinden jeder Furcht unter den Schwingen des Allmächtigen. "Was," ruft er aus, "ist der einzige Weg, auf dem wir uns Gott nähern und vollkommen werden? Der der Liebe." Eine tiefe Wahrheit, welche uns einen edleren religiösen Geist lehrt, und uns zugleich in den Prinzipien der Erziehung, Moral und des Gesetzes zurechtweist. Aber Bossuets Ausruf paßt nicht für die bei uns eingeführte Mode.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Derselbe Mangel an Moralwissenschaft tritt in unsern Staatsauflagen an den Tag. Es giebt Steuern, welche offenbar Lasterhaftigkeit erzeugen müssen; einige sind aufgehoben worden, wie um sie absichtlich zu verstärken. Wir haben die Verbreitung der Bildung gerade mit hundert Prozent besteuert; die Folge ist, daß der authorisirte Unterricht verhindert, und geschmuggelter Unterricht durch die gefährlichsten Lehrer befördert wird. Wir haben die Abgabe auf den Branntwein vermindert und von diesem Tage fing die fürchterlichste </tei:seg>
+        <tei:pb n="156"/>
+        <tei:seg> Epoche der Demoralisation an. "Früher," sagt der weise Prälat, den ich bereits so oft angeführt habe, "als ich zuerst nach London kam, habe ich nie ein Weib aus einem Liqueurladen kommen sehen; jetzt habe ich mehr als einmal Frauen mit Kindern auf dem Arme gesehen, denen sie sogar etwas von ihrem Branntwein mittheilten."</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Unser größter Nationalflecken ist die Unmäßigkeit der Armen; unsere Gesetzgeber aber muntern sie noch auf; sie verbieten den Unterricht, sie untersagen Vergnügungen und beschützen nur die Betrunkenheit.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Eben so durchbricht, weil unsere moralische Forschungen nicht ausgedehnt werden, das Licht nur die Nacht um uns, durchströmt aber keinen großen, umfassenden Raum. Daher betrachten wir, nächst unserer allgemeinen Rücksicht auf den Schein, die Moralität nur, in so fern sie auf die Verbindung zwischen den beiden Geschlechtern wirkt. Moralität ist bei uns, genau übersetzt, nur das Nichtvorhandenseyn von Ausschweifung; sie wird mit einer ihrer Eigenschaften, der Keuschheit, verwechselt; so wie das Wort Verworfenheit auch nur auf Unmäßigkeit des Geschlechtstriebes angewendet wird. Ich läugne nicht, </tei:seg>
+        <tei:pb n="157"/>
+        <tei:seg> daß jene Tugend von großer Wichtigkeit ist. Wo sie geringgeschätzt wird, folgt gewöhnlich eine allgemeine Erschlaffung aller andern Grundsätze. Die Menschen schwingen sich durch die Prostituirung ihrer theuersten Bande auf, und die Gleichgültigkeit des ehelichen Verhältnisses wird ein Mittel zur Verderbniß des Staates. Aber wie das stärkste Auge nicht immer auf Einen Punkt sehen kann, ohne zuletzt zu schielen, so wendet das unaufhörliche Betrachten Eines, wenn auch hochstehenden, moralischen Punktes, uns von der allgemeinen Rücksichtnahme auf die übrigen ab. Und was bemerkenswerth bei uns ist, grade aus unserer ausschließlichen Aufmerksamkeit auf Keuschheit ist der fürchterliche Grad der Prostitution entstanden, in welchem sie durch ganz England um sich gegriffen und gegen welchen man nie auf ein Heilmittel gedacht hat. Unsere ausnehmende Achtung für den Keuschen drängt uns eine verächtliche Apathie gegen den Unkeuschen auf. Wir kümmern uns nicht darum, wie viel deren sind, was sie leiden, oder wie weit sie in die tiefsten Abgründe des Verbrechens hinabstürzen. So läßt sich in manchen Ackerbau-Distrikten nichts mit der schamlosen Hingebung der </tei:seg>
+        <tei:pb n="158"/>
+        <tei:seg> Bäuerinnen vergleichen. Gesetze, welche unehliche Geburten begünstigen, befördern die Liederlichkeit und der Arme heirathet, wie ich früher gezeigt habe, die Mutter von Bastarden, um dadurch mehr Anrecht auf Kirchspiel-Unterstützungen zu erhalten. In unsern größern Städten bringt eine gleich systematische Verachtung der unglücklichen Opfer - weniger vielleicht der Sünde, als der Unwissenheit und Armuth - gleich nachtheilige Folgen hervor. Man sieht nicht, wie in andern Ländern, durch eine strenge polizeiliche Einrichtung, auf ihre Lage und Gesundheit; ihre Laufbahn auf Erden beschränkt sich im Durchschnitt auf </tei:seg>
+        <tei:hi style="font-weight-bold">vier Jahre</tei:hi>
+        <tei:seg>. Ihre Häuser werden nicht untersucht, ihre Spelunken nicht beaufsichtigt, und so häuft sich dort eine schreckliche Masse von Krankheit, Unmäßigkeit und Dieberei. Zu große Verachtung Eines Lasters löst es in hundert andere noch abscheulichere Laster auf. Und so haben wir durch einen falschen oder zerstückten Begriff von Moralität unsern eigenen Zweck vernichtet, und die ausschließliche Unduldsamkeit gegen die Unkeuschheit hat das Land zu dem unerwarteten und vernachlässigten Aussatz der Prostitution verdammt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="159"/>
+        <tei:seg> Wegen der Nichtkultivirung der Moral als Wissenschaft, sind auch alle ihre Vorschriften bei uns vage, schwankend und unbestimmt; sie verfallen ebenfalls in persönliche Parteilichkeit oder persönliche Verfolgung. Eine Person wird von der Gesellschaft wegen eines Vergehens in den Bann gethan, welches ein Anderer ungestraft begehen kann. Eine Frau läuft davon, und ist ein "liederliches Geschöpf"; eine andere thut dasselbe und ist nur "eine unglückliche Dame." Miß *** wird von demselben Auditorium, welches Kean nach Amerika trieb, achtungsvoll aufgenommen.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-3">*)</tei:ref>
+        <tei:seg> Lady A. findet wegen desselben Verbrechens Theilnahme, welches Lady B. zu einem Gegenstand des Hasses macht. Lord *** behandelt seine Frau schlecht und trennt sich von ihr; niemand tadelt ihn. Lord Byron wird von seiner Gattin abgedankt, und aus der Gesellschaft ausgestoßen. ** ist anerkannt ein Spieler von Profession, und prellt alle seine Bekannte; jeder macht ihm den Hof, er ist fashionable. Herr ** ahmt ihm nach, </tei:seg>
+        <tei:pb n="160"/>
+        <tei:seg> und wird geflohen wie die Pest; </tei:seg>
+        <tei:hi style="font-weight-bold">er</tei:hi>
+        <tei:seg> ist ein erbärmlicher Schuft. Umsonst versucht man, einen Leitfaden für diese Unterscheidungen aufzustellen; alles hängt von Laune und Willkühr ab und ist oft das Resultat einer vagen und unverdienten persönlichen Popularität, oft eine plötzliche und zufällige Reaktion der öffentlichen Stimmung, die, weil sie fühlt, daß sie gegen ihr letztes Opfer zu hart war, zu nachsichtig gegen ihr nächstes ist. Daher und aus Mangel eines ungehemmten Stromes ethischer Betrachtung und Belehrung, welcher, obgleich nur von Wenigen und auf hohen und einsamen Stellen befahren, sich abwärts ergießt, und durch unsichtbare Spalten und Kanäle den moralischen Boden sättigt - daher hat bei uns die Moral keine Kraft und kein fruchtbringendes und organisches System. Sie wirkt nur durch Launen und Zufälle; sie hält sich an bloße Namen und Formen - bald an Achtung für den äußern Schein, bald an Achtung für das Eigenthum - und hängt mit anhaltender Stärke nur an Einem materiellen und weltlichen Glauben, welchen der kommerzielle und aristokratische Geist erzeugt hat, nämlich an dem von der Wichtigkeit des Standes und dem Werthe des Reichthums."</tei:seg>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>Einer der Burker, die vor zwei Jahren zu London hingerichtet wurden. A. d. Ü.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-2">
+        <tei:p style="text-left">
+          <tei:seg>So räth auch Wesley - der oft seine Predigten mit den Worten schloß: "Ich werde jetzt das Biret des Blutrichters aufsetzen und das Urtheil über euch sprechen: "Gehet von mir, ihr Verfluchten, in das ewige Feuer' - wiederholtes Durchpeitschen bei Kindern an, und besteht auf der Nothwendigkeit "ihren Geist zu brechen." Wesley's Leben von Southey.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-3">
+        <tei:p style="text-left">
+          <tei:seg>Wahrscheinlich Miß Paton vom Coventgarden-Theater. Kean mußte wegen Verführung einer verheiratheten Frau England verlassen. A. d. Ü.</tei:seg>
+        </tei:p>
+      </tei:note>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:p style="text-left"/>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

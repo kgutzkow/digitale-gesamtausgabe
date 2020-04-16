@@ -40,7 +40,6 @@ class TeiDocumentReader(BaseReader):
     def read(self, filename):
         doc = etree.parse(filename)
         metadata = {'title': str(doc.xpath('//tei:title/text()', namespaces=ns)[0]),
-                    'bibl': str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0]),
                     'date': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0]),
                     'year': str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[0:4],
                     'month': MONTH_MAPPING[str(doc.xpath('//tei:creation/tei:date/@when', namespaces=ns)[0])[5:7]],
@@ -59,6 +58,8 @@ class TeiDocumentReader(BaseReader):
                                   if 'when' in change and 'who' in change and change.text],
                     'extract': '',
                     'template': 'tei-document'}
+        if doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns):
+            metadata['bibl'] = str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0])
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
         extracts = doc.xpath('//tei:body/*[@data-extract="true"]', namespaces=ns)
         if len(extracts) == 0:
