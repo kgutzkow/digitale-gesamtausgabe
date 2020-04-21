@@ -141,7 +141,10 @@ ImU
 Ka
     | Das Kastanienwäldchen bei Berlin. In: Lebensbilder. 3 Bde. Bd. 2: Novellen und Skizzen. Stuttgart: Hallberger, 1870. S. 45-126.
     | Rasch 2.40.2.2
-KNw
+KlReiseb
+    | [Anon.:] Kleine Reisebilder. Naumburg. - Weißenfels. - Merseburg. - Halle. - Magdeburg. In: Telegraph für Deutschland. Hamburg. Nr. 161, [7.] Oktober 1839, S. 1281-1284; Nr. 163, [11.] Oktober 1839, S. 1302-1303; Nr. 164, [12.] Oktober 1839, 1305-1308.
+    | Rasch 3.39.10.07
+KlNw
     | Die kleine Narrenwelt. 3 Bde. Frankfurt/M.: Literarische Anstalt, 1856-57.
     | Rasch 2.33
 Le
