@@ -14,7 +14,7 @@ fi
 # Run optional pre-build scripts
 if [ -f 'pre-build' ]
 then
-    ./pre-build
+    source pre-build
 fi
 
 git checkout -f master
@@ -74,5 +74,5 @@ git checkout -f master
 # Run optional post-build scripts
 if [ -f 'post-build' ]
 then
-    ./post-build
+    source post-build
 fi
