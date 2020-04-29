@@ -112,7 +112,6 @@ if (Foundation.MediaQuery.is('medium')) {
         quickNavTargets.push(document.querySelector(quickNavLinks[idx].getAttribute('href')));
     }
 
-    console.log(window.innerHeight);
     window.addEventListener('scroll', function() {
         const scrollPos = document.documentElement.scrollTop - topOffset + (window.innerHeight / 2);
         current = false;
