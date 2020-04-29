@@ -47,10 +47,10 @@
   <div class="tabs-content" data-tabs-content="werke-tabs">
     <div class="tabs-panel is-active taxonomy-tree" id="einzelwerke">
       <div class="grid-x">
-        <div class="small-12 medium-9">
+        <div class="small-12 medium-8">
           {{ taxonomy(TAXONOMY, prefix=page.taxonomy.split(',') if page.taxonomy else None, nested=False) }}
         </div>
-        <div class="hide-for-small-only medium-3">
+        <div class="hide-for-small-only medium-4">
           <ul class="menu vertical sticky">
             {{ quick_nav(TAXONOMY, prefix=page.taxonomy.split(',') if page.taxonomy else None) }}
           </ul>
