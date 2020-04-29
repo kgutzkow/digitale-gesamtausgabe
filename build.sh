@@ -41,7 +41,7 @@ fi
 git pull --all
 
 # Build the main site
-poetry install
+poetry install --no-dev
 yarn install --frozen-lockfile --check-files --non-interactive
 node_modules/.bin/gulp
 poetry run pelican -s publishconf.py -o output -d content
@@ -58,10 +58,10 @@ then
             then
                 git checkout $branch;
                 git pull
-                poetry install
+                poetry install --no-dev
                 yarn install --frozen-lockfile --check-files --non-interactive
                 node_modules/.bin/gulp
-                poetry run pelican -s publishconf.py -o output/preview/$branch -d content
+                poetry run pelican -s previewconf.py -o output/preview/$branch -d content
             fi
         fi
     done
