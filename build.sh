@@ -14,7 +14,7 @@ fi
 # Run optional pre-build scripts
 if [ -f 'pre-build' ]
 then
-    ./pre-build
+    source pre-build
 fi
 
 git checkout -f master
@@ -41,11 +41,10 @@ fi
 git pull --all
 
 # Build the main site
-export PIPENV_VENV_IN_PROJECT=True
-pipenv install
-yarn install
+poetry install --no-dev
+yarn install --frozen-lockfile --check-files --non-interactive
 node_modules/.bin/gulp
-pipenv run pelican -o output -d content
+poetry run pelican -s publishconf.py -o output -d content
 
 # Build the branch-specific preview sites
 if [ -f 'branches.txt' ]
@@ -59,10 +58,10 @@ then
             then
                 git checkout $branch;
                 git pull
-                pipenv install
-                yarn install
+                poetry install --no-dev
+                yarn install --frozen-lockfile --check-files --non-interactive
                 node_modules/.bin/gulp
-                pipenv run pelican -o output/preview/$branch -d content
+                poetry run pelican -s previewconf.py -o output/preview/$branch -d content
             fi
         fi
     done
@@ -74,5 +73,5 @@ git checkout -f master
 # Run optional post-build scripts
 if [ -f 'post-build' ]
 then
-    ./post-build
+    source post-build
 fi

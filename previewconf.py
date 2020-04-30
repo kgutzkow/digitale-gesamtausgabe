@@ -7,11 +7,9 @@ from __future__ import unicode_literals
 
 import os
 import sys
+import subprocess
 sys.path.append(os.curdir)
-from pelicanconf import *
+from publishconf import *
 
-
-SITEURL = 'https://gutzkow.uzi.uni-halle.de'
-RELATIVE_URLS = False
-
-DELETE_OUTPUT_DIRECTORY = True
+result = subprocess.run(['git', 'branch', '--show-current'], encoding='utf-8', capture_output=True)
+SITEURL = 'https://gutzkow.uzi.uni-halle.de/preview/{0}'.format(result.stdout.strip())

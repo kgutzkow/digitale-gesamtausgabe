@@ -3,6 +3,7 @@ Editionsprojekt
 
 :slug: editionsprojekt
 :order: 1
+:template: news
 
 In diesem Bereich finden sie Inhalte zum Editionsprojekt:
 
