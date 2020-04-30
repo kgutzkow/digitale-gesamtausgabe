@@ -1,15 +1,11 @@
 Neuer Internetauftritt
 ======================
 
-:date: 2018-10-02
+:date: 2020-05-01
 :category: Neuigkeiten
 :tags: Technisches
 :author: Mark M Hall
-:summary:
-  Der neue Internetauftritt der Digitalen Gutzkow-Gesamtausgabe ist jetzt da.
-  Wir haben die Lesbarkeit erhöht, damit Gutzkows Werke digital angenehm
-  gelesen werden können. Zusätzlich haben wir die technischen Abläufe verbessert,
-  damit in Zukunft neue Inhalte schneller verfügbar gemacht werden können.
+:slug: neuer-internetauftritt
 
 Der neue Internetauftritt der Digitalen Gutzkow-Gesamtausgabe ist jetzt da.
 Die zwei großen Zielsetzungen der Umarbeitung waren:
@@ -21,6 +17,8 @@ Die zwei großen Zielsetzungen der Umarbeitung waren:
   kommentierten Edition sowohl auf dem PC wie auch auf mobilen Geräten optimiert
   worden; Sie können Gutzkow daher jetzt ganz einfach mitnehmen und auch
   unterwegs lesen.
+* *Moderne Datenformate*: Die Texte werden in TEI annotiert, wodurch die langfristige
+  Wiederverwendbarkeit der Texte sichergestellt wird.
 * *Vereinfachung technischer Abläufe*: Der bisherige digitale Auftritt der
   Gesamtausgabe erforderte ein hohes Maß an manuellen Eingriffen, um neue
   Inhalte einzupflegen. Im Rahmen der Umstellung wurde ein Großteil dieser

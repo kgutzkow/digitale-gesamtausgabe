@@ -1,11 +1,10 @@
 Neue Stellenkommentare zu den "Briefen eines Narren an eine Närrin"
 ===================================================================
 
-:date: 2018-01
+:date: 2017-06
 :category: Neuigkeiten
 :tags: Digitale Ausgabe, Stellenkommentar
 :author: Gert Vonhoff
-:slug: stellenkommentare-naerrin-update
+:slug: stellenkommentare-naerrin
 
-Der Stellenkommentar zu den "Briefen eines Narren an eine Närrin" ist für die
-Briefe 10 bis 17 fertiggestellt und als Teil der Internetausgabe veröffentlicht.
+Als nächster größerer Kommentar im Netz sind die Stellenerläuterungen zum 10.-17. Brief der "Briefe eines Narren an eine Närrin" geplant.

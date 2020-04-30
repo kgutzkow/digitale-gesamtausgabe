@@ -5,6 +5,7 @@ Zweite Auflage Kommentarband "Neuen Serapionsbrüdern"
 :category: Neuigkeiten
 :tags: Digitale Ausgabe, Stellenkommentar
 :author: Gert Vonhoff
+:slug: zweite-auflage-kommentarband-neuen-serapionsbrudern
 
 Der Kommentarband zu den "Neuen Serapionsbrüdern" ist mit geringfügigen
 Verbesserungen in zweiter Auflage erschienen.

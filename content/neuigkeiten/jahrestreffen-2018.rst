@@ -5,6 +5,7 @@ Jahrestreffen 2018
 :category: Neuigkeiten
 :tags: Jahrestreffen
 :author: Gert Vonhoff
+:slug: jahrestreffen-2018
 
 Auf dem Jahrestreffen in Wittenberg wird der Kontakt mit Prof. Mark Hall (Informatik, Universität Halle) geknüpft, der
 einen Neuauftritt der Internetseite vorbereiten will. Um ein regeläßigeres Erscheinen der Druckbände zu gewährleisten,

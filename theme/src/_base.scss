@@ -36,8 +36,14 @@ dt {
 dd + dt {
     margin-top: $global-margin;
 }
-.menu.simple > li.menu-text {
-    padding: 0;
+.menu.simple {
+    &.align-right {
+        justify-content: flex-end;
+    }
+
+    > li.menu-text {
+        padding: 0;
+    }
 }
 .tabs > .tabs-title {
     border-bottom: 2px solid $light-gray;

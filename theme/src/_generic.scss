@@ -28,6 +28,10 @@ aside {
     overflow: hidden;
 }
 
+.margin-top-wide {
+    margin-top: $global-margin * 2;
+}
+
 .margin-left {
     margin-left: $global-margin;
 }
