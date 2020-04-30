@@ -3,7 +3,7 @@ default:
 
 include:
   template: Dependency-Scanning.gitlab-ci.yml
-  
+
 stages:
   - validate
   - build
@@ -19,9 +19,9 @@ dependency_scanning:
 build:
   stage: build
   script:
-    - pip install pipenv
-    - pipenv install
-    - pipenv run pelican -o output -d content
+    - pip install poetry
+    - poetry install --no-dev
+    - poetry run pelican -s publishconf.py -o output -d content
   only:
     - master
     - merge_requests
@@ -29,8 +29,8 @@ build:
 validate:
   stage: validate
   script:
-    - pip install pipenv
-    - pipenv install
-    - pipenv run python util/validate-tei.py
+    - pip install poetry
+    - poetry install --no-dev
+    - poetry run python util/validate-tei.py
   only:
     - merge_requests
