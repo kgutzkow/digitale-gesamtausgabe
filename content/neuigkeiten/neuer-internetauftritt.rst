@@ -1,7 +1,7 @@
 Neuer Internetauftritt
 ======================
 
-:date: 2018-10-02
+:date: 2020-05-01
 :category: Neuigkeiten
 :tags: Technisches
 :author: Mark M Hall
