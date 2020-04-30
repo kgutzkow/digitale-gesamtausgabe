@@ -4,6 +4,7 @@
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/femtoTween.umd.js"></script>
 {% endblock %}
 {% block content %}
+  {{ super() }}
   <div class="grid-x">
     <div class="small-12 medium-8">
       <div id="chronologisch">
@@ -45,7 +46,6 @@
       </ul>
     </div>
   </div>
-  {{ super() }}
 {% endblock %}
 {% block body_scripts %}
 <script>
