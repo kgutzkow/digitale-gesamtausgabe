@@ -37,6 +37,9 @@
 {%- endmacro -%}
 {% extends "page.html" %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
+{% block head_scripts %}
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/femtoTween.umd.js"></script>
+{% endblock %}
 {% block content %}
   {{ super() }}
   <ul class="tabs" data-tabs id="werke-tabs">
@@ -47,11 +50,11 @@
   <div class="tabs-content" data-tabs-content="werke-tabs">
     <div class="tabs-panel is-active taxonomy-tree" id="einzelwerke">
       <div class="grid-x">
-        <div class="small-12 medium-9">
+        <div class="small-12 medium-8">
           {{ taxonomy(TAXONOMY, prefix=page.taxonomy.split(',') if page.taxonomy else None, nested=False) }}
         </div>
-        <div class="hide-for-small-only medium-3">
-          <ul class="menu vertical sticky">
+        <div class="hide-for-small-only medium-4">
+          <ul class="menu vertical sticky quick-nav">
             {{ quick_nav(TAXONOMY, prefix=page.taxonomy.split(',') if page.taxonomy else None) }}
           </ul>
         </div>
@@ -93,11 +96,43 @@
 {% endblock %}
 {% block body_scripts %}
 <script>
-window.addEventListener('hashchange', function(ev) {
-    document.documentElement.scrollTop = document.documentElement.scrollTop - 70;
-});
-if (window.location.hash) {
-    document.documentElement.scrollTop = document.documentElement.scrollTop - 70;
+if (Foundation.MediaQuery.is('medium')) {
+    const topOffset = document.querySelector('#einzelwerke').offsetTop - 50;
+
+    function quickNavClick(ev) {
+        ev.preventDefault();
+        const element = document.querySelector(ev.target.getAttribute('href'));
+        femtoTween.tween(document.documentElement.scrollTop, topOffset + element.offsetTop, (value) => { document.documentElement.scrollTop = value; });
+    }
+
+    const quickNavLinks = document.querySelectorAll('.quick-nav a');
+    const quickNavTargets = [];
+    for(let idx = 0; idx < quickNavLinks.length; idx++) {
+        quickNavLinks[idx].addEventListener('click', quickNavClick);
+        quickNavTargets.push(document.querySelector(quickNavLinks[idx].getAttribute('href')));
+    }
+
+    window.addEventListener('scroll', function() {
+        const scrollPos = document.documentElement.scrollTop - topOffset + (window.innerHeight / 2);
+        current = false;
+        for(let idx = quickNavTargets.length - 1; idx > 0; idx--) {
+            if (current) {
+              quickNavLinks[idx].parentElement.classList.remove('active');
+            } else {
+                if (quickNavTargets[idx].offsetTop < scrollPos) {
+                    current = true;
+                    quickNavLinks[idx].parentElement.classList.add('active');
+                } else {
+                    quickNavLinks[idx].parentElement.classList.remove('active');
+                }
+            }
+        }
+        if (!current) {
+            quickNavLinks[0].parentElement.classList.add('active');
+        } else {
+            quickNavLinks[0].parentElement.classList.remove('active');
+        }
+    });
 }
 </script>
 {% endblock body_scripts %}
