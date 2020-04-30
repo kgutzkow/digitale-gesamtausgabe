@@ -27,14 +27,21 @@
 
             }
         }
-        li > .menu-text {
-            position: sticky;
-            top: 35px;
-            background: $white;
-            z-index: 1;
+        li {
+            > .menu-text {
+                position: sticky;
+                top: 35px;
+                background: $white;
+                z-index: 1;
 
-            @include breakpoint(medium) {
-                top: 80px;
+                @include breakpoint(medium) {
+                    top: 80px;
+                }
+            }
+
+            h2 {
+                font-size: rem-calc(16);
+                padding-left: 0;
             }
         }
     }
