@@ -42,14 +42,85 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MarkMichaelHall" when="2020-05-01">TEI Transform</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="692"/>
+        <tei:seg> [Verbot von Jungs „Literaturblatt“.]</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>* Die Königsberger Zeitung bestätigt das uns unglaublich geschienene Gerücht vom Verbot des Jung’schen Literaturblattes. Sie rügt diesen Schritt des Ministeriums mit einem Freimuth, mit einem Unwillen, in welchen jeder einstimmen muß, der die harmlose Tendenz dieses Journals, die weise Mäßigung seines Herausgebers kennt. Allerdings muß man mit der Königsberger Zeitung ausrufen, was soll aus dem Verkehr der Geister, was soll aus den friedfertigsten Bestrebungen der Wissenschaft werden, wenn man ein solches gediegenes, würdig gehaltenes und nur für einen engen Kreis Gebildeter geschriebenes Blatt unterdrücken kann! Wir müssen noch unsererseits eine Bemerkung hinzufügen. Alexander Jung hat sich von Seiten der Deutschen Jahrbücher wegen seiner milden und versöhnlichen Wirksamkeit einen harten Angriff zugezogen. Jung hat in seinem Vermittlungstriebe an Schelling angeknüpft, Schellingen das Wort geredet, ja Schelling und seine Anhänger haben seine Beurtheilung der berühmten Schellingschen Rede zur Empfehlung in der A. Allgemeinen Zeitung abdrucken lassen. Dennoch verbieten sie das Literaturblatt! Dennoch machen sie einen geistvollen, edlen und besonnenen Schriftsteller brotlos! </tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>*) So eben verlautet, daß die Nichtfortsetzung des Jung’schen Literaturblattes durch einen Wechsel des Verlagortes bedingt ist. Im Grunde ist die Sache dieselbe. Warum kann für einen Verleger in Königsberg nicht ein Verleger in Danzig eintreten? Warum dem Menschenrechte diese Weitläuftigkeiten, diese Förmlichkeiten? Man wird durch die Angelegenheit sehr stark an die Geschichte des Athenäums von Riedel und Meyen erinnert. Doch fiel die letztere noch unter dem Ministerium Rochow vor.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="">
+          <tei:seg>J [Anon.:] Miscellen. In: Telegraph für Deutschland. Hamburg. Nr. 173, [29.] Oktober 1842, S. 692. (Rasch 3.42.10.29.2).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Entfällt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>4. Entstehung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
