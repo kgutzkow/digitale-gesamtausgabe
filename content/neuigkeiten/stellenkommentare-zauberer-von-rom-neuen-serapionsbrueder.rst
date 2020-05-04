@@ -5,6 +5,7 @@ Neue Stellenkommentare zum "Zauberer von Rom" und den "Neuen Serapionsbrüdern"
 :category: Neuigkeiten
 :tags: Digitale Ausgabe, Stellenkommentare
 :author: Gert Vonhoff
+:slug: neue-stellenkommentare-zum-zauberer-von-rom-und-den-neuen-serapionsbrudern
 
 Die Stellenerläuterungen zum Ersten Buch des "Zauberers von Rom", erarbeitet von
 Kurt Jauslin und Wolfgang Rasch, werden ins Netz eingestellt.

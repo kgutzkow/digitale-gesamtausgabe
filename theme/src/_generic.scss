@@ -28,8 +28,24 @@ aside {
     overflow: hidden;
 }
 
+.margin-top-wide {
+    margin-top: $global-margin * 2;
+}
+
 .margin-left {
     margin-left: $global-margin;
+}
+
+.margin-bottom {
+    margin-bottom: $global-margin;
+}
+
+.margin-bottom-wide {
+    margin-bottom: $global-margin * 2;
+}
+
+.padding-left-wide {
+    padding-left: $global-padding * 2;
 }
 
 ul, ol {

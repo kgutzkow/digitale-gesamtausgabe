@@ -5,8 +5,8 @@
 ## Softwareabhängigkeiten
 
 * `Node.js <https://nodejs.org>`_
-* `pipenv <https://docs.pipenv.org>`_
-* `Yarn <https://yarnpkg.com>`_
+* `poetry <https://python-poetry.org>`_
+* `Yarn <https://classic.yarnpkg.com>`_
 
 ## Installation
 
@@ -21,7 +21,7 @@ Voll-automatische Installation und Generierung:
 .. sourcecode:: console
 
   $ yarn install
-  $ pipenv --three install
+  $ poetry install
 
 ### Manuelle Generierung
 
@@ -33,7 +33,7 @@ In zwei separaten Terminals die folgenden Befehle ausführen
 
 .. sourcecode:: console
 
-  $ pipenv shell
+  $ poetry shell
   $ pelican -o output -d -r content
 
 ## Preview Generierung

@@ -5,6 +5,7 @@ Jahrestreffen 2017
 :category: Neuigkeiten
 :tags: Jahrestreffen
 :author: Gert Vonhoff
+:slug: jahrestreffen-2017
 
 Auf dem Jahrestreffen in Wittenberg wird das 20jährige Bestehen des Editionsprojekts
 Karl Gutzkow gefeiert. Zu dem, was in dieser Zeit erreicht wurde, zählen 10 gedruckte
