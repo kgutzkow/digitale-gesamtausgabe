@@ -5,6 +5,10 @@
       <tei:titleStmt>
         <tei:title>Die Feier der Enthüllung des Goethe-Denkmals in Frankfurt a. M.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="MadleenPodewski">
+          <tei:resp>Digitale edition</tei:resp>
+          <tei:name>Madleen Podewski</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -21,11 +25,15 @@
       <tei:bibl></tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="0000">Folgt</tei:date>
+      </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #schriften-zur-literatur #die-feier-der-enthuellung-des-goethe-denkmals-in-frankfurt-a-m"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
+      <tei:change who="#MadleenPodewski" when="2020-05-04">TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
