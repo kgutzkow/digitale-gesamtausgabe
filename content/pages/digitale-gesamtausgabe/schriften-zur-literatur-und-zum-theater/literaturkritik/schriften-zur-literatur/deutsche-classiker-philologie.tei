@@ -7,11 +7,8 @@
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>Digitale edition</tei:resp>
-          <tei:name>Wolfgang Rasch</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -75,8 +72,8 @@
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item data-source-id="J">
-          <tei:seg>[Karl] Gutzkow, Heidelberg, April: Deutsche Classiker-Philologie. In: Allgemeine Zeitung. Augsburg. Nr. 97, 6. April 1876, S. 1473. (Rasch 3.76.04.06)</tei:seg>
+        <tei:item>
+          <tei:seg>J. [Karl] Gutzkow, Heidelberg, April: Deutsche Classiker-Philologie. In: Allgemeine Zeitung. Augsburg. Nr. 97, 6. April 1876, S. 1473. (Rasch 3.76.04.06)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2">
