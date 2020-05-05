@@ -77,7 +77,7 @@ then
                 poetry install --no-dev
                 yarn install --frozen-lockfile --check-files --non-interactive
                 node_modules/.bin/gulp
-                poetry run pelican -s previewconf.py -o output/preview/$branch -d content
+                poetry run pelican -s previewconf.py -o output/preview/$branch content
             fi
         fi
     done
