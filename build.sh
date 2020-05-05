@@ -17,6 +17,11 @@ then
     source pre-build
 fi
 
+echo "========================"
+echo "Fetching the latest data"
+echo "========================"
+echo
+
 git checkout -f master
 
 # Fetch all remote branches
@@ -41,6 +46,12 @@ fi
 git pull --all
 
 # Build the main site
+echo
+echo "========================"
+echo "Building the master site"
+echo "========================"
+echo
+
 poetry install --no-dev
 yarn install --frozen-lockfile --check-files --non-interactive
 node_modules/.bin/gulp
@@ -53,6 +64,11 @@ then
     do
         if [ -n "$branch" ]
         then
+            echo
+            echo "==================================="
+            echo "Building preview site $branch"
+            echo "==================================="
+            echo
             git branch | grep $branch
             if [ $? -eq 0 ]
             then
@@ -68,6 +84,11 @@ then
 fi
 
 # Get us back to the master branch
+echo
+echo "==============="
+echo "Build completed"
+echo "==============="
+echo
 git checkout -f master
 
 # Run optional post-build scripts
