@@ -1,0 +1,238 @@
+{
+    "workflow": [
+        {
+            "action": "trim-hidden"
+        },
+        {
+            "action": "trim-empty"
+        },
+        {
+            "action": "merge-styles",
+            "params": {
+                "extract_style_names": [
+                    "margin-left",
+                    "margin-right",
+                    "margin-top",
+                    "margin-bottom",
+                    "text-align",
+                    "text-indent",
+                    "font-name",
+                    "font-size",
+                    "letter-spacing",
+                    "font-style",
+                    "font-weight",
+                    "text-position"
+                ],
+                "style_mappings": {
+                    "('text-align', 'center')": "text-align-center",
+                    "('text-align', 'end')": "text-align-right",
+                    "('text-align', 'start')": "",
+                    "('text-align', 'justify')": "text-align-justify",
+                    "('font-size', '13pt')": "font-size-large",
+                    "('font-size', '12pt')": "",
+                    "('font-size', '11pt')": "",
+                    "('font-size', '10pt')": "",
+                    "('font-size', '9.5pt')": "font-size-small",
+                    "('font-size', '9pt')": "font-size-small",
+                    "('font-name', 'Arial')": "font-family-sans-serif",
+                    "('font-name', 'CG Times')": "",
+                    "('font-name', 'Times New Roman')": "",
+                    "('letter-spacing', '-0.0016in')": "",
+                    "('letter-spacing', '-0.0028in')": "",
+                    "('letter-spacing', '-0.0035in')": "",
+                    "('letter-spacing', '-0.0043in')": "",
+                    "('letter-spacing', '-0.0071in')": "",
+                    "('letter-spacing', '-0.0083in')": "",
+                    "('letter-spacing', '-0.0138in')": "",
+                    "('letter-spacing', '-0.0236in')": "",
+                    "('letter-spacing', '-0.0209in')": "",
+                    "('letter-spacing', '-0.0252in')": "",
+                    "('letter-spacing', '-0.0291in')": "",
+                    "('letter-spacing', '-0.0417in')": "",
+                    "('letter-spacing', '-0.0972in')": "",
+                    "('letter-spacing', 'normal')": "",
+                    "('letter-spacing', '0.0016in')": "",
+                    "('letter-spacing', '0.002in')": "",
+                    "('letter-spacing', '0.0028in')": "",
+                    "('letter-spacing', '0.0071in')": "",
+                    "('letter-spacing', '0.0083in')": "",
+                    "('letter-spacing', '0.0055in')": "",
+                    "('letter-spacing', '0.0043in')": "",
+                    "('letter-spacing', '0.0098in')": "",
+                    "('letter-spacing', '0.011in')": "letter-sparse",
+                    "('letter-spacing', '0.0138in')": "letter-sparse",
+                    "('letter-spacing', '0.0165in')": "letter-sparse",
+                    "('letter-spacing', '0.0181in')": "letter-sparse",
+                    "('letter-spacing', '0.0193in')": "letter-sparse",
+                    "('letter-spacing', '0.022in')": "letter-sparse",
+                    "('letter-spacing', '0.028in')": "letter-sparse",
+                    "('letter-spacing', '0.0209in')": "letter-sparse",
+                    "('margin-top', '0.0835in')": "",
+                    "('margin-left', '0in')": "",
+                    "('margin-left', '0.5in')": "",
+                    "('margin-left', '0.3937in')": "",
+                    "('margin-left', '0.1972in')": "",
+                    "('margin-right', '-0.0193in')": "",
+                    "('margin-right', '0in')": "",
+                    "('margin-bottom', '0in')": "",
+                    "('margin-bottom', '0.0555in')": "",
+                    "('margin-bottom', '0.0835in')": "",
+                    "('margin-bottom', '0.1665in')": "",
+                    "('margin-top', '0in')": "",
+                    "('font-weight', 'bold')": "font-weight-bold",
+                    "('text-indent', '0.1972in')": "",
+                    "('text-indent', '0.7874in')": "",
+                    "('font-style', 'italic')": "font-style-italic",
+                    "('text-indent', '0.5in')": "",
+                    "('text-indent', '0in')": "no-indent",
+                    "('text-position', '0% 100%')": "",
+                    "('text-position', 'super 58%')": "sup"
+                }
+            }
+        },
+        {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}p",
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "text-align-justify no-indent font-size-large"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}head",
+                            "attrs": {
+                                "style": null,
+                                "type": "level-1"
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-family-sans-serif font-size-small"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}foreign",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-family-sans-serif"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}foreign",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "attrs": [
+                                {
+                                    "name": "style",
+                                    "value": "font-style-italic"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}pb",
+                            "attrs": {
+                                "style": null,
+                                "n": "text()"
+                            },
+                            "text": null
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span",
+                            "attrs": [
+                                {
+                                    "name": "style"
+                                }
+                            ]
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}hi"
+                        }
+                    },
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}span"
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "action": "modify-elements",
+            "params": {
+                "rules": [
+                    {
+                        "match": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}pb",
+                            "attrs": [
+                                {
+                                    "name": "n",
+                                    "value": " "
+                                }
+                            ]
+                        },
+                        "action": {
+                            "delete": true
+                        }
+                    },
+                    {
+                        "match": {
+                            "text": " "
+                        },
+                        "action": {
+                            "tag": "{http://www.tei-c.org/ns/1.0}seg",
+                            "attrs": {
+                                "style": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "action": "simplify-tree"
+        },
+        {
+            "action": "strip-whitespace"
+        }
+    ],
+    "post-process": [
+        {
+            "action": "regex-replace",
+            "params": {
+                "regex": "n=\"\\[([0-9XVIxvi]+)\\]\\s*\"",
+                "replace": "n=\"\\g<1>\""
+            }
+        }
+    ]
+}
