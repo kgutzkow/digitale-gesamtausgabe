@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,128 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-03-05">Fassung 1.1, TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="221"/>
+        <tei:seg> Volk und Publicum.</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:hi style="font-size-small">An unsere Leser und Mitarbeiter.</tei:hi>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Den Fürsten nahen sich nicht so viele Schmeichler wie den Völkern jetzt Aerzte ihrer Leiden, Propheten ihrer Schicksale, Ausleger ihrer Träume.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Seit funfzig Jahren besonders ist dieser neue Liebedienst, dies Zuhofegehen bei der Majestät des Volks, dies Hutabziehen und Demüthigen vor dem großen ungekrönten Souverän, Masse genannt, in die Mode gekommen. Was schwänzeln die Kammerherren und fliegen nach den gnädigen Winken auch dieses oft sehr ungnädigen Gebieters! Der Souverän, heißt es, liegt, in Elend gehüllt, auf Stroh hingestreckt und die hohen Agnaten und Cognaten, die Vetter Liebden und Schwäger Durchlauchts, die ein-, zwei-, dreijährigen Buben und Mägdlein, schreien nach Brot und Kartoffeln und vor ihnen knieen alle Weisen des Morgen- und Abendlandes, singen Lobgesänge und räuchern mit Myrrhen und Aloe. Kein Potentat genießt soviel Verehrung jetzt wie das Volk. Für die Heilung seiner Schäden und Gebrechen werden Preise ausgeschrieben, tausend Vereine sind ihm zu Liebe schon gestiftet und abertausend sind im Entstehen begriffen, alle Parteien der Welt – und wir haben deren schon ein wenig mehr als nur ein halb Dutzend – drängen sich zu dem hohen Patienten, fühlen ihm den Puls, bieten ihm ihre Latwergen und Arzneien, ihren leiblichen und geistlichen Trost an, und die Poeten, die nun gar, die sich sonst von den Völkern die Schleppen tragen ließen </tei:seg>
+        <tei:pb n="222"/>
+        <tei:seg> und jetzt den Völkern sie tragen, die Poeten kommen vollends auf den Zehen geschlichen, wickeln in dem Abfall des Volkselends ihre Verse ein, verwässern ihren Nektar, verdünnen ihre Ambrosia, Alles dem Volke zu Liebe, dem großen majestätischen, souveränen Volke!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Volk und kein Ende! Der alte ehrliche, solide Stand, </tei:seg>
+        <tei:hi style="letter-sparse">Publicum</tei:hi>
+        <tei:seg> genannt, ist für die Schriftsteller ganz abgeschafft. Publicum, wie altfränkisch erscheinst du diesem Geschlecht! Publicum, das ist so ein alter Vetter in chocoladefarbenem Leibrock mit langen Schößen, einem gebrannten Jabot über der langen, bis an den Nabel gehenden Piquéweste, hirschledernen Handschuhen, appetitlicher Wäsche und etwas steifen, pedantischen Manieren! Publicum, du abgesetzte Größe, die dem altfränkischen Zeitalter angehört, geh’ in die Rumpelkammer und setze dich neben einem ausgestopften General aus dem Siebenjährigen Kriege oder einem alten Costümebilde aus den Zeiten Maria Theresiens zur Ruhe! Die Kunst, die Literatur, die Wissenschaft existirt nur noch – fürs </tei:seg>
+        <tei:hi style="letter-sparse">Volk</tei:hi>
+        <tei:seg>! Das Volk, eine große, imposante Amazone mit der Mauerkrone auf dem Haupte, hat das kleine Männchen Publicum verbannt, ihm höchstens eine der Falten ihrer bauschigen Gewänder als Wohnort angewiesen, wo es mit der Brille Bücher in Ganzfranzbänden studiren und dann und wann zur Herzstärkung eine Prise nehmen kann.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ueberall Volksbibliotheken, Volksgeschichten! Volkserzählungen! Volkston, Volksmoral und ein zugleich gewünschter größtmöglichster Volksabsatz!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Wir müssen ernster werden und uns mit diesem neuen Herrscher im Reiche des Geschmacks, der Popularität, bekannter zu machen suchen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Volksliteratur kann zweierlei bedeuten: Büchlein, kommst du vom Volke oder Büchlein, gehst du zum Volke?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Kommst du vom Volke, so bringst du uns wol die genaueste Kunde mit, wie es unter dem Dache der Armuth, hinterm Pfluge und auf dem Heuboden, hinter dem Werkstattstische und unter der Dachkammer, da, wo die Gesellen und Lehrlinge nicht weit von der Regentraufe schlafen, aussieht. Diese Bücher haben wir gewiß Alle gern, wenn sie Wahrheit bringen, dem Leben abgelauscht sind, ein gutes, sanftes und nur höchstens zur Förderung des Guten einmal ein bischen zorniges Herz verrathen. Diese von unten kommenden Bücher und Lebensbilder sind uns so willkommen, daß wir sie gerade noch immer höher und höher in Gunst steigen sehen. Auf seidenen Polstern, auf sammetnen Divans, unter leuchtenden Walrathkerzen hat man schon die vornehmsten Damen über die kleine Volkswelt, über deine Gedanken hinterm Pfluge, Bauer, deine Gedanken auf dem Heuboden, Knecht, deine Gedanken hinter der Drechselbank, Gesell, und deine – falls du nicht schnarchst – Gedanken unter der Dachkammer bei der Regentraufe, Lehrling, lachen, weinen gesehen und euer Elend und euer Glück, eure Poesie und eure Prosa las sich gedruckt ganz vortrefflich in den weißen, zarten, durchsichtigen Fingerchen mit den blitzenden Diamantringen und den langen, wohlgepflegten chinesischen Nägeln. Ja sogar höchst verdorbene ästhetische Mägen, Mägen, die an einem ewigen kritischen Sodbrennen litten, haben sich durch die einfache ländliche und kleinstädtische Kost dieser Lectüre wieder erholt und alle jene Unverdaulichkeiten überwunden, welche die Trüffel- und Mixed Pickles-Literatur bei ihnen zurückließ.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Nun aber die Bücher, die </tei:seg>
+        <tei:hi style="letter-sparse">zum Volke zurückgehen</tei:hi>
+        <tei:seg> sollen!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Darf ich da ein Geheimniß verrathen?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es besteht ganz einfach darin, daß sich die Menschengruppen, die wir auf dem seidenen Polster beim Scheine der Walrathkerzen Volk nennen, eigentlich weit mehr geehrt sehen, wenn man sie wieder in Blutsverwandtschaft mit dem alten Vetter Publicum bringt. </tei:seg>
+        <tei:hi style="letter-sparse">Der Trieb, sich zu bilden, ist allgemein</tei:hi>
+        <tei:seg>. Erst kommt freilich Lesen, Schreiben, Rechnen; das bringt der Knecht, der mit seinem Herrn auf den Wollmarkt fährt, schon leidlich zurecht. Aber Lesen, Schreiben, Rechnen thut’s jetzt allein nicht mehr; man will weiter. Die Literatur nun aber darum so blindlings hinauswerfen auf die Knechte, die zum Wollmarkt fahren, die Bücher einschmuggeln bei Intelligenzen, denen der nächstjährige Kalender mehr werth ist als Schiller und Goethe – laßt das doch den schwarzen Herren, die in Schafskleidern (ich sage noch nicht, daß Wölfe darin stecken) unter den Wollsäcken im Junimarkte herumschleichen und geistliche Bekehrungsschriftchen den Leuten mit auf die Rückreise heimlich in die Taschen stecken, „Martha“, den „Hobelmann“ und Aehnliches aus Hamburg und Halle. Die Volksliteratur, die rechte, soll billigerweise auch da erst anfangen, </tei:seg>
+        <tei:hi style="letter-sparse">wo die brütende Nacht der geistigen Blindheit aufhörte</tei:hi>
+        <tei:seg>, da, wo ein Arbeiter, ein Handwerker, ein Ackersmann, ein Jäger, ein Schiffer – wer nennt die Millionen Wege, die uns durchs Leben führen müssen! – </tei:seg>
+        <tei:hi style="letter-sparse">die Augen aufgeschlagen hat und mit emporsehen will</tei:hi>
+        <tei:seg>, um an den Sternen sein Hoffen zu befestigen, die treibende Macht des Denkens im Sonnenstrahl zu spüren. Da, wo er ein Buch mit wißbegieriger Freude aufschlägt, eine Zeitung mit naivem Vertrauen selbst bis in die Annoncen liest und sich sogar schon an ihre oft unreinen Quellen, Sümpfe und die darauf schwimmenden Enten gewöhnt hat wie Unsereins, mit einem Worte, da fange die Volksliteratur an, wo das Volk den </tei:seg>
+        <tei:pb n="223"/>
+        <tei:seg> Trieb hat, zum Publicum zu gehören! Nur für diesen Trieb zu schreiben kann dem Autor Freude machen. Nur diesem Verlangen nach Licht, warmer Belehrung, Rath und Aufschluß über das Leben und seine Räthsel wird die Feder des Denkers und Dichters gern entgegenkommen. Denen im Volke wird sie entgegenkommen, die sich bilden, erheben, geistig kräftigen, in einem Höhern sammeln wollen! Denen, die sich von den Wollsäcken, dem Rechenknecht, der Fuhrmannslogik, dem Kalender und den dummen Geschichten jener klugen schwarzen Herren freimachen wollen!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Uebers Volk schreiben ist nicht fürs Volk schreiben. Volksliteratur sei für dasjenige Volk berechnet, das sich zum Publicum erheben will. Der Ackersmann wird sich freuen, wenn man seine schon erwähnten Empfindungen hinterm Pfluge und unterm Heuboden richtig trifft und sie des Aufzeichnens für werth hält, aber gerade auch er will ja die Welt kennen lernen, die erst hinter seinem Marksteine anfängt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Dies unklare, neuerdings beliebte Gerede über Volksliteratur wurde besonders Veranlassung, von jenen Im-Trüben-Fischern benutzt zu werden. Da sind nicht blos Einzelne, sondern ganze Vereine zum Deutschen Michel herangetreten und haben ihm geschmeichelt: Ehrliche, biedere Seele! Reines, unverdorbenes Kind der Natur! Du braver Familienvater! Du treuer Handwerker! Hier hast du Schriften, die nur dir zu Liebe geschrieben, dir zu Nutz und Frommen gedruckt und sogar schon eingebunden sind! Wir geben sie dir halb umsonst. Lies sie, gib sie deinem Nachbar! Hast du Dienstboten, Lehrlinge, theile ihnen diese Blätter mit! In Winterstunden, in Sommerabenden, am Sonntag Nachmittag werden euch diese Geschichten unterhalten, denn sie schildern allerlei Abenteuer, gute und böse, fromme Menschen, denen Alles zum Besten dient, Ruchlose, die in kirchlichen, politischen, sittlichen Dingen die großen Prahler waren und zuletzt schmählichen Bankrott machten! Zuchthaus, Galgen und Rad ist das Ende aller dieser Müßiggänger, Kirchenversäumer, Religionsspötter, Schwadroneurs, Freischärler, Barrikadenkämpfer u. s. w. Wo man jetzt hinsieht, hat man wie gegen Motten und Schaben dies „Gegengift“ schon in die Schränke und Tische prakticirt. Nach dem schlimmberufenen Satze, daß der Zweck die Mittel heilige, hüpfen sogar die ehrwürdigsten Herren der sogenannten Innern Mission dem lustigen Reigen der Musen nach und locken die sündige Welt auch mit den bunten Klängen, die der verwöhnten Welt allein noch gefallen wollen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es ist die Pflicht einer freien Auffassung der Zeit und des Lebens, diesem geheimen Wühlen immer und überall Kampf anzubieten. Sie soll sich dazu bewaffnen mit dem gleichen Rüstzeuge. Sie soll die Dichter an jede gefährdete Stelle im Volksleben führen und sie ermuthigen, zu Denen zu reden, die sie nicht gewohnt waren, seither im Kreise ihrer Hörer vorauszusetzen. Du, der du bisher nur gesprochen hast für das Ohr Derer, die dich aufsuchten, tritt zu jenen Massen hin, die zu schüchtern waren, sich dir zu nähern! Sprich so mit den Menschen, daß sie dich verstehen! Verschlägt dich eine Reise in eine Herberge, wo Abends allerlei Volk beisammensitzt, umringelt von Tabackswolken – erinnere dich einer solchen Abendeinkehr im Goldenen Einhorn oder dem Silbernen Mond eines kleinen Städtchens – höre zu! Da sitzen Menschen meilenweit entfernt von der großen Heerstraße der Ereignisse. Sie lesen, was die große Welt schon vergessen hat, sie zanken über die einzige Zeitung, die sie sich halten können, sie discouriren über Krieg und Frieden, die Heuernte und die Kartoffelkrankheit, über den Kometen und ein Eisenbahnunglück, vielleicht gar noch das von Versailles. Ein Guter Abend! begrüßt dich beim Eintritt. Denke dir, du wolltest dich in dem Städtlein wählen lassen zu einer Ersten oder Zweiten unserer königlichen oder großherzoglichen Ständekammern, wie würdest du da nicht den Mund aufthun und deine Weisheit nicht unter den Scheffel stellen? Glücklicher Autor, es handelt sich nicht um Wählen und Gewähltwerden! Nur reden und schreiben sollst du so, daß du in einem solchen Kreise verstanden wirst. Die Talente für ein treues Widerspiegeln des Volkslebens sind nach Hebel, Berthold Auerbach, dem verstorbenen und leider in der Tendenz gehässigen Bitzius rar und das </tei:seg>
+        <tei:hi style="letter-sparse">Nachahmen</tei:hi>
+        <tei:seg> in diesem Fache machte beinahe schon das Fach selbst unangenehm. Man rede aber nur und schreibe, was man auf dem Herzen hat, nur nicht Lateinisch, nicht Griechisch, nicht Hebräisch und nicht Hegelisch. Alles Uebrige eignet sich das Volk gern an, nämlich das Volk, dem man nicht die Literatur zwangsweise in die offenen Fensterladen wirft, es mag sie nehmen wollen oder nicht, sondern jenes Volk, das uns entgegenkommt, das sich bilden, sammeln, geistige Nahrung suchen, erheitern, belehren will; jenes Volk, das sich beleidigt fühlt, wenn man kindisch mit ihm spricht, ihm die Speisen, die andere Mägen verdauen können, erst kleinkaut; jenes Volk, das auf eine Abscheidung von der dumpf hinbrütenden Masse etwas </tei:seg>
+        <tei:hi style="letter-sparse">hält</tei:hi>
+        <tei:seg> und wol Lust bezeugt, sich in den schönen, großen, ehrenwerthen </tei:seg>
+        <tei:hi style="letter-sparse">Bund des Publicums</tei:hi>
+        <tei:seg> aufnehmen zu lassen, diesen Bund, den ihr blasirten Kunstrichter, die ihr euern durch Delicatessen überfütterten Geschmack in der Milchcur einer </tei:seg>
+        <tei:hi style="letter-sparse">chimärischen</tei:hi>
+        <tei:seg> Volksliteratur wiederherstellen wollt, nicht verunglimpfen dürft!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="224"/>
+        <tei:seg> Wer sich getraut, einem großen Publicum etwas innerlichst Ergreifendes aus Wissenschaft und Leben so vorzutragen, daß sich nicht Einer nach dem Andern heimlich abdrückt und seiner Wege geht, wo er doch gerade, da es Sonntag oder Feierabend ist, Zeit hätte zu bleiben, der trete, das sei zum neuen Jahre angebracht, zuweilen auch an die Flammen unsers „häuslichen Herdes“ und melde sich, daß die Reihe, sie zu schüren, an ihn komme! Wer Thatsachen erzählt, wird freilich Allen der Liebste sein, besonders wenn man sich aus ihnen etwas fürs Leben entnehmen kann, aber auch ein nützliches, belehrendes, abhandelndes, nur nicht lateinisches Wort wird in den Spalten unserer Wochenschrift immer seine dankbaren Hörer finden, es möge kommen, von Wem es wolle.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J. [Anon.:] Volk und Publicum. An unsere Leser und Mitarbeiter. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 14, [6. Januar] 1855, S. 221–224. (Rasch 3.55.01.06.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

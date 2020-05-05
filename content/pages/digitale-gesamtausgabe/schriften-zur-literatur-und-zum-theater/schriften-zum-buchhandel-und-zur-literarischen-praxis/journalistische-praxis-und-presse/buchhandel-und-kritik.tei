@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,91 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-03-09">Fassung 1.1, TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="540"/>
+        <tei:seg> Buchhandel und Kritik.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Die Buchhändler schicken ihre neuesten Verlagsartikel an die gelesensten Zeitschriften zur Recension.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es geht eine mehr oder weniger verbürgte Sage, derzufolge die Zeitschriften für diese oft massenhaften Anhäufungen in ihren Redactionsbureaux keinen Platz haben, sondern sie zum Antiquar, zum Leihbibliothekar oder in die Auction schicken – oft freilich, ohne die Bücher kaum angesehen, zuweilen sie nicht einmal aufgeschnitten zu haben.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die „Rheinische Verlagshandlung“ in Bonn, geführt von einem Schriftsteller, die die schlechten Gewohnheiten der Redactionen kennen muß (H. Oelbermann), versendet ihre neuesten Verlagsartikel an die Zeitschriften mit folgenden Worten: „Hierbei empfangen Sie in Ihrer Eigenschaft als </tei:seg>
+        <tei:hi style="letter-sparse">räsonnirendes kritisches</tei:hi>
+        <tei:seg> Organ folgende Neuigkeiten unsers Verlags – Wir werden nur mit solchen Organen eine dauernde Verbindung unterhalten, </tei:seg>
+        <tei:hi style="letter-sparse">welche unser Vertrauen</tei:hi>
+        <tei:seg> durch gewissenhafte Beurtheilung </tei:seg>
+        <tei:hi style="letter-sparse">rechtfertigen</tei:hi>
+        <tei:seg> und sich also nicht mit drei nichtssagenden Zeilen und mit der beliebten Phrase «</tei:seg>
+        <tei:hi style="letter-sparse">Mangel an Raum</tei:hi>
+        <tei:seg>» den </tei:seg>
+        <tei:hi style="letter-sparse">Verpflichtungen ihrer literarischen Existenz entziehen</tei:hi>
+        <tei:seg>, um die Privatbibliothek eines Mitarbeiters oder das Antiquarlager des resp. Buchhändlers </tei:seg>
+        <tei:hi style="letter-sparse">auf wohlfeilste Weise zu bereichern</tei:hi>
+        <tei:seg>.“</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>In diesen geharnischten Worten liegt eine nähere Aufklärung über den Misbrauch, der mit Recensionsexemplaren getrieben werden kann, der aber mehr die Herren Buchhändler selbst als die Schriftsteller zu treffen scheint. Wir erhielten von H. Costenoble in Leipzig drei Bändchen „Künstlerbilder“ von A. von Sternberg, die uns anfangs durch ihre äußere Ausstattung wahrhaft erschreckten. Nicht nur, daß auf dem Titel jedes Bändchens „Recensionsexemplar“ </tei:seg>
+        <tei:hi style="letter-sparse">gedruckt</tei:hi>
+        <tei:seg> zu lesen steht, sondern jeder einzelne </tei:seg>
+        <tei:hi style="letter-sparse">Bogen</tei:hi>
+        <tei:seg> sogar trägt die besondere Signatur „Recensionsexemplar!“ Anfangs glaubten wir, diese förmliche Plombirung eines uns eingesandten Buchs hätte den Zweck, das Gewissen des Recensenten einzuschüchtern und ihm auf jeder 16ten Seite zuzurufen: „Schäme dich aber und verkauf’ uns nicht!“ Indessen nach den Worten H. Oelbermann’s scheint hier eine Warnung vor andern Vergehen gemeint zu sein, deren Zusammenhang wir allerdings als Laien im Buchverkehr nicht ganz verstehen. Nur so viel begreifen wir, daß die Schuldigen in diesem Falle die buchhändlerischen Collegen selbst sein müssen. H. Costenoble hat seine plombirte Ausgabe der Sternberg’schen „Künstlerbilder“ wol gar nur deshalb veranstaltet, um die Exemplare, die er als Recensionsexemplare verschickt, nicht wieder auf sein Lager als gewöhnliche Buchverkehrsexemplare </tei:seg>
+        <tei:hi style="letter-sparse">zurück</tei:hi>
+        <tei:seg>zubekommen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Bestätigt sich diese Deutung, so freut es uns, dem Reiz widerstanden zu haben, Herrn H. Costenoble seine plombirten Sternberg’schen „Künstlerbilder“, ein ohne Zweifel anregendes und geistvolles Buch, zurückzuschicken.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J. [Anon.:] Buchhandel und Kritik. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 27, [4. Juli] 1861, S. 540. (Rasch 3.61.07.04.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

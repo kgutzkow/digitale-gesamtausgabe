@@ -225,7 +225,7 @@
         <tei:seg> gehen können. Ein Krankenhausbesuch ist eine Lehre, die nach "Satanella" und Aladin's "Wunderlampe" sehr nützlich, sehr heilsam sein kann. Aber Bethanien verläßt man doch mit dem Gefühl, daß hier, wie in unserer Zeit überhaupt, noch mehr Menschen krank sind, als die da offen eingestehen, des Arztes bedürftig zu sein.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global" xml:id="global">
+    <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
@@ -238,13 +238,13 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Gutzkows Beitrag </tei:seg>
         <tei:q>Eine Woche in Berlin</tei:q>
         <tei:seg> wurde zuerst in den "Unterhaltungen am häuslichen Herd" veröffentlicht und zweiundzwanzig Jahre später weitestgehend unverändert in die zweite Ausgabe der </tei:seg>
@@ -267,16 +267,18 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent">
+      <tei:p style="no-indent text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>

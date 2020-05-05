@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,94 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-03-06">Fassung 1.1, TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="135"/>
+        <tei:seg> Die Journale Hamburgs.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Volksblätter, die jedoch das Weichbild der Stadt nicht überschreiten, sind hier am gelesensten und haben Tausende von Abnehmern, so der "</tei:seg>
+        <tei:hi style="letter-sparse">Beobachter</tei:hi>
+        <tei:seg>", der besonders durch seine officiellen Polizeiberichte über Diebstähle u. s. w. für das Volk sehr interessant ist. "</tei:seg>
+        <tei:hi style="letter-sparse">Der Erzähler</tei:hi>
+        <tei:seg>" bewegt sich in demselben Gebiete, doch ist er nicht so authentisch und darum sogar noch beliebter; denn das Gerücht spannt immer mehr, als die Wahrheit. In die "</tei:seg>
+        <tei:hi style="letter-sparse">Nachrichten</tei:hi>
+        <tei:seg>" schreibt der jetzt vergessene Humorist Prätzel Theaterkritiken, die von der Direktion des Theaters selbst inspirirt werden. Die "</tei:seg>
+        <tei:hi style="letter-sparse">Originalien</tei:hi>
+        <tei:seg>" finden durch das Mitleid für den erblindeten Herausgeber noch immer Theilnahme; das Originelle an ihnen ist bekanntlich, daß sie durchaus </tei:seg>
+        <tei:hi style="letter-sparse">keine</tei:hi>
+        <tei:seg> Originalien, sondern nur Uebersetzungen bringen. Literärisch am bedeutsamsten ist unstreitig der "</tei:seg>
+        <tei:hi style="letter-sparse">Telegraph</tei:hi>
+        <tei:seg>", an welchem die besten deutschen Schriftsteller arbeiten. Er soll einer sich fortwährend steigernden Verbreitung genießen und zählt gegenwärtig einige über 600 Abnehmer</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+        <tei:seg>. "</tei:seg>
+        <tei:hi style="letter-sparse">Argus</tei:hi>
+        <tei:seg>" ist in den Verlag eines unternehmungslustigen Buchhändlers übergegangen, der wahrscheinlich mehr für das Blatt thun wird, als der frühere Besitzer that, ein Buchdrucker. Die "</tei:seg>
+        <tei:hi style="letter-sparse">literarischen Blätter der Börsenhalle</tei:hi>
+        <tei:seg>" haben noch immer 500 Abnehmer im Durchschnitt, leiden aber an dem Mangel einer geordneten Redaktion, und sind im Verkürzen der ihnen meistens eingesandten Aufsätze nicht streng genug. Die Artikel des Herrn von Florencourt sind zu weitschweifig und wiederholen meist das schon öfters Gesagte. Der Hamburger "</tei:seg>
+        <tei:hi style="letter-sparse">Correspondent</tei:hi>
+        <tei:seg>" ist anerkannt eine der besten deutschen Zeitungen und zählt mehr als 3000 Abnehmer.</tei:seg>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:seg>*) Somit wäre die Notiz berichtigt, welche </tei:seg>
+          <tei:hi style="letter-sparse">Bäuerle</tei:hi>
+          <tei:seg>’s „Theaterzeitung“ vor Kurzem einem ausländischen Journal nachschrieb: daß der </tei:seg>
+          <tei:hi style="letter-sparse">Telegraph</tei:hi>
+          <tei:seg> – unstreitig eines der trefflichsten, vielleicht das trefflichste Journal Deutschlands – nur 70 Abnehmer hätte!!    D. Red.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J. [Anon.; Verf. unges.:] </tei:seg>
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>*</tei:seg>
+          <tei:hi style="sup">* </tei:hi>
+          <tei:seg>Die Journale Hamburgs. In: Ost und West. Prag. Nr. 33, 24. April 1839, S. 135. (Rasch *3.39.04.24.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
