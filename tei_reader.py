@@ -31,7 +31,7 @@ def process_change(change, doc):
     match = re.fullmatch(r'([0-9]+\.[0-9]+)(?::(.*))?', change.text)
     if match:
         editors = [doc.xpath(f'//tei:respStmt[@xml:id="{editor[1:]}"]/tei:name/text()', namespaces=ns) for editor in change.attrib['who'].split(' ')]
-        editors = [editor[0] for editor in editors if editor]
+        editors = [editor[0].strip() for editor in editors if editor]
         if editors:
             return {'version': match.group(1),
                     'text': match.group(2),
