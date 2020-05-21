@@ -32,11 +32,23 @@ def sgroupby(environment, items, attribute):
     return result
 
 
+def fancy_date(date):
+    date = [part[1:] if part.startswith('0') else part for part in date.split('-')]
+    if len(date) == 1:
+        return date[0]
+    elif len(date) == 2:
+        return f'{date[1]}.{date[0]}'
+    elif len(date) == 3:
+        return f'{date[2]}.{date[1]}.{date[0]}'
+    return ''
+
+
 def install_extra_filters(generator):
     """Install the extra filters."""
     generator.env.filters['json'] = json.dumps
     generator.env.filters['sha256'] = hash_sha256
     generator.env.filters['sgroupby'] = sgroupby
+    generator.env.filters['fancy_date'] = fancy_date
 
 
 def register():

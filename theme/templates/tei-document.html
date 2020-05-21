@@ -35,7 +35,7 @@
     <aside class="cell small-12 medium-4 metadata">
       <button class="button primary expanded" data-action="read">Lesen</button>
       <dl>
-        <dt>Organisation</dt>
+        <dt></dt>
         <dd>
           <ol class="no-bullet">
             {{ parent_list(page.parent) }}
@@ -59,24 +59,12 @@
         <dt>Druckansicht des Textes</dt>
         <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
         {% endif %}
-        {% if page.editors %}
-          {% for grouper, editors in page.editors|groupby('role') %}
-            <dt>{{ grouper }}</dt>
-            <dd>
-              <ul class="no-bullet no-indent">
-                {% for editor in editors %}
-                  <li>{{ editor.name }}</li>
-                {% endfor %}
-              <ul>
-            </dd>
-          {% endfor %}
-        {% endif %}
         {% if page.revisions %}
-        <dt>Geschichte der Versionen in der Internetausgabe</dt>
+        <dt>Fassung</dt>
         <dd>
           <ul class="no-bullet">
-            {% for revision in page.revisions | reverse() %}
-              <li class="ellipsis"><abbr title="{{ revision.date }}: {{ revision.revision }} [{{ revision.name | join(', ') }}]" data-tooltip data-position="bottom" data-alignment="left">{{ revision.revision }}</abbr> [{{ revision.name | join(', ') }}]</li>
+            {% for revision in page.revisions %}
+              <li>{{ revision.version }} durch {% for editor in revision.editors %}{{ editor }}{% if loop.length > 0 and not loop.last%}{% if loop.index0 == loop.length - 2 %} und {% else %}, {% endif %}{% endif %}{% endfor %}, {{ revision.date|fancy_date }}{% if revision.text %}, {{ revision.text }}{% endif %}</li>
             {% endfor %}
           </ul>
         </dd>

@@ -27,6 +27,19 @@ MONTH_MAPPING = {
 }
 
 
+def process_change(change, doc):
+    match = re.fullmatch(r'([0-9]+\.[0-9]+)(?::(.*))?', change.text)
+    if match:
+        editors = [doc.xpath(f'//tei:respStmt[@xml:id="{editor[1:]}"]/tei:name/text()', namespaces=ns) for editor in change.attrib['who'].split(' ')]
+        editors = [editor[0] for editor in editors if editor]
+        if editors:
+            return {'version': match.group(1),
+                    'text': match.group(2),
+                    'date': change.attrib['when'],
+                    'editors': editors}
+    return None
+
+
 class TeiDocumentReader(BaseReader):
     """Reader that converts Gutzkow TEI into the structure needed for Pelican and the HTML needed for the
     TEI Reader using a series of XSLT transformations."""
@@ -49,13 +62,7 @@ class TeiDocumentReader(BaseReader):
                     'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
                                  'name': str(editor.xpath('./tei:name/text()', namespaces=ns)[0])}
                                 for editor in doc.xpath('//tei:respStmt', namespaces=ns)],
-                    'revisions': [{'revision': change.text,
-                                   'date': change.attrib['when'],
-                                   'name': [str(doc.xpath("//tei:respStmt[@xml:id='%s']/tei:name/text()" % resp[1:],
-                                                          namespaces=ns)[0])
-                                            for resp in change.attrib['who'].split(' ')]}
-                                  for change in doc.xpath('//tei:change', namespaces=ns)
-                                  if 'when' in change and 'who' in change and change.text],
+                    'revisions': [change for change in [process_change(change, doc) for change in doc.xpath('//tei:change', namespaces=ns)] if change],
                     'extract': '',
                     'template': 'tei-document'}
         if doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns):
