@@ -8,13 +8,13 @@ stages:
   - validate
   - build
 
-dependency_scanning:
-  stage: validate
-  only:
-    - master
-  variables:
-    DS_DISABLE_DIND: "true"
-    DS_PYTHON_VERSION: "3.6"
+#dependency_scanning:
+#  stage: validate
+#  only:
+#    - master
+#  variables:
+#    DS_DISABLE_DIND: "true"
+#    DS_PYTHON_VERSION: "3.6"
 
 build:
   stage: build
