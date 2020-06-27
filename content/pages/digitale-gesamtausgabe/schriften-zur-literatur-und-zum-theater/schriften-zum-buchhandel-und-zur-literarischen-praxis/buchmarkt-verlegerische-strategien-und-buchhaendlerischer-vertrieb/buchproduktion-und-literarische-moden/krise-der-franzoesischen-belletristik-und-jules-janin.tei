@@ -15,8 +15,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
+          <tei:resp>Kollationierungskorrektur</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -43,11 +46,12 @@
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
       <tei:change who="#WolfgangRasch" when="2020-03-05">Fassung 1.1, TEI-Auszeichnung</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-06-27">Fassung 1.2, Kollationierungskorrektur</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="251"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Krise der französischen Belletristik und Jules Janin.]</tei:hi>
@@ -55,7 +59,7 @@
       <tei:p style="no-indent text-left">
         <tei:seg>* Auch der französische belletristische Buchhandel hat Bankerott gemacht. Eine Menge junger Romantiker, die auf der vierten Seite der Zeitungen schon unsterblich waren (die Zeile 1 Franc 50 Centimes) mußten wieder in das Chaos der </tei:seg>
         <tei:pb n="252"/>
-        <tei:seg> Nichtexistenz zurück. Sie konnten keine Verleger, oder besser gesagt, die Verleger konnten keine Capitalisten mehr finden. Aus diesem Schiffbruch von Genie und Albernheit, Geist und Fadheit, Phantasie und schlechten Sitten hat sich nur Einer gerettet, Jules Janin, der apportirende Pudel der Tagesconversation, die Ephemere des Feuilletons, die täglich sterbende und täglich vom Sonnenschein neu ausgebrütete, Jules Janin, der Schatten jedes Ereignisses, das Echo jeder Begebenheit, der Daguerre des Tages, der in der unausgesetzt schaukelnden Bewegung der Mode und der kleinen Ereignisse jeden nur einen Moment fixirt, Jules Janin, der Feuilletonist der </tei:seg>
+        <tei:seg> Nichtexistenz zurück. Sie konnten keine Verleger, oder besser gesagt, die Verleger konnten keine Capitalisten mehr finden. Aus diesem Schiffbruch von Genie und Albernheit, Geist und Fadheit, Phantasie und schlechten Sitten hat sich nur Einer gerettet, Jules Janin, der apportirende Pudel der Tagesconversation, die Ephemere des Feuilletons, die täglich sterbende und täglich vom Sonnenschein neu ausgebrütete, Jules Janin, der Schatten jedes Ereignisses, das Echo jeder Begebenheit, der Daguerre des Tages, der in der unausgesetzt schaukelnden Bewegung der Mode und der kleinen Ereignisse jeden nur einen Moment fixen Moment fixirt, Jules Janin, der Feuilletonist der </tei:seg>
         <tei:foreign>Debats</tei:foreign>
         <tei:seg>. Dafür wird er beneidet, angefeindet, man nennt ihn den Lakai des Herrn Bertin </tei:seg>
         <tei:foreign>ainé</tei:foreign>
@@ -67,22 +71,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -90,10 +94,10 @@
           <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 63, [17.] April 1840, S. 251–252. (Rasch 3.40.04.17.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -102,17 +106,20 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">1,15</tei:citedRange>
-        <tei:seg> </tei:seg>
-        <tei:lem>Moment fixirt</tei:lem>
-        <tei:seg> </tei:seg>
-        <tei:sic>Moment fixen Moment fixirt</tei:sic>
+        <tei:seg>In der Buchausgabe wurde ein Texteingriff vorgenommen, der rückgängig gemacht wurde:</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">111,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>jeden nur einen Moment fixirt</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>jeden nur einen Moment fixen Moment fixirt</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
