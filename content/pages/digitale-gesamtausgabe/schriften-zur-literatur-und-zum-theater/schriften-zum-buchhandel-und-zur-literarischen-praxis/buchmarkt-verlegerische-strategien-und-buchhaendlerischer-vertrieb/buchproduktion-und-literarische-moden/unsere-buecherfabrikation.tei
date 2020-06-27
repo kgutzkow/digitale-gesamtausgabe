@@ -15,8 +15,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
+          <tei:resp>Kollationierungskorrekturen</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -43,35 +46,36 @@
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
       <tei:change who="#WolfgangRasch" when="2020-03-05">Fassung 1.1, TEI-Auszeichnung</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-06-27">Fassung 1.2, Kollationierungskorrekturen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="240"/>
         <tei:seg> Unsere Bücherfabrikation.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Wahrhaft schwindelerregend war in letzter Weihnachtzeit wieder der Anblick der zahllosen neuen Jugendschriften, die in den Zeitungen angeboten wurden, ebenso wie der Sammlungen von Musterstellen, Blumenlesen, Gedenk- und Spruchbüchern aus den Classikern und neuen Dichtern u. s. w. Die Schuld dieser Ueberflutung trägt nicht allein der schriftstellerische Industrialismus, die materielle Noth oder die Eitelkeit, sondern zum größern Theile auch unser Buchhandel, der seine vortrefflichen Seiten hat, aber auch in der Meinung, daß jede einzelne kleine Stadt in Schwaben, Kurhessen, Böhmen ihr Contingent zum großen Büchermarkte liefern müsse, Unglaubliches leistet. Fast möchte man versucht sein, dem Börsenvorstand in Leipzig vorzuschlagen, er möchte das Privilegium, Kinderschriften und Anthologieen drucken zu lassen, die Reihe herum alle fünf Jahre nur an ein paar Buchhändler vertheilen und die vorigen Verleger verpflichten, sich im Interesse des guten Geschmacks und der Ehre unserer Nation, als einer scheinbar nichts als Papier producirenden, diese Fabrikation zu versagen. Wenigstens wird es so in Dresden mit dem Backen der Fastenbrezeln gehalten.</tei:seg>
+        <tei:seg>Wahrhaft schwindelerregend war in letzter Weihnachtzeit wieder der Anblick der zahllosen neuen Jugendschriften, die in den Zeitungen angeboten wurden, ebenso wie der Sammlungen von Musterstellen, Blumenlesen, Gedenk- und Spruchbüchern aus den Classikern und neuern Dichtern u. s. w. Die Schuld dieser Ueberflutung trägt nicht allein der schriftstellerische Industrialismus, die materielle Noth oder die Eitelkeit, sondern zum größern Theile auch unser Buchhandel, der seine vortrefflichen Seiten hat, aber auch in der Meinung, daß jede einzelne kleine Stadt in Schwaben, Kurhessen, Böhmen ihr Contingent zum großen Büchermarkte abliefern müsse, Unglaubliches leistet. Fast möchte man versucht sein, dem Börsenvorstand in Leipzig vorzuschlagen, er möchte das Privilegium, Kinderschriften und Anthologieen drucken zu lassen, die Reihe herum alle fünf Jahre nur an ein paar Buchhändler vertheilen und die übrigen Verleger verpflichten, sich im Interesse des guten Geschmacks und der Ehre unserer Nation, als einer scheinbar nichts als Papier producirenden, diese Fabrikation zu versagen. Wenigstens wird es so in Dresden mit dem Backen der Fastenbrezeln gehalten.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -79,10 +83,10 @@
           <tei:seg>J. [Anon.:] Unsere Bücherfabrikation. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 15, [7. Januar] 1854, S. 240. (Rasch 3.54.01.07.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -91,7 +95,35 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">127,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>neuen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>neuern</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">127,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>liefern</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>abliefern</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">127, 13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>vorigen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>übrigen</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
