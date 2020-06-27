@@ -15,8 +15,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>TEI transform</tei:resp>
+          <tei:resp>Kollationierungskorrektur</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -43,11 +46,12 @@
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
       <tei:change who="#WolfgangRasch" when="2020-03-04">Fassung 1.1, TEI-Auszeichnung</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-06-27">Fassung 1.2, Kollationierungskorrektur</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="112"/>
         <tei:seg> Eine neue deutsche Original-Roman-Bibliothek.</tei:seg>
       </tei:head>
@@ -63,7 +67,7 @@
         <tei:hi style="letter-sparse">H. Koenig</tei:hi>
         <tei:seg>, </tei:seg>
         <tei:hi style="letter-sparse">O. Müller</tei:hi>
-        <tei:seg> u. s. w., zu einem beispiellos billigen Preise erscheinen zu lassen. Ein neuer Roman von Mügge, "Afraja", der die Sammlung eröffnet, würde nach früherer Erscheinungsweise, weitläufig gedruckt, drei Bände ausgemacht haben und um den Preis von 5 Thalern verkauft worden sein. In dieser frankfurter Ausgabe kostet er 1 Thlr. 5 Rgr. Die natürliche Folge ist ein außerordentlicher Absatz. Nicht nur Privatpersonen können sich um ein Billiges eine Familienbibliothek gediegener Romanlectüre anlegen, sondern auch die kleinen Leihbibliotheken (große und kleine Leseinstitute dieser Art mögen wir, so weit die deutsche Zunge geht, leicht 1500 zählen) kommen beim Anblick eines neuen Romans in drei Bänden </tei:seg>
+        <tei:seg> u. s. w., zu einem beispiellos billigen Preise erscheinen zu lassen. Ein neuer Roman von Mügge, "Afraja", der die Sammlung eröffnet, würde nach früherer Erscheinungsweise, weitläufig gedruckt, drei Bände ausgemacht haben und um den Preis von 5 Thalern verkauft worden sein. In dieser frankfurter Ausgabe kostet er 1 Thlr. 5 Ngr. Die natürliche Folge ist ein außerordentlicher Absatz. Nicht nur Privatpersonen können sich um ein Billiges eine Familienbibliothek gediegener Romanlectüre anlegen, sondern auch die kleinen Leihbibliotheken (große und kleine Leseinstitute dieser Art mögen wir, so weit die deutsche Zunge geht, leicht 1500 zählen) kommen beim Anblick eines neuen Romans in drei Bänden </tei:seg>
         <tei:foreign>à</tei:foreign>
         <tei:seg> 1 Thlr. 20 Ngr. nicht mehr in die Nothwendigkeit, diese Erscheinung unberücksichtigt vorübergehen zu lassen. Sie werden nicht mehr auf Preisherabsetzung, auf "Verlangtwerden" und ähnliche Veranlassungen des Ankaufs warten; ihr Budget reicht aus, neben Dumas, Féval, Ferry u. s. w. auch Mügge, Koenig, O. Müller u. s. w. gleich bei ihrem ersten Erscheinen aufzustellen.</tei:seg>
       </tei:p>
@@ -72,22 +76,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -95,10 +99,10 @@
           <tei:seg>J. [Anon.:] Eine neue deutsche Original-Roman-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 7, [12. November] 1853, S. 112. (Rasch 3.53.11.12.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -107,7 +111,20 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">113,12 und 113,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Rgr.</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Ngr.</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
