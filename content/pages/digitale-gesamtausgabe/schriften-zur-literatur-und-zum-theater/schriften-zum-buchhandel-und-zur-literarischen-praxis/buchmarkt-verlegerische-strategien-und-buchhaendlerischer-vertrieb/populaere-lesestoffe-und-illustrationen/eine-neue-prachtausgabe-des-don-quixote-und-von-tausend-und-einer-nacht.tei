@@ -13,9 +13,9 @@
           <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
+        <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -42,14 +42,119 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-06-30">Fassung 1.1 Transfer nach TEI und Kollationierungskorrekturen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="4"/>
+        <tei:seg> [Neue Prachtausgabe des „Don Quixote“ und von „Tausend und Einer Nacht“]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Wir können das literarische Publikum auf das Erscheinen von zwei Prachtwerken vorbereiten, welche in Deutschland einzig in ihrer Art dastehen. Das Erste ist eine </tei:seg>
+        <tei:hi style="letter-sparse">neue</tei:hi>
+        <tei:seg> Uebersetzung von Don Quiquote, die von H. Heine mit einer Einleitung herausgegeben wird; nicht weniger als 800 Vignetten und Scenen sollen diese Prachtausgabe schmücken, dabei aber, um den Zweck der größtmöglichsten Verbreitung zu erreichen in Lieferungen zu </tei:seg>
+        <tei:hi style="letter-sparse">unerhört</tei:hi>
+        <tei:seg> billigem Preise erscheinen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Das </tei:seg>
+        <tei:hi style="letter-sparse">Zweite</tei:hi>
+        <tei:seg> ist eine nach dem arabischen Originaltexte zum erstenmal </tei:seg>
+        <tei:hi style="letter-sparse">treu</tei:hi>
+        <tei:seg> übertragene Prachtausgabe von der „Tausend und Einer Nacht“ von dem talentvollen Uebersetzer der „Schamascharis goldenen Halsbänder“ </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg> Gustav Weil. Zu diesem Werke sollen nicht weniger als 2000 Vignetten und Scenen von den ersten Künstlern in Europa in Holz gestochen kommen, und Alles übertroffen werden, was in England und Frankreich bisher in diesem Genre schienen ist.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Herr August Lewald hat die Herausgabe dieses Werkes übernommen, und es ist bei dem sichern Takt und feinen Geschmacke, den sich dieser Autor in allen seinen Schriften bisher zum Ziele steckte, zu erwarten, daß nur das Vorzüglichste geleistet wird.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Auch diese Ausgabe soll bei Pracht und Schönheit in sehr wohlfeilen Lieferungen erscheinen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.; Verf. unges.:] Literarische und Kunstnotizen. In: Frankfurter Telegraph. Nr. 24, [24.] Februar 1837, [S. 4]. (Rasch *3.37.02.24).</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">138,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Don Quiquote</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Don Quiqoote</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">138,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>größtmöglichsten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gröstmöglichsten</tei:sic>
+        <tei:seg>  </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">138,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Weil. Zu</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Weil. zu</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">138,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Übersetzer</tei:lem>
+        <tei:seg>  lies: </tei:seg>
+        <tei:sic>Uebersetzer</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
