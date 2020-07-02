@@ -14,7 +14,7 @@
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>TEI transform</tei:resp>
+          <tei:resp>TEI transform und Kollationierungskorrekturen</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -42,12 +42,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2001-02" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#MartinaLauster" when="2020-03-07">Fassung 1.1 Ueberfuehrung nach TEI</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-07-02">Fassung 1.1 Ueberfuehrung nach TEI und Kollationierungskorrekturen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="361"/>
         <tei:seg> Ueber eine Reform des deutschen Buchhandels.</tei:seg>
       </tei:head>
@@ -168,7 +168,7 @@
         <tei:hi style="letter-sparse">Frankfurt</tei:hi>
         <tei:seg>. Jetzt gäbe ein Verleger im kleinsten Orte, in Quedlinburg, in Zeitz nach </tei:seg>
         <tei:hi style="letter-sparse">unsrer</tei:hi>
-        <tei:seg> Art eine Schrift heraus; so werden zwei Fälle eintreten: 1.) Er hat die Ankündigungen nicht gespart, die Kritik ist zum Urtheil aufgefordert, das Publikum weiß, was da ist. Der Gelehrte hört von einem neuen Commentar über Tacitus. Wer hat ihn geschrieben? Zumpt. Was ist zu thun? Man kann ihn entweder haben wollen, oder </tei:seg>
+        <tei:seg> Art eine Schrift heraus; so werden zwei Fälle eintreten: 1.) Er hat die Ankündigungen nicht gespart, die Kritik ist zum Urtheil aufgefordert, das Publikum weiß, was da ist. Der Gelehrte hört von einem neuen Commentar über Tacitus. Wer hat ihn geschrieben? Zumpt. Was ist zu thun? Man kann ihn nur entweder haben wollen, oder </tei:seg>
         <tei:hi style="letter-sparse">nicht</tei:hi>
         <tei:seg> haben wollen. Der Gelehrte läßt ihn kommen und muß ihn behalten. Ein </tei:seg>
         <tei:foreign>Homo novus </tei:foreign>
@@ -316,19 +316,19 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -343,48 +343,46 @@
           <tei:seg>. K[arl] G[utzkow:] Ueber eine Reform des deutschen Buchhandels. In: Börsenblatt für den deutschen Buchhandel und für die mit ihm verwandten Geschäftszweige. Leipzig. Nr. 60, 28. Juli 1837, Sp. 1337-1342, und Nr. 61, 1. August 1837, Sp. 1369-1372. (Rasch 3.37.06.19)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J1. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Zeitschriftendruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck werden stillschweigend berichtigt.</tei:seg>
+        <tei:seg>J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Zeitschriftendruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von den Herausgebern</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:p style="no-indent text-left">
+        <tei:seg> berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck werden stillschweigend berichtigt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
-        <tei:seg> </tei:seg>
-        <tei:lem>schön-wissenschaftliche</tei:lem>
-        <tei:seg> </tei:seg>
-        <tei:sic>schön- wissenschaftliche</tei:sic>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">1,23</tei:citedRange>
+        <tei:citedRange type="page-line-ref">148,23</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Organisation</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Organisition</tei:sic>
       </tei:p>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">2,9</tei:citedRange>
+        <tei:citedRange type="page-line-ref">149,8</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ausgeboten</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>ausboten</tei:sic>
       </tei:p>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">5,2</tei:citedRange>
+        <tei:citedRange type="page-line-ref">151,34</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Niemand</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Nimand</tei:sic>
       </tei:p>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">5,6</tei:citedRange>
+        <tei:citedRange type="page-line-ref">152,4</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>geht, wieder</tei:lem>
         <tei:seg> </tei:seg>
@@ -392,16 +390,36 @@
         <tei:seg>  ausgefallenes Satzzeichen</tei:seg>
       </tei:p>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">5,8-9</tei:citedRange>
+        <tei:citedRange type="page-line-ref">152,6-7</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>entgegengesetzten</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>entgegesetzten</tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">153,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Man kann ihn entweder</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Man kann ihn nur entweder</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">155,8</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verlangszettel</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Verlagszettel</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1 Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -415,7 +433,7 @@
           <tei:seg>3. Wilhelm Hoffmann: Durchgehauen! In: Börsenblatt für den deutschen Buchhandel. Leipzig. Nr. 79, 3. Oktober 1837, Sp. 1849-1850. (Rasch 9/2.37.10.03)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
