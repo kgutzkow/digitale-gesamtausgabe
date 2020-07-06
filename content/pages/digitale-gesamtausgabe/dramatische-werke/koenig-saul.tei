@@ -6,17 +6,14 @@
         <tei:title>König Saul</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="SusanneHesse">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Susanne Hesse</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MarianneSchroeter">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Marianne Schröter</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -41,8 +38,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-04" who="#SusanneHesse #MarianneSchroeter">Erstfassung</tei:change>
-      <tei:change when="2009-07" who="#SusanneHesse #MarianneSchroeter">Fassung 1.1</tei:change>
+      <tei:change when="2008-04" who="#SusanneHesse #MarianneSchroeter">1.0</tei:change>
+      <tei:change when="2009-07" who="#SusanneHesse #MarianneSchroeter">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

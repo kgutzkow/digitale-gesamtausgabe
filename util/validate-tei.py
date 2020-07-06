@@ -48,6 +48,8 @@ def check_reponsible_users(doc, errors):
             for idx2, r in enumerate(resp):
                 if not r.xpath('text()') or r.xpath('text()')[0].strip() == '':
                     errors.append('respStmt {0} resp {1} is empty'.format(idx + 1, idx2 + 1))
+                elif not r.xpath('text()')[0].startswith('Herausgeber') and not r.xpath('text()')[0].startswith('Autor'):
+                    errors.append('respStmt {0} resp {1} must be one of Herausgeber, Herausgeberin, Autor, Autorin'.format(idx + 1, idx2 + 1))
         name = respStmt.xpath('tei:name', namespaces=ns)
         if len(name) == 0:
             errors.append('respStmt {0} is missing its name entry'.format(idx + 1))
@@ -63,6 +65,10 @@ def check_revision_descriptions(doc, errors):
     for idx, change in enumerate(changes):
         if not change.xpath('text()') or change.xpath('text()')[0].strip() == '':
             errors.append('The change {0} is missing a textual description'.format(idx + 1))
+        else:
+            match = re.fullmatch(r'([0-9]+\.[0-9]+)(?::(.*))?', change.text)
+            if not match:
+                errors.append('The change {0} does not follow the pattern Version[: Description]'.format(idx + 1))
         date = change.xpath('@when')
         if len(date) == 0:
             errors.append('The change {0} has no machine readable date'.format(idx + 1))
@@ -203,9 +209,13 @@ for basepath, _, filenames in walk('content'):
                 errors.append((fullpath, file_errors))
 
 if errors:
+    error_count = 0
     for filename, error_list in errors:
         print('-' * len(filename), file=sys.stderr)
         print(filename, file=sys.stderr)
         for error in error_list:
             print(error, file=sys.stderr)
+            error_count = error_count + 1
+    print()
+    print('{0} errors in {1} files'.format(error_count, len(errors)))
     sys.exit(1)

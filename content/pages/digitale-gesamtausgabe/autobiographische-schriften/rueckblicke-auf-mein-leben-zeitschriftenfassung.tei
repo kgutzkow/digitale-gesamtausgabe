@@ -6,21 +6,18 @@
         <tei:title>Rückblicke auf mein Leben.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="PeterHasubek">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Peter Hasubek</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -45,9 +42,9 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001-07" who="#PeterHasubek">Fassung 1.0</tei:change>
-      <tei:change when="2008-12" who="#PeterHasubek">Fassung 1.1: Neuer Vor- und Nachspann sowie Sperrungs-Auszeichnung, 1 fehlende Kursivierungs-Auszeichnung ergaenzt, neue Kopfzeilen gemacht, Änderung der bibliographischen Angaben nach den aktuellen Konventionen der Editionsrichtlinien</tei:change>
-      <tei:change when="2018-07" who="#MartinaLauster #GertVonhoff">Fassung 1.2: Ergänzung unter Handschriften</tei:change>
+      <tei:change when="2001-07" who="#PeterHasubek">1.0</tei:change>
+      <tei:change when="2008-12" who="#PeterHasubek">1.0</tei:change>
+      <tei:change when="2018-07" who="#MartinaLauster #GertVonhoff">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

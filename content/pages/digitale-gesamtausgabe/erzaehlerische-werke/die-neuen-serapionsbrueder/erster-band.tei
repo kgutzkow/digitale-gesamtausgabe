@@ -6,17 +6,14 @@
         <tei:title>Die neuen Serapionsbrüder. Erster Band</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="KurtJauslin">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Kurt Jauslin</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -41,12 +38,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2002-10" who="#KurtJauslin">Fassung 1.0 entspricht der "Editorischen Notiz" aus der Buchausgabe</tei:change>
-      <tei:change when="2007-01" who="#MartinaLauster">Fassung 2.0 vom Januar 2007 ist der daraus entstandene volle Kommentar</tei:change>
-      <tei:change when="2009-01" who="#MartinaLauster">Fassung 2.1 mit erweitertem Globalkommentar und neuem Vor- und Nachspann sowie Sperrungsauszeichnungen</tei:change>
-      <tei:change when="2010-05" who="#KurtJauslin #MartinaLauster">Fassung 2.2 mit neu hinzugefügten Dokumenten zur Entstehungs- und Rezeptionsgeschichte und ergänzten Herausgebertexten in Enststehungs- Rezeptionsgeschichte</tei:change>
-      <tei:change when="2010-09" who="#KurtJauslin #MartinaLauster">Fassung 2.3 Korrekturen nach Diskussion in Exeter, Zusätze zu Globalkommentar 6.1.6</tei:change>
-      <tei:change when="2016-02" who="#MartinaLauster">Fassung 2.4: Bei Anfertigung des gedruckten Bandes von diesem Kommentar (erschienen Ende 2015) fielen zahlreiche Korrekturen und Erweiterungen an, die in die Netzversion des Kommentars uebernommen wurden</tei:change>
+      <tei:change when="2002-10" who="#KurtJauslin">1.0</tei:change>
+      <tei:change when="2007-01" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2009-01" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2010-05" who="#KurtJauslin #MartinaLauster">1.0</tei:change>
+      <tei:change when="2010-09" who="#KurtJauslin #MartinaLauster">1.0</tei:change>
+      <tei:change when="2016-02" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

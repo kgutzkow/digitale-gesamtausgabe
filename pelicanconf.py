@@ -246,6 +246,7 @@ TAXONOMY = (
             )),
             ('Buchmarkt, verlegerische Strategien und buchhändlerischer Vertrieb', 'buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb', (
                 ('Buchproduktion und literarische Moden', 'buchproduktion-und-literarische-moden', (
+                    ('Werke der Industrie', 'werke-der-industrie', ()),
                     ('Die Deutschen Uebersetzungsfabriken', 'die-deutschen-uebersetzungsfabriken', ()),
 			        ('[Katalog des Verlags B. F. Voigt]', 'katalog-des-verlags-b-f-voigt', ()),
 			        ('Der B. F. Voigt\'sche Verlag in Weimar', 'der-b-f-voigt-sche-verlag-in-weimar', ()),
@@ -257,6 +258,7 @@ TAXONOMY = (
 			        ('Unsere Bücherfabrikation', 'unsere-buecherfabrikation', ())
                 )),
                 ('Populäre Lesestoffe und Illustrationen', 'populaere-lesestoffe-und-illustrationen', (
+                    ('Die Pfennig-Litteratur', 'die-pfennig-litteratur', ()),
                     ('Der neue Don-Quixote mit Holzschnitten', 'der-neue-don-quixote-mit-holzschnitten', ()),
 			        ('[Neue Prachtausgabe des "Don Quixote" und von "Tausend und Einer Nacht"]', 'eine-neue-prachtausgabe-des-don-quixote-und-von-tausend-und-einer-nacht', ()),
 			        ('Deutsche Holzschnitte', 'deutsche-holzschnitte', ()),

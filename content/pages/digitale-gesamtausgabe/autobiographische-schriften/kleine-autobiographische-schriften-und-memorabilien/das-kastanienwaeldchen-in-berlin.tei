@@ -6,8 +6,8 @@
         <tei:title>Das Kastanienwäldchen in Berlin</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>Digitale edition</tei:resp>
-          <tei:resp>TEI transform</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
+          
           <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -34,7 +34,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#WolfgangRasch" when="2019-12-04">Fassung 1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2019-12-04">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

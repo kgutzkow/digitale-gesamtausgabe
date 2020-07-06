@@ -61,7 +61,8 @@ class TeiDocumentReader(BaseReader):
                     'authors': [str(author) for author in doc.xpath('//tei:author/text()', namespaces=ns)],
                     'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
                                  'name': str(editor.xpath('./tei:name/text()', namespaces=ns)[0])}
-                                for editor in doc.xpath('//tei:respStmt', namespaces=ns)],
+                                for editor in doc.xpath('//tei:respStmt', namespaces=ns)
+                                if str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]).startswith('Herausgeber')],
                     'revisions': [change for change in [process_change(change, doc) for change in doc.xpath('//tei:change', namespaces=ns)] if change],
                     'extract': '',
                     'template': 'tei-document'}

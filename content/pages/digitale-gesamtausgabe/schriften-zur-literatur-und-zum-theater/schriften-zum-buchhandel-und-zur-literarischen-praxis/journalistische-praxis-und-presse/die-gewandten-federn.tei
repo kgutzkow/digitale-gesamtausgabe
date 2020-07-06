@@ -6,16 +6,12 @@
         <tei:title>Die gewandten Federn.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -41,8 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2020-03-07">Fassung 1.1, TEI-Anpassung</tei:change>
+      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

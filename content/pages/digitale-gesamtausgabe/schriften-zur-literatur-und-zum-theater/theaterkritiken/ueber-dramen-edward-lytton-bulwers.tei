@@ -6,13 +6,10 @@
         <tei:title>[Über Dramen Edward Lytton Bulwers]</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -37,9 +34,9 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2007-08" who="#MartinaLauster">Fassung 1.0</tei:change>
-      <tei:change when="2007-09" who="#MartinaLauster">Fassung 1.1: Ergänzter Stellenkommentar und einige Korrekturen im Layout</tei:change>
-      <tei:change when="2007-09" who="#MartinaLauster">Fassung 1.1: Trennung der Textdatei in Literaturkritik</tei:change>
+      <tei:change when="2007-08" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2007-09" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2007-09" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

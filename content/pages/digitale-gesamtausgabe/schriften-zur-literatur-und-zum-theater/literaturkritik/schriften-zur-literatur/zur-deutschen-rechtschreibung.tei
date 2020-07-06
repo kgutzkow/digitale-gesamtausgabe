@@ -6,13 +6,10 @@
         <tei:title>Zur deutschen Rechtschreibung</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -37,8 +34,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2009-07" who="#WolfgangRasch">Fassung 1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2020-03-24">Fassung 1.1, TEI-Auszeichnung</tei:change>
+      <tei:change when="2009-07" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-03-24">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

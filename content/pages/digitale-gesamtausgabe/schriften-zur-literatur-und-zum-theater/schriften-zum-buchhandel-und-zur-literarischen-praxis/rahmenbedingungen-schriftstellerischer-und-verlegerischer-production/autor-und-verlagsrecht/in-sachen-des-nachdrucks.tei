@@ -6,24 +6,12 @@
         <tei:title>In Sachen des Nachdrucks.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digitale edition</tei:resp>
-          <tei:name>Gert Vonhoff</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Martina Lauster</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -49,9 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2004-09" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change when="2007-08" who="#GertVonhoff">Fassung 1.1: Verlinkter Stellenkommentar</tei:change>
-      <tei:change who="#MartinaLauster" when="2019-11">Fassung 1.2 Aufbereitung TEI, Kuerzung einiger Lemmata</tei:change>
+      <tei:change when="2004-09" who="#ChristineHaug #UteSchneider">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

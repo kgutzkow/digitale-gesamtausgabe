@@ -6,14 +6,11 @@
         <tei:title>Börne's Leben</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Digitale edition</tei:resp>
-          <tei:resp>TEI transform</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
+          
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI setup</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -38,8 +35,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2004-08" who="#MartinaLauster">Text &amp; Miniapp: Fassung 1.0</tei:change>
-      <tei:change who="#MartinaLauster" when="2019-12">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
+      <tei:change when="2004-08" who="#MartinaLauster">1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2019-12">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
