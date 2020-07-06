@@ -6,17 +6,22 @@
         <tei:title>Ueber Preisherabsetzungen im Buchhandel.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Digitale edition</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Digitale edition</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Digitale edition</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>TEI transform</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+        <tei:respStmt/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -41,11 +46,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">1.0</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">1.0</tei:change>
-      <tei:change when="2007-01" who="#GertVonhoff">1.0</tei:change>
-      <tei:change when="2007-08" who="#GertVonhoff">1.0</tei:change>
+      <tei:change when="2001-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
+      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.1: Layout angepasst, HTML eingetragen</tei:change>
+      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.2: Fuss- und Kopfbereich fuer neue Website angepasst</tei:change>
+      <tei:change when="2007-01" who="#GertVonhoff">Fassung 1.3: Ergaenzung von Erl. 3,7-8 Lords vom Muehlendamm</tei:change>
+      <tei:change when="2007-08" who="#GertVonhoff">Fassung 1.4: Sigle A gegen E ausgetauscht</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-07-06">Fassung 1.5: Kollationierungskorrekturen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -71,7 +77,11 @@
         <tei:ref type="esv" target="#annotation-4">für 3 Kreuzer</tei:ref>
         <tei:seg> öffentlich ausbot und bei zwei Exemplaren, die der Käufer nehmen wolle, sogar für 2 Kreuzer. Herr </tei:seg>
         <tei:ref type="esv" target="#annotation-5">O. Wigand in Leipzig</tei:ref>
-        <tei:seg>, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren ein Werk von J. Jacoby, das er kürzlich, um diesen Apostaten früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten ihren Verlag auf die niedrigsten Preise herab, verkaufen ihn parthienweise und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
+        <tei:seg>, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren ein Werk von </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">J. Jacoby</tei:ref>
+        <tei:seg>, das er kürzlich, um diesen </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Apostaten</tei:ref>
+        <tei:seg> früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten ihren Verlag auf die niedrigsten Preise herab, verkaufen ihn parthienweise und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Jedes neue Cirkulär, jede neue Nummer des Buchhändlerbörsenblatts bringt neue Preisherabsetzungen. Kein Autor ist mehr sicher, über Nacht von seinem Verleger gedemüthigt zu werden. </tei:seg>
@@ -186,13 +196,29 @@
           <tei:citedRange type="page-line-ref">156,17-18</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:lem>O. Wigand in Leipzig</tei:lem>
-          <tei:seg> Otto Friedrich Wigand (1795-1870), aus Göttinger Buchhandelsfamilie, führte nach einer erfolgreichen Zeit als Verleger in Pest seit 1832 in Leipzig ein Verlagsgeschäft, „das seinen Namen weit und breit berühmt machte“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Beiträge zu einer Firmengeschichte des deutschen Buchgewerbes. 6 Bde. Berlin: Weber / Eberswalde: Schmidt, 1902-1906. Bd. 6, S. 1045). Im Verlag Otto Wigand erschienen u. a. die „Hallischen Jahrbücher für deutsche Wissenschaft und Kunst“, in den 1840er Jahren das Organ der Junghegelianer. In den </tei:seg>
+          <tei:seg> Otto Friedrich Wigand (1795-1870), aus Göttinger Buchhandelsfamilie, führte nach einer erfolgreichen Zeit als Verleger in Pest seit 1832 in Leipzig ein Verlagsgeschäft, „das seinen Namen weit und breit berühmt machte“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Beiträge zu einer Firmengeschichte des deutschen Buchgewerbes. 6 Bde. Berlin: Weber / Eberswalde: Schmidt, 1902-1906. Bd. 6, S. 1045). Im Verlag Otto Wigand erschienen u. a. die „Hallischen Jahrbücher für deutsche Wissenschaft und Kunst“. In den </tei:seg>
           <tei:q>Rückblicken</tei:q>
           <tei:seg> schildert Gutzkow Wigand als einen der </tei:seg>
           <tei:q>Freigesinnten</tei:q>
           <tei:seg> im Gegensatz zu dem zynisch auftretenden </tei:seg>
           <tei:q>Radikalen</tei:q>
           <tei:seg> Heinrich Hoff (GWB VII, Bd. 2, S. 190).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>J. Jacoby</tei:lem>
+          <tei:seg> Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den „Bildern und Zuständen aus Berlin“ (→ Erl. zu 156,19), signalisierte aber mit den „Klagen eines Juden“ (1837), von Gutzkow kritisiert im „Frankfurter Telegraph“ (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der „Allgemeinen Zeitung“ öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion‛. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat‛ verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Apostaten</tei:citedRange>
+          <tei:seg> Apostat: Abtrünniger.</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
