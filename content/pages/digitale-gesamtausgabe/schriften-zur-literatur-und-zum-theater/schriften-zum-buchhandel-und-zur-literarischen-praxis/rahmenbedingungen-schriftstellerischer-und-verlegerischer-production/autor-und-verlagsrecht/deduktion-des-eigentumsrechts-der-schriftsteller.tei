@@ -13,10 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="GertVonhoff">
-          
-          <tei:name>Gert Vonhoff</tei:name>
-        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -42,7 +38,6 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#GertVonhoff" when="2020-02-26">Fassung 1.1: Text und MiniApp TEI Konvertierung; Korrektur der Sperrung nach pdf</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

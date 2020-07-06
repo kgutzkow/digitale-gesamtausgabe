@@ -13,10 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="WolfgangRasch">
-          
-          <tei:name>Wolfgang Rasch</tei:name>
-        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -41,8 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2020-03-05">Fassung 1.1, TEI-Auszeichnung</tei:change>
+      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

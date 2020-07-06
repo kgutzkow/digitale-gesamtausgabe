@@ -9,11 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
-        
-        <tei:respStmt xml:id="GertVonhoff">
-          
-          <tei:name>Gert Vonhoff</tei:name>
-        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -38,8 +33,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0 </tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-10">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
+      <tei:change when="2008-12" who="#WolfgangRasch">1.0 </tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
