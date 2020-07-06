@@ -43,12 +43,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:hi style="letter-sparse">E. L. Bulwer's</tei:hi>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:hi style="letter-sparse">Werke</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -56,15 +56,15 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Supplement</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>zur</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>achner, stuttgarter und zwickauer Ausgabe.</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
@@ -73,7 +73,7 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Erster Band.</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -86,7 +86,7 @@
         <tei:hi style="font-style-italic">[neue Seite]</tei:hi>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:hi style="letter-sparse">Notiz</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -107,21 +107,21 @@
         <tei:hi style="font-style-italic">[neue Seite]</tei:hi>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Die Zeitgenossen.</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Ihre Schicksale, ihre Tendenzen,</tei:seg>
       </tei:head>
-      <tei:head type="level-3"/>
+      <tei:head data-heading-id="" type="level-3"/>
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:hi style="letter-sparse">ihre großen Charaktere</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -129,17 +129,17 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:hi style="letter-sparse">Aus dem Englischen</tei:hi>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>des</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>E. L. Bulwer.</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
@@ -147,7 +147,7 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:hi style="letter-sparse">Erster Band</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -157,38 +157,42 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Stuttgart.</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Verlag der Classiker.</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1837.</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="I"/>
         <tei:seg> Die Zeitgenossen.</tei:seg>
       </tei:head>
-      <tei:head type="level-1"/>
+      <tei:head data-heading-id="" type="level-1"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">III</tei:hi>
         </tei:pb>
         <tei:hi style="font-size-large"> An Sir Ralph * * * *</tei:hi>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>                           (einen berühmten Staatsmann).</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
       <tei:p style="no-indent text-left">
         <tei:seg>Wenn ich Ihren Namen an die Spitze dieses Werkes stelle, von dem ich selbst noch nicht recht weiß, ob es ein abgeschlossenes Buch oder ein Journal werden wird, so veranlaßt mich dazu außer </tei:seg>
         <tei:hi style="letter-sparse">.......</tei:hi>
-        <tei:seg>) besonders die gleiche Richtung, in der sich unsre Wünsche zu begegnen pflegen. Sie gehen gern von der Politik auf die Poesie über; ich verlasse gern meine poetischen Beschäf­tigun­gen und politisire. Sie sind ermüdet von dem un­aufhör­lichen Zählen der Pulsschläge, welche das Leben des Staates verrathen, und deren schnellere oder langsamere </tei:seg>
+        <tei:ref type="footnote" target="#footnote-9">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:seg>)</tei:seg>
+        <tei:seg> besonders die gleiche Richtung, in der sich unsre Wünsche zu begegnen pflegen. Sie gehen gern von der Politik auf die Poesie über; ich verlasse gern meine poetischen Beschäf­tigun­gen und politisire. Sie sind ermüdet von dem un­aufhör­lichen Zählen der Pulsschläge, welche das Leben des Staates verrathen, und deren schnellere oder langsamere </tei:seg>
         <tei:pb n="IV"/>
         <tei:seg> Bewegung auf politische Erkältungen, Entzündungen und Quartanfieber schlie­ßen läßt; Sie ermatten, jenen Chimborassos von Akten­stößen gegenüber, welche über eine wichtige Frage des Tages verglichen seyn wollen, und sehnen sich, Sie haben es mir oft gestanden, nach den glückseligen Gestaden der Poesie, wo es Ihnen bei dem übergroßen Verlangen manchmal sogar gleichgültig ist, ob Sie den steifen und bebänderten Allegorien der my­thologischen Periode in der Literatur begegnen oder den Verwilderungen unsrer modernen Waldpoesie, einer Tragödie mit drei Einheiten oder einer Tragödie, die deren so viel zählt, daß sie </tei:seg>
         <tei:hi style="letter-sparse">keine</tei:hi>
@@ -304,7 +308,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">1</tei:hi>
         </tei:pb>
@@ -754,7 +758,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">64</tei:hi>
         </tei:pb>
@@ -892,7 +896,10 @@
       <tei:p style="text-left">
         <tei:seg>Es ist gewiß sehr bemerkenswerth für unsere Zeit, daß sich in unsern Erfahrungen das Erlebniß so bald nach den Gesichtspunkten modelt, nach welchen wir es gern beurtheilen möchten. Oder dieß vielmehr ist so bemerkenswerth, daß wir eine solche Aenderung ohne großen Widerspruch uns erlauben dürfen. Im Alterthum war der Tod des Cäsar der Tod des Cäsar, bei uns würd’ er noch etwas ganz Anderes gewesen seyn. Es ist originell unter manchen Charakteren, die man trifft, die eigenthümlichen Gründe zu hören, welche sie gewöhnlich den Ereignissen zu Grunde legen. Das Politisiren ohne die nöthigen Kenntnisse hat die Zeitgenossen schon auf die wunderlichsten Combinationen gebracht. Auch hievon ist Napoleon die Schuld. Denn, indem es hieß, er wolle England in Hinterindien angreifen, so hat dieß zu­nächst alle geographische Begriffe in dem Kopfe des gemeinen Mannes verwirrt. Die Continentalsperre </tei:seg>
         <tei:pb n="86"/>
-        <tei:seg> schloß überdieß Eng­land von Europa aus, und es war verzeihlich genug, wenn die gro­ßen Politiker der Alehäuser dem Zuge nach Rußland eine Inten­tion zuschrieben, die Napoleon durch die Einschiffung in Bou­logne nicht hatte erreichen können. So aber wie es hier im Alber­nen geschieht, geschieht es auch in dem, was sich klug dünkt. Die Unmöglichkeit, die Politik noch nach den veralteten offenbar egoistischen Zwecken früherer Zeiten, ich will nicht sagen, zu treiben, sondern nur offen hinzustellen, erzeugt die wunderlichsten Combinationen, wofür besonders noch immer die Angelegenheiten des Orients, der ewig eine fabelhafte Welt bleiben wird, Raum genug darbieten. Ich kenne einen sonst ganz vernünftigen Mann, der sich nicht ausreden läßt, Louis Philipp sey der größte Republikaner, den es nur geben könne, und Algier suche er nur deßhalb zu coloni­siren, um seinen Kindern ein neues Königthum zu hinterlassen, wenn Frankreich eine Republik werden sollte. Dieß ist lächer­lich; aber andere Schlüsse scheinen schon ernster zu seyn; z. B. hat ein Whig­reformer bei der letzten Wahl von den Hustings in Betreff der Sklaven­emanzipation fol­gende Deduktion aufgestellt: „Die Sklaven frei machen, heißt, Euch zwanzig Millionen aus der Tasche nehmen; aber ich sage Euch, Ihr zahlt sie nicht, Jonathan) zahlt sie. Die Sklaven frei machen, heißt, in die verei-</tei:seg>
+        <tei:seg> schloß überdieß Eng­land von Europa aus, und es war verzeihlich genug, wenn die gro­ßen Politiker der Alehäuser dem Zuge nach Rußland eine Inten­tion zuschrieben, die Napoleon durch die Einschiffung in Bou­logne nicht hatte erreichen können. So aber wie es hier im Alber­nen geschieht, geschieht es auch in dem, was sich klug dünkt. Die Unmöglichkeit, die Politik noch nach den veralteten offenbar egoistischen Zwecken früherer Zeiten, ich will nicht sagen, zu treiben, sondern nur offen hinzustellen, erzeugt die wunderlichsten Combinationen, wofür besonders noch immer die Angelegenheiten des Orients, der ewig eine fabelhafte Welt bleiben wird, Raum genug darbieten. Ich kenne einen sonst ganz vernünftigen Mann, der sich nicht ausreden läßt, Louis Philipp sey der größte Republikaner, den es nur geben könne, und Algier suche er nur deßhalb zu coloni­siren, um seinen Kindern ein neues Königthum zu hinterlassen, wenn Frankreich eine Republik werden sollte. Dieß ist lächer­lich; aber andere Schlüsse scheinen schon ernster zu seyn; z. B. hat ein Whig­reformer bei der letzten Wahl von den Hustings in Betreff der Sklaven­emanzipation fol­gende Deduktion aufgestellt: „Die Sklaven frei machen, heißt, Euch zwanzig Millionen aus der Tasche nehmen; aber ich sage Euch, Ihr zahlt sie nicht, Jonathan</tei:seg>
+        <tei:hi style="sup">*</tei:hi>
+        <tei:ref type="footnote" target="#footnote-12">)</tei:ref>
+        <tei:seg> zahlt sie. Die Sklaven frei machen, heißt, in die verei-</tei:seg>
         <tei:pb n="87"/>
         <tei:seg>nigten Staaten den Brand der Empörung werfen. Dort wird kein Sklave mehr arbeiten wollen, weil man auf unsern Kolonien nicht mehr arbeitet. Was ist Jonathan ohne die Hetzpeitsche? Sein Handel geht zurück. Ihr legt hier zwanzig Millionen zu fünfzig Prozenten an. Also seht, man muß eben so klug, als menschlich seyn.“ Solche Erläuterungen fesseln das Volk und machen, daß es Alles glaubt, wenn man es nur mit irgend einem Scheine zu beweisen versteht.</tei:seg>
       </tei:p>
@@ -923,7 +930,14 @@
         <tei:pb n="92"/>
         <tei:seg> weil anders sein Freund nicht neben ihm sitzen kann. Man hat schon oft gefürchtet, daß er bei strengen Jahreszeiten aus Demokratie erfrieren würde. Die Herzogin ist nicht von besonders hohem Stande, aber sie hätte jetzt wohl Anspruch darauf, da sie die herzogliche Würde durch ein enormes Vermögen, das sie dem Herzog zubrachte, erkaufte. Allein ihr Gemahl entzieht ihr jeden ebenbürtigen Umgang. Er ladet ihr oft Theevisiten ein, wo die Weiber erscheinen, von welchen das Geschirr, das auf dem Tische steht, gekauft wurde. Seine Kinder, die nachgrade zu wachsen anfangen, sind nicht ohne Unterricht; aber sie erhalten ihn nur, weil sie einst ihr Brod selbst verdienen sollen. Der älteste, der junge Lord John, ist bei einem Tischler in die Lehre gegeben. Er soll alle Jahre ein anderes Handwerk erlernen und den Sultan, der nur eins versteht, weit zu übertreffen suchen. Man ist noch immer nicht darüber beruhigt, ob nicht der Vater doch noch einen seiner oft ausgesprochenen Lieblingswünsche in Erfüllung bringen wird; nämlich der herzoglichen Würde zu entsagen und in Leeds ein Fabrikarbeiter zu werden. Seine Gat­tin wird kein anderes Mittel wissen, als in Leeds eine Adresse an ihn mit Unterschriften bedecken zu lassen, worin ihm die Arbeiter für seinen Entschluß danken, ihm aber ernstlich anrathen, lieber ihrem Verdienste zuweilen eine Zulage zu geben, als ihn zu verringern durch seine gewiß unentgeltliche Concurrenz. Den Herzog in ein Narrenhaus zu sperren, wird sich nicht machen, weil in diesem Falle </tei:seg>
         <tei:pb n="93"/>
-        <tei:seg> ein Aufstand des gemeinen Volks zu befürchten steht; Vernunft ist das, was die Menge dafür halten will ).</tei:seg>
+        <tei:seg> ein Aufstand des gemeinen Volks zu befürchten steht; Vernunft ist das, was die Menge dafür halten will </tei:seg>
+        <tei:ref type="footnote" target="#footnote-17">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:ref type="footnote" target="#footnote-2">
+          <tei:seg>).</tei:seg>
+        </tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Man kann Thistlewood, man kann die Verschwörer, welche die Bourbonen hinrichten ließen, man kann die unglücklichen Tugendbündler (?) in Deutschland keine Märtyrer des Liberalismus nennen; denn alle diese Opfer der Politik und ihres eignen Willens handelten im Auftrage bestimmter, von vergli­chenen Zeitabschnitten abstrahirter Theorien und haben dem eigentlichen Ziele des Liberalismus mehr geschadet als genützt. Der Liberalismus schließt niemals das gesetzmäßige Verfahren aus. Er ist nur eine Methode, eine Anschauungsweise, er ist eine Emanzipation des Herzens und Verstandes, er hat darum noch keine bestimmte Zielpunkte, die in diesen oder jenen fertigen Einrichtungen bestehen. Er haßt allen Geistesdruck, allen Egoismus in Sachen der Religion, Politik und Moral; er spricht für die Befreiung der Industrie von den sie drückenden Lasten, er befördert den Volksunterricht, er schwärmt über die Theorie der Armen; er emanzipirt die Juden, die Katholiken, die Sklaven. Der Liberalismus ist mit einem Worte die Philanthropie des vorigen Jahrhunderts, nur mit dem Firniß unsrer Zeit, mit der Bestimmung der Jetztwelt. Die Philanthropie tröstete, der Liberalismus </tei:seg>
@@ -985,7 +999,12 @@
       <tei:p style="text-left">
         <tei:seg>Wenn mir durch eine Erfahrung dieß Phänomen recht klar gemacht wird, so ist es das Bild einer jüdischen Familie, die berühmt genug in der Handelswelt ist, als daß ich nicht gestehen sollte, sie mehr als oberflächlich zu kennen. Hier wird ein scharfer Beobachter leicht drei Abstufungen der Bildung wahrnehmen können, drei Abstufungen, die zu gleicher Zeit die verschiedenen Phasen unsrer Zeit veranschaulichen. Im Hintergrunde steht ein alter </tei:seg>
         <tei:pb n="106"/>
-        <tei:seg> Patriarch, der Großvater des Hauses, ein schlichter, rein an jüdische Sitte haltender Greis. Sein Anblick erregt Ehrfurcht. Sein weißes Haar, ein kurzer Bart, von dem er sich nicht trennen kann, sein dreieckiger Hut, sein Gang, sein röthlicher Rock, Alles dieß ruft eine verschwundene Zeit zurück, die nirgends weniger noch zu ahnen wäre, als in dem Hause, wo der alte Patriarch noch immer die erste Person ist, wo alle Extravaganzen der Mode ihren duftenden Tempel finden, wo Teppiche und Tapeten als Unterlagen einer Pracht dienen, die selbst von den Häusern der reichsten Würdenträger unserer Krone nicht wiedergegeben werden kann. Im Vorgrunde dagegen steht der Sohn des Hauses, ein bildschöner junger Mann, der dem charakteristischen Ausdruck eines Italieners mehr gleicht, als einem Juden. Der Großvater heißt Moses, dieser Enkel Moritz. Moritz spricht die meisten neuern Sprachen, zeichnet, malt, ist Virtuose auf dem Pianoforte, componirt, dichtet, er ist ein Genie. Und dieß noch nicht einmal genug! Moritz ist sogar Schwärmer, Enthusiast mit der Reverbère der Melancholie. Er fühlt sich unglücklich. Er verachtet seinen Reichthum, seine Eltern sogar, die ihn zusammenscharren. Er steht, kaum wissend, daß er Jude ist, an der Spitze eines Comité’s zur Emanzipation der Israeliten. Er hat Herrn Grant ) einen Wagen mit </tei:seg>
+        <tei:seg> Patriarch, der Großvater des Hauses, ein schlichter, rein an jüdische Sitte haltender Greis. Sein Anblick erregt Ehrfurcht. Sein weißes Haar, ein kurzer Bart, von dem er sich nicht trennen kann, sein dreieckiger Hut, sein Gang, sein röthlicher Rock, Alles dieß ruft eine verschwundene Zeit zurück, die nirgends weniger noch zu ahnen wäre, als in dem Hause, wo der alte Patriarch noch immer die erste Person ist, wo alle Extravaganzen der Mode ihren duftenden Tempel finden, wo Teppiche und Tapeten als Unterlagen einer Pracht dienen, die selbst von den Häusern der reichsten Würdenträger unserer Krone nicht wiedergegeben werden kann. Im Vorgrunde dagegen steht der Sohn des Hauses, ein bildschöner junger Mann, der dem charakteristischen Ausdruck eines Italieners mehr gleicht, als einem Juden. Der Großvater heißt Moses, dieser Enkel Moritz. Moritz spricht die meisten neuern Sprachen, zeichnet, malt, ist Virtuose auf dem Pianoforte, componirt, dichtet, er ist ein Genie. Und dieß noch nicht einmal genug! Moritz ist sogar Schwärmer, Enthusiast mit der Reverbère der Melancholie. Er fühlt sich unglücklich. Er verachtet seinen Reichthum, seine Eltern sogar, die ihn zusammenscharren. Er steht, kaum wissend, daß er Jude ist, an der Spitze eines Comité’s zur Emanzipation der Israeliten. Er hat Herrn Grant </tei:seg>
+        <tei:ref type="footnote" target="#footnote-3"/>
+        <tei:ref type="footnote" target="#footnote-18">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:seg>) einen Wagen mit </tei:seg>
         <tei:pb n="107"/>
         <tei:seg> sechs Pferden schenken wollen, wenn dieser nicht ein so guter Fußgänger wäre. Kurz, Moritz ist ein Kind des Tages und des Jahrhunderts, wenn das Letztere seinen schwärmerischen Zug behaupten sollte.</tei:seg>
       </tei:p>
@@ -1061,7 +1080,7 @@
         <tei:seg>Vergleicht man die Windstille des gegenwärtigen Momentes mit den Stürmen, welche vor sechs Jahren zu wehen anfingen, so muß sich jedes edlen Menschenfreundes Herz von der Hoffnung erwärmt fühlen, es gäbe Mittel, große und kleine, heroische und Hausmittel, um aus seinen Widersprüchen das Jahr­hundert mit heiler Haut sich retten zu sehen. Wir nament­lich, die wir uns die Aufgabe gesteckt haben, den Puls der Zeitgenossen zu fühlen und sie harmlos von ihrem Sinnen und Trachten erzählen zu hören, wollen uns den Horizont unsres kaum begonnenen Werkes nicht trüben, sondern versuchen, soviel leichten Sinn aufzutreiben, als nöthig ist, um eine Gefahr, die vorhanden ist, leicht nehmen und eine, die erst kommen soll, gänzlich vergessen zu können.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">121</tei:hi>
         </tei:pb>
@@ -1261,7 +1280,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">153</tei:hi>
         </tei:pb>
@@ -1324,7 +1343,11 @@
         <tei:hi style="letter-sparse">Zinse</tei:hi>
         <tei:seg>n gerettet sind! Wunder­barer Zusammenhang zwischen unserm Gott, unsrer Unsterb­lich­keit, unserm Wucher und unserer Staatsschulden­tilgungs­theorie! der </tei:seg>
         <tei:foreign>Sinking found</tei:foreign>
-        <tei:seg> ) ist längst eine Chimäre. Das Kapi­tal, hätten wirs, würde uns nur in Verlegenheit bringen; hätten wir die Wahrheit, wir wüßten nicht, wo wir sie unterbringen sollten. Darum lebe der Zinsfuß, der halbjährige Coupon und die dreiprozentige ewige Rente!</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:ref type="footnote" target="#footnote-19">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:seg>) ist längst eine Chimäre. Das Kapi­tal, hätten wirs, würde uns nur in Verlegenheit bringen; hätten wir die Wahrheit, wir wüßten nicht, wo wir sie unterbringen sollten. Darum lebe der Zinsfuß, der halbjährige Coupon und die dreiprozentige ewige Rente!</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Es ist eigen, wenn man von seinen Zeitgenossen spricht, wird man, selbst wenn man nur Gutes von ihnen reden möchte und allen Grund hat, sie gegen falsche Anklagen zu vertheidigen, doch oft von einem </tei:seg>
@@ -1440,7 +1463,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">174</tei:hi>
         </tei:pb>
@@ -1493,9 +1516,10 @@
         <tei:foreign>IX</tei:foreign>
         <tei:seg>. doch beinahe eben soviel Bewohner gehabt hat, als gegenwärtig. All­mählich aber verminderte sich dieß günstige Verhältniß. Der Grund des plötzlichen Zusammenschmelzens der europäischen Be­völ­kerung mag zum größ­ten Theile wohl im Untergange des Feu­dalismus und des Lokalgeistes zu Gunsten der Centralisation und der Staatsmaschine gelegen haben. Früher hatten die kleinen Reichs­städte und Baronien in sich selbst einen stolzen unab­hängigen Mittelpunkt; sie dehnten sich in warmer, behaglicher Existenz und brüteten demnach mehr Menschen aus, als später, wo das System der Controlirung und die Rekrutenaushebung es den Eltern zum Schmerze machte, Kinder zu haben. Was nahm nicht der neu entdeckte Welttheil im Westen an Menschen fort! Wie große Menschen­­opfer mußten die Holländer ihren ungesunden Colonien machen! So kam der absolute Monarchismus, der Menschen brauchte, um Kriege zu führen, und Geld dazu, das jene verdienen mußten, fast überall wieder auf die Gesetzgebung des Augustus zurück, so zwar, daß weniger die Hagestolzen, als die Ehemänner selbst ermuntert, und aufs Neue Prä­mien für eine gewisse Anzahl Kinder ausgesetzt wurden. Wer zehn Kinder </tei:seg>
         <tei:pb n="185"/>
-        <tei:seg> hatte, bekam unter Ludwig </tei:seg>
-        <tei:seg>XIV</tei:seg>
-        <tei:seg>. eine Pension. Allein daß die Bevölkerung Europa’s trotz der Kriege des achtzehnten und neunzehnten Jahrhunderts reißende Fortschritte gemacht hat, ist weit weniger die Folge dieser in manchen Militärstaaten, z. B. Preußen, noch bestehenden Prämien, als die der steigenden individuellen und industriellen Freiheit. Seitdem die Macht des Clerus und der Aristokratie beschränkt ist, seitdem die nutzlos gelegenen und selbst bei ehrlichem Anbau nicht hinreichend ausgebeuteten Domänen der Fürsten an den meisten Orten der Nation überlassen sind, seitdem die Monopole und Privilegien erstarben, hat sich überall eine kecke, fröhliche Lust an der, wie Göthe) sagt, „süßen Gewohnheit des Daseyns“ gezeigt und Menschen die Hülle und Fülle ins Leben gerufen. Die Bevölkerung nahm mit so gewaltiger Schnelligkeit zu, daß sich der Phantasie das Schreckbild der Uebervölkerung bemächtigte und in Malthus einen finstern, unglücksschwangern Propheten fand. Ich habe einen Bekannten, der über die Lektüre des Malthus’schen Buches in Trübsinn verfallen ist. Ueberall, wo er hinsieht, erblickt er die Plage der Uebervölkerung. Ueberall sind ihm die Menschen zu zahlreich. Die Gier, welche diese Millionen beseelen muß, um sich zu ernähren, hat ihn feige gemacht, die Conkurrenz auszuhalten und mit im Athem zu bleiben bei dem allgemeinen Wettlaufe. Sein Geschäft blieb </tei:seg>
+        <tei:seg> hatte, bekam unter Ludwig XIV. eine Pension. Allein daß die Bevölkerung Europa’s trotz der Kriege des achtzehnten und neunzehnten Jahrhunderts reißende Fortschritte gemacht hat, ist weit weniger die Folge dieser in manchen Militärstaaten, z. B. Preußen, noch bestehenden Prämien, als die der steigenden individuellen und industriellen Freiheit. Seitdem die Macht des Clerus und der Aristokratie beschränkt ist, seitdem die nutzlos gelegenen und selbst bei ehrlichem Anbau nicht hinreichend ausgebeuteten Domänen der Fürsten an den meisten Orten der Nation überlassen sind, seitdem die Monopole und Privilegien erstarben, hat sich überall eine kecke, fröhliche Lust an der, wie Göthe</tei:seg>
+        <tei:hi style="sup">*</tei:hi>
+        <tei:ref type="footnote" target="#footnote-20">)</tei:ref>
+        <tei:seg> sagt, „süßen Gewohnheit des Daseyns“ gezeigt und Menschen die Hülle und Fülle ins Leben gerufen. Die Bevölkerung nahm mit so gewaltiger Schnelligkeit zu, daß sich der Phantasie das Schreckbild der Uebervölkerung bemächtigte und in Malthus einen finstern, unglücksschwangern Propheten fand. Ich habe einen Bekannten, der über die Lektüre des Malthus’schen Buches in Trübsinn verfallen ist. Ueberall, wo er hinsieht, erblickt er die Plage der Uebervölkerung. Ueberall sind ihm die Menschen zu zahlreich. Die Gier, welche diese Millionen beseelen muß, um sich zu ernähren, hat ihn feige gemacht, die Conkurrenz auszuhalten und mit im Athem zu bleiben bei dem allgemeinen Wettlaufe. Sein Geschäft blieb </tei:seg>
         <tei:pb n="186"/>
         <tei:seg> unter diesen Umständen zurück. Das Daseyn, das er sich fristet, ist kümmerlich genug.</tei:seg>
       </tei:p>
@@ -1760,7 +1784,11 @@
         <tei:foreign>Chateaubriand, Lamartine</tei:foreign>
         <tei:seg>, Tiek? Würden Sie nicht alle menschlich genug empfinden, zu sagen: Besser, es war nie ein Shakespeare da, als daß seinetwegen die Harmonie der behaglichen Existenz in der Welt gehindert wäre, besser, wir alle sind unbekannt und müssen hinterm Pfluge gehen, als daß unsertwegen </tei:seg>
         <tei:pb n="223"/>
-        <tei:seg> eine Aristokratie der Geister etablirt werde, die auf hundert Menschen immer neunzig Darbende brächte ).</tei:seg>
+        <tei:seg> eine Aristokratie der Geister etablirt werde, die auf hundert Menschen immer neunzig Darbende brächte </tei:seg>
+        <tei:hi type="footnote" target="#footnote-27" style="sup">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:hi>
+        <tei:seg>).</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Was thu’ ich? Diese Fragen sind die müßigsten von der Welt. Die Umstände, nicht Personen könnten sie allenfalls entscheiden. Welche Thorheit, Fragen aufzuwerfen, die nicht anders klingen, als wenn man Jemanden früge: Würden Sie wohl von einem Thurme herabspringen, wenn das Leben Ihrer Schwester davon abhinge! Und doch liegt vielleicht ein Sinn hinter der Frage – mag ihn die Zukunft auffinden. Ich fühle nur zu gut, daß aus Theorien nichts Ewiges geboren wird, und daß in der Geschichte keine Theorie wahr ist, wenn sie nicht sogleich Eile hat, daß sie von der Praxis nicht überholt werde. Auch Fourier’s Phalanstère, große Ge­meindehäuser, wo jeder zur Philosophie der </tei:seg>
@@ -1793,7 +1821,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">230</tei:hi>
         </tei:pb>
@@ -1863,8 +1891,10 @@
         <tei:seg>Dieser innere Entdeckungsgeist wurde vorzüglich von der noch immer fabelhaften Geographie Afrika’s angelockt. Das Innere von Afrika ist in der Geographie von Herodot, bis sogar in die neuesten Zeiten, in die Zeiten der Lander und Clapperton der geographische Stein der Weisen gewesen. Homer und Herodot sahen in Afrika nur eine unbestimmte, vage Ausdehnung, von schwarzen Aethiopen bewohnte Grenze des in ihrer geographischen Vorstellung lebenden Erdtellers. Die Neger waren ihnen die Söhne jener Nacht, welche rings den Erdkreis umgibt. Spätere Geographen, freilich noch aus der Kindheit der Wissenschaft, wollten wenigstens ein Ende dieser Nacht sehen und umrandeten Afrika mit einer großen Mauer, um welche Sonne und Mond ihren Kreislauf halte. Erst später ahnte man, daß Afrika die Form jenes pythagoräischen Satzes hat, daß das Quadrat der Katheten gleich sey dem Quadrat der Hypotenuse. Allmählich lernte man die Küste des Landes kennen; aber Alles, was man von dem Innern </tei:seg>
         <tei:pb n="239"/>
         <tei:seg> des Landes spricht, ist noch unentdeckt, ist nur Ahnung und so gut wie fabelhafte Ueberlieferung. Doch soll es ungeheure Seen geben, Flüsse, in welchen sich fruchtbare Wälder spiegeln, Sprachen und Religionen der wunderbarsten Zusammensetzung. Schon arabische Schriftsteller nannten, um ihre Achtung vor dem innern Afrika auszusprechen, dasselbe die Wiese der Vergoldung, die Grube der Edelsteine </tei:seg>
-        <tei:hi style="sup">*</tei:hi>
-        <tei:seg>. Die Jesuiten und Portugiesen, welche späterhin das Innere Afrikas untersuchten, haben bei aller Entschlossenheit, die sie in ihren Entdeckungszügen an den Tag legten, doch immer den Eindruck hinterlassen, daß ihre Entdeckungen, bis man ihnen vollen Glauben schenken dürfte, erst von dem nüchternen Verstand der Neuern revidirt werden müßten. Alle Entdeckungen, die man in neurer Zeit in dieser Hinsicht mit so großer Aufopferung gemacht hat, lehnten sich immer noch mehr an die östliche Küste Afrika’s an. Die Bekanntwerdung Timbuktus und der Nigermündung gelang dem Franzosen Caillé und dem Märtyrer-Brüderpaar Lander. Vor ihnen hatte schon der Engländer Laing sein Leben dem afrikanischen Stein der Weisen geopfert. Caillé wurde durch einen von der Pariser geographischen Gesellschaft ausgestellten Preis zu seiner Entdeckungsreise angespornt. Er zog als Araber von Geburt, und nur von den Franzosen nach der egyptischen Expedition mit fortgenommen, in das Dunkel einer </tei:seg>
+        <tei:ref type="footnote" target="#footnote-28">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:seg>). Die Jesuiten und Portugiesen, welche späterhin das Innere Afrikas untersuchten, haben bei aller Entschlossenheit, die sie in ihren Entdeckungszügen an den Tag legten, doch immer den Eindruck hinterlassen, daß ihre Entdeckungen, bis man ihnen vollen Glauben schenken dürfte, erst von dem nüchternen Verstand der Neuern revidirt werden müßten. Alle Entdeckungen, die man in neurer Zeit in dieser Hinsicht mit so großer Aufopferung gemacht hat, lehnten sich immer noch mehr an die östliche Küste Afrika’s an. Die Bekanntwerdung Timbuktus und der Nigermündung gelang dem Franzosen Caillé und dem Märtyrer-Brüderpaar Lander. Vor ihnen hatte schon der Engländer Laing sein Leben dem afrikanischen Stein der Weisen geopfert. Caillé wurde durch einen von der Pariser geographischen Gesellschaft ausgestellten Preis zu seiner Entdeckungsreise angespornt. Er zog als Araber von Geburt, und nur von den Franzosen nach der egyptischen Expedition mit fortgenommen, in das Dunkel einer </tei:seg>
         <tei:pb n="240"/>
         <tei:seg> unbekannten Welt hinein. Er gebrauchte die Vorsicht, sich für einen Kaufmann auszugeben. Er verkaufte in Timbuktu seine Waaren, verzehrte aber das dafür eingelöste Geld und sah sich genöthigt zu betteln. Er pflegte sich an Karawanen als ein bescheidner, armer Hilfsbedürftiger anzuschließen. Auf diese Weise durchzog er durch glühende Sandwüsten das mittlere Afrika so weit, bis er endlich in den marokkanischen Raubstaaten wieder herauskam. Caillé’s Abenteuer sind um so interessanter, da es ihm an allen Vorkenntnissen, die zu einer Entdeckungsreise gehören würden, fehlte. Ein Wollaston würde wesentlichere Resultate aus Timbuktu zurückgebracht haben, aber auch Gefahr gelaufen seyn, von den miß­trauischen Einheimischen bei dem ersten Experiment, das er gemacht hätte, für einen Zauberer angesehen und darnach behandelt worden zu seyn. Im Allgemeinen ist das Bild, welches wir durch Caillé vom innern Afrika erhalten haben, ein wüstes und ödes. Die Städte sind in den tiefen Sand nur leise und mit Vorsicht eingesenkt. Die Hitze des Aequators treibt den Keim jeder nach Leben ringenden Vegetation in die allgemeine Asche des Erdreichs zurück. Selten, daß sich eine Pflanze einige Fuß über die mütterliche Erde hinauswagt. Nirgends der Gesang eines Vogels, Todtenstille auf den Straßen, die Grabesgedanken der egyptischen Welt in förmliche Verwesungsbegriffe gesteigert. Verläßt man die Stätte, so kann man wohl kennen lernen, wodurch im Menschen das religiöse Gefühl geweckt wird. Es ist </tei:seg>
         <tei:pb n="241"/>
@@ -2017,7 +2047,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">270</tei:hi>
         </tei:pb>
@@ -2264,7 +2294,13 @@
         <tei:pb n="313"/>
         <tei:seg> Harun al Raschid. Sie wallfahrteten nach den damaligen Mekka’s der Literatur, nach Ferney, Montmorency, Düsseldor</tei:seg>
         <tei:hi style="letter-sparse">f</tei:hi>
-        <tei:seg> ) und Weimar. Sie waren nicht so sehr Beschützer der Wissenschaft, als ihrem Dienste </tei:seg>
+        <tei:ref type="footnote" target="#footnote-29">
+          <tei:hi style="letter-sparse sup">*</tei:hi>
+        </tei:ref>
+        <tei:hi style="letter-sparse">)</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:ref type="footnote" target="#footnote-7"/>
+        <tei:seg>und Weimar. Sie waren nicht so sehr Beschützer der Wissenschaft, als ihrem Dienste </tei:seg>
         <tei:hi style="letter-sparse">selbs</tei:hi>
         <tei:seg>t mit ganzer Seele hingegeben. Kurz daß im achtzehnten Jahrhundert der Eine Fürst, der Andere Privatmann war, schien mehr eine unschuldige Etiquette, als ein Privilegium zu seyn. Die französische Revolution hat dagegen alle Ansprüche wieder auf die Spitze gestellt; die Herrschaft, von der Revolution bestritten, wurde nur desto leidenschaftlicher festgehalten. Die Fürsten drangen selbst auf Verfassungen, selten, um die Nation zu emancipiren, sondern um ihre eigenen Rechte Schwarz auf Weiß zu haben. Ihr Benehmen wurde schroff und ausschließlich; die Tendenzen des Liberalismus, welche sie fürch­teten, machten sie unmuthig und miß­trauisch. Sie zogen sich auf den Umgang nur derjenigen zurück, welche mit ihnen zu gleicher Zeit auf der Hut seyn müssen, der Aristokratie. Die Fürsten vernachlässigten allmählig, weil sie sich doch durch die Verfassung in einen bloßen Begriff verwandelt hatten, ihre persönliche Ausbildung.</tei:seg>
       </tei:p>
@@ -2480,7 +2516,7 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">350</tei:hi>
         </tei:pb>
@@ -2621,7 +2657,12 @@
         <tei:pb n="379"/>
         <tei:seg> Rousseau irgend einen </tei:seg>
         <tei:hi style="letter-sparse">Hauptpunk</tei:hi>
-        <tei:seg>t in seiner beabsichtigten Reform der Erziehungsmethode getroffen? Seine Schriften sind im Grunde alle weit mehr politischer als moralischer Natur. Daß die Frauen ihre Kinder selbst säugen, darum brauchte kein Prophet aufzustehen. Man brauchte deßhalb nur auf die Alten zu verweisen, nicht auf die Thiere ).</tei:seg>
+        <tei:seg>t in seiner beabsichtigten Reform der Erziehungsmethode getroffen? Seine Schriften sind im Grunde alle weit mehr politischer als moralischer Natur. Daß die Frauen ihre Kinder selbst säugen, darum brauchte kein Prophet aufzustehen. Man brauchte deßhalb nur auf die Alten zu verweisen, nicht auf die Thiere </tei:seg>
+        <tei:ref type="footnote" target="#footnote-8"/>
+        <tei:ref type="footnote" target="#footnote-30">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:seg>).</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Die Alten glaubten, die Tugend könne gelehrt werden. Viele Dialogen des Plato behandeln dieß Thema; beim Plutarch findet sich eine Abhandlung unter dieser Ueberschrift, die aber nicht vollendet ist. Sokrates, der jungen Atheniensern Stöcke zwischen die Beine warf, um sie davon zu überzeugen, daß sie straucheln könnten, machte sich zu weiter keinem Unterrichte anheischig, als dem in der Tugend. Bei uns hat man dieß so verstanden, wie die Medicin ihre Pharmakologie versteht. Ein Kranker leidet am Magen. Er hat zu gleicher Zeit Fieber und Verstopfung. Jetzt raisonnirt die aufgeklärte Arzneikunde unsrer Zeit so: Ich geb’ ihm ein Dekokt, worin saure Ingredienzien das Fieber stillen und salzige eine Abführung verursachen. Daß Sauer und Salzig in ihrer Mischung ferner weder sauer noch salzig </tei:seg>
@@ -2851,17 +2892,17 @@
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb>
           <tei:hi style="font-size-large">414</tei:hi>
         </tei:pb>
         <tei:hi style="font-size-large"> Sitte und Sitten.</tei:hi>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Aus einem ungedruckten Romane.</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:hi style="letter-sparse">Tant</tei:hi>
         <tei:seg>e</tei:seg>
         <tei:hi style="letter-sparse"> Rebekk</tei:hi>
@@ -3183,24 +3224,114 @@
       <tei:p style="text-center">
         <tei:seg>Ende des ersten Bandes.</tei:seg>
       </tei:p>
+      <tei:note type="footnote" xml:id="footnote-9">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Es ist hier ein Privatverhältniß erwähnt.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-12">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Nordamerika.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-17">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Vielleicht Anspielungen auf den Herzog von Bedford, den Vater Lord John Russels?                                      A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-2">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Vielleicht Anspielungen auf den Herzog von Bedford, den Vater Lord John Russels? </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>                                                                                                                         A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-3">
+        <tei:p style="text-left">
+          <tei:seg>*) Herr Grant pflegt öfters die Emanzipation der Juden beim Parlamente einzubringen.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-18">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Herr Grant pflegt öfters die Emanzipation der Juden beim Parlamente einzubringen.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-19">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Die jährliche Tilgung der Staatsschulden.                                         A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-20">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Schiller.                                A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-27">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Die Alternative des Verfassers ist richtig, aber wunderlich gestellt; wenigstens würde </tei:seg>
+          <tei:hi style="letter-sparse">Tiek</tei:hi>
+          <tei:seg>, der bekanntlich wenig Sinn für die Menschheit im Großen hat, die von Bulwer an ihn gestellte Frage ganz in einem ihm unerwarteten Sinne beantworten.                                   A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-28">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Arabische Schriftsteller nannten nur ihre Erdbeschreibungen so.                                        A.d.U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-29">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Ist wohl Pempelfort gemeint?                              A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-7">
+        <tei:p style="text-left">
+          <tei:seg>*) Ist wohl Pempelfort gemeint?                                A. d. U.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-8">
+        <tei:p style="text-left">
+          <tei:seg>*) Die Alten sagten schon: „Eine gemeinschaftliche Nahrung ist sozusagen der </tei:seg>
+          <tei:hi style="letter-sparse">Wirbel</tei:hi>
+          <tei:seg>, das Epitonium der Zuneigung,“ ein Gleichniß, welches von musikalischen Instrumenten hergenommen ist, deren Saiten man durch das Epitonion zur Harmonie aufspannt.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-30">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) Die Alten sagten schon: "Eine gemeinschaftliche Nahrung ist sozusagen der </tei:seg>
+          <tei:hi style="letter-sparse">Wirbel</tei:hi>
+          <tei:seg>, das Epitonium der Zuneigung," ein Gleichniß, welches von musikalischen Instrumenten hergenommen ist, deren Saiten man durch das Epitonion zur Harmonie aufspannt.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -3252,16 +3383,16 @@
           <tei:seg> (Titelauflage) In: Karl Gutzkow: Gesammelte Werke. Zweite, wohlfeile Ausgabe. Erste Serie. Bd. 8. Jena: Costenoble, [1879]. (Rasch 1.5.a)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Buchdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -3285,16 +3416,16 @@
       <tei:p style="text-left">
         <tei:seg>▄Zusammenfassende Beschreibung und exemplarische Nennung der Abweichungen in A und B von E.▀</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>3.1. Quellen:</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Franz Kottenkamp [→ Lexikon ]: Die Engländer. Mannheim: Heinrich Hoff, 1836.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>3.2. Gattungsfolien:</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -3309,7 +3440,7 @@
       <tei:p style="text-left">
         <tei:seg>‚Skizzen' und ‚Charakterzeichnungen' als kleine soziologische Studien, die in der zeitgenössischen europäischen Journalliteratur häufig vorkommen und vom jungdeutschen Journalismus, besonders im Umkreis Gutzkows, eifrig geübt werden. (→ Globalkommentar: 6.1.3. Die Skizzenliteratur der 1830er Jahre)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>3.3. Anspielungshorizonte:</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -3333,10 +3464,10 @@
       <tei:p style="text-left">
         <tei:seg>Die von Westeuropa vorgegebene zeitgemäße Publikationsform des Werkes in Fortsetzungen, einer Zwischenform von Buch und Journal. (→ Drucke, E und J; → Dokumente zur Entstehungsgeschichte, Nr. 2; → Entstehungsgeschichte)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -3396,13 +3527,13 @@
       <tei:p style="text-left">
         <tei:seg>Mit der lukrativen Publikationsweise in Lieferungen, die dem Sittenbild des 19. Jahrhunderts als modernste Art der Vermittlung gedruckten Wissens vollkommen entspricht, schließt sich Gutzkow eng an westeuropäische Entwicklungen an, namentlich - wie er selbst in den Rückblicken angibt (→ Dokumente zur Entstehungsgeschichte, Nr. 3.b.) - an das "Livre des Cent-et-un" (→ Lexikon). Diese Serie von Skizzen des Pariser Lebens, erschienen 1831-34 (auch in deutscher Übersetzung), soll zur Rettung des von finanziellem Ruin bedrohten Verlegers Ladvocat dienen. In England ist es Charles Dickens, der 1836-37 mit der lieferungsweisen Veröffentlichung der "Pickwick Papers" einen unerhörten Erfolg erlebt. Begonnen wurden sie als Serie kommentierter sozialer Skizzen, jedoch sie entwickeln sich bald zum eigenständigen illustrierten Fortsetzungsoman. Der erste Band der Zeitgenossen, der die Lieferungen 1-6 (Der Mensch des neunzehnten Jahrhunderts bis zur ersten Hälfte von Sitte und Sitten sowie die einleitende Zueignung An Sir Ralph) umfasst, ist im Juni 1837 komplett (vgl. z. B. den Hinweis auf den geplanten bzw. erfolgten Abschluss des Bandes in den Dokumenten zur Rezeptionsgeschichte, → Erklärungen Gutzkows, Nr. 1 und → Rezensionen, Nr. 4). Für Raschs Angabe, der erste Band sei schon im März publiziert worden (Rasch 2.14), finden sich in den zeitgenössischen Rezensionen keine Hinweise. Anzunehmen ist, dass nicht der erste Band, sondern die erste Lieferung der Zeitgenossen im März erschien. Es entspricht Gutzkows erklärtem Wunsch, die Buchform für ein Projekt dieser Art letztlich aufzugeben und es stattdessen als Monatsschrift, also als Periodikum vom Typ der ‚Revue', fortzuführen: Möglich, daß meine Zeitgenossen, nachdem sie ein Buch gewesen sind, sich zuletzt in eine Monatsschrift verwandeln (Zg, Bd 1, S. XXIII; ZgWWW, S. 15). Weitere Ausführungen zur Revue bzw. Enzyklopädie als Wissensordnungen im → Globalkommentar: 6.1.4.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>5.1.1. Erklärungen Gutzkows</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -3453,7 +3584,7 @@
       <tei:p style="text-left">
         <tei:seg>Noch jetzt, ich bekenne es offen, lese ich diese Schrift in den meisten Parthieen mit Befriedigung. Wäre sie in [166] englischer Sprache erschienen und wirklich eine Uebersetzung gewesen, man hätte ihr eine Stellung gegeben.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>5.1.2. Rezensionen</tei:seg>
       </tei:head>
       <tei:p style="text-left">

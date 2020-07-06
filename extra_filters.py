@@ -37,9 +37,9 @@ def fancy_date(date):
     if len(date) == 1:
         return date[0]
     elif len(date) == 2:
-        return f'{date[1]}.{date[0]}'
+        return '{0}.{1}'.format(date[1], date[0])
     elif len(date) == 3:
-        return f'{date[2]}.{date[1]}.{date[0]}'
+        return '{0}.{1}.{2}'.format(date[2], date[1], date[0])
     return ''
 
 
