@@ -6,16 +6,8 @@
         <tei:title>Vorwort zum "Literatur-Blatt" des "Phönix"</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Wolfgang Rasch</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI setup</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -41,8 +33,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2008-12" who="#WolfgangRasch">Text &amp; Miniapp: Fassung 1.0 </tei:change>
-      <tei:change who="#GertVonhoff" when="2019-09-10">Text &amp; Miniapp: Fassung 1.1 (Anpassung an TEI)</tei:change>
+      <tei:change when="2008-12" who="#WolfgangRasch">1.0 </tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

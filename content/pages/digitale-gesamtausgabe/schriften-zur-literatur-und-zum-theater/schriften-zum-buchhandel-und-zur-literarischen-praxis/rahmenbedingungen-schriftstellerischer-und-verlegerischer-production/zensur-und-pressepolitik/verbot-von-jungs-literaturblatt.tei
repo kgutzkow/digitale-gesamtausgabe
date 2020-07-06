@@ -6,17 +6,14 @@
         <tei:title>[Verbot von Jungs „Literaturblatt“.]</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -42,7 +39,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change who="#MarkMichaelHall" when="2020-05-01">TEI Transform</tei:change>
+      
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

@@ -6,22 +6,17 @@
         <tei:title>Ueber Preisherabsetzungen im Buchhandel.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
-        <tei:respStmt/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -46,12 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.1: Layout angepasst, HTML eingetragen</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.2: Fuss- und Kopfbereich fuer neue Website angepasst</tei:change>
-      <tei:change when="2007-01" who="#GertVonhoff">Fassung 1.3: Ergaenzung von Erl. 3,7-8 Lords vom Muehlendamm</tei:change>
-      <tei:change when="2007-08" who="#GertVonhoff">Fassung 1.4: Sigle A gegen E ausgetauscht</tei:change>
-      <tei:change who="#MartinaLauster" when="2020-07-06">Fassung 1.5: Kollationierungskorrekturen</tei:change>
+      <tei:change when="2001-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>

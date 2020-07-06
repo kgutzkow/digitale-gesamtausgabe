@@ -6,13 +6,10 @@
         <tei:title>Zur Arnim-Affaire</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="KurtJauslin">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Kurt Jauslin</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
-        </tei:respStmt>
+        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -38,7 +35,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2012-12" who="#KurtJauslin">Erstfassung</tei:change>
-      <tei:change who="#MarkMichaelHall" when="2020-04-30">TEI Transformation</tei:change>
+      
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
