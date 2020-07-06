@@ -48,6 +48,8 @@ def check_reponsible_users(doc, errors):
             for idx2, r in enumerate(resp):
                 if not r.xpath('text()') or r.xpath('text()')[0].strip() == '':
                     errors.append('respStmt {0} resp {1} is empty'.format(idx + 1, idx2 + 1))
+                elif not r.xpath('text()')[0].startswith('Herausgeber'):
+                    errors.append('respStmt {0} resp {1} must bei either Herausgeber or Herausgeberin'.format(idx + 1, idx2 + 1))
         name = respStmt.xpath('tei:name', namespaces=ns)
         if len(name) == 0:
             errors.append('respStmt {0} is missing its name entry'.format(idx + 1))
