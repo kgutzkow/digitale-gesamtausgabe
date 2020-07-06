@@ -61,11 +61,23 @@
         <tei:seg> Ueber Preisherabsetzungen im Buchhandel.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der Buchhändler </tei:seg>
-        <tei:hi style="letter-sparse">Hoff</tei:hi>
-        <tei:seg> in Mannheim verlegte vor einigen Jahren von dem talentvollen Schauspieler und gewandten Schriftsteller </tei:seg>
-        <tei:hi style="letter-sparse">Jerrmann</tei:hi>
-        <tei:seg> eine Streitschrift, die ihm durch persönliche Begegnisse abgenöthigt wurde. Kürzlich erzürnten sich aus Ursachen, die nicht hierhergehören, Verfasser und Verleger und der letzte rächte sich an jenem dadurch, daß er die erwähnte Brochüre für 3 Kreuzer öffentlich ausbot und bei zwei Exemplaren, die der Käufer nehmen wolle, sogar für 2 Kreuzer. Herr O. Wigand in Leipzig, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren ein Werk von J. Jacoby, das er kürzlich, um diesen Apostaten früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten ihren Verlag auf die niedrigsten Preise herab, verkaufen ihn parthienweise und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
+        <tei:seg>Der </tei:seg>
+        <tei:ref type="esv" target="#">Buchhändler </tei:ref>
+        <tei:ref type="esv" target="#annotation-1">
+          <tei:hi style="letter-sparse">Hoff</tei:hi>
+        </tei:ref>
+        <tei:ref type="esv" target="#"> in Mannheim</tei:ref>
+        <tei:seg> verlegte vor einigen Jahren von dem talentvollen Schauspieler und gewandten Schriftsteller </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">
+          <tei:hi style="letter-sparse">Jerrmann</tei:hi>
+        </tei:ref>
+        <tei:seg> eine </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">Streitschrift</tei:ref>
+        <tei:seg>, die ihm durch persönliche Begegnisse abgenöthigt wurde. Kürzlich erzürnten sich aus Ursachen, die nicht hierhergehören, Verfasser und Verleger und der letzte rächte sich an jenem dadurch, daß er die erwähnte Brochüre </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">für 3 Kreuzer</tei:ref>
+        <tei:seg> öffentlich ausbot und bei zwei Exemplaren, die der Käufer nehmen wolle, sogar für 2 Kreuzer. Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">O. Wigand in Leipzig</tei:ref>
+        <tei:seg>, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren ein Werk von J. Jacoby, das er kürzlich, um diesen Apostaten früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten ihren Verlag auf die niedrigsten Preise herab, verkaufen ihn parthienweise und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Jedes neue Cirkulär, jede neue Nummer des Buchhändlerbörsenblatts bringt neue Preisherabsetzungen. Kein Autor ist mehr sicher, über Nacht von seinem Verleger gedemüthigt zu werden. </tei:seg>
@@ -125,8 +137,70 @@
         <tei:hi style="letter-sparse">literarischen</tei:hi>
         <tei:seg> Thätigkeit, er würde nicht nur die Literatur nicht, sondern sich selbst nicht mehr untergraben. So aber, wie es bisher war, steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe, die das Bessere nicht aufkommen läßt, und setzt auf der andern Seite seine eigne Würde herab und benimmt sich die Möglichkeit seines bessern Gewinnes, eben durch solche Manöver, wie sie </tei:seg>
         <tei:pb n="1558"/>
-        <tei:seg> jetzt im Buchhandel an der Tagesordnung sind. Möglich, daß diese Preisherabsetzungen das Gute haben, den Buchhandel über sich aufzuklären und die Vorräthe willkürlich hervorgerufener Produktionen aufzuräumen, so daß endlich Platz und Raum dem in der Literatur organisch Nothwendigen offen wird. Es muß ein besseres Gleichgewicht der beiden Faktoren des literarischen Lebens, der Buchhändler und der Schriftsteller, eintreten, damit jene endlich aufhören, mehr zu produziren, als diese den Trieb und das Publikum das Bedürfniß hat.</tei:seg>
+        <tei:seg> jetzt im Buchhandel an der Tagesordnung sind. Möglich, daß diese Preisherabsetzungen das Gute haben, den Buchhandel über sich aufzuklären und die Vorräthe willkürlich hervorgerufener Produktionen aufzuräumen, so daß endlich Platz und Raum dem in der Literatur organisch Nothwendigen offen wird. Es muß ein besseres Gleichgewicht der beiden Faktoren des literarischen Lebens, der Buchhändler und der Schriftsteller, eintreten, damit jene endlich aufhören, mehr zu produziren, als diese den Trieb und das Publikum das Bedürfniß hat.                                                                                       G.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p style="text-center">
+          <tei:hi style="font-size-medium">6.2. Einzelstellenerläuterungen</tei:hi>
+        </tei:p>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>
+            <tei:seg>Buchhändler </tei:seg>
+            <tei:hi style="letter-sparse">Hoff</tei:hi>
+            <tei:seg> in Mannheim</tei:seg>
+          </tei:lem>
+          <tei:seg> Der Verlagsbuchhändler Heinrich Hoff (1808-1852) publizierte in den 1830er und frühen 40er Jahren u. a. Erzählprosa und Reiseliteratur von Heinrich Laube, die Geschichtswerke zur Französischen Revolution von Thiers und Mignet sowie die Romane von Walter Scott in deutscher Übersetzung.  Wegen seiner politischen Position und der Herausgabe des „Deutschen Liederbuchs“ (1847) wurde er wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>
+            <tei:hi style="letter-sparse">Jerrmann</tei:hi>
+          </tei:lem>
+          <tei:seg> Eduard Jerrmann (1798-1859), Schauspieler und Schriftsteller, von 1836-1842 Regisseur am Mannheimer Theater. Gutzkow lernte ihn 1833 in München kennen. In den </tei:seg>
+          <tei:q>Rückblicken auf mein Leben</tei:q>
+          <tei:seg> widmet er ihm eine eingehende Charakteristik (GWB VII, Bd. 2, S. 99-100).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>Streitschrift</tei:lem>
+          <tei:seg>  Eduard Jerrmann: Reue und Bekenntnisse [...]. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn </tei:seg>
+          <tei:foreign>Dr</tei:foreign>
+          <tei:seg>. B. Rave. Mannheim: Hoff, 1836. (→ </tei:seg>
+          <tei:ref target="#global" data-heading-id="Streitschrift Jerrmanns">Globalkommentar</tei:ref>
+          <tei:seg>.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,15-16</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>für 3 Kreuzer</tei:lem>
+          <tei:seg> Heinrich Hoff korrigierte in seiner Erwiderung „Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt“ (Dokument 5.1.1) süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,17-18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:lem>O. Wigand in Leipzig</tei:lem>
+          <tei:seg> Otto Friedrich Wigand (1795-1870), aus Göttinger Buchhandelsfamilie, führte nach einer erfolgreichen Zeit als Verleger in Pest seit 1832 in Leipzig ein Verlagsgeschäft, „das seinen Namen weit und breit berühmt machte“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Beiträge zu einer Firmengeschichte des deutschen Buchgewerbes. 6 Bde. Berlin: Weber / Eberswalde: Schmidt, 1902-1906. Bd. 6, S. 1045). Im Verlag Otto Wigand erschienen u. a. die „Hallischen Jahrbücher für deutsche Wissenschaft und Kunst“, in den 1840er Jahren das Organ der Junghegelianer. In den </tei:seg>
+          <tei:q>Rückblicken</tei:q>
+          <tei:seg> schildert Gutzkow Wigand als einen der </tei:seg>
+          <tei:q>Freigesinnten</tei:q>
+          <tei:seg> im Gegensatz zu dem zynisch auftretenden </tei:seg>
+          <tei:q>Radikalen</tei:q>
+          <tei:seg> Heinrich Hoff (GWB VII, Bd. 2, S. 190).</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
@@ -138,9 +212,9 @@
         <tei:seg> erschien, wurde als ‚Probeblatt‛ in einer Auflage von mehreren tausend Exemplaren gratis verteilt, so dass der Artikel mit seinem Angriff auf den Mannheimer Buchhändler Heinrich Hoff besondere Reichweite erlangte.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Zur Aufnahme des Textes in den zweiten Band der </tei:seg>
+        <tei:seg>Bei der Aufnahme in den zweiten Band der </tei:seg>
         <tei:q>Vermischten Schriften</tei:q>
-        <tei:seg> (1842) kürzte Gutzkow den Text um die brisanten Stellen, aus denen sich der öffentlich ausgetragene Streit (in der Hauptsache zwischen ihm und Hoff) entwickelt hatte.</tei:seg>
+        <tei:seg> (1842) kürzte Gutzkow den Text um die brisanten Stellen, aus denen sich ein öffentlich ausgetragener Streit entwickelt hatte.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
@@ -159,7 +233,7 @@
       </tei:head>
       <tei:list type="sources">
         <tei:item>
-          <tei:seg>J [Karl]G[utzkow]: Ueber Preisherabsetzungen im Buchhandel. In: Telegraph für Deutschland. Hamburg. Nr. 195, [7.] Dezember 1838, S. 1553-1558. (Rasch 3.38.12.07) </tei:seg>
+          <tei:seg>J [Karl] G[utzkow]: Ueber Preisherabsetzungen im Buchhandel. In: Telegraph für Deutschland. Hamburg. Nr. 195, [7.] Dezember 1838, S. 1553-1558. (Rasch 3.38.12.07) </tei:seg>
         </tei:item>
         <tei:item>
           <tei:seg>E Ueber Preisherabsetzungen im Buchhandel. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: J.  J. Weber, 1842. S. 3-9. (Rasch 2.23.2.1.1) </tei:seg>
@@ -178,81 +252,113 @@
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">157,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ausstellung</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Aufstellung</tei:sic>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left">
-        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Für die Aufnahme des Textes in E strich Gutzkow die folgenden Passagen: 156,10-31 (</tei:seg>
+        <tei:q>Der Buchhändler </tei:q>
+        <tei:q>
+          <tei:hi style="letter-sparse">Hoff</tei:hi>
+        </tei:q>
+        <tei:q> in Mannheim</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß</tei:q>
+        <tei:seg>), 157,25-34 (</tei:seg>
+        <tei:q>Die Literatur muß auf das Entschiedenste gegen das Verfahren jener Buchhändler protestiren</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>willkürlich im Preise herabsetzen</tei:q>
+        <tei:seg>), 158,14-15 (</tei:seg>
+        <tei:q>In Berlin nennen das die Lords vom Mühlendamm </tei:q>
+        <tei:q>
+          <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
+        </tei:q>
+        <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und erhalten blieb die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>4. Entstehung</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>1. Heinrich Hoff: Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt. In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 1, 26. Januar 1839, [S. 1-2]. (Rasch 9/2.39.01.26)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>1. Heinrich Hoff: Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt. In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 1, 26. Januar 1839, [S. 1-2] (Rasch 9/2.39.01.26).</tei:seg>
+        <tei:seg>2. 135.: Schriftsteller und Verleger. In: Blätter für literarische Unterhaltung. Leipzig. Nr. 36, 5. Februar 1839, S. 145-146; Nr. 37, 6. Februar 1839, S. 149-150. (Rasch 9/2.39.02.05)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>2. 135.: Schriftsteller und Verleger. In: Blätter für literarische Unterhaltung. Leipzig. Nr. 36, 5. Februar 1839, S. 145-146 / Nr. 37, 6. Februar 1839, S. 149-150 (Rasch 9/2.39.02.05).</tei:seg>
+        <tei:seg>3. K[arl] G[utzkow]: Abfertigung des Buchhändlers Hoff, Wohlgeboren. In: Telegraph für Deutschland. Hamburg. Nr. 26, [13.] Februar 1839, S. 201-201. (Rasch 3.39.02.13)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>3. Karl Gutzkow und die Gutzkowgraphie. Ein gemüthliches Literaturbild von Heinrich Hoff, als Antwort auf die Abfertigung des Buchhändlers Hoff Wohlgeboren, von Karl Gutzkow. Mannheim: Hoff, 1839. 78 S., 1.Bl. Kl. 8°. Erschien um den 6. März 1839 (Rasch 9/2.39.03.06).  ((Weitere Auflagen: Unvollständiger und glossierter Wiederabdruck in: Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Mannheim: Hoff, 1839, S. 15-37, 77-78.))</tei:seg>
+        <tei:seg>4. Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Ein gemüthliches Literaturbild [...], als Antwort auf die Abfertigung des Buchhändlers Hoff Wohlgeboren, von Karl Gutzkow. Mannheim: Hoff, 1839.  (Rasch 9/2.39.03.06)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>4. [Anon.:] Kleine Chronik [Anmerkung zu einem Beitrag in den "Blättern für literarische Unterhaltung" über die Preisherabsetzung von Büchern]. In: Telegraph für Deutschland, Hamburg. Nr. 40, [9.] März 1839, S. 318-319 (Rasch 3.39.03.09).</tei:seg>
+        <tei:seg>5. [Anon.:] Kleine Chronik [Gutzkows Anmerkung zu dem Beitrag in den „Blättern für literarische Unterhaltung“, Dokument Nr. 5.1.2]. In: Telegraph für Deutschland. Hamburg. Nr. 40, [9.] März 1839, S. 318-319. (Rasch 3.39.03.09)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>5. Ed. Jerrmann: Wie der Buchhändler Heinrich Hoff in Mannheim denkt, handelt und - für sich schreiben läßt. In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 3, 9. März 1839, [S. 1-2] (Rasch 9/2.39.03.09).</tei:seg>
+        <tei:seg>6. Ed. Jerrmann: Wie der Buchhändler Heinrich Hoff in Mannheim denkt, handelt und - für sich schreiben läßt. In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 3, 9. März 1839, [S. 1-2]. (Rasch 9/2.39.03.09)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>6. [Anon.:] Literarische Notizen. Frankfurt. [Über Hoffs "Gutzkow und die Gutzkowgraphie".] In: Staats und Gelehrte Zeitung des Hamburgischen unpartheiischen Correspondenten. Hamburg. Nr. 68, 21. März 1839, [S. 5-6] (Rasch 9/2.39.03.21).</tei:seg>
+        <tei:seg>7. [Anon.:] Literarische Notizen. Frankfurt. [Über Hoffs „Gutzkow und die Gutzkowgraphie“.] In: Staats und Gelehrte Zeitung des Hamburgischen unpartheiischen Correspondenten. Hamburg. Nr. 68, 21. März 1839, [S. 5-6]. (Rasch 9/2.39.03.21)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>7. Heinrich Hoff: Das Manifest des Schauspielers Jerrmann in Nr. 3 des Intelligenzblattes der Ztg. f. d. Elegante Welt... In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 4, 30. März 1839, [S. 1] (Rasch 9/2.39.03.30).</tei:seg>
+        <tei:seg>8. Dr. Karl Gutzkow, Hamburg, den 18. März 1839: Erklärung gegen das Libell des Buchhändlers Hoff. In: Leipziger Allgemeine Zeitung. Nr. 82, 23. März 1839, S. 928. (Rasch 3.39.03.23.1)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>8. Ein Wort in Sachen des Dr. K. Gutzkow gegen den Buchhändler Heinrich Hoff in Mannheim von A. v. Crz. In: Die Eisenbahn. Leipzig. Nr. 46, 18. April 1839, S. 449-452 (Rasch 9/2.39.04.18.1).</tei:seg>
+        <tei:seg>9. Heinrich Hoff: Das Manifest des Schauspielers Jerrmann in Nr. 3 des Intelligenzblattes der Ztg. f. d. Elegante Welt... In: Zeitung für die elegante Welt. Leipzig. [Beiblatt:] Intelligenzblatt der Zeitung für die elegante Welt. Nr. 4, 30. März 1839, [S. 1]. (Rasch 9/2.39.03.30)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>9. Heinrich Hoff, Mannheim, den 7. April 1839: Karl Gutzkow betreffend. In: Allgemeine Zeitung Leipzig. Nr. 113, 23. April 1839, S. 1296 (Rasch 9/2.39.04.23).</tei:seg>
+        <tei:seg>10. Ein Wort in Sachen des Dr. K. Gutzkow gegen den Buchhändler Heinrich Hoff in Mannheim von A. v. Crz. In: Die Eisenbahn. Leipzig. Nr. 46, 18. April 1839, S. 449-452. (Rasch 9/2.39.04.18.1)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>10. [Anon.:] Correspondenz. Aus Frankfurt a. M. [Darin über die Broschüre Hoffs gegen Gutzkow.] In: Zeitung für die elegante Welt. Leipzig. Nr. 80, 25. April 1839, S. 320 / Nr. 81, 26. April 1839, S. 323 (Rasch 9/2.39.04.25).</tei:seg>
+        <tei:seg>11. Heinrich Hoff, Mannheim, den 7. April 1839: Karl Gutzkow betreffend. In: Leipziger Allgemeine Zeitung. Nr. 113, 23. April 1839, S. 1296. (Rasch 9/2.39.04.23)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>11. [Anon.:] Zeitung. Die Broschüre des Buchhändlers Hoff in Mannheim. In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 72, 3. Mai 1839, S. 574 (Rasch 9/2.39.05.03).</tei:seg>
+        <tei:seg>12. [Anon.:] Correspondenz. Aus Frankfurt a. M. [Darin über die Broschüre Hoffs gegen Gutzkow.] In: Zeitung für die elegante Welt. Leipzig. Nr. 80, 25. April 1839, S. 320; Nr. 81, 26. April 1839, S. 323. (Rasch 9/2.39.04.25)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>12. St***.: Xenien. [Zum Streit Gutzkows mit Hoff.] In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 106, 2. Juli 1839, S. 848 (Rasch 9/2.39.07.02).</tei:seg>
+        <tei:seg>13. [Anon.:] Zeitung. Die Broschüre des Buchhändlers Hoff in Mannheim. In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 72, 3. Mai 1839, S. 574. (Rasch 9/2.39.05.03)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
+        <tei:seg>14. St***.: Xenien. [Zum Streit Gutzkows mit Hoff.] In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 106, 2. Juli 1839, S. 848. (Rasch 9/2.39.07.02)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
-      </tei:p>
+      </tei:head>
       <tei:p style="text-left">
-        <tei:seg>?→ Globalkommentar.</tei:seg>
+        <tei:seg>Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Mannheim: Hoff, 1839. Diese Publikation druckte Gutzkows Artikel </tei:seg>
+        <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
+        <tei:seg> auf S. 15-37 und 77-78 unvollständig ab. Sie war mit Glossen des Verfassers Hoff versehen. Erschien um den 6. März 1839.  </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Im Frühjahr 1834 debütierte der Schauspieler Eduard Jerrmann mit Gastrollen in Köln und wies das unseriöse Angebot des Theaterkritikers F. A. Arnold, gegen Schmiergeld eine lobende Theaterkritik zu schreiben, ab, in dieser Zeit eine nicht untypische Offerte eines Theaterrezensenten. Arnold rächte sich mit einer abwertenden Kritik über Jerrmanns schauspielerische Leistung in der "Leipziger Allgemeinen Zeitung" sowie in der Kölner Lokalpresse. Diese Auseinandersetzung zwischen Schauspieler und Kritiker kulminierte in einer publizistischen Debatte, in deren Verlauf bei dem Mannheimer Verleger Heinrich Hoff Jerrmanns Broschüre "Reue und Bekenntnisse von Ed. Jerrmann. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn Dr. B. Rave" (1836) erschien, eine Erwiderung auf einen Beitrag des Kölner Kritikers Bernhard Rave. Der Konflikt weitete sich auf das Verhältnis zwischen Hoff und Jerrmann aus, als in einer Lokalzeitung des Buchhändlers Hoff die abwertende Rezension wiederabdruckt wurde. Hoff rächte sich für einen beleidigenden Brief Jerrmanns mit der Verschleuderung von dessen Broschüre: So reduzierte er den Preis von 36 Kreuzern auf 1 Kreuzer, versprach Abnehmern von wenigstens drei Exemplaren weitere Freistücke und setzte durch dieses Verfahren an einem Vormittag über 600 Exemplare zum Schaden des Autors ab.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Im Frühjahr 1834 debütierte der Schauspieler Eduard Jerrmann mit Gastrollen in Köln und wies das unseriöse Angebot des Theaterkritikers F. A. Arnold, gegen Schmiergeld eine lobende Theaterkritik zu schreiben, ab, in dieser Zeit eine nicht untypische Offerte eines Theaterrezensenten. Arnold rächte sich mit einer abwertenden Kritik über Jerrmanns schauspielerische Leistung in der "Leipziger Allgemeinen Zeitung" sowie in der Kölner Lokalpresse. Diese Auseinandersetzung zwischen Schauspieler und Kritiker kulminierte in einer publizistischen Debatte, in deren Verlauf bei dem Mannheimer Verleger Heinrich Hoff eine Streitschrift Jerrmanns erschien (→ Erl. zu 156,12) "Reue und Bekenntnisse von Ed. Jerrmann. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn Dr. B. Rave" (1836) erschien, eine Erwiderung auf einen Beitrag des Kölner Kritikers Bernhard Rave. Der Konflikt weitete sich auf das Verhältnis zwischen Hoff und Jerrmann aus, als in einer Lokalzeitung des Buchhändlers Hoff die abwertende Rezension wiederabdruckt wurde. Hoff rächte sich für einen beleidigenden Brief Jerrmanns mit der Verschleuderung von dessen Broschüre: So reduzierte er den Preis von 36 Kreuzern auf 1 Kreuzer, versprach Abnehmern von wenigstens drei Exemplaren weitere Freistücke und setzte durch dieses Verfahren an einem Vormittag über 600 Exemplare zum Schaden des Autors ab.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Gutzkow nahm 1836 den Streit zwischen Jerrmann und Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
       </tei:p>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
       <tei:p style="text-left">
         <tei:seg>6.2. Einzelstellenerläuterungen</tei:seg>
       </tei:p>
