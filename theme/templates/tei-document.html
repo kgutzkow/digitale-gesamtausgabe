@@ -42,32 +42,38 @@
           </ol>
         </dd>
         {% if page.bibl %}
-        <dt>Bibliographischer Nachweis</dt>
-        <dd>{{ page.bibl }}</dd>
+          <dt>Bibliographischer Nachweis</dt>
+          <dd>{{ page.bibl }}</dd>
         {% endif %}
         {% if page.authors %}
-        <dt>Autor</dt>
-        <dd>
-          <ul class="no-bullet">
-            {% for author in page.authors %}
-              <li>{{ author }}</li>
-            {% endfor %}
-          </ul>
-        </dd>
+          <dt>Autor</dt>
+          <dd>
+            <ul class="no-bullet">
+              {% for author in page.authors %}
+                <li>{{ author }}</li>
+              {% endfor %}
+            </ul>
+          </dd>
         {% endif %}
         {% if page.pdf %}
-        <dt>Druckansicht des Textes</dt>
-        <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
+          <dt>Druckansicht des Textes</dt>
+          <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
+        {% endif %}
+        {% if page.editors %}
+          {% for editor in page.editors %}
+            <dt>{{ editor.role }}</dt>
+            <dd>{{ editor.name }}</dd>
+          {% endfor %}
         {% endif %}
         {% if page.revisions %}
-        <dt>Fassung</dt>
-        <dd>
-          <ul class="no-bullet">
-            {% for revision in page.revisions %}
-              <li>{{ revision.version }} durch {% for editor in revision.editors %}{{ editor }}{% if loop.length > 0 and not loop.last%}{% if loop.index0 == loop.length - 2 %} und {% else %}, {% endif %}{% endif %}{% endfor %}, {{ revision.date|fancy_date }}{% if revision.text %}, {{ revision.text }}{% endif %}</li>
-            {% endfor %}
-          </ul>
-        </dd>
+          <dt>Fassung</dt>
+          <dd>
+            <ul class="no-bullet">
+              {% for revision in page.revisions %}
+                <li>{{ revision.version }} durch {% for editor in revision.editors %}{{ editor }}{% if loop.length > 0 and not loop.last%}{% if loop.index0 == loop.length - 2 %} und {% else %}, {% endif %}{% endif %}{% endfor %}, {{ revision.date|fancy_date }}{% if revision.text %}, {{ revision.text }}{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </dd>
         {% endif %}
       </dl>
     </aside>
