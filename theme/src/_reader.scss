@@ -119,6 +119,11 @@
         article {
             font-family: 'Merriweather', Arial, sans-serif;
             font-size: 11pt;
+
+            aside {
+                border-top: 1px solid $light-gray;
+                box-shadow: 0 0 10px $dark-gray;
+            }
         }
 
         aside {
