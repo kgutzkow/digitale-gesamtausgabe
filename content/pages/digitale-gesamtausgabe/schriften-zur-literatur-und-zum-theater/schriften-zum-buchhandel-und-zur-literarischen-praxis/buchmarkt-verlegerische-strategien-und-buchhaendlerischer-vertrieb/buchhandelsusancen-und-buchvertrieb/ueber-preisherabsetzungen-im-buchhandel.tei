@@ -56,17 +56,17 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="1553"/>
         <tei:seg> Ueber Preisherabsetzungen im Buchhandel.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Der </tei:seg>
-        <tei:ref type="esv">Buchhändler </tei:ref>
+        <tei:ref type="esv" target="#">Buchhändler </tei:ref>
         <tei:ref type="esv" target="#annotation-1">
           <tei:hi style="letter-sparse">Hoff</tei:hi>
         </tei:ref>
-        <tei:ref type="esv"> in Mannheim</tei:ref>
+        <tei:ref type="esv" target="#annotation-14"> in Mannheim</tei:ref>
         <tei:seg> verlegte vor einigen Jahren von dem talentvollen Schauspieler und gewandten Schriftsteller </tei:seg>
         <tei:ref type="esv" target="#annotation-2">
           <tei:hi style="letter-sparse">Jerrmann</tei:hi>
@@ -77,22 +77,41 @@
         <tei:ref type="esv" target="#annotation-4">für 3 Kreuzer</tei:ref>
         <tei:seg> öffentlich ausbot und bei zwei Exemplaren, die der Käufer nehmen wolle, sogar für 2 Kreuzer. Herr </tei:seg>
         <tei:ref type="esv" target="#annotation-5">O. Wigand in Leipzig</tei:ref>
-        <tei:seg>, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren ein Werk von </tei:seg>
+        <tei:seg>, ein sonst sehr achtbarer und um die Deutsche Literatur wahrhaft verdienter Mann, verlegte vor einigen Jahren </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">ein Werk</tei:ref>
+        <tei:seg> von </tei:seg>
         <tei:ref type="esv" target="#annotation-6">J. Jacoby</tei:ref>
         <tei:seg>, das er kürzlich, um diesen </tei:seg>
         <tei:ref type="esv" target="#annotation-7">Apostaten</tei:ref>
-        <tei:seg> früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten ihren Verlag auf die niedrigsten Preise herab, verkaufen ihn parthienweise und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
+        <tei:seg> früherer Überzeugungen lächerlich zu machen, auf 8 Groschen im Preise herab setzte. Wie hier aus persönlichen Motiven, so setzen eine Unzahl anderer Buchhändler aus finanziellen Rücksichten </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">ihren Verlag</tei:ref>
+        <tei:seg> auf die niedrigsten Preise herab, verkaufen ihn </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">parthienweise</tei:ref>
+        <tei:seg> und ergreifen alle diese ihrem Interesse zusagenden Maaßregeln ohne Rücksprache mit den Autoren, deren beleidigtes Ehrgefühl sie weniger kümmert, als ihre erschöpfte Casse. Das Unwesen der Preisherabsetzung greift seit einiger Zeit so um sich, daß die Literatur ihm nicht länger gleichgültig zusehen darf, sondern offen und frei ihre Entrüstung über diese Entheiligung der Autorrechte aussprechen muß.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Jedes neue Cirkulär, jede neue Nummer des Buchhändlerbörsenblatts bringt neue Preisherabsetzungen. Kein Autor ist mehr sicher, über Nacht von seinem Verleger gedemüthigt zu werden. </tei:seg>
+        <tei:seg>Jedes neue </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Cirkulär</tei:ref>
+        <tei:seg>, jede neue Nummer des </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">Buchhändlerbörsenblatts</tei:ref>
+        <tei:seg> bringt neue Preisherabsetzungen. Kein Autor ist mehr sicher, über Nacht von seinem Verleger gedemüthigt zu werden. </tei:seg>
         <tei:pb n="1554"/>
-        <tei:seg> Solide, consequente Verleger sehen dem Treiben mit Verachtung, aber auch mit Besorgniß zu. Was soll aus dem materiellen Werth alter Büchervorräthe und neuer Verlagsartikel werden, wenn der Schwindelgeist muthwillig an seiner Grundlage, dem festen Preise, rüttelt, wenn die Bücher in den Augen des Publikums ihren so lange gehabten Werth plötzlich verlieren und die Käufer sich gewöhnen, den ersten Preis eines neu erscheinenden Werkes für einen Schreckschuß zu halten, dem bald die Ermäßigung als Nothschuß folgen werde! Die Besorgniß ist keine eingebildete. Jene Handlungen, welche gewohnt sind, für Leihbibliotheken zu verlegen und sich neuerdings in die Aufstellung von Parthiepreisen eingelassen haben, werden an dem Absatz ihrer neuen Romane und Unterhaltungsschriften empfindlich die übeln Folgen des verlornen Vertrauens spüren. Viele ihrer alten Kunden werden warten, bis die Novitäten veraltet sind und sich dann mit ihnen versorgen; denn nicht jede Leseanstalt ist in der Nothwendigkeit, sich jede neue Erscheinung alsobald anschaffen zu müssen.</tei:seg>
+        <tei:seg> Solide, consequente Verleger sehen dem Treiben mit Verachtung, aber auch mit Besorgniß zu. Was soll aus dem materiellen Werth alter Büchervorräthe und neuer Verlagsartikel werden, wenn der Schwindelgeist muthwillig an seiner Grundlage, dem festen Preise, rüttelt, wenn die Bücher in den Augen des Publikums ihren so lange gehabten Werth plötzlich verlieren und die Käufer sich gewöhnen, den ersten Preis eines neu erscheinenden Werkes für einen Schreckschuß zu halten, dem bald die Ermäßigung als Nothschuß folgen werde! Die Besorgniß ist keine eingebildete. Jene </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">Handlungen, welche gewohnt sind, für Leihbibliotheken zu verlegen</tei:ref>
+        <tei:seg> und sich neuerdings in die Aufstellung von </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Parthiepreisen</tei:ref>
+        <tei:seg> eingelassen haben, werden an dem Absatz ihrer neuen Romane und Unterhaltungsschriften empfindlich die übeln Folgen des verlornen Vertrauens spüren. Viele ihrer alten Kunden werden warten, bis die Novitäten veraltet sind und sich dann mit ihnen versorgen; denn nicht jede Leseanstalt ist in der Nothwendigkeit, sich jede neue Erscheinung alsobald anschaffen zu müssen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>So nehmen sich die verderblichen Folgen des momentanen Gewinnes der Preisherabsetzungen von ihrer merkantilischen Seite aus. Eine andre Gestalt bekommen sie aber noch von der literarischen Seite her. Die Literatur muß auf das Entschiedenste gegen das Verfahren jener Buchhändler protestiren. Herr Hoff hat an Herrn Jerrmann sich eine Injurie erlaubt und selbst Herr Wigand möchte nicht zu rechtfertigen seyn, wenn auch mit dem Unterschiede, daß sein Verfahren gegen einen allgemein discreditirten Autor gerichtet ist, dessen Glück oder Unglück keine Theilnahme findet. Ebenso ungerecht verfahren jene Carl Hoffmann in Stuttgart und die zahllose Menge andrer Verleger, welche, ohne Rücksprache mit den betreffenden Autoren zu nehmen, deren Werke willkürlich im Preise herabsetzen. Es ist die Aufgabe einer neu zu begründenden Entwicklung </tei:seg>
+        <tei:seg>So nehmen sich die verderblichen Folgen des momentanen Gewinnes der Preisherabsetzungen von ihrer merkantilischen Seite aus. Eine andre Gestalt bekommen sie aber noch von der literarischen Seite her. Die Literatur muß auf das Entschiedenste gegen das Verfahren jener Buchhändler protestiren. Herr Hoff hat an Herrn Jerrmann sich eine Injurie erlaubt und selbst Herr Wigand möchte nicht zu rechtfertigen seyn, wenn auch mit dem Unterschiede, daß sein Verfahren gegen einen allgemein discreditirten Autor gerichtet ist, dessen Glück oder Unglück keine Theilnahme findet. Ebenso ungerecht verfahren jene </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">Carl Hoffmann in Stuttgart</tei:ref>
+        <tei:seg> und die zahllose Menge andrer Verleger, welche, ohne Rücksprache mit den betreffenden Autoren zu nehmen, deren Werke willkürlich im Preise herabsetzen. Es ist die Aufgabe einer neu zu begründenden Entwicklung </tei:seg>
         <tei:hi style="letter-sparse">des geistigen Eigenthumsrechtes</tei:hi>
-        <tei:seg>, diese Ungerechtigkeit zu beweisen und wir können nicht umhin, bei dieser Gelegenheit Herrn </tei:seg>
-        <tei:hi style="letter-sparse">Hitzig</tei:hi>
+        <tei:seg>, diese Ungerechtigkeit zu beweisen und wir können nicht umhin, bei dieser Gelegenheit </tei:seg>
+        <tei:ref type="esv" target="#">Herrn </tei:ref>
+        <tei:ref type="esv" target="#annotation-17">
+          <tei:hi style="letter-sparse">Hitzig</tei:hi>
+        </tei:ref>
         <tei:seg>, der ähnliche Untersuchungen in den Kreis seines Nachdenkens zu ziehen pflegt, öffentlich aufzufordern, auch diese Frage </tei:seg>
         <tei:pb n="1555"/>
         <tei:seg> der Preisherabsetzungen bei einer Definition des geistigen Eigenthumsrechtes in Erwägung zu ziehen.</tei:seg>
@@ -100,8 +119,14 @@
       <tei:p style="text-left">
         <tei:seg>Die Buchhändler berufen sich darauf, daß sie die vom Autor erstandene Auflage eine ihnen zugehörige </tei:seg>
         <tei:hi style="letter-sparse">Waare</tei:hi>
-        <tei:seg> nennen, mit der sie machen dürften, was sie wollen. Sie behaupten, es läge wenig Unterschied zwischen einem Ballen unverkauft lagernder Exemplare eines Buches und einem verschossenen Reste Kattunwaaren, den man, um aufzuräumen, zu beispiellos billigen Preisen losschlägt. In Berlin nennen das die Lords vom Mühlendamm </tei:seg>
-        <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
+        <tei:seg> nennen, mit der sie machen dürften, was sie wollen. Sie behaupten, es läge wenig Unterschied zwischen einem </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">Ballen</tei:ref>
+        <tei:seg> unverkauft lagernder Exemplare eines Buches und einem verschossenen Reste Kattunwaaren, den man, um aufzuräumen, zu beispiellos billigen Preisen losschlägt. In Berlin nennen das die </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">Lords vom Mühlendamm</tei:ref>
+        <tei:seg> </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">
+          <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
+        </tei:ref>
         <tei:seg>. Gegen keinen Ausdruck sollte man aber in literarisch-merkantilischen Dingen spröder seyn, als gegen den, daß Bücher eine Waare sind. Wird in dem Verlagsrecht des Buchhändlers nichts gesehen, als eine Anhäufung contraktlich bestimmter Abzüge eines Werkes, nichts, als der numerische Umfang einer Auflage, so möchte es schwer halten, von solchen Begriffen aus auch die Unrechtmäßigkeit des Nachdrucks zu deduziren, der grade von dem materiellen Begriff der </tei:seg>
         <tei:hi style="letter-sparse">Waare</tei:hi>
         <tei:seg> her seyn vermeintliches und von vielen Staatsmännern und Juristen ihm keineswegs bestrittenes Recht leitet. Wird der Begriff des Autor- und Verlagsrechtes nicht höher gefaßt, so ist den Beweisführungen für die Rechtmäßigkeit des Nachdrucks Thür und Thor geöffnet.</tei:seg>
@@ -113,33 +138,59 @@
         <tei:hi style="letter-sparse">seiner</tei:hi>
         <tei:seg> umfassenden Definition nur darf alles Übrige, was sich im Buchhandel für Rechtens ausgiebt, hergeleitet werden. Das Urrecht des Autors hört beim </tei:seg>
         <tei:hi style="letter-sparse">Verlage</tei:hi>
-        <tei:seg>, bei der Cession einer Auflage an den Buchhändler, nicht auf. Immerdar ist der Autor </tei:seg>
+        <tei:seg>, bei der </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">Cession</tei:ref>
+        <tei:seg> einer Auflage an den Buchhändler, nicht auf. Immerdar ist der Autor </tei:seg>
         <tei:hi style="letter-sparse">moralisch</tei:hi>
         <tei:seg> an seinem Werke berechtigt und der Verleger ihm </tei:seg>
         <tei:hi style="letter-sparse">moralisch</tei:hi>
         <tei:seg> verpflichtet. Die Übereinkunft des in Verlaggebens, mag sie nun schriftlich oder mündlich erfolgen, schließt niemals aus, daß Ehre, guter Name, Schriftstellername an dem Verlagsartikel die erste Vorhand haben. Die Art und Weise, wie der Verleger das erstandene Werk zurichtet, es drucken und verbreiten läßt, der Preis, der anfänglich dafür genommen wird; das sind die ursprünglichen Garantien, </tei:seg>
         <tei:pb n="1556"/>
-        <tei:seg> die gleich anfangs dem Autor von moralischer Bedeutung für sein Werk sind und niemals aufhören, es zu seyn. Kein Autor würde eine Schrift verkaufen, wenn ihm die Absicht, die der Verleger damit hat, zweideutig schiene. Von dem Hungerleider, der nur das Honorar, nicht seine Ehre im Auge hat, kann in einer wissenschaftlichen Begriffsbestimmung nicht die Rede seyn. Das Prinzip ist auf das gebaut, was edel ist, und kein Autor sollte so unedel seyn, in dem Grade die Liebe zu seinem Werke zu verlieren, daß es ihm gleichgültig wird, ob der Verleger das erstandene Manuscript druckt oder liegen läßt oder Fidibus daraus macht oder es auf Löschpapier druckt oder heute für einen Thaler, morgen für einen Groschen verkauft. Die Buchhändler in Deutschland bilden sich freilich fast alle ein, daß sie mit einem Manuscript, das sie kauften, machen können, was sie wollen z. B. daß sie es gar nicht zu drucken brauchen! Sie betrachten die </tei:seg>
+        <tei:seg> die gleich anfangs dem Autor von moralischer Bedeutung für sein Werk sind und niemals aufhören, es zu seyn. Kein Autor würde eine Schrift verkaufen, wenn ihm die Absicht, die der Verleger damit hat, zweideutig schiene. Von dem Hungerleider, der nur das Honorar, nicht seine Ehre im Auge hat, kann in einer wissenschaftlichen Begriffsbestimmung nicht die Rede seyn. Das Prinzip ist auf das gebaut, was edel ist, und kein Autor sollte so unedel seyn, in dem Grade die Liebe zu seinem Werke zu verlieren, daß es ihm gleichgültig wird, ob der Verleger das erstandene Manuscript druckt oder liegen läßt oder Fidibus daraus macht oder es auf </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">Löschpapier</tei:ref>
+        <tei:seg> druckt oder heute für einen Thaler, morgen für einen Groschen verkauft. Die Buchhändler in Deutschland bilden sich freilich fast alle ein, daß sie mit einem Manuscript, das sie kauften, machen können, was sie wollen z. B. daß sie es gar nicht zu drucken brauchen! Sie betrachten die </tei:seg>
         <tei:hi style="letter-sparse">moralische Existenz eines Werkes</tei:hi>
         <tei:seg> als ganz von ihrer Laune und ihrem dafür bezahlten Honorar abhängig und werden unter Andern erstaunen, wie man darauf kommen könne, ihnen das Recht, Bücher im Preise herabzusetzen, streitig zu machen. Freilich unsre in diesem Punkt so mangelhaften Gesetzgebungen hindern sie nicht; aber wir sind jetzt soweit gekommen, daß in sie die tieferen Begriffe vom literarischen Eigenthumsrechte werden aufgenommen werden, Begriffe, die an dem Werk eines Autors eine </tei:seg>
         <tei:hi style="letter-sparse">ausgetragene freie moralische Persönlichkeit</tei:hi>
         <tei:seg> sehen, die nicht anders verletzt werden darf, als durch die Chancen der Kritik.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Jedes Werk, und wär' es das trivialste, trägt in sich dem Prinzipe nach die Möglichkeit </tei:seg>
+        <tei:seg>Jedes Werk, und wär’ es das trivialste, trägt in sich dem Prinzipe nach die Möglichkeit </tei:seg>
         <tei:hi style="letter-sparse">unendlicher Auflage</tei:hi>
         <tei:seg>. Die Zahl von Exemplaren, die ich dem Verleger der ersten gestatte, ist allerdings sein Eigenthum, doch nur bis soweit, als die Benutzung dieses Eigenthums nicht das wieder eintretende und nie erlöschende freie, moralische Urrecht des Autors stört. Zum Urrecht des Autors gehört die Möglichkeit unendlicher Auflage. Wird ihm diese nicht verkürzt, wenn der Verleger der ersten Auflage eines Werkes sie im Preise herabsetzt und dadurch ein Urtheil über den Absatz ausspricht, der eine zweite Auflage un-</tei:seg>
         <tei:pb n="1557"/>
-        <tei:seg>möglich macht? Herr Hoffmann in Stuttgart verschleuderte die letzten Exemplare, die er von Rottecks Weltgeschichte liegen hatte. Zufällig ist er es selbst, der jetzt eine neue Auflage dieses Buches bringt. Wär' er es nicht gewesen, hätte ein Anderer sich unbefangen an eine Unternehmung wagen können, die Herr Hoffmann durch seine Vertrödelungen schon beim Publikum anrüchig gemacht hatte? Hier war das Autorrecht so empfindlich verletzt, daß Herr Hoffmann bei einer bessern literarischen Rechtsverfassung, die wir gewiß bekommen werden, der Strafe der Gesetze hätte verfallen müssen. Die Preisherabsetzer sagen: Die Auflage ist unser; wir können damit machen, was wir wollen! Ja, ihr könnt es; aber unter den Verpflichtungen, unter denen ihr den Verlag </tei:seg>
+        <tei:seg>möglich macht? Herr Hoffmann in Stuttgart verschleuderte die letzten Exemplare, die er von </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">Rottecks Weltgeschichte</tei:ref>
+        <tei:seg> liegen hatte. Zufällig ist er es selbst, der jetzt eine neue Auflage dieses Buches bringt. Wär’ er es nicht gewesen, hätte ein Anderer sich unbefangen an eine Unternehmung wagen können, die Herr Hoffmann durch seine Vertrödelungen schon beim Publikum anrüchig gemacht hatte? Hier war das Autorrecht so empfindlich verletzt, daß Herr Hoffmann bei einer bessern literarischen Rechtsverfassung, die wir gewiß bekommen werden, der Strafe der Gesetze hätte verfallen müssen. Die Preisherabsetzer sagen: Die Auflage ist unser; wir können damit machen, was wir wollen! Ja, ihr könnt es; aber unter den Verpflichtungen, unter denen ihr den Verlag </tei:seg>
         <tei:hi style="letter-sparse">übernahmt</tei:hi>
-        <tei:seg> und die dem Autor eine dauernde Garantie eures ehrlichen Fideikommisses bleiben, eine Garantie, daß ihr seinen Namen nicht muthwillig verschleudern, einen Ruf nicht wie unreines Wasser auf die Straße gießen werdet! Die Auflage ist in </tei:seg>
+        <tei:seg> und die dem Autor eine dauernde Garantie eures ehrlichen </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">Fideikommisses</tei:ref>
+        <tei:seg> bleiben, eine Garantie, daß ihr seinen Namen nicht muthwillig verschleudern, einen Ruf nicht wie unreines Wasser auf die Straße gießen werdet! Die Auflage ist in </tei:seg>
         <tei:hi style="letter-sparse">Allem</tei:hi>
-        <tei:seg> euer, was nicht auf das Autorrecht, auf die ferneren immer als möglich anzunehmenden Auflagen reagirt! Sonst könntet ihr eure lagernden Exemplare ja sogar als Maculatur verkaufen, für Friseure als Papilloten, für Krämer als Dütenpapier, sey's nun, daß ihrs aus Noth oder aus Malice thut!</tei:seg>
+        <tei:seg> euer, was nicht auf das Autorrecht, auf die ferneren immer als möglich anzunehmenden Auflagen reagirt! Sonst könntet ihr eure lagernden Exemplare ja sogar </tei:seg>
+        <tei:ref type="esv" target="#">als </tei:ref>
+        <tei:ref type="esv" target="#">Maculatur</tei:ref>
+        <tei:ref type="esv" target="#annotation-26"> verkaufen</tei:ref>
+        <tei:seg>, für Friseure als </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Papilloten</tei:ref>
+        <tei:seg>, für Krämer als Dütenpapier, sey’s nun, daß ihrs aus Noth oder aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-28">Malice</tei:ref>
+        <tei:seg> thut!</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Das Unglück der Deutschen Literatur und ihrer Rechtsverfassung ist das Übergewicht, welches in ihr die Buchhändler über die Schriftsteller haben. Es wird, der Meßkatalog zeigt es, mehr Literatur von den Buchhändlern als den Schriftstellern gemacht. Die Buchhändler haben in Deutschland aufgehört, Mandatare der Literatur zu seyn; sie produziren mehr Literatur, als Bedürfniß und Kraft dafür da ist. Wäre der Verlagshandel nur das Echo der </tei:seg>
+        <tei:seg>Das Unglück der Deutschen Literatur und ihrer Rechtsverfassung ist das Übergewicht, welches in ihr die </tei:seg>
+        <tei:ref type="esv" target="#annotation-29">Buchhändler</tei:ref>
+        <tei:seg> über die Schriftsteller haben. Es wird, der </tei:seg>
+        <tei:ref type="esv" target="#annotation-30">Meßkatalog</tei:ref>
+        <tei:seg> zeigt es, </tei:seg>
+        <tei:ref type="esv" target="#annotation-31">mehr Literatur von den Buchhändlern als den Schriftstellern gemacht</tei:ref>
+        <tei:seg>. Die Buchhändler haben in Deutschland aufgehört, </tei:seg>
+        <tei:ref type="esv" target="#annotation-32">Mandatare</tei:ref>
+        <tei:seg> der Literatur zu seyn; sie produziren mehr Literatur, als Bedürfniß und Kraft dafür da ist. Wäre der Verlagshandel nur das Echo der </tei:seg>
         <tei:hi style="letter-sparse">literarischen</tei:hi>
-        <tei:seg> Thätigkeit, er würde nicht nur die Literatur nicht, sondern sich selbst nicht mehr untergraben. So aber, wie es bisher war, steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe, die das Bessere nicht aufkommen läßt, und setzt auf der andern Seite seine eigne Würde herab und benimmt sich die Möglichkeit seines bessern Gewinnes, eben durch solche Manöver, wie sie </tei:seg>
+        <tei:seg> Thätigkeit, er würde nicht nur die Literatur nicht, sondern sich selbst nicht mehr untergraben. So aber, wie es bisher war, </tei:seg>
+        <tei:ref type="esv" target="#annotation-33">steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe</tei:ref>
+        <tei:seg>, die das Bessere nicht aufkommen läßt, und setzt auf der andern Seite seine eigne Würde herab und benimmt sich die Möglichkeit seines bessern Gewinnes, eben durch solche Manöver, wie sie </tei:seg>
         <tei:pb n="1558"/>
         <tei:seg> jetzt im Buchhandel an der Tagesordnung sind. Möglich, daß diese Preisherabsetzungen das Gute haben, den Buchhandel über sich aufzuklären und die Vorräthe willkürlich hervorgerufener Produktionen aufzuräumen, so daß endlich Platz und Raum dem in der Literatur organisch Nothwendigen offen wird. Es muß ein besseres Gleichgewicht der beiden Faktoren des literarischen Lebens, der Buchhändler und der Schriftsteller, eintreten, damit jene endlich aufhören, mehr zu produziren, als diese den Trieb und das Publikum das Bedürfniß hat.                                                                                       G.</tei:seg>
       </tei:p>
@@ -151,22 +202,30 @@
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,10</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>
-            <tei:seg>Buchhändler </tei:seg>
+          <tei:citedRange type="word-range">Buchhändler </tei:citedRange>
+          <tei:citedRange type="word-range">
             <tei:hi style="letter-sparse">Hoff</tei:hi>
-            <tei:seg> in Mannheim</tei:seg>
-          </tei:lem>
-          <tei:seg> Der Verlagsbuchhändler Heinrich Hoff (1808-1852) publizierte in den 1830er und frühen 40er Jahren u. a. Erzählprosa und Reiseliteratur von Heinrich Laube, die Geschichtswerke zur Französischen Revolution von Thiers und Mignet sowie die Romane von Walter Scott in deutscher Übersetzung.  Wegen seiner politischen Position und der Herausgabe des „Deutschen Liederbuchs“ (1847) wurde er wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> in Mannheim</tei:citedRange>
+          <tei:seg> </tei:seg>
         </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Verlagsbuchhändler Heinrich Hoff (1808-1852) publizierte in den 1830er und frühen 40er Jahren u. a. Erzählprosa und Reiseliteratur von Heinrich Laube, die Geschichtswerke zur Französischen Revolution von Thiers und Mignet sowie die Romane von Walter Scott in deutscher Übersetzung.  Wegen seiner politischen Position und der Herausgabe des „Deutschen Liederbuchs“ (1847) wurde er wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-2">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>
+          <tei:citedRange type="word-range">
             <tei:hi style="letter-sparse">Jerrmann</tei:hi>
-          </tei:lem>
-          <tei:seg> Eduard Jerrmann (1798-1859), Schauspieler und Schriftsteller, von 1836-1842 Regisseur am Mannheimer Theater. Gutzkow lernte ihn 1833 in München kennen. In den </tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Eduard Jerrmann (1798-1859), Schauspieler und Schriftsteller, von 1836-1842 Regisseur am Mannheimer Theater. Gutzkow lernte ihn 1833 in München kennen. In den </tei:seg>
           <tei:q>Rückblicken auf mein Leben</tei:q>
           <tei:seg> widmet er ihm eine eingehende Charakteristik (GWB VII, Bd. 2, S. 99-100).</tei:seg>
         </tei:p>
@@ -187,16 +246,22 @@
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,15-16</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>für 3 Kreuzer</tei:lem>
-          <tei:seg> Heinrich Hoff korrigierte in seiner Erwiderung „Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt“ (Dokument 5.1.1) süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
+          <tei:citedRange type="word-range">für 3 Kreuzer</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Heinrich Hoff korrigierte in seiner Erwiderung „Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt“ (Dokument 5.1.1) süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-5">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,17-18</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>O. Wigand in Leipzig</tei:lem>
-          <tei:seg> Otto Friedrich Wigand (1795-1870), aus Göttinger Buchhandelsfamilie, führte nach einer erfolgreichen Zeit als Verleger in Pest seit 1832 in Leipzig ein Verlagsgeschäft, „das seinen Namen weit und breit berühmt machte“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Beiträge zu einer Firmengeschichte des deutschen Buchgewerbes. 6 Bde. Berlin: Weber / Eberswalde: Schmidt, 1902-1906. Bd. 6, S. 1045). Im Verlag Otto Wigand erschienen u. a. die „Hallischen Jahrbücher für deutsche Wissenschaft und Kunst“. In den </tei:seg>
+          <tei:citedRange type="word-range">O. Wigand in Leipzig</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Otto Friedrich Wigand (1795-1870), aus Göttinger Buchhandelsfamilie, führte nach einer erfolgreichen Zeit als Verleger in Pest seit 1832 in Leipzig ein Verlagsgeschäft, „das seinen Namen weit und breit berühmt machte“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Beiträge zu einer Firmengeschichte des deutschen Buchgewerbes. 6 Bde. Berlin: Weber / Eberswalde: Schmidt, 1902-1906. Bd. 6, S. 1045). Im Verlag Otto Wigand erschienen u. a. die „Hallischen Jahrbücher für deutsche Wissenschaft und Kunst“. In den </tei:seg>
           <tei:q>Rückblicken</tei:q>
           <tei:seg> schildert Gutzkow Wigand als einen der </tei:seg>
           <tei:q>Freigesinnten</tei:q>
@@ -205,12 +270,26 @@
           <tei:seg> Heinrich Hoff (GWB VII, Bd. 2, S. 190).</tei:seg>
         </tei:p>
       </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ein Werk</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>„Bilder und Zustände aus Berlin“ von Joel Jacoby (→ Erl. zu 156,20), der bei Wigand 1833 als Kommissionsartikel gehandelt wurde.</tei:seg>
+        </tei:p>
+      </tei:interp>
       <tei:interp type="esv" xml:id="annotation-6">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,20</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>J. Jacoby</tei:lem>
-          <tei:seg> Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den „Bildern und Zuständen aus Berlin“ (→ Erl. zu 156,19), signalisierte aber mit den „Klagen eines Juden“ (1837), von Gutzkow kritisiert im „Frankfurter Telegraph“ (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der „Allgemeinen Zeitung“ öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion‛. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat‛ verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
+          <tei:citedRange type="word-range">J. Jacoby</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den „Bildern und Zuständen aus Berlin“ (→ Erl. zu 156,19), signalisierte aber mit den „Klagen eines Juden“ (1837), von Gutzkow kritisiert im „Frankfurter Telegraph“ (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der „Allgemeinen Zeitung“ öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion‛. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat‛ verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-7">
@@ -219,6 +298,283 @@
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Apostaten</tei:citedRange>
           <tei:seg> Apostat: Abtrünniger.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,23-24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ihren Verlag</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Ausdruck ist im Sinne von ‚ihre Verlagsartikel‛ gebraucht, also alles von ihnen Verlegte.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">156,24-25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">parthienweise</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Verkauf in gewissen Mengen mit Rabatt;  → Erl. zu 157,15.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">157,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Cirkulär</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Rundschreiben.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">157,1-2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Buchhändlerbörsenblatts</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Das „Börsenblatt“, Verbandsorgan des „Börsenvereins des Deutschen Buchhandels“, erschien ab dem 3. Januar 1834 in Leipzig, zunächst wöchentlich, ab 1837 zweimal pro Woche.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">157,13-14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Handlungen, welche gewohnt sind, für Leihbibliotheken zu verlegen</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Im ersten Drittel des 19. Jahrhunderts bedienten belletristische Verlagsunternehmen, u. a. der Leipziger Verleger Christian Ernst Kollmann, Leihbibliotheken mit günstigen Bezugsbedingungen. Die Inhaber großer Leihbibliotheken profitierten von großzügigen Buchrabatten oder Freiexemplaren; manche Verleger druckten einen Teil der Auflage speziell für Leihbibliotheken und reduzierten den Verkaufspreis durch die Verwendung von preiswertem Papier und minderwertigen Einbandmaterialien.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">157,15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Parthiepreisen</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Partiepreis: Ermäßigter Gesamtpreis bei Abnahme einer großen Anzahl eines Titels oder einer Reihe des Verlages (z. B. 11/10: Die Buchhandlung bezieht 11, bezahlt aber nur 10 Exemplare).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">157,31-32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Carl Hoffmann in Stuttgart</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Karl Heinrich August Hoffmann (1802-1883), Verleger und Schriftsteller. Seine Firma gehörte zu den erfolgreichen kommerzialisierten Stuttgarter Verlagen (→ Lexikon: Spekulativer Verleger). </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">158,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Herrn </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Hitzig</tei:hi>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Julius Eduard Hitzig (1780-1849), Buchhändler, Kriminalrat, Schriftsteller, setzte sich öffentlich für ein Verbot des Nachdrucks ein. 1838 forderte er mit Erfolg die Berliner Zeitungsredakteure auf, gegenseitig auf den Nachdruck einzelner Artikel zu verzichten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">158,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ballen</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Größere, zum Transport zusammengeschnürte und oft noch ungebundene Büchersendung.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">158,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Lords vom Mühlendamm</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Spöttische Berliner Redensart, die im ersten Drittel des 19. Jahrhunderts üblich war: „’n Lord von’ Mühlendamm, Stutzer niederen Ranges. Bis 1820 etwa waren unter dem Mühlendamm die feinsten Schnittwaren- und dergl. Geschäfte; die Kommis strebten durchweg nach Eleganz; daher Lords.“ (Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904. S. 83) Die dort ansässigen Textilgeschäfte verschwanden im Laufe des 19. Jahrhunderts und damit auch die ironische Anspielung. Außer falscher Eleganz signalisierte der Ausdruck </tei:seg>
+          <tei:q>Lords vom Mühlendamm</tei:q>
+          <tei:seg> auch den Schein literarischer Bildung dieser Berliner Ladenangestellten („Commis“), die geradezu einen lokalen Typus bildeten: „</tei:seg>
+          <tei:hi style="letter-sparse">Lord vom Mühlendamm</tei:hi>
+          <tei:seg> [...]; so heißen bey uns die Ritter von der Elle, welche gern eine gewisse literarische Bildung affectiren, und nicht selten sogar in Journalen und Tagesblättern die literarische Elle schwingen“, schreibt ein Berliner Korrespondent 1828 in der Wiener Zeitschrift für Kunst, Literatur, Theater und Mode (Nr. 34, 19. März 1829, S. 279-280, Zitat S. 280).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">158,15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Gutzkow greift hier nicht nur die Verleger an, die Bücher zur Ware machen, sondern auch die (besonders in der Textilbranche) gängige Geschäftspraxis, Ladenbestände durch groß angekündigte Preisreduktionen zu räumen. Die Entwertung der Artikel und die Manipulierung der Käufer durch </tei:seg>
+          <tei:q>
+            <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
+          </tei:q>
+          <tei:seg> war ein zeitgenössischer kritischer Topos. Zur Wiedergabe seines marktschreierischen Charakters wurde der Begriff in gesperrten Lettern gedruckt: „Wenn man in Wien jetzt durch die Straßen geht“, so Moritz Saphir, „so glaubt man, Wien wird </tei:seg>
+          <tei:hi style="letter-sparse">ausverkauft</tei:hi>
+          <tei:seg>!  Alles wird </tei:seg>
+          <tei:hi style="letter-sparse">ausverkauft</tei:hi>
+          <tei:seg>, und manche Gewölbthüren sind kaum zu sehen vor lauter Zetteln, auf welchen nichts steht, als die verhängnißvollen Worte: ,</tei:seg>
+          <tei:hi style="letter-sparse">Ausverkauf! Ausverkauf! Ausverkauf!</tei:hi>
+          <tei:seg>‛“ (Moritz Saphir: Ausverkauf von alten Manuscripten aus einer langjährigen Redaktions-Kanzlei. In: Der Humorist. Wien. 6. Jg., Nr. 3 und 4, 5. und 6. Januar 1842, S. 13-14; Zit. S. 13) Auf Druckerzeugnisse angewendet, konnte das Wort ,Ausverkauf‛  - wie bei Gutzkow - den moralisch zurückzuweisenden Übergriff des Kommerzes auf den Buchverlag signalisieren, aber auch - wie hier bei Saphir - die Trivialisierung literarischer Inhalte, also den geistigen Ausverkauf: „</tei:seg>
+          <tei:hi style="letter-sparse">Erster Artikel: Novellen</tei:hi>
+          <tei:seg>, sechs aschgraue, mit sentimentalen Borduren [...] </tei:seg>
+          <tei:hi style="letter-sparse">Zweiter Artikel: Humoristische Crispinen</tei:hi>
+          <tei:seg>, mit Roßhaar gefüttert und mit blauem Gemüthstafft ausgeschlagen [...] </tei:seg>
+          <tei:hi style="letter-sparse">Dritter Artikel: Gedichte,</tei:hi>
+          <tei:seg> mit Marder und Zobel, für den Winter, lang und weit“, und so geht die Liste weiter (S. 13-14). Sowohl Gutzkows als auch Saphirs Kritik greift auf die Metapher des Textilausverkaufs zurück. Auch in Gutzkows Kritik kann letztlich ein Angriff auf die Verflachung literarischer Inhalte und Urteile liegen, die durch die Beteiligung der </tei:seg>
+          <tei:q>Lords vom Mühlendamm</tei:q>
+          <tei:seg> am gebildeten Diskurs (→ Erl. zu 158,13-14) zustande kommt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">158,33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Cession</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Übertragung eines rechtlichen Anspruchs.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">159,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Löschpapier</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Fließpapier, Saugpapier. Meist aus Baumwollhadern hergestelltes minderwertiges Material, das unter anderem als Bedruckstoff diente (z. B. auch für Werke von Goethe und Schiller).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Rottecks Weltgeschichte</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Karl von Rotteck (1775-1840), Historiker, Politiker und Verfasser der "Allgemeinen Geschichte von Anfang der historischen Kenntnis bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet", die in den vierziger Jahren im Braunschweiger Verlag Georg Westermann erschien und zahlreiche Auflagen erlebte. Mit Carl Welcker zusammen Herausgeber des liberalen "Staats-Lexikons" (1835-1843).</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left">
+          <tei:seg>Des Stuttgarter Buchhändlers Franckh's genialer Scharfblick hatte erkannt, daß sich in jener bewegten Zeit unter den Folgen und Eindrücken der Juli-Revolution mit der freisinnigen Weltgeschichte des berühmten Historikers Karl v. Rotteck in Freiburg ein bedeutendes Geschäft machen lasse, und hatte Rotteck bewogen, aus seinem Werke eine populäre Weltgeschichte in vier Bänden zu bearbeiten. Bis die ersten beiden Bände fertig geworden waren, saß aber Franckh wegen demagogischer Umtriebe bereits in Haft, und ein Teil des abgelieferten Manuskriptes war verschwunden. Rotteck sah das Unternehmen in Frage gestellt und schrieb an Hoffmann mit welchem er früher durch den geschäftlichen Briefwechsel den Hoffmann als Gehilfe bei Franckh mit ihm führte, in Berührung gekommen war, um Auskunft über Franckh's geschäftliche Verhältnisse und das Schicksal seiner Arbeit. Hoffmann erbot sich sofort, den Verlag des Werkes zu übernehmen, dessen Anfang wieder neu bearbeitet werden mußte. Er fand einen Kapitalisten, der ihm die nötigen Mittel lieferte, kaufte eine kleine Buchdruckerei und vertrieb das zeitgemäße Unternehmen mit einer Umsicht und Tatkraft, welche einen für jene Zeit außerordentlichen Erfolg erzielte. Mehrere Auflagen folgten rasch aufeinander und machten Hoffmann zu einem wohlhabenden Manne. (Schmid, Bd. 3, S. 478).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Fideikommisses</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Fideikommiss: unteilbares und unveräußerliches Vermögen einer Familie.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">als Maculatur verkaufen</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Das Verkaufen von Verlagswerken zum Papierwert für die Einstampfung oder Verwertung als Altpapier.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Papilloten</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Haarwickel.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Malice</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Böswilligkeit.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,34</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Buchhändler</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Verlagsbuchhändler, also Verleger.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">161,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Meßkatalog</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Ab 1564 erschienen zu den Frankfurter und ab 1594 zu den Leipziger Frühjahrs- und Herbstmessen Kataloge. Messkataloge sind die ersten regelmäßig erscheinenden Verzeichnisse von Neuerscheinungen auf dem Buchmarkt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-31">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">161,1-2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">mehr Literatur von den Buchhändlern als den Schriftstellern gemacht</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>In seinem Artikel </tei:seg>
+          <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
+          <tei:seg> klagt Gutzkow im Zusammenhang mit Übersetzungen aus dem Englischen und Französischen ähnlich: </tei:seg>
+          <tei:q>Kaum die Hälfte der buchhändlerischen Industrie in Deutschland geht von der Literatur aus</tei:q>
+          <tei:seg> (TfD, Nr. 7, 11. Januar 1839, S. 50-52). </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-32">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">161,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Mandatare</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Im Auftrag Handelnde.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-33">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">161,8-9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>In den ersten Jahrzehnten des 19. Jahrhunderts war eine eklatante Zunahme der Buchproduktion zu beobachten. Der Buchmarkt hatte sich von dem Konjunktureinbruch in Folge der napoleonischen Kriege zusehends erholt; die jährliche Titelproduktion stieg ab 1821 auf circa 4.500 und sollte 1843 mit circa 14.000 Neuerscheinungen einen weiteren Höhepunkt erleben (vgl. Reinhard Wittmann: Geschichte des deutschen Buchhandels. Ein Überblick. München: Verlag, 1991. S. 201). Die Dynamisierung des Buchmarkts wurde von den Buchhändlern und Schriftstellern gleichermaßen kritisch bewertet. Die Einführung des spekulativen Momentes im Buchhandel führte zu einer massiven Überproduktion, die, stagnierte der Absatz der Auflage, die ‚Preisschleuderei' bedingte.</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
