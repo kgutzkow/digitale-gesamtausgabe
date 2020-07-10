@@ -56,13 +56,13 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="apparat-ueber-preisherabsetzungen" type="level-1">
         <tei:pb n="1553"/>
         <tei:seg> Ueber Preisherabsetzungen im Buchhandel.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Der </tei:seg>
-        <tei:ref type="esv" target="#">Buchhändler </tei:ref>
+        <tei:ref type="esv" target="#annotation-37">Buchhändler </tei:ref>
         <tei:ref type="esv" target="#annotation-1">
           <tei:hi style="letter-sparse">Hoff</tei:hi>
         </tei:ref>
@@ -161,7 +161,10 @@
         <tei:pb n="1557"/>
         <tei:seg>möglich macht? Herr Hoffmann in Stuttgart verschleuderte die letzten Exemplare, die er von </tei:seg>
         <tei:ref type="esv" target="#annotation-23">Rottecks Weltgeschichte</tei:ref>
-        <tei:seg> liegen hatte. Zufällig ist er es selbst, der jetzt eine neue Auflage dieses Buches bringt. Wär’ er es nicht gewesen, hätte ein Anderer sich unbefangen an eine Unternehmung wagen können, die Herr Hoffmann durch seine Vertrödelungen schon beim Publikum anrüchig gemacht hatte? Hier war das Autorrecht so empfindlich verletzt, daß Herr Hoffmann bei einer bessern literarischen Rechtsverfassung, die wir gewiß bekommen werden, der Strafe der Gesetze hätte verfallen müssen. Die Preisherabsetzer sagen: Die Auflage ist unser; wir können damit machen, was wir wollen! Ja, ihr könnt es; aber unter den Verpflichtungen, unter denen ihr den Verlag </tei:seg>
+        <tei:seg> liegen hatte. Zufällig ist er es selbst, der jetzt </tei:seg>
+        <tei:ref type="esv" target="#">eine n</tei:ref>
+        <tei:ref type="esv" target="#annotation-36">eue Auflage dieses Buches</tei:ref>
+        <tei:seg> bringt. Wär’ er es nicht gewesen, hätte ein Anderer sich unbefangen an eine Unternehmung wagen können, die Herr Hoffmann durch seine Vertrödelungen schon beim Publikum anrüchig gemacht hatte? Hier war das Autorrecht so empfindlich verletzt, daß Herr Hoffmann bei einer bessern literarischen Rechtsverfassung, die wir gewiß bekommen werden, der Strafe der Gesetze hätte verfallen müssen. Die Preisherabsetzer sagen: Die Auflage ist unser; wir können damit machen, was wir wollen! Ja, ihr könnt es; aber unter den Verpflichtungen, unter denen ihr den Verlag </tei:seg>
         <tei:hi style="letter-sparse">übernahmt</tei:hi>
         <tei:seg> und die dem Autor eine dauernde Garantie eures ehrlichen </tei:seg>
         <tei:ref type="esv" target="#annotation-24">Fideikommisses</tei:ref>
@@ -173,7 +176,9 @@
         <tei:ref type="esv" target="#annotation-26"> verkaufen</tei:ref>
         <tei:seg>, für Friseure als </tei:seg>
         <tei:ref type="esv" target="#annotation-27">Papilloten</tei:ref>
-        <tei:seg>, für Krämer als Dütenpapier, sey’s nun, daß ihrs aus Noth oder aus </tei:seg>
+        <tei:seg>, für Krämer als </tei:seg>
+        <tei:ref type="esv" target="#annotation-34">Dütenpapier</tei:ref>
+        <tei:seg>, sey’s nun, daß ihrs aus Noth oder aus </tei:seg>
         <tei:ref type="esv" target="#annotation-28">Malice</tei:ref>
         <tei:seg> thut!</tei:seg>
       </tei:p>
@@ -194,6 +199,8 @@
         <tei:pb n="1558"/>
         <tei:seg> jetzt im Buchhandel an der Tagesordnung sind. Möglich, daß diese Preisherabsetzungen das Gute haben, den Buchhandel über sich aufzuklären und die Vorräthe willkürlich hervorgerufener Produktionen aufzuräumen, so daß endlich Platz und Raum dem in der Literatur organisch Nothwendigen offen wird. Es muß ein besseres Gleichgewicht der beiden Faktoren des literarischen Lebens, der Buchhändler und der Schriftsteller, eintreten, damit jene endlich aufhören, mehr zu produziren, als diese den Trieb und das Publikum das Bedürfniß hat.                                                                                       G.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-37">
+      </tei:interp>
       <tei:interp type="esv" xml:id="annotation-1">
         <tei:p style="text-center">
           <tei:hi style="font-size-medium">6.2. Einzelstellenerläuterungen</tei:hi>
@@ -213,8 +220,7 @@
           <tei:seg>Der Verlagsbuchhändler Heinrich Hoff (1808-1852) publizierte in den 1830er und frühen 40er Jahren u. a. Erzählprosa und Reiseliteratur von Heinrich Laube, die Geschichtswerke zur Französischen Revolution von Thiers und Mignet sowie die Romane von Walter Scott in deutscher Übersetzung.  Wegen seiner politischen Position und der Herausgabe des „Deutschen Liederbuchs“ (1847) wurde er wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
         </tei:p>
       </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-14">
-      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14"/>
       <tei:interp type="esv" xml:id="annotation-2">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
@@ -472,12 +478,28 @@
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Karl von Rotteck (1775-1840), Historiker, Politiker und Verfasser der "Allgemeinen Geschichte von Anfang der historischen Kenntnis bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet", die in den vierziger Jahren im Braunschweiger Verlag Georg Westermann erschien und zahlreiche Auflagen erlebte. Mit Carl Welcker zusammen Herausgeber des liberalen "Staats-Lexikons" (1835-1843).</tei:seg>
+          <tei:seg>Karl von Rotteck (1775-1840), Historiker, Politiker und Verfasser der „Allgemeinen Geschichte von Anfang der historischen Kenntniß bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet“ (1812-1827). Von diesem Werk kam bei Carl Hoffmann 1832 eine populäre gekürzte Fassung in vier Bänden heraus:  „Allgemeine Weltgeschichte für alle Stände, von den frühesten Zeiten bis zum Jahre 1831“. Der Verleger kündigte dieses gut ausgestattete Werk 1831 als erschwingliche Publikation in monatlichen Lieferungen an (vgl. Intelligenzblatt der Allgemeinen Literatur-Zeitung. Halle u. Leipzig. Bd. 5, September 1831, Sp. 456-468). Mit dieser Popularisierung wissenschaftlicher Werke machte sich Hoffmann ebenso verdient, wie er gut daran verdiente; z. B. verlegte er in Lieferungen auch Okens „Naturgeschichte“, auf die Gutzkow in </tei:seg>
+          <tei:q>Werke der Industrie</tei:q>
+          <tei:seg> lobend eingeht (GWB IV, Bd. 7, S. 99-100). </tei:seg>
         </tei:p>
         <tei:p style="text-left"/>
         <tei:p style="text-left"/>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-36">
         <tei:p style="text-left">
-          <tei:seg>Des Stuttgarter Buchhändlers Franckh's genialer Scharfblick hatte erkannt, daß sich in jener bewegten Zeit unter den Folgen und Eindrücken der Juli-Revolution mit der freisinnigen Weltgeschichte des berühmten Historikers Karl v. Rotteck in Freiburg ein bedeutendes Geschäft machen lasse, und hatte Rotteck bewogen, aus seinem Werke eine populäre Weltgeschichte in vier Bänden zu bearbeiten. Bis die ersten beiden Bände fertig geworden waren, saß aber Franckh wegen demagogischer Umtriebe bereits in Haft, und ein Teil des abgelieferten Manuskriptes war verschwunden. Rotteck sah das Unternehmen in Frage gestellt und schrieb an Hoffmann mit welchem er früher durch den geschäftlichen Briefwechsel den Hoffmann als Gehilfe bei Franckh mit ihm führte, in Berührung gekommen war, um Auskunft über Franckh's geschäftliche Verhältnisse und das Schicksal seiner Arbeit. Hoffmann erbot sich sofort, den Verlag des Werkes zu übernehmen, dessen Anfang wieder neu bearbeitet werden mußte. Er fand einen Kapitalisten, der ihm die nötigen Mittel lieferte, kaufte eine kleine Buchdruckerei und vertrieb das zeitgemäße Unternehmen mit einer Umsicht und Tatkraft, welche einen für jene Zeit außerordentlichen Erfolg erzielte. Mehrere Auflagen folgten rasch aufeinander und machten Hoffmann zu einem wohlhabenden Manne. (Schmid, Bd. 3, S. 478).</tei:seg>
+          <tei:citedRange type="page-line-ref">160,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">eine neue Auflage dieses Buches</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Populärausgabe von Rottecks „Weltgeschichte“ erlebte im Laufe des 19. Jahrhunderts mehrere Neuauflagen bzw. Weiterbearbeitungen. Ihre zweite Auflage in fünf Bänden, die bis zum Jahre 1840 führte, erschien 1846 noch mit einer neuen Einleitung Rottecks von 1839, aber fortgeführt durch seinen Sohn, beim Stuttgarter Verlag Scheible, Rieger und Sattler.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+        <tei:p style="text-left">
+          <tei:seg> </tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-24">
@@ -508,7 +530,19 @@
           <tei:citedRange type="word-range">Papilloten</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Haarwickel.</tei:seg>
+          <tei:seg>Lockenwickel aus Papier; vermutlich aus dem französischen Wort für ,Schmetterling‛: ,papillon‛. Gutzkow hatte schon 1833 die Nähe ephemerer journalistischer Tagespublikationen zu Papilloten, also zu flatternden Schmetterlingen sowie zu bloßem Druckpapier, in einem Beitrag zu Moritz Saphirs humoristischem Blatt „Der deutsche Horizont“ verarbeitet  (Karl Gutzkow: Papilloten. In: Der deutsche Horizont. Ein humoristisches Blatt für Zeit, Geist und Sitte. München. [Heft 7, Juli] 1833, S. 289-301).  Saphir wiederum beeinflusste den jungen Gutzkow ziemlich sicher durch seine eigene Sammlung witziger Bemerkungen unter demselben Titel (Moritz Saphir: Papilloten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4, S. 195-248;  → Erl. zu 158,15).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-34">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">160,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Dütenpapier</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Wie </tei:seg>
+          <tei:q>Papilloten</tei:q>
+          <tei:seg> ein zeitgenössischer Topos für die Entwertung des Literarischen. Heine: Der Krämer macht Düten aus meinem Buch der Lieder.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-28">
@@ -552,9 +586,11 @@
         <tei:p style="text-left">
           <tei:seg>In seinem Artikel </tei:seg>
           <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
-          <tei:seg> klagt Gutzkow im Zusammenhang mit Übersetzungen aus dem Englischen und Französischen ähnlich: </tei:seg>
-          <tei:q>Kaum die Hälfte der buchhändlerischen Industrie in Deutschland geht von der Literatur aus</tei:q>
-          <tei:seg> (TfD, Nr. 7, 11. Januar 1839, S. 50-52). </tei:seg>
+          <tei:seg> (Telegraph für Deutschland, 11. Januar 1839) klagt Gutzkow im Zusammenhang mit Übersetzungen aus dem Englischen und Französischen ähnlich: </tei:seg>
+          <tei:q>Wäre leider in der Deutschen Literatur der Buchhändler nicht mächtiger als der Autor, nie würden sich die Spekulanten unter jenen herausnehmen, so willkürlich das Druckpapier zu verbrauchen, als es jetzt geschieht. Kaum die Hälfte der buchhändlerischen Industrie in Deutschland geht von der Literatur aus</tei:q>
+          <tei:seg>. (GWB IV, Bd. 7, S. 103; → </tei:seg>
+          <tei:ref target="#global" data-heading-id="apparat-6.1.">Globalkommentar</tei:ref>
+          <tei:seg>.)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-32">
@@ -574,12 +610,12 @@
           <tei:citedRange type="word-range">steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>In den ersten Jahrzehnten des 19. Jahrhunderts war eine eklatante Zunahme der Buchproduktion zu beobachten. Der Buchmarkt hatte sich von dem Konjunktureinbruch in Folge der napoleonischen Kriege zusehends erholt; die jährliche Titelproduktion stieg ab 1821 auf circa 4.500 und sollte 1843 mit circa 14.000 Neuerscheinungen einen weiteren Höhepunkt erleben (vgl. Reinhard Wittmann: Geschichte des deutschen Buchhandels. Ein Überblick. München: Verlag, 1991. S. 201). Die Dynamisierung des Buchmarkts wurde von den Buchhändlern und Schriftstellern gleichermaßen kritisch bewertet. Die Einführung des spekulativen Momentes im Buchhandel führte zu einer massiven Überproduktion, die, stagnierte der Absatz der Auflage, die ‚Preisschleuderei' bedingte.</tei:seg>
+          <tei:seg>In den ersten Jahrzehnten des 19. Jahrhunderts war eine eklatante Zunahme der Buchproduktion zu beobachten. Der Buchmarkt hatte sich von dem Konjunktureinbruch in Folge der napoleonischen Kriege zusehends erholt; die jährliche Titelproduktion stieg ab 1821 auf circa 4.500 und sollte 1843 mit circa 14.000 Neuerscheinungen einen weiteren Höhepunkt erleben (vgl. Reinhard Wittmann: Geschichte des deutschen Buchhandels. Ein Überblick. München: Beck, 1991. S. 201). Die Dynamisierung des Buchmarkts wurde von den Buchhändlern und Schriftstellern gleichermaßen kritisch bewertet. Die Einführung des spekulativen Momentes im Buchhandel führte zu einer massiven Überproduktion, die, stagnierte der Absatz der Auflage, die ‚Preisschleuderei‛ bedingte.</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -592,19 +628,19 @@
         <tei:q>Vermischten Schriften</tei:q>
         <tei:seg> (1842) kürzte Gutzkow den Text um die brisanten Stellen, aus denen sich ein öffentlich ausgetragener Streit entwickelt hatte.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -615,10 +651,10 @@
           <tei:seg>E Ueber Preisherabsetzungen im Buchhandel. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: J.  J. Weber, 1842. S. 3-9. (Rasch 2.23.2.1.1) </tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -627,7 +663,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -641,7 +677,7 @@
         <tei:sic>Aufstellung</tei:sic>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -664,10 +700,10 @@
         </tei:q>
         <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und erhalten blieb die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -712,7 +748,7 @@
       <tei:p style="text-left">
         <tei:seg>14. St***.: Xenien. [Zum Streit Gutzkows mit Hoff.] In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 106, 2. Juli 1839, S. 848. (Rasch 9/2.39.07.02)</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -720,111 +756,30 @@
         <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
         <tei:seg> auf S. 15-37 und 77-78 unvollständig ab. Sie war mit Glossen des Verfassers Hoff versehen. Erschien um den 6. März 1839.  </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="apparat-6.1." type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Im Frühjahr 1834 debütierte der Schauspieler Eduard Jerrmann mit Gastrollen in Köln und wies das unseriöse Angebot des Theaterkritikers F. A. Arnold, gegen Schmiergeld eine lobende Theaterkritik zu schreiben, ab, in dieser Zeit eine nicht untypische Offerte eines Theaterrezensenten. Arnold rächte sich mit einer abwertenden Kritik über Jerrmanns schauspielerische Leistung in der "Leipziger Allgemeinen Zeitung" sowie in der Kölner Lokalpresse. Diese Auseinandersetzung zwischen Schauspieler und Kritiker kulminierte in einer publizistischen Debatte, in deren Verlauf bei dem Mannheimer Verleger Heinrich Hoff eine Streitschrift Jerrmanns erschien (→ Erl. zu 156,12) "Reue und Bekenntnisse von Ed. Jerrmann. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn Dr. B. Rave" (1836) erschien, eine Erwiderung auf einen Beitrag des Kölner Kritikers Bernhard Rave. Der Konflikt weitete sich auf das Verhältnis zwischen Hoff und Jerrmann aus, als in einer Lokalzeitung des Buchhändlers Hoff die abwertende Rezension wiederabdruckt wurde. Hoff rächte sich für einen beleidigenden Brief Jerrmanns mit der Verschleuderung von dessen Broschüre: So reduzierte er den Preis von 36 Kreuzern auf 1 Kreuzer, versprach Abnehmern von wenigstens drei Exemplaren weitere Freistücke und setzte durch dieses Verfahren an einem Vormittag über 600 Exemplare zum Schaden des Autors ab.</tei:seg>
+        <tei:seg>Der Text gehört zu den literaturpolitischen Auseinandersetzungen, in die sich Gutzkow mit seinen Zeitschriftenbeiträgen einmischte bzw. die er durch sie auslöste.  1838 nahm er den Streit zwischen dem angesehenen Schauspieler Eduard Jerrmann und dem Verleger Heinrich Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Gutzkow nahm 1836 den Streit zwischen Jerrmann und Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
+        <tei:seg>Der Beitrag </tei:seg>
+        <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
+        <tei:seg>  ist Teil von Gutzkows Ende der 1830er Jahre zugespitzter Kampagne gegen das spekulative Verlagswesen (vgl. auch </tei:seg>
+        <tei:ref target="#global" data-heading-id="text-die-deutschen-uebersetzungsfabriken">→ Die Deutschen Uebersetzungsfabriken</tei:ref>
+        <tei:seg>). Seine Hauptkritik zielte darauf, dass dem am Profit interessierten Verleger von Druckwerken die Oberhand gegenüber dem Werk-Produzenten gegeben sei. In den 1850er Jahren setzte er diese Kampagne in den Unterhaltungen am häusliche Herd vehement fort in den UahH 1854: Das Kaufen von Buechern, Der deutsche Gaensekiel, Unsere Buecherfabrikation.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Zum Hintergrund des Streits zwischen Jerrmann und Hoff: Im Frühjahr 1834 gastierte der Schauspieler in Köln und wies das unseriöse Angebot des Theaterkritikers F. A. Arnold, gegen Schmiergeld eine lobende Theaterkritik zu schreiben, ab, in dieser Zeit eine nicht untypische Offerte eines Theaterrezensenten. Arnold rächte sich mit einer abwertenden Kritik von Jerrmanns Leistung in der „Leipziger Allgemeinen Zeitung“ sowie in der Kölner Lokalpresse. Diese Auseinandersetzung zwischen Schauspieler und Kritiker kulminierte in einer publizistischen Debatte, in deren Verlauf Jerrmann 1836 bei Hoff eine Streitschrift veröffentlichte: „Reue und Bekenntnisse von Ed. Jerrmann. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn Dr. B. Rave“; dies als Erwiderung auf einen Beitrag des Kölner Kritikers Bernhard Rave. Der Konflikt weitete sich auf das Verhältnis zwischen Hoff und Jerrmann aus, als in einer von Hoff verlegten Lokalzeitung die abwertende Rezension wiederabdruckt wurde. Hoff rächte sich für einen beleidigenden Brief Jerrmanns mit der Verschleuderung von dessen Broschüre: So reduzierte er den Preis von 36 Kreuzern auf 1 Kreuzer, versprach Abnehmern von wenigstens drei Exemplaren weitere Freistücke und setzte durch dieses Verfahren an einem Vormittag über 600 Exemplare zum Schaden des Autors ab.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
-      <tei:p style="text-left">
-        <tei:seg>6.2. Einzelstellenerläuterungen</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,3 Buchhändler Hoff in Mannheim] Heinrich Hoff (1808-1852), Verlagsbuchhändler in Mannheim und engagierter Vertreter der jungdeutschen Bewegung. Wegen seiner radikalen politischen Positionen und der Herausgabe des "Deutschen Liederbuchs" (1847) wurde Hoff wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,5 Jerrmann] Eduard Jerrmann (1798-1859), Schriftsteller und Schauspieler, von 1836-1842 Regisseur am Mannheimer Theater.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,8-9 für 3 Kreuzer] Heinrich Hoff korrigierte in seiner Erwiderung "Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt" süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,10-11 Herr O. Wigand in Leipzig] Otto Friedrich Wigand (1795-1870), Verleger und Buchhändler in Leipzig.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,12 verlegte vor einigen Jahren ein Werk] Der Titel "Bilder und Zustände aus Berlin" von Joel Jacoby (?→ Erläuterung zu 1,13), der bei Wigand 1833 als Kommissionsartikel gehandelt wurde.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,13 J. Jacoby] Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den "Bildern und Zuständen aus Berlin" (?→ Erläuterung zu 1,12), signalisierte aber mit den "Klagen eines Juden" (1837), von Gutzkow kritisiert im "Frankfurter Telegraph" (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; vgl. Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der "Allgemeinen Zeitung" öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion'. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat' verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,13 Apostaten] Apostat: Abtrünniger.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,16-17 ihren Verlag] im Sinne von ‚in ihrem Verlag erschienene Buchtitel'.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,17-18 parthienweise] Verkauf ganzer Partien. →? Erläuterung zu 2,8.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,25 Cirkulär] Rundschreiben.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>1,25-26 Buchhändlerbörsenblatts] Verbandsorgan des "Börsenvereins des Deutschen Buchhandels". Die erste Ausgabe erschien am 3. Januar 1834 in Leipzig. Erscheinungsweise zunächst wöchentlich, ab 1837 zweimal wöchentlich.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>2,6-7 Handlungen, welche gewohnt sind, für Leihbibliotheken zu verlegen] Im ersten Drittel des 19. Jahrhunderts bedienten belletristische Verlagsunternehmen, u. a. der Leipziger Verleger Christian Ernst Kollmann, Leihbibliotheken mit günstigen Bezugsbedingungen. Die Inhaber großer Leihbibliotheken profitierten von großzügigen Buchrabatten oder Freiexemplaren, manche Verleger druckten einen Teil der Auflage speziell für Leihbibliotheken und reduzierten den Verkaufspreis durch die Verwendung von preiswertem Papier und minderwertigen Einbandmaterialien.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>2,8 Parthiepreisen] Partiepreis: Ermäßigter Gesamtpreis bei Abnahme einer großen Anzahl eines Titels oder einer Reihe des Verlages (z. B. 11/10: Die Buchhandlung bezieht 11, bezahlt aber nur 10 Exemplare).</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>2,24-25 Carl Hoffmann in Stuttgart] Karl Heinrich August Hoffmann (1802-1883), Verleger und Schriftsteller.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>2,30 Herrn Hitzig] Julius Eduard Hitzig (1780-1849), Buchhändler, Kriminalrat, Schriftsteller. Setzte sich öffentlich für ein Verbot des Nachdrucks ein. 1838 forderte er mit Erfolg die Berliner Zeitungsredakteure auf, gegenseitig auf den Nachdruck einzelner Artikel zu verzichten.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>3,4 Ballen] größere, zum Transport zusammengeschnürte und oft noch ungebundene Büchersendungen.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>3,7-8 Lords vom Mühlendamm] Es handelt sich um eine spöttische Berliner Redensart, die im ersten Drittel des 19. Jahrhunderts üblich war: "'n Lord von' Mühlendamm, Stutzer niederen Ranges. Bis 1820 etwa waren unter dem Mühlendamm die feinsten Schnittwaren- und dergl. Geschäfte; die Kommis strebten durchweg nach Eleganz; daher Lords." (Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904. S. 83) Die dort ansässigen Textilgeschäfte verschwanden im Laufe des 19. Jahrhunderts und damit auch die ironische Anspielung.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>3,26 Cession] Übertragung eines rechtlichen Anspruchs.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>4,11 Löschpapier] Fließpapier, Saugpapier. Meist aus Baumwollhadern hergestelltes minderwertiges Papier, das unter anderem als Bedruckstoff diente (z. B. auch für Werke von Goethe und Schiller).</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,4 Rottecks Weltgeschichte] Karl von Rotteck (1775-1840), Historiker, Politiker und Verfasser der "Allgemeinen Geschichte von Anfang der historischen Kenntnis bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet", die in den vierziger Jahren im Braunschweiger Verlag Georg Westermann erschien und zahlreiche Auflagen erlebte. Mit Carl Welcker zusammen Herausgeber des liberalen "Staats-Lexikons" (1835-1843).</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,16-17 Fideikommisses] Fideikommiss: unteilbares und unveräußerliches Vermögen einer Familie.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,22 Maculatur] Verkauf von Verlagswerken zum Papierwert oder Einstampfen und Verwerten als Altpapier.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,23 Papilloten] Haarwickel.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,24 Malice] Arglist.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,26 Buchhändler] Gutzkow meint Verlagsbuchhändler (=Verleger).</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,27 Meßkatalog] ab 1564 zu den Frankfurter und ab 1594 zu den Leipziger Frühjahrs- und Herbstmessen erscheinende Kataloge. Messkataloge sind die ersten regelmäßig erscheinenden Verzeichnisse von Neuerscheinungen auf dem Buchmarkt.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,27-28 mehr Literatur von den Buchhändlern als den Schriftstellern gemacht] Gutzkow spielt hier wohl auf die auffällige Anzahl von Lieferungswerken an, in die einzelne Titel aufgeteilt wurden. Aus diesem Distributionsverfahren resultierte ein höherer Gewinn für den Verleger, da die Summe des Preises für die einzelnen Lieferungen in der Regel höher war als der für einen Gesamtband. In seinem "Telegraph"-Artikel Die Deutschen Uebersetzungsfabriken klagt Gutzkow im Zusammenhang mit Romanübersetzungen ähnlich: Kaum die Hälfte der buchhändlerischen Industrie in Deutschland geht von der Literatur aus (TfD, Nr. 7, 11. Januar 1839, S. 50-52).</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,29 Mandatare] im Auftrag eines anderen Handelnde.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>5,34-6,1 steigert der Verlagshandel in Deutschland die Masse der Literatur auf eine schwindelnde Höhe] In den ersten Jahrzehnten des 19. Jahrhunderts war eine eklatante Zunahme der Buchproduktion zu beobachten. Der Buchmarkt hatte sich von dem Konjunktureinbruch in Folge der napoleonischen Kriege zusehends erholt, und die jährliche Titelproduktion stieg ab 1821 auf circa 4.500 und sollte 1843 mit circa 14.000 Neuerscheinungen einen weiteren Höhepunkt erleben (vgl. Reinhard Wittmann: Geschichte des deutschen Buchhandels. Ein Überblick. München 1991, S. 201). Die Dynamisierung des Buchmarkts wurde von den Buchhändlern und Schriftstellern gleichermaßen kritisch bewertet. Die Einführung des spekulativen Momentes im Buchhandel führte zu einer massiven Überproduktion, die, stagnierte der Absatz der Auflage, die ‚Preisschleuderei' bedingte.</tei:seg>
-      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>
