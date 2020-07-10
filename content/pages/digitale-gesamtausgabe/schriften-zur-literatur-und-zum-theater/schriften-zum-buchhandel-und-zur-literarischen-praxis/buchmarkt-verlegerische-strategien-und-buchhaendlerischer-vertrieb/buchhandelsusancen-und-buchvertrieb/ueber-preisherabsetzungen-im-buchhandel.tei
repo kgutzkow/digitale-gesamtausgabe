@@ -6,20 +6,19 @@
         <tei:title>Ueber Preisherabsetzungen im Buchhandel.</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Digitale edition</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Digitale edition</tei:resp>
-          <tei:name>Gert Vonhoff</tei:name>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transform</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>TEI transform</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="">
+          <tei:name/>
         </tei:respStmt>
         <tei:respStmt/>
       </tei:titleStmt>
@@ -46,12 +45,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001-07" who="#ChristineHaug #UteSchneider">Fassung 1.0</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.1: Layout angepasst, HTML eingetragen</tei:change>
-      <tei:change when="2001-08" who="#GertVonhoff">Fassung 1.2: Fuss- und Kopfbereich fuer neue Website angepasst</tei:change>
-      <tei:change when="2007-01" who="#GertVonhoff">Fassung 1.3: Ergaenzung von Erl. 3,7-8 Lords vom Muehlendamm</tei:change>
-      <tei:change when="2007-08" who="#GertVonhoff">Fassung 1.4: Sigle A gegen E ausgetauscht</tei:change>
-      <tei:change who="#MartinaLauster" when="2020-07-06">Fassung 1.5: Kollationierungskorrekturen</tei:change>
+      <tei:change when="2020-07-10" who="#MartinaLauster">Fassung 1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -62,11 +56,11 @@
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Der </tei:seg>
-        <tei:ref type="esv" target="#annotation-37">Buchhändler </tei:ref>
-        <tei:ref type="esv" target="#annotation-1">
+        <tei:ref type="esv" target="#annotation-25">
+          <tei:seg>Buchhändler </tei:seg>
           <tei:hi style="letter-sparse">Hoff</tei:hi>
+          <tei:seg> in Mannheim</tei:seg>
         </tei:ref>
-        <tei:ref type="esv" target="#annotation-14"> in Mannheim</tei:ref>
         <tei:seg> verlegte vor einigen Jahren von dem talentvollen Schauspieler und gewandten Schriftsteller </tei:seg>
         <tei:ref type="esv" target="#annotation-2">
           <tei:hi style="letter-sparse">Jerrmann</tei:hi>
@@ -171,9 +165,7 @@
         <tei:seg> bleiben, eine Garantie, daß ihr seinen Namen nicht muthwillig verschleudern, einen Ruf nicht wie unreines Wasser auf die Straße gießen werdet! Die Auflage ist in </tei:seg>
         <tei:hi style="letter-sparse">Allem</tei:hi>
         <tei:seg> euer, was nicht auf das Autorrecht, auf die ferneren immer als möglich anzunehmenden Auflagen reagirt! Sonst könntet ihr eure lagernden Exemplare ja sogar </tei:seg>
-        <tei:ref type="esv" target="#">als </tei:ref>
-        <tei:ref type="esv" target="#">Maculatur</tei:ref>
-        <tei:ref type="esv" target="#annotation-26"> verkaufen</tei:ref>
+        <tei:ref type="esv" target="#annotation-38">als Maculatur verkaufen</tei:ref>
         <tei:seg>, für Friseure als </tei:seg>
         <tei:ref type="esv" target="#annotation-27">Papilloten</tei:ref>
         <tei:seg>, für Krämer als </tei:seg>
@@ -199,9 +191,7 @@
         <tei:pb n="1558"/>
         <tei:seg> jetzt im Buchhandel an der Tagesordnung sind. Möglich, daß diese Preisherabsetzungen das Gute haben, den Buchhandel über sich aufzuklären und die Vorräthe willkürlich hervorgerufener Produktionen aufzuräumen, so daß endlich Platz und Raum dem in der Literatur organisch Nothwendigen offen wird. Es muß ein besseres Gleichgewicht der beiden Faktoren des literarischen Lebens, der Buchhändler und der Schriftsteller, eintreten, damit jene endlich aufhören, mehr zu produziren, als diese den Trieb und das Publikum das Bedürfniß hat.                                                                                       G.</tei:seg>
       </tei:p>
-      <tei:interp type="esv" xml:id="annotation-37">
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-1">
+      <tei:interp type="esv" xml:id="annotation-25">
         <tei:p style="text-center">
           <tei:hi style="font-size-medium">6.2. Einzelstellenerläuterungen</tei:hi>
         </tei:p>
@@ -220,7 +210,6 @@
           <tei:seg>Der Verlagsbuchhändler Heinrich Hoff (1808-1852) publizierte in den 1830er und frühen 40er Jahren u. a. Erzählprosa und Reiseliteratur von Heinrich Laube, die Geschichtswerke zur Französischen Revolution von Thiers und Mignet sowie die Romane von Walter Scott in deutscher Übersetzung.  Wegen seiner politischen Position und der Herausgabe des „Deutschen Liederbuchs“ (1847) wurde er wegen Hochverrats verurteilt. Obwohl er bereits nach einem halben Jahr gegen Kaution entlassen wurde, war sein Buchhandelsgeschäft in der Zwischenzeit ruiniert.</tei:seg>
         </tei:p>
       </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-14"/>
       <tei:interp type="esv" xml:id="annotation-2">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
@@ -240,11 +229,14 @@
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">156,12</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:lem>Streitschrift</tei:lem>
-          <tei:seg>  Eduard Jerrmann: Reue und Bekenntnisse [...]. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn </tei:seg>
+          <tei:citedRange type="word-range">Streitschrift</tei:citedRange>
+          <tei:seg>  </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Eduard Jerrmann: Reue und Bekenntnisse [...]. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn </tei:seg>
           <tei:foreign>Dr</tei:foreign>
           <tei:seg>. B. Rave. Mannheim: Hoff, 1836. (→ </tei:seg>
-          <tei:ref target="#global" data-heading-id="Streitschrift Jerrmanns">Globalkommentar</tei:ref>
+          <tei:ref target="#global" data-heading-id="apparat-6.1.">Globalkommentar</tei:ref>
           <tei:seg>.)</tei:seg>
         </tei:p>
       </tei:interp>
@@ -256,7 +248,9 @@
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Heinrich Hoff korrigierte in seiner Erwiderung „Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt“ (Dokument 5.1.1) süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
+          <tei:seg>Heinrich Hoff korrigierte in seiner Erwiderung „Wie Herr Gutzkow über Preisherabsetzungen im Buchhandel faselt“ (→ </tei:seg>
+          <tei:ref target="#global" data-heading-id="apparat-5.1.">Dokument 5.1.1</tei:ref>
+          <tei:seg>) süffisant, der Ladenpreis der Broschüre habe sogar nur einen Kreuzer betragen.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-5">
@@ -414,9 +408,9 @@
         <tei:p style="text-left">
           <tei:seg>Spöttische Berliner Redensart, die im ersten Drittel des 19. Jahrhunderts üblich war: „’n Lord von’ Mühlendamm, Stutzer niederen Ranges. Bis 1820 etwa waren unter dem Mühlendamm die feinsten Schnittwaren- und dergl. Geschäfte; die Kommis strebten durchweg nach Eleganz; daher Lords.“ (Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904. S. 83) Die dort ansässigen Textilgeschäfte verschwanden im Laufe des 19. Jahrhunderts und damit auch die ironische Anspielung. Außer falscher Eleganz signalisierte der Ausdruck </tei:seg>
           <tei:q>Lords vom Mühlendamm</tei:q>
-          <tei:seg> auch den Schein literarischer Bildung dieser Berliner Ladenangestellten („Commis“), die geradezu einen lokalen Typus bildeten: „</tei:seg>
+          <tei:seg> auch den Schein literarischer Bildung. In beiderlei Hinsicht bildeten dieser Berliner Ladenangestellten („Commis“) geradezu einen lokalen Typus: „</tei:seg>
           <tei:hi style="letter-sparse">Lord vom Mühlendamm</tei:hi>
-          <tei:seg> [...]; so heißen bey uns die Ritter von der Elle, welche gern eine gewisse literarische Bildung affectiren, und nicht selten sogar in Journalen und Tagesblättern die literarische Elle schwingen“, schreibt ein Berliner Korrespondent 1828 in der Wiener Zeitschrift für Kunst, Literatur, Theater und Mode (Nr. 34, 19. März 1829, S. 279-280, Zitat S. 280).</tei:seg>
+          <tei:seg> [...]; so heißen bey uns die Ritter von der Elle, welche gern eine gewisse literarische Bildung affectiren, und nicht selten sogar in Journalen und Tagesblättern die literarische Elle schwingen“, schreibt ein Berliner Korrespondent 1828 in der Wiener „Zeitschrift für Kunst, Literatur, Theater und Mode“ (Nr. 34, 19. März 1829, S. 279-280, Zitat S. 280).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-20">
@@ -513,14 +507,15 @@
           <tei:seg>Fideikommiss: unteilbares und unveräußerliches Vermögen einer Familie.</tei:seg>
         </tei:p>
       </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-26">
+      <tei:interp type="esv" xml:id="annotation-38">
         <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">160,30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">als Maculatur verkaufen</tei:citedRange>
+          <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Das Verkaufen von Verlagswerken zum Papierwert für die Einstampfung oder Verwertung als Altpapier.</tei:seg>
+          <tei:seg>Das Verkaufen von Verlagswerken zum Papierwert mit dem Zweck der Einstampfung oder Verwertung als Altpapier.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-27">
@@ -530,7 +525,7 @@
           <tei:citedRange type="word-range">Papilloten</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Lockenwickel aus Papier; vermutlich aus dem französischen Wort für ,Schmetterling‛: ,papillon‛. Gutzkow hatte schon 1833 die Nähe ephemerer journalistischer Tagespublikationen zu Papilloten, also zu flatternden Schmetterlingen sowie zu bloßem Druckpapier, in einem Beitrag zu Moritz Saphirs humoristischem Blatt „Der deutsche Horizont“ verarbeitet  (Karl Gutzkow: Papilloten. In: Der deutsche Horizont. Ein humoristisches Blatt für Zeit, Geist und Sitte. München. [Heft 7, Juli] 1833, S. 289-301).  Saphir wiederum beeinflusste den jungen Gutzkow ziemlich sicher durch seine eigene Sammlung witziger Bemerkungen unter demselben Titel (Moritz Saphir: Papilloten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4, S. 195-248;  → Erl. zu 158,15).</tei:seg>
+          <tei:seg>Lockenwickel aus Papier; vermutlich aus dem französischen Wort für ,Schmetterling‛: ,papillon‛. Gutzkow hatte schon 1833 die Nähe journalistischer Tagespublikationen zu Papilloten, also zu flatternden Schmetterlingen sowie zu bloßem Druckpapier, in einem Beitrag zu Moritz Saphirs humoristischem Blatt „Der deutsche Horizont“ verarbeitet  (Karl Gutzkow: Papilloten. In: Der deutsche Horizont. Ein humoristisches Blatt für Zeit, Geist und Sitte. München. [Heft 7, Juli] 1833, S. 289-301).  Saphir wiederum beeinflusste den jungen Gutzkow ziemlich sicher durch seine eigene Sammlung witziger Bemerkungen unter demselben Titel (Moritz Saphir: Papilloten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4, S. 195-248;  → Erl. zu 158,15).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-34">
@@ -542,7 +537,7 @@
         <tei:p style="text-left">
           <tei:seg>Wie </tei:seg>
           <tei:q>Papilloten</tei:q>
-          <tei:seg> ein zeitgenössischer Topos für die Entwertung des Literarischen. Heine: Der Krämer macht Düten aus meinem Buch der Lieder.</tei:seg>
+          <tei:seg> ein zeitgenössischer Topos für die Entwertung des Literarischen; vgl. Heines „Vorrede [zur Lutezia]“:  „ach! mein Buch der Lieder wird der Krautkrämer zu Düten verwenden um Kaffe oder Schnupftabak darin zu schütten für die alten Weiber der Zukunft“ (DHA, Bd. 13/1, S. 294).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-28">
@@ -658,10 +653,7 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>Errata</tei:seg>
@@ -700,10 +692,11 @@
         </tei:q>
         <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und erhalten blieb die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
       </tei:p>
+      <tei:p style="text-left"/>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="apparat-5.1." type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -716,7 +709,9 @@
         <tei:seg>3. K[arl] G[utzkow]: Abfertigung des Buchhändlers Hoff, Wohlgeboren. In: Telegraph für Deutschland. Hamburg. Nr. 26, [13.] Februar 1839, S. 201-201. (Rasch 3.39.02.13)</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>4. Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Ein gemüthliches Literaturbild [...], als Antwort auf die Abfertigung des Buchhändlers Hoff Wohlgeboren, von Karl Gutzkow. Mannheim: Hoff, 1839.  (Rasch 9/2.39.03.06)</tei:seg>
+        <tei:seg>4. Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Ein gemüthliches Literaturbild [...], als Antwort auf die Abfertigung des Buchhändlers Hoff Wohlgeboren, von Karl Gutzkow. Mannheim: Hoff, 1839.  (Rasch 9/2.39.03.06) - Diese Publikation druckte Gutzkows Artikel </tei:seg>
+        <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
+        <tei:seg> auf S. 15-37 und 77-78 unvollständig ab. Sie war mit Glossen des Verfassers Hoff versehen. Erschien um den 6. März 1839.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>5. [Anon.:] Kleine Chronik [Gutzkows Anmerkung zu dem Beitrag in den „Blättern für literarische Unterhaltung“, Dokument Nr. 5.1.2]. In: Telegraph für Deutschland. Hamburg. Nr. 40, [9.] März 1839, S. 318-319. (Rasch 3.39.03.09)</tei:seg>
@@ -752,9 +747,7 @@
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
-        <tei:seg>Heinrich Hoff: Karl Gutzkow und die Gutzkowgraphie. Mannheim: Hoff, 1839. Diese Publikation druckte Gutzkows Artikel </tei:seg>
-        <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
-        <tei:seg> auf S. 15-37 und 77-78 unvollständig ab. Sie war mit Glossen des Verfassers Hoff versehen. Erschien um den 6. März 1839.  </tei:seg>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
@@ -763,17 +756,29 @@
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der Text gehört zu den literaturpolitischen Auseinandersetzungen, in die sich Gutzkow mit seinen Zeitschriftenbeiträgen einmischte bzw. die er durch sie auslöste.  1838 nahm er den Streit zwischen dem angesehenen Schauspieler Eduard Jerrmann und dem Verleger Heinrich Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
+        <tei:seg>Der Text gehört zu den literaturpolitischen Auseinandersetzungen, in die sich Gutzkow mit seinen Zeitschriftenbeiträgen einmischte bzw. die er durch sie auslöste.  1838 nahm er den Streit zwischen dem angesehenen Schauspieler Eduard Jerrmann und dem Verleger Heinrich Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow als symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Der Beitrag </tei:seg>
         <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
         <tei:seg>  ist Teil von Gutzkows Ende der 1830er Jahre zugespitzter Kampagne gegen das spekulative Verlagswesen (vgl. auch </tei:seg>
         <tei:ref target="#global" data-heading-id="text-die-deutschen-uebersetzungsfabriken">→ Die Deutschen Uebersetzungsfabriken</tei:ref>
-        <tei:seg>). Seine Hauptkritik zielte darauf, dass dem am Profit interessierten Verleger von Druckwerken die Oberhand gegenüber dem Werk-Produzenten gegeben sei. In den 1850er Jahren setzte er diese Kampagne in den Unterhaltungen am häusliche Herd vehement fort in den UahH 1854: Das Kaufen von Buechern, Der deutsche Gaensekiel, Unsere Buecherfabrikation.</tei:seg>
+        <tei:seg>). Seine Hauptkritik zielte darauf, dass dem am Profit interessierten Verleger die Oberhand gegenüber dem Werk-Produzenten gegeben sei.  1854 setzte er diese Kampagne in den „Unterhaltungen am häuslichen Herd“ vehement fort: </tei:seg>
+        <tei:q>Das Kaufen von Büchern</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Der deutsche Gänsekiel</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Unsere Bücherfabrikation</tei:q>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Zum Hintergrund des Streits zwischen Jerrmann und Hoff: Im Frühjahr 1834 gastierte der Schauspieler in Köln und wies das unseriöse Angebot des Theaterkritikers F. A. Arnold, gegen Schmiergeld eine lobende Theaterkritik zu schreiben, ab, in dieser Zeit eine nicht untypische Offerte eines Theaterrezensenten. Arnold rächte sich mit einer abwertenden Kritik von Jerrmanns Leistung in der „Leipziger Allgemeinen Zeitung“ sowie in der Kölner Lokalpresse. Diese Auseinandersetzung zwischen Schauspieler und Kritiker kulminierte in einer publizistischen Debatte, in deren Verlauf Jerrmann 1836 bei Hoff eine Streitschrift veröffentlichte: „Reue und Bekenntnisse von Ed. Jerrmann. Ein Carnevals-Schreiben an den Ex-Companie-Chirurg des Welt- und Staatsboten und Champion des Kölner Carnevals Herrn Dr. B. Rave“; dies als Erwiderung auf einen Beitrag des Kölner Kritikers Bernhard Rave. Der Konflikt weitete sich auf das Verhältnis zwischen Hoff und Jerrmann aus, als in einer von Hoff verlegten Lokalzeitung die abwertende Rezension wiederabdruckt wurde. Hoff rächte sich für einen beleidigenden Brief Jerrmanns mit der Verschleuderung von dessen Broschüre: So reduzierte er den Preis von 36 Kreuzern auf 1 Kreuzer, versprach Abnehmern von wenigstens drei Exemplaren weitere Freistücke und setzte durch dieses Verfahren an einem Vormittag über 600 Exemplare zum Schaden des Autors ab.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left">
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
       <tei:p style="text-left"/>
