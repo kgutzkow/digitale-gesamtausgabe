@@ -17,10 +17,6 @@
           <tei:resp>TEI Transform</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="">
-          <tei:name/>
-        </tei:respStmt>
-        <tei:respStmt/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -102,7 +98,7 @@
         <tei:seg> und die zahllose Menge andrer Verleger, welche, ohne Rücksprache mit den betreffenden Autoren zu nehmen, deren Werke willkürlich im Preise herabsetzen. Es ist die Aufgabe einer neu zu begründenden Entwicklung </tei:seg>
         <tei:hi style="letter-sparse">des geistigen Eigenthumsrechtes</tei:hi>
         <tei:seg>, diese Ungerechtigkeit zu beweisen und wir können nicht umhin, bei dieser Gelegenheit </tei:seg>
-        <tei:ref type="esv" target="#">Herrn </tei:ref>
+        <tei:ref type="esv" target="#annotation-35">Herrn </tei:ref>
         <tei:ref type="esv" target="#annotation-17">
           <tei:hi style="letter-sparse">Hitzig</tei:hi>
         </tei:ref>
@@ -278,7 +274,9 @@
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>„Bilder und Zustände aus Berlin“ von Joel Jacoby (→ Erl. zu 156,20), der bei Wigand 1833 als Kommissionsartikel gehandelt wurde.</tei:seg>
+          <tei:seg>„Bilder und Zustände aus Berlin“ von Joel Jacoby (→ Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-1">156,20</tei:ref>
+          <tei:seg>), eine Schrift, die bei Wigand 1833 als Kommissionsartikel gehandelt wurde.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-6">
@@ -289,7 +287,9 @@
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den „Bildern und Zuständen aus Berlin“ (→ Erl. zu 156,19), signalisierte aber mit den „Klagen eines Juden“ (1837), von Gutzkow kritisiert im „Frankfurter Telegraph“ (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der „Allgemeinen Zeitung“ öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion‛. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat‛ verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
+          <tei:seg>Joel Jacoby (1810-1863), Kommilitone Gutzkows an der Berliner Universität aus jüdischer Königsberger Familie. Betätigte sich publizistisch zunächst mit radikalen und liberalen Schriften, z. B. den „Bildern und Zuständen aus Berlin“ (→ Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-14">156,19</tei:ref>
+          <tei:seg>), signalisierte aber mit den „Klagen eines Juden“ (1837), von Gutzkow kritisiert im „Frankfurter Telegraph“ (Neue Folge, Nr. 1, [1.] April 1837, S. 1-5; Rasch 3.37.04.01), seinen Gesinnungswechsel, zu dem er sich am 30. August 1837 in der „Allgemeinen Zeitung“ öffentlich bekannte. Er trat zum katholischen Glauben über. Innerhalb der jungdeutschen Bewegung galt Jacoby ab Mitte der 1830er Jahre als ‚Spion‛. Möglicherweise als Reaktion auf Jacobys offenen ‚Verrat‛ verschleuderte Wigand seinen Kommissionsartikel, der vorher drei Reichstaler kostete, für acht Groschen.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-7">
@@ -317,7 +317,9 @@
           <tei:citedRange type="word-range">parthienweise</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Verkauf in gewissen Mengen mit Rabatt;  → Erl. zu 157,15.</tei:seg>
+          <tei:seg>Verkauf in gewissen Mengen mit Rabatt;  → Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-26">157,15</tei:ref>
+          <tei:seg>.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-10">
@@ -370,8 +372,12 @@
           <tei:citedRange type="word-range">Carl Hoffmann in Stuttgart</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Karl Heinrich August Hoffmann (1802-1883), Verleger und Schriftsteller. Seine Firma gehörte zu den erfolgreichen kommerzialisierten Stuttgarter Verlagen (→ Lexikon: Spekulativer Verleger). </tei:seg>
+          <tei:seg>Karl Heinrich August Hoffmann (1802-1883), Verleger und Schriftsteller. Seine Firma gehörte zu den erfolgreichen kommerzialisierten Stuttgarter Verlagen (→ Lexikon: </tei:seg>
+          <tei:ref type="esv" target="#">Spekulativer Verleger</tei:ref>
+          <tei:seg>). </tei:seg>
         </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-35">
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-17">
         <tei:p style="text-left">
@@ -408,7 +414,7 @@
         <tei:p style="text-left">
           <tei:seg>Spöttische Berliner Redensart, die im ersten Drittel des 19. Jahrhunderts üblich war: „’n Lord von’ Mühlendamm, Stutzer niederen Ranges. Bis 1820 etwa waren unter dem Mühlendamm die feinsten Schnittwaren- und dergl. Geschäfte; die Kommis strebten durchweg nach Eleganz; daher Lords.“ (Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904. S. 83) Die dort ansässigen Textilgeschäfte verschwanden im Laufe des 19. Jahrhunderts und damit auch die ironische Anspielung. Außer falscher Eleganz signalisierte der Ausdruck </tei:seg>
           <tei:q>Lords vom Mühlendamm</tei:q>
-          <tei:seg> auch den Schein literarischer Bildung. In beiderlei Hinsicht bildeten dieser Berliner Ladenangestellten („Commis“) geradezu einen lokalen Typus: „</tei:seg>
+          <tei:seg> auch den Schein literarischer Bildung. In beiderlei Hinsicht stellten diese Berliner Ladenangestellten („Commis“) geradezu einen lokalen Typus dar: „</tei:seg>
           <tei:hi style="letter-sparse">Lord vom Mühlendamm</tei:hi>
           <tei:seg> [...]; so heißen bey uns die Ritter von der Elle, welche gern eine gewisse literarische Bildung affectiren, und nicht selten sogar in Journalen und Tagesblättern die literarische Elle schwingen“, schreibt ein Berliner Korrespondent 1828 in der Wiener „Zeitschrift für Kunst, Literatur, Theater und Mode“ (Nr. 34, 19. März 1829, S. 279-280, Zitat S. 280).</tei:seg>
         </tei:p>
@@ -432,15 +438,17 @@
           <tei:hi style="letter-sparse">ausverkauft</tei:hi>
           <tei:seg>, und manche Gewölbthüren sind kaum zu sehen vor lauter Zetteln, auf welchen nichts steht, als die verhängnißvollen Worte: ,</tei:seg>
           <tei:hi style="letter-sparse">Ausverkauf! Ausverkauf! Ausverkauf!</tei:hi>
-          <tei:seg>‛“ (Moritz Saphir: Ausverkauf von alten Manuscripten aus einer langjährigen Redaktions-Kanzlei. In: Der Humorist. Wien. 6. Jg., Nr. 3 und 4, 5. und 6. Januar 1842, S. 13-14; Zit. S. 13) Auf Druckerzeugnisse angewendet, konnte das Wort ,Ausverkauf‛  - wie bei Gutzkow - den moralisch zurückzuweisenden Übergriff des Kommerzes auf den Buchverlag signalisieren, aber auch - wie hier bei Saphir - die Trivialisierung literarischer Inhalte, also den geistigen Ausverkauf: „</tei:seg>
+          <tei:seg>‛“ (Moritz Saphir: Ausverkauf von alten Manuscripten aus einer langjährigen Redaktions-Kanzlei. In: Der Humorist. Wien. 6. Jg., Nr. 3 und 4, 5. und 6. Januar 1842, S. 13-14; Zit. S. 13) Auf Druckerzeugnisse angewendet, konnte das Wort ,Ausverkauf‛  - wie bei Gutzkow - den Übergriff des Kommerzes auf den Buchverlag signalisieren, aber auch - wie hier bei Saphir - die Trivialität literarischer Inhalte, also den geistigen Ausverkauf: „</tei:seg>
           <tei:hi style="letter-sparse">Erster Artikel: Novellen</tei:hi>
           <tei:seg>, sechs aschgraue, mit sentimentalen Borduren [...] </tei:seg>
           <tei:hi style="letter-sparse">Zweiter Artikel: Humoristische Crispinen</tei:hi>
           <tei:seg>, mit Roßhaar gefüttert und mit blauem Gemüthstafft ausgeschlagen [...] </tei:seg>
           <tei:hi style="letter-sparse">Dritter Artikel: Gedichte,</tei:hi>
-          <tei:seg> mit Marder und Zobel, für den Winter, lang und weit“, und so geht die Liste weiter (S. 13-14). Sowohl Gutzkows als auch Saphirs Kritik greift auf die Metapher des Textilausverkaufs zurück. Auch in Gutzkows Kritik kann letztlich ein Angriff auf die Verflachung literarischer Inhalte und Urteile liegen, die durch die Beteiligung der </tei:seg>
+          <tei:seg> mit Marder und Zobel, für den Winter, lang und weit“, und so geht die Liste weiter (S. 13-14). Sowohl Gutzkows als auch Saphirs Kritik am Literaturmarkt greift auf die Metapher des Textilausverkaufs zurück. Auch in Gutzkows Kritik kann letztlich ein Angriff auf die Verflachung literarischer Inhalte und Urteile liegen, die durch die Beteiligung der </tei:seg>
           <tei:q>Lords vom Mühlendamm</tei:q>
-          <tei:seg> am gebildeten Diskurs (→ Erl. zu 158,13-14) zustande kommt.</tei:seg>
+          <tei:seg> am gebildeten Diskurs (→ Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-37">158,13-14</tei:ref>
+          <tei:seg>) zustande kommt.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-21">
@@ -472,7 +480,7 @@
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Karl von Rotteck (1775-1840), Historiker, Politiker und Verfasser der „Allgemeinen Geschichte von Anfang der historischen Kenntniß bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet“ (1812-1827). Von diesem Werk kam bei Carl Hoffmann 1832 eine populäre gekürzte Fassung in vier Bänden heraus:  „Allgemeine Weltgeschichte für alle Stände, von den frühesten Zeiten bis zum Jahre 1831“. Der Verleger kündigte dieses gut ausgestattete Werk 1831 als erschwingliche Publikation in monatlichen Lieferungen an (vgl. Intelligenzblatt der Allgemeinen Literatur-Zeitung. Halle u. Leipzig. Bd. 5, September 1831, Sp. 456-468). Mit dieser Popularisierung wissenschaftlicher Werke machte sich Hoffmann ebenso verdient, wie er gut daran verdiente; z. B. verlegte er in Lieferungen auch Okens „Naturgeschichte“, auf die Gutzkow in </tei:seg>
+          <tei:seg>Karl von Rotteck (1775-1840), Historiker und Politiker, war Verfasser der „Allgemeinen Geschichte von Anfang der historischen Kenntniß bis auf unsere Zeiten, für denkende Geschichtsfreunde bearbeitet“ (1812-1827). Von diesem Werk kam bei Carl Hoffmann 1832 eine populäre gekürzte Fassung in vier Bänden heraus:  „Allgemeine Weltgeschichte für alle Stände, von den frühesten Zeiten bis zum Jahre 1831“. Der Verleger kündigte dieses gut ausgestattete Werk 1831 als erschwingliche Publikation in monatlichen Lieferungen an (vgl. Intelligenzblatt der Allgemeinen Literatur-Zeitung. Halle u. Leipzig. Bd. 5, September 1831, Sp. 456-468). Mit dieser Popularisierung wissenschaftlicher Werke machte sich Hoffmann ebenso verdient, wie er gut daran verdiente; z. B. verlegte er in Lieferungen auch Okens „Naturgeschichte“, auf die Gutzkow in </tei:seg>
           <tei:q>Werke der Industrie</tei:q>
           <tei:seg> lobend eingeht (GWB IV, Bd. 7, S. 99-100). </tei:seg>
         </tei:p>
@@ -525,7 +533,9 @@
           <tei:citedRange type="word-range">Papilloten</tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
-          <tei:seg>Lockenwickel aus Papier; vermutlich aus dem französischen Wort für ,Schmetterling‛: ,papillon‛. Gutzkow hatte schon 1833 die Nähe journalistischer Tagespublikationen zu Papilloten, also zu flatternden Schmetterlingen sowie zu bloßem Druckpapier, in einem Beitrag zu Moritz Saphirs humoristischem Blatt „Der deutsche Horizont“ verarbeitet  (Karl Gutzkow: Papilloten. In: Der deutsche Horizont. Ein humoristisches Blatt für Zeit, Geist und Sitte. München. [Heft 7, Juli] 1833, S. 289-301).  Saphir wiederum beeinflusste den jungen Gutzkow ziemlich sicher durch seine eigene Sammlung witziger Bemerkungen unter demselben Titel (Moritz Saphir: Papilloten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4, S. 195-248;  → Erl. zu 158,15).</tei:seg>
+          <tei:seg>Lockenwickel aus Papier; vermutlich aus dem französischen Wort für ,Schmetterling‛: ,papillon‛. Gutzkow hatte schon 1833 die Nähe journalistischer Tagespublikationen zu Papilloten, also zu flatternden Schmetterlingen sowie zu bloßem Druckpapier, in einem Beitrag zu Moritz Saphirs humoristischem Blatt „Der deutsche Horizont“ verarbeitet  (Karl Gutzkow: Papilloten. In: Der deutsche Horizont. Ein humoristisches Blatt für Zeit, Geist und Sitte. München. [Heft 7, Juli] 1833, S. 289-301).  Saphir wiederum beeinflusste den jungen Gutzkow ziemlich sicher durch seine eigene Sammlung witziger Bemerkungen unter demselben Titel (Moritz Saphir: Papilloten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4, S. 195-248;  → Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-39">158,15</tei:ref>
+          <tei:seg>).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-34">
@@ -690,7 +700,7 @@
         <tei:q>
           <tei:hi style="letter-sparse">Ausverkauf</tei:hi>
         </tei:q>
-        <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und erhalten blieb die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
+        <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und profiliert wurde stattdessen die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
       <tei:head data-heading-id="" type="level-2">
@@ -756,7 +766,7 @@
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der Text gehört zu den literaturpolitischen Auseinandersetzungen, in die sich Gutzkow mit seinen Zeitschriftenbeiträgen einmischte bzw. die er durch sie auslöste.  1838 nahm er den Streit zwischen dem angesehenen Schauspieler Eduard Jerrmann und dem Verleger Heinrich Hoff zum Anlass, die von den Buchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow als symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
+        <tei:seg>Der Text gehört zu den literaturpolitischen Auseinandersetzungen, in die sich Gutzkow mit seinen Zeitschriftenbeiträgen einmischte bzw. die er durch sie auslöste.  1838 nahm er den Streit zwischen dem angesehenen Schauspieler Eduard Jerrmann und dem Verleger Heinrich Hoff zum Anlass, die von den Verlagsbuchhändlern praktizierte Buchpreispolitik anzuprangern. Gutzkow trat für eine internationale Urheberrechtsregelung ein, die die Autoren nicht nur vor nicht autorisierten Übersetzungen, sondern auch vor willkürlichen Preisreduzierungen schützen und das herkömmliche Verlagsrecht, das die vollständige Abtretung der Autorenrechte an den Verleger gegen eine entsprechende Honorierung vorsah, ablösen sollte. Den publizistischen Schlagabtausch zwischen Jerrmann und Hoff und die damit verbundene Verschleuderungsaktion Hoffs, die Gutzkow als symptomatisch für die im Buchhandel vorherrschende Auffassung vom literarischen Werk als bloßer kaufmännischer Ware erschien, nahm Gutzkow zum Anstoß für eine öffentliche Diskussion über die Buchpreispolitik.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Der Beitrag </tei:seg>
