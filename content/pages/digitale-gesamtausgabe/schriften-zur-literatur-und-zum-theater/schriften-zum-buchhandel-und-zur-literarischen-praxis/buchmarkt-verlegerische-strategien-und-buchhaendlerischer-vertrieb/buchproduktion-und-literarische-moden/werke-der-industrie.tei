@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="549"/>
         <tei:seg> Werke der Industrie.</tei:seg>
       </tei:head>
@@ -107,8 +107,101 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:p>
-        <tei:seg>Platzhalter</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow nahm den 1835 im „Literatur-Blatt“ des „Phönix“ erschienenen Text 1836 in überarbeiteter und gekürzter Form in das Kapitel </tei:seg>
+        <tei:q>Literarische Industrie</tei:q>
+        <tei:seg> seiner Sammlung </tei:seg>
+        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg> auf. </tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Werke der Industrie. In: Phönix. Literatur-Blatt. Frankfurt/M.  Nr. 23, 13. Juni 1835, S. 549-551. (Rasch 3.35.06.13.1)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>E Literarische Industrie. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836. Bd. 1, S. 1-22. (Rasch 2.13.1.2.) Die Passagen aus J finden sich auf S. 1-6.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref"/>
+        <tei:citedRange type="page-line-ref">99,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Embonpoint</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Emponpoin</tei:sic>
+        <tei:sic>t</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">100,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>welches</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>welche</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:citedRange type="page-line-ref"/>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">99,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Allein Nicolai sagte, er würde schon sehen, wie weit man damit käme</tei:lem>
+        <tei:seg> Dieser Satz findet sich nicht in J, sondern nur in E, und ist zu streichen</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">101,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Erfolg</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Verfolg</tei:sic>
+        <tei:citedRange type="page-line-ref"/>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:p style="no-indent text-left"/>
+      <tei:p style="no-indent text-left"/>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>
