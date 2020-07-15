@@ -157,8 +157,13 @@ def check_editor_transition(doc, errors):
     """Check that no old formatting exists."""
     references = doc.xpath('//tei:ref', namespaces=ns)
     for ref in references:
-        if 'type' not in ref.attrib or ref.attrib['type'] not in ('esv', 'footnote'):
-            errors.append('Old reference found')
+        if 'type' not in ref.attrib and 'target' not in ref.attrib:
+            errors.append('Reference without target found')
+        else:
+            if 'type' in ref.attrib and ref.attrib['type'] not in ('esv', 'footnote'):
+                errors.append('Old reference found')
+            if 'type' not in ref.attrib and ref.attrib['target'] != '#global':
+                errors.append('Reference to unknown target')
     annotations = doc.xpath('//tei:interp', namespaces=ns)
     for annotation in annotations:
         if 'type' not in annotation.attrib or annotation.attrib['type'] not in ('esv', ):
