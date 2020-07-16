@@ -34,19 +34,19 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1834-03-31, 1834-04-01">31. März 1834, 1. April 1834</tei:date>
+        <tei:date when="1834-03-31">31. März 1834</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zum-buchhandel-und-zur-literarischen-praxis#buchmarkt-verlegerische-strategien-und buchhändlerischer-vertrieb#populäre-lesestoffe-und-illustrationen"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MartinaLauster" when="2020-07-14">Fassung 1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-07-14">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="513"/>
         <tei:seg> Die Pfennig-Litteratur.</tei:seg>
       </tei:head>
@@ -80,25 +80,25 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung </tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.   </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -112,10 +112,10 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg> 2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -124,7 +124,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg> 2.1.2 Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -134,13 +134,13 @@
         <tei:seg> </tei:seg>
         <tei:sic>gefogt</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Der oben verzeichnete Texteingriff ist in der Buchausgabe (GWB IV, Bd. 7) nicht erfolgt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -186,7 +186,7 @@
         <tei:seg> </tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>1,7 Bos­sangePère]Martin Bossange (1765-1865), franz. Verleger und Buchhändler, eröffnete 1785 eine Buchhandlung in Paris und errich­te­te Zweigstellen in London, Leipzig, Neapel, Santo Domingo, Montreal, Mexiko und Rio de Janeiro; 1833 begründete er zusammen mit Johann Jakob Weber (#8594;→ Johann Jakob Weber) nach englischem und fran­zösischem Vorbild das „Pfennig-Magazin“. Vgl. &#8594;→ DdtUebeTWWW (Die Deutschen Uebersetzungsfabriken).</tei:seg>
+        <tei:seg>1,7 Bos­sangePère]Martin Bossange (1765-1865), franz. Verleger und Buchhändler, eröffnete 1785 eine Buchhandlung in Paris und errich­te­te Zweigstellen in London, Leipzig, Neapel, Santo Domingo, Montreal, Mexiko und Rio de Janeiro; 1833 begründete er zusammen mit Johann Jakob Weber (#8594;→ Johann Jakob Weber) nach englischem und fran­zösischem Vorbild das „Pfennig-Magazin“. Vgl. →→ DdtUebeTWWW (Die Deutschen Uebersetzungsfabriken).</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>1,22 die neuen Nummern des Pfennig-Magazins] Vgl. Lexikoneintrag #8594; → Illustrierte Periodika  und #8594; → Johann Jakob Weber.</tei:seg>
