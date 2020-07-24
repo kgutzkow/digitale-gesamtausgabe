@@ -1,88 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>LUDWIG
-        BÖRNE </tei:title>
-<tei:author>Wolfgang Rasch</tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2003-07">2003-07</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #boern"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-size-large font-weight-bold">LUDWIG BÖRNE </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>(1786-1837), Schriftsteller und Publizist. Seine in der deutschen Literaturgeschichte bis dahin beispiellose Verknüpfung des Schreibens mit zeitgeschichtlicher Beobachtung und sein entschlossener Republikanismus übten auf die jungdeutschen Schriftsteller einen starken Einfluß aus.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>→ </tei:seg>
-<tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
-<tei:seg>.</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Allgemeines</tei:hi><tei:seg> </tei:seg><tei:hi style="font-weight-bold">Gutzkow und Börne</tei:hi><tei:p>
-</tei:p>
-<tei:seg> </tei:seg><tei:hi style="font-weight-bold">Selbständig erschienene Publikationen </tei:hi>
-<tei:hi style="font-weight-bold">Börne</tei:hi>
-<tei:hi style="font-weight-bold">s</tei:hi><tei:seg> </tei:seg><tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi><tei:seg> </tei:seg><tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>(Wolfgang Rasch, Berlin)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg> © Editionsprojekt Karl Gutzkow, 2003. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Wolfgang Rasch.</tei:seg>
-<tei:seg> Seite angelegt am Juli.2003.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>30.03.2006 16:01</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg> E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Ludwig Börne</tei:title>
+        <tei:author>Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2003-07">2003-07</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #boern"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2003-07" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">LUDWIG BÖRNE </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>(1786-1837), Schriftsteller und Publizist. Seine in der deutschen Literaturgeschichte bis dahin beispiellose Verknüpfung des Schreibens mit zeitgeschichtlicher Beobachtung und sein entschlossener Republikanismus übten auf die jungdeutschen Schriftsteller einen starken Einfluß aus.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>→ </tei:seg>
+        <tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
+      <tei:seg> </tei:seg>
+      <tei:hi style="font-weight-bold">Gutzkow und Börne</tei:hi>
+      <tei:seg> </tei:seg>
+      <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen </tei:hi>
+      <tei:hi style="font-weight-bold">Börne</tei:hi>
+      <tei:hi style="font-weight-bold">s</tei:hi>
+      <tei:seg> </tei:seg>
+      <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
+      <tei:seg> </tei:seg>
+      <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg> © Editionsprojekt Karl Gutzkow, 2003. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Wolfgang Rasch.</tei:seg>
+        <tei:seg> Seite angelegt am Juli.2003.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>30.03.2006 16:01</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg> E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>
