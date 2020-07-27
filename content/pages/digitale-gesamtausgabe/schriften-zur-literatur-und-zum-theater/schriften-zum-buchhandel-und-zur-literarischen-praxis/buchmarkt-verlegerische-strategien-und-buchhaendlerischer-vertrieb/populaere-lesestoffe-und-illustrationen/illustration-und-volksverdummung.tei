@@ -26,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Illustration und Volksverdummung. In: Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd 5, Nr 53, [1. Oktober] 1860, S. 846-848. (Rasch 3.60.10.01).</tei:bibl>
+      <tei:bibl>[Anon.:] Illustration und Volksverdummung. In: Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd 5, Nr 53, [1. Oktober] 1860, S. 846-848. (Rasch 3.60.10.01)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,12 +37,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2001-02" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="846"/>
         <tei:seg> Illustration und Volksverdummung.</tei:seg>
       </tei:head>
@@ -187,7 +187,7 @@
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Zur Buchausgabe sind folgende Textkorrekturen zu vermerken:</tei:seg>
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
       <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">144,9</tei:citedRange>
@@ -236,9 +236,9 @@
       <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">147,33</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:hi style="letter-sparse">der Warnung</tei:hi>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse letter-sparse">der Warnung</tei:hi>
+        </tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>
           <tei:seg>der </tei:seg>
