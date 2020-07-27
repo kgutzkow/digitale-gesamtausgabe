@@ -13,10 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>TEI Transfer</tei:resp>
-          <tei:name>Martina Lauster</tei:name>
-        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -30,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Karl]G[utzkow]: Ueber Preisherabsetzungen im Buchhandel. In: Telegraph für Deutschland (Hamburg), Nr. 195, [7.] Dezember 1838, S. 1553-1558 (Rasch 3.38.12.07).</tei:bibl>
+      <tei:bibl>[Karl]G[utzkow]: Ueber Preisherabsetzungen im Buchhandel. In: Telegraph für Deutschland. Hamburg. Nr. 195, [7.] Dezember 1838, S. 1553-1558. (Rasch 3.38.12.07)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -41,7 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-07-10" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -619,7 +615,7 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -632,19 +628,20 @@
         <tei:q>Vermischten Schriften</tei:q>
         <tei:seg> (1842) kürzte Gutzkow den Text um die brisanten Stellen, aus denen sich ein öffentlich ausgetragener Streit entwickelt hatte.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -655,16 +652,17 @@
           <tei:seg>E Ueber Preisherabsetzungen im Buchhandel. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: J.  J. Weber, 1842. S. 3-9. (Rasch 2.23.2.1.1) </tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -677,8 +675,7 @@
         <tei:seg> lies: </tei:seg>
         <tei:sic>Aufstellung</tei:sic>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -702,7 +699,7 @@
         <tei:seg>). Damit wurden dem Text seine polemischen Elemente genommen, und profiliert wurde stattdessen die Grundaussage, dass ein Autor das ,moralische‛ Recht an seinen Arbeiten nicht verliere, auch nachdem er sie in Verlag gegeben habe. Gutzkow nahm keine weiteren Überarbeitungen vor. An Abweichungen zwischen J und E sind allein geringfügige orthographische Varianten festzustellen: seyn J / sein E, Großbuchstabe Ü als ‚Ü‛ in J, / ‚Ue‛ in E. </tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
       <tei:head data-heading-id="apparat-5.1." type="level-3">
@@ -752,13 +749,13 @@
       <tei:p style="text-left">
         <tei:seg>14. St***.: Xenien. [Zum Streit Gutzkows mit Hoff.] In: Mitternachtzeitung für gebildete Leser. Braunschweig. Nr. 106, 2. Juli 1839, S. 848. (Rasch 9/2.39.07.02)</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
       <tei:head data-heading-id="apparat-6.1." type="level-3">
