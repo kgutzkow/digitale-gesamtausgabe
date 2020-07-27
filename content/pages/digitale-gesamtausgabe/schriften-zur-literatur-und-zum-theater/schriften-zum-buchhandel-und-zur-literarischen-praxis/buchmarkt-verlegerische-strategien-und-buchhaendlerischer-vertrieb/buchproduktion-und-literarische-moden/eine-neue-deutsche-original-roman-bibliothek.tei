@@ -26,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Eine neue deutsche Original-Roman-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 7, [12. November] 1853, S. 112. (Rasch 3.53.11.12.2).</tei:bibl>
+      <tei:bibl>[Anon.:] Eine neue deutsche Original-Roman-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 7, [12. November] 1853, S. 112. (Rasch 3.53.11.12.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,12 +37,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2013-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="112"/>
         <tei:seg> Eine neue deutsche Original-Roman-Bibliothek.</tei:seg>
       </tei:head>
@@ -97,16 +97,13 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Zur Buchausgabe ist folgende Textkorrektur zu vermerken:</tei:seg>
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
       </tei:p>
       <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">113,12 und 113,18</tei:citedRange>
