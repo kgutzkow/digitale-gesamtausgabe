@@ -26,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Karl] G[utzkow]: Der neue Don-Quixote mit Holzschnitten. In: Frankfurter Telegraph. Neue Folge. Nr. 36, [2.] Juni 1837, S. 281-282. (Rasch 3.37.06.02).</tei:bibl>
+      <tei:bibl>[Karl] G[utzkow]: Der neue Don-Quixote mit Holzschnitten. In: Frankfurter Telegraph. Neue Folge. Nr. 36, [2.] Juni 1837, S. 281-282. (Rasch 3.37.06.02)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2013-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -47,35 +47,395 @@
         <tei:seg> Der neue Don-Quixote mit Holzschnitten.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Wenn man die Industrie und den Unternehmungsgeist des Buchhandels, wie er sich seit länger als zehen Jahren in Deutschland entwickelt hat, verfolgt, so wird man leicht gewisse Perioden unterscheiden können, wo sich die Spekulation des Kaufmanns und die Kauflust des Publikums je nach neuen Windstößen auf entgegengesetzte Richtungen und Vorlieben wandte, wo eine Manier die andre ablöste und der eingeschlummerte Besuch des Buchladens durch eine neue Idee einen neuen Impuls bekam. So hatten wir zuerst die heftweisen Uebersetzungen Franckhs und Sauerländers; dann kamen die heftweisen Wissenschaften Hoffmanns; dann die Pfennigsliteratur aus England. Wir stehen im Augenblick wieder an einer neuen Wendung des buchhändlerischen Modegeschmacks und der plötzlich neu ergriffenen Theilnahme des Publikums; das sind die </tei:seg>
-        <tei:hi style="letter-sparse">Ausgaben der Classiker mit Illustrationen</tei:hi>
+        <tei:seg>Wenn man die </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">Industrie</tei:ref>
+        <tei:seg> und den Unternehmungsgeist des Buchhandels, wie er sich seit länger als zehen Jahren in Deutschland entwickelt hat, verfolgt, so wird man leicht gewisse Perioden unterscheiden können, wo sich die </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">Spekulation</tei:ref>
+        <tei:seg> des Kaufmanns und die Kauflust des Publikums je nach neuen Windstößen auf entgegengesetzte Richtungen und Vorlieben wandte, wo eine Manier die andre ablöste und der eingeschlummerte Besuch des Buchladens durch eine neue Idee einen neuen Impuls bekam. So hatten wir zuerst </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">die heftweisen Uebersetzungen Franckhs und Sauerländers</tei:ref>
+        <tei:seg>; dann kamen </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">die heftweisen Wissenschaften Hoffmanns</tei:ref>
+        <tei:seg>; dann die </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">Pfennigsliteratur aus England</tei:ref>
+        <tei:seg>. Wir stehen im Augenblick wieder an einer neuen Wendung des buchhändlerischen Modegeschmacks und der plötzlich neu ergriffenen Theilnahme des Publikums; das sind die </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">
+          <tei:hi style="letter-sparse">Ausgaben der Classiker mit Illustrationen</tei:hi>
+        </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Man versteht unter dieser Art, berühmte Werke herauszugeben, eine in Frankreich und England mit beispiellosem Erfolg aufgenommene </tei:seg>
+        <tei:seg>Man versteht unter dieser Art, berühmte Werke herauszugeben, eine </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">in Frankreich und England mit beispiellosem Erfolg aufgenommene</tei:ref>
+        <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">artistische Erläuterung</tei:hi>
-        <tei:seg> derselben vermittelst kunstvoller Holzschnitte, welche dem gedruckten Text selbst eingefügt werden, und Ausgaben Molieres, des Gil-Blas und Andrer bereits in classische Bilderbücher verwandelt haben. Da nur Holzschnitte von künstlerischem Werthe, Zeichnungen, die mit Genialität erfunden sind, Aussicht auf einen günstigen Erfolg so kostspieliger Unternehmungen geben konnten, so wird hier der Kunst eine neue Provinz, in der sie mit Ehren "nach Brod gehen" kann, zugewandt. Die Industrie tritt hier nicht mit dem Säckel allein auf, um Geld einzustreichen; sondern sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen.</tei:seg>
+        <tei:seg> derselben vermittelst </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">kunstvoller Holzschnitte, welche dem gedruckten Text selbst eingefügt werden</tei:ref>
+        <tei:seg>, und </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">Ausgaben Molieres, des Gil-Blas und Andrer</tei:ref>
+        <tei:seg> bereits in classische Bilderbücher verwandelt haben. Da nur Holzschnitte von künstlerischem Werthe, Zeichnungen, die mit Genialität erfunden sind, Aussicht auf einen günstigen Erfolg </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">so kostspieliger Unternehmungen</tei:ref>
+        <tei:seg> geben konnten, so wird hier der Kunst eine neue Provinz, in der sie mit Ehren "nach Brod gehen" kann, zugewandt. Die Industrie tritt hier nicht mit dem Säckel allein auf, um Geld einzustreichen; sondern </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Der in Stuttgart erscheinende </tei:seg>
-        <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
+        <tei:ref type="esv" target="#">Der in Stuttgart erscheinende </tei:ref>
+        <tei:ref type="esv" target="#annotation-12">
+          <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
+        </tei:ref>
         <tei:seg> führt die </tei:seg>
         <tei:pb n="282"/>
         <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">artistischen Illustrationen</tei:hi>
-        <tei:seg> in Deutschland ein. Es ist die erste Ausgabe eines classischen Werkes, das wir in dieser Art in deutscher Sprache erhalten. Sechs Lieferungen der Ausgabe liegen vor uns. Sie versprechen, wenn das Unternehmen im Laufe eines Jahres vollendet sein wird, dem ersten komischen Romane der Welt in Deutschland, ein Resultat, welches das Ganze zu einer wahrhaften Prachtausgabe machen wird. In klein Folio, auf schönstem Velin, mit den saubersten Lettern wird diese Ausgabe des Don Quixote herausgegeben. Fast </tei:seg>
+        <tei:seg> in Deutschland ein. </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Es ist die erste Ausgabe eines classischen Werkes, das wir in dieser Art in deutscher Sprache erhalten</tei:ref>
+        <tei:seg>. </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">Sechs Lieferungen der Ausgabe liegen vor uns. Sie versprechen, wenn das Unternehmen im Laufe eines Jahres vollendet sein wird</tei:ref>
+        <tei:seg>, dem ersten komischen Romane der Welt in Deutschland, ein Resultat, welches das Ganze zu einer wahrhaften </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">Prachtausgabe</tei:ref>
+        <tei:seg> machen wird. In </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">klein Folio</tei:ref>
+        <tei:seg>, auf schönstem </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Velin</tei:ref>
+        <tei:seg>, mit den saubersten Lettern wird diese Ausgabe des Don Quixote herausgegeben. Fast </tei:seg>
         <tei:hi style="letter-sparse">jede</tei:hi>
-        <tei:seg> Seite enthält einen Holzschnitt, der mitten in den Text hineingedruckt und die Ausführung einer Zeichnung ist, für deren Originalität, kaustischen Witz und dem Stoff so angemessenen bizarren Humor einige der vorzüglichsten Zeichner aus der neuern französischen Schule garantiren. Roqueplans unübertrefflicher satyrischer Griffel ist selbst da, wo sein Name nicht genannt ist, doch in der leitenden Idee, die hinter der Arbeit eines Freundes oder Schülers steckt, sichtbar. Die spanische Grandezza, der burleske Zuschnitt des Ritters von der traurigen Gestalt, die Volksscenen, in die er mit seiner Pappendeckelrüstung hineinfährt, die Nebenfiguren, Sancho Pansa, Dulcinea und selbst die edle Rozinante; dies Alles ist von den Zeichnern der Holzschnitte so drollig aufgefaßt, daß man nicht die kleinste Vignette ansehen kann, ohne zu lachen. Die geringste Verzierung steht im Zusammenhange des Ganzen und dient als Schmuck dieses ewigen Buches, neben welches, seiner weltironischen Grundidee zufolge, nur ein Buch in der Welt noch gestellt werden kann, Reinecke Fuchs.</tei:seg>
+        <tei:seg> Seite enthält einen Holzschnitt, der mitten in den Text hineingedruckt und die Ausführung einer Zeichnung ist, für deren Originalität, kaustischen Witz und dem Stoff so angemessenen bizarren Humor </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">einige der vorzüglichsten Zeichner aus der neuern französischen Schule</tei:ref>
+        <tei:seg> garantiren. </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">Roqueplans unübertrefflicher satyrischer Griffel</tei:ref>
+        <tei:seg> ist selbst da, wo sein Name nicht genannt ist, doch in der leitenden Idee, die hinter der Arbeit eines Freundes oder Schülers steckt, sichtbar. Die spanische Grandezza, der burleske Zuschnitt des </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Ritters von der traurigen Gestalt</tei:ref>
+        <tei:seg>, die Volksscenen, in die er mit seiner Pappendeckelrüstung hineinfährt, die Nebenfiguren, </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">Sancho Pansa, Dulcinea und selbst die edle Rozinante</tei:ref>
+        <tei:seg>; dies Alles ist von den Zeichnern der Holzschnitte so drollig aufgefaßt, daß man nicht die kleinste Vignette ansehen kann, ohne zu lachen. </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">Die geringste Verzierung steht im Zusammenhange des Ganzen</tei:ref>
+        <tei:seg> und dient als Schmuck dieses ewigen Buches, neben welches, seiner weltironischen Grundidee zufolge, nur ein Buch in der Welt noch gestellt werden kann, </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">Reinecke Fuchs</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Als einen besonders sinnigen Zug muß man den Stuttgarter Herausgebern dieses </tei:seg>
         <tei:hi style="letter-sparse">illustrirten Don Quixote</tei:hi>
         <tei:seg> nachsagen, daß sie, um ein neues industrielles Genre in die Literatur einzuführen und es mit der Weihe der Bedeutsamkeit zu versehen, </tei:seg>
-        <tei:hi style="letter-sparse">H. Heine</tei:hi>
-        <tei:seg> vermocht haben, das Unternehmen einzuleiten. Noch ist die Vorrede dieses dem Cervantes so ähnlichen </tei:seg>
-        <tei:hi style="letter-sparse">Geistes</tei:hi>
-        <tei:seg> nicht erschienen; sie wird am Eingangsportale des Ganzen als würdiger Wappenträger und Schildhalter stehen. Heine und Cervantes führen dieselben Thiere in ihrem Wappen: die Nachtigall, das Eichhörnchen und den Fuchs.</tei:seg>
+        <tei:ref type="esv" target="#">
+          <tei:hi style="letter-sparse">H. Heine</tei:hi>
+        </tei:ref>
+        <tei:ref type="esv" target="#annotation-24"> vermocht haben, das Unternehmen einzuleiten</tei:ref>
+        <tei:seg>. Noch ist die Vorrede </tei:seg>
+        <tei:ref type="esv" target="#annotation-25">dieses dem Cervantes so ähnlichen </tei:ref>
+        <tei:ref type="esv" target="#">
+          <tei:hi style="letter-sparse">Geistes</tei:hi>
+        </tei:ref>
+        <tei:seg> nicht erschienen; sie wird am Eingangsportale des Ganzen als würdiger Wappenträger und Schildhalter stehen. Heine und Cervantes führen dieselben Thiere in ihrem Wappen: </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">die Nachtigall, das Eichhörnchen und den Fuchs</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Industrie</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Begriffe ‚Industrie‛ bzw. ‚industriell‛ (vgl. 137,26) und assoziierte Wortfelder verwendet Gutzkow kritisch mit Bezug auf die seit Ende der 1820er Jahre zunehmend kommerzielle Produktion von Literatur, ohne jedoch die Vorteile dieser Entwicklung zu bestreiten. Vgl. seinen Artikel </tei:seg>
+          <tei:q>→ Werke der Industrie</tei:q>
+          <tei:seg>, seine Kompilation → </tei:seg>
+          <tei:q>Literarische Industrie</tei:q>
+          <tei:seg> in der Sammlung </tei:seg>
+          <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
+          <tei:seg> oder seinen Artikel → </tei:seg>
+          <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
+          <tei:seg>. An der Rezension des </tei:seg>
+          <tei:q>Don-Quixote mit Holzschnitten</tei:q>
+          <tei:seg> ist bemerkenswert, dass Gutzkow einen Aspekt dieser ‚Industrialiserung‛ positiv wertet: die Popularisierung von Klassikern durch künstlerisch hochwertige Illustrationen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Spekulation</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Das sogenannte ‚spekulative‛ Verlagswesen (→ Lexikon) trieb die ‚literarische Industrie‛ an. Pioniere waren die Stuttgarter Verleger Friedrich und Gottlob Franckh; → Erl. zu 136,30.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die heftweisen Uebersetzungen Franckhs und Sauerländers</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Mit ihren in Heftlieferungen erscheinenden Übersetzungen der Romane Walter Scotts produzierten die Gebrüder Franckh in den 1820er Jahren literarische Massenware: „Unter Lieferung von G. Franckh wurde [...] mit der Herausgabe einer billigen Volksausgabe von Walter Scotts Romanen begonnen, und wie der Erfolg bewies, mit beispiellosem Glück. Franckh brachte das 8 Bogen starke Bändchen zu 2 </tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>/2 Silbergroschen, den ganzen Roman zu 15-20 Sgr. auf den Markt, so ihn zu einem Massenartikel stempelnd.“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Bd. 2. Berlin: Weber, 1903. S. 262) „Innerhalb von drei Jahren hatte die Franckh’sche Verlagshandlung über drei Millionen Scott-Bändchen herausgebracht.“ ([Helmut M. Braem:] Franckh’sche Verlagshandlung Stuttgart. Ein altes Verlagshaus mit jungem Geist. Stuttgart: Franckh, 1982. S. 23-24) - Der Frankfurter Verleger Johann David Sauerländer (1789-1869) war mit seinen in deutscher Übersetzung erscheinenden Ausgaben Washington Irvings und James Fenimore Coopers ebenfalls Pionier der preiswerten Taschenausgaben. In den 1830er Jahren gesellte sich die Ausgabe der Werke Victor Hugos in 19 Bänden zu seinem Verlagsprogramm; ihre Übersetzer - allesamt aus dem Lager der ‚jungen‛ Literatur - vermittelte Gutzkow, Mitarbeiter an Sauerländers „Phönix“: darunter Ferdinand Freiligrath, Georg Büchner, Heinrich Laube, Eduard Beurmann, August Lewald.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die heftweisen Wissenschaften Hoffmanns</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Stuttgarter Verleger Carl Hoffmann, der bei Franckh gelernt hatte (→ Erl. zu 136,10-11), war besonders erfolgreich mit der lieferungsweisen Publikation von Lorenz Okens „Allgemeiner Naturgeschichte für alle Stände“ (1833-41, insgesamt 90 Lieferungen). Dieses Werk hatte zu der Zeit von Gutzkows Artikel also erst die Hälfte seiner Erscheinungszeit zurückgelegt. Gutzkow erwähnte Okens „Naturgeschichte“ zuvor lobend in → </tei:seg>
+          <tei:q>Werke der Industrie</tei:q>
+          <tei:seg>  (Phönix. Literatur-Blatt, 13. Juni 1835) als allgemeinverständliches, breitenwirksames naturwissenschaftliches Monumentalwerk und bezog sich darauf in demselben Sinne in seinem satirischen Vortrag vor dem „Frankfurter Museum“: → </tei:seg>
+          <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+          <tei:seg> (Phönix, 26. Februar 1835).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pfennigsliteratur aus England</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Londoner Verleger Charles Knight brachte im Auftrag der „Society for the Diffusion of Useful Knowledge“ ab März 1832 das wöchentlich erscheinende, mit Holzstichen illustrierte „Penny Magazine“ heraus. Dieses hatte direkte Nachahmer in Frankreich mit dem „Magasin Pittoresque“ des Pariser Verlegers Charton und ab Mai 1833 in Deutschland mit dem „Pfennig-Magazin“ des Leipziger Verlegers J. J. Weber, der das Magazin zunächst als Geschäftsführer der Leipziger Niederlassung von Bossange, einem weiteren Pariser Verlag, betrieb (Lexikon, → Illustrierte Periodika). Gutzkow äußerte sich zu dieser buchhändlerischen Innovation in seinem Artikel → </tei:seg>
+          <tei:q>Die Pfennig-Litteratur</tei:q>
+          <tei:seg> (Außerordentliche Beilage zur Allgemeinen Zeitung, 31. März und 1. April  1834).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,15-16</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Ausgaben der Classiker mit Illustrationen</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg> Diese Innovation datiert in Deutschland ziemlich exakt vom Jahre 1837, wobei die </tei:seg>
+          <tei:q>Classiker</tei:q>
+          <tei:seg> zunächst - genau wie die Illustrationen - aus dem Ausland importiert wurden. Der illustrierte „Don Quixote“ des „Verlags der Classiker“ machte hier wohl den Anfang (→ Erl. zu 136,31-34).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,18-19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in Frankreich und England mit beispiellosem Erfolg aufgenommene</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Buchillustration führte in England früher zu kommerziellem Erfolg als in Frankreich. Die Technik des Holzstichs (→ Erl. zu 136,19-21) wurde von dem Nordengländer Thomas Bewick Ende des 18. Jahrhunderts perfektioniert und für den Druck in hohen Auflagen verwendbar. Sie führte in den ersten Jahrzehnten des 19. Jahrhunderts in England zu einer Umwälzung der Buchillustration und im Zuge der Pfennig-Publikationen der 1830er Jahre zu einer Explosion von gedruckter Gebrauchskunst. Als erste mit Holzstichen illustrierte Buch-Serie Frankreichs gelten die äußerst erfolgreichen „Hermite“-Bände von V. J. E. de Jouy aus der Restaurationszeit, zu denen der Engländer Charles Thompson die Stiche anfertigte. In Paris wurden Holzstecher zunächst unter Anleitung englischer Experten ausgebildet; ab Mitte der 1830er Jahre existierte dann eine ausreichende Infrastruktur, die zur Produktion reich illustrierter Werke führte (bekannt als „livres romantiques“). Vgl. René Blachon: La Gravure sur bois au XIX</tei:seg>
+          <tei:hi style="sup">e</tei:hi>
+          <tei:seg> siècle. Paris: Les éditions de l'amateur, 2001.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,19-21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">kunstvoller Holzschnitte, welche dem gedruckten Text selbst eingefügt werden</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Bezeichnung ‚Holzschnitt‛ für den ‚Holzstich‛ (wie im Englischen ‚woodcut‛ für ‚wood engraving‛) war im 19. Jahrhundert gebräuchlich. Beim Holzstich werden Stichel statt Messer verwendet und daher weit feinere tonale Effekte erzielt als beim Holzschnitt. Der Vorteil der bearbeiteten Holzplatte ist, dass sie sich direkt in den Text integrieren lässt und im selben Druckvorgang wie die Lettern reproduziert wird (Lexikon: → Illustrierte Periodika). Dies ermöglicht ein ganz neues Text-Bild-Verhältnis, und diesem gilt ein Großteil von Gutzkows Aufmerksamkeit in dieser Rezension (137,6-23).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ausgaben Molieres, des Gil-Blas und Andrer</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Bei den von Gutzkow genannten Titeln handelt es sich um: Œuvres de Molière. 2 Bde. Paris: Paulin, 1835-36 (mit einer Einleitung von Sainte-Beuve und Illustrationen nach Tony Johannot, gestochen von Charles Thompson und Théodore Maurisset). - Alain-René Lesage: L’Histoire de Gil Blas de Santillane. Paris: Paulin, 1835 (mit einer Einleitung von Charles Nodier und Illustrationen nach Jean Gigoux, gestochen von Charles Thompson).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,24-25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">so kostspieliger Unternehmungen</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Produktion eines illustrierten Werkes war wegen der Beschäftigung eines oder mehrerer Zeichner sowie eines oder mehrerer Stecher und wegen des Druckvorgangs, der auch vom Drucker hohe Sorgfalt verlangte, teuer. Die Produktionskosten ließen sich durch hohe Auflagen einholen, zu denen sich die widerstandsfähigen Holzstiche besonders gut eigneten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,28-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Dass  der bildenden Kunst eine Popularisierung nicht abträglich, sondern im Gegenteil förderlich sei, war auch Balzacs Ansicht. Er setzte sich im Prospekt der Zeitschrift „La Caricature“ für die periodische Publikation graphischer Kunst ein und bezeichnete den regelmäßigen und massenhaften Kauf gedruckter Bilder als den Lohn, den die Nation ihren Künstlern zahle (vgl. Honoré de Balzac: Prospectus. In: Œuvres diverses. Bd. 2. Hg. von Roland Chollet und René Guise. Paris: Gallmiard, 1996. S. 795-798, bes. S. 796). Als Druckereibesitzer gab Balzac schon um 1824 bei dem in Paris wirkenden englischen Holzstecher Charles Thompson Illustrationen für Ausgaben von Molière und La Fontaine in Auftrag (vgl. Remi Blachon: La Gravure sur bois au XIX</tei:seg>
+          <tei:hi style="sup">e</tei:hi>
+          <tei:seg> siècle. L'âge du bois debout. Paris: Les Éditions de l'Amateur, 2001. S. 52). Solche Klassiker-Prachtausgaben nahmen aber erst in den 1830er Jahren ihren Aufschwung.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Der in Stuttgart erscheinende Don-Quixote</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Mit dem Hinweis auf den Erscheinungsort Stuttgart ist das ‚spekulative Verlagswesen‛ gemeint (→ Erl. zu 136,5). Der Stuttgarter „Verlag der Classiker“, der den illustrierten „Don Quixote“ herausbrachte (Titelblatt: → Bilder und Materialien. Bilder), war 1836 von Gottlob Franckh während seiner Haft auf dem Hohenasperg gegründet worden; als Geschäftsführer fungierte Adolph Krabbe (vgl. [Helmut M. Braem:] Franckh’sche Verlagshandlung Stuttgart. Ein altes Verlagshaus mit jungem Geist. Stuttgart: Franckh, 1982. S. 29. - Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Bd. 2. Berlin: Weber, 1903. S. 262-265,  bes. S. 263. - Art. ,Fran[c]kh‛, Börne-Index, 1. Hbd., S. 190). Dieser Verlag spekulierte also auf die brandaktuelle Vermarktung von Klassikern in illustrierten Ausgaben nach englischem und französischem Vorbild. Zu diesem Zweck erwarb er aus Paris die Stereotypen der Illustrationen, die die Prachtausgabe des „Don Quixote“ bei Dubochet zierten: Miguel de Cervantes Saavedra: L’Ingenieux hidalgo Don Quichotte de la Mancha. 2 Bde. Paris: Dubochet, 1836-37 (übersetzt von Louis Viardot, mit Illustrationen von Tony Johannot, gestochen von Thompson, Best, Leloir, Brévières, Lacoste u.a.). Ein weiterer Coup gelang dem „Verlag der Classiker“, indem er Heinrich Heine als Verfasser der Einleitung engagierte.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,31-34</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Es ist die erste Ausgabe eines classischen Werkes, das wir in dieser Art in deutscher Sprache erhalten</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>In seiner „Einleitung“ zum „Don Quixote“ macht Heine einen ähnlichen Hinweis: „Diese Ausgabe ist das erste der schönen Literatur angehörige Buch, das in Deutschland auf diese Weise verziert ans Licht tritt.“ (DHA, Bd. 10, S. 263).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">136,34-137,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sechs Lieferungen der Ausgabe [...] wenn das Unternehmen im Laufe eines Jahres vollendet sein wird</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die lieferungsweise Ausgabe eines illustrierten Werkes machte den hohen Kaufpreis der Buchausgabe für ein breites Publikum ‚in Raten‛ erschwinglich und ermöglichte es dem Verlag zugleich, den künstlerischen Anspruch der Ausgabe bei einer großen Abnehmerzahl zu halten. Die Laufzeit der Lieferungen von Gutzkows (nicht illustrierten) </tei:seg>
+          <tei:q>Zeitgenossen</tei:q>
+          <tei:seg> beim „Verlag der Classiker“ - Frühjahr 1837 bis Ende 1837 / Anfang 1838 - entspricht etwa der des „Don Quixote“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Prachtausgabe</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Bereits zu Beginn des 19. Jahrhunderts wurden so bezeichnete „Prachtwerke“ bzw. „Prachtausgaben“ produziert; Campes Wörterbuch erklärt den Begriff 1809 als „Ausgabe einer Schrift“, „welche mit äußerer Pracht verbunden ist, d. h. welche auf das schönste Papier mit den schönsten Schriften und in größerer Form auf eine angenehm in die Augen fallende Art, oft auch mit Kupferstichen begleitet, gedruckt ist“. Jedoch erst „für die Prachtausgaben der zweiten Jahrhunderthälfte wird bildlicher Schmuck weitgehend verbindlich“; Gutzkows Rezension weist also auf ein frühes Beispiel dieser Entwicklung hin. Vgl. Ira Diana Mazzoni: Prachtausgaben. Literaturdenkmale in Quart und Folio. Marbach: Deutsche Schillergesellschaft, 1991 (Marbacher Magazin, H. 58), S. 3.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">klein Folio</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Beim Folioformat, einem der größten Buchformate, wurde der Druckbogen einmal gefalzt und ergab dadurch zwei Blatt bzw. vier Seiten pro Bogen, entgegen dem für repräsentative Buchausgaben gebräuchlichen Oktavformat, bei dem der Bogen dreimal gefalzt wurde und acht Blatt / sechzehn Seiten ergab. Kleinfolio (oder auch Quartformat) war eine Zwischengröße mit vier Blatt / acht Seiten pro Bogen, bei der die Seite etwa 26-30 cm Höhe und 17-20 cm Breite maß.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Velin</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Wegen seiner glatten Oberfläche eignete sich das starke Velinpapier besonders zum Druck von Holzstichen, die mit Typen zusammen im Hochdruckverfahren reproduziert wurden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,9-10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">einige der vorzüglichsten Zeichner aus der neuern französischen Schule</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Hier irrt Gutzkow, denn die Zeichnungen zum Pariser „Don Quichote“ (→ Erl. zu 136,30) stammten von einem einzigen Zeichner, Tony Johannot. Allerdings war an der Umsetzung der Zeichnungen für den Druck eine Vielzahl an Stechern beteiligt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Roqueplans unübertrefflicher satyrischer Griffel</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Camille Roqueplan (1802-1855), französischer Maler, spezialisierte sich u. a. auf aquarellierte oder lithographierte Genreszenen. Die englische Schriftstellerin Catherine Gore nennt diesen Maler mit Tony Johannot, dem Zeichner vieler ‚aus dem Leben gegriffener‛ Situationen und berühmten Illustrator (→ Erl. zu 137,9-10), in einem Atem; dies deutet auf die zeitgenössische Wahrnehmung Roqueplans vor allem als Skizzenzeichner hin, von der auch Gutzkows Rezension zeugt: „I observed, by the way, in Paris, that water-colour drawings, by well known English artists, command enormous prices, nay, twice as much as the sketches of Camille Roqueplan, or Tony Johannot“ ([Anon.]: The Diary of a Désennuyée. 2 Bde. London: Colburn, 1836. Bd. 2, S. 223).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ritters von der traurigen Gestalt</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Aufgrund von Tiecks Übersetzung sprichwörtlich gewordener Beiname für Cervantes’ Don Quixote, der ihm im Roman von Sancho Pansa verliehen wird („el Caballero de la Triste Figura“).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,16-17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sancho Pansa, Dulcinea und selbst die edle Rozinante</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Namen, die Don Quixote seinem Gefährten, seiner Angebeteten und seinem Klepper verleiht.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p style="no-indent text-left"/>
+        <tei:p style="no-indent text-left">
+          <tei:citedRange type="page-line-ref">137,19-20 </tei:citedRange>
+          <tei:citedRange type="word-range">Die geringste Verzierung steht im Zusammenhange des Ganzen</tei:citedRange>
+        </tei:p>
+        <tei:p style="no-indent text-left">
+          <tei:seg>Gutzkow formuliert hier treffend die Ästhetik der Holzstichillustration. Von der unscheinbaren Vignette bis zum detailreichen Bild steht die visuelle Darstellung stets in Beziehung zu dem Text, in den sie eingefügt ist; sie hat niemals bloß schmückenden Charakter. Vgl. Illustrationen zu Kap. II der französischen Ausgabe: → Bilder und Materialien. Bilder.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,23</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Reinecke Fuchs</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Im Gegensatz zum „Don Quixote“ handelt es sich hier um ein Versepos mittelalterlichen Ursprungs. Dass Gutzkow ihm </tei:seg>
+          <tei:q>weltironischen</tei:q>
+          <tei:seg> Status zuspricht, liegt wahrscheinlich an Goethes Bearbeitung (1794), durch die der Stoff eine deutliche sozialkritische Ausrichtung erhielt. Das Reineke-Epos wurde auch schon vor dem 19. Jahrhundert oft illustriert.</tei:seg>
+        </tei:p>
+        <tei:p style="no-indent text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">H. Heine</tei:hi>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> vermocht haben, das Unternehmen einzuleiten</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Heines „Einleitung“ (DHA, Bd. 10, S. 249-265) ist datiert: „Paris im Carneval 1837“.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">137,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">dieses dem Cervantes so ähnlichen </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Geistes</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Im Kapitel „Die Stadt Lukka“ der „Reisebilder“ wird die Episode erzählt, wie das „Ich“ als Kind bereits den „Don Quixote“ las und die Ironie des Cervantes nicht verstand, nun aber das eigene schriftstellerische Geschäft als das einer „selbstbewußten Donquixoterie“ ansehe (DHA, Bd. 7/1, S. 198). Heine eröffnet mit diesem Passus auch seine „Einleitung“ zum Stuttgarter Don-Quixote.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p style="no-indent text-left"/>
+        <tei:p style="no-indent text-left">
+          <tei:citedRange type="page-line-ref">137,32-33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Nachtigall, das Eichhörnchen und den Fuchs</tei:citedRange>
+        </tei:p>
+        <tei:p style="no-indent text-left">
+          <tei:metamark function="missing">Zu erläutern</tei:metamark>
+          <tei:citedRange type="word-range"/>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
@@ -110,19 +470,23 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. </tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">1,29</tei:citedRange>
+        <tei:citedRange type="page-line-ref">136,29</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>befördernden</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>beförde nden</tei:sic>
         <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
+      <tei:p style="text-left"/>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
@@ -137,122 +501,17 @@
         <tei:q>Zeitgenossen</tei:q>
         <tei:seg> als Lieferungswerk heraus, allerdings nicht unter seinem Namen, sondern (da er nach dem Bundestagsbeschluss effektiv mit Berufsverbot belegt war) als angebliche </tei:seg>
         <tei:q>Übersetzung aus dem Englischen des E. L. Bulwer</tei:q>
-        <tei:seg>. </tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>6.2. Einzelstellenerläuterungen</tei:seg>
-      </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,2 Industrie] Die Begriffe ‚Industrie‛ bzw. ‚industriell‛ (vgl. 137,26) und assoziierte Wortfelder verwendet Gutzkow kritisch mit Bezug auf die seit Ende der 1820er Jahre zunehmend kommerzielle Produktion von Literatur, ohne jedoch die Vorteile dieser Entwicklung zu bestreiten. Vgl. seinen Artikel </tei:seg>
-        <tei:q>→ Werke der Industrie</tei:q>
-        <tei:seg>, seine Kompilation → </tei:seg>
-        <tei:q>Literarische Industrie</tei:q>
-        <tei:seg> in der Sammlung </tei:seg>
-        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
-        <tei:seg> oder seinen Artikel → </tei:seg>
-        <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
-        <tei:seg>. An der Rezension des </tei:seg>
-        <tei:q>Don-Quixote mit Holzschnitten</tei:q>
-        <tei:seg> ist bemerkenswert, dass Gutzkow einen Aspekt dieser ‚Industrialiserung‛ positiv wertet: die Popularisierung von Klassikern durch künstlerisch hochwertige Illustrationen.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,5 Spekulation] Das sogenannte ‚spekulative‛ Verlagswesen (→ Lexikon) trieb die ‚literarische Industrie‛ an. Pioniere waren die Stuttgarter Verleger Friedrich und Gottlob Franckh; → Erl. zu 136,30).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,10-11 die heftweisen Uebersetzungen Franckhs und Sauerländers] Mit ihren in Heftlieferungen erscheinenden Übersetzungen der Romane Walter Scotts produzierten die Gebrüder Franckh in den 1820er Jahren literarische Massenware: „Unter Lieferung von G. Franckh wurde [...] mit der Herausgabe einer billigen Volksausgabe von Walter Scotts Romanen begonnen, und wie der Erfolg bewies, mit beispiellosem Glück. Franckh brachte das 8 Bogen starke Bändchen zu 2 1/2 Silbergroschen, den ganzen Roman zu 15-20 Sgr. auf den Markt, so ihn zu einem Massenartikel stempelnd.“ (Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Bd. 2. Berlin: Weber, 1903. S. 262) „Innerhalb von drei Jahren hatte die Franckh’sche Verlagshandlung über drei Millionen Scott-Bändchen herausgebracht.“ ([Helmut M. Braem:] Franckh’sche Verlagshandlung Stuttgart. Ein altes Verlagshaus mit jungem Geist. Stuttgart: Franckh, 1982. S. 23-24) - Der Frankfurter Verleger Johann David Sauerländer (1789-1869) war mit seinen in deutscher Übersetzung erscheinenden Ausgaben Washington Irvings und James Fenimore Coopers ebenfalls Pionier der preiswerten Taschenausgaben. In den 1830er Jahren gesellte sich die Ausgabe der Werke Victor Hugos in 19 Bänden zu seinem Verlagsprogramm; ihre Übersetzer - allesamt aus dem Lager der ‚jungen‛ Literatur - vermittelte Gutzkow, Mitarbeiter an Sauerländers „Phönix“: darunter Ferdinand Freiligrath, Georg Büchner, Heinrich Laube, Eduard Beurmann, August Lewald.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,11 die heftweisen Wissenschaften Hoffmanns] Der Stuttgarter Verleger Carl Hoffmann, der bei Franckh gelernt hatte (→ Erl. zu 136,10-11), war besonders erfolgreich mit der lieferungsweisen Publikation von Lorenz Okens „Allgemeiner Naturgeschichte für alle Stände“ (1833-41, insgesamt 90 Lieferungen). Dieses Werk hatte zu der Zeit von Gutzkows Artikel also erst die Hälfte seiner Erscheinungszeit zurückgelegt. Gutzkow erwähnte Okens „Naturgeschichte“ zuvor lobend in → </tei:seg>
-        <tei:q>Werke der Industrie</tei:q>
-        <tei:seg>  (Phönix. Literatur-Blatt, 13. Juni 1835) als allgemeinverständliches, breitenwirksames naturwissenschaftliches Monumentalwerk und bezog sich darauf in demselben Sinne in seinem satirischen Vortrag vor dem „Frankfurter Museum“: → </tei:seg>
-        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
-        <tei:seg> (Phönix, 26. Februar 1835).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,12 die Pfennigsliteratur aus England] Der Londoner Verleger Charles Knight brachte im Auftrag der „Society for the Diffusion of Useful Knowledge“ ab März 1832 das wöchentlich erscheinende, mit Holzstichen illustrierte „Penny Magazine“ heraus. Dieses hatte direkte Nachahmer in Frankreich mit dem „Magasin Pittoresque“ des Pariser Verlegers Charton und ab Mai 1833 in Deutschland mit dem „Pfennig-Magazin“ des Leipziger Verlegers J. J. Weber, der das Magazin zunächst als Geschäftsführer der Leipziger Niederlassung von Bossange, einem weiteren Pariser Verlag, betrieb (Lexikon, → Illustrierte Periodika). Gutzkow äußerte sich zu dieser buchhändlerischen Innovation in seinem Artikel → </tei:seg>
+        <tei:seg>. Diese Tatsache unterstreicht, wie positiv Gutzkow noch zu dieser Zeit der Neuerung buchhändlerischer Strategien durch spekulative, d. h. auf neue Lesebedürfnisse ausgerichtete,  kommerziell operierende (Stuttgarter) Verlage gegenüberstand. Die vorliegende Rezension zeigt den Autor sogar höchst aufgeschlossen für das neue ästhetische und semantische Potential illustrierter Lieferungswerke; ein Urteil, das er 1834 auch dem in Leipzig erscheinenden illustrierten Pfennig-Magazin und dem National-Magazin entgegenbrachte (→ </tei:seg>
         <tei:q>Die Pfennig-Litteratur</tei:q>
-        <tei:seg> (Außerordentliche Beilage zur Allgemeinen Zeitung, 31. März und 1. April  1834).</tei:seg>
+        <tei:seg>). Im Laufe der Jahre und vor allem im Nachmärz revidierte Gutzkow seine Einschätzung von populärer Literatur mit Illustrationen sehr stark; davon zeugt besonders sein Beitrag → </tei:seg>
+        <tei:q>Illustration und Volksverdummung</tei:q>
+        <tei:seg> von 1860. Aber bereits 1836 sprach er eher abschätzig vom Pfennig-Magazin und seinen Illustrationen (→ </tei:seg>
+        <tei:q>Literarische Industrie</tei:q>
+        <tei:seg>, das erste Kapitel der Sammlung </tei:seg>
+        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg>).</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,15-16 </tei:seg>
-        <tei:hi style="letter-sparse">Ausgaben der Classiker mit Illustrationen</tei:hi>
-        <tei:seg>] Diese Innovation datiert in Deutschland ziemlich exakt vom Jahre 1837, wobei die </tei:seg>
-        <tei:q>Classiker</tei:q>
-        <tei:seg> zunächst - genau wie die Illustrationen - aus dem Ausland importiert wurden. Der illustrierte „Don Quixote“ des „Verlags der Classiker“ machte hier wohl den Anfang (→ Erl. zu 136,31-34).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,18-19 in Frankreich und England mit beispiellosem Erfolg aufgenommene] Die Buchillustration führte in England früher zu kommerziellem Erfolg als in Frankreich. Die Technik des Holzstichs (→ Erl. zu 136,19-21) wurde von dem Nordengländer Thomas Bewick Ende des 18. Jahrhunderts perfektioniert und für den Druck in hohen Auflagen verwendbar. Sie führte in den ersten Jahrzehnten des 19. Jahrhunderts in England zu einer Umwälzung der Buchillustration und im Zuge der Pfennig-Publikationen der 1830er Jahre zu einer Explosion von gedruckter Gebrauchskunst. Als erste mit Holzstichen illustrierte Buchserie Frankreichs gelten die äußerst erfolgreichen „Hermite“-Bände von V. J. E. de Jouy aus der Restaurationszeit, zu denen der Engländer Charles Thompson die Stiche anfertigte. In Paris wurden Holzstecher zunächst unter Anleitung englischer Experten ausgebildet; ab Mitte der 1830er Jahre existierte dann eine ausreichende Infrastruktur, die zur Produktion reich illustrierter Werke führte (bekannt als „livres romantiques“). Vgl. René Blachon: La Gravure sur bois au XIX</tei:seg>
-        <tei:hi style="sup">e</tei:hi>
-        <tei:seg> siècle. Paris: Les éditions de l'amateur, 2001.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,19-21 kunstvoller Holzschnitte, welche dem gedruckten Text selbst eingefügt werden] Die Bezeichnung ‚Holzschnitt‛ für den ‚Holzstich‛ (wie im Englischen ‚woodcut‛ für ‚wood engraving‛) war im 19. Jahrhundert gebräuchlich. Beim Holzstich werden Stichel statt Messer verwendet und daher weit feinere tonale Effekte erzielt als beim Holzschnitt. Der Vorteil der bearbeiteten Holzplatte ist, dass sie sich direkt in den Text integrieren lässt und im selben Druckvorgang wie die Lettern reproduziert wird (Lexikon: → Illustrierte Periodika). Dies ermöglicht ein ganz neues Text-Bild-Verhältnis, und diesem gilt ein Großteil von Gutzkows Aufmerksamkeit in dieser Rezension (137,6-23).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>1,21 Ausgaben Molieres, des Gil-Blas und Andrer] Bei den von Gutzkow genannten Titeln handelt es sich um: Œuvres de Molière. 2 Bde. Paris: Paulin, 1835-36 (mit einer Einleitung von Sainte-Beuve und Illustrationen nach Tony Johannot, gestochen von Charles Thompson und Théodore Maurisset). - Alain-René Lesage: L’Histoire de Gil Blas de Santillane. Paris: Paulin, 1835 (mit einer Einleitung von Charles Nodier und Illustrationen nach Jean Gigoux, gestochen von Charles Thompson).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,24-25 so kostspieliger Unternehmungen] Die Produktion eines illustrierten Werkes war wegen der Beschäftigung eines oder mehrerer Zeichner sowie eines oder mehrerer Stecher und wegen des Druckvorgangs, der auch vom Drucker hohe Sorgfalt verlangte, teuer. Die Produktionskosten ließen sich durch hohe Auflagen einholen, zu denen sich die widerstandsfähigen Holzstiche besonders gut eigneten.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,28-29 sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen] Dass  der bildenden Kunst eine Popularisierung nicht abträglich, sondern im Gegenteil förderlich sei, war auch Balzacs Ansicht. Er setzte sich im Prospekt der Zeitschrift „La Caricature“ für die periodische Publikation graphischer Kunst ein und bezeichnete den regelmäßigen und massenhaften Kauf gedruckter Bilder als den Lohn, den die Nation ihren Künstlern zahle (vgl. Honoré de Balzac: Prospectus. In: Œuvres diverses. Bd. 2. Hg. von Roland Chollet und René Guise. Paris: Gallmiard, 1996. S. 795-798, bes. S. 796). Als Druckereibesitzer gab Balzac schon um 1824 bei dem in Paris wirkenden englischen Holzstecher Charles Thompson Illustrationen für Ausgaben von Molière und La Fontaine in Auftrag (vgl. Remi Blachon: La Gravure sur bois au XIX</tei:seg>
-        <tei:hi style="sup">e</tei:hi>
-        <tei:seg> siècle. L'âge du bois debout. Paris: Les Éditions de l'Amateur, 2001. S. 52). Solche Klassiker-Prachtausgaben nahmen aber erst in den 1830er Jahren ihren Aufschwung.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,30 Der in Stuttgart erscheinende Don-Quixote] Mit dem Hinweis auf den Erscheinungsort Stuttgart ist das ‚spekulative Verlagswesen‛ gemeint (→ Erl. zu 136,5). Der Stuttgarter „Verlag der Classiker“, der den illustrierten „Don Quixote“ herausbrachte (Titelblatt: → Bilder und Materialien. Bilder), war 1836 von Gottlob Franckh während seiner Haft auf dem Hohenasperg gegründet worden; als Geschäftsführer fungierte Adolph Krabbe (vgl. [Helmut M. Braem:] Franckh’sche Verlagshandlung Stuttgart. Ein altes Verlagshaus mit jungem Geist. Stuttgart: Franckh, 1982. S. 29. - Rudolf Schmidt: Deutsche Buchhändler. Deutsche Buchdrucker. Bd. 2. Berlin: Weber, 1903. S. 262-265,  bes. S. 263. - Art. „Fran[c]kh“, Börne-Index, 1. Hbd., S. 190). Dieser Verlag spekulierte also auf die brandaktuelle Vermarktung von Klassikern in illustrierten Ausgaben nach englischem und französischem Vorbild. Zu diesem Zweck erwarb er aus Paris die Stereotypen der Illustrationen, die die Prachtausgabe des „Don Quixote“ bei Dubochet zierten: Miguel de Cervantes Saavedra: L’Ingenieux hidalgo Don Quichotte de la Mancha. 2 Bde. Paris: Dubochet, 1836-37 (übersetzt von Louis Viardot, mit Illustrationen von Tony Johannot, gestochen von Thompson, Best, Leloir, Brévières, Lacoste u.a.). Ein weiterer Coup gelang dem „Verlag der Classiker“, indem er Heinrich Heine als Verfasser der Einleitung engagierte.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,31-34 Es ist die erste Ausgabe eines classischen Werkes, das wir in dieser Art in deutscher Sprache erhalten] In seiner „Einleitung“ zum „Don Quixote“ macht Heine einen ähnlichen Hinweis: „Diese Ausgabe ist das erste der schönen Literatur angehörige Buch, das in Deutschland auf diese Weise verziert ans Licht tritt.“ (DHA, Bd. 10, S. 263).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>136,34-137,1 Sechs Lieferungen der Ausgabe [...] wenn das Unternehmen im Laufe eines Jahres vollendet sein wird] Die lieferungsweise Ausgabe eines illustrierten Werkes machte den hohen Kaufpreis der Buchausgabe für ein breites Publikum ‚in Raten‛ erschwinglich und ermöglichte es dem Verlag zugleich, den künstlerischen Anspruch der Ausgabe bei einer großen Abnehmerzahl zu halten. Die Laufzeit der Lieferungen von Gutzkows (nicht illustrierten) </tei:seg>
-        <tei:q>Zeitgenossen</tei:q>
-        <tei:seg> beim „Verlag der Classiker“ - Frühjahr 1837 bis Ende 1837 / Anfang 1838 - entspricht etwa der des „Don Quixote“.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,4 Prachtausgabe] Bereits zu Beginn des 19. Jahrhunderts wurden so bezeichnete „Prachtwerke“ bzw. „Prachtausgaben“ produziert; Campes Wörterbuch erklärt den Begriff 1809 als „Ausgabe einer Schrift“, „welche mit äußerer Pracht verbunden ist, d. h. welche auf das schönste Papier mit den schönsten Schriften und in größerer Form auf eine angenehm in die Augen fallende Art, oft auch mit Kupferstichen begleitet, gedruckt ist“. Jedoch erst „für die Prachtausgaben der zweiten Jahrhunderthälfte wird bildlicher Schmuck weitgehend verbindlich“; Gutzkows Rezension weist also auf ein frühes Beispiel dieser Entwicklung hin. Vgl. Ira Diana Mazzoni: Prachtausgaben. Literaturdenkmale in Quart und Folio. Marbach: Deutsche Schillergesellschaft, 1991 (Marbacher Magazin, H. 58), S. 3.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,4 klein Folio] Beim Folioformat, einem der größten Buchformate, wurde der Druckbogen einmal gefalzt und ergab dadurch zwei Blatt bzw. vier Seiten pro Bogen, entgegen dem für repräsentative Buchausgaben gebräuchlichen Oktavformat, bei dem der Bogen dreimal gefalzt wurde und acht Blatt / sechzehn Seiten ergab. Kleinfolio (oder auch Quartformat) war eine Zwischengröße mit vier Blatt / acht Seiten pro Bogen, bei der die Seite etwa 26-30 cm Höhe und 17-20 cm Breite maß.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,5 Velin] Wegen seiner glatten Oberfläche eignete sich das starke Velinpapier besonders zum Druck von Holzstichen, die mit Typen zusammen im Hochdruckverfahren reproduziert wurden.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,9-10 einige der vorzüglichsten Zeichner aus der neuern französischen Schule] Hier irrt Gutzkow, denn die Zeichnungen zum Pariser „Don Quichote“ (→ Erl. zu 136,30) stammten von einem einzigen Zeichner, Tony Johannot. Allerdings war an der Umsetzung der Zeichnungen für den Druck eine Vielzahl an Stechern beteiligt.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,11 Roqueplans unübertrefflicher satyrischer Griffel] Camille Roqueplan (1802-1855), französischer Maler, spezialisierte sich u. a. auf aquarellierte oder lithographierte Genreszenen. Die englische Schriftstellerin Catherine Gore nennt diesen Maler mit Tony Johannot, dem Zeichner vieler ‚aus dem Leben gegriffener‛ Situationen und berühmten Illustrator (→ Erl. zu 137,9-10), in einem Atem; dies deutet auf die zeitgenössische Wahrnehmung Roqueplans vor allem als Skizzenzeichner hin, von der auch Gutzkows Rezension zeugt: „I observed, by the way, in Paris, that water-colour drawings, by well known English artists, command enormous prices, nay, twice as much as the sketches of Camille Roqueplan, or Tony Johannot“ ([Anon.]: The Diary of a Désennuyée. 2 Bde. London: Colburn, 1836. Bd. 2, S. 223).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,15 Ritters von der traurigen Gestalt] Aufgrund von Tiecks Übersetzung sprichwörtlich gewordener Beiname für Cervantes’ Don Quixote, der ihm im Roman von Sancho Pansa verliehen wird („el Caballero de la Triste Figura“).</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,16-17 Sancho Pansa, Dulcinea und selbst die edle Rozinante] Namen, die Don Quixote seinem Gefährten, seiner Angebeteten und seinem Klepper verleiht.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,19-20 Die geringste Verzierung steht im Zusammenhange des Ganzen] Gutzkow formuliert hier treffend die Ästhetik der Holzstichillustration. Von der unscheinbaren Vignette bis zum detailreichen Bild steht die visuelle Darstellung stets in Beziehung zu dem Text, in den sie eingefügt ist; sie hat niemals bloß schmückenden Charakter. Vgl. Illustrationen zu Kap. II der französischen Ausgabe: → Bilder und Materialien. Bilder.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,23 Reinecke Fuchs] Im Gegensatz zum „Don Quixote“ handelt es sich hier um ein Versepos mittelalterlichen Ursprungs. Dass Gutzkow ihm </tei:seg>
-        <tei:q>weltironischen</tei:q>
-        <tei:seg> Status zuspricht, liegt wahrscheinlich an Goethes Bearbeitung (1794), durch die der Stoff eine deutliche sozialkritische Ausrichtung erhielt. Das Reineke-Epos wurde auch schon vor dem 19. Jahrhundert oft illustriert.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,28 </tei:seg>
-        <tei:hi style="letter-sparse">H. Heine</tei:hi>
-        <tei:seg> vermocht haben, das Unternehmen einzuleiten] Heines „Einleitung“ (DHA, Bd. 10, S. 249-265) ist datiert: „Paris im Carneval 1837“.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,29 dieses dem Cervantes so ähnlichen </tei:seg>
-        <tei:hi style="letter-sparse">Geistes</tei:hi>
-        <tei:seg>] Im Kapitel „Die Stadt Lukka“ der „Reisebilder“ wird die Episode erzählt, wie das „Ich“ als Kind bereits den „Don Quixote“ las und die Ironie des Cervantes nicht verstand; nun aber das eigene schriftstellerische Geschäft als das einer „selbstbewußten Donquixoterie“ ansehe (DHA, Bd. 7/1, S. 198). Heine eröffnet mit diesem Passus auch seine „Einleitung“ zum Stuttgarter Don-Quixote.</tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
-        <tei:seg>137,32-33 die Nachtigall, das Eichhörnchen und den Fuchs]  </tei:seg>
-        <tei:metamark function="missing">zu erläutern</tei:metamark>
-      </tei:p>
+      <tei:head data-heading-id="" type="level-3"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>
