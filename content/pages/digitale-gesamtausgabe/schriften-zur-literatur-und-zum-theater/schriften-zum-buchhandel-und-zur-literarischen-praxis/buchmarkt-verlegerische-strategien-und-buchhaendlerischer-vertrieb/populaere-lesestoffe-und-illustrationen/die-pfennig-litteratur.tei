@@ -6,16 +6,12 @@
         <tei:title>Die Pfennig-Litteratur</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Herausgeberin</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Herausgeberin</tei:resp>
+          <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
-        </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>TEI Transfer</tei:resp>
-          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -30,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Die Pfennig-Litteratur. In: Außerordentliche Beilage zur Allgemeinen Zeitung. Augsburg. Nr. 129 u. 130, 31. März 1834, S. 513-514; Nr. 131, 1. April 1834, S. 522-523.</tei:bibl>
+      <tei:bibl>[Anon.:] Die Pfennig-Litteratur. In: Außerordentliche Beilage zur Allgemeinen Zeitung. Augsburg. Nr. 129 u. 130, 31. März 1834, S. 513-514; Nr. 131, 1. April 1834, S. 522-523. (Rasch 3.34.03.31)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -41,7 +37,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MartinaLauster" when="2020-07-14">1.0</tei:change>
+      <tei:change who="#MartinaLauster" when="2020-07">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
