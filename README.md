@@ -8,39 +8,6 @@
 * `poetry <https://python-poetry.org>`_
 * `Yarn <https://classic.yarnpkg.com>`_
 
-## Installation
-
-Voll-automatische Installation und Generierung:
-
-.. sourcecode:: console
-
-  $ ./build.sh
-
-### Manuelle Installation
-
-.. sourcecode:: console
-
-  $ yarn install
-  $ poetry install
-
-### Manuelle Generierung
-
-In zwei separaten Terminals die folgenden Befehle ausführen
-
-.. sourcecode:: console
-
-  $ gulp watch
-
-.. sourcecode:: console
-
-  $ poetry shell
-  $ pelican -o output -d -r content
-
-## Preview Generierung
-
-Wenn eine Datei ``branches.txt`` existiert, dann generiert das ``build.js`` Skript für jeden Branch der darin
-aufgeführt wird eine Kopie unter ``output/preview/{branch-name}``.
-
 ## Data Preprocessing
 
 Quell HTML Text in TEI Umwandeln:
