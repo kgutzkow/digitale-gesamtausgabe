@@ -11,8 +11,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
           <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Ute Schneider</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -148,7 +151,7 @@
         <tei:seg>möglich macht? Herr Hoffmann in Stuttgart verschleuderte die letzten Exemplare, die er von </tei:seg>
         <tei:ref type="esv" target="#annotation-23">Rottecks Weltgeschichte</tei:ref>
         <tei:seg> liegen hatte. Zufällig ist er es selbst, der jetzt </tei:seg>
-        <tei:ref type="esv" target="#">eine n</tei:ref>
+        <tei:ref type="esv">eine n</tei:ref>
         <tei:ref type="esv" target="#annotation-36">eue Auflage dieses Buches</tei:ref>
         <tei:seg> bringt. Wär’ er es nicht gewesen, hätte ein Anderer sich unbefangen an eine Unternehmung wagen können, die Herr Hoffmann durch seine Vertrödelungen schon beim Publikum anrüchig gemacht hatte? Hier war das Autorrecht so empfindlich verletzt, daß Herr Hoffmann bei einer bessern literarischen Rechtsverfassung, die wir gewiß bekommen werden, der Strafe der Gesetze hätte verfallen müssen. Die Preisherabsetzer sagen: Die Auflage ist unser; wir können damit machen, was wir wollen! Ja, ihr könnt es; aber unter den Verpflichtungen, unter denen ihr den Verlag </tei:seg>
         <tei:hi style="letter-sparse">übernahmt</tei:hi>
