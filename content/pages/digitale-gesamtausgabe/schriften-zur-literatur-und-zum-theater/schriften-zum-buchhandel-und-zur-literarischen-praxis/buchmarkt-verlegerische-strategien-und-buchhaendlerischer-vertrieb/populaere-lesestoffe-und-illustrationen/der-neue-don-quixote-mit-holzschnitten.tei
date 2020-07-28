@@ -11,8 +11,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
           <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Ute Schneider</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -42,7 +45,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="281"/>
         <tei:seg> Der neue Don-Quixote mit Holzschnitten.</tei:seg>
       </tei:head>
@@ -79,7 +82,7 @@
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:ref type="esv" target="#">Der in Stuttgart erscheinende </tei:ref>
+        <tei:ref type="esv">Der in Stuttgart erscheinende </tei:ref>
         <tei:ref type="esv" target="#annotation-12">
           <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
         </tei:ref>
@@ -117,13 +120,13 @@
         <tei:seg>Als einen besonders sinnigen Zug muß man den Stuttgarter Herausgebern dieses </tei:seg>
         <tei:hi style="letter-sparse">illustrirten Don Quixote</tei:hi>
         <tei:seg> nachsagen, daß sie, um ein neues industrielles Genre in die Literatur einzuführen und es mit der Weihe der Bedeutsamkeit zu versehen, </tei:seg>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">H. Heine</tei:hi>
         </tei:ref>
         <tei:ref type="esv" target="#annotation-24"> vermocht haben, das Unternehmen einzuleiten</tei:ref>
         <tei:seg>. Noch ist die Vorrede </tei:seg>
         <tei:ref type="esv" target="#annotation-25">dieses dem Cervantes so ähnlichen </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">Geistes</tei:hi>
         </tei:ref>
         <tei:seg> nicht erschienen; sie wird am Eingangsportale des Ganzen als würdiger Wappenträger und Schildhalter stehen. Heine und Cervantes führen dieselben Thiere in ihrem Wappen: </tei:seg>
@@ -438,24 +441,24 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -463,10 +466,10 @@
           <tei:seg>J [Karl] G[utzkow]: Der neue Don-Quixote mit Holzschnitten. In: Frankfurter Telegraph. Neue Folge. Nr. 36, [2.] Juni 1837, S. 281-282. (Rasch 3.37.06.02)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -475,7 +478,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -487,10 +490,10 @@
         <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>6.1 Globalkommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -511,7 +514,7 @@
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg>).</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3"/>
+      <tei:head type="level-3"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>
