@@ -11,8 +11,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
           <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Ute Schneider</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +29,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Karl] G[utzkow]: In Sachen des Nachdrucks. In: Telegraph für Deutschland. Hamburg. Nr. 63, [20.] April 1838, S. 497-504. (Rasch 3.38.04.20).</tei:bibl>
+      <tei:bibl>[Karl] G[utzkow]: In Sachen des Nachdrucks. In: Telegraph für Deutschland. Hamburg. Nr. 63, [20.] April 1838, S. 497-504. (Rasch 3.38.04.20)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,13 +40,14 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2004-09" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
       <tei:head data-heading-id="" type="level-1">
-        <tei:seg>In Sachen des Nachdrucks.</tei:seg>
+        <tei:pb n="497"/>
+        <tei:seg> In Sachen des Nachdrucks.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Herr </tei:seg>
@@ -126,22 +130,19 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
-        <tei:seg>Bearbeitung: </tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-1">
-        <tei:seg>Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
-      </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -152,34 +153,34 @@
           <tei:seg>E. In Sachen des Nachdrucks. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 10-20. (Rasch 2.23.2.1.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg>J. Der Text folgt unverändert in Orthographie und Interpunktion dem Erstdruck. Textsperrungen im Erstdruck wurden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung des Erstdrucks ist mit Klammern [ ] in den Text an den betreffenden Stellen eingefügt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>3.1. Quellen</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg>Julius Eduard Hitzig: Die Auctoren-Association in Paris. In: Berlinische Nachrichten von Staats- und gelehrten Sachen. Nr. 54, 5. März 1838, 1. Beilage.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1. Dokumente zur Wirkungsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg> [Eduard Duller (?):] Gutzkow gegen den Nachdruck. In: Phönix. Frankfurt/M. Nr. 108, [7.] Mai 1838, S. 432. (Rasch 9/2.38.05.07)</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="text-left"/>
