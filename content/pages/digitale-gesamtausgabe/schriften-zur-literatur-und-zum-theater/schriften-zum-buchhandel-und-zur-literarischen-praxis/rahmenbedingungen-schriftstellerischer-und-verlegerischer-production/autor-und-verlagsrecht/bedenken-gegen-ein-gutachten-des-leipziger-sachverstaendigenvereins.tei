@@ -11,8 +11,11 @@
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
           <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Ute Schneider</tei:name>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +29,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Ein Literat [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18).</tei:bibl>
+      <tei:bibl>Ein Literat [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +40,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
