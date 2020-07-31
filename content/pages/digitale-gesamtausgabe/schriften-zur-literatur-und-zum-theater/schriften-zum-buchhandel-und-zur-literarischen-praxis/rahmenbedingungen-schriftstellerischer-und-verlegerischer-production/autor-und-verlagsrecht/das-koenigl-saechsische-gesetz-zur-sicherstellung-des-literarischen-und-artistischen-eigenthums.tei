@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>MartinaLauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>K[arl] Gutzkow: Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums. In: Telegraph für Deutschland. Hamburg. Nr. 7, [11.] Januar 1843, S. 25–27. (Rasch 3.43.01.11.2).</tei:bibl>
+      <tei:bibl>K[arl] Gutzkow: Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums. In: Telegraph für Deutschland. Hamburg. Nr. 7, [11.] Januar 1843, S. 25–27. (Rasch 3.43.01.11.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -55,7 +59,7 @@
         <tei:seg>Der Entwurf ist kurz in seinem gesetzlichen Bestandtheile, ausführlich in seinen Erläuterungen. Er geht von der rechten Liebe zur Sache aus und hat dadurch einen großen Vorzug vor dem weitschweifigen und an lästigen Formalitäten so reichen sächsischen Censuredikte. Die Absicht, aus den übrigen deutschen Gesetzgebungen über die Frage des literarisch-artistischen Eigenthums das Gute zu entlehnen, ist lobenswerth; ebenso lobenswerth, wenn auch auf den ersten Blick bedenklicher, die Tendenz, in schwierigen Punkten das auswärtige Verfahren deßhalb zu adoptiren, weil dadurch eher die so nöthige allgemeine gesetzliche Einheit über diesen Gegenstand erreicht wird. Denn leider selbst in dieser Angelegenheit, wo der Bundestag doch das Prinzip gebilligt hat, finden in den einzelnen deutschen Staaten noch große Differenzen statt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Als der Bundestag vor mehren Jahren erklärte, daß jeder Schriftsteller und Künstler an seinem durch Vervielfältigung verbreiteten Werke noch seinen Erben zehn Jahre nach seinem Tode das Eigenthumsrecht hinterlasse, klagte man mit Recht über diese äußerste Beschränkung. Dem Bunde lag allerdings nur daran, ein Prinzip auszusprechen. Er hatte in seinem eignen Schooße gegen die Vertheidigung des Nachdrucks zu kämpfen gehabt, gegen Beschönigungen einer unrechtmäßigen Handlungsweise, die, sonderbar genug, von vielen Juristen vertheidigt worden ist. Mit jenen zehn Jahren war für die Freiheit des literarisch-artistischen Eigenthums schon Vieles gewonnen. Keine Regierung begnügte sich aber, bei diesem Bundesgesetze stehen zu bleiben. Man dehnte den Terminus von zehn fast überall auf dreiszig Jahre aus und so auch in dem vorliegenden Entwurf der sächsischen Regierung.</tei:seg>
+        <tei:seg>Als der Bundestag vor mehren Jahren erklärte, daß jeder Schriftsteller und Künstler an seinem durch Vervielfältigung verbreiteten Werke noch seinen Erben zehn Jahre nach seinem Tode das Eigenthumsrecht hinterlasse, klagte man mit Recht über diese äußerste Beschränkung. Dem Bunde lag allerdings nur daran, ein Prinzip auszusprechen. Er hatte in seinem eignen Schooße gegen die Vertheidigung des Nachdrucks zu kämpfen gehabt, gegen Beschönigungen einer unrechtmäßigen Handlungsweise, die, sonderbar genug, von vielen Juristen vertheidigt worden ist. Mit jenen zehn Jahren war für die Freiheit des literarisch-artistischen Eigenthums schon Vieles gewonnen. Keine Regierung begnügte sich aber, bei diesem Bundesgesetze stehen zu bleiben. Man dehnte den Terminus von zehn fast überall auf dreizig Jahre aus und so auch in dem vorliegenden Entwurf der sächsischen Regierung.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Ohne uns bei der allerdings begründeten Klage aufzuhalten, wie es doch über eine Frage von so klarem und gemeinschaftlichen Interesse nicht einmal zu einer gemeinsamen Bundesgesetzgebung kommen könne, bemerken wir an dem Sächsischen Entwurf zuvörderst eine gewisse schwankende, sich selbst nicht recht klare Haltung. Das Gesetz fällt gleich mit seinem ersten Paragraphen, man mögte sagen, mit der Thür ins Haus. Man vermißt eine prinzipienmäßige Vorbegründung, einen Fundamentalsatz, zu welchem sich die übrigen Bestimmungen wie wissenschaftliche Herleitungen hätten verhalten müssen. Es mußte der Begriff der </tei:seg>
@@ -105,26 +109,29 @@
         <tei:seg> mit gefaltenen Händen anbetet!</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Auch der sächsische Entwurf will den aus 30 Jahren möglicherweise entstehenden Inconvenienzen durch die Vergünstigung von Privilegien entgegenarbeiten. Allein, wer ertheilt diese Privilegien? Der Staat. Gut, man privilegirt ein Jahr aus dem Herrn von Cotta seine Klassiker. Komme doch auch einmal Börne’s Erbin nach 30 Jahren beim Bundestage um Verlängerung der Frist für Börne’s Schriften ein! Wird man sie ertheilen? Überhaupt, wir wollen Gesetze, aber keine Privilegien haben. Der Staat soll uns nach gleichen Vorschriften regieren, aber nicht nach Fürwort oder Protektion begünstigen. Keine Privilegien, aber Eigenthumsrecht bis 50 Jahre nach dem Tode. Den Dank der Literatur und Kunst würde sich jeder erwerben, der in der sächsischen Kammer in dieser oder ähnlicher Weise einen Antrag stellte, in welchem sich Kenntnisse der geistigen Interessen mit geläutertem Rechtssinn vereinigen müßten.</tei:seg>
+        <tei:seg>Auch der sächsische Entwurf will den aus 30 Jahren möglicherweise entstehenden Inconvenienzen durch die Vergünstigung von Privilegien entgegenarbeiten. Allein, wer ertheilt diese Privilegien? Der Staat. Gut, man privilegirt Jahr ein Jahr aus dem Herrn von Cotta seine Klassiker. Komme doch auch einmal Börne’s Erbin nach 30 Jahren beim Bundestage um Verlängerung der Frist für Börne’s Schriften ein! Wird man sie ertheilen? Überhaupt, wir wollen Gesetze, aber keine Privilegien haben. Der Staat soll uns nach gleichen Vorschriften regieren, aber nicht nach Fürwort oder Protektion begünstigen. Keine Privilegien, aber Eigenthumsrecht bis 50 Jahre nach dem Tode. Den Dank der Literatur und Kunst würde sich jeder erwerben, der in der sächsischen Kammer in dieser oder ähnlicher Weise einen Antrag stellte, in welchem sich Kenntnisse der geistigen Interessen mit geläutertem Rechtssinn vereinigen müßten.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>                                                                                                                                                                                                                              K. Gutzkow.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -132,10 +139,10 @@
           <tei:seg>J. K.[arl] Gutzkow: Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums. In: Telegraph für Deutschland. Hamburg. Nr. 7, [11.] Januar 1843, S. 25–27. (Rasch 3.43.01.11.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -144,7 +151,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1.1. Textänderungen</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -154,7 +161,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Jahr ein Jahr</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
