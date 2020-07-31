@@ -125,7 +125,7 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -151,7 +151,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -161,12 +161,53 @@
         <tei:seg> </tei:seg>
         <tei:sic>Vortheis</tei:sic>
       </tei:p>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>In der Buchausgabe (GWB IV, Bd. 7) ist der unter 2.1.1. aufgeführte Texteingriff zwar erfolgt, aber nicht ausgewiesen. Der Texteingriff:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">19,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ein Jahr</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Jahr ein Jahr</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>wurde rückgängig gemacht.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Folgende Textkorrektur ist zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">16,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>dreiszig</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>dreizig</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>5. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>K.: Gutzkow und der Sächsische Gesetzentwurf über das literarische Recht. In: Allgemeine Preßzeitung. Leipzig. Nr. 8, 25. Februar 1843, Sp. 234-235. (Rasch 9/2.43.02.25)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
+      <tei:p style="text-left"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>
