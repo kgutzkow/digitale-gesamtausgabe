@@ -11,11 +11,12 @@
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
           <tei:resp>Herausgeber</tei:resp>
-          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Ute Schneider</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster"/>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -68,7 +69,9 @@
         <tei:hi style="letter-sparse">Nachdruck </tei:hi>
         <tei:seg>3 Spalten aus dem Stuttgarter Gerichtssaal. № 356 " 3½    ""Brans Miscellen. "1    ""dem Landboten "¾    ""der Allgemeinen Zeitung. "1    ""Magazin f. d. Litr. d. Auslands.№ 357"4    ""Brans Miscellen. "1½    ""dem Gesellschafter. "1    ""„Elsaß,“ „Rheinland,“ „National-Zeitung.“№ 358"2    ""Brans Miscellen. "1¼    ""dem Gesellschafter. "¾    ""der Modenzeitung. "⅓    ""dem Nürnberger Correspondenten. "½    ""dem Rheinland.№ 359"3½    ""Brans Miscellen. "2    ""dem </tei:seg>
         <tei:foreign>Globe</tei:foreign>
-        <tei:seg> (nach einer anderswoher nachgedruckten Übersetzung.) "⅓    ""der Wiener Zeitschrift. "½    ""dem Pfenningsmagazin und dem Unterhaltungsblatt.№ 360"2    ""dem Humoristen. "2    ""dem Globe (siehe vorhin). "2    ""Schachts Geographie. "1    ""der Allgemeinen Leipziger Zeitung. "1    ""dem Mainzer U. B. und dem Berliner Athenäum.№ 1 1842 </tei:seg>
+        <tei:seg> (nach einer anderswoher nachgedruckten Übersetzung.) "⅓    ""der Wiener Zeitschrift. "½    ""dem Pfenningsmagazin und dem Unterhaltungsblatt.№ 360"2    ""dem Humoristen. "2    ""dem </tei:seg>
+        <tei:foreign>Globe</tei:foreign>
+        <tei:seg> (siehe vorhin). "2    ""Schachts Geographie. "1    ""der Allgemeinen Leipziger Zeitung. "1    ""dem Mainzer U. B. und dem Berliner Athenäum.№ 1 1842 </tei:seg>
         <tei:hi style="letter-sparse"> Nachdruck </tei:hi>
         <tei:seg>2½ Sp."aus der Hamburger Börsenhalle. "4    ""dem Humoristen und der Rhein- und Mosel-Zeitung.№ 2"3    ""R. Hirschs Gedichten. "2    ""der Hamburger Börsenhalle. "1    ""dem Morgenblatt und Danziger Dampfboot.№ 3"4    ""der Börsenhalle. "1½    ""den politischen Blättern.№ 4"1⅓    ""den Originalien. "1    ""der Börsenhalle. "1⅓    ""dem Morgenblatte und Ost und West.№ 5"1⅓    ""der Börsenhalle. "1    ""der Allgemeinen Zeitung. "2    ""der Theaterchronik und Kölner Blättern.</tei:seg>
       </tei:p>
@@ -137,22 +140,22 @@
       <tei:p style="no-indent text-right"/>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -160,16 +163,16 @@
           <tei:seg>J. [Anon.:] Miscellen. In: Telegraph für Deutschland. Hamburg. Nr. 18, [31.] Januar 1842, S. 72, und Nr. 26, [12.] Februar 1842, S. 104. (Rasch 3.42.01.31)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -205,7 +208,7 @@
         <tei:sic>sanctionirt</tei:sic>
         <tei:seg>  </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
