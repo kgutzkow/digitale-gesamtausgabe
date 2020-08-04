@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [10.] April 1840, S. 236. (Rasch 3.40.04.10).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [10.] April 1840, S. 236. (Rasch 3.40.04.10)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,88 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="236"/>
+        <tei:seg> [Österreichische Zensur.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* In der Wiener Theaterzeitung liest man einen Bericht aus Berlin über Firmenichs Clotilda Montalvi, worin es unter andern heißt: „Zu den jüngern dramatischen Hoffnungen, Halm, Mosen, hat sich ein </tei:seg>
+        <tei:hi style="letter-sparse">Vierter</tei:hi>
+        <tei:seg>, Firmenich, zugesellt.“ Halm, Mosen – wer ist denn der </tei:seg>
+        <tei:hi style="letter-sparse">Dritte</tei:hi>
+        <tei:seg>? Ist dies vielleicht derselbe, gegen dessen </tei:seg>
+        <tei:hi style="letter-sparse">Existenz</tei:hi>
+        <tei:seg> als dramatischer Autor die österreichische Censur sich ¾ Jahr sträubte, und der es jetzt so weit gebracht hat, daß man ihn, wenn auch noch nicht </tei:seg>
+        <tei:hi style="letter-sparse">lobend</tei:hi>
+        <tei:seg>, doch vorläufig wenigstens </tei:seg>
+        <tei:hi style="letter-sparse">tadelnd</tei:hi>
+        <tei:seg> in den österreichischen Journalen erwähnen darf? O, du armes Deutschland, – wozu einen andern Ausdruck wählen? – wie elend werden deine Schriftsteller von jenen Handlangern behandelt, die ihren persönlichen Neid hinter quasi-offizielle Vorschriften verbergen und auf ihr Censoramt alle die Leidenschaften übertragen, die eher für einen Rezensenten taugen! Würde so etwas in Frankreich und England möglich seyn, selbst wenn dort statt Preßfreiheit die Censur herrschte! „Zu den jüngern dramatischen Hoffnungen: Halm, Mosen – hat sich ein Vierter zugesellt.“ Vielleicht ist Herr Deinhardstein der Dritte und aus Bescheidenheit hat er </tei:seg>
+        <tei:hi style="letter-sparse">sich selbst</tei:hi>
+        <tei:seg> ausgestrichen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [10.] April 1840, S. 236. (Rasch 3.40.04.10)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">69,5</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:seg>sich </tei:seg>
+          <tei:hi style="letter-sparse">selbst</tei:hi>
+        </tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>
+          <tei:hi style="letter-sparse">sich selbst</tei:hi>
+        </tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

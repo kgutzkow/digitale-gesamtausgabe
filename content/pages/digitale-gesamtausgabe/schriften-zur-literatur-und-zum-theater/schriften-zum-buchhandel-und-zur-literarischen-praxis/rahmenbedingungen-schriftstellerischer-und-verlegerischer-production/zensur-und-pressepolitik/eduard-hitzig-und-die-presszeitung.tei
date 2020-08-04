@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 146, [10.] September 1838, S. 1167–1168. (Rasch 3.38.09.10.2).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 146, [10.] September 1838, S. 1167–1168. (Rasch 3.38.09.10.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,166 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="1167"/>
+        <tei:seg> [Eduard Hitzig und die „Preßzeitung“.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-center">
+        <tei:hi style="font-style-italic"> </tei:hi>
+        <tei:seg>[1.]</tei:seg>
+        <tei:hi style="font-style-italic"> </tei:hi>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Für die freundliche Annahme unsrer Entgegnungen sind wir Herrn Hitzig (siehe seinen neuesten Artikel im Gesellschafter) zu Dank verbunden. Gewiß unterläßt er nun die Fortsetzung eines </tei:seg>
+        <tei:pb n="1168"/>
+        <tei:seg> Kampfes, der, so wie er bis jetzt geführt wurde, zu keinem Resultat verhelfen wird. Stiftete Hitzig ein bedeutendes Blatt in Berlin, wüßte er sich die Freiheit zu erwirken, auch über die Schriftsteller, welche in Berlin nicht genannt werden dürfen, sein Institut sich mit Besonnenheit aussprechen zu lassen, </tei:seg>
+        <tei:hi style="letter-sparse">gäbe</tei:hi>
+        <tei:seg> er das Bessere selbst, (namentlich in Berlin, wo die Journalistik meist nur das Schlechte giebt) so würde diese positive Einwirkung mächtiger seyn, als das Verschütten des Kindes mit dem Bade, das Anklagen ganzer Richtungen ohne Namennennung u. s. w. Er sage das Gute, wo es sich findet, und sein Tadel wird desto wirksamer seyn. Er gebe dem Lobe einen eben so großen Raum, wie der Rüge, und Jedermann, den letztere trifft, wird ihm entgegenkommen. Die </tei:seg>
+        <tei:hi style="letter-sparse">Zügellosigkeit des Tadels</tei:hi>
+        <tei:seg> ist es, die in Deutschland Alles verdirbt. Indem die Schriftsteller ihre Ansichten bekämpfen, räumt keiner dem Andern das Talent ein, selbst wenn er es nicht läugnen kann. Geschähe dies, so würde die Verständigung über jene viel leichter werden. Eine besonnene und anständige Debatte wird nirgends für möglich gehalten. Die Kämpfe richtet man auf </tei:seg>
+        <tei:hi style="letter-sparse">Vernichtung</tei:hi>
+        <tei:seg> und ruft grade dadurch alle die Extreme hervor, gegen welche Herr Hitzig so entrüstet scheint. Das Warnen und Lehren hilft nichts: man muß selber zeigen, was geschehen soll. Das Beispiel wirkt nur noch, nicht die Ermahnung.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-center">
+        <tei:seg> [2.]</tei:seg>
+        <tei:hi style="font-style-italic"> </tei:hi>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Der </tei:seg>
+        <tei:hi style="letter-sparse">Allgemeinen Preßzeitung Hitzigs</tei:hi>
+        <tei:seg> wünschen wir von Herzen Gedeihen. Möchte es ihr gelingen, uns dahin zu bringen, 1) daß alle Sortimentshändler jede Messe ihren Saldo bezahlen, 2) alle alten Saldi möglichst binnen vier Wochen getilgt werden, 3) alle Schriftsteller zehn Louisd’or für den gewöhnlichen Druckbogen Honorar bekommen, 4) jeder gebildete Gentleman jährlich für funfzig Thaler Bücher kauft, 5) nie ein Autor in die Lage kömmt, annehmen zu müssen, daß sein Verleger mehr Auflage macht, als ihm der Contrakt gestattet, 6) alle Verbote, namentlich das </tei:seg>
+        <tei:hi style="letter-sparse">preußische Generalverbot</tei:hi>
+        <tei:seg> aufgehoben werden, 7) alle Zeitschriften ungehindert in Österreich aufliegen dürfen, 8) alle Zeitschriften ihr Coterienwesen einstellen und strenge Unpartheilichkeit üben, 9) alle politischen Zeitungen die bessern neuern Erscheinungen nach Verdienst würdigen, 10) die Wiederauflagen alles alten Trödels in </tei:seg>
+        <tei:hi style="letter-sparse">Schiller-Formaten</tei:hi>
+        <tei:seg> u. dergl. aufhören – dann würde sie bleibende Verdienste um die Literatur haben. Auch in ihrem </tei:seg>
+        <tei:hi style="letter-sparse">Streben</tei:hi>
+        <tei:seg> nach diesem Ziele wollen wir sie unterstützen. </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:p style="no-indent text-center">
+        <tei:seg>[3.]</tei:seg>
+        <tei:hi style="font-style-italic"> </tei:hi>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Ein neues Quartal der </tei:seg>
+        <tei:hi style="letter-sparse">Preßzeitung</tei:hi>
+        <tei:seg> von </tei:seg>
+        <tei:hi style="letter-sparse">Hitzig</tei:hi>
+        <tei:seg> liegt vor uns. Das Heft bringt vortreffliche Beiträge zur allmähligen Ausbildung eines Rechtszustandes der Presse, sowohl dem Staat und dem Publikum gegenüber, sowohl in den Beziehungen der Verleger unter sich, als zu den Autoren, bei welcher letztern Materie der würdige Herausgeber mit besonderer Vorliebe verweilt. Sollte ein geistvoller und grade in dieser Materie auch praktisch unterrichteter Jurist ein Werk über die Presse in allen ihren rechtlichen Beziehungen bezwecken, hier fände er die gründlichsten Vorarbeiten. Wer selbst am literarischen Verkehr betheiligt ist, fühlt nur zu gut, wie sehr eine strikte Begriffsfeststellung für die oft höchst complicirten Fragen dieses Zweiges der Gesetzgebung noth thut. Auch an Beiträgen zur Erörterung der Frage über </tei:seg>
+        <tei:hi style="letter-sparse">Freiheit</tei:hi>
+        <tei:seg> der Presse ist dieses Heft sehr reich. Die Frage ist und bleibt sehr schwierig. Länder, die die Freiheit der Presse </tei:seg>
+        <tei:hi style="letter-sparse">besitzen</tei:hi>
+        <tei:seg>, sind glückliche Länder, die, welche diese Freiheit erst </tei:seg>
+        <tei:hi style="letter-sparse">erhalten</tei:hi>
+        <tei:seg> sollen, müssen mit ihr noch weit größere Freiheiten erhalten, wie Frankreich 1815. Bekämen wir die Preßfreiheit </tei:seg>
+        <tei:hi style="letter-sparse">isolirt</tei:hi>
+        <tei:seg> von andern noch bedeutenderen Umgestaltungen unsers öffentlichen Lebens, so könnte dies Geschenk ein großes Unglück werden. Diese Behauptung wird in einem dem Fortschritt gewidmeten Blatte sehr auffallen, allein es soll uns ferne seyn, Stichwörter des Tages gedankenlos zu wiederholen. Wir gestehen aufrichtig, daß wir uns für die Preßfreiheit, isolirt von noch viel bedeutenderen Conzessionen, herzlich bedanken; denn wo sie sich nicht als die Modalität einer großen </tei:seg>
+        <tei:hi style="letter-sparse">politischen</tei:hi>
+        <tei:seg> Freiheit zu äußern hat, wo sie nicht das Organ dieser Freiheit ist und nur gegeben wird, um über eine </tei:seg>
+        <tei:hi style="letter-sparse">zukünftige</tei:hi>
+        <tei:seg> Freiheit zwecklos hin und her zu reden, was muß da eintreten? Eine Preßanarchie, die keinen ehrlichen Mann mehr in der Welt sicher leben läßt. Da unser ganzes Literaturleben </tei:seg>
+        <tei:hi style="letter-sparse">kleinlich</tei:hi>
+        <tei:seg> ist, so müßte die dem Kleinlichen gestattete </tei:seg>
+        <tei:hi style="letter-sparse">unumschränkte</tei:hi>
+        <tei:seg> Freiheit entsetzlich seyn. Welcher Autor in Frankfurt lebt, kann dann in einem Leipziger Blatte lesen, daß er gestohlen hat. Vierzehn Tage circulirt die Schmach in Deutschland, ehe sie widerlegt oder bestraft wird. Hätten wir eine große Stadt, wie Paris, dann würde es auch keine </tei:seg>
+        <tei:hi style="letter-sparse">deutsche</tei:hi>
+        <tei:seg> Literatur geben, sondern nur eine Literatur dieser Hauptstadt. Da würde der pöbelhafte Journalist sich schon hüthen, zu sagen, daß sein Gegner gestohlen, betrogen u. s. w.; denn die Ahndung würde schnell auf dem Fuße folgen. In Deutschland aber? Was soll man thun, wenn uns ein Journalist achtzig Meilen weit so verunglimpft, daß man zum Gespött aller seiner Leser wird? Sich schlagen mit einem pöbelhaften Vagabunden? Prozessiren? Dagegen schreiben? Alles unzweckmäßige Aushülfen. Nein, es ist unsere heilige Überzeugung, daß die Preßfreiheit für uns Deutsche nicht früher eintreten müßte, ehe wir nicht politische Freiheit haben. Die Preßfreiheit muß der Athem dieser Freiheit, nicht ihre Schöpferin seyn. Wahrlich, wir wissen auch bei der jetzigen Lage unserer Presse sehr gut, was uns in politischer Hinsicht fehlt. Bekommen wir Arme und Beine, </tei:seg>
+        <tei:hi style="letter-sparse">ohne laufen zu dürfen</tei:hi>
+        <tei:seg>, so werden wir nur zum </tei:seg>
+        <tei:hi style="letter-sparse">Mißbrauch</tei:hi>
+        <tei:seg> der Organe gegeneinander </tei:seg>
+        <tei:hi style="letter-sparse">methodisch</tei:hi>
+        <tei:seg> angewiesen. Was kann uns wohl Herr von Rotteck, wenn er Preßfreiheit hätte, Neues sagen? Wir wissen, was er will und wenn er es mit Preßfreiheit nochmals drucken läßt, so wird die Beschlagnahme seiner Schriften doch immer erfolgen; denn – politische Freiheit ist nicht da, der Staat würde gleich als Polizei dazwischen treten und strafen. Bliebe unter diesen Umständen denn doch die Preßfreiheit, so käme sie nur der Gemeinheit zu Gute. Literarische Gegner würden sich dem Publikum in ihrer scheußlichen Nacktheit zeigen: das Ehrabschneiden, Leumundsschinden würde so überhand nehmen, daß man verzweifelte, einen Blick in ein Journal zu werfen. Unsere Meinung wäre die: Bei der Verfassung, die unser Vaterland jetzt einmal hat, wäre Preßfreiheit beinahe eine Calamität. Preßfreiheit sollte bei uns nur die </tei:seg>
+        <tei:hi style="letter-sparse">Folge</tei:hi>
+        <tei:seg> der politischen Freiheit seyn: die </tei:seg>
+        <tei:hi style="letter-sparse">Ursache</tei:hi>
+        <tei:seg> derselben wird sie bei unserer politischen Lage nimmermehr werden! So sollten unsere Anträge in den Kammern, unsere Vorschläge in Journalen darauf hingehen, das odiöse Institut der Censur bis zur möglichsten Freiheit individueller Meinungsäußerung und Mittheilung von Thatsachen auszubilden, aber nicht, eine formelle Preßfreiheit zu erlangen, die immer illusorisch ist, wenn nicht, wie in Frankreich und England, politische Thatsachen dieser Institution zu Hülfe kommen, die </tei:seg>
+        <tei:hi style="letter-sparse">wir</tei:hi>
+        <tei:seg> uns erst noch erwerben müssen. Käme </tei:seg>
+        <tei:hi style="letter-sparse">jetzt</tei:hi>
+        <tei:seg> unsere Presse frei, dann prophezeihen wir 1) unerschwingliche Cautionen für alle politischen Blätter, 2) tägliche Beschlagnahme der Journale, 3) Geld- und Leibesstrafen der Redakteure und Autoren bis in’s Unsägliche, 4) freimüthige Bücher, die lesen zu können dem Autor viel Freude machen wird, bei welchen aber gesorgt ist, daß ein Anderer – sie niemals zu lesen bekommt, 5) Emanzipation der journalistischen Gemeinheit auf dem sogenannten schönwissenschaftlichen und Correspondenzgebiete, das Frankreich und England </tei:seg>
+        <tei:hi style="letter-sparse">nicht</tei:hi>
+        <tei:seg> kennt. Kein Name ist mehr heilig, kein Verhältniß mehr sicher, öffentlich besprochen zu werden. Jedes Familiengeheimniß wird man in auswärtigen und einheimischen Zeitungen entweiht finden. Tausend Reclamationen, tausend Prozesse. Da wir doch nie den Muth haben werden, einen </tei:seg>
+        <tei:hi style="letter-sparse">Staatsmann</tei:hi>
+        <tei:seg>, wie die </tei:seg>
+        <tei:foreign>Times</tei:foreign>
+        <tei:seg> Lord Brougham, „einen betrunkenen Marktschreier“ zu nennen, so werden wir Privatleute so nennen und Gott danken, bis die losgelassenen Winde wieder in die Schläuche des Äolus zurückkommen. Nein! Man stelle mit Nachdruck überall die Lächerlichkeiten, Unverschämtheiten und allzutyrannischen Einmischungen der Censur dar, aber Freiheit der Presse erst dann, wenn Deutschland </tei:seg>
+        <tei:hi style="letter-sparse">die großartige politische Reform zugleich erhält, deren es als einiger Staatskörper dringend bedarf</tei:hi>
+        <tei:seg>.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> [1.] [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 146, [10.] September 1838, S. 1167–1168. (Rasch 3.38.09.10.2)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> [2.] [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 192, [30.] November 1839, S. 1536. (Rasch 3.39.11.30.2)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg> [3.] [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 142, [4.] September 1840, S. 568. (Rasch 3.40.09.04.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>3.1. Bezugstext</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. E. Hitzig: Zu den Hitzigschen Aufsätzen. In: Der Gesellschafter. Berlin. 126. Blatt, 8. August 1838, S. 625-626. (Rasch 9/2.38.08.08)</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:head type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier  zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

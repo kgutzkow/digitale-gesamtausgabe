@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>MartinaLauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [13.] April 1838, S. 472. (Rasch 3.38.04.13).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [13.] April 1838, S. 472. (Rasch 3.38.04.13)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,21 +41,30 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
-      
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="472"/>
         <tei:seg> [Berliner Zensur streicht Namen jungdeutscher Autoren in Journalen.]</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg>* Mehre Blätter schreiben, daß einige Autoren in Berlin nicht genannt werden dürfen, und daß die Censur mit consequenter Strenge jedesmal ihren Namen streiche, wo er in einem Journal unterläuft. Zur näheren Erläuterung dieser wirklich drolligen Maxime (die an jenen Frankfurter Censor erinnert, der deshalb, weil der Bundestag Belgien nicht anerkannt hat, regelmäßig das Wort Holland nicht in den dortigen Zeitungen dulden wollte) möchten wir wohl die Herren Redakteure Berlinischer Journale fragen, ob jene Mortifizirung nur dann gilt, wenn die betreffenden Autoren gelobt, oder auch dann sogar, wenn sie getadelt werden? Der Verfasser der „Wally“ hatte einen guten Freund zum Censor, der, da sich nach Beurtheilung derselben alles Mittelgut drängte, Steine nach ihm zu werfen, (die sich für diese Menschen in Brod verwandeln sollten) ihm erklärte: Hören Sie, ich mach’ dem Ding ein Ende; Wally ist verboten; nun darf Keiner mehr für noch gegen schreiben; Sie sollen wenigstens den Vorteil haben, daß man Sie auch nicht mehr tadeln darf! Wer das Buch tadeln will, dem erklär’ ich, es existire ja gar nicht!</tei:seg>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Mehre Blätter schreiben, daß einige Autoren in Berlin nicht genannt werden dürften, und daß die Censur mit consequenter Strenge jedesmal ihren Namen streiche, wo er in einem Journal unterläuft. Zur nähern Erläuterung dieser wirklich drolligen Maxime (die an jenen Frankfurter Censor erinnert, der deshalb, weil der Bundestag Belgien nicht anerkannt hat, regelmäßig das Wort </tei:seg>
+        <tei:hi style="letter-sparse">Holland</tei:hi>
+        <tei:seg> nicht in den dortigen Zeitungen dulden wollte) möchten wir wohl die Herren Redakteure Berlinischer Journale fragen, ob jene Mortifizirung nur dann gilt, wenn die betreffenden Autoren </tei:seg>
+        <tei:hi style="letter-sparse">gelobt</tei:hi>
+        <tei:seg>, oder auch dann sogar, wenn sie </tei:seg>
+        <tei:hi style="letter-sparse">getadelt</tei:hi>
+        <tei:seg> werden? Der Verfasser der „Wally“ hatte einen guten Freund zum Censor, der, da sich nach Verurtheilung derselben alles Mittelgut drängte, Steine nach ihm zu werfen, (die sich für diese Menschen in Brod verwandeln sollten) ihm erklärte: Hören Sie, ich mach’ dem Ding ein Ende; Wally ist verboten; nun darf Keiner mehr </tei:seg>
+        <tei:hi style="letter-sparse">für</tei:hi>
+        <tei:seg> noch </tei:seg>
+        <tei:hi style="letter-sparse">gegen</tei:hi>
+        <tei:seg> schreiben; Sie sollen wenigstens den Vortheil haben, daß man Sie auch nicht mehr tadeln darf! Wer das Buch tadeln will, dem erklär’ ich, es existire ja gar nicht!</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global" xml:id="global">
+    <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
@@ -65,7 +77,7 @@
       <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
@@ -73,7 +85,7 @@
       </tei:head>
       <tei:list type="sources">
         <tei:item>
-          <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [13.] April 1838, S. 472. (Rasch 3.38.04.13).</tei:seg>
+          <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [13.] April 1838, S. 472. (Rasch 3.38.04.13)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2">
@@ -82,37 +94,49 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-3">
-        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+        <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg>Entfällt.</tei:seg>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
-        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-2">
-        <tei:seg>4. Entstehung</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
-      </tei:head>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
-      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">63,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>dürfen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>dürften</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">63,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>näheren</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>nähern</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">63,23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Beurtheilung</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Verurtheilung</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">63,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vorteil</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Vortheil</tei:sic>
+      </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>

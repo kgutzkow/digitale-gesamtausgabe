@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 187, [21.] November 1840, S. 748. (Rasch 3.40.11.21).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 187, [21.] November 1840, S. 748. (Rasch 3.40.11.21)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,136 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="748"/>
+        <tei:seg> [Neues Pressgesetz in Berlin.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Ein neues Preßgesetz in Berlin? Alle Zeitungen sprechen davon. Eine Jury von Censoren? Also doch Censoren. Was ist der Grundsatz der Jury? Daß Du gerichtet werdest von Deines Gleichen! Nun wohlan! So errichtet Preßgeschwornen-Collegien, aber wer ist dem Autor Seinesgleichen? Der Beamte? Nein! Nur der Autor! Das neue Berliner Institut wäre vielleicht vortrefflich, wenn über den Autor der Autor entschiede. Unerschrocken würd’ ich mein neuestes Werk einem Verein übergeben, in welchem zu Gericht sitzen: </tei:seg>
+        <tei:hi style="letter-sparse">Hitzig</tei:hi>
+        <tei:seg>, Wil. </tei:seg>
+        <tei:hi style="letter-sparse">Alexis</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Spieker</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Gubitz</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Varnhagen</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Veit</tei:hi>
+        <tei:seg>, oder in gelehrter Instanz: </tei:seg>
+        <tei:hi style="letter-sparse">Boeckh</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Marheineke</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Ranke</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">v. Raumer</tei:hi>
+        <tei:seg>. Aber wann werd’ ich mein Werk zurückbekommen? Wird es hier nicht werden, wie in Österreich, wo ein gelehrtes oder politisches Werk von Collegium zu Collegium wandert und zum Autor erst zurückkehrt, wenn der Stand der Frage, die es bespricht, in der gelehrten oder politischen Welt sich längst schon wieder verändert hat? Ein Geschwornengericht – es klingt gar freisinnig. Aber die Ausführung ist entweder eine Chimäre oder eine Überlast. Früher hatte man mit </tei:seg>
+        <tei:hi style="letter-sparse">einem</tei:hi>
+        <tei:seg> Censor, jetzt wird man mit einem Dutzend zu kämpfen haben. </tei:seg>
+        <tei:hi style="letter-sparse">Ein</tei:hi>
+        <tei:seg> Censor ist oft ein nur ängstlicher, aber sonst redlicher Mann. Ein Collegium von Censoren? Wem fiele da nicht Schiller’s Epigramm ein: Jeder für sich ist ganz leidlich und klug, alle zusammen – gleich wird ein Dummkopf daraus? Man hat den Kronprinzen öfters als Verfasser von zeitangemessenen (um nicht zu sagen zeitgemäßen) Brochüren bezeichnet. Wenn etwas, so beweist dies, daß es irrthümlich ist. Wer uns von der Geißel </tei:seg>
+        <tei:hi style="letter-sparse">eines</tei:hi>
+        <tei:seg> Censors an die Skorpionen von einem Collegium Censoren verweisen kann, hat nie etwas drucken lassen. Wie man sich doch windet, ein Dilemma zu vermeiden, das nicht zu vermeiden ist! Es giebt nur zwei Zustände, Preßfreiheit oder Censur. Eine Censur ist traurig, aber das Traurigste: Censur mit Umständen. Will man einmal Censur und fürchtet sich doch vor dem Gehässigen, das dieses Institut bekommen hat, so lasse man es wie bisher, gebe aber den Censoren bessere Instruktionen. Man mißhandele sie nicht, wenn sie etwas Freimüthiges passiren ließen, man drohe ihnen keine Strafen, keine Amtsentsetzungen an! Man lasse zuweilen von oben aus Circulaire ergehen, in denen man zur Milde, statt zur Strenge, auffordert; man bezeichne die Sphären, wo man Freiheit gestatten will und bestimme deutlich die Gränze, die eingehalten werden soll. Man flöße dem Censor ein: </tei:seg>
+        <tei:hi style="letter-sparse">Achtung vor dem gedruckten Wort</tei:hi>
+        <tei:seg>, Achtung vor dem heiligen Rechte des Gedankens, ja der Sprache und des Autors ohnehin! Und was mehr wirkt, als Instruktionen, man zeige ein Regierungssystem, das im großen Style angelegt ist; man regiere bei geöffneten Thüren; man jage von oben aus nicht nach dem Kleinen, Unbedeutenden, verbiete nicht Bücher, arrogire sich nicht, Richtungen oder Individualitäten oder Zeitschriften unterdrücken zu wollen, man gestatte Jedem, Bücher und Zeitschriften zu ediren und zu stiften, Jedem, der wissenschaftliche Garantieen bietet – und man wird nicht nöthig haben, den ewig bittern Calmus der Censur durch das populär süßklingende Wort: Geschwornengericht chimärisch zu überzuckern.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 187, [21.] November 1840, S. 748. (Rasch 3.40.11.21)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">69,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>werden</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>werden,</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">69,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>er</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>es</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">69,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ein</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>
+          <tei:hi style="letter-sparse">Ein</tei:hi>
+        </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">70,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Geisel</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Geißel</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">70,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sie</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>die</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">70,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Geschworenengericht</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Geschwornengericht</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
