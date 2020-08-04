@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.; Verf. unges.:] Berlin, 29. Juni. In: Der Freisinnige. Freiburg. Nr. 126, 6. Juli 1832, S. 508. (Rasch *3.32.07.06).</tei:bibl>
+      <tei:bibl>[Anon.; Verf. unges.:] Berlin, 29. Juni. In: Der Freisinnige. Freiburg. Nr. 126, 6. Juli 1832, S. 508. (Rasch *3.32.07.06)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,8 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
-      
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -50,7 +52,7 @@
         <tei:hi style="font-style-italic">[Allgemeines Pressgesetz des Bundestages.]</tei:hi>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Auch die angerufenen ältern landesherrlichen Verordnungen von 1804 beweisen Nichts, weil sie sämmtliche von einem einzelnen, bestimmten, damals im Ausland geschlossenen Verein, nehmlich von der in Stuttgart bestandenen allgemeinen deutschen Industrieanstalt oder philanthropischen Gesellschaft, nicht aber von Vereinen überhaupt sprechen; vielmehr am Eingang der an genannter Stelle allegirten Verordnung ein ausdrückliches Anerkenntniß „der uneingeschränkten Freiheit jedes Staatsbürgers, für das wissenschaftliche oder sittliche Wohl seiner Nebenmenschen nach eigener Einsicht (also auch die mittelst Vereinen) zu wirken, und dazu das Gutfindende aus seinem Vermögen zu verwenden“, (also auch die ökonomische Bevormundung findet hier nicht statt), zu lesen ist, und nur die „Unterwerfung unter eine fremde Willkühr“ und das Eingehen „in die Staatseinrichtung wirkender Verpflichtungen“ und das eigenmächtige sich Erigiren als „erwerbsfähige moralische Personen“ verworfen wird. So weit war die absolute damals churfürstlich-badische Regierung an liberalen Grundsätzen der heutigen konstitutionellen voran!</tei:seg>
+        <tei:seg>* Berlin, 29. Juni. Die Ankunft des Hrn. Münch-Bellinghausen in Frankfurt wird von definitiven Maßregeln des Bundestags begleitet sein. Von Seiten Oestreichs und Preußens wird dem konstitutionellen Deutschland eine entscheidende Frage gestellt werden, deren nächste Beantwortung offenbar von beiden Seiten eine feindliche, ja selbst eine durch Militärmacht unterstützte Stellung sein könnte. Welche Rolle die bairische Regierung bei dieser Verwirrung übernehmen wird, kann um so weniger mit Sicherheit voraus gesagt werden, je mehr das Ansinnen des Bundestags deutlich gegen sie selbst und namentlich den geringen Widerstand, den sie seither den sogenannten revolutionären Bewegungen ihres Gebietes geleistet hat, gerichtet ist, und je mehr wieder auf der andern Seite der Eintritt des Grafen Wrede in den Rheinkreis, die beabsichtigte Konferenz auf der bairischen Gränze, der längere Aufenthalt des Bundespräsidialgesandten in München, dennoch auf ein Einverständniß mit den erwarteten Frankfurter Schritten und Maßregeln zu deuten scheint. So viel steht fest, und ich spreche keinem Gerüchte, sondern einer ziemlich sichern Quelle nach, in den nächsten Tagen wird allgemein ein entscheidender Schlag des Bundestags erwartet, der sich auf den scheinbaren Rechtsgrund, die einzelnen Glieder des Bundesstaats müßten unbedingte möglichste Conformität ihrer Institutionen im Auge behalten, stützen wird. Es ist möglich, daß eine Nachricht, die vor mehreren Monaten von Stuttgart aus dem Freisinnigen zukam, als wolle Baiern gegen die badische Preßfreiheit mit Bajonetten und Kanonen zu Felde ziehen, und die damals unter bessern Auspizien nur belächelt wurde, jetzt an Wahrheit gewonnen hat; wenigstens haben die in den preußischen Rheinprovinzen kommandirenden Generale Befehl erhalten, jeder Bitte um militärischen Beistand von Seite des Bundestags oder der übrigen Regierungen schleunigste Folge zu leisten, ja, man hat mich versichert, die Verstärkung der rheinischen Besatzungen und die Sistirung ihres Rückmarsches gelte weder Belgien noch Frankreich, sondern allein den deutschen Angelegenheiten, deren Verwirrung man einzelnen „Tollköpfen“ und einigen übermüthigen „Landstädtchen“, die sich von der Prosa des Lebens emanzipiren wollen, zuschreibt. – Das vom Bundestag erwartete allgemeine Preßgesetz wird natürlich bei den nächsten Ergebnissen unsrer Zustände noch verzögert werden; aber man kann getrost die Versicherung geben, daß an ihm wenig verloren geht. Die Grundlage der deßfallsigen Frankfurter Verhandlungen bildet bekanntlich der berühmt gewordene 70 Bogen starke preußische Entwurf, dessen Ursprung auf ältere Zeiten und auf die timiden Tage der Restauration zurückgeht. Das Hauptprinzip desselben ist und bleibt die Zensur, wie ich bestimmt versichern kann. Schon früher, ehe noch die Stimmen der Völker lauter zu fordern anfingen, ist dieser Preßentwurf hin und her ventilirt worden. Nach welchen Grundsätzen dabei verfahren wurde, lernt man daraus, daß man den Gedanken an allgemeine Preßfreiheit nie faßte, sondern nur von Begünstigung einzelner Klassen sprach. Bald hieß es, den Lehrern der Hochschulen solle das Recht, und zwar das alte Recht, ohne Censur schreiben zu dürfen, wieder zugestellt werden; bald sollten die Administrativbeamten, bald die Gemeindeverwaltenden die Auserwählten sein. Wie soll nun auf einen so schwankenden Boden in Frankfurt ein haltbares, sichres Gebäude, das zugleich wohnlich und für Eigenthümer und Miether gleich bequem ist, errichtet werden, und wer erwartet überhaupt die Freiheit aus den Händen des Absolutismus?</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
@@ -84,15 +86,18 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der in der Buchausgabe (GWB IV, Bd. 7, S. 52) enthaltene Text aus dem Freisinnigen, Nr. 126, 6. Juli 1832, S. 508, ist nicht die Berlin-Korrespondenz, als deren Autor Gutzkow vermutet wird. Diese Korrespondenz ist der hier in der Internetausgabe edierte Text.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p style="no-indent text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

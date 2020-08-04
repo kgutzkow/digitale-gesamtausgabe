@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>K[arl] G[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13).</tei:bibl>
+      <tei:bibl>K[arl] G[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -92,7 +96,9 @@
       <tei:p style="text-left">
         <tei:seg>Zunächst trägt die Verfassung des Deutschen Buchhandels an der allzuschnellen Wahl des literarischen Lebensberufes mehr Schuld, als alle unterlassene Selbstprüfung und alles Überschätzen seiner eigenen Kraft. Der Buchhandel kommt in Deutschland jedem, der literarisch wirken will, viel zu leicht entgegen. Es ist dies ein Glück für das Genie, das durch buchhändlerische </tei:seg>
         <tei:pb n="886"/>
-        <tei:seg> Hindernisse nicht zurückgeschreckt wird; aber ein Unglück für den Stümper, der schon längst einen Namen in den Leihbibliotheken sich erworben haben kann, noch ehe sein Mangel an der ächten Weihe von der Kritik erkannt ist. In England und Frankreich ist nichts schwerer als das erste literarische Debüt. Selten wagt ein Buchhändler, das Erzeugniß eines Anfängers in Kauf zu nehmen, nicht einmal Druck und Papier würde sich ein Londoner Buchhändler erboten haben, zu Lord Byrons ersten Gedichten vorzuschießen. In Deutschland dagegen glaubt jeder Verleger, ermuthigt durch die nur uns eigenthümliche Methode des Novaversendens, es mit einer ihm angebotenen Novelle wagen zu dürfen; er rechnet auf so und soviel Leihbibliotheken, auf die Unfähigkeit vieler ihrer Vorsteher, das Mittelmäßige, Schlechte und Gute zu unterscheiden, besonders aber auf den Mangel jeder imponirenden und das Schicksal der Bücher entscheidenden Kritik. Nach einem Jahr kann von dem Verlagsartikel erst ein Resultat abgesehen werden. Die Frist ist lang. Die Ungeduld des Anfängers weiß schon einen zweiten Artikel flott zu machen. Kritiken des ersten, von guten Freunden verfaßt, dem Verleger vorgelegt, ermuntern diesen, das Wagniß noch einmal zu versuchen. Gewöhnlich geschieht es hier wie in dem Liede; der Herr, der schickt den Jäckel aus, der Jäckel, der kömmt nicht zu Haus; nun schickt der Herr den Prügel aus u.s.w. Es ergiebt sich nie ein Resultat; Gewinn und Verlust halten sich das Gleichgewicht; der Absatz ist zu groß, um aufzuhören und zu klein, um fortzufahren. Während dieser Experimente hat sich der junge Debütant festgesetzt, hat einige Cameraderien geschlossen, hat seinem Referendariat als einer allzustörenden Berufspflicht Ade gesagt und ist Literat geworden, Belletrist, Mitglied jener großen Schriftstellerkette, die nach den Gegnern des Herrn Hitzig einen eignen Stand bildet, einen Staat im Staate.</tei:seg>
+        <tei:seg> Hindernisse nicht zurückgeschreckt wird; aber ein Unglück für den Stümper, der schon längst einen Namen in den Leihbibliotheken sich erworben haben kann, noch ehe sein Mangel an der ächten Weihe von der Kritik erkannt ist. In England und Frankreich ist nichts schwerer als das erste literarische Debüt. Selten wagt ein Buchhändler, das Erzeugniß eines Anfängers in Kauf zu nehmen, nicht einmal Druck und Papier würde sich ein Londoner Buchhändler erboten haben, zu Lord Byrons ersten Gedichten vorzuschießen. In Deutschland dagegen glaubt jeder Verleger, ermuthigt durch die nur </tei:seg>
+        <tei:hi style="letter-sparse">uns</tei:hi>
+        <tei:seg> eigenthümliche Methode des Novaversendens, es mit einer ihm angebotenen Novelle wagen zu dürfen; er rechnet auf so und soviel Leihbibliotheken, auf die Unfähigkeit vieler ihrer Vorsteher, das Mittelmäßige, Schlechte und Gute zu unterscheiden, besonders aber auf den Mangel jeder imponirenden und das Schicksal der Bücher entscheidenden Kritik. Nach einem Jahr kann von dem Verlagsartikel erst ein Resultat abgesehen werden. Die Frist ist lang. Die Ungeduld des Anfängers weiß schon einen zweiten Artikel flott zu machen. Kritiken des ersten, von guten Freunden verfaßt, dem Verleger vorgelegt, ermuntern diesen, das Wagniß noch einmal zu versuchen. Gewöhnlich geschieht es hier wie in dem Liede; der Herr, der schickt den Jäckel aus, der Jäckel, der kömmt nicht zu Haus; nun schickt der Herr den Prügel aus u. s. w. Es ergiebt sich nie ein Resultat; Gewinn und Verlust halten sich das Gleichgewicht; der Absatz ist zu groß, um aufzuhören und zu klein, um fortzufahren. Während dieser Experimente hat sich der junge Debütant festgesetzt, hat einige Cameraderien geschlossen, hat seinem Referendariat als einer allzustörenden Berufspflicht Ade gesagt und ist Literat geworden, Belletrist, Mitglied jener großen Schriftstellerkette, die nach den Gegnern des Herrn Hitzig einen eignen Stand bildet, einen Staat im Staate.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Der Deutsche Buchhandel befindet sich gegenwärtig in Schwankungen, die schon verschiedene Versuche, diesen Erwerbszweig zu reformiren, hervorgerufen haben. Ich kann mich noch immer nicht ganz von der Idee lossagen, daß das Hauptübel in den Novaversendungen liegt. Die Buchhändler sind zum </tei:seg>
@@ -138,24 +144,41 @@
         <tei:hi style="letter-sparse">thatsächliche</tei:hi>
         <tei:seg> Begründung und Rückkehr auf den eigentlichen Sitz des Übels, sich bald doch nur wie leere und unverdiente Kränkungen anhören.</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:signed>K. G.</tei:signed>
+      </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow nahm seinen 1838 im „Telegraph für Deutschland“ veröffentlichen Beitrag </tei:seg>
+        <tei:q>Hitzig über die Existenz der Schriftsteller</tei:q>
+        <tei:seg> in den 1842 publizierten zweiten Band seiner </tei:seg>
+        <tei:q>Vermischten Schriften</tei:q>
+        <tei:seg> auf. Dort bildet der Text zusammen mit zwei weiteren „Telegraph“-Beiträgen Gutzkows aus dem Jahr 1838 (→ </tei:seg>
+        <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
+        <tei:seg> und → </tei:seg>
+        <tei:q>In Sachen des Nachdrucks</tei:q>
+        <tei:seg>) das erste Kapitel, </tei:seg>
+        <tei:q>Preßfragen</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -163,33 +186,51 @@
           <tei:seg>J. K.[arl] G.[utzkow]: Hitzig über die Existenz der Schriftsteller. In: Telegraph für Deutschland. Hamburg. Nr. 111, [13.] Juli 1838, S. 881-888, und Nr. 112, [14.] Juli 1838, S. 891-894. (Rasch 3.38.07.13)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:p style="no-indent text-left">
-        <tei:seg>Gutzkow veröffentlichte den Text in leicht veränderter und gekürzter Form nochmals:</tei:seg>
-      </tei:p>
-      <tei:list type="sources">
-        <tei:item>
-          <tei:seg>E. Hitzig über die Existenz der Schriftsteller. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 21-36. (Rasch 2.23.2.1.3)</tei:seg>
-        </tei:item>
-      </tei:list>
-      <tei:head type="level-2">
+      <tei:item>
+        <tei:seg>E. Hitzig über die Existenz der Schriftsteller. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 21-36. (Rasch 2.23.2.1.3)</tei:seg>
+      </tei:item>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:metamark function="missing">[Aufzufüllen].</tei:metamark>
+        <tei:seg>Für die Publikation des Textes in E strich Gutzkow die Erwähnung seiner früheren Angriffe auf Berliner Kritiker (39,1-2) sowie den Passus, der sich mit der ,sittlichen Verrohung‛ Berlins beschäftigt (</tei:seg>
+        <tei:q>In keiner Stadt</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>auf’s Neue bestätigt wird</tei:q>
+        <tei:seg>, 39,4-18). In E ist </tei:seg>
+        <tei:q>Sekundaner</tei:q>
+        <tei:seg> 45,32) durch Sperrung hervorgehoben. </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>3.1. Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:metamark function="missing">Hitzigs Artikel im „Gesellschafter“</tei:metamark>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>5. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. E. Hitzig: Zu den Hitzigschen Aufsätzen. In: Der Gesellschafter. Berlin. 126. Blatt, 8. August 1838, S. 625-626. (Rasch 9/2.38.08.08)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

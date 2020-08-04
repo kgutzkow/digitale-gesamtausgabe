@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.; Verf. unges.:] Internationales Autor- und Verlagsrecht. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 28, [11. Juli] 1861, S. 557–559. (Rasch *3.61.07.11.2).</tei:bibl>
+      <tei:bibl>[Anon.; Verf. unges.:] Internationales Autor- und Verlagsrecht. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 28, [11. Juli] 1861, S. 557–559. (Rasch *3.61.07.11.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,12 +41,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="557"/>
         <tei:seg> Internationales Autor- und Verlagsrecht.</tei:seg>
       </tei:head>
@@ -74,7 +78,7 @@
       <tei:p style="text-left">
         <tei:seg>Wir könnten eine Reihe der bedeutendsten Namen </tei:seg>
         <tei:pb n="558"/>
-        <tei:seg> sowol auf poetischem wie wissenschaftlichem Gebiete anführen, die bereits durch jene Verträge die pecuniären Resultate ihrer oft mühsam und unter Entbehrung arbeitenden Feder gesteigert haben; wir verweisen auf den Eifer, mit dem man sich in England die Erzeugnisse unserer poetischen Literatur aneignet; wissenschaftliche Werke wie die von Ranke, Liebig, Bunsen u. a., sind in London und Paris mit derselben Vergünstigung als „autorisirte“ Ausgaben erschienen wie die Werke Macaulay’s und Carlyle’s bei uns. Auf dem Gebiete der Experimentalwissenschaften ist die Ausstattung durch Erläuterungen, ja selbst das erste Gewinnen, der dargestellten Resultate oft so kostspielig, daß Autor und Verleger bedacht sein müssen, sich einen Markt dafür in ganz Europa zu sichern. Früher half man sich durch Mitengagement einer ausländischen Firma als Schutzes gegen Nachdruck – das Verhältniß blieb immer ein persönliches und litt unter den Bedingungen, welche die Willkür stellen konnte; auch war noch nicht dabei die Uebersetzung geschützt. Jetzt kann Vieweg in Braunschweig für eins seiner mit großen Kosten hergestellten illustrirten Werke unserer Wöhler, Bunsen, Liebig, Stöckhardt u.s.w. diesen Autoren auch in Frankreich und England den Ertrag ihrer angestrengten Studien und ihres durch die Concurrenz mit dem Ausland unter vermehrten Schwierigkeiten arbeitenden Genius sichern.</tei:seg>
+        <tei:seg> sowol auf poetischem wie wissenschaftlichem Gebiete anführen, die bereits durch jene Verträge die pecuniären Resultate ihrer oft mühsam und unter Entbehrung arbeitenden Feder gesteigert haben; wir verweisen auf den Eifer, mit dem man sich in England die Erzeugnisse unserer poetischen Literatur aneignet; wissenschaftliche Werke wie die von Ranke, Liebig, Bunsen u. a., sind in London und Paris mit derselben Vergünstigung als „autorisirte“ Ausgaben erschienen wie die Werke Macaulay’s und Carlyle’s bei uns. Auf dem Gebiete der Experimentalwissenschaften ist die Ausstattung durch Erläuterungen, ja selbst das erste Gewinnen der dargestellten Resultate oft so kostspielig, daß Autor und Verleger bedacht sein müssen, sich einen Markt dafür in ganz Europa zu sichern. Früher half man sich durch Mitengagement einer ausländischen Firma als Schutzes gegen Nachdruck – das Verhältniß blieb immer ein persönliches und litt unter den Bedingungen, welche die Willkür stellen konnte; auch war noch nicht dabei die Uebersetzung geschützt. Jetzt kann Vieweg in Braunschweig für eins seiner mit großen Kosten hergestellten illustrirten Werke unserer Wöhler, Bunsen, Liebig, Stöckhardt u. s. w. diesen Autoren auch in Frankreich und England den Ertrag ihrer angestrengten Studien und ihres durch die Concurrenz mit dem Ausland unter vermehrten Schwierigkeiten arbeitenden Genius sichern.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Wer sind die Eiferer für die Aufhebung des nationalen Schutzes? Doch wol nur gewisse Buchhändler, denen jenes Gesetz eine störende Behinderung ihres Lebens- und Geschäftsgrundsatzes ist: „Der Buchhandel ist Selbstzweck!“ Jene Buchhändler, die kürzlich auf der leipziger Messe in öffentlicher Börsensitzung sagen konnten: „Sie werden doch einräumen, daß die meisten von uns am wenigsten von den Leistungen der </tei:seg>
@@ -88,9 +92,11 @@
       <tei:p style="text-left">
         <tei:seg>Wo wir hinsehen in Deutschland, leiden wir (auch eine Folge unserer Kleinstaaterei) an einem Uebermaß von Buchfabrikation. Dem kleinsten Orte verschlägt es nichts, mit wenig Geld, hinlänglicher Druckerschwärze, Papier und den rosenrothsten Illusionen Bücher über Bücher in die Welt zu setzen. Je weniger dabei ein </tei:seg>
         <tei:hi style="letter-sparse">Autor</tei:hi>
-        <tei:seg> benöthigt ist, desto besser. Die Uebersetzungsfabrikation, der Nachdruck fremdländischer Originalien war eine Lieblingsbeschäftigung dieser gedankenlosen Ueberführung des literarischen Marktes. Keine literarische Idee taucht bei uns auf, die nicht sofort ihre fünf- und sechsfache Nachahmung fände. Der Gedanke: Dies neue Journal, dies Reisehandbuch, dies Unterhaltungsmagazin, dies Nachschlagewörterbuch ernährt deinen Collegen in Leipzig, Stuttgart, Berlin, laß’ ihm die Früchte seines Fleißes oder seines Glücks! existirt innerhalb der Buchhändlerwelt in dem Grade </tei:seg>
+        <tei:seg> benöthigt ist, desto besser. Die Uebersetzungsfabrikation, der Nachdruck fremdländischer Originalien war eine Lieblingsbeschäftigung dieser gedankenlosen Ueberführung des literarischen Marktes. Keine literarische Idee taucht bei uns auf, die nicht sofort ihre fünf- und sechsfache Nachahmung fände. Der Gedanke: Dies neue Journal, dies Reisehandbuch, dies Unterhaltungsmagazin, dies Nachschlagewörterbuch ernährt deinen Collegen in Leipzig, Stuttgart, Berlin, laß’ ihm die Früchte seines Fleißes oder seines Glücks –! existirt innerhalb der Buchhändlerwelt in dem Grade </tei:seg>
         <tei:hi style="letter-sparse">nicht</tei:hi>
-        <tei:seg>, daß auf jede gut einschlagende neue Idee im Gegentheil ein halbes Dutzend Nachahmungen und Gegenoperationen erscheint. Wir haben uns durch dies System zu einer Höhe von Papierverbrauch hinaufgeschwindelt, daß wir positiv z. B. mehr belletristische, ja auch fachwissenschaftliche und gar erst politische Zeitungen besitzen, als von den vorhandenen producirenden Kräften zweckmäßig gefüllt werden können. Diesem wildnaturalistischen System, das zuweilen in wahrhaftes Freibeuterthum ausartet, war es freilich der peinlichste Gedanke, daß z. B. ein neuer Roman von Dickens erscheinen kann und ein Verleger in Leipzig sich das alleinige Recht des Nachdrucks oder der Uebersetzung auf deutschem Boden erwirbt; diese Herren sind untröstlich, daß nicht sofort ein Dutzend Uebersetzungsfedern in allen Gegenden Deutschlands darüber herfallen und durch die dann naturgemäß eintretende Concurrenz diese Art Literatur auf Bändchen à 2 Neugroschen, gefährlich genug für die concurrirende deutsche Literatur, herunterbringen können. Ebenso müssen ihre Nachdruckspressen ruhen, wenn sie sehen, daß sich B. Tauchnitz für seine bekannte Collection die englischen Verlagsrechte erwirbt und dadurch möglich macht, daß die fremden Werke nur für ihn existiren.</tei:seg>
+        <tei:seg>, daß auf jede gut einschlagende neue Idee im Gegentheil ein halbes Dutzend Nachahmungen und Gegenoperationen erscheint. Wir haben uns durch dies System zu einer Höhe von Papierverbrauch hinaufgeschwindelt, daß wir positiv z. B. mehr belletristische, ja auch fachwissenschaftliche und gar erst politische Zeitungen besitzen, als von den vorhandenen producirenden Kräften zweckmäßig gefüllt werden können. Diesem wildnaturalistischen System, das zuweilen in wahrhaftes Freibeuterthum ausartet, war es freilich der peinlichste Gedanke, daß z. B. ein neuer Roman von Dickens erscheinen kann und ein Verleger in Leipzig sich das alleinige Recht des Nachdrucks oder der Uebersetzung auf deutschem Boden erwirbt; diese Herren sind untröstlich, daß nicht sofort ein Dutzend Uebersetzungsfedern in allen Gegenden Deutschlands darüber herfallen und durch die dann naturgemäß eintretende Concurrenz diese Art Literatur auf Bändchen </tei:seg>
+        <tei:foreign>à</tei:foreign>
+        <tei:seg> 2 Neugroschen, gefährlich genug für die concurrirende deutsche Literatur, herunterbringen können. Ebenso müssen ihre Nachdruckspressen ruhen, wenn sie sehen, daß sich B. Tauchnitz für seine bekannte Collection die englischen Verlagsrechte erwirbt und dadurch möglich macht, daß die fremden Werke nur für ihn existiren.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Die Einrede, daß die Fremden uns viel weniger von den Vortheilen dieses Vertrags zufließen lassen, als sie nunmehr der Vortheile bei uns genießen, will bei einiger Selbsterkenntniß nichts bedeuten. Die Berechtigung derselben ist auch nur eine vorläufige; die Achtung vor unserer Literatur nimmt im Ausland zu. Man frage nur diejenigen deutschen Autoren, die bisjetzt vom internationalen Verlagsrecht Vortheile zogen, ob sie dieselben künftig entbehren möchten. Ebenso wenig will es etwas sagen, wenn man erwidert: „Longfellow sichert sich sein Autorrecht in Deutschland und erhält dafür einen – schlechten Uebersetzer, während ihm die freigegebene Concurrenz einen vorzüglichen zuführen könnte!“ Es wird dem Ruhme Longfellow’s wenig schaden, wenn ein ausgezeichneter Uebersetzer erst in einigen Jahren, nachdem sein Autorrecht erloschen, an seine Werke kommt; Byron wurde jahrelang in Adrian’s höchst mittelmäßiger Uebersetzung gelesen, ehe sich Gustav Pfizer und Adolf Böttger an ihn machten; ebenso wird auch wol Ranke schon von selbst dafür Sorge tragen, daß sein erster englischer Uebersetzer kein gewöhnlicher Miethling ist.</tei:seg>
@@ -107,22 +113,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -130,37 +136,77 @@
           <tei:seg>J. [Anon.; Verf. unges.:] Internationales Autor- und Verlagsrecht. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 28, [11. Juli] 1861, S. 557–559. (Rasch *3.61.07.11.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Textänderungen</tei:seg>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:citedRange type="page-line-ref">5,31</tei:citedRange>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Die Liste der Eingriffe in der Buchausgabe (GWB IV, Bd.7, S. 275) ist wie folgt zu ergänzen:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">35,26</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>nachdem</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>nach;dem</tei:sic>
-        <tei:seg> </tei:seg>
+        <tei:seg>  Satzfehler im Zeilenumbruch: Semikolon ist mit Trennungszeichen der folgenden Zeile vertauscht</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:citedRange type="page-line-ref">5,33</tei:citedRange>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">35,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>kommt;</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>kommt=</tei:sic>
+        <tei:seg>  Satzfehler im Zeilenumbruch: Trennungszeichen ist mit Semikolon der vorigen Zeile vertauscht</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">35,27-28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>mittelmäßiger</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>mittelr mäßiger</tei:sic>
+        <tei:seg>  Satzfehler im Zeilenumbruch: Letter r ist mit Trennungszeichen der folgenden Zeile vertauscht</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">35,28</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Pfizer</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Pfize=</tei:sic>
+        <tei:seg>  Satzfehler im Zeilenumbruch: Trennungszeichen ist mit Letter r der vorigen Zeile vertauscht</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">33,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Gewinnen,</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Gewinnen</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">34,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Glücks !</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Glücks – !</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
