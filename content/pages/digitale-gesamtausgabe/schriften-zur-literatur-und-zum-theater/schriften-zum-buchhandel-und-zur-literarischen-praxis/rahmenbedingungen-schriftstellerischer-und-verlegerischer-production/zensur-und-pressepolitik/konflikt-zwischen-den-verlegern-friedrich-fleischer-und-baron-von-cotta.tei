@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Miscelle. In: Telegraph für Deutschland. Hamburg. Nr. 174, [31.] Oktober 1842, S. 696. (Rasch 3.42.10.31).</tei:bibl>
+      <tei:bibl>[Anon.:] Miscelle. In: Telegraph für Deutschland. Hamburg. Nr. 174, [31.] Oktober 1842, S. 696. (Rasch 3.42.10.31)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,64 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="696"/>
+        <tei:seg> [Konflikt zwischen den Verlegern Friedrich Fleischer und Baron von Cotta.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Das </tei:seg>
+        <tei:hi style="letter-sparse">Leipziger Buchhändlerbörsenblatt</tei:hi>
+        <tei:seg> bringt die Erzählung einer ganz merkwürdigen Verhandlung zwischen den beiden Buchhändlern </tei:seg>
+        <tei:hi style="letter-sparse">Friedrich Fleischer</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Baron von Cotta</tei:hi>
+        <tei:seg>. Dafür, daß Fleischer ein Buch mit scharfen Invektiven gegen die Allgemeine Zeitung verlegte, erklärt Herr von Cotta, bräche er jede Verbindung mit ihm ab und würde nicht mehr gestatten, daß Fleischer irgend ein Buch seines Verlags in der Allgemeinen Zeitung ankündigte. Es ist wohl keinem Zweifel unterworfen, daß das bairische Ministerium das Recht hat, Herrn von Cotta für diese Weigerung die Erlaubniß zur fernern Herausgabe der Allgemeinen Zeitung zu versagen. Jede Zeitung, die bezahlte Annoncen aufnimmt, ist verpflichtet, jedwedem öffentlichen und von der Censur zugelassenen Geschäfte und Auftrage zu dienen. Eine Zeitung, die aus Rancüne sich ihrer Bestimmung entzieht, verwirkt ihr Privilegium. Lange ist uns in der Buchhändlerwelt keine so eigenmächtige und das Gefühl jedes Billigdenkenden kränkende Handlungsweise, wie jene des Herrn von Cotta, vorgekommen.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Miscelle. In: Telegraph für Deutschland. Hamburg. Nr. 174, [31.] Oktober 1842, S. 696. (Rasch 3.42.10.31)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

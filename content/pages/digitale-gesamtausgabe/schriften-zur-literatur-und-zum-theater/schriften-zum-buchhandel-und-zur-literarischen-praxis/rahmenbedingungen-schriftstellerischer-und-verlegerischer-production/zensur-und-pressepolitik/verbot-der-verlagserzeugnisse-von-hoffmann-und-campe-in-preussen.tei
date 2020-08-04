@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Von der Niederelbe, im Februar. In: Allgemeine Zeitung. Augsburg. Nr. 60, 1. März 1842, S. 478–479. (Rasch 3.42.03.01).</tei:bibl>
+      <tei:bibl>[Anon.:] Von der Niederelbe, im Februar. In: Allgemeine Zeitung. Augsburg. Nr. 60, 1. März 1842, S. 478–479. (Rasch 3.42.03.01)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,112 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="478"/>
+        <tei:seg> [Verbot der Verlagserzeugnisse von Hoffmann und Campe in Preußen.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>*** Von der Niederelbe, im Februar. Die belgische, französische, selbst englische Journalistik hat sich mit der bekannten preußischen Ausschließung des Verlags der Buchhandlung Hoffmann und Campe in Hamburg beschäftigt. Die Journale aller Farben haben ein solches Generalverbot der Zukunft für sehr bedenklich erklärt. Indessen mag vom deutschen Preßstandpunkte aus dieses Verfahren der preußischen Regierung gegen einen Verleger, der eine entschiedene liberale Richtung verfolgte und, oft gewarnt, den Debit aufreizender Schriften nicht lassen konnte, eine andere Beurtheilung erfordern. Das Mißliche eines solche Schrittes, so gerecht er gegen den Verleger seyn mag, liegt nur in den Consequenzen für die von ihm </tei:seg>
+        <tei:hi style="letter-sparse">Verlegten</tei:hi>
+        <tei:seg>. Eine Firma, wie die von Hoffmann und Campe, eine Buchhandlung von so bedeutenden Geldmitteln, von so weitverzweigten Verbindungen, ist nicht bloß der Stamm, an welchen sich ein einzelnes Buch lehnt, sondern die ganze Thätigkeit mancher Schriftsteller, der ganze Ausdruck ihres litterarischen Berufs, die Interessen eines ganzen Lebens ranken sich an einen Verleger von solcher Geltung an. </tei:seg>
+        <tei:hi style="letter-sparse">Raupach</tei:hi>
+        <tei:seg> z. B. hat alle seine dramatischen Werke auf Lebenszeit, was er geschrieben hat, schreibt und schreiben wird, an Hoffmann und Campe überwiesen. Wie kann dieser Schriftsteller ohne empfindlichen Nachtheil für seine litterarischen Erfolge und Erträgnisse sich von einer Buchhandlung lossagen, durch die er in Folge des preußischen Verbots die Einwirkung auf fast die Hälfte des deutschen Vaterlandes verliert? Jeder Schriftsteller, der eine Reihe von Jahren hindurch mit einem bestimmten Buchhändler Geschäfte machte, ist mit diesem in allen seinen Interessen tief verwachsen. Wer kennt nicht das gehässigste aller materiellen Bedingnisse, an welche die edelsten Thätigkeiten der Poesie und Wissenschaft geknüpft sind, das Suchen eines Verlegers? H. Heine möchte kaum den Muth haben, sich noch mit dem Knüpfen eines neuen mercantilischen Bandes für seine künftigen Werke zu befassen. Der Verleger sündigt mit einer kleinen Broschüre und siehe da, alle seine Autoren, alle, die der Zufall mit ihm zusammengefügt hat, müssen für seine Sünde büßen. Das Bedenkliche eines solchen Totalverbots ist am ersichtlichsten an dem bei Hoffmann und Campe erscheinenden Telegraphen. Dieses Blatt hielt sich unter Gutzkows Redaction fünf Jahre so, daß die preußische Regierung es tolerirte; jetzt wird es für die Fehler eines andern in Preußen verboten. Unbetheiligte Dritte, die Verfasser und die Leser des Telegraphen, müssen hier unter einem Vergehen büßen, an welchem sie völlig unschuldig sind. Es scheint, als wenn die Kunst die Talente mit Tact zu behandeln bei uns in Deutschland noch immer ein Arcanum bleiben solle. Man verlangt von den Schriftstellern entweder so radicale Metamorphosen, daß sie die Achtung des Publicums verlieren, oder man stellt ihnen wenn nicht Verfolgung doch Kälte und Lieblosigkeit entgegen. Verstände Deutschland seine Talente zu pflegen, diese Talente würden uns alle von größerem Nutzen seyn. Wie wahr und wie sehr auf diesen Fall passend schreibt Ihr gewiß conservativ denkender Pariser ♀ Correspondent (Allg. Zeitung Nro. 22): „Es soll eine neue Zeit, eine Zukunft geboren werden: wie könnte die aus einer schlaffen Mutter und einem veralteten Vater </tei:seg>
+        <tei:pb n="479"/>
+        <tei:seg> kommen?“ Und vorher: „Die Regierung sollte sich nichts angelegener seyn lassen, als nach allen Richtungen des Gedankens und der That hin die Geisteskräfte zu wecken. Dazu gibt es nur zwei Mittel: Verzichten auf das Erkaufen der Mittelmäßigkeit; positives Hervorheben aller Talente, ohne Servilität, mit ehrender Freimüthigkeit.“</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Von der Niederelbe, im Februar. In: Allgemeine Zeitung. Augsburg. Nr. 60, 1. März 1842, S. 478–479. (Rasch 3.42.03.01)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">73,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>verfolgt</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>verfolgte</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">73,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>literarischen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>litterarischen</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">73,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>die Thätigkeiten</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>die edelsten Thätigkeiten</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">73,34-74,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>haben</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>haben,</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">74,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sich sich</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>sich</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">74,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Publikums</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Publicums</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

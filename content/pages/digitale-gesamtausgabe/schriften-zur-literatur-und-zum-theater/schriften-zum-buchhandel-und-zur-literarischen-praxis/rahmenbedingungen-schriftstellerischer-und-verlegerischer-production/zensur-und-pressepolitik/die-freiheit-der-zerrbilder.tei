@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30).</tei:bibl>
+      <tei:bibl>K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,117 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-07" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="69"/>
+        <tei:seg> Die Freiheit der Zerrbilder.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Trotz Herwegh-Ausweisungen, Zeitungsverboten und Concessionsrücknahmen kann man die gewaltigen Fortschritte der deutschen Presse nicht läugnen. Selbst in den Aktenstücken, die die neuesten so viel besprochenen ministeriellen Reactionen auf ihre Gründe zurückführen, findet man Zugeständnisse, die man dem vor drei Jahren noch so verhaßten Zeitgeist nicht gemacht hat. Welche Lebendigkeit jetzt auf einem Felde, wo man früher nur mit Filzschuhen auftreten durfte! Die Zeit von jetzt würde der Zeit von damals ein Gräuel scheinen.</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die heutige Presse setzt mit rührigen Hebeln Begriffe in Umlauf, die man früher kaum nannte, geschweige erörterte. Die preußische Presse war in eine Lethargie versunken, von der man nicht wußte, ob sie eine Folge des Gebots von oben oder des freiwilligen Gehorsams von unten war.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Man kann es nachweisen, ob dieser großartige und ewig denk- und dankwürdige Aufschwung der öffentlichen Meinung mit oder gegen den Willen Friedrich Wilhelms IV. erfolgte. Dieser Nachweis soll uns hier nicht beschäftigen. Die Thatsache ist an sich eine so erfreuliche, daß wir ihren Quellen nicht nachspüren wollen. Die preußische Presse hat die übrige deutsche mit fortgerissen und es wird starker Reaktionen bedürfen, sie so bald wieder in das alte Bett ihrer früheren Trägheit zurückzudämmen.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
+        <tei:ref type="footnote" target="#footnote-1">)</tei:ref>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Friedrich Wilhelm war im Lande der freien Staatsformen und der freien Presse. An seinen vorjährigen Besuch in England knüpften sich große Erwartungen. Es war eine Reise, die der König nur aus rein persönlichen Motiven unternommen zu haben schien. Dennoch war man betrübt, daß er nur den </tei:seg>
+        <tei:foreign>Honny soit</tei:foreign>
+        <tei:seg>-Orden mitbrachte. Man ist aber nicht aufmerksam gewesen. Der König hat Englands Preßzustände studiert, er hat mehr aus England zurückgebracht: – die noch nicht genug gewürdigte Freiheit der Carrikaturen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>England ist die Wiege der Zerrbilder. Zu allen Zeiten waren gezeichnete satyrische Anspielungen dort an der Mode, ja Hogarth hat dieses Genre zur Kunstform erhoben. Die englischen Zerrbilder sind in die Geschichte des Landes verwebt. Sie haben für die Volksfreiheit, für den Partheienkampf mitgestritten. Die Republik, die Restauration, der Untergang der Stuarts, die Kämpfe der Whigs und Tories, Pitt, Fox, Canning – alle Phasen der neuern englischen Geschichte haben ihre politischen Zerrbilder, und oft wichtige, oft entscheidende aufzuweisen. Die neueste Zeit war daran überreich. Georg’s Wahnsinn wurde nicht geschont. Wellington wurde im Bilde greller hingestellt, als in den Memoiren der Wilson, H. B.’s berühmter Griffel hat alle möglichen Lamm-Anspielungen in seiner Verfolgung Lord Melbourne’s erschöpft. In England ist das Zerrbild eine politische Waffe.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>In Frankreich ist die Freiheit jünger und das Ehrgefühl der Personen empfindlicher. Die französische Carrikatur ist zu allen Zeiten graziöser gewesen und muß den verwöhnten Schönheitssinn der Deutschen mehr ansprechen, als die englische. Bei alle dem hat aber das Zerrbild in Frankreich </tei:seg>
+        <tei:pb n="70"/>
+        <tei:seg> nicht Wurzel schlagen wollen. Das Charivari von heute darf seit geraumer Zeit keine politische Carrikaturen mehr bringen. Es geißelt nur noch die Thorheiten des Pariser Lebens und seine ergiebigste Quelle sind die Travestissements und Quiproquos des Carneval.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Als man vor einem Jahre etwa in Berlin Carrikaturenfreiheit dekretirte, werden wohl Viele erstaunt seyn. Ich gestehe, zu diesen Staunenden mitgehört zu haben. Wie, man verweigert uns die Freiheit der Feder und giebt die schwarze Kreide des Lithographen frei? Man giebt uns nicht die Freiheit der Presse, sondern die Freiheit der Carrikaturen? Wer hat diese Freiheit begehrt? Wo liegt in unserm Volk der Sinn für Zerrbilder? War in einer Zeit so bittern Ernstes das Bedürfniß zum Scherze da?</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich wiederhole, daß ich diese Carrikaturenfreiheit nicht begreife. Man giebt Arabesken frei und nicht das innere Bild? Man giebt Randverzierungen frei und nicht den Spruch, den sie einschließen? Kein Mensch hat diese frivole Freiheit der Zerrbilder begehrt. Sie entspricht keinem einzigen Zuge im deutschen Charakter. Wir haben nichts von jener hämischen Spottsucht, mit der der ohnmächtige Italiener so gern sein Müthchen kühlt. Bei uns würde die Säule des Pasquino leer stehen, selbst wenn sie von Rathswegen in jeder Stadt aufgestellt würde. Es liegt nicht in unserm Charakter, durch Zerrbilder unsere Meinung zu sagen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="letter-sparse">Die Carrikatur ist eine Superfötation des politischen Lebens</tei:hi>
+        <tei:seg>. In diesem Sinne erfreut sich England an seinen Carrikaturen. Wo Preßfreiheit herrscht, ist der Mißbrauch der Carrikatur unschädlich. In einem Lande, wo man mit seinem ganzen Daseyn sich der Öffentlichkeit preisgeben muß, giebt man auch ohne Leidwesen herzlich gern seine Nase, seinen Bukkel, seinen deutungszulässigen Namen preis. In England ist die Carrikatur der </tei:seg>
+        <tei:hi style="letter-sparse">Humor der Preßfreiheit</tei:hi>
+        <tei:seg>. Sie hebt den furchtbaren Ernst dieser Institution auf, sie ist bei aller Bitterkeit im Vergleich zur Macht der Presse etwas Harmloses und so faßt sie auch die englische Gesetzgebung. Die englische Justiz bestraft Libelle, aber keine Carrikaturen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Freiheit der Zerrbilder kann wie die heilige Preßfreiheit der Fluch eines Volkes werden. Was nützt uns die Schwimmkunst ohne Wasser? Was kann eine Maschiene, die man </tei:seg>
+        <tei:hi style="letter-sparse">ohne Gegenstand</tei:hi>
+        <tei:seg> arbeiten läßt, Anderes, als sich selbst zermalmen? Preßfreiheit ohne ein freies Volksleben, ohne freie Institutionen, ohne Geschwornengerichte, ohne eine durch alle Poren unseres öffentlichen Lebens schon gedrungene </tei:seg>
+        <tei:hi style="letter-sparse">politische Toleranz</tei:hi>
+        <tei:seg> würde für die Nation nur eine Plage werden. Carrikaturen endlich ohne Preßfreiheit arten vollends in widerwärtigen, sittenverderblichen Schabernack, in äffische Straßenneckerei, in gemüthlose Possenreißerei aus. Erleben wir es nicht jetzt schon in Berlin? Einige Zerrbilder haben großen Erfolg gehabt und weckten den Spekulationsgeist der Bilderhändler. Nun die drolligen Zusammenstellungen von Straußen, Bauern, Böttchern u. s. w., die beziehungsreichen Gruppen aus der politischen Thiersymbolik verboten sind, macht der geweckte Industrialismus Satyren auf die Elsner, auf die deutsche Flotte, auf jede öffentliche Person und zuletzt auf sich selbst. Treibhauspflanze ist also auch diese Freiheit. Sie gehört einem fremden Clima, einem fremden Himmelsstriche an und soll sie uns gehören, müßten erst gewaltige Änderungen in unserer Temperatur vor sich gehen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Der Zweck dieser Rüge ist nun nicht der, der preußischen Regierung die Zurücknahme ihrer Carrikaturenfreiheit anzurathen. Im Gegentheil, man gebe ihr eine sittliche Begründung. Diese sittliche Begründung ist keine andere, als die Preßfreiheit. Aber man gebe auch die Preßfreiheit nicht, wenn nicht mit der sittlichen Begründung der freiesten öffentlichen Institutionen. Statt das Haus der Freiheit von oben zu bauen, fange man vernunftgemäß von unten an. Die Carrikaturenfreiheit ist die äußerste Spitze eines solchen Baues, der Besen des lustig singenden Schornsteinfegers aus dem höchsten Rauchfang, der Richtjubel der Zimmerleute, wenn sie dem fertigen Dach den Kranz aufsetzen. Den Bau der Freiheit aber mit Carrikaturen von unten anzufangen, die Zerrbilder in das Erdgeschoß zu verlegen, heißt die Menschheit verwirren und statt Engel Kobolde zu ihren Tröstern machen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:signed>K. Gutzkow.</tei:signed>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p style="text-left">
+          <tei:hi style="sup">*</tei:hi>
+          <tei:seg>) In der </tei:seg>
+          <tei:hi style="letter-sparse">Mannheimer Abendzeitung</tei:hi>
+          <tei:seg> lasen wir kürzlich folgenden unglaublichen Ausdruck aus Kölln: „</tei:seg>
+          <tei:hi style="letter-sparse">Der neue Censor der Rheinischen Zeitung streicht wie verrückt</tei:hi>
+          <tei:seg>.“</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
