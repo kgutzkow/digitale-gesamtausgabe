@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Preßfragen. In: Telegraph für Deutschland. Hamburg. Nr. 58, [10.] April 1843, S. 229. (Rasch 3.43.04.10.1).</tei:bibl>
+      <tei:bibl>[Anon.:] Preßfragen. In: Telegraph für Deutschland. Hamburg. Nr. 58, [10.] April 1843, S. 229. (Rasch 3.43.04.10.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,92 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="229"/>
+        <tei:seg> [Fleischer und Cotta.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Immer siegreicher treten die Gründe für die Mündlichkeit des Rechtsverfahrens gegen das schriftliche hervor. In Stuttgart haben die Buchhändler unter sich angefangen, eine Jury mit richterlicher Competenz und Entscheidungskraft einzuführen. Bezeichnend aber ist es, daß es ein </tei:seg>
+        <tei:hi style="letter-sparse">Kochbuch</tei:hi>
+        <tei:seg> war, für dessen rechtlichen Schutz die neue Institution zum ersten Male in Wirkung trat. – Bekanntlich hat der Buchhändler Cotta dem Buchhändler Fleischer verweigert, seine geschäftlichen Ankündigungen in die Allg. Zeitung aufzunehmen. </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. Schellwitz hat das über diesen Gewaltakt allgemein entstandene Murren zu beschwichtigen gesucht und ihn für erlaubt erklärt. </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. Schellwitz ist der Geschäftsanwalt der Cotta’schen Buchhandlung. Seine Vertheidigung der Cotta’schen Gehässigkeit widerlegt sich also dadurch von selbst. Etwas Anderes aber ist es, wenn wir in der Preßzeitung Folgendes lesen:</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="font-size-small">„</tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Wer Arges thut, der hasset das Licht</tei:hi>
+        <tei:hi style="font-size-small">. Die Verkaufsanzeigen folgender Schriften über die Jesuiten: Briefe über den gefährlichen Einfluß der Jesuiten auf die Erziehung und den öffentlichen Unterricht in höhern Lehranstalten, von Heinrich Escher, Professor und Erziehungsrath, 1814 und 1819; die Marianischen Brüderschaften der Herrnhuter, von demselben, 1822; die Jesuiten im Verhältniß zu Kirche und Staat, 1819, sind neuerdings von der Redaction der Luzerner Staatszeitung verweigert worden, und es erweis’t sich dadurch, daß auch diese von der Ansicht ausgeht, daß eine Redaktion keine Verbindlichkeit zur Aufnahme von Inseraten habe.“</tei:hi>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Hier ist das Verhältniß völlig verschieden. Das Luzerner Blatt ist </tei:seg>
+        <tei:hi style="letter-sparse">anerkanntermaßen</tei:hi>
+        <tei:seg> eine Jesuitenzeitung, die sich trotz der schweizerischen Preßfreiheit doch gleichsam selbst eine </tei:seg>
+        <tei:hi style="letter-sparse">Censur</tei:hi>
+        <tei:seg> setzt und die genannten Bücher aus </tei:seg>
+        <tei:hi style="letter-sparse">Tendenzgrundsätzen</tei:hi>
+        <tei:seg> nicht befördert. Die von Fleischer zur Ankündigung gebrachten Bücher hatten aber mit der Tendenz der A. A. Zeitung nichts zu schaffen, kümmerten sich nicht darum, ob sie jesuitische oder nichtjesuitische Grundsätze vertheidigt, konnten mithin also das Gewissen des Herrn von Cotta keinesweges belasten. Es wäre der Preßzeitung und ihres anerkannten Freimuthes nicht würdig, wenn sie in dieser von einem Privatmann gegen einen andern Privatmann rächerisch geübten Unbill jene Grundsätze des Rechtes und der Billigkeit zurückwiese, von welchen sie doch sonst in allen ähnlichen Conflikten von Hülflosigkeit und tyrannischer Gewalt beseelt ist.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow hatte sich bereits in einer Miszelle vom Oktober 1842 zum Konflikt der beiden Verleger Fleischer und Cotta geäußert (Rasch 3.42.10.31).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Preßfragen. In: Telegraph für Deutschland. Hamburg. Nr. 58, [10.] April 1843, S. 229. (Rasch 3.43.04.10.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">90,23</tei:citedRange>
+        <tei:seg> Die Kursivierung des Wortes „Erziehung“ war irrtümlich erfolgt.</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

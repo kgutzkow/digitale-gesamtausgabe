@@ -241,7 +241,7 @@ TAXONOMY = (
 	    		    ('An die löbliche Redaktion der Zeitung für die elegante Welt', 'an-die-loebliche-redaktion-der-zeitung-fuer-die-elegante-welt', ()),
 		    	    ('[Leipziger Literaturpöbel gegen Gutzkows Furcht vor der Preßfreiheit]', 'leipziger-literaturpoebel-gegen-gutzkows-furcht-vor-der-pressfreiheit', ()),
 			        ('[Fleischer und Cotta]', 'fleischer-und-cotta', ()),
-			        ('Der Ehrgeiz als Censor und eine Erziehung der Geister', 'der-ehrzeigt-als-censor-und-eine-erziehung-der-geister', ())
+			        ('Der Ehrgeiz als Censor und eine Erziehung der Geister', 'der-ehrgeiz-als-censor-und-eine-erziehung-der-geister', ())
                 ))
             )),
             ('Buchmarkt, verlegerische Strategien und buchhändlerischer Vertrieb', 'buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb', (

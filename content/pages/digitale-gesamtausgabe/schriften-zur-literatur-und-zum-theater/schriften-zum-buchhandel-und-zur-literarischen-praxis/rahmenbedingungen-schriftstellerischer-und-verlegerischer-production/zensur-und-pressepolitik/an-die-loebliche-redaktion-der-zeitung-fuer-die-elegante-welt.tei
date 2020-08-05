@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>K. Gutzkow, Frankfurt a. M., den 14. April 1843: An die löbliche Redaktion der Zeitung für die elegante Welt. In: Zeitung für die elegante Welt. Leipzig. Nr. 17, 26. April 1843, S. 417–418. (Rasch 3.43.04.26).</tei:bibl>
+      <tei:bibl>K. Gutzkow, Frankfurt a. M., den 14. April 1843: An die löbliche Redaktion der Zeitung für die elegante Welt. In: Zeitung für die elegante Welt. Leipzig. Nr. 17, 26. April 1843, S. 417–418. (Rasch 3.43.04.26)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,154 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="417"/>
+        <tei:seg> An die löbliche Redaktion der Zeitung für die elegante Welt.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>In Nr. 14 Ihrer Zeitschrift haben Sie einen Artikel aufgenommen, der für mich Anschuldigungen enthält, die ich nicht ohne Beantwortung lassen kann. Wenn einige „Literaten“ in Leipziger Blättern sagen, daß ich im Telegraphen gegen die Preßfreiheit gestimmt hätte, so mach’ ich mir wenig aus den Verunglimpfungen von Menschen, die, wie sie nicht schreiben können, immerhin auch mögen nicht lesen können. Wenn aber ein Organ von der bei Ihnen vorauszusetzenden Gewissenhaftigkeit sich und mich so weit vergessen kann, daß es behauptet, ich hätte im Telegraphen</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>                                      „Die Devise aufgesteckt: keine Preßfreiheit!“</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>dann zwingt mich die mit solchen, dem Zeitgeist widersprechenden Anschuldigungen verknüpfte Gefahr, Sie zu bitten, mit meinem Rufe schonender, mit meiner Ehre besonnener umzugehen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:pb n="418"/>
+        <tei:seg> Es kann Ihnen wohl nicht unbekannt sein, daß ich mit dem ersten Athemzuge meiner schriftstellerischen Existenz nur für die befreienden Grundsätze unsrer Zeit gelebt habe. Es kann Ihnen ferner nicht unbekannt sein, daß ich mich zwar der Form von Tischreden und Trinksprüchen zur Agitation nicht bediene und meine politische Überzeugung überwiegend nur in organischen Gebilden zu entwickeln suche, so oft mir aber Gelegenheit wurde, in erörternder Weise über die Fragen der Zeit zu schreiben, hab’ ich es im Sinne meiner freiesten und selbständigsten Überzeugung gethan. Daß mir diese meine eigne innere Überzeugung etwas </tei:seg>
+        <tei:hi style="letter-sparse">Apartes</tei:hi>
+        <tei:seg> giebt und meine Zeiterörterungen von denen der gedankenlos die Tagesstichwörter nachlallenden Menge abweichen, Das sollten Sie nicht minder wissen und unter Anderm mir nicht vorwerfen: ich hätte gerufen: „keine Preßfreiheit!“ Wo steht diese Warnung? Ich habe im Telegraphen gesagt: „Es lebe die Preßfreiheit, aber sie tödte uns nicht!“ Übersetzen Sie sich diese Worte in eine längere Erklärung, so werden Sie keine andre finden, als die: Es lebe die Preßfreiheit, aber sie bringe uns Heil und Segen, sie werde uns ein beglückendes Gut, sie diene dem Allgemeinen, sie sei eine Waffe in der Hand des Edlen, kein Spielzeug in der Hand des Verworfenen, sie trete nicht als Experiment auf, sondern in der Möglichkeit, uns nie wieder entzogen zu werden, endlich sie gehe Hand in Hand mit einer organischen Umgestaltung unsrer Journalistik, und befördre ihre compakte Kraft, ihre allein auf das öffentliche Leben gerichtete Allgewalt!</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ihre Leser müssen eingestehn, daß diese Wendung von der mir untergeschobenen außerordentlich verschieden ist. Es ist nun einmal ein praktischer Sinn in mir, der mich hindert, in die blaue Luft hinein den bunten Faltern des Tages nachzuspringen und zu unserm eignen Verderb, zum Verderb der guten Sache, gleich Andern abstrakte Deklamationen papagayenartig nachzusprechen. Wollte Gott, die Wortführer, die das schöne Vorrecht der Popularität haben, folgten diesem Beispiel und suchten in den Kern der Erscheinungen zu dringen, während sie nur mit der Schaale klappern und diejenigen in Verruf bringen, die nicht (wie z. B. auch in der an sich so wünschenswerthen Emancipation der Israeliten) Wort für Wort die monotonen Gassenhauer des Tages nachleiern. Von der Redaktion der Zeitung für die eleg. Welt hätt’ ich sowohl das grobe mathematische, wie das tiefere pragmatische Mißverständniß meiner Ansichten über Preßfreiheit und staatsweises Einführen derselben am wenigsten erwartet. Mindestens bitt’ ich, mich mit einem so hingeworfenen Satze, wie: „ich steckte die Devise auf: keine Preßfreiheit!“ verschonen zu wollen, einem Satze, der, wenn er nicht bösartig gemeint ist, doch bösartig wirkt und mich bei der Oberflächlichkeit, mit der man heutiges Tages Zeitungen durchblättert, leicht zu einer Parthei hinüberrücken kann, mit der ich nichts gemein habe.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich wiederhole nochmals, was ich schon einmal im Telegraphen gesagt, daß es mir leid thut, jene Überzeugungen unmittelbar vor dem Erscheinen des ungeahnten neuen Preußischen Censurediktes ausgesprochen zu haben. So lange der Staat das Prinzip der Censur noch so entschieden aufstellt, wie es dort geschehen, wollen wir uns über die </tei:seg>
+        <tei:hi style="letter-sparse">Modalitäten einer deutschen Preßfreiheit</tei:hi>
+        <tei:seg> nicht streiten, sondern nur an dem Prinzipe selbst und seiner ewigen, an sich unerschütterlichen Bedeutung festhalten. Wenn diese aufrichtige, von mir schon einmal gegebene Erklärung von gewissen Leipziger „Literaten“ mir im Munde umgedreht und entstellt wird, so bin ich längst von diesen Leuten Kindereien solcher Art gewohnt. Von Ihnen aber erwart’ ich, daß in einer Anklage, zu deren authentischer Feststellung jedes Lesezimmer, wo der Telegraph gehalten wird, Ihnen die Materialien liefert, Sie Ihre Leser nicht mit dem Scheine, sondern mit dem Wesen meiner Behauptungen bekannt machen.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Ich unterzeichne mich als einer löblichen Redaktion ganz ergebenster</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="font-weight-bold">                                                                                                                                                   K. Gutzkow</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:hi style="letter-sparse">                                                    Frankfurt am Main</tei:hi>
+        <tei:seg>, den 14. April 1843.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkows offener Brief an die Redaktion der „Zeitung für die elegante Welt“ wurde veranlasst durch die höchst kritische Reaktion, die sein Artikel → </tei:seg>
+        <tei:q>Die Furcht vor der Preßfreiheit</tei:q>
+        <tei:seg> vom 3. März 1843 in Leipziger Journalen, vor allem aber in der von Heinrich Laube redigierten „Eleganten“ ausgelöst hatte. Im Apparat zu </tei:seg>
+        <tei:q>Die Furcht vor der Preßfreiheit</tei:q>
+        <tei:seg> finden sich weitere Informationen zu den publizistischen Auseinandersetzungen um dieses Thema.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J K. Gutzkow, Frankfurt a. M., den 14. April 1843: An die löbliche Redaktion der Zeitung für die elegante Welt. In: Zeitung für die elegante Welt. Leipzig. Nr. 17, 26. April 1843, S. 417-418. (Rasch 3.43.04.26)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">87,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Satz</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Satze</tei:sic>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>3.1. Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Karl Gutzkow gegen Preßfreiheit! In: Der Komet. Leipzig. Nr. 54, 15. März 1843, S. 216. (Rasch 9/2.43.03.15.1)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Heinrich Laube:] Gutzkow hat sich gegen sofortige Bewilligung von Preßfreiheit in Deutschland ausgesprochen. [Notiz.] In: Zeitung für die elegante Welt. Leipzig. Nr. 11, 15. März 1843, S. 262. (Rasch 9/2.43.03.15.2)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Gutzkow gibt nun im „Telegraph“ einen „nothwendigen Nachtrag“ zu seinem Artikel gegen die Preßfreiheit ... In: Der Komet. Leipzig. Nr. 59, 22. März 1843, S. 236. (Rasch 9/2.43.03.22.1)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.; Friedrich Wilhelm Held?] Tagesgeschichte. Man hat es erlebt ... [Gutzkow schreibt gegen Pressefreiheit.] In: Leipziger Locomotive. Nr. 12, 22. März 1843, S. 92-93. (Rasch 9/2.43.03.22.2)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Heinrich Laube:] Politische Literatur. [Darin: Gutzkow über Pressefreiheit.] In: Zeitung für die elegante Welt. Leipzig. Nr. 14, 5. April 1843, S. 340-341. (Rasch 9/2.43.04.05)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>R[obert] B[lum]: Gutzkow, der Held des jungen Deutschland ... [Gutzkow schreibt gegen Pressefreiheit.] In: Sächsische Vaterlandsblätter. Leipzig. Nr. 56, 8. April 1843, S. 258. (Rasch 9/2.43.04.08.2)</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>5. Rezeptionsgeschichte </tei:seg>
+        <tei:hi style="font-size-small">(siehe auch Rezeptionsgeschichte zu → </tei:hi>
+        <tei:hi style="font-size-small">Die Furcht vor der Preßfreiheit</tei:hi>
+        <tei:hi style="font-size-small">)</tei:hi>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Gutzkow rechtfertigt sich in der „Zeitung für die elegante Welt“ nochmals ... In: Der Komet. Leipzig. Nr. 88, 2. Mai 1843, S. 352. (Rasch 9/2.43.05.02)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Heinrich Laube, Leipzig, den 27. April 1843: Erwiderung an Herrn </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. K. Gutzkow. In: Zeitung für die elegante Welt. Leipzig. Nr. 18, 3. Mai 1843, S. 446-447. (Rasch 9/2.43.05.03.1)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Laube hat [...] auf das erwähnte Gutzkowsche Schreiben treffend geantwortet. Indessen fährt Gutzkow fort ... In: Der Komet. Leipzig. [Beiblatt:] Telescop. Nr. 19, 12. Mai 1843, S. 76. (Rasch 9/2.43.05.12)</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier  zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

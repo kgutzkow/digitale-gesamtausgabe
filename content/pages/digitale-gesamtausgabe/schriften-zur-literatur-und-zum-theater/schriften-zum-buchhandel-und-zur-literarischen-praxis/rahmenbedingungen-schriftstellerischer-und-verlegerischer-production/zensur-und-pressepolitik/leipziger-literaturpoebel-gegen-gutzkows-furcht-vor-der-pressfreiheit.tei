@@ -13,7 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon., in Rubrik:] Aus der Schriftstellerwelt. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] April 1843, S. 275-276. (Rasch 3.43.04.29.1).</tei:bibl>
+      <tei:bibl>[Anon.:] Aus der Schriftstellerwelt. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] April 1843, S. 275-276. (Rasch 3.43.04.29.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -38,15 +41,100 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="275"/>
+        <tei:seg> [</tei:seg>
+        <tei:hi style="font-style-italic">Leipziger Literaturpöbel</tei:hi>
+        <tei:seg> gegen Gutzkows </tei:seg>
+        <tei:hi style="font-style-italic">Furcht vor der Preßfreiheit</tei:hi>
+        <tei:seg>.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>-  Die Charakteristik, die wir kürzlich in unserm Aufsatze: „Furcht vor der Preßfreiheit“ von einem gewissen Theil unsrer Presse gaben, hat der Leipziger Literaturpöbel sehr wohl verstanden. Wir hören, daß seine Blätter, die man wenigstens in Frankfurt nicht liest, jetzt überaus voll Zetergeschrei seyn sollen. Die Behauptung, daß der Telegraph heute für, morgen gegen die Preßfreiheit wäre, ist albern. Unsre Zeitschrift hat so sehr den Druck der Censur zu fühlen, daß wir ja wahnsinnig wären, dieses Joch für süß zu halten. Da wir aber gewohnt sind und der Redakteur seit zwölf Jahren gewohnt ist, nie Chorus zu machen, so haben wir auch von der Preßfreiheit die aparte Ansicht, daß wir sie so besitzen wollen, um sie nie wieder verlieren zu können. Wir würden sie aber wieder verlieren, wenn mit der Preßfreiheit nicht auch ein neuer Organismus unsrer Journalistik verbunden würde. Wir wollen Preßfreiheit für Schriftsteller, die dem Vaterlande dienen, wie in Frankreich und England die ganze Literatur dem Vaterlande dient. Jene Lotterbuben aber, die „im Schatten unserer kühlen Denkungsart,“ in der Ohnmacht unserer öffentlichen Zustände, in der Stagnation eines innationalen und unpolitischen Volksdaseyns, das Privilegium an sich gerissen haben, die Blätter mit ihrer trivialen Notizenschreiberei, mit ihrer gesinnungs- und talentlosen Feuilletonistik und den ekelhaften Gemeinheiten gegen Schauspieler und Schriftsteller anzufüllen, diese Landstreicher und Leuteverderber würden es sehr bald dahin bringen, daß die theuerwerthe Institution, der wir nur eine praktische Form und Modificirung wünschen, ein rechter Landschaden für die Menschheit werden könnte. Zur literarischen Canaille rechnen wir Menschen, die, preßfrei geworden, nicht wissen würden, welchen andern Gebrauch sie von der freien Presse machen sollten, als jede Unfläthigkeit, die ihnen gegen andere Menschen einfällt und bis jetzt noch glücklicherweise von der Anstandscensur gestrichen wird, frei heraus drucken zu lassen. Daß einmal einer von diesen Gesellen hinginge und eine Zeile gegen einen Staatsmann schriebe! Eher bisse sich der servile Schmeichler, der seine Novellen einer fürstlichen Braut widmet, Hochzeitsgedichte verfertigt und dergl., die Finger ab! Genug von dieser Misère. Die Nothwendigkeit der Preßfreiheit ist eine heilige Thatsache. Aber wenn sie kommt, dann komme sie segensreich. Sie komme nicht als Macchiavellismus, als ein Geschenk, das wir Gott danken, wieder loszuwerden, als der König Storch, den sich die Frösche vom Jupiter erbitten. Daß die Preßfreiheit ein Segen werde, dazu ist eine revidirte Grundlage der Literatur nothwendig. Die Preßfreiheit ist etwas viel zu Ernstes und Heiliges, als daß sich das, was bisher die Frechheit hatte, sich für Literatur auszugeben, noch ferner dafür ansehen ließe. Die Preßfreiheit ist nur da ein Segen, wo ihr sittlicher Ge-</tei:seg>
+        <tei:pb n="276"/>
+        <tei:seg>brauch garantirt ist. Wie diese Garantieen zu beschaffen sind, das ist eine weitere Frage, eine Frage, die für den Leipziger Literaturpöbel (eine Schande, daß der Literatenverein diese Gesellen in seinem Schooße duldet) zu hoch liegt! Auf die Verdächtigung unserer </tei:seg>
+        <tei:hi style="letter-sparse">Gesinnungen</tei:hi>
+        <tei:seg> auf das elende Handwerk der </tei:seg>
+        <tei:hi style="letter-sparse">Consequenzenmacherei</tei:hi>
+        <tei:seg> sahen wir mit ruhiger Verachtung herab. Ein Leben voller Kampf und Mühen, ein Gesinnungsstolz, der jede Lockung unehrlich erkauften Glückes verachtet hat, ein Gewissen, das sich bewußt ist, nur das Rechte, Freie und Ehrliche zu wollen, spricht uns los und reinigt uns von Allem, womit uns jene Leipziger Papierversudler begeifern möchten.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Mit der Notiz gegen den </tei:seg>
+        <tei:q>Leipziger Literaturpöbel</tei:q>
+        <tei:seg> unter der Rubrik „Aus der Schriftstellerwelt“ im „Telegraph für Deutschland“ vom 29. April 1843 beendete Gutzkow von seiner Seite die heftige publizistische Auseinandersetzung, die sein Artikel → </tei:seg>
+        <tei:q>Die Furcht vor der Preßfreiheit</tei:q>
+        <tei:seg> vom 3. März desselben Jahres ausgelöst hatte.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Aus der Schriftstellerwelt. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] April 1843, S. 275-276. (Rasch 3.43.04.29.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>3.1. Bezugstexte</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Karl Gutzkow gegen Preßfreiheit! In: Der Komet. Leipzig. Nr. 54, 15. März 1843, S. 216. (Rasch 9/2.43.03.15.1)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Heinrich Laube:] Gutzkow hat sich gegen sofortige Bewilligung von Preßfreiheit in Deutschland ausgesprochen. [Notiz.] In: Zeitung für die elegante Welt. Leipzig. Nr. 11, 15. März 1843, S. 262. (Rasch 9/2.43.03.15.2)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.:] Gutzkow gibt nun im „Telegraph“ einen „nothwendigen Nachtrag“ zu seinem Artikel gegen die Preßfreiheit ... In: Der Komet. Leipzig. Nr. 59, 22. März 1843, S. 236. (Rasch 9/2.43.03.22.1)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Anon.; Friedrich Wilhelm Held?] Tagesgeschichte. Man hat es erlebt ... [Gutzkow schreibt gegen Pressefreiheit.] In: Leipziger Locomotive. Nr. 12, 22. März 1843, S. 92-93. (Rasch 9/2.43.03.22.2)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>[Heinrich Laube:] Politische Literatur. [Darin: Gutzkow über Pressefreiheit.] In: Zeitung für die elegante Welt. Leipzig. Nr. 14, 5. April 1843, S. 340-341. (Rasch 9/2.43.04.05)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>R[obert] B[lum]: Gutzkow, der Held des jungen Deutschland ... [Gutzkow schreibt gegen Pressefreiheit.] In: Sächsische Vaterlandsblätter. Leipzig. Nr. 56, 8. April 1843, S. 258. (Rasch 9/2.43.04.08.2)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
