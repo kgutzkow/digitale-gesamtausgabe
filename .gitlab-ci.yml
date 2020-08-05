@@ -24,6 +24,7 @@ build:
     - poetry run pelican -s publishconf.py -o output -d content
   only:
     - master
+    - default
     - merge_requests
 
 validate:
