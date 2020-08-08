@@ -9,9 +9,9 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Ute Schneider</tei:name>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -26,7 +26,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.; Verf. unges.:] Wovon leben die deutschen Buchhändler? In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 19, [9. Mai] 1861, S. 379–380. (Rasch 3.61.05.09.5).</tei:bibl>
+      <tei:bibl>[Anon.; Verf. unges.:] Wovon leben die deutschen Buchhändler? In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 19, [9. Mai] 1861, S. 379–380. (Rasch *3.61.05.09.5)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,15 +37,72 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="379"/>
+        <tei:seg> Wovon leben die deutschen Buchhändler?</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Wir gestehen, diese Frage nicht mehr beantworten zu können, seitdem auf der letzten Buchhändlermesse zu Leipzig, bei Gelegenheit einer Verwilligung für die Schillerstiftung, ein Buchhändler die Aeußerung gethan hat, daß der deutsche Buchhändlerstand </tei:seg>
+        <tei:hi style="letter-sparse">wol zum wenigsten Theil von den Producten der Schriftsteller lebte</tei:hi>
+        <tei:seg>. Diese Aeußerung fand allgemeinen Beifall.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Einige dieser geehrten Herren leben allerdings mehr vom Buchbinder als vom Schriftsteller; die schöne Ausstattung ihrer Verlagsartikel hat den leichten Inhalt gehoben. Andere werden sich verpflichtet fühlen, ihre Dankbarkeit dem Erfinder der Holzschneidekunst abzutragen; ihre Artikel zogen durch die Illustrationen. Einige Verleger sind in der glücklichen Lage, Zeitungen zu besitzen, an welchen ihr geistiger Inhalt Neben-, ihre Inserate Hauptsache sind. Auch Buchhändler wird es geben, die zwar Producte von Schriftstellern an- und verkaufen, aber die Gangbarkeit derselben einem Zwangsbefehl der Regierung, irgendeinem wohllöblichen Consistorium oder einer hochpreislichen Schulbehörde verdanken. Bei alledem ist die Aeußerung und der Beifall, den sie fand, seltsam. Man muß also annehmen, daß der deutsche Buchhandel lediglich eine dilettantische Vergnügung reicher Kapitalisten ist.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Es wollen aber doch einige der Herren, die in der Nähe der Verleger Schiller’s, Goethe’s, Uhland’s, Rückert’s u. s. w. standen, die wunderbare Erscheinung bemerkt haben, </tei:seg>
+        <tei:pb n="380"/>
+        <tei:seg> daß sich bei jenem Worte und dem Jubel, der ihm folgte, auf dem am selben Tage errichteten Brustbilde des alten Freiherrn von Cotta ein kurzes, flüchtiges Lächeln beobachten ließ. Gewiß hatte der, seiner Verdienste für die enge Verbindung zwischen Schriftsteller und Verleger wegen, zum ewigen Gedächtniß in Leipzig aufgestellte kluge Kopf in demselben Augenblick eine Erinnerung an die Tausende, die ihm – die Dampfschiffahrt auf dem Bodensee und seine Theilnahme an Veredlung der würtembergischen Schafzucht verschlang und – lediglich ein gewisser Schiller ersetzen mußte.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Die Ehre des deutschen Schriftstellerstandes sollte es nachgerade mit sich bringen, daß die Verwaltung der Schillerstiftung von den in Leipzig versammelten Buchhändlern eine Beisteuer zu ihren edeln Zwecken nie wieder in Anspruch nimmt.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.; Verf. unges.:] Wovon leben die deutschen Buchhändler? In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 19, [9. Mai] 1861, S. 379–380. (Rasch *3.61.05.09.5)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

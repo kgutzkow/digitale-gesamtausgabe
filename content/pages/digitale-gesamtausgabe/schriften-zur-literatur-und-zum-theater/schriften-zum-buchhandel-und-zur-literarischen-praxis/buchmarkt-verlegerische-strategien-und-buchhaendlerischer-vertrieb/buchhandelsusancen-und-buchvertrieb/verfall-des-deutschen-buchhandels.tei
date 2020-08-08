@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 166, [16.] Oktober 1839, S. 1328. (Rasch 3.39.10.16).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 166, [16.] Oktober 1839, S. 1328. (Rasch 3.39.10.16)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,15 +41,63 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="1328"/>
+        <tei:seg> [Verfall des deutschen Buchhandels.]</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>* Man spricht soviel von dem Verfall des deutschen Buchhandels, aber die wahren Gründe desselben anzugeben, ist man nicht aufrichtig genug. Einer derselben liegt in der immer mehr abnehmenden Solidität der Sortimentshändler, an welcher diese jedoch selbst nur zum Theil schuld sind; ihr allmäliger Ruin geht von den Verlegern, den Antiquaren und den Leipziger Commissionären aus. Die bedeutendsten deutschen Verleger z. B. haben seit längerer Zeit die Gewohnheit, in Leipzig und Halle große Auktionen von ihrem Verlage zu veranstalten, so daß die an Ort und Stelle befindlichen Commissionäre zu den billigsten Preisen ganze Ballen gangbarer Artikel einkaufen können. Nun verlangt irgend ein Buchhändler in entfernten Gegenden von seinem Commissionär ein solches Werk; statt den Bestellzettel an den rechtmäßigen Verleger zu befördern, giebt dieser das Buch aus seinem eignen Vorrathe her und setzt dafür natürlich den festen Ladenpreis an. Auf diese Art sollen Leipziger Commissionäre jährlich mehre tausend Thaler zum Ruin ihrer Committenten gewinnen. Die Verleger, die einen solchen Wucherhandel </tei:seg>
+        <tei:hi style="letter-sparse">möglich</tei:hi>
+        <tei:seg> machen, sind zuletzt immer noch die tadelnswerthesten; denn wenn sie offen im Angesichte des ganzen Buchhandels ihre Artikel verauktionirten, so würden sich </tei:seg>
+        <tei:hi style="letter-sparse">Alle</tei:hi>
+        <tei:seg> assortiren können und mit keinen geheimen Umtrieben zu kämpfen haben. Auch die Antiquare sind durch diese Auktionen in den Stand gesetzt, ein Buch ganz neu für 8 Groschen zu liefern, das nebenan bei dem soliden Buchhändler nur für einen Thaler zu haben ist.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 166, [16.] Oktober 1839, S. 1328. (Rasch 3.39.10.16)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left"/>
+      <tei:head type="level-3">
+        <tei:seg>Kommentierung</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

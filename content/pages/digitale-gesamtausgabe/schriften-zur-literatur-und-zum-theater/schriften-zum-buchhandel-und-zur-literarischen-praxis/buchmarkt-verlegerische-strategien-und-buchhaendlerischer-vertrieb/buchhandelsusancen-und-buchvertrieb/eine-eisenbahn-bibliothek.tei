@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Eine Eisenbahn-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 28, [14. April] 1855, S. 448. (Rasch 3.55.04.14.4).</tei:bibl>
+      <tei:bibl>[Anon.:] Eine Eisenbahn-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 28, [14. April] 1855, S. 448. (Rasch 3.55.04.14.4)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -55,49 +59,55 @@
         <tei:seg> mit Originalien zu begründen. Man versteht darunter in Frankreich und England wohlfeile Bändchen, die theils die Eisenbahnroute, die man macht, erläutern, theils über ihre Langeweile, wenn sie nicht durch schöne Gegenden führt, hinweghelfen sollen durch eine anregende und erheiternde Lectüre. Ein Buch zu gleichem Zweck ist freilich in jedem Buchladen leicht erworben, indessen pflegt der Käufer bei der Fülle der Auswahl immer rathlos zu stehen; er hat es gern, daß ein Anderer schon vor ihm zu seinem Besten nachgedacht hat. Wohlfeilheit und ansprechendes Aeußere, besonders nicht zu kleine Lettern, die beim Rütteln der Waggons leicht ineinanderrinnen, werden dabei ebenso empfehlende Kennzeichen sein müssen wie die Namen beliebter Schriftsteller, die sogleich Jedem als eine Bürgschaft guter Unterhaltung angenehm und sich von selbst empfehlend ins Ohr klingen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die Richtung des Geschmacks ist freilich jetzt außerordentlich verschieden. Man erstaunt, wenn man zur Zeit der Messen oder der Badereisen mit zweiter oder dritter Classe einer Eisenbahn fährt und hört, welche Urtheile über Literatur gefällt werden, welche Schriftsteller beliebt sind, welche Witze belacht werden, welche dramatische Productionen gepriesen sind u.s.w. Das lustige Reich des „Kladderadatsch“ und der Herren Schulze und Müller ist so groß, daß man zuweilen versucht sein möchte, an einen totalen Stillstand in Sachen der Literatur zu glauben, einräumend, daß jene Production alles Uebrige verdrängt hat. Die Laune wird auch in dem unterhaltenden Theile einer solchen Eisenbahn-Bibliothek eine erste Rolle spielen müssen. Eine drollige Idee wird vorzugsweise fesseln und erst in zweiter Reihe werden die „Geschichten“ kommen dürfen, unter denen die von einer derben Thatsächlichkeit obenan zu stehen haben. Schließlich gehört dann noch zur vollkommenen Organisation einer solchen Eisenbahn-Bibliothek eine bequemere Verkaufsform als die unsers gewöhnlichen Buchhandels. Die Schaufenster in belebten Straßen thun es hier nicht allein. Es müßte möglich sein, diese Bibliothek auch, wie Hendschel’s „Telegraph“, auf den Eisenbahnstationen verkauft zu sehen.</tei:seg>
+        <tei:seg>Die Richtung des Geschmacks ist freilich jetzt außerordentlich verschieden. Man erstaunt, wenn man zur Zeit der Messen oder der Badereisen mit zweiter oder dritter Classe einer Eisenbahn fährt und hört, welche Urtheile über Literatur gefällt werden, welche Schriftsteller beliebt sind, welche Witze belacht werden, welche dramatische Productionen gepriesen sind u. s. w. Das lustige Reich des „Kladderadatsch“ und der Herren Schulze und Müller ist so groß, daß man zuweilen versucht sein möchte, an einen totalen Stillstand in Sachen der Literatur zu glauben, einräumend, daß jene Production alles Uebrige verdrängt hat. Die Laune wird auch in dem unterhaltenden Theile einer solchen Eisenbahn-Bibliothek eine erste Rolle spielen müssen. Eine drollige Idee wird vorzugsweise fesseln und erst in zweiter Reihe werden die „Geschichten“ kommen dürfen, unter denen die von einer derben Thatsächlichkeit obenan zu stehen haben. Schließlich gehört dann noch zur vollkommenen Organisation einer solchen Eisenbahn-Bibliothek eine bequemere Verkaufsform als die unsers gewöhnlichen Buchhandels. Die Schaufenster in belebten Straßen thun es hier nicht allein. Es müßte möglich sein, diese Bibliothek auch, wie Hendschel’s „Telegraph“, auf den Eisenbahnstationen verkauft zu sehen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Wenn wir von dem neuen Unternehmen mehr erfahren haben werden, als was die Brockhaus’sche Buchhandlung darüber in einer vorläufigen Mittheilung an Autoren veröffentlicht hat, werden wir nicht verfehlen, unsern Lesern genauere Kunde zu geben.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>In seinem anonymen Beitrag </tei:seg>
+        <tei:q>Eine Eisenbahn-Bibliothek</tei:q>
+        <tei:seg>, erschienen in den „Unterhaltungen am häuslichen Herd“ im April 1855, kündigt Gutzkow in redaktioneller Eigenschaft (</tei:seg>
+        <tei:q>wir</tei:q>
+        <tei:seg>) ein innovatives Projekt des „Unterhaltungen“-Verlegers Brockhaus an: eine zur Lektüre in der Eisenbahn konzipierte, preiswerte Buchreihe. Zu gegebener Zeit werde man diese neue Serie in den „Unterhaltungen“ besprechen. Diese Ansage wurde durch den wiederum anonym erschienenen Beitrag → </tei:seg>
+        <tei:q>Eisenbahn-Bibliotheken</tei:q>
+        <tei:seg> vom September 1855 eingehalten.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item>
-          <tei:seg>J. [Anon.:] Eine Eisenbahn-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 28, [14. April] 1855, S. 448. (Rasch 3.55.04.14.4).</tei:seg>
+          <tei:seg>J. [Anon.:] Eine Eisenbahn-Bibliothek. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 28, [14. April] 1855, S. 448. (Rasch 3.55.04.14.4)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
-      </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
