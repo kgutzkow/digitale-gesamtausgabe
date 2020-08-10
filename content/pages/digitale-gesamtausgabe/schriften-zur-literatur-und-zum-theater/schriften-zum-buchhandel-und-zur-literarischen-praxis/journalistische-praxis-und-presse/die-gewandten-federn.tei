@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35, und Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15).</tei:bibl>
+      <tei:bibl>Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35, und Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,12 +41,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="33"/>
         <tei:seg> Die gewandten Federn.</tei:seg>
       </tei:head>
@@ -92,7 +96,7 @@
       <tei:p style="text-left">
         <tei:seg>Für die gewöhnliche Publizistik im französisch-englischen Sinne ist bei uns deßhalb kein Feld, weil die Bedingungen, unter denen sich bei uns „gewandte Federn“ für die Erörterung politischer Fragen ausbilden könnten, von den Ländern, wo ein großes Staatsleben herrscht, gänzlich verschieden sind. Nur da, wo ein gleichberechtigter Kampf gleichberechtigter Partheien herrscht, kann sich die Feder zu der allerdings sehr eigenthümlich bedingten politischen Polemik ausbilden. Der Publizist muß sich vor allen Dingen anlehnen dürfen an etwas Positives. Dieses Positive ist entweder eine mehr oder weniger bedingte Vertrautheit mit dem energisch ausgesprochenen Willen und Trachten der Regierung, oder eine Opposition, die sich innerhalb legaler Formen ohne Menschenfurcht bewegen darf, oder doch wenigstens eine Parthei, die es zum Allermindesten dahin gebracht hat, daß die ihr System, ihre Wünsche und Bestrebungen verfechtende </tei:seg>
         <tei:hi style="letter-sparse">Zeitung</tei:hi>
-        <tei:seg> auf einem materiell gesicherten Boden beruht. Aber wie wenig erreichen unsere Zustände diese Grundbedingungen der Publizistik! Da wo die Regierungen wissen, was sie wollen, gerade da scheut man am ersten die Vertrauten dieses Willens zu vermehren, ja zieht es sogar nicht selten vor, um eben den Kampf mit der Waffe zu vermeiden, ihren wahren Willen zu cachiren. Man hat da, wo es keine Verantwortlichkeit giebt, kaum das Bedürfniß, auch aller Welt im günstigen Lichte zu erscheinen. In dem plötzlichen Er-</tei:seg>
+        <tei:seg> auf einem materiell gesicherten Boden beruht. Aber wie wenig erreichen unsere Zustände diese Grundbedingungen der Publizistik! Da wo die Regierungen wissen, was sie wollen, gerade da scheut man am ersten die Vertrauten dieses Willens zu vermehren, ja zieht es sogar nicht selten vor, um eben den Kampf mit der Masse zu vermeiden, ihren wahren Willen zu cachiren. Man hat da, wo es keine Verantwortlichkeit giebt, kaum das Bedürfniß, auch aller Welt im günstigen Lichte zu erscheinen. In dem plötzlichen Er-</tei:seg>
         <tei:pb n="35"/>
         <tei:seg>öffnen einer publizistischen Arena, z. B. kurz vor Eröffnung einer Ständekammer, hat sich noch kein nachhaltiges Talent entwickeln können, im Gegentheil haben zwei süddeutsche Staaten noch jetzt die unangenehmen Erinnerungen an völlig nutzlos gebliebene „Engagements“ theuer genug durch nutzlos verzehrte Pensionen zu büßen. Steht irgend ein Publizist irgendwo der Regierung näher, so wird ihm selten mehr zu vertheidigen überlassen, als nur ein </tei:seg>
         <tei:hi style="letter-sparse">Prinzip</tei:hi>
@@ -132,31 +136,40 @@
         <tei:seg> verloren hat auf der einen Seite, auf der andern in eine Politik, die die ganze Frage des Jahrhunderts nur nach den Grundsätzen eines willkürlich erdachten und in der Luft schwebenden „Staatsbürgerrechtes“ zu beurtheilen versteht.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die wahre deutsche Publizistik, die sich aus diesen organisch verschmolzenen poetischen und juristischen Elementen gebildet hat und immer noch mehr bilden wird, kann allerdings nie eine Schule, nie eine Methode werden, sondern sie wird immer nur Blüthe des Talentes seyn. In dieser Art war Fichte ein ächter deutscher Publizist, war es 1815 Görres, war es Arndt und sind es hie und da noch manche „Köpfe“, die wohl nur darum nicht die „rechten“ scheinen, weil das Wesen dieser einzigwahren deutschen Publizistik die innere Überzeugung ist. Diese Blüthe des Talentes ist eine Himmelsgunst. Diese Publizistik redet mit Feuerzungen, nicht im kühlen Tone gemachter Verständigkeit, sie ist leidenschaftlich in Liebe und Haß, nicht annähernd sich interessirend oder von sich weisend, sie ficht mit dem breiten Schwerte der Satyre, nicht mit dem kurzen Stoßdegen der Ironie. Die Publizisten von ächtem Schrot und Korn, wie sie nur wahrhaft auf die deutsche Nation zu wirken vermögen, sind freie, selbständige Charaktere, die „gewandten Federn“ nur schwache Pflanzen, die des Spaliers bedürfen, um sich halten zu können. Jene verschießen vielleicht mit einem einzigen Wort ihr ganzes Pulver, diese geizen mit ihrem kleinen Vorrath und mögen aus einem Hinterhalte wohl oft glücklicher treffen, als jene in ihrer blinden Ehrlichkeit. Die wahre, wirksame deutsche Publizistik wird aber nie ein bloßes Styltalent, nie ein bloßes Magazin von historischen, an sich achtbaren Kenntnissen seyn, sondern sie muß haben, was der Franzose </tei:seg>
+        <tei:seg>Die wahre deutsche Publizistik, die sich aus diesen organisch verschmolzenen poetischen und juristischen Elementen gebildet hat und immer noch mehr bilden wird, kann allerdings nie eine Schule, nie eine Methode werden, sondern sie wird immer nur Blüthe des Talentes seyn. In dieser Art war Fichte ein ächter deutscher Publizist, war es 1815 Görres, war es Arndt und sind es hie und da noch manche „Köpfe,“ die wohl nur darum nicht die „rechten“ scheinen, weil das Wesen dieser einzigwahren deutschen Publizistik die innere Überzeugung ist. Diese Blüthe des Talentes ist eine Himmelsgunst. Diese Publizistik redet mit Feuerzungen, nicht im kühlen Tone gemachter Verständigkeit, sie ist leidenschaftlich in Liebe und Haß, nicht annähernd sich interessirend oder von sich weisend, sie ficht mit dem breiten Schwerte der Satyre, nicht mit dem kurzen Stoßdegen der Ironie. Die Publizisten von ächtem Schrot und Korn, wie sie nur wahrhaft auf die deutsche Nation zu wirken vermögen, sind freie, selbständige Charaktere, die „gewandten Federn“ nur schwache Pflanzen, die des Spaliers bedürfen, um sich halten zu können. Jene verschießen vielleicht mit einem einzigen Wort ihr ganzes Pulver, diese geizen mit ihrem kleinen Vorrath und mögen aus einem Hinterhalte wohl oft glücklicher treffen, als jene in ihrer blinden Ehrlichkeit. Die wahre, wirksame deutsche Publizistik wird aber nie ein bloßes Styltalent, nie ein bloßes Magazin von historischen, an sich achtbaren Kenntnissen seyn, sondern sie muß haben, was der Franzose </tei:seg>
         <tei:foreign>entrailles</tei:foreign>
         <tei:seg> nennt, Eingeweide, Herz und Nieren, den ungeduldigen Muth eines Rennpferdes, das da schnaubt und dampft und mit den Füßen scharrt und vor Verlangen, seine Kräfte zu messen, mit den Hufen die Planke einstampfen möchte, die ihn vom Schauplatz seines Ruhmes trennt. Wohl dann freilich jener Sache, die auf eine solche Natur verpfändet und verwettet ist! Ob ein Fürst oder ein Volk, sein Wohl wird gut berathen seyn. Ich sagte, wir hätten noch einige solcher Publizisten? Vielleicht viele, nur reden sie nicht; denn das ist auch ein Talent dieser wahren Publizisten, daß eine sehr tiefe, bedeutungsvolle Beredsamkeit in ihrem Schweigen liegt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Wenn Ihr also wieder leset: Es wollten sich noch immer nicht die rechten Köpfe finden lassen, so lächelt darüber und denkt: die rechten Köpfe sind schon da, es fehlen nur die Augen, die sie sehen, und die Ohren, die sie hören wollen. Wenn in einem Cabinet das Echo des Zeitgeists widertönt, wenn die Staatskunst sich es zur Ehre rechnet, nichts zu seyn, als das Organ der intelligenten Majorität einer Nation, dann würden ihr auch die gewandten Federn von allen Seiten zufliegen. Sollen aber die Publizisten nichts seyn, als bloße gedankenlose Stylkünstler, die zu Mehl und Lebensbrod dasjenige Korn verwandeln sollen, was ihnen von fremder Hand zum Mahlen aufgeschüttet wird, dann hat man freilich das Recht, unsere Literatur talentlos und lückenhaft zu nennen. Nennt Ihr’s Armuth, wir nennen’s Reichthum.</tei:seg>
       </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>                                                                                                      </tei:seg>
+        <tei:hi style="font-size-small letter-sparse">Frankfurt a. M.</tei:hi>
+        <tei:hi style="font-size-small">                            </tei:hi>
+        <tei:signed>
+          <tei:hi style="font-size-small">Karl Gutzkow</tei:hi>
+        </tei:signed>
+        <tei:hi style="font-size-small">.</tei:hi>
+      </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -164,19 +177,49 @@
           <tei:seg>J. Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35; Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">203,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Waffe</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Masse</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">206,28-29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:foreign>
+          <tei:hi style="letter-sparse">rotten borough</tei:hi>
+          <tei:lem>-Wesen</tei:lem>
+        </tei:foreign>
+        <tei:seg> lies: </tei:seg>
+        <tei:foreign>
+          <tei:seg>rotten borough</tei:seg>
+          <tei:sic>-Wesen</tei:sic>
+        </tei:foreign>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">207,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Köpfe“,</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Köpfe,“</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

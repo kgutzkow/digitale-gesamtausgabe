@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Buchhandel und Kritik. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 27, [4. Juli] 1861, S. 540. (Rasch 3.61.07.04.3).</tei:bibl>
+      <tei:bibl>[Anon.:] Buchhandel und Kritik. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 27, [4. Juli] 1861, S. 540. (Rasch 3.61.07.04.3)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,12 +41,12 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="540"/>
         <tei:seg> Buchhandel und Kritik.</tei:seg>
       </tei:head>
@@ -53,7 +57,7 @@
         <tei:seg>Es geht eine mehr oder weniger verbürgte Sage, derzufolge die Zeitschriften für diese oft massenhaften Anhäufungen in ihren Redactionsbureaux keinen Platz haben, sondern sie zum Antiquar, zum Leihbibliothekar oder in die Auction schicken – oft freilich, ohne die Bücher kaum angesehen, zuweilen sie nicht einmal aufgeschnitten zu haben.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die „Rheinische Verlagshandlung“ in Bonn, geführt von einem Schriftsteller, die die schlechten Gewohnheiten der Redactionen kennen muß (H. Oelbermann), versendet ihre neuesten Verlagsartikel an die Zeitschriften mit folgenden Worten: „Hierbei empfangen Sie in Ihrer Eigenschaft als </tei:seg>
+        <tei:seg>Die „Rheinische Verlagshandlung“ in Bonn, geführt von einem Schriftsteller, der die schlechten Gewohnheiten der Redactionen kennen muß (H. Oelbermann), versendet ihre neuesten Verlagsartikel an die Zeitschriften mit folgenden Worten: „Hierbei empfangen Sie in Ihrer Eigenschaft als </tei:seg>
         <tei:hi style="letter-sparse">räsonnirendes kritisches</tei:hi>
         <tei:seg> Organ folgende Neuigkeiten unsers Verlags – Wir werden nur mit solchen Organen eine dauernde Verbindung unterhalten, </tei:seg>
         <tei:hi style="letter-sparse">welche unser Vertrauen</tei:hi>
@@ -81,22 +85,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -104,19 +108,29 @@
           <tei:seg>J. [Anon.:] Buchhandel und Kritik. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 27, [4. Juli] 1861, S. 540. (Rasch 3.61.07.04.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Textänderungen nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">233,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>die die</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>der die</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

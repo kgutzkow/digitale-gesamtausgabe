@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Soll sich die Theaterkritik bestechen lassen? Eine Zeitfrage. Beantwortet von einem Theaterreferenten. In: Telegraph für Deutschland. Hamburg. Nr. 187, [22.] November 1839, S. 1489–1491, und Nr. 188, [23.] November 1839, S. 1497-1501. (Rasch 3.39.11.22).</tei:bibl>
+      <tei:bibl>[Anon.:] Soll sich die Theaterkritik bestechen lassen? Eine Zeitfrage. Beantwortet von einem Theaterreferenten. In: Telegraph für Deutschland. Hamburg. Nr. 187, [22.] November 1839, S. 1489–1491, und Nr. 188, [23.] November 1839, S. 1497-1501. (Rasch 3.39.11.22)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,7 +41,7 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -72,7 +76,7 @@
       <tei:p style="text-left">
         <tei:seg>Ich bin der festen Meinung, daß dermaleinst vor Gottes Thron jeder Rezensent für gerecht befunden wird, der sich die Mühe gegeben hat, die Sängerin Artemisia zu loben und dafür Geld nahm. Bin ich auf ein ewiges Leben angewiesen? Hab’ ich nicht Ursache, mit meiner Zeit zu geizen? Es ist ein schöner Sommerabend. Die Mücken spielen in den schattigen Gängen unserer Promenade, die Frösche quaken so melancholisch zum Lied einer einsam nistenden Nachtigall. Ich will mit meiner Frau und meinen Kindern einen Spaziergang machen; habe </tei:seg>
         <tei:pb n="1491"/>
-        <tei:seg> des Tages Last und Hitze getragen; will die Brust ausdehnen in Gottes freier Natur. Nun soll ich ins Theater, um Artemisia zu hören? Ich kann die Sänger des Haines hören und soll die falschen Töne einer mittelmäßigen Catalani aufnehmen? Ich soll den freien, frischen Odem der Natur mit Lampenqualm vertauschen und mir durch Herausgehen aus einem drückendheißen Theater eine Erkältung zuziehen? Ich sehe nicht ein, der Arzt setzt für einen Nachtbesuch mehr an, als für einen Besuch am Tage. Was brauch’ ich in’s Theater zu gehen? Ich thu’ es nicht, wenn Artemisia mich nicht dafür entschädigt. Da ist Kirchweih in Mückenbach, Conzert in Fliegenheim, da ist eine Whistparthie in der Ressouree, bei der ich fehle; ja ich habe nicht selten Ursache, zu Haus zu bleiben, muß an einer Übersetzung, an einer Correspondenz arbeiten. Nein, Artemisia, unter diesen Umständen schlag’ ich meine Zelt, die mir das Theuerste ist, zu einem festen Preise an und setze voraus, daß mir das versäumte Lied der Nachtigall, die versäumte Whistparthie, die Möglichkeit einer hartnäckigen Erkältung mit einer angemessenen Summe abgekauft wird.</tei:seg>
+        <tei:seg> des Tages Last und Hitze getragen; will die Brust ausdehnen in Gottes freier Natur. Nun soll ich ins Theater, um Artemisia zu hören? Ich kann die Sänger des Haines hören und soll die falschen Töne einer mittelmäßigen Catalani aufnehmen? Ich soll den freien, frischen Odem der Natur mit Lampenqualm vertauschen und mir durch Herausgehen aus einem drückendheißen Theater eine Erkältung zuziehen? Ich sehe nicht ein, der Arzt setzt für einen Nachtbesuch mehr an, als für einen Besuch am Tage. Was brauch’ ich in’s Theater zu gehen? Ich thu’ es nicht, wenn Artemisia mich nicht dafür entschädigt. Da ist Kirchweih in Mückenbach, Conzert in Fliegenheim, da ist eine Whistparthie in der Ressource, bei der ich fehle; ja ich habe nicht selten Ursache, zu Haus zu bleiben, muß an einer Übersetzung, an einer Correspondenz arbeiten. Nein, Artemisia, unter diesen Umständen schlag’ ich meine Zelt, die mir das Theuerste ist, zu einem festen Preise an und setze voraus, daß mir das versäumte Lied der Nachtigall, die versäumte Whistparthie, die Möglichkeit einer hartnäckigen Erkältung mit einer angemessenen Summe abgekauft wird.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Wir leben in einer Zeit, wo die Bedürfnisse sich so außerordentlich gesteigert haben, daß der Bruder vom Bruder nichts mehr umsonst verlangt. Jede Arbeit ist ihres Lohnes werth; jede Gefälligkeit ohnehin. Wem ich nütze, dem kann ich mit ruhigem Gewissen: Halbpart! zurufen. Roscius und Artemisia brauchen mich; warum sollt’ ich blöde seyn? Ich nütze ihnen, ich verschaff’ ihnen ein volles Haus; ich sichre ihnen auswärts Engagements; ich nütze ihnen schon dadurch, daß ich ihrer nur erwähne. Ein Paar Stiefeln macht mir niemand umsonst; einen Rock auch nicht; warum soll ich den Schauspielern Stiefeln und Röcke an den Leib rezensiren, und davon nicht so viel haben, um meine eignen Bedürfnisse zu befriedigen? „Was ist mir Hekuba!“ Ich bin Familienvater und muß mein kleines Talent und meine Stellung so ergiebig wie möglich machen. Ich nütze dem einheimischen und fremden Künstler, wenn ich ihn lobend bespreche; es ist nicht mehr wie billig, daß er mich dafür entschädigt.</tei:seg>
@@ -87,7 +91,7 @@
       </tei:p>
       <tei:p style="text-left">
         <tei:pb n="1498"/>
-        <tei:seg> Es sind, ich gesteh’ es, allerdings auch schon Fälle vorgekommen, daß ich eine mittelmäßige Leistung mehr als gebührlich angepriesen habe. Es ist dies sonst meine Art nicht. Ich habe für die außerordentlichen Talente immer einige Dämpfer für mein Lob bereit; ebenso auch für das Unbedeutende mancherlei Phrasen, die die goldne Mittelstraße halten. Das Publikum ist aus meiner Feder ein ruhiges, nüchternes Lob gewöhnt; ebenso ist mein Tadel nie verwundend. Ich setze immer voraus, daß meine Leser schon wissen, wie ich gelaunt bin; daß sie wissen, was ich im Ernst oder aus Convenienz sage. Aber manchmal, ich gesteh’ es, streich’ ich auch das Mittelmäßige mehr als billig heraus. Du lieber Gott! Was ist dabei verloren? Wird darum die Axe des Weltgebäudes brechen? Werden deßhalb die spanischen, orientalischen und hannöverschen Lebensfragen unerledigt bleiben? Wenn ich nun auch einmal ein mittelmäßiges Talent ein wenig über die Gebühr (daß die </tei:seg>
+        <tei:seg> Es sind, ich gesteh’ es, allerdings auch schon Fälle vorgekommen, daß ich eine mittelmäßige Leistung mehr als gebührlich angepriesen habe. Es ist dies sonst meine Art nicht. Ich habe für die außerordentlichsten Talente immer einige Dämpfer für mein Lob bereit; ebenso auch für das Unbedeutende mancherlei Phrasen, die die goldne Mittelstraße halten. Das Publikum ist aus meiner Feder ein ruhiges, nüchternes Lob gewöhnt; ebenso ist mein Tadel nie verwundend. Ich setze immer voraus, daß meine Leser schon wissen, wie ich gelaunt bin; daß sie wissen, was ich im Ernst oder aus Convenienz sage. Aber manchmal, ich gesteh’ es, streich’ ich auch das Mittelmäßige mehr als billig heraus. Du lieber Gott! Was ist dabei verloren? Wird darum die Axe des Weltgebäudes brechen? Werden deßhalb die spanischen, orientalischen und hannöverschen Lebensfragen unerledigt bleiben? Wenn ich nun auch einmal ein mittelmäßiges Talent ein wenig über die Gebühr (daß die </tei:seg>
         <tei:hi style="letter-sparse">mir</tei:hi>
         <tei:seg> zukommenden </tei:seg>
         <tei:hi style="letter-sparse">Gebühren</tei:hi>
@@ -144,22 +148,22 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -177,31 +181,91 @@
           <tei:seg>E. Soll sich die Theaterkritik bestechen lassen? Eine Zeitfrage. Beantwortet von einem Theaterreferenten. In: Karl Gutzkow: Mosaik. Novellen u. Skizzen. (Vermischte Schriften. Bd. 3.) Leipzig: Weber, 1842. S. 179-188. (Rasch 2.23.3.12)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>J</tei:seg>
         <tei:hi style="sup">1</tei:hi>
-        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      <tei:head data-heading-id="" type="level-4"/>
+      <tei:p style="no-indent text-left"/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">7,30</tei:citedRange>
+        <tei:seg>In der Buchausgabe (GWB IV, Bd. 7, S. 284) wurde irrtümlich ein Texteingriff verzeichnet.  </tei:seg>
+        <tei:citedRange type="page-line-ref">193,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Voranstaltung</tei:lem>
-        <tei:seg> </tei:seg>
-        <tei:sic>Boranstaltung</tei:sic>
+        <tei:seg> Lies: so in J</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Folgende Textkorrekturen sind zu verzeichnen:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">188,23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ressouree</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Ressource</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">189,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sein</tei:lem>
+        <tei:seg> lies: seyn</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">190,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>außerordentlichen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>außerordentlichsten</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">190,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>mir</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>
+          <tei:hi style="letter-sparse">mir</tei:hi>
+        </tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">190,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Bewußtsein</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Bewußtseyn</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">191,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sein</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>seyn</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">192,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sein</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>seyn</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">192,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>kommt</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>kömmt</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

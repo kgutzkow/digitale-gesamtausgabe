@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Das Publicum und die Zeitschriften. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 3, Nr. 1, [3. Oktober] 1857, S. 15–16. (Rasch 3.57.10.03).</tei:bibl>
+      <tei:bibl>[Anon.:] Das Publicum und die Zeitschriften. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 3, Nr. 1, [3. Oktober] 1857, S. 15–16. (Rasch 3.57.10.03)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,56 +41,56 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="15"/>
         <tei:seg> Das Publicum und die Zeitschriften.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Früher, in den guten alten Zeiten, pflegte ein Autor in überschwänglicher Widmung sein Buch irgendeinem vornehmen Gönner zu Füßen zu legen und in "ersterbende Demuth" seines Beifalls zu harren.</tei:seg>
+        <tei:seg>Früher, in den guten alten Zeiten, pflegte ein Autor in überschwänglicher Widmung sein Buch irgendeinem vornehmen Gönner zu Füßen zu legen und in „ersterbender Demuth“ seines Beifalls zu harren.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Später, als die Zahl der Leser wuchs und selten nur noch ein Einzelner als Mäcenas aus der großen Masse hervorragte, begannen die Vorreden mit schmeichelnden Anreden, wie "Lieber Leser" oder auch "Vielgeliebter Leser", und in den kunstreichen Wendungen suchte die geübte Feder das verehrungswürdige Publicum für den neuen Roman zu stimmen und zu gewinnen.</tei:seg>
+        <tei:seg>Später, als die Zahl der Leser wuchs und selten nur noch ein Einzelner als Mäcenas aus der großen Masse hervorragte, begannen die Vorreden mit schmeichelnden Anreden, wie „Lieber Leser“ oder auch „Vielgeliebter Leser“, und in den kunstreichsten Wendungen suchte die geübte Feder das verehrungswürdige Publicum für den neuen Roman zu stimmen und zu gewinnen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Auch das ist vorbei: die Zeitschriften sind an die Stelle der Bücher getreten, auf wenige Spalten wird der Inhalt eines Folianten zusammengedrängt. Eine neue Macht will eine eigene Münze haben und die Journale locken und zahlen, wie Creditanstalten, Eisenbahnen, alle neu auftretenden Gewalten dieses Jahrhunderts – mit Versprechungen. Hier werden Prämien für die Abonnenten ausgesetzt, Schiller's Werke, Stahlstiche der besten Meister, seidene Kleider und Sammetmantillen, selbst eine jährliche Rente für lebenslängliche Abnehmer ist nichts Seltenes mehr; dort verheißt man Novellen und Aufsätze der ersten Schriftsteller der deutschen Nation, den gediegensten Inhalt, eine "nie dagewesene" Billigkeit.</tei:seg>
+        <tei:seg>Auch das ist vorbei: die Zeitschriften sind an die Stelle der Bücher getreten, auf wenige Spalten wird der Inhalt eines Folianten zusammengedrängt. Eine neue Macht will eine eigene Münze haben und die Journale locken und zahlen, wie Creditanstalten, Eisenbahnen, alle neu auftretenden Gewalten dieses Jahrhunderts – mit Versprechungen. Hier werden Prämien für die Abonnenten ausgesetzt, Schiller’s Werke, Stahlstiche der besten Meister, seidene Kleider und Sammetmantillen, selbst eine jährliche Rente für lebenslängliche Abnehmer ist nichts Seltenes mehr; dort verheißt man Novellen und Aufsätze der ersten Schriftsteller der deutschen Nation, den gediegensten Inhalt, eine „nie dagewesene“ Billigkeit.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Das Publicum staunt, starrt – Den lockt die Rente, jene schöne Dame ein Gewand von dunkelrothem Damast, ein Enthusiast läßt sich von "den großen Namen" fangen und am Ende – aber hier lassen wir den Schleier über die Geheimnisse der Journalliteratur fallen.</tei:seg>
+        <tei:seg>Das Publicum staunt, starrt – Den lockt die Rente, jene schöne Dame ein Gewand von dunkelrothem Damast, ein Enthusiast läßt sich von „den großen Namen“ fangen und am Ende – aber hier lassen wir den Schleier über die Geheimnisse der Journalliteratur fallen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Allein verlangt das Publicum Offenheit, Wahrheit, will es nicht von glänzenden Maskenspielen und Täuschungen geblendet werden? Hat es Tage gegeben, wo das Heiligste wie das Niedrigste sich mehr mit einem Glorienschein umgaben als die unserigen? Steht jetzt nicht fast Jeder auf erborgtem Kothurn? Und doch – diese Masken müssen herab, Lüge muß wieder Lüge sein, soll der Abgrund, den sie heimtückisch zu unsern Füßen graben, nicht zu dem werden, in den vor noch nicht hundert Jahren das alte Europa versank und den wir, die Enkel, schaudernd und bewundernd die Französische Revolution nennen. Denn Eins hängt am Andern, mit der sinkenden Kunst tritt auch der Verfall des Lebens, der Sitten, der politischen Macht eines Volks ein, und wer dem Einen widerstrebt, leistet Allem Widerstand.</tei:seg>
+        <tei:seg>Allein verlangt das Publicum Offenheit, Wahrheit, will es nicht von glänzenden Maskenspielen und Täuschungen geblendet werden? Hat es Tage gegeben, wo das Heiligste wie das Niedrigste sich mehr mit einem Glorienschein umgeben als die unserigen? Steht jetzt nicht fast Jeder auf erborgtem Kothurn? Und doch – diese Masken müssen herab, Lüge muß wieder Lüge sein, soll der Abgrund, den sie heimtückisch zu unsern Füßen graben, nicht zu dem werden, in den vor noch nicht hundert Jahren das alte Europa versank und den wir, die Enkel, schaudernd und bewundernd die Französische Revolution nennen. Denn Eins hängt am Andern, mit der sinkenden Kunst tritt auch der Verfall des Lebens, der Sitten, der politischen Macht eines Volks ein, und wer dem Einen widersteht, leistet Allem Widerstand.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>In diesem Kampfe nicht unthätig und furchtsam zu werden, sondern voranzugehen, soweit unsere Kraft es erlaubt, sei auch ferner unsere Pflicht wie in den frühern Jahren. Wir brauchen dem Publicum keine Versprechungen zu machen, es kennt unsere "Unterhaltungen" und ist ihnen, wie wir hoffen, immer ein </tei:seg>
+        <tei:seg>In diesem Kampfe nicht unthätig und furchtsam zu werden, sondern voranzugehen, soweit unsere Kraft es erlaubt, sei auch ferner unsere Pflicht wie in den frühern Jahren. Wir brauchen dem Publicum keine Versprechungen zu machen, es kennt unsere „Unterhaltungen“ und ist ihnen, wie wir hoffen, immer ein </tei:seg>
         <tei:pb n="16"/>
         <tei:seg> lieber, theilnehmender Freund. Stolz auf seine Gunst, nicht auf unsere Leistungen, sind wir zufrieden, Samenkörner des Guten und Schönen ausgestreut zu haben und auszustreuen, die, so klein und gering sie immer sein mögen, die Zukunft zu Blüten und Früchten heranreifen lassen wird.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Damit bieten wir allen unsern Freunden diesseits und jenseit des Meeres unsern Gruß.</tei:seg>
+        <tei:seg>Damit bieten wir allen unsern Freunden diesseit und jenseit des Meeres unsern Gruß.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -94,29 +98,62 @@
           <tei:seg>J. [Anon.:] Das Publicum und die Zeitschriften. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 3, Nr. 1, [3. Oktober] 1857, S. 15–16. (Rasch 3.57.10.03)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref">1,28</tei:citedRange>
+        <tei:seg>In der Buchausgabe (GWB IV, Bd. 7) wurde ein Texteingriff vorgenommen, der rückgängig gemacht wurde:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">232,12</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>umgaben</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>umgeben</tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe sind folgende Textkorrekturen zu vermerken:</tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Vor </tei:seg>
+        <tei:hi style="font-weight-bold">231,16</tei:hi>
+        <tei:seg> fehlt der erste Abschnitt des Textes: </tei:seg>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:q>Früher, in den guten alten Zeiten, pflegte ein Autor in überschwänglicher Widmung sein Buch irgendeinem vornehmen Gönner zu Füßen zu legen und in „ersterbender Demuth“ seines Beifalls zu harren.</tei:q>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">231,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>kunstreichen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>kunstreichsten</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">232,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>widerstrebt</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>widersteht</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">232,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>diesseits und jenseits</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>diesseit und jenseit</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left"/>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

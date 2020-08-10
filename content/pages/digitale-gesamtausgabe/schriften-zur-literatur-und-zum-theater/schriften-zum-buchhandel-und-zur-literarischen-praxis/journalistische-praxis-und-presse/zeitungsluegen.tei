@@ -13,6 +13,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -26,7 +30,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Karl] G[utzkow]: Zeitungslügen. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] Mai 1843, S. 276. (3.43.04.29.2).</tei:bibl>
+      <tei:bibl>[Karl] G[utzkow]: Zeitungslügen. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] Mai 1843, S. 276. (3.43.04.29.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -37,24 +41,24 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2013-07" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2020-08" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="276"/>
         <tei:seg> Zeitungslügen.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Kein Journalismus tastet so im Ungewissen, wie der deutsche. Keiner ist so reich an Erfindungen, unbegründeten Gerüchten, unmaaßgeblichen Vermuthungen, keiner so auf die enge Gränzlinie zwischen Lüge und Wahrheit eingekeilt, wie der deutsche. Es ist dies eine Folge unserer politischen und preßgesetzlichen Zustände. Die Presse entfaltet bei uns eine außerordentlich lebhafte Thätigkeit, ohne ein rechtes Material dafür zu haben. Alles will schreiben, Alles will lesen und nichts ist gewiß, nichts kann man verbürgen. Die Zeitungen wollen gefüllt seyn, und so erfinden sie. Sie erfinden keine großen Puffs, keine muthvollen Extravaganzen, aber sie erfinden eine Unsumme kleinen Materials, das sich von Zeitung zu Zeitung schleppt, kleine Vermuthungen, kleine Gerüchte. „Man will wissen“ – „Man behauptet in großen Cirkeln“ – „Einem ziemlich verbreiteten Gerücht zufolge“ – kurz die deutsche Zeitungspresse lebt nur zur Hälfte von Thatsachen. Die andere Hälfte ihres Stoffes liefert die Einbildungskraft.</tei:seg>
+        <tei:seg>Kein Journalismus tastet so im Ungewissen, wie der deutsche. Keiner ist so reich an Erfindungen, unbegründeten Gerüchten, unmaaßgeblichen Vermuthungen, keiner so auf die enge Gränzlinie zwischen Lüge und Wahrheit eingekeilt, wie der deutsche. Es ist dies eine Folge unserer politischen und preßgesetzlichen Zustände. Die Presse entfaltet bei uns eine außerordentlich lebhafte Thätigkeit, ohne ein rechtes Material dafür zu haben. Alles will schreiben, Alles will lesen und nichts ist gewiß, nichts kann man verbürgen. Die Zeitungen wollen gefüllt seyn, und so erfinden sie. Sie erfinden keine großen Puffs, keine muthvollen Extravaganzen, aber sie erfinden eine Unsumme kleinen Materials, das sich von Zeitung zu Zeitung schleppt, kleine Vermuthungen, kleine Gerüchte. „Man will wissen“ – „Man behauptet in großen Cirkeln“ – „Einem ziemlich verbreiteten Gerüchte zufolge“ – kurz die deutsche Zeitungspresse lebt nur zur Hälfte von Thatsachen. Die andere Hälfte ihres Stoffes liefert die Einbildungskraft.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Wie will das auch anders seyn? Die deutsche Zeitungspresse ist unsern politischen Zuständen bei weitem voran. Nicht innerlich, aber äußerlich. Sie verbraucht ein enormes Quantum von Papier. Die Bogenzahl ist im Vergleich des Inhalts ungeheuer. Wir erstaunen, daß die erste Zeitung der Welt, </tei:seg>
         <tei:hi style="letter-sparse">die Times</tei:hi>
         <tei:seg>, weniger Exemplare absetzt, als z. B. das </tei:seg>
         <tei:hi style="letter-sparse">Frankfurter Journal</tei:hi>
-        <tei:seg>. Wären unsere Zeitungen theuer und läge nicht der Druck der Stempelabgabe und der Postaufschläge auf ihnen, sie müßten in einer Zeit des so erschwerten Industrialismus den reinsten Gewinn abwerfen. Unsere Zeitungen rivalisiren mit einander. Sie suchen sich den Rang abzugewinnen. Wie können sie dies, da sie doch zum größten Theile farblos und ohne Bedeutung für den Partheigeist sind? Sie können es nur durch die Waffe bedruckten Papiers, durch das Aufgebot aller ihrer Kräfte, um in verschiedenen deutschen Städten sogenannte „gutunterrichtete“ Correspondenten zu haben.</tei:seg>
+        <tei:seg>. Wären unsere Zeitungen theuer und läge nicht der Druck der Stempelabgabe und der Postaufschläge auf ihnen, sie müßten in einer Zeit des so erschwerten Industrialismus den reinsten Gewinn abwerfen. Unsere Zeitungen rivalisiren mit einander. Sie suchen sich den Rang abzugewinnen. Wie können sie dies, da sie doch zum größten Theile farblos und ohne Bedeutung für den Partheigeist sind? Sie können es nur durch die Masse bedruckten Papiers, durch das Aufgebot aller ihrer Kräfte, um in verschiedenen deutschen Städten sogenannte „gutunterrichtete“ Correspondenten zu haben.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Die Correspondenten bekommen brief- oder bogenweise bezahlt. Man darf täglich, wöchentlich, vierzehntäglich einen Bericht einsenden. Woher den Stoff nehmen? Die Politik macht sich in Deutschland bei verschlossenen Thüren, die Beamten dürfen den Gang der Geschäfte nicht verrathen, große Diebstähle, Unglücksfälle, Mordthaten wollen sich nicht alle Tage begeben. Daher jene eigenthümliche Conjekturalpolitik der deutschen Zeitungen, jene Muthmaaßungen, die, wenn nicht immer Lügen, doch überwiegend Unwahrheiten sind. Der materielle Höhestand der deutschen Zeitungspresse hat ein Bedürfniß nach erweitertem Mittheilungsstoffe erschaffen und dies Bedürfniß läßt sich bei der Mangelhaftigkeit unserer sonstigen Zustände kaum anders befriedigen, als durch Phantasiegebilde.</tei:seg>
@@ -66,22 +70,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -89,19 +93,36 @@
           <tei:seg>J. [Karl] G[utzkow]: Zeitungslügen. In: Telegraph für Deutschland. Hamburg. Nr. 69, [29.] Mai 1843, S. 276. (3.43.04.29.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">198,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Gerücht</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Gerüchte</tei:sic>
+      </tei:p>
+      <tei:p style="no-indent text-left">
+        <tei:citedRange type="page-line-ref">198,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Waffe</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:sic>Masse</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
