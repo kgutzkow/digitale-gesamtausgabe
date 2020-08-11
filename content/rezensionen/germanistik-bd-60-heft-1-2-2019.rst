@@ -1,7 +1,7 @@
 [Besprechung von Erzählerische Werke, Bd. 17, Die neuen Serapionsbrüder. Kommentarband, hg. von Kurt Jauslin in Zusammenarbeit mit Martina Lauster]
 ===================================================================================================================================================
 
-:date: 2019-11-20
+:date: 2019-08
 :category: Rezension
 :author: Patrick Fortmann
 :publication: Germanistik, Bd. 60, Heft 1-2, 2019
