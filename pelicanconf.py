@@ -267,6 +267,7 @@ TAXONOMY = (
                 ('Buchhandelsusancen und Buchvertrieb', 'buchhandelsusancen-und-buchvertrieb', (
                     ('Ueber eine Reform des deutschen Buchhandels', 'ueber-eine-reform-des-deutschen-buchhandels', ()),
 			        ('Ueber Preisherabsetzungen im Buchhandel', 'ueber-preisherabsetzungen-im-buchhandel', ()),
+                    ('[Modernes Antiquariat]', 'modernes-antiquariat', ()),
 			        ('Verfall des deutschen Buchhandels', 'verfall-des-deutschen-buchhandels', ()),
 			        ('Die Buchhändlermesse', 'die-buchhaendlermesse', ()),
 			        ('Der deutsche Buchhandel', 'der-deutsche-buchhandel', ()),
