@@ -5,6 +5,11 @@ exec 100>.build.lock || exit 1
 flock -w 300 100 || exit 1
 trap 'rm -f .build.lock' EXIT
 
+echo "=================="
+echo "Preparing to build"
+echo "=================="
+echo
+
 # The local-config file can be used to set deployment-specific environment settings, such as proxies
 if [ -f 'local-config' ]
 then
@@ -22,34 +27,14 @@ echo "Fetching the latest data"
 echo "========================"
 echo
 
-git checkout -f master
-
-# Fetch all remote branches
-if [ -f 'branches.txt' ]
-then
-    cat branches.txt | while read branch
-    do
-        if [ -n "$branch" ]
-        then
-            git branch -r | grep $branch
-            if [ $? -eq 0 ]
-            then
-                git branch | grep $branch
-                if [ $? -ne 0 ]
-                then
-                    git branch --track $branch origin/$branch
-                fi
-            fi
-        fi
-    done
-fi
-git pull --all
+git checkout -f default
+git pull
 
 # Build the main site
 echo
-echo "========================"
-echo "Building the master site"
-echo "========================"
+echo "================="
+echo "Building the site"
+echo "================="
 echo
 
 poetry install --no-dev
@@ -57,39 +42,11 @@ yarn install --frozen-lockfile --check-files --non-interactive
 node_modules/.bin/gulp
 poetry run pelican -s publishconf.py -o output -d content
 
-# Build the branch-specific preview sites
-if [ -f 'branches.txt' ]
-then
-    cat branches.txt | while read branch
-    do
-        if [ -n "$branch" ]
-        then
-            echo
-            echo "==================================="
-            echo "Building preview site $branch"
-            echo "==================================="
-            echo
-            git branch | grep $branch
-            if [ $? -eq 0 ]
-            then
-                git checkout $branch;
-                git pull
-                poetry install --no-dev
-                yarn install --frozen-lockfile --check-files --non-interactive
-                node_modules/.bin/gulp
-                poetry run pelican -s previewconf.py -o output/preview/$branch content
-            fi
-        fi
-    done
-fi
-
-# Get us back to the master branch
 echo
 echo "==============="
 echo "Build completed"
 echo "==============="
 echo
-git checkout -f master
 
 # Run optional post-build scripts
 if [ -f 'post-build' ]
