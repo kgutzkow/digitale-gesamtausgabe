@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="89"/>
         <tei:seg> Ueber die Gesetzgebung der Presse.</tei:seg>
       </tei:head>
@@ -75,7 +75,7 @@
         <tei:hi style="letter-sparse">ungleiche</tei:hi>
         <tei:seg> Verfahren der Censur, indem ein Censor das gestatte, was der Andre untersage. Er sieht darin mit Recht eine Benachtheiligung des Buchhandels, wenn z. B. Alles das, was in Offenbach freien Paß hätte, doch in Frankfurt gestrichen würde. Er fährt fort: „Unter diesen Uebeln ist jenes keinesweges eines der letzten, daß die Censur keine sichre, letzte, zuverlässige Instanz ist.“ Eine Censurordnung ist uns der Verf. schuldig geblieben; er giebt aber juristische Materialien genug dazu. Wir glauben, daß die Debatte über Preßfreiheit in unsrer Zeit uns zu keinem Ziele mehr führen wird, daß wir uns der Censur einmal fügen und nur noch dahin streben müssen, ihre Verwaltung so frei und organisch wie möglich zu machen. Ein dahin einschlagender praktischer Versuch ist in folgenden Paragraphen enthalten, für welche uns Schriftsteller und vielleicht auch aufgeklärte und wohlmeinende Staatsmänner Dank sagen werden.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:hi style="letter-sparse">Paragraphen einer Censurordnung</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -88,7 +88,7 @@
         <tei:seg> nicht. Wir wollen sehen, welche Fortschritte die Wiederherstellung wechselseitigen Vertrauens, welche Fortschritte die Meinung der Literatur über öffentliche Angelegenheiten in einigen Jahren gemacht haben wird; dann kann vielleicht von Preßfreiheit wieder die Rede sein.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:pb n="91"/>
         <tei:seg>  </tei:seg>
         <tei:hi style="letter-sparse">I. Von der Censur als Staatsanstalt</tei:hi>
@@ -176,7 +176,7 @@
       <tei:p style="no-indent text-left">
         <tei:seg> [97]</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:pb n="97"/>
         <tei:seg>  </tei:seg>
         <tei:hi style="letter-sparse">II. Von den Censoren</tei:hi>
@@ -223,7 +223,7 @@
         <tei:seg> Censor zu übertragen. Literärische, kritische, wissenschaftliche Journale jedoch und Bücher desselben Gegenstandes werden einzelnen Beamten überwiesen, welche sich der Uebernahme der Censur nicht weigern dürfen.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:hi style="letter-sparse">III. Vom Censurverfahren</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -295,7 +295,7 @@
         <tei:seg>Der Censor muß dem Autor Gründe seiner Striche angeben, wenigstens wenn sie verlangt werden. In Berlin ist es üblich, die Censurstriche am Rande zu motiviren, auch in Wien herrscht diese Achtung vor dem Autor. (Siehe Gentzens Noten zu Schnellers bekanntem Werke!)</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:hi style="letter-sparse">IV. Die höhere Instanz</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
@@ -351,38 +351,43 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Gutzkow äußerte sich im selben Jahr 1837 nochmals zu F. A. Löfflers „Ueber die Gesetzgebung der Presse“ in einem anonymen Beitag unter dem Titel </tei:seg>
+        <tei:seg>Gutzkow äußerte sich im selben Jahr 1837 nochmals zu F. A. Löfflers „Ueber die Gesetzgebung der Presse“, und zwar in einem anonymen Beitag unter dem Titel → </tei:seg>
         <tei:q>Preßfreiheit und Censur nach Hegelschen Prinzipien</tei:q>
-        <tei:seg>, der im Septemberheft der „Minerva“ erschien (Rasch 3.37.09.1). Diesen Beitrag brachte er dann in Teilabdrucken in „Beurmanns Telegraph“, September 1837 (Rasch 3.37.09.23.1).</tei:seg>
+        <tei:seg>, der im Septemberheft der „Minerva“ erschien (Rasch 3.37.09.1). Diesen Beitrag brachte er dann als gekürzten Nachdruck im September 1837 in „Beurmanns Telegraph“ (Rasch 3.37.09.23.1). Für das Porträt Löfflers in seiner Sammlung </tei:seg>
+        <tei:q>Götter, Helden, Don-Quixote</tei:q>
+        <tei:seg> (1838) verschmolz Gutzkow den hier edierten Beitrag vom 21. Juli 1837 mit dem Beitrag in der „Minerva“.  </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item>
           <tei:seg>J K[arl] G[utzkow]: Ueber die Gesetzgebung der Presse. In: Beurmanns Telegraph. Neueste Folge. Frankfurt/M. Nr. 12, [21.] Juli 1837, S. 89–93, und Nr. 13, [22.] Juli 1837, S. 97–101. (Rasch 3.37.07.21)</tei:seg>
         </tei:item>
+        <tei:item>
+          <tei:seg>E Karl Gutzkow: F. A. Löffler. In: Ders.: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann &amp; Campe, 1838. S. 325-394. Die aus J stammenden Passagen finden sich auf S. 377-393.</tei:seg>
+        </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -391,7 +396,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -401,7 +406,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Autor</tei:sic>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -470,7 +475,7 @@
         <tei:seg> lies: </tei:seg>
         <tei:sic>Deßhalb</tei:sic>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
