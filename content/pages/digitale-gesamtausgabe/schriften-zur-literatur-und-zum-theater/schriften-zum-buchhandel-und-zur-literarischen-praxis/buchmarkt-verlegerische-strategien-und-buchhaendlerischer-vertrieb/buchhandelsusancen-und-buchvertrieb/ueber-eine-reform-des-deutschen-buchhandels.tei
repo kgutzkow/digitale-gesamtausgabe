@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="361"/>
         <tei:seg> Ueber eine Reform des deutschen Buchhandels.</tei:seg>
       </tei:head>
@@ -300,7 +300,7 @@
         <tei:seg>! Allein man mache nur hie und da den Versuch und in einigen Jahren wird der Buchhandel eine ganz neue Gestalt gewonnen haben.</tei:seg>
       </tei:p>
       <tei:p style="text-right">
-        <tei:seg>K. G.</tei:seg>
+        <tei:signed>K. G.</tei:signed>
       </tei:p>
       <tei:note type="footnote" xml:id="footnote-1">
         <tei:p style="text-left">

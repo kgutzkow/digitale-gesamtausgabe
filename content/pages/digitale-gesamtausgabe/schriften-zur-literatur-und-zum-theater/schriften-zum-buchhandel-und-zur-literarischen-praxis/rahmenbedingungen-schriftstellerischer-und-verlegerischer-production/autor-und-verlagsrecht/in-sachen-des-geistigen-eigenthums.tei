@@ -68,44 +68,50 @@
       </tei:p>
       <tei:p style="text-left">
         <tei:signed>
-          <tei:hi style="letter-sparse">Gutzkow.</tei:hi>
+          <tei:hi style="letter-sparse">                                                                                                                                 Gutzkow.</tei:hi>
         </tei:signed>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item>
           <tei:seg>J. [Karl] Gutzkow: In Sachen des geistigen Eigenthums. In: Königlich privilegirte Berlinische Zeitung von Staats- und gelehrten Sachen. Vossische Zeitung. Berlin. Nr. 50, 1. März 1870, 2. Beilage, S. 1. (Rasch 3.70.03.01)</tei:seg>
         </tei:item>
+        <tei:item>
+          <tei:seg>Nachgedruckt in:</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>Börsenblatt für den deutschen Buchhandel und die mit ihm verwandten Geschäftszweige. Leipzig. Nr. 52, 4. März 1870, S. 729.</tei:seg>
+        </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -114,16 +120,10 @@
       <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">37,13</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:hi style="letter-sparse">Form</tei:hi>
-          <tei:seg>. </tei:seg>
-          <tei:sic>Manches</tei:sic>
-        </tei:hi>
+        <tei:lem>Form. Manches</tei:lem>
         <tei:seg> lies: </tei:seg>
-        <tei:sic>
-          <tei:hi style="letter-sparse">Form</tei:hi>
-        </tei:sic>
-        <tei:sic> Manches</tei:sic>
+        <tei:hi style="letter-sparse">Form</tei:hi>
+        <tei:seg> Manches</tei:seg>
       </tei:p>
       <tei:p style="no-indent text-left">
         <tei:citedRange type="page-line-ref">38,9</tei:citedRange>
@@ -132,7 +132,7 @@
         <tei:seg> lies: </tei:seg>
         <tei:sic>dieser</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

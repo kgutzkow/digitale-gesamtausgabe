@@ -107,32 +107,32 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow nahm den 1835 im „Literatur-Blatt“ des „Phönix“ erschienenen Text 1836 in überarbeiteter und gekürzter Form in das Kapitel </tei:seg>
+        <tei:q>→ Literarische Industrie</tei:q>
+        <tei:seg> seiner Sammlung </tei:seg>
+        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg> auf. </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg>Gutzkow nahm den 1835 im „Literatur-Blatt“ des „Phönix“ erschienenen Text 1836 in überarbeiteter und gekürzter Form in das Kapitel </tei:seg>
-        <tei:q>Literarische Industrie</tei:q>
-        <tei:seg> seiner Sammlung </tei:seg>
-        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
-        <tei:seg> auf. </tei:seg>
-      </tei:p>
+      <tei:p style="no-indent text-left"/>
       <tei:list type="sources">
         <tei:item>
           <tei:seg>J [Anon.:] Werke der Industrie. In: Phönix. Literatur-Blatt. Frankfurt/M.  Nr. 23, 13. Juni 1835, S. 549-551. (Rasch 3.35.06.13.1)</tei:seg>
@@ -142,10 +142,10 @@
         </tei:item>
       </tei:list>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -154,7 +154,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -175,7 +175,7 @@
         <tei:seg> </tei:seg>
         <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -195,13 +195,13 @@
         <tei:sic>Verfolg</tei:sic>
         <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Für die Aufnahme des Textes in E strich Gutzkow die Bezüge auf aktuelle Fortsetzungspublikationen in Heftform (ab 99,29: </tei:seg>
         <tei:q>Das Glück, welches die Heftliteratur machte</tei:q>
-        <tei:seg> [...]). Damit entfielen die Hinweise auf </tei:seg>
+        <tei:seg>). Damit entfielen die Hinweise auf </tei:seg>
         <tei:q>
           <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
         </tei:q>
@@ -213,9 +213,9 @@
         <tei:q>
           <tei:hi style="letter-sparse">Hugo's Geschichte des Kaisers Napoleon</tei:hi>
         </tei:q>
-        <tei:seg> und Theobald Chaubers </tei:seg>
+        <tei:seg> und </tei:seg>
         <tei:q>
-          <tei:hi style="letter-sparse">Friedrich der Große</tei:hi>
+          <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
         </tei:q>
         <tei:seg>: alles popularisierende naturwissenschaftliche oder historische Werke, die als Fortsetzungswerke für weite Käuferkreise erschwinglich wurden und deren Verdienste Gutzkow anerkannte, wenn er auch die ,industrielle‛ Buchproduktion des Stuttgarter Verlags Scheible tadelte (101,7).</tei:seg>
       </tei:p>
@@ -234,7 +234,7 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">

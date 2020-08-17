@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="281"/>
         <tei:seg> Der neue Don-Quixote mit Holzschnitten.</tei:seg>
       </tei:head>
@@ -83,7 +83,7 @@
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:ref type="esv">Der in Stuttgart erscheinende </tei:ref>
+        <tei:ref type="esv" target="#">Der in Stuttgart erscheinende </tei:ref>
         <tei:ref type="esv" target="#annotation-12">
           <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
         </tei:ref>
@@ -121,18 +121,22 @@
         <tei:seg>Als einen besonders sinnigen Zug muß man den Stuttgarter Herausgebern dieses </tei:seg>
         <tei:hi style="letter-sparse">illustrirten Don Quixote</tei:hi>
         <tei:seg> nachsagen, daß sie, um ein neues industrielles Genre in die Literatur einzuführen und es mit der Weihe der Bedeutsamkeit zu versehen, </tei:seg>
-        <tei:ref type="esv">
+        <tei:ref type="esv" target="#">
           <tei:hi style="letter-sparse">H. Heine</tei:hi>
         </tei:ref>
         <tei:ref type="esv" target="#annotation-24"> vermocht haben, das Unternehmen einzuleiten</tei:ref>
         <tei:seg>. Noch ist die Vorrede </tei:seg>
         <tei:ref type="esv" target="#annotation-25">dieses dem Cervantes so ähnlichen </tei:ref>
-        <tei:ref type="esv">
+        <tei:ref type="esv" target="#">
           <tei:hi style="letter-sparse">Geistes</tei:hi>
         </tei:ref>
         <tei:seg> nicht erschienen; sie wird am Eingangsportale des Ganzen als würdiger Wappenträger und Schildhalter stehen. Heine und Cervantes führen dieselben Thiere in ihrem Wappen: </tei:seg>
         <tei:ref type="esv" target="#annotation-26">die Nachtigall, das Eichhörnchen und den Fuchs</tei:ref>
         <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>                                                                                                                                                                                                                                                                      </tei:seg>
+        <tei:signed> G.</tei:signed>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
         <tei:p style="text-left">

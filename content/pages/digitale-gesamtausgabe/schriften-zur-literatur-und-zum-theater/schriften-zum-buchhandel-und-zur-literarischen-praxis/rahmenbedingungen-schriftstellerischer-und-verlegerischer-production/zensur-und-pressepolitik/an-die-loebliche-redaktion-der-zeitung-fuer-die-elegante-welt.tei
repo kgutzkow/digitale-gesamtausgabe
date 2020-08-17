@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="417"/>
         <tei:seg> An die löbliche Redaktion der Zeitung für die elegante Welt.</tei:seg>
       </tei:head>
@@ -77,11 +77,11 @@
         <tei:seg>Ich unterzeichne mich als einer löblichen Redaktion ganz ergebenster</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="font-weight-bold">                                                                                                                                                   K. Gutzkow</tei:hi>
+        <tei:hi style="font-weight-bold">                                                                                                                                                                                                                          K. Gutzkow</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="letter-sparse">                                                    Frankfurt am Main</tei:hi>
+        <tei:hi style="letter-sparse">                                                                                                 Frankfurt am Main</tei:hi>
         <tei:seg>, den 14. April 1843.</tei:seg>
       </tei:p>
     </tei:body>

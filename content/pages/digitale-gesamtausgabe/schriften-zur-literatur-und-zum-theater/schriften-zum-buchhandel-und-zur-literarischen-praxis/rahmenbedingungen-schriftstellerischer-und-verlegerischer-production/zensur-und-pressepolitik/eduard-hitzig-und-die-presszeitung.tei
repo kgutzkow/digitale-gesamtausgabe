@@ -135,22 +135,25 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow bezog sich im „Telegraph für Deutschland“ mehrfach anerkennend auf die von Julius Eduard Hitzig redigierte „Preßzeitung“, die für bessere oder grundlegende rechtliche Regelungen im deutschen Pressewesen plädierte, u. a. was die Gutzkow nahe stehende Frage des Nachdrucks betraf. Die hier edierten Texte sind eine Zusammenstellung verstreuter „Telegraph“-Beiträge Gutzkows zum selben Thema.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -169,11 +172,19 @@
           <tei:hi style="sup">3</tei:hi>
           <tei:seg> [3.] [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 142, [4.] September 1840, S. 568. (Rasch 3.40.09.04.1)</tei:seg>
         </tei:item>
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg> ist teilweise nachgedruckt in:</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>Allgemeine Preßzeitung. Leipzig. Nr. 56, 13. Juli 1841, Sp. 494-496. </tei:seg>
+        </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -185,21 +196,22 @@
         <tei:hi style="sup">3</tei:hi>
         <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>3.1. Bezugstext</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>3.1. Bezugstext von J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>J. E. Hitzig: Zu den Hitzigschen Aufsätzen. In: Der Gesellschafter. Berlin. 126. Blatt, 8. August 1838, S. 625-626. (Rasch 9/2.38.08.08)</tei:seg>
       </tei:p>
       <tei:p style="no-indent text-left"/>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der wissenschaftliche Apparat wird hier  zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>

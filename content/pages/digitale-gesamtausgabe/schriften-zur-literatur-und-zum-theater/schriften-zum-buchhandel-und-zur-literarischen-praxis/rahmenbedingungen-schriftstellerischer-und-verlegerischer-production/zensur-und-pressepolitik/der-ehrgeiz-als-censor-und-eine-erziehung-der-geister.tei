@@ -42,26 +42,35 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p style="text-left">
-        <tei:seg>[271]Der Ehrgeiz als Censor und eine Erziehung der Geister.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>In tausend Verhältnissen wiederholt sich die Wahrheit jener bekannten Fabel von der Wette des Sturmwindes und der Sonne. Wer hat größere Macht, einem Wanderer den Mantel abzunehmen? Der pausbackig blasende Aeolus oder der milde Sonnenstrahl? Im Sturm, je toller er tobt und bläst, desto fester zieht der Wanderer den Mantel an sich. Die Sonnenstrahlen treten hinter den Wolken hervor und der Mantel, ein nun überflüssiger Schutz, fällt von selbst.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="271"/>
+        <tei:seg> Der Ehrgeiz als Censor und eine Erziehung der Geister.</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>In tausend Verhältnissen wiederholt sich die Wahrheit jener bekannten Fabel von der Wette des </tei:seg>
+        <tei:hi style="letter-sparse">Sturmwinds</tei:hi>
+        <tei:seg> und der </tei:seg>
+        <tei:hi style="letter-sparse">Sonne</tei:hi>
+        <tei:seg>. Wer hat größere Macht, einem Wanderer den Mantel abzunehmen? Der pausbackig blasende Aeolus oder der milde Sonnenstrahl? Im Sturm, je toller er tobt und bläst, desto fester zieht der Wanderer den Mantel an sich. Die Sonnenstrahlen treten hinter den Wolken hervor und der Mantel, ein nun überflüssiger Schutz, fällt von selbst.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Liest man die vielen Vorschläge, die in der Welt zur Abhülfe von Misständen aller Art schon gemacht wurden, immer kommt man auf diese einfache Fabel zurück. Immer will man durch den Sturm regieren und erlangt dennoch nicht, was ein einziger Sonnenstrahl hervorbringen würde.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Seit Jahren liest man in Klage- und Anklageschriften aller Art, z. B. über die deutsche Geistesentwicklung und deren im Grunde wilde und anarchische Geschichte, Ausstellungen aller Art. Gewisse Namen, wie Heine, Börne, Junges Deutschland, Herwegh, politische Lyrik, brauchen nur genannt zu werden, um nicht nur Literaturhistoriker wie Vilmar, Gelzer u.s.w., sondern selbst weniger grell-pietistische Kritiker in Harnisch zu bringen. Mit Feuer und Schwert möchte man am liebsten ausrotten, was sich so regellos und aller Ueberlieferungen spottend bei uns entwickelt hat und noch entwickelt.</tei:seg>
+        <tei:seg>Seit Jahren liest man in Klage- und Anklageschriften aller Art, z. B. über die deutsche Geistesentwickelung und deren im Grunde wilde und anarchische Geschichte, Ausstellungen aller Art. Gewisse Namen, wie Heine, Börne, Junges Deutschland, Herwegh, politische Lyrik, brauchen nur genannt zu werden, um nicht nur Literarhistoriker wie Vilmar, Gelzer u. s. w., sondern selbst weniger grell-pietistische Kritiker in Harnisch zu bringen. Mit Feuer und Schwert möchte man am liebsten ausrotten, was sich so regellos und aller Ueberlieferungen spottend bei uns entwickelt hat und noch entwickelt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Weit entfernt, die große Bedeutung unserer geistigen Freiheit und einer unabhängigen literarischen Metamorphose verkennen zu wollen, bemerken wir dennoch, daß es z. B. für die sogenannte schöne Literatur in Frankreich eine vorgezeichnete Bahn der Entwickelung gibt, eine Art von Selbstcensur und Selbsterziehung schon in den Jahren des ersten wilden und genialen Auswuchses. Das ist der Ehrgeiz fast jedes jungen französischen Dichters und Schriftstellers, im Verlauf von zehn bis zwanzig Jahren Mitglied der Akademie zu werden. Die Akademie in Paris gehört bekanntlich nicht der Gelehrsamkeit allein, sondern auch den schönen Künsten und der Poesie an. Sie hat Zeiten gehabt, wo sie durch ihre Pedanterie und die Misgriffe ihrer Wahlen mehr lächerlich als ehrend war; aber in neuerer Zeit hat sie vorurtheilslos selbst leichten Dichtern und Journalisten des Tages, wenn sie begabt waren, sich geöffnet. Sie hat die Bedeutung des modernen Schriftstellerthums in einem andern Sinne aufgefaßt als unsere deutschen Schulmänner und Professoren, welche die deutsche Literaturgeschichte mit Tieck abzuschließen und höchstens noch Platen seiner Sprach- und Verskunst wegen gelten zu lassen pflegen. Victor Hugo, Delavigne, Alfred de Vigny, Scribe, Ancelot, de Musset waren oder sind Akademiker; selbst Feuilletonisten, wie noch zuletzt Sainte-Beuve nur ein solcher zu nennen ist, wurden Akademiker, und nicht umsonst citirt Jules Janin in jeder seiner Theaterkritiken lateinische Worte. Er hofft, mit der Zeit auch noch in die Akademie zu kommen und wird es vielleicht.</tei:seg>
+        <tei:seg>Weit entfernt, die große Bedeutung unserer geistigen Freiheit und einer unabhängigen literarischen Metamorphose verkennen zu wollen, bemerken wir dennoch, daß es z. B. für die sogenannte schöne Literatur in Frankreich eine vorgezeichnete Bahn der Entwickelung gibt, eine Art von Selbstcensur und Selbsterziehung schon in den Jahren des ersten wilden und genialen Aufwuchses. Das ist der Ehrgeiz fast jedes jungen französischen Dichters und Schriftstellers, im Verlauf von zehn bis zwanzig Jahren Mitglied der </tei:seg>
+        <tei:hi style="letter-sparse">Akademie</tei:hi>
+        <tei:seg> zu werden. Die Akademie in Paris gehört bekanntlich nicht der Gelehrsamkeit allein, sondern auch den schönen Künsten und der Poesie an. Sie hat Zeiten gehabt, wo sie durch ihre Pedanterie und die Misgriffe ihrer Wahlen mehr lächerlich als ehrend war; aber in neuerer Zeit hat sie vorurtheilslos selbst leichten Dichtern und Journalisten des Tags, wenn sie begabt waren, sich geöffnet. Sie hat die Bedeutung des modernen Schriftstellerthums in einem andern Sinne aufgefaßt als unsere deutschen Schulmänner und Professoren, welche die deutsche Literaturgeschichte mit Tieck abzuschließen und höchstens noch Platen seiner Sprach- und Verskunst wegen gelten zu lassen pflegen. Victor Hugo, Delavigne, Alfred de Vigny, Scribe, Ancelot, de Musset waren oder sind Akademiker; selbst Feuilletonisten, wie doch zuletzt Sainte-Beuve nur ein solcher zu nennen ist, wurden Akademiker, und nicht umsonst citirt Jules Janin in jeder seiner Theaterkritiken lateinische Worte. Er hofft, mit der Zeit auch noch in die Akademie zu kommen und wird es vielleicht.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Die äußern Vortheile einer akademischen Stelle sind an sich nicht wesentlich. Man erhält jährlich 1500 Francs, eine kleine Summe, die jedoch manchen greisen und productionsmüden Autor, dem Vermögen oder eine Anstellung fehlt, vom Hungertode retten kann. Allein wie jetzt die Akademie steht, wie sie schon seit Napoleon eine Art von Tribüne und zuweilen sogar von Angriffs- oder Vertheidigungswall in geistigen Fragen wurde, wie sie ferner bis diesen Tag eine „Aufnahme“ und die dabei gehaltenen Reden zu einem Ereignisse für ganz Paris macht, ist ein Sitz in ihr jetzt etwas so Ehrenvolles geworden, daß man in Frankreich jeder jungen bedeutenden poetischen Entwickelung sogleich ansehen kann, wie sie sich regelt, mäßigt und so fast zuspitzt und modelt, um einst in die Akademie eintreten zu können. Man sieht dies Ponsard, der zufällig ein unbedeutender Phrasenmacher ist, man sieht dies den meisten jungen Namen, z. B. dem talentvollern Augier, an und so fast allen Mitarbeitern der „Revue des deux Mondes“, deren ganzes Auftreten seit Jahren nur auf die Akademie berechnet ist.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Wir wollen keineswegs gesagt haben, daß in einer durch so viel Ehrgeiz bedingten Literaturentwicklung ein besonderes Heil für unsere Nation liegen würde, die bei ihrem Mangel an festen und großartigen äußern Formen so ganz auf ihre innern geistigen Freiheiten angewiesen ist; indessen verdiente diese eigenthümliche Selbstregelung und Selbstbeschränkung einer fremden Literatur doch auch in Rücksicht auf die Mittel einmal erwähnt zu werden, die man so oft, meist in plumpen Angriffen und Unterdrückungen bestehend, bei uns anzurathen pflegt, wenn die Strafredner unserer Zeit auf das beliebte Thema von der „Zuchtlosigkeit der Geister“ zu [272] reden kommen. Eine Nation, die dem Genius so wenig äußern Halt bietet wie die deutsche, dürfte sich eigentlich kaum beklagen, wenn bei ihr fast jeder neue eminente Kopf sich die Welt immer erst wieder auf eigene Hand erbaut.</tei:seg>
+        <tei:seg>Wir wollen keineswegs gesagt haben, daß in einer durch so viel Ehrgeiz bedingten Literaturentwickleung ein besonderes Heil für unsere Nation liegen würde, die bei ihrem Mangel an festen und großartigen äußern Formen so ganz auf ihre innern geistigen Freiheiten angewiesen ist; indessen verdiente diese eigenthümliche Selbstregelung und Selbstbeschränkung einer fremden Literatur doch auch in Rücksicht auf die Mittel einmal erwähnt zu werden, die man so oft, meist in plumpen Angriffen und Unterdrückungen bestehend, bei uns anzurathen pflegt, wenn die Strafredner unserer Zeit auf das beliebte Thema von der „Zuchtlosigkeit der Geister“ zu </tei:seg>
+        <tei:pb n="272"/>
+        <tei:seg> reden kommen. Eine Nation, die dem Genius so wenig äußern Halt bietet wie die deutsche, dürfte sich eigentlich kaum beklagen, wenn bei ihr fast jeder neue eminente Kopf sich die Welt immer erst wieder auf eigene Hand erbaut.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
@@ -161,7 +170,27 @@
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="text-left"/>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow untergliederte den Text von J für E stärker. Manche Abschnitte werden dadurch auf einen einzigen Satz reduziert, und der essayistische Charakter dieses Beitrags wird dadurch pronocierter. Diese zusätzlichen Absätze in E finden sich an folgenden Stellen jeweils nach dem Satzschluss: </tei:seg>
+        <tei:q>
+          <tei:seg>und der </tei:seg>
+          <tei:hi style="letter-sparse">Sonne</tei:hi>
+          <tei:seg>. Wer hat größere Macht </tei:seg>
+        </tei:q>
+        <tei:seg>(91,21); </tei:seg>
+        <tei:q>Ausstellungen aller Art. Gewisse Namen</tei:q>
+        <tei:seg> (92,5-6); </tei:seg>
+        <tei:q>genialen Aufwuchses. Das ist der Ehrgeiz</tei:q>
+        <tei:seg> (92,18-19); </tei:seg>
+        <tei:q>Mitglied der </tei:q>
+        <tei:q>
+          <tei:hi style="letter-sparse">Akademie</tei:hi>
+        </tei:q>
+        <tei:q> zu werden. Die Akademie in Paris</tei:q>
+        <tei:seg> (92,21-22); </tei:seg>
+        <tei:q>von der „Zuchtlosigkeit der Geister“ zu reden kommen. Eine Nation</tei:q>
+        <tei:seg> (93,32-33). Der Text von E folgt dem Wortlaut von J.</tei:seg>
+      </tei:p>
       <tei:p style="text-left"/>
       <tei:head data-heading-id="" type="level-3">
         <tei:seg>Kommentierung</tei:seg>

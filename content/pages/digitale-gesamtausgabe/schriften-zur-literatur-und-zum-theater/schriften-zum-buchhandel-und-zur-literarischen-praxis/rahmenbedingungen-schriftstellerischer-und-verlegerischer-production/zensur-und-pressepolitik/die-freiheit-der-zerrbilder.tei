@@ -99,7 +99,7 @@
         <tei:seg>Der Zweck dieser Rüge ist nun nicht der, der preußischen Regierung die Zurücknahme ihrer Carrikaturenfreiheit anzurathen. Im Gegentheil, man gebe ihr eine sittliche Begründung. Diese sittliche Begründung ist keine andere, als die Preßfreiheit. Aber man gebe auch die Preßfreiheit nicht, wenn nicht mit der sittlichen Begründung der freiesten öffentlichen Institutionen. Statt das Haus der Freiheit von oben zu bauen, fange man vernunftgemäß von unten an. Die Carrikaturenfreiheit ist die äußerste Spitze eines solchen Baues, der Besen des lustig singenden Schornsteinfegers aus dem höchsten Rauchfang, der Richtjubel der Zimmerleute, wenn sie dem fertigen Dach den Kranz aufsetzen. Den Bau der Freiheit aber mit Carrikaturen von unten anzufangen, die Zerrbilder in das Erdgeschoß zu verlegen, heißt die Menschheit verwirren und statt Engel Kobolde zu ihren Tröstern machen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:signed>K. Gutzkow.</tei:signed>
+        <tei:signed>                                                                                                                                                                                                                                 K. Gutzkow.</tei:signed>
       </tei:p>
       <tei:note type="footnote" xml:id="footnote-1">
         <tei:p style="text-left">
@@ -116,6 +116,13 @@
       <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow nahm seinen zuerst 1843 im „Telegraph für Deutschland“  publizierten Beitrag </tei:seg>
+        <tei:q>Die Freiheit der Zerrbilder</tei:q>
+        <tei:seg> unter demselben Titel 1844 in seine Sammlung </tei:seg>
+        <tei:q>Aus der Zeit und dem Leben</tei:q>
+        <tei:seg> auf.</tei:seg>
+      </tei:p>
       <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
@@ -135,6 +142,9 @@
         <tei:item>
           <tei:seg>J K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30)</tei:seg>
         </tei:item>
+        <tei:item>
+          <tei:seg>E Karl Gutzkow: Die Freiheit der Zerrbilder. In: Ders.: Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844. S. 124-132. (Rasch 2.25.3.4)</tei:seg>
+        </tei:item>
       </tei:list>
       <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
@@ -145,7 +155,24 @@
       <tei:p style="no-indent text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
+      <tei:head type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Zwischen J und E finden sich kaum Differenzen: Die Fußnote: </tei:seg>
+        <tei:q>In der </tei:q>
+        <tei:q>
+          <tei:hi style="letter-sparse">Mannheimer Abendzeitung</tei:hi>
+        </tei:q>
+        <tei:q> lasen wir kürzlich folgenden unglaublichen Ausdruck aus Kölln: „</tei:q>
+        <tei:q>
+          <tei:hi style="letter-sparse">Der neue Censor der Rheinischen Zeitung streicht wie verrückt</tei:hi>
+        </tei:q>
+        <tei:q>.“</tei:q>
+        <tei:seg> (77,32-35) ist in E  gestrichen, dafür aber weist dieser Text am Schluss einen Zusatz auf, der vom Text durch einen Asterisk abgesetzt ist und sich lakonisch auf die Karikaturenfreiheit bezieht: </tei:seg>
+        <tei:q>Sie ist gestrichen.</tei:q>
+        <tei:seg> Ansonsten folgt E der Absatzeinteilung und dem Wortlaut von J.</tei:seg>
+      </tei:p>
       <tei:head type="level-3">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>

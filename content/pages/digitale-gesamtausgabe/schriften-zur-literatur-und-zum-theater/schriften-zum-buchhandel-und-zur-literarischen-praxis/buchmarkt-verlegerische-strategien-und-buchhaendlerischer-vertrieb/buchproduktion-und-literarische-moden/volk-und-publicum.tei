@@ -46,11 +46,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="221"/>
         <tei:seg> Volk und Publicum.</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:hi style="font-size-small">An unsere Leser und Mitarbeiter.</tei:hi>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -122,33 +122,46 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:p style="no-indent text-left">
+        <tei:seg>Gutzkow nahm Teile dieses Beitrags aus den „Unterhaltungen am häuslichen Herd“ von Anfang 1855 dreizehn Jahre später in seine </tei:seg>
+        <tei:q>Denksprüche</tei:q>
+        <tei:seg>-Sammlung </tei:seg>
+        <tei:q>Vom Baum der Erkenntniß</tei:q>
+        <tei:seg> auf.  </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item>
           <tei:seg>J. [Anon.:] Volk und Publicum. An unsere Leser und Mitarbeiter. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 14, [6. Januar] 1855, S. 221–224. (Rasch 3.55.01.06.1)</tei:seg>
         </tei:item>
+        <tei:item>
+          <tei:seg>E Karl Gutzkow: Vom Baum der Erkenntniß. Denksprüche. Stuttgart: Cotta, 1868. (Rasch 2.38)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>Die Passagen aus J, die in diese Sammlung aufgenommen wurden, finden sich auf S. 120-121 und S. 217-220.</tei:seg>
+        </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -157,7 +170,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -167,13 +180,102 @@
         <tei:seg> </tei:seg>
         <tei:sic>nach</tei:sic>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>In der Buchausgabe (GWB IV, Bd. 7) ist der unter 2.1.1. aufgeführte Texteingriff nicht verzeichnet. </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p style="no-indent text-left">
+        <tei:seg>Die Passagen aus J, die Gutzkow in E übernahm, wurden in zwei verschiedene Kapitel der </tei:seg>
+        <tei:q>Denksprüche</tei:q>
+        <tei:seg>-Sammlung eingegliedert. </tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Im Kapitel </tei:seg>
+        <tei:q>Die Zeit</tei:q>
+        <tei:seg> findet sich folgender Abschnitt: </tei:seg>
+        <tei:q>Den Fürsten nahen sich nicht so viele Schmeichler</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>dem großen majestätischen, souveränen Volke!</tei:q>
+        <tei:seg> (120,10-121,7)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>In das Kapitel </tei:seg>
+        <tei:q>Walten und Schaffen des Genius</tei:q>
+        <tei:seg> wurden folgende Passagen aufgenommen:</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:q>Publicum, wie altfränkisch erscheinst du diesem Geschlecht! </tei:q>
+        <tei:seg>[...] </tei:seg>
+        <tei:q>dann und wann zur Herzstärkung eine Prise nehmen kann.</tei:q>
+        <tei:seg> (121,10-121,26); </tei:seg>
+        <tei:q>Volksliteratur kann zweierlei bedeuten:</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>
+          <tei:hi style="letter-sparse">Der Trieb, sich zu bilden, ist allgemein</tei:hi>
+        </tei:q>
+        <tei:q>.</tei:q>
+        <tei:seg> (121,33-123,2); </tei:seg>
+        <tei:q>Die Volksliteratur, die rechte, soll billigerweise auch da erst anfangen</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>die treibende Macht des Denkens im Sonnenstrahl zu spüren.</tei:q>
+        <tei:seg> (123,14-123,21-22); </tei:seg>
+        <tei:q>Nur für diesen Trieb zu schreiben kann dem Autor Freude machen.</tei:q>
+        <tei:seg> (123,27-28)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Der Text von J wurde für dieses letztere Kapitel in E also stark gekürzt; außerdem nahm Gutzkow Änderungen in der Absatzgestaltung vor und überarbeitete die ausgewählten Passagen. So entfielen zahlreiche Ausschmückungen, die den Journaltext gekennzeichnet hatten: </tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>J: S</tei:seg>
+        <tei:q>eit funfzig Jahren besonders ist dieser neue Liebedienst, dies Zuhofegehen bei der Majestät des Volks, dies Hutabziehen und Demüthigen vor dem großen ungekrönten Souverän, Masse genannt, in die Mode gekommen. Was schwänzeln die Kammerherren und fliegen nach den gnädigen Winken auch dieses oft sehr ungnädigen Gebieters!</tei:q>
+        <tei:seg> (120,13-18)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>E: </tei:seg>
+        <tei:q>Seit funfzig Jahren ist dies Zuhofegehen bei des Volkes Majestät, dies Hutabziehen und Demüthigen vor dem großen ungekrönten Souverän, Masse genannt, Mode geworden. Was schwänzeln und fliegen die Kammerherren nach den Winken dieses oft so ungnädigen Gebieters! </tei:q>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg> Es finden sich Varianten im Vokabular, z. B. </tei:seg>
+        <tei:q>Piquéweste</tei:q>
+        <tei:seg> (J), </tei:seg>
+        <tei:q>Weste</tei:q>
+        <tei:seg> (E), im Gebrauch der substantivischen Dativendung -e, z. B. </tei:seg>
+        <tei:q>auf dem Haupte</tei:q>
+        <tei:seg> (J), </tei:seg>
+        <tei:q>auf dem Haupt</tei:q>
+        <tei:seg> (E), sowie in der Zeichensetzung und im Sperrungsgebrauch, z. B. </tei:seg>
+        <tei:q>
+          <tei:seg>die Wissenschaft existirt nur noch - fürs </tei:seg>
+          <tei:hi style="letter-sparse">Volk</tei:hi>
+          <tei:seg>!</tei:seg>
+        </tei:q>
+        <tei:seg> (J), </tei:seg>
+        <tei:q>Die</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>Wissenschaft existirt jetzt nur noch für das „Volk“.</tei:q>
+        <tei:seg> (E)</tei:seg>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Gutzkow machte auch einen Zusatz zum Text in E: nach </tei:seg>
+        <tei:q>Alles, Alles dem „Volke“ zu Liebe, dem großen majestätischen Gebieter des Jahrhunderts</tei:q>
+        <tei:seg> (geänderte Fassung von 121,6-7) setzte er ein: </tei:seg>
+        <tei:q>Es ist auch da eine Grenze, wo die Wahrheit aufhört und die Mode anfängt.</tei:q>
+      </tei:p>
+      <tei:p style="text-left">
+        <tei:seg>Prägnant, d. h. aufschlussreich für die desillusionierte Einstellung des späten Gutzkow, ist die Änderung des Satzes </tei:seg>
+        <tei:q>
+          <tei:hi style="letter-sparse">Der Trieb, sich zu bilden, ist allgemein.</tei:hi>
+        </tei:q>
+        <tei:seg> (J)  zu: </tei:seg>
+        <tei:q>Der Trieb, sich zu bilden, ist so allgemein noch nicht.</tei:q>
+        <tei:seg> (E)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
