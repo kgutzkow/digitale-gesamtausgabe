@@ -46,68 +46,588 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="549"/>
         <tei:seg> Werke der Industrie.</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
-        <tei:seg>Der alte Buchhandel besaß, ich darf nicht sagen, mehr Geld, aber er besaß mehr Stolz, als der jetzige. Der alte Buchhandel stand mit verschränkten Armen in der Thüre seines Ladens, grüßte herablassend das vorübergehende Publikum, das noch durch keine Plakate und große Kupferwerke an die Aushängefenster herangelockt wurde; der alte Buchhandel griff das Publikum nicht gewaltsam an: </tei:seg>
-        <tei:foreign>la vie et la bourse</tei:foreign>
-        <tei:seg>. Es war ein sehr gemessener Gang, das damalige Buchhändlergeschäft, ein Gang auf den gebahnten Straßen des Bedürfnisses: nur die Gelehrten, die Autodidakten klopften bei den Buchhändlern an, das Bedürfniß war das bittende, es war ein freies, kein erzwungenes Bedürfniß. Einige Firmen fuhren sechsspännig; aber Lessing gerieth in Verzweiflung, und wollte hinfort seine Schriften auf eigne Rechnung verlegen. </tei:seg>
+        <tei:seg>Der alte Buchhandel besaß, ich darf nicht sagen, mehr Geld, aber er besaß mehr Stolz, als der jetzige. Der alte Buchhandel stand mit verschränkten Armen in der Thüre seines Ladens, grüßte herablassend das vorübergehende Publikum, das noch durch </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">keine Plakate und große Kupferwerke</tei:ref>
+        <tei:seg> an die Aushängefenster herangelockt wurde; der alte Buchhandel griff das Publikum nicht gewaltsam an: </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">la vie et la bourse</tei:ref>
+        <tei:seg>. Es war ein sehr gemessener Gang, das damalige Buchhändlergeschäft, ein Gang auf den gebahnten Straßen des Bedürfnisses: nur die Gelehrten, die Autodidakten klopften bei den Buchhändlern an, das Bedürfniß war das bittende, es war ein freies, kein erzwungenes Bedürfniß. </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">Einige Firmen fuhren sechsspännig</tei:ref>
+        <tei:seg>; aber Lessing gerieth in Verzweiflung, und wollte hinfort </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">seine Schriften auf eigne Rechnung verlegen</tei:ref>
+        <tei:seg>. </tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Die Journalistik hat den alten Buchhandel zu Grunde gerichtet. Die Journale veranlaßten die Lesezirkel, die Lesezirkel absorbirten die Kauflust der Privaten. Es waren zwei Dinge nothwendig: neue Käufer zu gewinnen, und die Waare selbst äußerlich in andere Gestalt zu bringen. Wir reden noch nicht von den populären Schriften; wir stehen erst bei der „beispiellos wohlfeilen“ Periode.</tei:seg>
+        <tei:seg>Die Journalistik hat den alten Buchhandel zu Grunde gerichtet. Die Journale veranlaßten die </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Lesezirkel</tei:ref>
+        <tei:seg>, die Lesezirkel absorbirten die Kauflust der Privaten. Es waren zwei Dinge nothwendig: neue Käufer zu gewinnen, und die Waare selbst äußerlich in andere Gestalt zu bringen. Wir reden noch nicht von den </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">populären Schriften</tei:ref>
+        <tei:seg>; wir stehen erst bei der </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">„beispiellos wohlfeilen“ Periode</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Der neue Buchhandel gründete sich auf Nichts; denn er fing mit Schulden an. Seht, dort wird ein neuer Laden ausgebrochen! Was soll dort verkauft werden? Bücher. Du lieber Gott! Ich brauche keine Bücher, meine Frau braucht keine Bücher, mein Vater brauchte keine Bücher, meine Kinder brauchen den Ferbitz, den Splittegarb, den Kinderfreund, aber sie brauchen keine Bücher. Närrisches Volk! Es scheint, du willst betrogen sein. Bücher sind Luxus für dich, du siehst nur das Angenehme darin, man muß dich gegen deinen Willen zwingen, Bücher zu kaufen. Da steht der junge Anfänger von höchst zweideutigem Credit! Der Laden ist ausgebrochen, die Sonne brennt auf den geschmückten Glasfenstern; treten Sie herein, meine Herren, der Leipziger Ballen ist angekommen! Brüsseler Nachdruck, Romane von Fürst und Kollmann, Tutti Frutti! Die Leute hören nicht, sie haben auf der Börse, im Amte, draußen auf der Zollwage zu thun. Was Literatur! Narrenspossen!</tei:seg>
+        <tei:seg>Der neue Buchhandel </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">gründete sich auf Nichts</tei:ref>
+        <tei:seg>; denn er fing mit Schulden an. Seht, dort wird </tei:seg>
+        <tei:ref type="esv" target="#annotation-36">ein neuer Laden ausgebrochen</tei:ref>
+        <tei:seg>! Was soll dort verkauft werden? Bücher. Du lieber Gott! Ich brauche keine Bücher, meine Frau braucht keine Bücher, mein Vater brauchte keine Bücher, meine Kinder brauchen den </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">Ferbitz</tei:ref>
+        <tei:seg>, den </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Splittegarb</tei:ref>
+        <tei:seg>, den </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">Kinderfreund</tei:ref>
+        <tei:seg>, aber sie brauchen keine Bücher. Närrisches Volk! Es scheint, du willst betrogen sein. Bücher sind Luxus für dich, du siehst nur das Angenehme darin, man muß dich gegen deinen Willen zwingen, Bücher zu kaufen. Da steht der junge Anfänger von höchst zweideutigem Credit! Der Laden ist ausgebrochen, die Sonne brennt auf den geschmückten Glasfenstern; treten Sie herein, meine Herren, der </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">Leipziger Ballen</tei:ref>
+        <tei:seg> ist angekommen! </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">Brüsseler Nachdruck</tei:ref>
+        <tei:seg>, Romane von </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">Fürst</tei:ref>
+        <tei:seg> und </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">Kollmann</tei:ref>
+        <tei:seg>, </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Tutti Frutti</tei:ref>
+        <tei:seg>! Die Leute hören nicht, sie haben auf der Börse, im Amte, draußen auf der Zollwage zu thun. Was Literatur! Narrenspossen!</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Mein junger Buchhändler verzweifelt nicht. Er ärgert sich nicht, daß in die alte Firma des Ortes, drüben an der Ecke des Marktes, nach einander hineintreten der praktizirende Arzt, der Stadtprediger, der Justizamtmann, der Bediente einer englischen Familie, die nach Deutschland reiste, um zu sparen, zuletzt eine alte Betschwester: er greift nach dem Wohnungsanzeiger der Stadt, dieser wunderlichen Stadt, die aber wie alle Städte ist, und streicht sich mit Rothstift die Adressen der Menschen an, welche entweder Vermögen besitzen oder ihr Auskommen haben, oder derer, welche </tei:seg>
+        <tei:seg>Mein junger Buchhändler verzweifelt nicht. Er ärgert sich nicht, daß in die alte Firma des Ortes, drüben an der Ecke des Marktes, nach einander hineintreten </tei:seg>
+        <tei:ref type="esv" target="#annotation-37">der praktizirende Arzt, der Stadtprediger, der Justizamtmann, der Bediente einer englischen Familie, die nach Deutschland reiste, um zu sparen, zuletzt eine alte Betschwester</tei:ref>
+        <tei:seg>: er greift nach dem Wohnungsanzeiger der Stadt, dieser wunderlichen Stadt, die aber wie alle Städte ist, und streicht sich mit Rothstift die Adressen der Menschen an, welche entweder Vermögen besitzen oder ihr Auskommen haben, oder derer, welche </tei:seg>
         <tei:pb n="550"/>
-        <tei:seg> auf Bildung Anspruch machen. Nun herbei, ihr Anzeigen und Subscriptionslisten, herbei, ihr bibliographischen Berichte, herbei, ihr </tei:seg>
-        <tei:foreign>à condition</tei:foreign>
-        <tei:seg> anvertrauten Bücher; ich will diesem Orte von 15000 Seelen zeigen, was es heißt, Bedürfnisse, nicht befriedigen, nein! Bedürfnisse schaffen. Du schlauer Spekulant! Jetzt heißt es plötzlich: Ew. Wohlgeboren erhalten anbei zur gefälligen Ansicht –, und nun folgt Titel und Werth irgend eines von den werthlosen Büchern, mit welchen sich unser Literaturblatt zu beschäftigen pflegt. Das Buch, die Anzeigen, die Subscriptionslisten, die bibliographischen Berichte Nr. 89 oder Nr. 98 werden eingeschlagen in die Verlagswerke des Buchhändler Reimer, ich wollte sagen: in verschossenes Makulatur; das Ganze gibt ein hübsches Paket und geht dreist an eine Adresse ab, welche nie mit dem Reich der Ideen, mit der Kunst, mit Schiller und Göthe, am wenigsten mit dem jungen Anfänger in irgend einer Verbindung gestanden hat.</tei:seg>
+        <tei:seg> auf Bildung Anspruch machen. Nun herbei, ihr Anzeigen und </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Subscriptionslisten</tei:ref>
+        <tei:seg>, herbei, ihr bibliographischen Berichte, herbei, ihr </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">à condition</tei:ref>
+        <tei:seg> anvertrauten Bücher; ich will </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">diesem Orte von 15000 Seelen zeigen, was es heißt, Bedürfnisse, nicht befriedigen, nein! Bedürfnisse schaffen</tei:ref>
+        <tei:seg>. Du schlauer </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Spekulant</tei:ref>
+        <tei:seg>! Jetzt heißt es plötzlich: Ew. Wohlgeboren erhalten anbei zur gefälligen Ansicht –, und nun folgt Titel und Werth irgend eines von den werthlosen Büchern, mit welchen sich unser Literaturblatt zu beschäftigen pflegt. Das Buch, die Anzeigen, die Subscriptionslisten, die bibliographischen Berichte Nr. 89 oder Nr. 98 werden eingeschlagen in die Verlagswerke des </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">Buchhändler Reimer</tei:ref>
+        <tei:seg>, ich wollte sagen: in </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">verschossenes Makulatur</tei:ref>
+        <tei:seg>; das Ganze gibt ein hübsches Paket und geht dreist an eine Adresse ab, welche nie mit dem Reich der Ideen, mit der Kunst, mit Schiller und Göthe, am wenigsten mit dem jungen Anfänger in irgend einer Verbindung gestanden hat.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Das Paket kömmt an. Was ist das? Was soll das? Wozu das? Wer wollte das? – Bitte! Öffnen Sie nur! Man öffnet, die Familie steht herum, neugierig, man lies’t: Ew. Wohlgeboren erhalten anbei zur gefälligen – Von wem? Von wem hab’ ich etwas zu erhalten? Wer braucht mir unaufgefodert Gefälligkeiten zu erweisen? Der Sortiments-, Kunst- und Musikalienhändler Mauser – Mauser? Ich kenne keinen Mauser!  Ach, der junge Mann da, – sagt die Frau. Ach, der junge Mann auf dem Ball da, – sagt die Tochter. Man lies’t, man rechnet, man fühlt sich geehrt, man zahlt. Der junge Anfänger lacht: Er hat Kundschaft.</tei:seg>
+        <tei:seg>Das Paket kömmt an. Was ist das? Was soll das? Wozu das? Wer wollte das? – Bitte! Öffnen Sie nur! Man öffnet, die Familie steht herum, neugierig, man lies’t: Ew. Wohlgeboren erhalten anbei zur gefälligen – Von wem? Von wem hab’ ich etwas zu erhalten? Wer braucht mir unaufgefodert Gefälligkeiten zu erweisen? Der </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">Sortiments-, Kunst- und Musikalienhändler</tei:ref>
+        <tei:seg> Mauser – Mauser? Ich kenne keinen Mauser!  Ach, der junge Mann da, – sagt die Frau. Ach, der junge Mann auf dem Ball da, – sagt die Tochter. Man lies’t, man rechnet, man fühlt sich geehrt, man zahlt. Der junge Anfänger lacht: Er hat Kundschaft.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Aber nicht überall reussirte die Dreistigkeit. Es gibt Grobiane (auch verheirathete), dummstolze, in überwiegender Zahl aber rohe Menschen, die sich für zu gebildet achten und zu reich, als daß sie noch nöthig hätten, etwas Monatliches auf die Kultur ihres Geistes zu verwenden. Der junge Anfänger klopft nicht wieder an. Sein erster Coup gelang im Durchschnitte. Die Literatur hat einen neuen Absatzweg. Wir verdanken dem jungen Manne brave Menschen, welche sich bilden wollen, die Wahrheit befördern und eine Ehre darein setzen, ihren Kindern eine Bibliothek zu hinterlassen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Dies Genrebild klärt uns das Glück auf, welches in unsern Tagen die Heftweise und die Pfennigsliteratur gemacht hat. Denn es ist, wenn auch nicht immer wohlfeile Literatur, die hier vertrieben wurde, doch bequem zahlbare, da sie sich nur in kleinen Raten merklich macht. Auch erfordert die Art, wie die Heftliteratur verbreitet werden muß, eine besondre Betriebsamkeit des Buchhändlers, der sich nur der Fleiß junger Leute zu unterziehen gewohnt ist. Die alten Firmen verbitten sich Zusendungen dieser Art; sie wollen vor Niemanden den Hut abnehmen und sich nicht so rühren, daß sie ihr Embonpoint verlieren könnten. Es leben die alten Firmen!</tei:seg>
+        <tei:seg>Dies </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">Genrebild</tei:ref>
+        <tei:seg> klärt uns das Glück auf, welches in unsern Tagen </tei:seg>
+        <tei:ref type="esv" target="#annotation-38">die Heftweise und die Pfennigsliteratur</tei:ref>
+        <tei:seg> gemacht hat. Denn es ist, wenn auch nicht immer wohlfeile Literatur, die hier vertrieben wurde, doch bequem zahlbare, da sie sich nur in kleinen Raten merklich macht. Auch erfordert die Art, wie die Heftliteratur verbreitet werden muß, eine besondre Betriebsamkeit des Buchhändlers, der sich nur der Fleiß junger Leute zu unterziehen gewohnt ist. Die alten Firmen verbitten sich Zusendungen dieser Art; sie wollen vor Niemanden den Hut abnehmen und sich nicht so rühren, daß sie ihr </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">Embonpoint</tei:ref>
+        <tei:seg> verlieren könnten. </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Es leben die alten Firmen</tei:ref>
+        <tei:seg>!</tei:seg>
       </tei:p>
       <tei:p style="text-left">
         <tei:seg>Das Glück, welches die Heftliteratur machte, veranlaßte freilich den Plunder; doch kommen auch vortreffliche Erscheinungen vor, und wir wollen hier kurz einige dieser Art erwähnen, welche besondre Aufmerksamkeit verdienen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
+        <tei:ref type="esv" target="#annotation-28">
+          <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
+        </tei:ref>
         <tei:seg> ist bis zur neunzehnten Lieferung gediehen. Anerkannt ist der innre Werth dieses Buches; aber noch hat man nicht bemerkt, welche merkwürdige Erscheinung es in der Fassungskraft des großen Publikums bewirkt hat. Wie begann diese Naturgeschichte? Mit den Phänomenen der Thierwelt, mit den Organen des menschlichen Körpers, kurz mit Begriffen, welche uns nahe liegen, mit Anschauungen, in welche sich der Laie bald versetzen konnte. Jetzt im Verlaufe des Werkes werden die Untersuchungen schon complizirter, der Geist der Wissenschaft gibt die Deutlichkeit auf Kosten des Systemes nicht zu; aber wir hielten uns fest an den Demonstrationen des Verfassers, wir prägten seine Vordersätze unsrer Fassungskraft ein, wir fühlen kaum, daß wir aus Laien Kundige geworden sind, daß wir uns mitten in dem Systeme selbst befinden.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="letter-sparse">Littrow’s Himmel, seine Welten und seine Wunder</tei:hi>
-        <tei:seg> riß vielleicht schon zu früh in das Gebiet mathematischer Abstraktionen hinein, die nicht Jedem gegenwärtig sind; doch schön ist es, daß die Popularität nichts der Wissenschaft entzieht, was ihr gehört. Die geschmackvolle Ausdrucksweise des Verfassers ist seinem Gegenstande durchweg angemessen.</tei:seg>
+        <tei:ref type="esv" target="#annotation-29">
+          <tei:hi style="letter-sparse">Littrow’s Himmel</tei:hi>
+        </tei:ref>
+        <tei:hi style="letter-sparse">, seine Welten und seine Wunder</tei:hi>
+        <tei:seg> riß vielleicht schon zu früh in das Gebiet mathematischer Abstraktionen hinein, die nicht Jedem gegenwärtig sind; doch schön ist es, daß </tei:seg>
+        <tei:ref type="esv" target="#annotation-31">die Popularität nichts der Wissenschaft entzieht</tei:ref>
+        <tei:seg>, was ihr gehört. Die geschmackvolle Ausdrucksweise des Verfassers ist seinem Gegenstande durchweg angemessen.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="letter-sparse">Hugo’s Geschichte des Kaisers Napoleon</tei:hi>
+        <tei:ref type="esv" target="#annotation-30">
+          <tei:hi style="letter-sparse">Hugo’s Geschichte des Kaisers Napoleon</tei:hi>
+        </tei:ref>
         <tei:seg> machte so viel Glück, daß eine zweite Auflage und neue Bearbeitung von </tei:seg>
         <tei:hi style="letter-sparse">Elsner</tei:hi>
         <tei:seg> zulässig wurde. Mehre Hefte des letztern liegen uns vor; doch scheint der jetzige Bearbeiter, auf die Bereitwilligkeit des Publikums rechnend, sich in Ausdehnungen zu gefallen. Bei solchem Streben müssen denn Dinge unterlaufen, wie man sie zur Ergötzlichkeit z. B. Bd. II. S. 97 liest: „Man kann die Seemächte theilen in die katholischen, protestantischen und neutralen.“ Diese Eintheilung ist drollig. Was hat die Religion mit der Marine zu thun?</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
-        <tei:seg> stieß im Anfang seines Erscheinens auf kritische Hindernisse. Der Name des Verfassers war so geflissentlich maskirt, und die Erscheinung des werthvollen Werkes von Preuß hatte das Hauptverdienst, welches man sich um Friedrich II. erwerben konnte, in Mittheilung aus archivalischen Quellen gestellt. Doch rechtfertigte der Verfolg den Verfasser und gibt einen denkenden und von seinem Gegenstande hinlänglich ergriffenen Kopf zu erkennen. Der Styl ist edel und angemessen, vielleicht etwas zu voll. Charakteristisch für einen Süddeutschen ist es, sich so in Preußische Anschauungen und in ein patriotisches Ge-</tei:seg>
+        <tei:ref type="esv" target="#annotation-32">
+          <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
+        </tei:ref>
+        <tei:seg> stieß im Anfang seines Erscheinens auf kritische Hindernisse. Der Name des Verfassers war so geflissentlich maskirt, und die Erscheinung des </tei:seg>
+        <tei:ref type="esv" target="#annotation-33">
+          <tei:seg>werthvollen Werkes von </tei:seg>
+          <tei:hi style="letter-sparse">Preuß</tei:hi>
+        </tei:ref>
+        <tei:seg> hatte das Hauptverdienst, welches man sich um Friedrich II. erwerben konnte, in Mittheilung aus archivalischen Quellen gestellt. Doch rechtfertigte der </tei:seg>
+        <tei:ref type="esv" target="#annotation-34">Verfolg</tei:ref>
+        <tei:seg> den Verfasser und gibt einen denkenden und von seinem Gegenstande hinlänglich ergriffenen Kopf zu erkennen. Der Styl ist edel und angemessen, vielleicht etwas zu voll. Charakteristisch für einen Süddeutschen ist es, sich so in Preußische Anschauungen und in ein patriotisches Ge-</tei:seg>
         <tei:pb n="551"/>
         <tei:seg>fühl von jenseits der Elbe zu versetzen, wie hier geschehen ist.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
-        <tei:seg>Im Allgemeinen aber bitten wir die Firma </tei:seg>
-        <tei:hi style="letter-sparse">Scheible</tei:hi>
+        <tei:seg>Im Allgemeinen aber bitten wir die </tei:seg>
+        <tei:ref type="esv" target="#annotation-39">Firma </tei:ref>
+        <tei:ref type="esv" target="#annotation-35">
+          <tei:hi style="letter-sparse">Scheible</tei:hi>
+        </tei:ref>
         <tei:seg>, in ihrer heillosen Büchermacherei einzuhalten und die kaum erwachte Theilnahme des Publikums durch übergroße Zudringlichkeit nicht zu erkälten.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">keine Plakate und große Kupferwerke</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Zwar warb auch schon der von Gutzkow so bezeichnete ,alte‛ Buchhandel mit ausgehängten Plakaten und druckgraphischen Erzeugnissen. Öffentliche Aushänge des Angebots waren sogar bereits in der Handschriftenzeit vor Erfindung des Buchdrucks mit beweglichen Lettern üblich. Jedoch wurden die buchhändlerischen Werbemethoden im ersten Drittel des 19. Jahrhunderts aufgrund der zunehmenden Industrialisierung im Buchgewerbe wie auch in anderen Geschäftsbranchen aufdringlicher. Vgl. die Erläuterungen zum Begriff ,Ausverkauf‛ in </tei:seg>
+          <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
+          <tei:seg>, → Erl. zu 158,15.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:foreign>la vie et la bourse</tei:foreign>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Räuberausdruck lautet im Französischen (wie im Deutschen ‚Geld oder Leben!‛) eigentlich: ‚La bourse ou la vie!‛ Die Variante ,Geld und Leben!‛, also  ‚la bourse et la vie!‛, war ein Topos für fordernde Unverschämtheit.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Einige Firmen fuhren sechsspännig</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die sechsspännige Pferdekutsche war aristokratisches Statussymbol und dient hier metaphorisch für den außerordentlichen Wohlstand und gesellschaftlichen Status einiger Verlagsbuchhandlungen im 18. Jahrhundert. Gutzkow verwendet das Bild des Fuhrwerkeigentümers mehrfach, um den sozialen Aufstieg und das wachsende Selbstbewusstsein der am literarischen Markt Beteiligten in den ersten Jahrzehnten des 19. Jahrhunderts zu bezeichnen. So beschreibt er die inzwischen erlangte Unabhängigkeit der deutschen Literatur von fürstlichen Mäzenen und die zunehmende moderne Stilsicherheit zeitgenössischer deutscher Schriftsteller als einen Zustand, in dem die Literatur sich Einspänner und sogar zwei Pferde leisten könne (→ Rezension von August Lewalds „Panorama von München“, 1835). Als ,konkrete Metapher‛ erscheint der Einspänner, wenn Gutzkow die Ankunft des umtriebigen Pariser Verlegers Bossange in Leipzig schildert, dessen elegantes, vom Buchhändler selbst gelenktes Cabriolet in einem aufgepackten Korb die neuesten Nummern des „Pfennig-Magazins“ liefert. Das Gefährt versinnlicht die urbane Beweglichkeit und den finanziellen Erfolg des Verlags (→ </tei:seg>
+          <tei:q>Die Pfennig-Litteratur</tei:q>
+          <tei:seg>, 1834).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">seine Schriften auf eigne Rechnung verlegen</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Gotthold Ephraim Lessing gründete 1767 zusammen mit dem Übersetzer und Druckereibesitzer Johann Joachim Christoph Bode (1731-1793) in Hamburg einen Autorenselbstverlag und druckte dort ab 1767 seine „Hamburgische Dramaturgie“. Außerdem planten Lessing und Bode eine Literatursammlung „Deutsches Museum“, in der die besten Werke deutscher Schriftsteller publiziert werden sollten. Die Idee des Selbstverlags unter Umgehung der professionellen Verleger wurde im letzten Drittel des 18. Jahrhunderts auch von anderen Schriftstellern aufgegriffen, um sich höhere Einnahmen zu sichern; bekannte Beispiele einer solchen Publikationsweise sind Christoph Martin Wielands „Teutscher Merkur“ (1773ff.), der zunächst im „Verlag der Gesellschaft“ in Weimar erschien, und Friedrich Gottlieb Klopstocks „Deutsche Gelehrtenrepublik“ (1774), ein Werk, das auf Rechnung des Autors ebenfalls bei Bode in Hamburg gedruckt wurde. Diese Alternative zum traditionellen Verlag konnte sich jedoch wegen Boykottierungen durch etablierte Firmen und auch aus Rentabilitätsgründen nicht durchsetzen. Klopstock z. B. klagte, man habe ihn </tei:seg>
+          <tei:q>bei Ankauf des Papiers „chikanirt,“ so daß er es sich aus Holland hätte müssen kommen lassen</tei:q>
+          <tei:seg> (vgl. Gutzkows Artikel → </tei:seg>
+          <tei:q>Die Subskribenten auf Klopstocks Gelehrtenrepublik</tei:q>
+          <tei:seg>, 1838).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Lesezirkel</tei:citedRange>
+          <tei:seg>  </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Mit Expansion der periodischen Presse ab Mitte des 18. Jahrhunderts kamen besonders im städtischen Bürgertum Lesegesellschaften auf: Einzelne Interessenten schlossen sich zusammen und abonnierten aus Kostengründen gemeinsam Zeitschriften und Zeitungen, die reihum gelesen wurden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">populären Schriften</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Dies bezieht sich auf die Literatur in heftweisen Lieferungen, durch die Wissen popularisiert wurde; mit anderen Worten, auf die neueste Entwicklung in der literarischen Industrie der 1830er Jahre. Auf sie geht Gutzkow gegen Ende seines Artikels ein.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,22-23</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„beispiellos wohlfeilen“ Periode</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Pioniere in der Produktion von preiswerten, ,wohlfeilen‛ Ausgaben waren die Stuttgarter Verlagsunternehmer (→ Lexikon: Spekulativer Verleger), allen voran in 1820er Jahren die Firma Franckh. Der im Folgenden von Gutzkow porträtierte junge Sortimentsbuchhändler führt die neuesten ,wohlfeilen‛ Artikel, nicht nur, aber auch von Stuttgarter Verlagen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">gründete sich auf Nichts</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Hinweis darauf, dass der Buchhandel seit den 1820er Jahren durch zahlreiche neu gegründete Firmen charakterisiert war (→ [Modernes Antiquariat], Text [1.]), die nicht auf die Geschichte eines Familienunternehmens zurückblickten und kein ererbtes Kapital besaßen. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-36">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ein neuer Laden ausgebrochen</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Ladengeschäfte mussten häufig in Erdgeschoss-Wohnräumen errichtet werden, und zu diesem Zweck wurde eine Ladenfassade zur Straße ,ausgebrochen‛. Vgl. folgende Berliner Anzeige: „Zum 1. April d. J. ist in einer lebhaften Gegend ein Zimmer parterre zu vermiethen, woraus ein Laden ausgebrochen werden kann.“ (Berlinische Nachrichten von Staats- und gelehrten Sachen, Nr. 31, 14. März 1815.) </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,28-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ferbitz</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>C. W. Ferbitz </tei:seg>
+          <tei:metamark function="missing">(...-...)</tei:metamark>
+          <tei:seg>, Parochialschullehrer und Schulvorsteher in Berlin, war Verfasser eines um 1818 zuerst erschienenen Schulrechenbuches, der „Kurzen Anweisung zu den im gewöhnlichen Leben vorkommenden Rechnungsarten ohne Brüche, nebst einer großen Menge geordneter Beispiele für jede Regel bearbeitet“. Die 7. Auflage datiert von 1834, die 9. von 1842. Gutzkow erwähnt ,den Ferbitz‛ im Zusammenhang mit seiner frühen Berliner Schulzeit (→ </tei:seg>
+          <tei:q>Aus der Knabenzeit</tei:q>
+          <tei:seg>, GWB VII, Bd. 1, S. 102): </tei:seg>
+          <tei:q>Was lernt man in solchen „Klippschulen“? Damals nach alter Methode lesen, in liegenderem antisächsischen Ductus nach Heinrigs schreiben, nach dem Schwiegersohn des Meisters, dem vielberühmten „Ferbitz“ rechnen</tei:q>
+          <tei:seg> [...].</tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Splittegarb</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Carl Friedrich Splittegarb (1753-1802), Pädagoge und Leiter einer Knabenschule in Berlin, schrieb Lese- und Rechenbücher sowie Sprachlehrwerke für den Schulunterricht, auch Handbücher für Lehrer. Zu den Unterrichtswerken gehören: „Neues Bilder-ABC. Eine Anleitung zum Lesen, dergleichen es bisher noch nicht gab“ (1787), „Neues Bilder-ABC oder Deutsches Lesebuch für die Jugend“ (1795-1798), sowie „Deutsche Sprachlehre für Anfänger mit Aufgaben“ (10. Aufl. 1824), „Anleitung zum Rechnen“ (9. Aufl. 1825), und „Französisches Lesebuch für Anfänger: nebst einer kurzgefaßten Grammatik und einem französ.-deutschen Wörterbuch“ (10. Aufl. 1831).</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">97,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kinderfreund</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>„Der Kinderfreund. Ein Lesebuch zum Gebrauch in Landschulen“ von Friedrich Eberhard Freiherr von Rochow (1734-1805) erschien 1776 (Teil 1) und 1779 (Teil 2). Das Werk war das erste Volksschullesebuch und eines der erfolgreichsten Bücher des letzten Drittels des 18. Jahrhunderts, von dem in kurzer Zeit 100.000 Exemplare abgesetzt wurden. Das Buch erlebte insgesamt fast 200 Auflagen und wurde bis 1871 im Volksschulunterricht eingesetzt.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Leipziger Ballen</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Bücher wurden ungebunden und gerollt als ,Ballen‛ in Fässern transportiert, um sie vor Feuchtigkeit zu schützen. Die Buchhandelsmetropole Leipzig war ab der Mitte des 18. Jahrhunderts der wichtigste Umschlagplatz für Bücherversendungen: Verleger im deutschen Sprachraum und auch im Ausland schickten Neuerscheinungen an ihre Kommissionäre in Leipzig, die die Sendungen wiederum in der entsprechenden Stückzahl auf die von ihnen belieferten Buchhandlungen im Deutschen Bund aufteilten und versandten.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Brüsseler Nachdruck</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Bezeichnenderweise ist der erste der preiswerten Artikel, mit denen der junge Buchhändler Kunden anzulocken versucht, ein Produkt der damals kontrovers diskutierten belgischen Nachdruckindustrie (→ Lexikon: Brüsseler Nachdruck). </tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Fürst</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Wie der im selben Satz genannte Kollmann verlegte der in Nordhausen ansässige E. F. Fürst (1802-1861) besonders populäre Unterhaltungsliteratur. Dieser Verleger spezialisierte sich auf Ritter-, Räuber- und Abenteuerromane. Als Beispiel sei ein Werk des Verlagsautors C. F. Fröhlich genannt: „Der Alte vom Berge, oder: Thaten und Schicksale des tapfern Templers Hugo v. Maltitz, und seiner geliebten Mirza. Ein Gemälde aus den Zeiten der Kreuzzüge. Nordhausen: Fürst, 1828“ (Preis: 1 Taler); „neue, wohlfeile Ausgabe 1834“ (Preis: 18 Groschen). Angaben nach Wilhelm Heinsius: Allgemeines Bücher-Lexikon. Bd. 8, Abt. 1, bearb. von August Otto Schulz. Leipzig: Brockhaus, 1838. S. 249.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kollmann</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Christian Ernst Kollmann (1792-1855), Verleger in Leipzig, produzierte belletristische Literatur für Leihbibliotheken und gab zahlreiche preiswerte Unterhaltungs- und Jugendbibliotheken heraus. Seine „Bibliothek wohlfeiler Unterhaltungsschriften“ brachte zwischen 1829 und 1834 sechzehn Bändchen im Taschenformat. Bändchen 16 enthielt als „neue wohlfeile Ausgabe“ einen bereits 1822 bei Klein in Leipzig erschienenen Titel: „Schreckens-Tage der unglücklichen Elmira Czetikar, einer jungen Griechin aus Jassy. Eine Schauder-Geschichte aus der gegenwärtigen griechisch-türkischen Kriegs-Epoche. Aus den Papieren eines ***schen Gesandtschafts-Sekretairs. Frei nach dem Englischen bearbeitet von C. M. Rittler. Neue wohlfeile Ausgabe“ (Preis: 12 Groschen; Angaben nach Heinsius, Abt. 1, S. 84).</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Tutti frutti</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>1834 erschien in fünf Bänden und anonym das Werk „Tutti Frutti“ des Fürsten Hermann von Pückler-Muskau, der mit seinen ebenfalls anonym publizierten vierteiligen „Briefen eines Verstorbenen“ (1830, 2. Auflage 1831) größten Erfolg erzielt hatte. Pücklers witzige, scharfsinnige Reisebeobachtungen in den „Briefen“ wirkten stark auf das zeitgenössische Interesse an landeskundlich-politischer Lektüre. Pücklers Verlag war zunächst Franckh, dann Hallberger in Stuttgart: der erstere ein Pionier in preiswerten Ausgaben, der letztere eine der geschäftstüchtigen, mit gängigen belletristischen Artikeln wirtschaftenden Firmen. Gutzkows junger Buchhändler wirbt mit „Tutti frutti“ wie mit dem größten Trumpf aus seinem Angebot an Neuerscheinungen. – Pückler-Muskau stand seiner eigenen aristokratischen Schicht sehr kritisch gegenüber und entwickelte in „Tutti Frutti“ die Idee einer Adelsreform. Nach Erscheinen dieses Werkes widmete Gutzkow Pückler im „Literatur-Blatt“ des „Phönix“ (28. Januar 1835) einen höchst lobenden Essay (→ </tei:seg>
+          <tei:q>Der Fürst Pückler-Muskau</tei:q>
+          <tei:seg>).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-37">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,9-12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">der praktizirende Arzt [...] eine alte Betschwester</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Hier ist das Publikum des traditionellen Sortimentsbuchhandels erfasst, das sich mit den ,wohlfeilen‛ Produkten der literarischen Industrie nicht abgibt. Es besteht aus mehr oder weniger wohlhabenden, angesehenen Gebildeten und einzelnen, die sich ostentativ zur besseren Gesellschaft zählen wie die im Deutschen bewanderte englische Familie, die sich einen Bedienten hält und in Deutschland Geld sparen will, und die </tei:seg>
+          <tei:q>alte Betschwester</tei:q>
+          <tei:seg>, laut Grimm (Bd. 1,  Sp 1722) eine „simulatrix pietatis“, d. h. eine Scheinfromme.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Subscriptionslisten</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Seit dem 17. Jahrhundert wurden bei aufwändigen, meist bei mehrbändigen Werken Vorausbesteller (Subskribenten) zur Abnahmeverpflichtung angeworben, was den Absatz vorauskalkulierbar und damit sicherer machen sollte. Die Liste der Subskribenten wurde oft, u. a. zu Werbezwecken, auf den ersten Seiten eines Werkes publiziert (→ Gutzows Beitrag </tei:seg>
+          <tei:q>Die Subscribenten auf Klopstocks Gelehrtenrepublik</tei:q>
+          <tei:seg>, 1838). Der hier porträtierte junge Buchhändler legt seiner unerbetenen Buchsendung Einladungen zur Subskription gleich mehrerer angezeigter Werke bei, die der Empfänger unterschreiben (subskribieren) soll. Mit der Subskription eines neu erscheinenden Titels war meist eine Preisermäßigung verbunden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">à condition</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Franz. ,bedingungsweise‛. Der Ausdruck bezeichnet den ,Bedingtverkehr‛ im deutschen Buchhandel seit Ende des 18. Jahrhunderts: Verlage lieferten dem Sortimentsbuchhandel unaufgefordert Neuerscheinungen zu, die bei Nichtverkauf an den Verlag zurückgegeben werden durften. Der neue Buchhändler sendet zum Erwerb von Kundschaft also aus seinem gerade angekommenen Leipziger Bücherballen voller Titel, die ihm </tei:seg>
+          <tei:q>à condition</tei:q>
+          <tei:seg> zugekommen sind, Exemplare ungebeten zur Ansicht an Unbekannte weiter.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,19-20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">diesem Orte von 15000 Seelen [...] Bedürfnisse schaffen</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>In der Taktik, Lesebedürfnisse künstlich zu schaffen, sieht Gutzkow den Grund für die inflationäre Entwertung der Literatur durch Überangebot. Verleger, die auf Gewinn spekulieren, sind daran ebenso beteiligt wie der hier portätierte Buchhändler, der ein Risiko eingeht, also auf Erfolg spekuliert. In seinem publizistischen Schlagabtausch mit dem Stuttgarter Verleger Hoffmann betont Gutzkow die große Zahl neu gegründeter Buchhandlungen in Städten wie Frankfurt, einer Stadt mit 50.000 Einwohnern, deren Bücherbedarf in keinem Verhältnis zu dem hohen Bücherangebot stehe (→ [Modernes Antiquariat]).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Spekulant</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>→ Erl. zu 98,19-21 und → Lexikon: Spekulativer Verleger.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Buchhändler Reimer</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Georg Andreas Reimer (1776-1842), Verleger und Buchhändler in Berlin, übernahm 1800 die Berliner Realschulbuchhandlung als Grundstock für den eigenen Verlag und etablierte 1822 durch den Ankauf der renommierten Weidmannschen Verlagsbuchhandlung in Leipzig einen zweiten Sitz in der sächsischen Buchhandelsmetropole. Er ist als Verleger der Romantik bekannt geworden: Bei Reimer erschienen die Werke von Novalis, Jean Paul, Ludwig Tieck, Achim von Arnim, Friedrich und August Wilhelm Schlegel, E. T. A. Hoffmann und den Brüdern Grimm. Reimers Autoren verweisen auf die Bedeutung des Verlags für die deutsche Literaturgeschichte.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">98,27-28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">verschossenes Makulatur</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>„Makulatur (lat.), ursprünglich und eigentlich die beim Druck eines Werkes schadhaft  gewordenen oder fehlerhaft gedruckten Bogen; dann überhaupt entwertete Bücher oder andre Drucksachen; schlechthin unreines, nur zum Verpacken taugliches Papier.“ (Meyer, Bd. 13, S. 151.) Die von dem jungen Buchhändler verwendeten Makulaturbögen sind offenbar unverkaufte, vergilbte alte Druckerzeugnisse aus der romantischen Glanzperiode des Verlages Reimer. Die Verpackung wertloser Druckerzeugnisse der literarischen Industrie in bedrucktem Papier, welches für einstigen literarischen Wert und Buchhandelsethos steht, versinnlicht den Unterschied zwischen ,neuem‘ und ,altem‘ Buchhandel.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sortiments-, Kunst- und Musikalienhändler</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Typische Form eines buchhändlerischen Mischgeschäfts im 19. Jahrhundert. ,Sortimentshändler‘ steht hier als Kurzform für ,Sortimentsbuchhändler‘ (d. h. den Buchladeninhaber im Unterschied zum Verlagsbuchhändler). Der Buchladenhändler führte in seinem Angebot meist außer Büchern und Broschüren auch Kunstdrucke und Musiknoten, um sein Geschäft zu beleben.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Genrebild</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Aus der Bildenden Kunst entlehnter, zeitgenössisch gängiger Ausdruck für ,Zeichnung nach dem Leben‛. Gutzkow bezieht sich auf das soeben gezeichnete Bild vom Typus des neuen, aufsteigenden, auf bisher unerreichte Leser spekulierenden Buchhändlers.  Solche protosoziologischen ,Genrebilder‛ waren in der Journalistik der 1830er Jahre Mode, oft mit einer sozio-geographischen Ausrichtung.  So verzeichnet z. B. der Frankfurter „Phönix“ im ersten Halbjahr 1835, also in dem Zeitraum, in den die Veröffentlichung von Gutzkows </tei:seg>
+          <tei:q>Werken der Industrie</tei:q>
+          <tei:seg> fällt, Beiträge dieser Gattung wie Eduard Beurmanns „Die Borjer (Bild aus Frankfurt)“ und „Skizzen aus den Hansestädten“ oder Eduard Kolloffs „Karaktergemälde aus Paris“.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-38">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Heftweise und die Pfennigsliteratur</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Bei der neuesten und eklatantesten Form der ,wohlfeilen‘ Druckerzeugnisse handelt es sich um die Literatur in billigen Lieferungen, die Gutzkow in einem eigenen Artikel schon 1834 behandelt hatte (→ </tei:seg>
+          <tei:q>Die Pfennig-Litteratur</tei:q>
+          <tei:seg>). Mit dieser Publikationsform gelang den Verlegern die Erschließung finanziell weniger potenter Leserschichten und der soziale Transfer von Bildung: Teure Enzylopädien und vielbändige wissenschaftliche Werke konnten in popularisierter, zunehmend illustrierter Form als Einzelhefte und dadurch in Ratenzahlung bezogen werden. Gutzkow erkennt diese Leistung unumwunden an, wie auch die Initiative des jungen Buchhändlers, in </tei:seg>
+          <tei:q>brave[n] Menschen</tei:q>
+          <tei:seg> (99,15) einen Bildungsehrgeiz zu erwecken. Die deutsche Heft- und Pfennigliteratur hatte ihr Vorbild in den französischen Feuilletonromanen und den frühen Pfennigjournalen, deren Entstehung im politischen Kontext der Julimonarchie bzw. der britischen Wahrechtsreform von 1832 anzusiedeln ist.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Embonpoint</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Franz.: Spitzbauch; Wohlbeleibtheit, Körperfülle.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Es leben die alten Firmen!</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die Behäbigkeit des traditionellen Buchhandels, bei dem die umtriebigen Verleger neuer Heftliteratur gar nicht erst anzuklopfen brauchen, hat für Gutzkow durchaus auch Vorzüge. Die Beharrung auf dem Ethos der Kulturvermittlung steht der wachsenden Entwertung des Literarischen entgegen. So lobt er z. B. den 1831 verstorbenen Frankfurter Verleger Franz Varrentrapp, Enkel des Firmengründers, dafür, dass er es als Ehrensache betrachtete, eigene Verlagstitel bei Auktionen zurückzukaufen, um ihre Veräußerung zu allzu niedrigen Preisen zu verhindern (→ [Modernes Antiquariat], Erl. zu 165,9).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">99,33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Lorenz Oken (1779-1851), Mediziner und Naturforscher, Professor in Zürich und dort Lehrer Georg Büchners, publizierte neben rein wissenschaftlichen Werken auf Initiative des Stuttgarter Verlegers Carl Hoffmann die „Allgemeine Naturgeschichte für alle Stände“. Dieses 1841 abgeschlossene siebenbändige Werk erschien ab 1833 in Heftlieferungen zu je 6 Bogen, Preis 5 Silbergroschen (Angaben nach Heinsius, Abt. 2, S. 82-83). Es gehört zu den bekanntesten Beispielen für die Popularisierung wissenschaftlicher Inhalte. Gutzkow bezog sich im Februar 1835 in seinem satirischen Vortrag → </tei:seg>
+          <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+          <tei:seg> scherzhaft auf Okens Projekt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">100,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Littrow’s Himmel</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Joseph Johann von Littrow (1781-1840), österreichischer Astronom, Professor an der Wiener Universität, war wie Lorenz Oken ein äußerst erfolgreicher Popularisierer seines Fachgebiets. Sein dreibändiges Werk „Die Wunder des Himmels oder gemeinfaßliche Darstellung des Weltsystems“ erschien 1834-36 ebenfalls als Lieferungswerk bei Hoffmann, pro Band 25 Bogen zu jeweils einem Taler (Bd. 1 und 2) bzw. 30 Bogen zu 1,80 Taler (Bd. 3; Angaben nach Heinsius, Abt. 1, S. 401). Das Werk war noch bis 1963 in immer neuen Bearbeitungen erhältlich und zählt zu den bekanntesten naturwissenschaftlichen Schriften überhaupt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-31">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">100,16-17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">daß die Popularität nichts der Wissenschaft entzieht</tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Diese Aussage kann als höchstes Lob des Kritikers Gutzkow gelten. Die Popularisierung gelehrten Wissens, insbesondere naturwissenschaftlicher und technischer Erkenntnisse, erfüllt ihren Bildungszweck, wenn die Komplexität der Inhalte zwar reduziert, aber nicht durch Vereinfachung verfälscht wird. Gutzkow selbst versuchte 1837 auf dem Gebiet der kulturellen Zeitgeschichte mit seinen → </tei:seg>
+          <tei:q>Zeitgenossen</tei:q>
+          <tei:seg> ein ähnlich ,populäres‘ Lieferungswerk unter dem Namen des in Deutschland vielgelesenen englischen Erfolgsautors E. L. Bulwer. Diese Studie blieb jedoch (u. a. wegen der Autor-Mystifikation, die die Aufmerksamkeit vom Inhalt ablenkte) ein relativer Misserfolg.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">100,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Hugo’s Geschichte des Kaisers Napoleon</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Die französische Originalausgabe von Abel Hugo: „Histoire de l’Empereur Napoléon“ war 1833 bei Perrotin in Paris  erschienen. Scheible in Stuttgart brachte das Werk 1834 in französischer Sprache und mit den Holzstichillustrartionen des Originals in fünf Lieferungen. Die deutsche Übersetzung durch August Schäfer folgte 1833-34 wiederum in fünf Lieferungen mit denselben Illustrationen beim selben Verlag: „Umfassende Geschichte des Kaisers Napoleon. Mit vollständiger Sammlung seiner Werke für gebildete Leser. In Verbindung mit mehreren Gelehrten Frankreichs und Deutschlands nach authentischen Quellen bearbeitet.“ Daraus wurde der von Gutzkow erwähnte Erfolgstitel in der von Heinrich Elsner bearbeiteten zweiten Auflage. Sie wurde von Scheible 1834-35 zuerst in 10 Lieferungen zu sechs Groschen ausgegeben, war außer den Holzstichvignetten zusätzlich mit sechs Stahlstichen versehen und erlebte weitere Auflagen (Angaben nach Heinsius, Abt. 1, S. 273).</tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-32">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">100,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>„Theobald Chauber“ war ein Pseudonym Berthold Auerbachs (→ Lexikon: Auerbach). Auf Anregung des Verlegers Johann Scheible erschien 1834 in drei Lieferungen zu je neun Groschen (Angabe nach Heinsius, Abt. 1, S. 138): „Friedrich der Große, König von Preußen. Sein Leben und Wirken; nebst einer gedrängten Geschichte des siebenjährigen Krieges. Für Leser aller Stände nach den besten Quellen historisch-biographisch bearbeitet“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-33">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">100,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:seg>werthvollen Werkes von </tei:seg>
+            <tei:hi style="letter-sparse">Preuß</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Wert bestand in der gründlichen Arbeit des Geschichtsprofessors: Johann David Erdmann Preuß: Friedrich der Große. Eine Lebensgeschichte. 4 Bde. Text, 5 Teile Urkunden. Berlin: Rauck, 1832-34. Zusätzlich kam vom selben Verfasser eine Art ,Volksausgabe‘ heraus: Die Lebensgeschichte des großen Königs Friedrich von Preußen. Ein Buch für Jedermann. 2 Teile. Berlin: Rauck, 1834.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-34">
+        <tei:p style="text-left">
+          <tei:seg>101,1 Verfolg</tei:seg>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Laut Grimm (Bd. 25, Sp. 346) geriet das Substantiv , das ,Nachfolge‘, ,Aufeinanderfolge‘ bezeichnet, im Neuhochdeutschen in Vergessenheit, wurde aber im 18. Jahrhundert wieder belebt und im 19. Jahrhundert „meist durch ,fortsetzung‘ oder das einfache ,folge‘ ersetzt“. In diesem Zusammenhang bezeichnet </tei:seg>
+          <tei:q>der Verfolg</tei:q>
+          <tei:seg> also die folgenweise Publikation in Heften.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-39"/>
+      <tei:interp type="esv" xml:id="annotation-35">
+        <tei:p style="text-left">
+          <tei:citedRange type="page-line-ref">101,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:seg>Firma </tei:seg>
+            <tei:hi style="letter-sparse">Scheible</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p style="text-left">
+          <tei:seg>Der Verlag von Johann Scheible </tei:seg>
+          <tei:metamark function="missing">(...-...)</tei:metamark>
+          <tei:seg> gehörte zu den dynamischen Stuttgarter Firmen (→ Lexikon: Spekulativer Verleger). Ein extremes Beispiel für die kommerzielle Ausnutzung seiner Artikel bietet Abel Hugos „Geschichte des Kaisers Napoleon“ (→ Erl. zu 100,19), die vom französischsprachigen Werk zur Übersetzung und schließlich zur bearbeiteten Publikation wurde. Während aller seiner Mutationen kam dieses Werk in lukrativen Lieferungen heraus. Bei Scheible erschienen Werke häufiger zunächst in der französischen Originalsprache, und eine Übersetzung folgte nach Kalkül.</tei:seg>
+        </tei:p>
+        <tei:p style="text-left"/>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -117,19 +637,19 @@
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg> auf. </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left"/>
@@ -142,10 +662,10 @@
         </tei:item>
       </tei:list>
       <tei:p style="text-left"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -154,7 +674,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -175,7 +695,7 @@
         <tei:seg> </tei:seg>
         <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -195,7 +715,7 @@
         <tei:sic>Verfolg</tei:sic>
         <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
@@ -234,7 +754,7 @@
       <tei:p style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p style="no-indent text-left">
