@@ -131,10 +131,22 @@
         }
 
         .node-paragraph {
-            text-indent: 2rem;
-
-            &[data-noindent="true"] {
-                text-indent: 0;
+            @for $width from 0 through 200 {
+                &[data-marginleft="#{$width/10}"] {
+                    margin-left: #{$width/10}cm;
+                }
+                &[data-marginright="#{$width/10}"] {
+                    margin-right: #{$width/10}cm;
+                }
+                &[data-margintop="#{$width/10}"] {
+                    margin-top: #{$width/10}cm;
+                }
+                &[data-marginbottom="#{$width/10}"] {
+                    margin-bottom: #{$width/10}cm;
+                }
+                &[data-firstlineindent="#{$width/10}"] {
+                    text-indent: #{$width/10}cm;
+                }
             }
 
             &[data-textalign="center"] {
