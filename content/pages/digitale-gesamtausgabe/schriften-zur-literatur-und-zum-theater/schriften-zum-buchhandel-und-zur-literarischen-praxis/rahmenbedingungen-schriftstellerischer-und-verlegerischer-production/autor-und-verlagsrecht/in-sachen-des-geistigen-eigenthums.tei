@@ -50,7 +50,7 @@
         <tei:pb n="1"/>
         <tei:seg> In Sachen des geistigen Eigenthums.</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Sollte Hr. </tei:seg>
         <tei:foreign>
           <tei:hi style="letter-sparse">Dr.</tei:hi>
@@ -66,11 +66,6 @@
         <tei:foreign>a dato</tei:foreign>
         <tei:seg> der ersten Veröffentlichung wolle man doch ganz verwerfen. In Dingen, die wir besser haben, sollten wir uns nicht zu Affen der Engländer machen.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:signed>
-          <tei:hi style="letter-sparse">                                                                                                                                 Gutzkow.</tei:hi>
-        </tei:signed>
-      </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head type="level-1">
@@ -85,7 +80,7 @@
       <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head type="level-3">
@@ -108,16 +103,16 @@
       <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">37,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Form. Manches</tei:lem>
@@ -125,7 +120,7 @@
         <tei:hi style="letter-sparse">Form</tei:hi>
         <tei:seg> Manches</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">38,9</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>diese</tei:lem>
@@ -135,7 +130,7 @@
       <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

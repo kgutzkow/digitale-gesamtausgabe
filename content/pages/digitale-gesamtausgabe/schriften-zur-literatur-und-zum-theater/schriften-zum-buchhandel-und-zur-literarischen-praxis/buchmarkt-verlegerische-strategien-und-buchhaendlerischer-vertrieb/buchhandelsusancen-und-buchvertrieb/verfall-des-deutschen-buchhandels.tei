@@ -46,11 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="1328"/>
-        <tei:seg> [Verfall des deutschen Buchhandels.]</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Verfall des deutschen Buchhandels.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>* Man spricht soviel von dem Verfall des deutschen Buchhandels, aber die wahren Gründe desselben anzugeben, ist man nicht aufrichtig genug. Einer derselben liegt in der immer mehr abnehmenden Solidität der Sortimentshändler, an welcher diese jedoch selbst nur zum Theil schuld sind; ihr allmäliger Ruin geht von den Verlegern, den Antiquaren und den Leipziger Commissionären aus. Die bedeutendsten deutschen Verleger z. B. haben seit längerer Zeit die Gewohnheit, in Leipzig und Halle große Auktionen von ihrem Verlage zu veranstalten, so daß die an Ort und Stelle befindlichen Commissionäre zu den billigsten Preisen ganze Ballen gangbarer Artikel einkaufen können. Nun verlangt irgend ein Buchhändler in entfernten Gegenden von seinem Commissionär ein solches Werk; statt den Bestellzettel an den rechtmäßigen Verleger zu befördern, giebt dieser das Buch aus seinem eignen Vorrathe her und setzt dafür natürlich den festen Ladenpreis an. Auf diese Art sollen Leipziger Commissionäre jährlich mehre tausend Thaler zum Ruin ihrer Committenten gewinnen. Die Verleger, die einen solchen Wucherhandel </tei:seg>
         <tei:hi style="letter-sparse">möglich</tei:hi>
         <tei:seg> machen, sind zuletzt immer noch die tadelnswerthesten; denn wenn sie offen im Angesichte des ganzen Buchhandels ihre Artikel verauktionirten, so würden sich </tei:seg>
@@ -71,7 +72,7 @@
       <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head type="level-3">
@@ -88,14 +89,14 @@
       <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
       <tei:head type="level-3">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

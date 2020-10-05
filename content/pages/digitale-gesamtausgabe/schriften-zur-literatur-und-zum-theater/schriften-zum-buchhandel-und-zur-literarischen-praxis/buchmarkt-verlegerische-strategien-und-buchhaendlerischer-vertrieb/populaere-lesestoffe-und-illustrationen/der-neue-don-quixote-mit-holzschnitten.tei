@@ -50,7 +50,7 @@
         <tei:pb n="281"/>
         <tei:seg> Der neue Don-Quixote mit Holzschnitten.</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wenn man die </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Industrie</tei:ref>
         <tei:seg> und den Unternehmungsgeist des Buchhandels, wie er sich seit länger als zehen Jahren in Deutschland entwickelt hat, verfolgt, so wird man leicht gewisse Perioden unterscheiden können, wo sich die </tei:seg>
@@ -67,7 +67,7 @@
         </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Man versteht unter dieser Art, berühmte Werke herauszugeben, eine </tei:seg>
         <tei:ref type="esv" target="#annotation-7">in Frankreich und England mit beispiellosem Erfolg aufgenommene</tei:ref>
         <tei:seg> </tei:seg>
@@ -82,7 +82,7 @@
         <tei:ref type="esv" target="#annotation-11">sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:ref type="esv" target="#">Der in Stuttgart erscheinende </tei:ref>
         <tei:ref type="esv" target="#annotation-12">
           <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
@@ -117,7 +117,7 @@
         <tei:ref type="esv" target="#annotation-23">Reinecke Fuchs</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Als einen besonders sinnigen Zug muß man den Stuttgarter Herausgebern dieses </tei:seg>
         <tei:hi style="letter-sparse">illustrirten Don Quixote</tei:hi>
         <tei:seg> nachsagen, daß sie, um ein neues industrielles Genre in die Literatur einzuführen und es mit der Weihe der Bedeutsamkeit zu versehen, </tei:seg>
@@ -133,10 +133,6 @@
         <tei:seg> nicht erschienen; sie wird am Eingangsportale des Ganzen als würdiger Wappenträger und Schildhalter stehen. Heine und Cervantes führen dieselben Thiere in ihrem Wappen: </tei:seg>
         <tei:ref type="esv" target="#annotation-26">die Nachtigall, das Eichhörnchen und den Fuchs</tei:ref>
         <tei:seg>.</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>                                                                                                                                                                                                                                                                      </tei:seg>
-        <tei:signed> G.</tei:signed>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
         <tei:p style="text-left">
@@ -383,12 +379,12 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-22">
-        <tei:p style="no-indent text-left"/>
-        <tei:p style="no-indent text-left">
+        <tei:p style="text-left"/>
+        <tei:p style="text-left">
           <tei:citedRange type="page-line-ref">137,19-20 </tei:citedRange>
           <tei:citedRange type="word-range">Die geringste Verzierung steht im Zusammenhange des Ganzen</tei:citedRange>
         </tei:p>
-        <tei:p style="no-indent text-left">
+        <tei:p style="text-left">
           <tei:seg>Gutzkow formuliert hier treffend die Ästhetik der Holzstichillustration. Von der unscheinbaren Vignette bis zum detailreichen Bild steht die visuelle Darstellung stets in Beziehung zu dem Text, in den sie eingefügt ist; sie hat niemals bloß schmückenden Charakter. Vgl. Illustrationen zu Kap. II der französischen Ausgabe: → Bilder und Materialien. Bilder.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -403,7 +399,7 @@
           <tei:q>weltironischen</tei:q>
           <tei:seg> Status zuspricht, liegt wahrscheinlich an Goethes Bearbeitung (1794), durch die der Stoff eine deutliche sozialkritische Ausrichtung erhielt. Das Reineke-Epos wurde auch schon vor dem 19. Jahrhundert oft illustriert.</tei:seg>
         </tei:p>
-        <tei:p style="no-indent text-left"/>
+        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-24">
         <tei:p style="text-left">
@@ -433,13 +429,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-26">
-        <tei:p style="no-indent text-left"/>
-        <tei:p style="no-indent text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">137,32-33</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">die Nachtigall, das Eichhörnchen und den Fuchs</tei:citedRange>
+          <tei:citedRange type="word-range">die Nachtigall, das Eichhörnchen und den Fuchs]</tei:citedRange>
         </tei:p>
-        <tei:p style="no-indent text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:metamark function="missing">Zu erläutern</tei:metamark>
           <tei:citedRange type="word-range"/>
         </tei:p>
@@ -449,7 +445,7 @@
       <tei:head type="level-1">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left"/>
+      <tei:p style="text-left"/>
       <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
@@ -459,7 +455,7 @@
       <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
@@ -477,7 +473,7 @@
       <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. </tei:seg>
       </tei:p>
       <tei:p style="text-left">
@@ -486,7 +482,7 @@
       <tei:head type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">136,29</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>befördernden</tei:lem>
@@ -501,7 +497,7 @@
       <tei:head type="level-3">
         <tei:seg>6.1 Globalkommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Gutzkows Rezension </tei:seg>
         <tei:q>Der neue D</tei:q>
         <tei:q>on-Quixote mit Holzschnitten</tei:q>

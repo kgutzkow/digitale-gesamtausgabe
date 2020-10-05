@@ -48,9 +48,10 @@
     <tei:body>
       <tei:head data-heading-id="" type="level-1">
         <tei:pb n="374"/>
-        <tei:seg> [Beschimpfung des Schriftstellerstandes.]</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Beschimpfung des Schriftstellerstandes.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Was das für ein Eifer ist, mit dem unsere Zeitungen einige Vagabonden verfolgen, die die Dreistigkeit gehabt haben, in ihren Pässen sich Literaten nennen zu lassen! Signalement: fünf Fuß drei Zoll, lange Finger, leerer Beutel, mehr Schulden als Haare auf dem Kopf, Gewerbe: </tei:seg>
         <tei:hi style="letter-sparse">Schriftsteller</tei:hi>
         <tei:seg>. In der That, die arme Literatur kommt immer mehr in’s Gedränge. Nicht nur, daß man sie der Censur überantworten muß, auch mit Steckbriefen müßt Ihr sie verfolgen. Nicht nur, daß so viel heillose Revolutionäre unter ihr stecken, auch Gauner und Diebe laufen mitunter und es fehlt nichts, als daß auf dem Parnaß ein Zuchthaus angelegt wird. Und doch muß man sich über die Einfalt unsrer Zeitungen entrüsten. Sie merken kaum, welches Vergnügen es manchem ihrer Leser gewähren wird, wenn sie so recht gründlich die artigen Streiche der Herren </tei:seg>
@@ -60,9 +61,6 @@
         <tei:seg> wiedererzählen. Wie könnt Ihr nur die Waffen so gegen Euch selbst führen? Wie könnt Ihr nur dulden, daß man so gründlich die Gaunereien von Menschen erörtert, denen es einmal eingefallen ist, sich für ihr gestohlenes Geld einen Doctortitel zu kaufen oder auf ihre Kosten ein paar Gedichte drucken zu lassen? In Berlin sind Gedichte von einem Mörder erschienen, Lacenaire hat Verse gemacht und die Lafarge ihre Memoiren geschrieben. Soll es hier auf die Beschimpfung eines Standes abgesehen seyn, so fragt man billig, warum beutet Ihr in gleicher Weise nicht auch die Escroquerieen von Menschen aus, die, wie jene sich Literaten, sich nicht nur Adlige nennen, sondern sogar Adlige sind? Verdient denn der Priesterstand diese Eure heftigen Ausfälle, wenn es sich einmal findet, daß ein Priester wegen fleischlicher Vergehen aus seinem Stande gestoßen würde? Oder habt Ihr die Professoren so heftig verunglimpft, als neulich ein Gießner Exemplar zu fünfjähriger </tei:seg>
         <tei:pb n="375"/>
         <tei:seg> Zuchthausstrafe verurtheilt wurde? Wenn sich so viele vornehme Leute zu freuen scheinen über den Makel, der den Literatennamen, den Namen eines deutschen Schriftstellers, in Mißkredit bringen soll, so möge man sich doch ja erinnern, daß die englischen Blätter vor einigen Jahren von hochgestellten Lords erzählten, die wegen Betrügereien von den Londoner Clubbs ausgeschlossen wurden. </tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:signed>                                                                                                                                                                                                                                                               G.</tei:signed>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
@@ -78,7 +76,7 @@
       <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head type="level-3">
@@ -95,7 +93,7 @@
       <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p style="text-left">
@@ -104,10 +102,10 @@
       <tei:head type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>In der Buchausgabe (GWB IV, Bd. 7) hätte ein Texteingriff erfolgen müssen:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">51,20</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ein paar</tei:lem>
@@ -117,10 +115,10 @@
       <tei:head type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Zur Buchausgabe ist folgende Textkorrektur zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">51,9</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>müsst</tei:lem>
@@ -130,7 +128,7 @@
       <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>

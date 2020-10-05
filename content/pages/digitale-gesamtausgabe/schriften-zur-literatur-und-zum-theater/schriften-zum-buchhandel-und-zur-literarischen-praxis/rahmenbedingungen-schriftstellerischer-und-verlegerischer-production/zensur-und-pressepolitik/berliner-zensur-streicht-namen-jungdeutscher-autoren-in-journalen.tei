@@ -46,11 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="472"/>
-        <tei:seg> [Berliner Zensur streicht Namen jungdeutscher Autoren in Journalen.]</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Berliner Zensur streicht Namen jungdeutscher Autoren in Journalen.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>* Mehre Blätter schreiben, daß einige Autoren in Berlin nicht genannt werden dürften, und daß die Censur mit consequenter Strenge jedesmal ihren Namen streiche, wo er in einem Journal unterläuft. Zur nähern Erläuterung dieser wirklich drolligen Maxime (die an jenen Frankfurter Censor erinnert, der deshalb, weil der Bundestag Belgien nicht anerkannt hat, regelmäßig das Wort </tei:seg>
         <tei:hi style="letter-sparse">Holland</tei:hi>
         <tei:seg> nicht in den dortigen Zeitungen dulden wollte) möchten wir wohl die Herren Redakteure Berlinischer Journale fragen, ob jene Mortifizirung nur dann gilt, wenn die betreffenden Autoren </tei:seg>
@@ -65,22 +66,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -88,62 +89,62 @@
           <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 59, [13.] April 1838, S. 472. (Rasch 3.38.04.13)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">63,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>dürfen</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>dürften</tei:sic>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">63,15</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>näheren</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>nähern</tei:sic>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">63,23</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Beurtheilung</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Verurtheilung</tei:sic>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:citedRange type="page-line-ref">63,28</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Vorteil</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Vortheil</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>5. Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>[Anon.:] Mosaik aus der Tagesgeschichte. Dr. Gutzkow kokettirt mit der Freundschaft eines Berliner Censors. In: Berliner Modenspiegel in- und ausländischer Originale. Nr. 17, 21. April 1838, S. 133.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
