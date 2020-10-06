@@ -23,9 +23,8 @@ build:
     - poetry install --no-dev
     - poetry run pelican -s publishconf.py -o output -d content
   only:
-    - master
     - default
-    - merge_requests
+#    - merge_requests
 
 validate:
   stage: validate
