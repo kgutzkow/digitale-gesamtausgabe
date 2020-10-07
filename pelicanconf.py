@@ -293,7 +293,7 @@ TAXONOMY = (
             ('[Über Dramen Edward Lytton Bulwers]', 'ueber-dramen-edward-lytton-bulwers', ()),
         )),
         ('10. Dramaturgische Schriften - Zum Bühnenleben - Oper und Musik', 'dramaturgische-schriften-zum-buehnenleben-oper-und-musik', (
-            ('[Franz Liszt in Hamburg]', 'franz-list-in-hamburg', ()),
+            ('[Franz Liszt in Hamburg]', 'franz-liszt-in-hamburg', ()),
             ('Richard Wagner\'sche Musik', 'richard-wagner-sche-musik', ())
         ))
     )),
