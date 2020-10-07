@@ -13,7 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
-        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -45,10 +44,9 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Dieses Werk ist zur Zeit nicht online verfügbar.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
