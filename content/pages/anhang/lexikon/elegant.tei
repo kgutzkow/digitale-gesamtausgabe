@@ -1,204 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>ZEITUNG 
-        FÜR DIE ELEGANTE WELT,</tei:title>
-<tei:author>Peter Hasubek</tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2001-09-09">2001-09-09</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #elegant"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-weight-bold font-size-large">ZEITUNG FÜR DIE ELEGANTE WELT,</tei:hi>
-<tei:seg> literarisch-kulturelle Zeitschrift, (Leipzig: Voss, 1801-1859), die - wie schon im Titel programmatisch angedeutet - das wohlhabende, aber auch gebildete Lesepublikum ansprechen wollte. Ihren Inhalt füllten Beiträge zu Kunst und Literatur ebenso wie Artikel zur aktuellen Mode und Einrichtung. Laube leitete die Zeitung als Redakteur vom 1. Januar 1833 bis zu seiner Verhaftung im Juli 1834; während des Interregnums bis zu seiner erneuten Leitung der Zeitung ab 1843 übernahmen August von Binzer (1834) und von 1835 bis 1842 Gustav Kühne die Redaktion. → </tei:seg>
-<tei:seg>Bilder und Quellen: Bilder. Handschriften und Drucke</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Allgemeines </tei:hi>
-<tei:hi style="font-weight-bold"> </tei:hi></tei:p>
-<tei:p>
-<tei:seg>Nach der Ankündigung in dem "Prospekt" (Estermann, S. 134-137) begann die "Zeitung für die elegante Welt" ab 1. Januar 1801, gegründet und herausgegeben von Johann Gottlieb Karl Spazier (1761-1805), im Verlag Leopold Voss (Leipzig) zu erscheinen. Unter wechselnden Herausgebern und Redakteuren mit verschiedenen Beiblättern ("Die Mode", "Pariser Modenpost", "Intelligenzblatt", "Feuilleton") und sich änderndem Programm bestand die Zeitung bis 1859. Wirtschaftlich wurde sie hauptsächlich vom Verlag, aber auch von anderen Geldgebern getragen. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Das vorerst dreimal (ab 1806 viermal in zwei Lieferungen) wöchentlich erscheinende Blatt richtete sich an ein Publikum, das bereits im Titel programmatisch ("elegante Welt") fixiert wurde: Es war jenes Publikum, das ökonomisch und geistig über die Möglichkeiten verfügte, sich an den angenehmen Seiten des Lebens zu erfreuen, gehobenes (besitzendes) Bürgertum und Adel, nach Spazier "jene begünstigte Klasse von Mitbürgern, denen Kultur und Stand und Wohlhabenheit zunächst ein Recht zu dieser Benennung geben" (Prospekt, Estermann, S. 134), denen also ohne wirtschaftliche und soziale Zwänge alle Güter der damaligen Welt zugänglich waren. Diese "höhern Stände" (Estermann, S. 135) waren nicht nur gesittet', sie verfügten auch über Bildung und Geschmack. Für die Befriedigung der Interessen dieses Leserkreises fehlte, so Spazier, bisher ein publizistisches Organ, das "</tei:seg>
-<tei:hi style="font-weight-bold">schnell und summarisch</tei:hi>
-<tei:seg>" entsprechende Mitteilungen in der "eleganten Welt" verbreitete, d. h. das "</tei:seg>
-<tei:hi style="font-weight-bold">Neueste</tei:hi>
-<tei:seg> und </tei:seg>
-<tei:hi style="font-weight-bold">Wesentlichste</tei:hi>
-<tei:seg>" von "Erfindungen, Ideen, Einrichtungen und Anlagen in Absicht auf schöne Kunst, auf häußliche Annehmlichkeit, auf Vorfälle des Tages aus der großen Welt" (Estermann, S. 135) zu publizieren. Diese Marktlücke wollte Spazier mit der "Zeitung für die elegante Welt" füllen. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die im Prospekt aufgezählten Inhalte der Zeitung entsprachen dem elitären Zuschnitt des Rezipientenkreises: allgemeine Aufsätze, die auf den Geschmack und den Schönheitssinn in "feineren Familienzirkeln" wirken, Beiträge, die den "neuen Geschmack" in "Kleidung, Nippes, Hauswesen, Zimmerverzierung, Ameublement" und "Gartenkunst" bilden, Hinweise auf Kunstwerke (Kupferstiche, Gemälde), Nachrichten über Theater, neue Stücke, Schauspieler, Schauspielerinnen, Badechroniken, Hoffeste, Jagden, also im wesentlichen Klatsch der höheren Gesellschaftsschichten, sodann "Literatur", aber nur für das "elegante Publikum" (Kunstschriften, Reisebeschreibungen), Miszellen (biographische Skizzen, Anekdoten, Lebensweise berühmter Männer); die ästhetische Literatur wurde nicht ausdrücklich erwähnt. Auf dem Umschlag der Zeitung werden die Inhalte präzisiert und zum Teil verändert (Charakteristiken von Städten und Ländern "in Rücksicht ihrer Kultur und gesellschaftlichen Verhältnisse", Literatur zur "belehrenden und angenehmen Lektüre"). Völlig ausgeschlossen werden Wissenschaft ("Schulgelehrsamkeit", Estermann, S. 137) und Politik. Seit 1801 war ein "Intelligenzblatt" angeschlossen, das u. a. "Neuere Literatur" beinhalten sollte. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Nach dem Tode von Spazier 1805 leitete August Mahlmann die Zeitung, die sich inzwischen eines "ausgezeichneten Beifalls" beim Publikum erfreute, 1816 folgte ihm Karl Ludwig Methusalem Müller und 1833 übernahm Heinrich Laube nach einigem Zögern (vgl. Laube, Werke, Bd 40, S. 163-165 und 183-185) das Blatt. Als ein Gegner von Spazier, Garlieb Merkel, 1803 die Leitung des "Freimüthigen" erhielt, brach zwischen beiden Zeitungen ein polemischer Kleinkrieg aus, der letzten Endes beiden Organen beim Publikum nützte. Eine ernste Konkurrenz erwuchs der bereits weit verbreiteten "Zeitung für die elegante Welt" 1807 mit der Gründung des "Morgenblattes für gebildete Stände" in dem renommierten Klassikerverlag Cotta. Die Jahre von 1810 bis 1832 können als ein kontinuierlicher Rückgang der Bedeutung der Zeitung beschrieben werden. (Vgl. Halm, S. 18-19.) </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Laubes erste Redaktion: Programm und Inhalte </tei:hi></tei:p>
-<tei:p>
-<tei:seg>Als Heinrich Laube am 1. Januar 1833 die Leitung der Zeitung als Redakteur übernahm, versuchte er, mit seinem Programm vom 10. Dezember 1832 vorsichtig taktierend alte konservative und neue liberale Tendenzen zu verbinden. Die bisherige romantisierende Tendenz wurde zum einen kritisiert und fragwürdig gemacht ("Nicht Nachtigallengesänge, nicht den heitern Lerchenwirbel hörst Du", Nr. 1, 1. Januar 1833, S. 1), zum anderen konzediert er die Schilderung der uns "umgebenden socialen Verhältnisse" im "Gewand der Romantik" (ebd.). Laubes Programm setzt ganz klar neue Akzente: Politik, Geschichte, Zeit, Umstände. "Wir waren in die Politik gekommen; wir wissen nicht</tei:seg>
-<tei:hi style="font-weight-bold"> wie</tei:hi>
-<tei:seg>. [...] Um uns rauscht die Geschichte, und ihre Accorde stimmen zur Andacht und zur Tiefe. Keine Pygmäen tändeln vor uns; Adler stürmen daher und bringen den Göttergruß der neuen Zeit. Da war Alles ernst und bedeutend. [...] Die Zeit hat ihre Riesenharfe ergriffen und spielt das Lied der Lieder, die Begebenheiten. Nicht das Reich des Schönen und des Reizenden darfst du erwarten. Die Nothwendigkeit führt den ehernen Scepter." (Ebd.) Aber auch die "Feierstunde des Gemüths" (ebd.) soll wie bisher zu ihrem Recht kommen. Wenn der Leser ermüdet von der Lektüre der Tageskämpfe sei, dann möchte er "gern idyllisch-deutsch in einer patriarchalischen Gegend herumwandern" (ebd., S. 2), oder er möchte gern wissen, "was im deutschen Vaterlande vorgeht" und "wie Herr X gesungen, wie Madame Y gefallen hat" (ebd.) Denn ein wesentliches Element der Zeitung muss die "</tei:seg>
-<tei:hi style="font-weight-bold">Heiterkeit</tei:hi>
-<tei:seg>" bleiben, um den "Ernst des Lebens wegzuscherzen" (ebd.). Mit der Breite des Programms versucht Laube offenbar neue Leser zu gewinnen und die alten Leserschichten nicht zu verlieren. Trotz konservativer Restelemente kamen Laubes Veränderungen im Profil der Zeitung einer Demokratisierung des Blattes gleich. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Tätigkeit Laubes als Redakteur bestand 1. darin, die bei dem Verleger eingehenden Beiträge zu redigieren und das für den Druck geeignete Material auszuwählen, 2. die Korrespondenz mit den Autoren zu führen und 3. das "Litteraturblatt" der Zeitung zu schreiben, was einen bedeutenden Aufwand an Lektüre erforderte (vgl. "Eine Selbstbiographie Laubes", Werke, Bd 41, S. 451-452). Unter den Beiträgern finden sich Namen wie Binzer, Carrière, Chamisso, Deinhardstein, Dingelstedt, Duller, Eckermann, Gans, Gaudy, Grabbe, Grillparzer, Grün, Gutzkow, Heine, Hoffmann von Fallersleben, Jacob, Kind, Mügge, Rellstab, Rückert, Ruge, Schlesier, Schücking, Schütz, Wachsmann, Weill, O. L. B. Wolff, Becker. Laube konnte auch eine Anzahl von Mitarbeitern der "Aurora", für die er selbst früher schrieb (vgl. Itter, S. 29-40), in das Lager der "Zeitung für die elegante Welt" herüberziehen. Zu den Neuerungen, die Laube einführte, gehörte außer denen auf inhaltlichem Gebiet die Einführung der sogenannten "laufenden Geschichte" und die Zusammenfassung der Literaturkritiken in einer Nummer, die jeweils donnerstags erschien, ein "Literaturblatt", das "schneller als bei uns gewöhnlich war beachtet und besprochen" wurde (an Heine, 9. Mai 1833, HSA, Briefe, Bd 24, S. 167). </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die "laufende Geschichte", anfangs stark politisch orientiert, war (nach Itter, S. 52) ein "Forum detaillierter Historie und Darstellung politischer Zusammenhänge verschiedener Länder". "Diese laufende Geschichte' wird eigentlich aus kurzen Daten bestehen", so dass nach einem Jahr "die Uebersicht einer muntern Geschichte" entstanden ist (Nr. 1, 1. Januar 1833, S. 2, Fußnote). Das laufend' hatte neben dem Hinweis auf die Fortsetzungsfunktion noch einen geographischen Aspekt: Unter diesem Titel publizierte Laube eine Reihe von längeren oder kürzeren Beiträgen historisch-politischer Natur über die Zustände in europäischen und außereuropäischen Ländern, oft mit aktuellem Bezug zu Deutschland: Spanien, Portugal, Frankreich, Italien, Türkei, Russland usw. Bald musste auf Einwirken der Zensur der politische Tenor gemäßigt werden, die erst regelmäßig erscheinenden Artikel wurden immer seltener, und nach neun Monaten wurde die "laufende Geschichte" ganz aufgegeben. Am 10. November 1833 schrieb Laube an O. L. B. Wolff: "Mir waren die Hände entsetzlich gebunden, u. ich verdünne das Literar. immer mehr, lasse laufende Geschichten ganz weg [...]" (nach Itter, S. 54). Neben den Eingriffen der Zensur war auch der Druck des Verlegers Voss ausschlaggebend für das Einstellen dieser Sparte. </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Literaturbegriff und Kritik </tei:hi></tei:p>
-<tei:p>
-<tei:seg>Der Literaturbegriff, den die Redakteure Laube und Gustav Kühne (Kühne hatte die Redaktion von 1835 bis 1842) in der "Zeitung für die elegante Welt" vertraten, tendierte in Richtung auf eine realistische Einstellung, einen Realismus, die im wesentlichen am Stoff orientiert war. Die Nähe zur Zeitwirklichkeit war das Indiz für diese Haltung. Laube und später Kühne wendeten sich gegen alles Alte und forcierten den Fortschrittsgedanken. Desgleichen war eine Abneigung gegen philosophische und antikisierende Elemente zu beobachten. Der Roman rangiert als bevorzugte Gattung vor dem Drama. An zentraler Stelle steht die Kritik, die sich im Laufe der dreißiger Jahre von einer inhaltlich-tendenziösen zu einer künstlerischen wandelt. Auch auf dem Gebiet der Inhalte war eine Verschiebung in Richtung auf ästhetische Elemente zu verzeichnen. Der Umschlag der Zeitung vom Jahre 1839 nennt an erster Stelle Erzählungen und Novellen, an späterer Stelle kleine Gedichte, Rätsel usw. Das Verdikt gegen politische und "strengwissenschaftliche" Aufsätze blieb bestehen. Insgesamt war es die jungdeutsche Ästhetik, die unter der Redaktion Laubes und seiner Nachfolger dominierte. Aber bereits 1836 begann sich Laube von der jungdeutschen Richtung zu distanzieren. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>In Nr. 3 (4. Januar 1833) stellt Laube die Kritik als sein zentrales Anliegen heraus: "Zum vollen Costüm neuer Eleganz gehört auch Anlegung des glänzenden Waffenschmucks der neuen Zeit - der Kritik. Wir leben in einer kritischen Epoche, Alles war in Frage gestellt [...] In solcher Periode der Entwickelung scheint selten die wärmende Sonne; Alles sucht nach dem leitenden Monde - Kritik." (S. 9) Wichtigstes Kennzeichen des Begriffs Kritik' war ihre Subjektivität; propagiert wurde eine tendenziöse, polemische Würdigung des rezensierten Textes. Nach Laube war es ein "Kunststück", wenn eine Kritik "keine Partei nimmt" (Nr. 85, 2. Mai 1833, S. 340). Damit distanziert sich Laube deutlich von Hegels Objektivitätsbegriff. Maßstäbe der Kritik waren neben der Gesinnung der Begriff des Lebens', der Grad der Modernität, des Neuen und Zukunftshaltigen (im Gegensatz zum Vergangenen, zur Tradition), die Zweckmäßigkeit (das belehrende Element etwa der Reiseliteratur). Kritik war nach Laube "notwendiger Bestandteil der Demokratie und steter Prophet gesellschaftlicher Veränderungen". "Insgesamt sah Laube die Literaturkritik in der Eleganten als Promotor demokratischer Verhältnisse in Deutschland und war somit selbst Förderer dieses demokratischen Regierungsideals." (Itter, S. 70 und 71; vgl. auch Steinecke, S. 54-57 und 178-180) </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Der Bruch mit der Tradition äußerte sich vornehmlich in der Kritik an der romantischen Dichtung und an ihren namhaften Vertretern. Die Poesie Tiecks wurde als "Rumpelkammer von Gaunerstreichen aus der vornehmen Welt" (nach Halm, S. 142) gelesen, und Fouqué wurde polemisch-satirisch als "das schwache Männchen mit dem Hängebäuchelchen, mit dem starken Lebenssystemchen und dem aufgedünsteten Ritterthum" charakterisiert (nach Halm, S. 143). Platen hingegen wurde von Laube positiv, von Kühne negativ rezensiert. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Während Laube anfangs die </tei:seg>
-<tei:seg>Briefe eines Narren an eine Närrin</tei:seg>
-<tei:seg> des Mitkämpfers' Gutzkow wegen der in ihnen dargestellten Zeitideen positiv beurteilte, kam der jungdeutsche Gesinnungsgenosse' unter der Redaktion Kühnes ab 1835 unter die scharfen Messer der Kritik. Andere Jungdeutsche' indes kamen glimpflicher davon, Wienbarg wurde sogar überwiegend gelobt, desgleichen Laube. Die Kritik an Gutzkow betraf die meisten seiner Werke der dreißiger und beginnenden vierziger Jahre: die </tei:seg>
-<tei:seg>Wally</tei:seg>
-<tei:seg> ebenso wie die </tei:seg>
-<tei:seg>Seraphine</tei:seg>
-<tei:seg>, </tei:seg>
-<tei:seg>Blasedow und seine Söhne</tei:seg>
-<tei:seg> sowie die Dramen </tei:seg>
-<tei:seg>Nero</tei:seg>
-<tei:seg>, </tei:seg>
-<tei:seg>Richard Savage</tei:seg>
-<tei:seg>, </tei:seg>
-<tei:seg>Werner</tei:seg>
-<tei:seg> und </tei:seg>
-<tei:seg>Zopf und Schwert</tei:seg>
-<tei:seg>. Die häufigsten Vorwürfe waren die der schwachen dichterischen Gestaltung, der gezwungenen Sentimentalität und Trivialität, des Übermaßes an Reflexion und Rhetorik, der Nähe zu den Werken von Theodor Hell, Kotzbue und Clauren, auch Gutzkows Übereifer in Kritik und Polemik (vgl. auch Halm, S. 150-154). Kühne, der sich als gemäßigter Jungdeutscher in Szene setzte, grenzte sich durch die Aufnahme negativer Rezensionen in die "Zeitung für die elegante Welt" und durch entsprechende eigene Artikel von dem als radikal' eingestuften Gutzkow ab. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Zu Beginn der dreißiger Jahre wurden Heines Werk und seine Person als Schöpfer einer "modernen poetischen Richtung", deren Gestalten "aus dem Fundamente der Geschichte" herauswüchsen (Halm, S. 159 und 160), noch positiv bewertet. Auch später wurden seine dichterische Überlegenheit und seine Gestaltungskraft anerkannt. Indes verstärkte sich die negative Kritik an Heine, bedingt durch seine eigene, zum Teil scharfe und rücksichtslose Polemik gegen Zeitgenossen. Insbesondere im Zusammenhang mit seiner Börne-Schrift (1839) erreichte die Kritik gegen ihn in der "Zeitung für die elegante Welt" ihre schrillsten Töne. Andererseits bestand zwischen Laube und Heine ein positives Verhältnis, welches Heine veranlasste, in der "Zeitung für die elegante Welt" wiederholt Gedichte zu publizieren (1839/40 und 1842, nachdem sich die Kampagne gegen ihn beruhigt hatte). Als Höhepunkt der Kooperation der Zeitung mit Heine war das Erscheinen der ersten Fassung des "Atta Troll" ab Nr. 1 (4. Januar bis 8. März) 1843 zu sehen. Der Publikation ging Ende 1842 ein Briefwechsel zwischen Heine und Laube voraus, im Verlaufe dessen letzterer Heine Änderungsvorschläge machte, die aber aus Zeitgründen offenbar nicht mehr wirksam werden konnten (vgl. DHA, Bd 4, S. 315-324). </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Laubes zweite Redaktion 1843/44 </tei:hi></tei:p>
-<tei:p>
-<tei:seg>Laubes liberales und demokratisches Programm von 1833 für die "Zeitung der eleganten Welt" hatte indes Kritik hervorgerufen, die die weitere Leitung des Blattes durch ihn unmöglich machte. Seine Verhaftung im Juli 1834 setzte einen äußeren Strich unter seine bisherige Tätigkeit. Während des Interregnums bis zu Laubes erneuter Leitung der Zeitung ab 1843 übernahmen August von Binzer (ab Nr. 155, 1834) und ein Jahr später Gustav Kühne (ab Nr. 137, 1835) die Redaktion der Zeitung. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>In der "Ankündigung" (Nr. 1, 4. Januar 1843, S. 4) betonte Laube einesteils, er wolle "trotz herber Erfahrungen und Täuschungen" dort wieder anknüpfen, wo er 1834 aufgehört habe, "bei der Fahne des liberalen Fortschrittes in staatlichen Dingen". Andererseits waren Gewichtsverlagerungen aber nicht zu übersehen. Neben dem Anspruch auf Qualität durch die Heranziehung bester deutscher Autoren sprach er sich für eine starke Gewichtung des Blattes des Ästhetischen, der schönen Literatur, aus: "Die Produktion also, die schöpferische schöne Literatur wurde der Mittelpunkt unsers Journals. [...] Für schöne Literatur in reinster Bedeutung des Wortes war dies Journal bestimmt." (Ebd., S. 4 und 5) Die "Elegante" gab demnach ihr politisches Profil der Jahre 1833/34 auf (vgl. Itter, S. 96). Eine Kolumne wie die "laufende Geschichte" sowie ein Literaturblatt existierten unter der neuen Leitung Laubes nicht wieder. Auch sollte auf die "schwatzhafte Breite" der sogenannten "Korrespondenzen" (ebd., S. 7) verzichtet werden mit Ausnahme derjenigen aus den Großstädten Berlin, Wien, Paris und London. Im Sinne der Gewinnung neuer Leserkreise sollte die Zeitung so gestaltet werden, dass jeder in der abgelegensten Provinz eine "</tei:seg>
-<tei:hi style="font-weight-bold">Orientierung über die literarische Welt der Gegenwart</tei:hi>
-<tei:seg>" (ebd.) erhalte. Damit war der sozial elitäre Anspruch, den die Zeitschrift in früheren Jahrzehnte einmal gehabt hatte und an dem Laube in der Zeit seiner ersten Redaktion noch zum Teil festgehielt, endgültig aufgegeben. "Literarische Welt", "Literatur" bedeuten nicht Dichtung, Belletristik im engen, sondern Geschriebenes, auch Sachliteratur, im weitesten Sinne. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Literaturkritik bekam eine neue Funktion. Subjektivität sollte nicht mehr vorrangig sein. Den kritisierten Autoren wurde die Möglichkeit eingeräumt, zu den Kritiken Gegendarstellungen und Richtigstellungen einzureichen. "[...] es handelt sich [bei] der Kritik ja nicht bloß darum: Recht zu haben, sondern darum: die Wahrheit zu ermitteln" (Nr. 12, 22. März 1843, S. 290). Auf diese Weise entstand in der "Zeitung für die elegante Welt" das Novum eines literarisches Gesprächs, ein "lebendiges Wechselverhältniß" (ebd.), als Meinungsaustausch zwischen Kritiker und Kritisiertem (vgl. Itter, S. 100). Dieses Verfahren wirkt als Korrektiv und verlagert das Gewicht zugunsten einer stärker objektiven' Literaturkritik mit mehr Offenheit und Liberalität. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Laube führte die Redaktion der Zeitung nach seiner Rückkehr als Redakteur nur 1 ½ Jahre. Bei seinem Rücktritt 1844 betont er, dass er von vornherein nur an eine temporäre Leitung des Blattes gedacht habe. Gründe für sein Ausscheiden seien nicht wirtschaftlicher Natur - die Zeitung habe in den letzten zwei Jahren die Zahl ihrer festen Abonnenten fast verdoppelt -; vielmehr hätten sich seine Interessen verändert in Richtung auf die Schaffung literarischer Werke und auf das Theater, so dass er nicht mehr "ganzer Journalist" mit der mit diesem Beruf verbundenen "Zerstreuung und Zersplitterung" sein könne ("Abschiedsworte", Juli 1844, Estermann, S. 145). Ein anderer wesentlicher Grund war die Veränderung von Inhalt und Aufmachung der "Zeitung für die elegante Welt" im Jahre 1844. Sie wurde zu einer Mode-Zeitung mit unterhaltenden, trivialen Anteilen ohne höhere geistige Ansprüche für einen größeren, anders orientierten Leserkreis (Halm, S. 25). "Die Elegante nämlich würde von nun an dem eigentlich kritischen Bestandtheile eines Journals entsagen, da er sich nicht wohl vereinigen läßt mit dem Wesen einer auf's größte Publikum angewiesenen, leichterer Lektüre bedürftigen Modezeitung. Sie wurde unterhaltende Novellen- und Feuilleton-Zeitung. </tei:seg>
-<tei:hi style="font-weight-bold">Heinrich Laube</tei:hi>
-<tei:seg>." ("Abschiedsworte", Estermann , S. 149) </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Quellen und Forschungsliteratur (Auswahl)</tei:hi>
-<tei:hi style="font-weight-bold"> Quellen </tei:hi></tei:p>
-<tei:p>
-<tei:seg>Zeitung für die</tei:seg>
-<tei:hi style="font-weight-bold"> elegante </tei:hi>
-<tei:seg>Welt, 1801-1859, 1859 (lückenhaft). </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Alfred </tei:seg>
-<tei:hi style="font-weight-bold">Estermann</tei:hi>
-<tei:seg>: Die deutschen Literaturzeitschriften 1815-1850. Bibliographien, Programme, Autoren. Nendeln 1978, Bd 1, S. 129-150.</tei:seg></tei:p>
-<tei:p>
-<tei:seg> Hans </tei:seg>
-<tei:hi style="font-weight-bold">Halm</tei:hi>
-<tei:seg>: Die Zeitung für die elegante Welt (1801-1844). Ihre Geschichte, ihre Stellung zu den Zeitereignissen und zur zeitgenössischen Literatur. Diss. (masch.) München 1924. </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi></tei:p>
-<tei:p>
-<tei:seg>Helga </tei:seg>
-<tei:hi style="font-weight-bold">Brandes</tei:hi>
-<tei:seg>: Die Zeitschriften des Jungen Deutschland. Eine Untersuchung zur literarisch-publizistischen Öffentlichkeit im 19. Jahrhundert. Opladen 1991.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Heinrich Hubert </tei:seg>
-<tei:hi style="font-weight-bold">Houben</tei:hi>
-<tei:seg>: Jungdeutscher Sturm und Drang. Leipzig 1911.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Ellen von </tei:seg>
-<tei:hi style="font-weight-bold">Itter</tei:hi>
-<tei:seg>: Heinrich Laube. Ein jungdeutscher Journalist und Kritiker. Frankfurt/M . usw. 1989. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Heinrich </tei:seg>
-<tei:hi style="font-weight-bold">Laube</tei:hi>
-<tei:seg>: Eine Selbstbiographie Laubes aus den Akten des Königlich Preußischen Staatsarchivs. In: Heinrich Laubes gesammelte Werke in fünfzig Bänden. Hg. von H. H. Houben, Leipzig 1909, Bde 40 und 41 ("Erinnerungen").</tei:seg></tei:p>
-<tei:p>
-<tei:seg> Sibylle </tei:seg>
-<tei:hi style="font-weight-bold">Obenaus</tei:hi>
-<tei:seg>: Literarische und politische Zeitschriften 1830-1848. Stuttgart 1986. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Hartmut </tei:seg>
-<tei:hi style="font-weight-bold">Steinecke</tei:hi>
-<tei:seg>: Literaturkritik des Jungen Deutschland. Entwicklungen - Tendenzen - Texte. Berlin 1982.</tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>(Peter Hasubek, Göttingen)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout. Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Peter Hasubek.</tei:seg>
-<tei:seg> Seite angelegt am 09.09.2001.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>18.10.2002 11:17</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow/ oder http://www.gutzkow.de.</tei:seg>
-<tei:seg> E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Zeitung für die elegante Welt (Leipzig)</tei:title>
+        <tei:author>Peter Hasubek</tei:author>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2001-09-09">2001-09-09</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #elegant"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">ZEITUNG FÜR DIE ELEGANTE WELT,</tei:hi>
+        <tei:seg> literarisch-kulturelle Zeitschrift, (Leipzig: Voss, 1801-1859), die - wie schon im Titel programmatisch angedeutet - das wohlhabende, aber auch gebildete Lesepublikum ansprechen wollte. Ihren Inhalt füllten Beiträge zu Kunst und Literatur ebenso wie Artikel zur aktuellen Mode und Einrichtung. Laube leitete die Zeitung als Redakteur vom 1. Januar 1833 bis zu seiner Verhaftung im Juli 1834; während des Interregnums bis zu seiner erneuten Leitung der Zeitung ab 1843 übernahmen August von Binzer (1834) und von 1835 bis 1842 Gustav Kühne die Redaktion. → </tei:seg>
+        <tei:seg>Bilder und Quellen: Bilder. Handschriften und Drucke</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Allgemeines </tei:hi>
+        <tei:hi style="font-weight-bold"> </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Nach der Ankündigung in dem "Prospekt" (Estermann, S. 134-137) begann die "Zeitung für die elegante Welt" ab 1. Januar 1801, gegründet und herausgegeben von Johann Gottlieb Karl Spazier (1761-1805), im Verlag Leopold Voss (Leipzig) zu erscheinen. Unter wechselnden Herausgebern und Redakteuren mit verschiedenen Beiblättern ("Die Mode", "Pariser Modenpost", "Intelligenzblatt", "Feuilleton") und sich änderndem Programm bestand die Zeitung bis 1859. Wirtschaftlich wurde sie hauptsächlich vom Verlag, aber auch von anderen Geldgebern getragen. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Das vorerst dreimal (ab 1806 viermal in zwei Lieferungen) wöchentlich erscheinende Blatt richtete sich an ein Publikum, das bereits im Titel programmatisch ("elegante Welt") fixiert wurde: Es war jenes Publikum, das ökonomisch und geistig über die Möglichkeiten verfügte, sich an den angenehmen Seiten des Lebens zu erfreuen, gehobenes (besitzendes) Bürgertum und Adel, nach Spazier "jene begünstigte Klasse von Mitbürgern, denen Kultur und Stand und Wohlhabenheit zunächst ein Recht zu dieser Benennung geben" (Prospekt, Estermann, S. 134), denen also ohne wirtschaftliche und soziale Zwänge alle Güter der damaligen Welt zugänglich waren. Diese "höhern Stände" (Estermann, S. 135) waren nicht nur gesittet', sie verfügten auch über Bildung und Geschmack. Für die Befriedigung der Interessen dieses Leserkreises fehlte, so Spazier, bisher ein publizistisches Organ, das "</tei:seg>
+        <tei:hi style="font-weight-bold">schnell und summarisch</tei:hi>
+        <tei:seg>" entsprechende Mitteilungen in der "eleganten Welt" verbreitete, d. h. das "</tei:seg>
+        <tei:hi style="font-weight-bold">Neueste</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="font-weight-bold">Wesentlichste</tei:hi>
+        <tei:seg>" von "Erfindungen, Ideen, Einrichtungen und Anlagen in Absicht auf schöne Kunst, auf häußliche Annehmlichkeit, auf Vorfälle des Tages aus der großen Welt" (Estermann, S. 135) zu publizieren. Diese Marktlücke wollte Spazier mit der "Zeitung für die elegante Welt" füllen. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die im Prospekt aufgezählten Inhalte der Zeitung entsprachen dem elitären Zuschnitt des Rezipientenkreises: allgemeine Aufsätze, die auf den Geschmack und den Schönheitssinn in "feineren Familienzirkeln" wirken, Beiträge, die den "neuen Geschmack" in "Kleidung, Nippes, Hauswesen, Zimmerverzierung, Ameublement" und "Gartenkunst" bilden, Hinweise auf Kunstwerke (Kupferstiche, Gemälde), Nachrichten über Theater, neue Stücke, Schauspieler, Schauspielerinnen, Badechroniken, Hoffeste, Jagden, also im wesentlichen Klatsch der höheren Gesellschaftsschichten, sodann "Literatur", aber nur für das "elegante Publikum" (Kunstschriften, Reisebeschreibungen), Miszellen (biographische Skizzen, Anekdoten, Lebensweise berühmter Männer); die ästhetische Literatur wurde nicht ausdrücklich erwähnt. Auf dem Umschlag der Zeitung werden die Inhalte präzisiert und zum Teil verändert (Charakteristiken von Städten und Ländern "in Rücksicht ihrer Kultur und gesellschaftlichen Verhältnisse", Literatur zur "belehrenden und angenehmen Lektüre"). Völlig ausgeschlossen werden Wissenschaft ("Schulgelehrsamkeit", Estermann, S. 137) und Politik. Seit 1801 war ein "Intelligenzblatt" angeschlossen, das u. a. "Neuere Literatur" beinhalten sollte. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Nach dem Tode von Spazier 1805 leitete August Mahlmann die Zeitung, die sich inzwischen eines "ausgezeichneten Beifalls" beim Publikum erfreute, 1816 folgte ihm Karl Ludwig Methusalem Müller und 1833 übernahm Heinrich Laube nach einigem Zögern (vgl. Laube, Werke, Bd 40, S. 163-165 und 183-185) das Blatt. Als ein Gegner von Spazier, Garlieb Merkel, 1803 die Leitung des "Freimüthigen" erhielt, brach zwischen beiden Zeitungen ein polemischer Kleinkrieg aus, der letzten Endes beiden Organen beim Publikum nützte. Eine ernste Konkurrenz erwuchs der bereits weit verbreiteten "Zeitung für die elegante Welt" 1807 mit der Gründung des "Morgenblattes für gebildete Stände" in dem renommierten Klassikerverlag Cotta. Die Jahre von 1810 bis 1832 können als ein kontinuierlicher Rückgang der Bedeutung der Zeitung beschrieben werden. (Vgl. Halm, S. 18-19.) </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Laubes erste Redaktion: Programm und Inhalte </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Als Heinrich Laube am 1. Januar 1833 die Leitung der Zeitung als Redakteur übernahm, versuchte er, mit seinem Programm vom 10. Dezember 1832 vorsichtig taktierend alte konservative und neue liberale Tendenzen zu verbinden. Die bisherige romantisierende Tendenz wurde zum einen kritisiert und fragwürdig gemacht ("Nicht Nachtigallengesänge, nicht den heitern Lerchenwirbel hörst Du", Nr. 1, 1. Januar 1833, S. 1), zum anderen konzediert er die Schilderung der uns "umgebenden socialen Verhältnisse" im "Gewand der Romantik" (ebd.). Laubes Programm setzt ganz klar neue Akzente: Politik, Geschichte, Zeit, Umstände. "Wir waren in die Politik gekommen; wir wissen nicht</tei:seg>
+        <tei:hi style="font-weight-bold"> wie</tei:hi>
+        <tei:seg>. [...] Um uns rauscht die Geschichte, und ihre Accorde stimmen zur Andacht und zur Tiefe. Keine Pygmäen tändeln vor uns; Adler stürmen daher und bringen den Göttergruß der neuen Zeit. Da war Alles ernst und bedeutend. [...] Die Zeit hat ihre Riesenharfe ergriffen und spielt das Lied der Lieder, die Begebenheiten. Nicht das Reich des Schönen und des Reizenden darfst du erwarten. Die Nothwendigkeit führt den ehernen Scepter." (Ebd.) Aber auch die "Feierstunde des Gemüths" (ebd.) soll wie bisher zu ihrem Recht kommen. Wenn der Leser ermüdet von der Lektüre der Tageskämpfe sei, dann möchte er "gern idyllisch-deutsch in einer patriarchalischen Gegend herumwandern" (ebd., S. 2), oder er möchte gern wissen, "was im deutschen Vaterlande vorgeht" und "wie Herr X gesungen, wie Madame Y gefallen hat" (ebd.) Denn ein wesentliches Element der Zeitung muss die "</tei:seg>
+        <tei:hi style="font-weight-bold">Heiterkeit</tei:hi>
+        <tei:seg>" bleiben, um den "Ernst des Lebens wegzuscherzen" (ebd.). Mit der Breite des Programms versucht Laube offenbar neue Leser zu gewinnen und die alten Leserschichten nicht zu verlieren. Trotz konservativer Restelemente kamen Laubes Veränderungen im Profil der Zeitung einer Demokratisierung des Blattes gleich. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Tätigkeit Laubes als Redakteur bestand 1. darin, die bei dem Verleger eingehenden Beiträge zu redigieren und das für den Druck geeignete Material auszuwählen, 2. die Korrespondenz mit den Autoren zu führen und 3. das "Litteraturblatt" der Zeitung zu schreiben, was einen bedeutenden Aufwand an Lektüre erforderte (vgl. "Eine Selbstbiographie Laubes", Werke, Bd 41, S. 451-452). Unter den Beiträgern finden sich Namen wie Binzer, Carrière, Chamisso, Deinhardstein, Dingelstedt, Duller, Eckermann, Gans, Gaudy, Grabbe, Grillparzer, Grün, Gutzkow, Heine, Hoffmann von Fallersleben, Jacob, Kind, Mügge, Rellstab, Rückert, Ruge, Schlesier, Schücking, Schütz, Wachsmann, Weill, O. L. B. Wolff, Becker. Laube konnte auch eine Anzahl von Mitarbeitern der "Aurora", für die er selbst früher schrieb (vgl. Itter, S. 29-40), in das Lager der "Zeitung für die elegante Welt" herüberziehen. Zu den Neuerungen, die Laube einführte, gehörte außer denen auf inhaltlichem Gebiet die Einführung der sogenannten "laufenden Geschichte" und die Zusammenfassung der Literaturkritiken in einer Nummer, die jeweils donnerstags erschien, ein "Literaturblatt", das "schneller als bei uns gewöhnlich war beachtet und besprochen" wurde (an Heine, 9. Mai 1833, HSA, Briefe, Bd 24, S. 167). </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die "laufende Geschichte", anfangs stark politisch orientiert, war (nach Itter, S. 52) ein "Forum detaillierter Historie und Darstellung politischer Zusammenhänge verschiedener Länder". "Diese laufende Geschichte' wird eigentlich aus kurzen Daten bestehen", so dass nach einem Jahr "die Uebersicht einer muntern Geschichte" entstanden ist (Nr. 1, 1. Januar 1833, S. 2, Fußnote). Das laufend' hatte neben dem Hinweis auf die Fortsetzungsfunktion noch einen geographischen Aspekt: Unter diesem Titel publizierte Laube eine Reihe von längeren oder kürzeren Beiträgen historisch-politischer Natur über die Zustände in europäischen und außereuropäischen Ländern, oft mit aktuellem Bezug zu Deutschland: Spanien, Portugal, Frankreich, Italien, Türkei, Russland usw. Bald musste auf Einwirken der Zensur der politische Tenor gemäßigt werden, die erst regelmäßig erscheinenden Artikel wurden immer seltener, und nach neun Monaten wurde die "laufende Geschichte" ganz aufgegeben. Am 10. November 1833 schrieb Laube an O. L. B. Wolff: "Mir waren die Hände entsetzlich gebunden, u. ich verdünne das Literar. immer mehr, lasse laufende Geschichten ganz weg [...]" (nach Itter, S. 54). Neben den Eingriffen der Zensur war auch der Druck des Verlegers Voss ausschlaggebend für das Einstellen dieser Sparte. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Literaturbegriff und Kritik </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Der Literaturbegriff, den die Redakteure Laube und Gustav Kühne (Kühne hatte die Redaktion von 1835 bis 1842) in der "Zeitung für die elegante Welt" vertraten, tendierte in Richtung auf eine realistische Einstellung, einen Realismus, die im wesentlichen am Stoff orientiert war. Die Nähe zur Zeitwirklichkeit war das Indiz für diese Haltung. Laube und später Kühne wendeten sich gegen alles Alte und forcierten den Fortschrittsgedanken. Desgleichen war eine Abneigung gegen philosophische und antikisierende Elemente zu beobachten. Der Roman rangiert als bevorzugte Gattung vor dem Drama. An zentraler Stelle steht die Kritik, die sich im Laufe der dreißiger Jahre von einer inhaltlich-tendenziösen zu einer künstlerischen wandelt. Auch auf dem Gebiet der Inhalte war eine Verschiebung in Richtung auf ästhetische Elemente zu verzeichnen. Der Umschlag der Zeitung vom Jahre 1839 nennt an erster Stelle Erzählungen und Novellen, an späterer Stelle kleine Gedichte, Rätsel usw. Das Verdikt gegen politische und "strengwissenschaftliche" Aufsätze blieb bestehen. Insgesamt war es die jungdeutsche Ästhetik, die unter der Redaktion Laubes und seiner Nachfolger dominierte. Aber bereits 1836 begann sich Laube von der jungdeutschen Richtung zu distanzieren. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>In Nr. 3 (4. Januar 1833) stellt Laube die Kritik als sein zentrales Anliegen heraus: "Zum vollen Costüm neuer Eleganz gehört auch Anlegung des glänzenden Waffenschmucks der neuen Zeit - der Kritik. Wir leben in einer kritischen Epoche, Alles war in Frage gestellt [...] In solcher Periode der Entwickelung scheint selten die wärmende Sonne; Alles sucht nach dem leitenden Monde - Kritik." (S. 9) Wichtigstes Kennzeichen des Begriffs Kritik' war ihre Subjektivität; propagiert wurde eine tendenziöse, polemische Würdigung des rezensierten Textes. Nach Laube war es ein "Kunststück", wenn eine Kritik "keine Partei nimmt" (Nr. 85, 2. Mai 1833, S. 340). Damit distanziert sich Laube deutlich von Hegels Objektivitätsbegriff. Maßstäbe der Kritik waren neben der Gesinnung der Begriff des Lebens', der Grad der Modernität, des Neuen und Zukunftshaltigen (im Gegensatz zum Vergangenen, zur Tradition), die Zweckmäßigkeit (das belehrende Element etwa der Reiseliteratur). Kritik war nach Laube "notwendiger Bestandteil der Demokratie und steter Prophet gesellschaftlicher Veränderungen". "Insgesamt sah Laube die Literaturkritik in der Eleganten als Promotor demokratischer Verhältnisse in Deutschland und war somit selbst Förderer dieses demokratischen Regierungsideals." (Itter, S. 70 und 71; vgl. auch Steinecke, S. 54-57 und 178-180) </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Der Bruch mit der Tradition äußerte sich vornehmlich in der Kritik an der romantischen Dichtung und an ihren namhaften Vertretern. Die Poesie Tiecks wurde als "Rumpelkammer von Gaunerstreichen aus der vornehmen Welt" (nach Halm, S. 142) gelesen, und Fouqué wurde polemisch-satirisch als "das schwache Männchen mit dem Hängebäuchelchen, mit dem starken Lebenssystemchen und dem aufgedünsteten Ritterthum" charakterisiert (nach Halm, S. 143). Platen hingegen wurde von Laube positiv, von Kühne negativ rezensiert. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Während Laube anfangs die </tei:seg>
+        <tei:seg>Briefe eines Narren an eine Närrin</tei:seg>
+        <tei:seg> des Mitkämpfers' Gutzkow wegen der in ihnen dargestellten Zeitideen positiv beurteilte, kam der jungdeutsche Gesinnungsgenosse' unter der Redaktion Kühnes ab 1835 unter die scharfen Messer der Kritik. Andere Jungdeutsche' indes kamen glimpflicher davon, Wienbarg wurde sogar überwiegend gelobt, desgleichen Laube. Die Kritik an Gutzkow betraf die meisten seiner Werke der dreißiger und beginnenden vierziger Jahre: die </tei:seg>
+        <tei:seg>Wally</tei:seg>
+        <tei:seg> ebenso wie die </tei:seg>
+        <tei:seg>Seraphine</tei:seg>
+        <tei:seg>, </tei:seg>
+        <tei:seg>Blasedow und seine Söhne</tei:seg>
+        <tei:seg> sowie die Dramen </tei:seg>
+        <tei:seg>Nero</tei:seg>
+        <tei:seg>, </tei:seg>
+        <tei:seg>Richard Savage</tei:seg>
+        <tei:seg>, </tei:seg>
+        <tei:seg>Werner</tei:seg>
+        <tei:seg> und </tei:seg>
+        <tei:seg>Zopf und Schwert</tei:seg>
+        <tei:seg>. Die häufigsten Vorwürfe waren die der schwachen dichterischen Gestaltung, der gezwungenen Sentimentalität und Trivialität, des Übermaßes an Reflexion und Rhetorik, der Nähe zu den Werken von Theodor Hell, Kotzbue und Clauren, auch Gutzkows Übereifer in Kritik und Polemik (vgl. auch Halm, S. 150-154). Kühne, der sich als gemäßigter Jungdeutscher in Szene setzte, grenzte sich durch die Aufnahme negativer Rezensionen in die "Zeitung für die elegante Welt" und durch entsprechende eigene Artikel von dem als radikal' eingestuften Gutzkow ab. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Zu Beginn der dreißiger Jahre wurden Heines Werk und seine Person als Schöpfer einer "modernen poetischen Richtung", deren Gestalten "aus dem Fundamente der Geschichte" herauswüchsen (Halm, S. 159 und 160), noch positiv bewertet. Auch später wurden seine dichterische Überlegenheit und seine Gestaltungskraft anerkannt. Indes verstärkte sich die negative Kritik an Heine, bedingt durch seine eigene, zum Teil scharfe und rücksichtslose Polemik gegen Zeitgenossen. Insbesondere im Zusammenhang mit seiner Börne-Schrift (1839) erreichte die Kritik gegen ihn in der "Zeitung für die elegante Welt" ihre schrillsten Töne. Andererseits bestand zwischen Laube und Heine ein positives Verhältnis, welches Heine veranlasste, in der "Zeitung für die elegante Welt" wiederholt Gedichte zu publizieren (1839/40 und 1842, nachdem sich die Kampagne gegen ihn beruhigt hatte). Als Höhepunkt der Kooperation der Zeitung mit Heine war das Erscheinen der ersten Fassung des "Atta Troll" ab Nr. 1 (4. Januar bis 8. März) 1843 zu sehen. Der Publikation ging Ende 1842 ein Briefwechsel zwischen Heine und Laube voraus, im Verlaufe dessen letzterer Heine Änderungsvorschläge machte, die aber aus Zeitgründen offenbar nicht mehr wirksam werden konnten (vgl. DHA, Bd 4, S. 315-324). </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Laubes zweite Redaktion 1843/44 </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Laubes liberales und demokratisches Programm von 1833 für die "Zeitung der eleganten Welt" hatte indes Kritik hervorgerufen, die die weitere Leitung des Blattes durch ihn unmöglich machte. Seine Verhaftung im Juli 1834 setzte einen äußeren Strich unter seine bisherige Tätigkeit. Während des Interregnums bis zu Laubes erneuter Leitung der Zeitung ab 1843 übernahmen August von Binzer (ab Nr. 155, 1834) und ein Jahr später Gustav Kühne (ab Nr. 137, 1835) die Redaktion der Zeitung. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>In der "Ankündigung" (Nr. 1, 4. Januar 1843, S. 4) betonte Laube einesteils, er wolle "trotz herber Erfahrungen und Täuschungen" dort wieder anknüpfen, wo er 1834 aufgehört habe, "bei der Fahne des liberalen Fortschrittes in staatlichen Dingen". Andererseits waren Gewichtsverlagerungen aber nicht zu übersehen. Neben dem Anspruch auf Qualität durch die Heranziehung bester deutscher Autoren sprach er sich für eine starke Gewichtung des Blattes des Ästhetischen, der schönen Literatur, aus: "Die Produktion also, die schöpferische schöne Literatur wurde der Mittelpunkt unsers Journals. [...] Für schöne Literatur in reinster Bedeutung des Wortes war dies Journal bestimmt." (Ebd., S. 4 und 5) Die "Elegante" gab demnach ihr politisches Profil der Jahre 1833/34 auf (vgl. Itter, S. 96). Eine Kolumne wie die "laufende Geschichte" sowie ein Literaturblatt existierten unter der neuen Leitung Laubes nicht wieder. Auch sollte auf die "schwatzhafte Breite" der sogenannten "Korrespondenzen" (ebd., S. 7) verzichtet werden mit Ausnahme derjenigen aus den Großstädten Berlin, Wien, Paris und London. Im Sinne der Gewinnung neuer Leserkreise sollte die Zeitung so gestaltet werden, dass jeder in der abgelegensten Provinz eine "</tei:seg>
+        <tei:hi style="font-weight-bold">Orientierung über die literarische Welt der Gegenwart</tei:hi>
+        <tei:seg>" (ebd.) erhalte. Damit war der sozial elitäre Anspruch, den die Zeitschrift in früheren Jahrzehnte einmal gehabt hatte und an dem Laube in der Zeit seiner ersten Redaktion noch zum Teil festgehielt, endgültig aufgegeben. "Literarische Welt", "Literatur" bedeuten nicht Dichtung, Belletristik im engen, sondern Geschriebenes, auch Sachliteratur, im weitesten Sinne. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Literaturkritik bekam eine neue Funktion. Subjektivität sollte nicht mehr vorrangig sein. Den kritisierten Autoren wurde die Möglichkeit eingeräumt, zu den Kritiken Gegendarstellungen und Richtigstellungen einzureichen. "[...] es handelt sich [bei] der Kritik ja nicht bloß darum: Recht zu haben, sondern darum: die Wahrheit zu ermitteln" (Nr. 12, 22. März 1843, S. 290). Auf diese Weise entstand in der "Zeitung für die elegante Welt" das Novum eines literarisches Gesprächs, ein "lebendiges Wechselverhältniß" (ebd.), als Meinungsaustausch zwischen Kritiker und Kritisiertem (vgl. Itter, S. 100). Dieses Verfahren wirkt als Korrektiv und verlagert das Gewicht zugunsten einer stärker objektiven' Literaturkritik mit mehr Offenheit und Liberalität. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Laube führte die Redaktion der Zeitung nach seiner Rückkehr als Redakteur nur 1 ½ Jahre. Bei seinem Rücktritt 1844 betont er, dass er von vornherein nur an eine temporäre Leitung des Blattes gedacht habe. Gründe für sein Ausscheiden seien nicht wirtschaftlicher Natur - die Zeitung habe in den letzten zwei Jahren die Zahl ihrer festen Abonnenten fast verdoppelt -; vielmehr hätten sich seine Interessen verändert in Richtung auf die Schaffung literarischer Werke und auf das Theater, so dass er nicht mehr "ganzer Journalist" mit der mit diesem Beruf verbundenen "Zerstreuung und Zersplitterung" sein könne ("Abschiedsworte", Juli 1844, Estermann, S. 145). Ein anderer wesentlicher Grund war die Veränderung von Inhalt und Aufmachung der "Zeitung für die elegante Welt" im Jahre 1844. Sie wurde zu einer Mode-Zeitung mit unterhaltenden, trivialen Anteilen ohne höhere geistige Ansprüche für einen größeren, anders orientierten Leserkreis (Halm, S. 25). "Die Elegante nämlich würde von nun an dem eigentlich kritischen Bestandtheile eines Journals entsagen, da er sich nicht wohl vereinigen läßt mit dem Wesen einer auf's größte Publikum angewiesenen, leichterer Lektüre bedürftigen Modezeitung. Sie wurde unterhaltende Novellen- und Feuilleton-Zeitung. </tei:seg>
+        <tei:hi style="font-weight-bold">Heinrich Laube</tei:hi>
+        <tei:seg>." ("Abschiedsworte", Estermann , S. 149) </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Quellen und Forschungsliteratur (Auswahl)</tei:hi>
+        <tei:hi style="font-weight-bold"> Quellen </tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Zeitung für die</tei:seg>
+        <tei:hi style="font-weight-bold"> elegante </tei:hi>
+        <tei:seg>Welt, 1801-1859, 1859 (lückenhaft). </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Alfred </tei:seg>
+        <tei:hi style="font-weight-bold">Estermann</tei:hi>
+        <tei:seg>: Die deutschen Literaturzeitschriften 1815-1850. Bibliographien, Programme, Autoren. Nendeln 1978, Bd 1, S. 129-150.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> Hans </tei:seg>
+        <tei:hi style="font-weight-bold">Halm</tei:hi>
+        <tei:seg>: Die Zeitung für die elegante Welt (1801-1844). Ihre Geschichte, ihre Stellung zu den Zeitereignissen und zur zeitgenössischen Literatur. Diss. (masch.) München 1924. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Helga </tei:seg>
+        <tei:hi style="font-weight-bold">Brandes</tei:hi>
+        <tei:seg>: Die Zeitschriften des Jungen Deutschland. Eine Untersuchung zur literarisch-publizistischen Öffentlichkeit im 19. Jahrhundert. Opladen 1991.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heinrich Hubert </tei:seg>
+        <tei:hi style="font-weight-bold">Houben</tei:hi>
+        <tei:seg>: Jungdeutscher Sturm und Drang. Leipzig 1911.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Ellen von </tei:seg>
+        <tei:hi style="font-weight-bold">Itter</tei:hi>
+        <tei:seg>: Heinrich Laube. Ein jungdeutscher Journalist und Kritiker. Frankfurt/M . usw. 1989. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heinrich </tei:seg>
+        <tei:hi style="font-weight-bold">Laube</tei:hi>
+        <tei:seg>: Eine Selbstbiographie Laubes aus den Akten des Königlich Preußischen Staatsarchivs. In: Heinrich Laubes gesammelte Werke in fünfzig Bänden. Hg. von H. H. Houben, Leipzig 1909, Bde 40 und 41 ("Erinnerungen").</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> Sibylle </tei:seg>
+        <tei:hi style="font-weight-bold">Obenaus</tei:hi>
+        <tei:seg>: Literarische und politische Zeitschriften 1830-1848. Stuttgart 1986. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Hartmut </tei:seg>
+        <tei:hi style="font-weight-bold">Steinecke</tei:hi>
+        <tei:seg>: Literaturkritik des Jungen Deutschland. Entwicklungen - Tendenzen - Texte. Berlin 1982.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>(Peter Hasubek, Göttingen)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout. Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Peter Hasubek.</tei:seg>
+        <tei:seg> Seite angelegt am 09.09.2001.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>18.10.2002 11:17</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow/ oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg> E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>

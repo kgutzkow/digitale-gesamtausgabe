@@ -1,448 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>HEINRICH HEINE</tei:title>
-<tei:author>Madleen Podewski</tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2004-12-03">2004-12-03</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #heine"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-size-large font-weight-bold">HEINRICH HEINE</tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>(1797-1856), Lyriker, Prosaschriftsteller, Essayist, Publizist; eine der zentralen Figuren im literarisch-publizistischen Leben des Vormärz/Nachmärz.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>→ </tei:seg>
-<tei:seg>Bilder und Quellen: Bilder. Zeitgenossen Gutzkows</tei:seg>
-<tei:seg>.</tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Allgemeines </tei:hi><tei:p>
-<tei:seg> Harry Heine, ältester Sohn einer assimilierten jüdischen Kaufmannsfamilie, studierte nach einer Kaufmannslehre und dem Bankrott eines eigenen Manufakturwarengeschäfts Jura in Bonn, Göttingen und Berlin und machte dabei die Bekanntschaft bedeutender Persönlichkeiten des deutschen kulturellen Lebens (August Wilhelm Schlegel, Rahel und August Varnhagen von Ense, Adalbert von Chamisso, Friedrich de la Motte Fouqué, Christian Dietrich Grabbe, Georg Wilhelm Friedrich Hegel, Alexander von Humboldt). 1825, unmittelbar nach seiner Promotion zum Dr. jur., trat er zum Protestantismus über und änderte seinen Vornamen. Trotz intensiver Bemühungen blieb ihm eine Laufbahn in Staatsdiensten verwehrt. Zudem war er inzwischen als Lyriker ("Gedichte", 1822; "Buch der Lieder", 1827) und als Autor der "Reisebilder" (4 Bde., 1826-31) bekannt geworden, auf deren zum Teil scharfe Staats- und Religionskritik die preußische Zensur mit massiven Eingriffen und Verboten reagierte. So auch in einer Existenz als freier Schriftsteller behindert und angezogen von den Ereignissen um die Julirevolution, übersiedelte Heine am 19. Mai 1831 nach Paris. Hier konnte er sich schnell integrieren und eine ebenso rege wie vielseitige publizistische und literarische Tätigkeit entfalten. Er traf mit bedeutenden Persönlichkeiten des politischen und kulturellen Lebens zusammen (etwa Honoré de Balzac, Victor Hugo, Giacomo Meyerbeer, dem Marquis de Lafayette, Adolphe Thiers), hielt mehr oder weniger spannungsreiche Kontakte zu deutschen Emigranten (Ludwig Börne, Karl Marx, Wilhelm Weitling), arbeitete als Korrespondent für verschiedene deutsche Zeitschriften (etwa die Augsburger "Allgemeine Zeitung", das "Morgenblatt für gebildete Stände", die "Zeitung für die elegante Welt", die "Deutsch-französischen Jahrbücher", den "Vorwärts"), publizierte in renommierten französischen Blättern (wie der "Europe Littéraire" und der "Revue des Deux Mondes"); außerdem erschienen seine Werke in französischen Übersetzungen. Von 1836 bis zum Sturz von Louis Philippe 1848 erhielt Heine aus einem geheimen Fonds der französischen Regierung finanzielle Unterstützung, ein Umstand, der nach der Pariser Februarrevolution 1848 öffentlich wurde und ihm bei einigen seiner Zeitgenossen den Ruf einer käuflichen Feder einbrachte. 1841 heiratete er Crescence Augustine Mirat ("Mathilde"), mit der er seit 1834 zusammenlebte. 1843 und 1844 unternahm er noch einmal zwei Reisen nach Hamburg. Die 48er Revolution erlebte Heine in der "Matratzengruft", an die er bis zu seinem Tod wegen schwerer Lähmungserscheinungen gefesselt blieb.</tei:seg></tei:p>
-<tei:p>
-<tei:seg> Heines vielseitiges Werk umfasst neben frühen dramatischen Versuchen ein breites Spektrum an Lyrikformen, Versepik, ein Tanzpoem, Reisebilder, Kunst- und Literaturkritiken, Essays zur Literatur- und Philosophiegeschichte, Tagesberichterstattungen, Memoiren, Aphorismen und Novellen sowie eine umfangreiche Korrespondenz. Thematische Schwerpunkte verteilen sich dabei im wesentlichen auf vier Komplexe: erstens auf die Erarbeitung eines weit gefassten Emanzipationskonzepts, das neben politischen auch soziale, religiöse und ästhetische Momente einschließt, das an einer Aufwertung sensualistisch-sinnlicher Tendenzen als Gegenkraft zu abstrakten Spiritualismen interessiert ist und von dem aus restaurative, nationalistische und radikalliberale Tendenzen und Verhältnisse in Deutschland und Frankreich scharf kritisiert werden; zweitens auf die Auseinandersetzung mit der "Kunstperiode" und dabei auf die Bestimmung von Ort und Funktion der Kunst im Verhältnis zu Zeitgeschehen, sozialem und politischem Engagement und zur aufkommenden Kapitalisierung des Kunstmarktes; drittens auf die Beziehung zur eigenen jüdischen Identität und viertens, vor allem im Spätwerk, auf den Umgang mit gescheiterten Revolutionen, enttäuschten Emanzipationshoffnungen, Krankheit und Tod. Beginnend mit den "Reisebildern", entwickelt Heine eine innovative Prosatextform, die Elemente aus verschiedensten Lebens- und Wissensbereichen in sich aufnimmt, dabei Positionen und Ansichten nicht mehr systematisch, sondern experimentell, von Fall zu Fall variierend, bevorzugt aus subjektiver Perspektive und im Rahmen der heinetypischen "Kontrastästhetik" (Höhn, S. 385) entwirft. Ohne Rücksichtnahme auf etablierte Grenzen zwischen Literatur und anderen Spezialdiskursen wird so ein popularisiertes, "diskursintegratives" (Wülfing) Wissen produziert, in dem auch politische, Gesellschafts- oder Religionskritik wirksam werden, ein Verfahren, das Heine zum Vorbild für das Junge Deutschland und zum bevorzugten Angriffsziel der Zensur werden lässt.</tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:hi style="font-weight-bold">Gutzkow und Heine </tei:hi><tei:p>
-<tei:seg> Gutzkow und Heine, die zahlreiche gemeinsame Freunde und Bekannte hatten, begegneten sich nie. Bei seinen Paris-Besuchen 1842 und 1846 mied Gutzkow Heine konsequent. Eine Einladung zu einem Diner, die sich nicht ganz sicher auf Heine persönlich zurückführen lässt, schlug Gutzkow wegen der "nächsten Freunde Börne's in Paris" (Werner, Begegnungen mit Heine, Bd. 2, Nr. 604, S. 510), vor allem aber wohl mit Rücksicht auf die von Heine in seinem Börne-Buch arg geschmähte Jeanette Wohl-Strauß aus, mit der er aufgrund seiner eigenen Börne-Biographie Kontakt geknüpft hatte. Direkt korrespondierten Heine und Gutzkow nur zweimal miteinander. Aber es gibt bei beiden Autoren vor allem in den dreißiger und vierziger Jahren in Briefen, Gesprächs- und Pressenotizen und in den Publikationen zahlreiche Belege für das wechselseitige Interesse aneinander, das anfangs einigermaßen respektvoll ist, schließlich aber in scharfen Auseinandersetzungen endet. Vom Bundestagsbeschluss 1835 gemeinsam zu Mitgliedern des Jungen Deutschland erklärt, verfolgen die beiden Autoren bis über die Mitte der dreißiger Jahre hinaus mit dem Kampf für eine fortschrittlich-liberale Literatur und Presse noch ähnliche Interessen: Heine erteilt Gutzkow als einem Vertreter des Jungen Deutschland in der "Romantischen Schule" "das höchste Lob" (DHA, Bd. 8, Tl. 1, S. 219), Gutzkow sucht Heine mit Wienbarg als "princeps juventutis" (Brief vom 15. September 1835; HSA, Bd. 24, S. 292-293) für die geplante "Deutsche Revue" zu gewinnen, unterstreicht seinen positiven Einfluss auf die neueste deutsche Literatur in einigen Artikeln im "Phönix" und verteidigt ihn dabei in seiner Rezension des "Salon. Zweiter Teil" gegen Angriffe Börnes (Phönix. Literatur-Blatt. Frankfurt/M. Nr. 10, 11. März 1835; Rasch 3.35.03.11.1). Schwieriger werdende Arbeitsbedingungen unter dem Druck der Zensur und vor allem wachsende Rivalität lassen schließlich unüberbrückbare Differenzen hervortreten, die Ende der dreißiger Jahre im Streit um Heines "Schwabenspiegel" eskalieren und in der Auseinandersetzung um die Börne-Bücher der beiden Autoren zum endgültigen Bruch führen.</tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg>Heine greift Gutzkow hier und auch im folgenden öffentlich nie frontal an, aber aus privaten Äußerungen und nachgelassenen Textfragmenten (etwa zu einer "Abfertigung Gutzkows"; DHA, Bd. 11, S. 308) geht hervor, dass er in Gutzkow, noch verstärkt nach der fast einhelligen und scharfen Ablehnung seiner eigenen Börne-Schrift 1840, den Kopf einer Kampagne sieht, die seine Glaubwürdigkeit als politisch und sozial engagierter Schriftsteller in Deutschland zu erschüttern sucht und dafür, wie im Fall des "Schwabenspiegels", seine Texte verlagsintern zensiert oder, wie im Kontext der Börne-Denkschrift, seine moralischen und ästhetischen Kompetenzen massiv in Frage stellt. Heine rückt Gutzkow in eine Reihe mit Kotzebue, Müllner und Menzel, genau wie sie von einem "Dämon" besessen, der ihn dazu zwingt, mit "Koth wider seinen Willen" zu werfen und dabei auch auf alte antisemitische Klischees zurückzugreifen (Brief an Laube vom 7. Januar 1839; HSA, Bd. 21, S. 302). Wahrscheinlich hat Heine vor diesem Hintergrund auch einige gutzkowkritische Artikel in der "Zeitung für die elegante Welt", der Augsburger "Allgemeinen Zeitung" und anderen Blättern befördert und beeinflusst. Gutzkow vermutet jedenfalls noch 1846 Intrigen Heines gegen ihn. Verdeckte Anspielungen (der Bezug auf das "Schufterle" aus Schillers "Räubern" im "Vorwort" zu "Deutschland. Ein Wintermärchen" und die auf Anraten Heinrich Laubes schon für die Journalfassung gestrichenen Verse über den "Erzlumpazius" Gutzkow im "Atta Troll") sowie einige scharfe Epigramme zeigen, dass Heine seine kritische Position Gutzkow gegenüber nicht wieder aufgibt. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkow setzt sich vor allem im Rahmen journalistischer Literaturkritik sehr viel intensiver öffentlich mit Heines Werk auseinander. Neben eher knappen Erwähnungen steht in den dreißiger Jahren die oben bereits genannte Rezension des zweiten Teils des "Salon" und die Besprechung von "Über den Denunzianten" (Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 20, 4. August 1837; Rasch 3.37.08.04). In der </tei:seg>
-<tei:seg>Vorrede</tei:seg>
-<tei:seg> zu </tei:seg>
-<tei:seg>Börne's Leben</tei:seg>
-<tei:seg> (auch abgedruckt im "Telegraph für Deutschland", Nr. 137, 26. August 1840, und Nr. 138, 28. August 1840; Rasch 3.40.08.26) rechnet Gutzkow scharf und ausführlich mit Heines Konkurrenzunternehmen "Heinrich Heine über Ludwig Börne" (erschienen im August 1840) ab. Nach dem Bruch erscheinen allerdings lediglich 1851 Rezensionen von Heines "Doktor Faust" und "Romanzero" in der "Deutschen Allgemeinen Zeitung" (Rasch 3.51.11.01) und 1853 von "Die Götter im Exil" (Rasch 3.53.04.15.4). Bereits vor dem Zerwürfnis beurteilt Gutzkow Heine nie eindeutig positiv und auch seine lobende Kritik ist von Anfang an mit abwertenden Argumentationsmustern durchsetzt, die dann später isoliert, ausgebaut und zugespitzt werden. Hauptpunkte der Kritik liegen dabei zum einen im Vorwurf der Substanzlosigkeit, der mit Bildfeldern der Maskierung und des Launisch-Modischen erstellt und in Verbindung gebracht wird mit der Unterstellung verlorengegangener poetischer Potenz. Heines Dichtungen sind für Gutzkow in den meisten Fällen bloß Reanimation alter Erfolge, ihre Reize sind handwerklich kalkuliert: </tei:seg>
-<tei:seg>Tafftblumen, in welche wohlriechendes Wasser geträufelt war</tei:seg>
-<tei:seg> (Laubes neue Reisenovellen. In: Beurmann's Telegraph. Frankfurt/M. Neuste Folge. Nr. 50, [25.] September 1837, S. 393; Rasch 3.37.09.25). Zum anderen spricht er Heine immer wieder jegliche Kompetenz in der Beurteilung politischer und literarischer Zustände in Deutschland ab. Das zeigt sich, noch einigermaßen zurückhaltend, in einem Brief vom 23. August 1838, in welchem er Heine ausgesprochen selbstbewusst von der Veröffentlichung des Gedichtzyklus "Verschiedene" abrät, weil ihn das seine ohnehin angegriffene Reputation in Deutschland kosten könnte. Vor allem den Börne-Biographen sucht er immer wieder in eine Außenseiterposition zu rücken, und er stellt Heine schließlich als einen moralisch höchst zweifelhaften Menschen dar, der persönliche Beziehungen nur aus Eigennutz eingeht und für seinen Ruhm auch Skandale in Kauf nimmt. Den nicht abreißenden Enthusiasmus vor allem der Jugend für Heines "Buch der Lieder" sieht er als Teil der vornehmlich nach 1850 um sich greifenden 'Goldschnittlyrik' kritisch. Noch im </tei:seg>
-<tei:seg>Zauberer von Rom</tei:seg>
-<tei:seg> dienen ihm Heines Verse zur Charakterisierung einer zweideutigen, 'zerrissenen' Figur und einer elegisch-schwärmerischen Stimmung im Deutschland der dreißiger Jahre. Ablehnend steht Gutzkow einem wachsenden Heine-Kult gegenüber, wie sich etwa an seiner Rezension von Alfred Meißners Buch "Heinrich Heine. Erinnerungen" (Hamburg: Hoffmann und Campe, 1856) zeigt (vgl. Rasch 3.56.07.31.2). Über Strodtmanns Ausgabe von Heines Werken (Heinrich Heine: Sämmtliche Werke. 21 Bde., Hamburg: Hoffmann und Campe, 1861-66), in die der Herausgeber auch viele maliziöse Äußerungen über Gutzkow aus Heines Nachlass aufnimmt, und über dessen Heine-Biographie (Adolf Strodtmann: H. Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verbesserte Aufl. 1874/75) ist Gutzkow empört. Aber anders als im Fall der Hebbel-Biographie von Emil Kuh verzichtet er auf eine öffentliche Abrechnung mit Strodtmann bzw. Heine. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:hi style="font-weight-bold">Bibliographie(n) </tei:hi><tei:p>
-<tei:seg>Erdmann von </tei:seg>
-<tei:hi style="font-weight-bold">Wilamowitz-Moellendorff</tei:hi>
-<tei:seg>, Günther </tei:seg>
-<tei:hi style="font-weight-bold">Mühlpfordt</tei:hi>
-<tei:seg>: Heine-Bibliographie 1983-1995. Stuttgart: Metzler, 1998. </tei:seg></tei:p>
-<tei:p>
-<tei:seg> Gottfried </tei:seg>
-<tei:hi style="font-weight-bold">Wilhelm</tei:hi>
-<tei:seg> unter Mitarbeit von Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg> [später Siegfried Seifert u. Albina A. Volgina]: Heine-Bibliographie. 4 Bde. Weimar [später Berlin u. Weimar]: Arion-Verlag, 1960-86. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:hi style="font-weight-bold">Werke / Ausgaben (Auswahl) </tei:hi><tei:p>
-<tei:seg>Heinrich Heine: Historisch-kritische Gesamtausgabe der Werke. In Verbindung mit dem Heinrich-Heine-Institut herausgegeben von Manfred Windfuhr. 16 Bde. Hamburg: Hoffmann &amp; Campe, 1973-97 (DHA).</tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA).</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Heinrich Heine: Sämtliche Schriften. Hg. von Klaus Briegleb. 6 Bde. München: Hanser, 1968-75.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>www.heine-portal.de (Internetausgabe der DHA und des Briefwechsels, verknüpft mit ca. 15.000 Abbildungen von Originalhandschriften-, Bild- und Buchbeständen. Verantwortlich für die Internetpräsenz ist das Heinrich-Heine-Institut und das Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften an der Universität Trier). </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Briefe </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> Heinrich Heine: Briefe. Hg. von Friedrich Hirth. 6 Bde. Mainz: Kupferberg, 1950/1957.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA)</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Biographie(n) </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>Jan Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>, Michael </tei:seg>
-<tei:hi style="font-weight-bold">Werner</tei:hi>
-<tei:seg>: "Der Zweck des Lebens ist das Leben selbst". Heinrich Heine. Eine Biographie. Köln: Kiepenheuer &amp; Witsch, 1997.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Christian </tei:seg>
-<tei:hi style="font-weight-bold">Liedtke</tei:hi>
-<tei:seg>: Heinrich Heine. Reinbek: Rowohlt, 1997.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: Heinrich Heine. Chronik seines Lebens und Werkes. Zweite bearb. u. erw. Aufl. Berlin: Akademie-Verlag, 1981 (E: 1970).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Jeffrey L. </tei:seg>
-<tei:hi style="font-weight-bold">Sammons</tei:hi>
-<tei:seg>: Heinrich Heine. A Modern Biography. Princeton: Princeton University Press, 1979.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Adolf </tei:seg>
-<tei:hi style="font-weight-bold">Strodtmann</tei:hi>
-<tei:seg>: Heinrich Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verb. Aufl. 1874-75. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Quellen </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>, Alfred </tei:seg>
-<tei:hi style="font-weight-bold">Estermann</tei:hi>
-<tei:seg> (Hgg.): Heinrich Heines Werk im Urteil seiner Zeitgenossen. Hamburg: Hoffmann &amp; Campe, 1981-2006.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Alfred </tei:seg>
-<tei:hi style="font-weight-bold">Meißner</tei:hi>
-<tei:seg>: Heinrich Heine. Erinnerungen. Hamburg: Hoffmann und Campe, 1856. </tei:seg>
-<tei:seg>Michael </tei:seg>
-<tei:hi style="font-weight-bold">Werner</tei:hi>
-<tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Nachlass </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Jan-Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Gerhard </tei:seg>
-<tei:hi style="font-weight-bold">Höhn</tei:hi>
-<tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Peter </tei:seg>
-<tei:hi style="font-weight-bold">Stein</tei:hi>
-<tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Wulf </tei:seg>
-<tei:hi style="font-weight-bold">Wülfing</tei:hi>
-<tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Briefe eines Narren an eine Närrin. Hamburg: Hoffmann &amp; Campe, 1832. S. 75-76. WWWBrN, S. 50,12 - 51,13.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Der Salon von H. Heine. Zweiter Theil. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 10, 11. März 1835, S. 237-239 (Rasch 3.35.03.11.1).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Börne gegen Heine. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 597-598 (Rasch 3.35.06.27.1).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Brief an Heine vom 15. September 1835, HSA, Bd. 24, S. 292-293.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>K[arl] G[utzkow]: H. Heine über den Denunzianten. In: Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 20, [4.] August 1837, S. 153-157 (Rasch 3.37.08.04).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>K[arl] G[utzkow]: Laubes neue Reisenovellen. In: Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 50, [25.] September 1837, S. 393 (Rasch 3.37.09.25).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Karl Gutzkow: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann und Campe, 1838. S. 201-214 (Rasch 2.17.2.7).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>K[arl] G[utzkow]: Jahrbuch der Literatur. Erster Jahrgang. Hamburg, Hoffmann und Campe. In: Telegraph für Deutschland. Hamburg. Nr. 1, [1.] Januar 1839, S. 1-7 (Rasch 3.39.01.01.1).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 119, [25.] Juli 1840, S. 476 (Rasch 3.40.07.25).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Karl] G[utzkow]: Herr Heine und sein Schwabenspiegel. In: Telegraph für Deutschland. Hamburg. Nr. 75, [10.] Mai und Nr 76, [11.] Mai 1839, S. 593-597 und 601-607 (Rasch 3.39.05.10). Enthält den Brief Gutzkows an Heine vom August 1838 bezüglich des Zyklus "Verschiedene"; vgl. auch GE, Bd. 10, S. 170-173.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Vorrede zu Börne's Leben von K[arl] Gutzkow. (Geschrieben in Hamburg den 10. August 1840.) In: Telegraph für Deutschland. Hamburg. Nr. 137, [26.] August und Nr 138, [28.] August 1840, S. 545-548 und 549-552 (Rasch 3.40.08.26).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Karl Gutzkow: Börne's Leben. Hamburg: Hoffmann und Campe, 1840 (Vorrede, S. XV-XXXVI; S. 238-243).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Feuilleton. In: Deutsche Allgemeine Zeitung. Leipzig. Nr. 558, 1. November 1851, S. 2291-2292 (Rasch 3.51.11.01).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Heinrich Heine. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr 29, [15. April] 1853, S. 464 (Rasch 3.53.04.15.4).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>[Anon.:] Meißner über Heine. In. Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd. 1, Nr 44, [31. Juli] 1856, S. 703-704 (Rasch 3.56.07.31.2).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Börne's Leben. Hamburg: Hoffmann &amp; Campe, 1840. S. XV-XXXV; 238-243. BoeLWWW, Vorrede, S. 4-15; S. 160-163.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> (Madleen Podewski, Berlin)</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Autor der Seite: Madleen Podewski.</tei:seg>
-<tei:seg> Seite angelegt am 03. 12. 2004.</tei:seg>
-<tei:seg> Fassung: 1.1</tei:seg>
-<tei:seg> Geschichte der Seitenänderungen: Revidierte Editionsprinzipien und neue bibliographische Angaben eingearbeitet von Martina Lauster im Mai 2007.</tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>14.05.2007 12:54</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg> E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Briefe </tei:hi><tei:p>
-<tei:seg> Heinrich Heine: Briefe. Hg. von Friedrich Hirth. 6 Bde. Mainz: Kupferberg, 1950/1957.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA)</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Biographie(n) </tei:hi><tei:p>
-<tei:seg>Jan Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>, Michael </tei:seg>
-<tei:hi style="font-weight-bold">Werner</tei:hi>
-<tei:seg>: "Der Zweck des Lebens ist das Leben selbst". Heinrich Heine. Eine Biographie. Köln: Kiepenheuer &amp; Witsch, 1997.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Christian </tei:seg>
-<tei:hi style="font-weight-bold">Liedtke</tei:hi>
-<tei:seg>: Heinrich Heine. Reinbek: Rowohlt, 1997.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: Heinrich Heine. Chronik seines Lebens und Werkes. Zweite bearb. u. erw. Aufl. Berlin: Akademie-Verlag, 1981 (E: 1970).</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Jeffrey L. </tei:seg>
-<tei:hi style="font-weight-bold">Sammons</tei:hi>
-<tei:seg>: Heinrich Heine. A Modern Biography. Princeton: Princeton University Press, 1979.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Adolf </tei:seg>
-<tei:hi style="font-weight-bold">Strodtmann</tei:hi>
-<tei:seg>: Heinrich Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verb. Aufl. 1874-75. </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Quellen </tei:hi><tei:p>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>, Alfred </tei:seg>
-<tei:hi style="font-weight-bold">Estermann</tei:hi>
-<tei:seg> (Hgg.): Heinrich Heines Werk im Urteil seiner Zeitgenossen. Hamburg: Hoffmann &amp; Campe, 1981-2006.</tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg>
-<tei:seg>Alfred </tei:seg>
-<tei:hi style="font-weight-bold">Meißner</tei:hi>
-<tei:seg>: Heinrich Heine. Erinnerungen. Hamburg: Hoffmann und Campe, 1856. </tei:seg>
-<tei:seg>Michael </tei:seg>
-<tei:hi style="font-weight-bold">Werner</tei:hi>
-<tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Nachlass </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Jan-Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Gerhard </tei:seg>
-<tei:hi style="font-weight-bold">Höhn</tei:hi>
-<tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Peter </tei:seg>
-<tei:hi style="font-weight-bold">Stein</tei:hi>
-<tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Wulf </tei:seg>
-<tei:hi style="font-weight-bold">Wülfing</tei:hi>
-<tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Michael </tei:seg>
-<tei:hi style="font-weight-bold">Werner</tei:hi>
-<tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Nachlass </tei:hi><tei:p>
-<tei:seg> </tei:seg>
-<tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Jan-Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Gerhard </tei:seg>
-<tei:hi style="font-weight-bold">Höhn</tei:hi>
-<tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Peter </tei:seg>
-<tei:hi style="font-weight-bold">Stein</tei:hi>
-<tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Wulf </tei:seg>
-<tei:hi style="font-weight-bold">Wülfing</tei:hi>
-<tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi><tei:p>
-<tei:seg>Eberhard </tei:seg>
-<tei:hi style="font-weight-bold">Galley</tei:hi>
-<tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Jan-Christoph </tei:seg>
-<tei:hi style="font-weight-bold">Hauschild</tei:hi>
-<tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gerhard </tei:seg>
-<tei:hi style="font-weight-bold">Höhn</tei:hi>
-<tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Fritz </tei:seg>
-<tei:hi style="font-weight-bold">Mende</tei:hi>
-<tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Peter </tei:seg>
-<tei:hi style="font-weight-bold">Stein</tei:hi>
-<tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Wulf </tei:seg>
-<tei:hi style="font-weight-bold">Wülfing</tei:hi>
-<tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi><tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> (Madleen Podewski, Berlin)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Madleen Podewski.</tei:seg>
-<tei:seg> Seite angelegt am 03. 12. 2004.</tei:seg>
-<tei:seg> Fassung: 1.1</tei:seg>
-<tei:seg> Geschichte der Seitenänderungen: Revidierte Editionsprinzipien und neue bibliographische Angaben eingearbeitet von Martina Lauster im Mai 2007.</tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>14.05.2007 12:54</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg> E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Heine, Heinrich</tei:title>
+        <tei:author>Madleen Podewski</tei:author>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2004-12-03">2004-12-03</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #heine"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">HEINRICH HEINE</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>(1797-1856), Lyriker, Prosaschriftsteller, Essayist, Publizist; eine der zentralen Figuren im literarisch-publizistischen Leben des Vormärz/Nachmärz.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>→ </tei:seg>
+        <tei:seg>Bilder und Quellen: Bilder. Zeitgenossen Gutzkows</tei:seg>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Allgemeines </tei:hi>
+      <tei:p>
+        <tei:seg> Harry Heine, ältester Sohn einer assimilierten jüdischen Kaufmannsfamilie, studierte nach einer Kaufmannslehre und dem Bankrott eines eigenen Manufakturwarengeschäfts Jura in Bonn, Göttingen und Berlin und machte dabei die Bekanntschaft bedeutender Persönlichkeiten des deutschen kulturellen Lebens (August Wilhelm Schlegel, Rahel und August Varnhagen von Ense, Adalbert von Chamisso, Friedrich de la Motte Fouqué, Christian Dietrich Grabbe, Georg Wilhelm Friedrich Hegel, Alexander von Humboldt). 1825, unmittelbar nach seiner Promotion zum Dr. jur., trat er zum Protestantismus über und änderte seinen Vornamen. Trotz intensiver Bemühungen blieb ihm eine Laufbahn in Staatsdiensten verwehrt. Zudem war er inzwischen als Lyriker ("Gedichte", 1822; "Buch der Lieder", 1827) und als Autor der "Reisebilder" (4 Bde., 1826-31) bekannt geworden, auf deren zum Teil scharfe Staats- und Religionskritik die preußische Zensur mit massiven Eingriffen und Verboten reagierte. So auch in einer Existenz als freier Schriftsteller behindert und angezogen von den Ereignissen um die Julirevolution, übersiedelte Heine am 19. Mai 1831 nach Paris. Hier konnte er sich schnell integrieren und eine ebenso rege wie vielseitige publizistische und literarische Tätigkeit entfalten. Er traf mit bedeutenden Persönlichkeiten des politischen und kulturellen Lebens zusammen (etwa Honoré de Balzac, Victor Hugo, Giacomo Meyerbeer, dem Marquis de Lafayette, Adolphe Thiers), hielt mehr oder weniger spannungsreiche Kontakte zu deutschen Emigranten (Ludwig Börne, Karl Marx, Wilhelm Weitling), arbeitete als Korrespondent für verschiedene deutsche Zeitschriften (etwa die Augsburger "Allgemeine Zeitung", das "Morgenblatt für gebildete Stände", die "Zeitung für die elegante Welt", die "Deutsch-französischen Jahrbücher", den "Vorwärts"), publizierte in renommierten französischen Blättern (wie der "Europe Littéraire" und der "Revue des Deux Mondes"); außerdem erschienen seine Werke in französischen Übersetzungen. Von 1836 bis zum Sturz von Louis Philippe 1848 erhielt Heine aus einem geheimen Fonds der französischen Regierung finanzielle Unterstützung, ein Umstand, der nach der Pariser Februarrevolution 1848 öffentlich wurde und ihm bei einigen seiner Zeitgenossen den Ruf einer käuflichen Feder einbrachte. 1841 heiratete er Crescence Augustine Mirat ("Mathilde"), mit der er seit 1834 zusammenlebte. 1843 und 1844 unternahm er noch einmal zwei Reisen nach Hamburg. Die 48er Revolution erlebte Heine in der "Matratzengruft", an die er bis zu seinem Tod wegen schwerer Lähmungserscheinungen gefesselt blieb.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> Heines vielseitiges Werk umfasst neben frühen dramatischen Versuchen ein breites Spektrum an Lyrikformen, Versepik, ein Tanzpoem, Reisebilder, Kunst- und Literaturkritiken, Essays zur Literatur- und Philosophiegeschichte, Tagesberichterstattungen, Memoiren, Aphorismen und Novellen sowie eine umfangreiche Korrespondenz. Thematische Schwerpunkte verteilen sich dabei im wesentlichen auf vier Komplexe: erstens auf die Erarbeitung eines weit gefassten Emanzipationskonzepts, das neben politischen auch soziale, religiöse und ästhetische Momente einschließt, das an einer Aufwertung sensualistisch-sinnlicher Tendenzen als Gegenkraft zu abstrakten Spiritualismen interessiert ist und von dem aus restaurative, nationalistische und radikalliberale Tendenzen und Verhältnisse in Deutschland und Frankreich scharf kritisiert werden; zweitens auf die Auseinandersetzung mit der "Kunstperiode" und dabei auf die Bestimmung von Ort und Funktion der Kunst im Verhältnis zu Zeitgeschehen, sozialem und politischem Engagement und zur aufkommenden Kapitalisierung des Kunstmarktes; drittens auf die Beziehung zur eigenen jüdischen Identität und viertens, vor allem im Spätwerk, auf den Umgang mit gescheiterten Revolutionen, enttäuschten Emanzipationshoffnungen, Krankheit und Tod. Beginnend mit den "Reisebildern", entwickelt Heine eine innovative Prosatextform, die Elemente aus verschiedensten Lebens- und Wissensbereichen in sich aufnimmt, dabei Positionen und Ansichten nicht mehr systematisch, sondern experimentell, von Fall zu Fall variierend, bevorzugt aus subjektiver Perspektive und im Rahmen der heinetypischen "Kontrastästhetik" (Höhn, S. 385) entwirft. Ohne Rücksichtnahme auf etablierte Grenzen zwischen Literatur und anderen Spezialdiskursen wird so ein popularisiertes, "diskursintegratives" (Wülfing) Wissen produziert, in dem auch politische, Gesellschafts- oder Religionskritik wirksam werden, ein Verfahren, das Heine zum Vorbild für das Junge Deutschland und zum bevorzugten Angriffsziel der Zensur werden lässt.</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Gutzkow und Heine </tei:hi>
+      <tei:p>
+        <tei:seg> Gutzkow und Heine, die zahlreiche gemeinsame Freunde und Bekannte hatten, begegneten sich nie. Bei seinen Paris-Besuchen 1842 und 1846 mied Gutzkow Heine konsequent. Eine Einladung zu einem Diner, die sich nicht ganz sicher auf Heine persönlich zurückführen lässt, schlug Gutzkow wegen der "nächsten Freunde Börne's in Paris" (Werner, Begegnungen mit Heine, Bd. 2, Nr. 604, S. 510), vor allem aber wohl mit Rücksicht auf die von Heine in seinem Börne-Buch arg geschmähte Jeanette Wohl-Strauß aus, mit der er aufgrund seiner eigenen Börne-Biographie Kontakt geknüpft hatte. Direkt korrespondierten Heine und Gutzkow nur zweimal miteinander. Aber es gibt bei beiden Autoren vor allem in den dreißiger und vierziger Jahren in Briefen, Gesprächs- und Pressenotizen und in den Publikationen zahlreiche Belege für das wechselseitige Interesse aneinander, das anfangs einigermaßen respektvoll ist, schließlich aber in scharfen Auseinandersetzungen endet. Vom Bundestagsbeschluss 1835 gemeinsam zu Mitgliedern des Jungen Deutschland erklärt, verfolgen die beiden Autoren bis über die Mitte der dreißiger Jahre hinaus mit dem Kampf für eine fortschrittlich-liberale Literatur und Presse noch ähnliche Interessen: Heine erteilt Gutzkow als einem Vertreter des Jungen Deutschland in der "Romantischen Schule" "das höchste Lob" (DHA, Bd. 8, Tl. 1, S. 219), Gutzkow sucht Heine mit Wienbarg als "princeps juventutis" (Brief vom 15. September 1835; HSA, Bd. 24, S. 292-293) für die geplante "Deutsche Revue" zu gewinnen, unterstreicht seinen positiven Einfluss auf die neueste deutsche Literatur in einigen Artikeln im "Phönix" und verteidigt ihn dabei in seiner Rezension des "Salon. Zweiter Teil" gegen Angriffe Börnes (Phönix. Literatur-Blatt. Frankfurt/M. Nr. 10, 11. März 1835; Rasch 3.35.03.11.1). Schwieriger werdende Arbeitsbedingungen unter dem Druck der Zensur und vor allem wachsende Rivalität lassen schließlich unüberbrückbare Differenzen hervortreten, die Ende der dreißiger Jahre im Streit um Heines "Schwabenspiegel" eskalieren und in der Auseinandersetzung um die Börne-Bücher der beiden Autoren zum endgültigen Bruch führen.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heine greift Gutzkow hier und auch im folgenden öffentlich nie frontal an, aber aus privaten Äußerungen und nachgelassenen Textfragmenten (etwa zu einer "Abfertigung Gutzkows"; DHA, Bd. 11, S. 308) geht hervor, dass er in Gutzkow, noch verstärkt nach der fast einhelligen und scharfen Ablehnung seiner eigenen Börne-Schrift 1840, den Kopf einer Kampagne sieht, die seine Glaubwürdigkeit als politisch und sozial engagierter Schriftsteller in Deutschland zu erschüttern sucht und dafür, wie im Fall des "Schwabenspiegels", seine Texte verlagsintern zensiert oder, wie im Kontext der Börne-Denkschrift, seine moralischen und ästhetischen Kompetenzen massiv in Frage stellt. Heine rückt Gutzkow in eine Reihe mit Kotzebue, Müllner und Menzel, genau wie sie von einem "Dämon" besessen, der ihn dazu zwingt, mit "Koth wider seinen Willen" zu werfen und dabei auch auf alte antisemitische Klischees zurückzugreifen (Brief an Laube vom 7. Januar 1839; HSA, Bd. 21, S. 302). Wahrscheinlich hat Heine vor diesem Hintergrund auch einige gutzkowkritische Artikel in der "Zeitung für die elegante Welt", der Augsburger "Allgemeinen Zeitung" und anderen Blättern befördert und beeinflusst. Gutzkow vermutet jedenfalls noch 1846 Intrigen Heines gegen ihn. Verdeckte Anspielungen (der Bezug auf das "Schufterle" aus Schillers "Räubern" im "Vorwort" zu "Deutschland. Ein Wintermärchen" und die auf Anraten Heinrich Laubes schon für die Journalfassung gestrichenen Verse über den "Erzlumpazius" Gutzkow im "Atta Troll") sowie einige scharfe Epigramme zeigen, dass Heine seine kritische Position Gutzkow gegenüber nicht wieder aufgibt. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkow setzt sich vor allem im Rahmen journalistischer Literaturkritik sehr viel intensiver öffentlich mit Heines Werk auseinander. Neben eher knappen Erwähnungen steht in den dreißiger Jahren die oben bereits genannte Rezension des zweiten Teils des "Salon" und die Besprechung von "Über den Denunzianten" (Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 20, 4. August 1837; Rasch 3.37.08.04). In der </tei:seg>
+        <tei:seg>Vorrede</tei:seg>
+        <tei:seg> zu </tei:seg>
+        <tei:seg>Börne's Leben</tei:seg>
+        <tei:seg> (auch abgedruckt im "Telegraph für Deutschland", Nr. 137, 26. August 1840, und Nr. 138, 28. August 1840; Rasch 3.40.08.26) rechnet Gutzkow scharf und ausführlich mit Heines Konkurrenzunternehmen "Heinrich Heine über Ludwig Börne" (erschienen im August 1840) ab. Nach dem Bruch erscheinen allerdings lediglich 1851 Rezensionen von Heines "Doktor Faust" und "Romanzero" in der "Deutschen Allgemeinen Zeitung" (Rasch 3.51.11.01) und 1853 von "Die Götter im Exil" (Rasch 3.53.04.15.4). Bereits vor dem Zerwürfnis beurteilt Gutzkow Heine nie eindeutig positiv und auch seine lobende Kritik ist von Anfang an mit abwertenden Argumentationsmustern durchsetzt, die dann später isoliert, ausgebaut und zugespitzt werden. Hauptpunkte der Kritik liegen dabei zum einen im Vorwurf der Substanzlosigkeit, der mit Bildfeldern der Maskierung und des Launisch-Modischen erstellt und in Verbindung gebracht wird mit der Unterstellung verlorengegangener poetischer Potenz. Heines Dichtungen sind für Gutzkow in den meisten Fällen bloß Reanimation alter Erfolge, ihre Reize sind handwerklich kalkuliert: </tei:seg>
+        <tei:seg>Tafftblumen, in welche wohlriechendes Wasser geträufelt war</tei:seg>
+        <tei:seg> (Laubes neue Reisenovellen. In: Beurmann's Telegraph. Frankfurt/M. Neuste Folge. Nr. 50, [25.] September 1837, S. 393; Rasch 3.37.09.25). Zum anderen spricht er Heine immer wieder jegliche Kompetenz in der Beurteilung politischer und literarischer Zustände in Deutschland ab. Das zeigt sich, noch einigermaßen zurückhaltend, in einem Brief vom 23. August 1838, in welchem er Heine ausgesprochen selbstbewusst von der Veröffentlichung des Gedichtzyklus "Verschiedene" abrät, weil ihn das seine ohnehin angegriffene Reputation in Deutschland kosten könnte. Vor allem den Börne-Biographen sucht er immer wieder in eine Außenseiterposition zu rücken, und er stellt Heine schließlich als einen moralisch höchst zweifelhaften Menschen dar, der persönliche Beziehungen nur aus Eigennutz eingeht und für seinen Ruhm auch Skandale in Kauf nimmt. Den nicht abreißenden Enthusiasmus vor allem der Jugend für Heines "Buch der Lieder" sieht er als Teil der vornehmlich nach 1850 um sich greifenden 'Goldschnittlyrik' kritisch. Noch im </tei:seg>
+        <tei:seg>Zauberer von Rom</tei:seg>
+        <tei:seg> dienen ihm Heines Verse zur Charakterisierung einer zweideutigen, 'zerrissenen' Figur und einer elegisch-schwärmerischen Stimmung im Deutschland der dreißiger Jahre. Ablehnend steht Gutzkow einem wachsenden Heine-Kult gegenüber, wie sich etwa an seiner Rezension von Alfred Meißners Buch "Heinrich Heine. Erinnerungen" (Hamburg: Hoffmann und Campe, 1856) zeigt (vgl. Rasch 3.56.07.31.2). Über Strodtmanns Ausgabe von Heines Werken (Heinrich Heine: Sämmtliche Werke. 21 Bde., Hamburg: Hoffmann und Campe, 1861-66), in die der Herausgeber auch viele maliziöse Äußerungen über Gutzkow aus Heines Nachlass aufnimmt, und über dessen Heine-Biographie (Adolf Strodtmann: H. Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verbesserte Aufl. 1874/75) ist Gutzkow empört. Aber anders als im Fall der Hebbel-Biographie von Emil Kuh verzichtet er auf eine öffentliche Abrechnung mit Strodtmann bzw. Heine. </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Bibliographie(n) </tei:hi>
+      <tei:p>
+        <tei:seg>Erdmann von </tei:seg>
+        <tei:hi style="font-weight-bold">Wilamowitz-Moellendorff</tei:hi>
+        <tei:seg>, Günther </tei:seg>
+        <tei:hi style="font-weight-bold">Mühlpfordt</tei:hi>
+        <tei:seg>: Heine-Bibliographie 1983-1995. Stuttgart: Metzler, 1998. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> Gottfried </tei:seg>
+        <tei:hi style="font-weight-bold">Wilhelm</tei:hi>
+        <tei:seg> unter Mitarbeit von Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg> [später Siegfried Seifert u. Albina A. Volgina]: Heine-Bibliographie. 4 Bde. Weimar [später Berlin u. Weimar]: Arion-Verlag, 1960-86. </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Werke / Ausgaben (Auswahl) </tei:hi>
+      <tei:p>
+        <tei:seg>Heinrich Heine: Historisch-kritische Gesamtausgabe der Werke. In Verbindung mit dem Heinrich-Heine-Institut herausgegeben von Manfred Windfuhr. 16 Bde. Hamburg: Hoffmann &amp; Campe, 1973-97 (DHA).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heinrich Heine: Sämtliche Schriften. Hg. von Klaus Briegleb. 6 Bde. München: Hanser, 1968-75.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>www.heine-portal.de (Internetausgabe der DHA und des Briefwechsels, verknüpft mit ca. 15.000 Abbildungen von Originalhandschriften-, Bild- und Buchbeständen. Verantwortlich für die Internetpräsenz ist das Heinrich-Heine-Institut und das Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften an der Universität Trier). </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Briefe </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> Heinrich Heine: Briefe. Hg. von Friedrich Hirth. 6 Bde. Mainz: Kupferberg, 1950/1957.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA)</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Biographie(n) </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>Jan Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>, Michael </tei:seg>
+        <tei:hi style="font-weight-bold">Werner</tei:hi>
+        <tei:seg>: "Der Zweck des Lebens ist das Leben selbst". Heinrich Heine. Eine Biographie. Köln: Kiepenheuer &amp; Witsch, 1997.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Christian </tei:seg>
+        <tei:hi style="font-weight-bold">Liedtke</tei:hi>
+        <tei:seg>: Heinrich Heine. Reinbek: Rowohlt, 1997.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: Heinrich Heine. Chronik seines Lebens und Werkes. Zweite bearb. u. erw. Aufl. Berlin: Akademie-Verlag, 1981 (E: 1970).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Jeffrey L. </tei:seg>
+        <tei:hi style="font-weight-bold">Sammons</tei:hi>
+        <tei:seg>: Heinrich Heine. A Modern Biography. Princeton: Princeton University Press, 1979.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Adolf </tei:seg>
+        <tei:hi style="font-weight-bold">Strodtmann</tei:hi>
+        <tei:seg>: Heinrich Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verb. Aufl. 1874-75. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Quellen </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>, Alfred </tei:seg>
+        <tei:hi style="font-weight-bold">Estermann</tei:hi>
+        <tei:seg> (Hgg.): Heinrich Heines Werk im Urteil seiner Zeitgenossen. Hamburg: Hoffmann &amp; Campe, 1981-2006.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Alfred </tei:seg>
+        <tei:hi style="font-weight-bold">Meißner</tei:hi>
+        <tei:seg>: Heinrich Heine. Erinnerungen. Hamburg: Hoffmann und Campe, 1856. </tei:seg>
+        <tei:seg>Michael </tei:seg>
+        <tei:hi style="font-weight-bold">Werner</tei:hi>
+        <tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Nachlass </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Jan-Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Höhn</tei:hi>
+        <tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Stein</tei:hi>
+        <tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Wulf </tei:seg>
+        <tei:hi style="font-weight-bold">Wülfing</tei:hi>
+        <tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Briefe eines Narren an eine Närrin. Hamburg: Hoffmann &amp; Campe, 1832. S. 75-76. WWWBrN, S. 50,12 - 51,13.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Der Salon von H. Heine. Zweiter Theil. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 10, 11. März 1835, S. 237-239 (Rasch 3.35.03.11.1).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Börne gegen Heine. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 597-598 (Rasch 3.35.06.27.1).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Brief an Heine vom 15. September 1835, HSA, Bd. 24, S. 292-293.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>K[arl] G[utzkow]: H. Heine über den Denunzianten. In: Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 20, [4.] August 1837, S. 153-157 (Rasch 3.37.08.04).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>K[arl] G[utzkow]: Laubes neue Reisenovellen. In: Beurmann's Telegraph. Neuste Folge. Frankfurt/M. Nr. 50, [25.] September 1837, S. 393 (Rasch 3.37.09.25).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Karl Gutzkow: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann und Campe, 1838. S. 201-214 (Rasch 2.17.2.7).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>K[arl] G[utzkow]: Jahrbuch der Literatur. Erster Jahrgang. Hamburg, Hoffmann und Campe. In: Telegraph für Deutschland. Hamburg. Nr. 1, [1.] Januar 1839, S. 1-7 (Rasch 3.39.01.01.1).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 119, [25.] Juli 1840, S. 476 (Rasch 3.40.07.25).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Karl] G[utzkow]: Herr Heine und sein Schwabenspiegel. In: Telegraph für Deutschland. Hamburg. Nr. 75, [10.] Mai und Nr 76, [11.] Mai 1839, S. 593-597 und 601-607 (Rasch 3.39.05.10). Enthält den Brief Gutzkows an Heine vom August 1838 bezüglich des Zyklus "Verschiedene"; vgl. auch GE, Bd. 10, S. 170-173.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Vorrede zu Börne's Leben von K[arl] Gutzkow. (Geschrieben in Hamburg den 10. August 1840.) In: Telegraph für Deutschland. Hamburg. Nr. 137, [26.] August und Nr 138, [28.] August 1840, S. 545-548 und 549-552 (Rasch 3.40.08.26).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Karl Gutzkow: Börne's Leben. Hamburg: Hoffmann und Campe, 1840 (Vorrede, S. XV-XXXVI; S. 238-243).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Feuilleton. In: Deutsche Allgemeine Zeitung. Leipzig. Nr. 558, 1. November 1851, S. 2291-2292 (Rasch 3.51.11.01).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Heinrich Heine. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr 29, [15. April] 1853, S. 464 (Rasch 3.53.04.15.4).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>[Anon.:] Meißner über Heine. In. Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd. 1, Nr 44, [31. Juli] 1856, S. 703-704 (Rasch 3.56.07.31.2).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Börne's Leben. Hamburg: Hoffmann &amp; Campe, 1840. S. XV-XXXV; 238-243. BoeLWWW, Vorrede, S. 4-15; S. 160-163.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> (Madleen Podewski, Berlin)</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Autor der Seite: Madleen Podewski.</tei:seg>
+        <tei:seg> Seite angelegt am 03. 12. 2004.</tei:seg>
+        <tei:seg> Fassung: 1.1</tei:seg>
+        <tei:seg> Geschichte der Seitenänderungen: Revidierte Editionsprinzipien und neue bibliographische Angaben eingearbeitet von Martina Lauster im Mai 2007.</tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>14.05.2007 12:54</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg> E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Briefe </tei:hi>
+      <tei:p>
+        <tei:seg> Heinrich Heine: Briefe. Hg. von Friedrich Hirth. 6 Bde. Mainz: Kupferberg, 1950/1957.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Heinrich Heine: Säkularausgabe. Werke, Briefwechsel, Lebenszeugnisse. Hg. von den Nationalen Forschungs- und Gedenkstätten der klassischen deutschen Literatur in Weimar und dem Centre National de la Recherche Scientifique in Paris. Berlin, Paris: Akademie-Verlag, 1970ff. (HSA)</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Biographie(n) </tei:hi>
+      <tei:p>
+        <tei:seg>Jan Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>, Michael </tei:seg>
+        <tei:hi style="font-weight-bold">Werner</tei:hi>
+        <tei:seg>: "Der Zweck des Lebens ist das Leben selbst". Heinrich Heine. Eine Biographie. Köln: Kiepenheuer &amp; Witsch, 1997.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Christian </tei:seg>
+        <tei:hi style="font-weight-bold">Liedtke</tei:hi>
+        <tei:seg>: Heinrich Heine. Reinbek: Rowohlt, 1997.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: Heinrich Heine. Chronik seines Lebens und Werkes. Zweite bearb. u. erw. Aufl. Berlin: Akademie-Verlag, 1981 (E: 1970).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Jeffrey L. </tei:seg>
+        <tei:hi style="font-weight-bold">Sammons</tei:hi>
+        <tei:seg>: Heinrich Heine. A Modern Biography. Princeton: Princeton University Press, 1979.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Adolf </tei:seg>
+        <tei:hi style="font-weight-bold">Strodtmann</tei:hi>
+        <tei:seg>: Heinrich Heines Leben und Werke. 2 Bde. Berlin: Duncker, 1867-69. - 2. verb. Aufl. 1874-75. </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Quellen </tei:hi>
+      <tei:p>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>, Alfred </tei:seg>
+        <tei:hi style="font-weight-bold">Estermann</tei:hi>
+        <tei:seg> (Hgg.): Heinrich Heines Werk im Urteil seiner Zeitgenossen. Hamburg: Hoffmann &amp; Campe, 1981-2006.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+        <tei:seg>Alfred </tei:seg>
+        <tei:hi style="font-weight-bold">Meißner</tei:hi>
+        <tei:seg>: Heinrich Heine. Erinnerungen. Hamburg: Hoffmann und Campe, 1856. </tei:seg>
+        <tei:seg>Michael </tei:seg>
+        <tei:hi style="font-weight-bold">Werner</tei:hi>
+        <tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Nachlass </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Jan-Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Höhn</tei:hi>
+        <tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Stein</tei:hi>
+        <tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Wulf </tei:seg>
+        <tei:hi style="font-weight-bold">Wülfing</tei:hi>
+        <tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Michael </tei:seg>
+        <tei:hi style="font-weight-bold">Werner</tei:hi>
+        <tei:seg> (Hg.): Begegnungen mit Heine. Berichte der Zeitgenossen. 2 Bde. Hamburg: Hoffmann &amp; Campe, 1973 (I: 1797-1846; II: 1847-1856). </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Nachlass </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+        <tei:seg> Das Heine-Archiv am Heinrich-Heine-Institut in Düsseldorf besitzt über 4000 Werkmanuskriptseiten (ungefähr 60% aller bekannten Handschriften), über 200 Briefe von und ca. 900 Briefe an Heine sowie Heines Nachlassbibliothek. Weitere 25% der Handschriften finden sich in der Bibliothèque Nationale in Paris, der Rest verteilt sich auf Archive in der ganzen Welt, besonders in den USA .</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Jan-Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Höhn</tei:hi>
+        <tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Stein</tei:hi>
+        <tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Wulf </tei:seg>
+        <tei:hi style="font-weight-bold">Wülfing</tei:hi>
+        <tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+      <tei:p>
+        <tei:seg>Eberhard </tei:seg>
+        <tei:hi style="font-weight-bold">Galley</tei:hi>
+        <tei:seg>: Heine im literarischen Streit mit Gutzkow. Mit unbekannten Manuskripten aus Heines Nachlaß. In: Heine-Jahrbuch 1966, S. 3-40.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Jan-Christoph </tei:seg>
+        <tei:hi style="font-weight-bold">Hauschild</tei:hi>
+        <tei:seg>: Büchner, Gutzkow ... und Heine. Spätfolgen einer "Namenskameradschaft". In: Heine-Jahrbuch 1987, S. 223-238.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Höhn</tei:hi>
+        <tei:seg>: Heine-Handbuch. Zeit - Person - Werk. Dritte, überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler, 2004 (E: 1987).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Fritz </tei:seg>
+        <tei:hi style="font-weight-bold">Mende</tei:hi>
+        <tei:seg>: "Schufterle" in der "Livree der Tagesidee". Zum Streit Heine-Gutzkow. In: Heine-Jahrbuch 1991, S. 187-192.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Stein</tei:hi>
+        <tei:seg>: Probleme der literarischen Proklamation des Politischen. Karl Gutzkow im Jahre 1835. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 134-154.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Wulf </tei:seg>
+        <tei:hi style="font-weight-bold">Wülfing</tei:hi>
+        <tei:seg>: Stil und Zensur. Zur jungdeutschen Rhetorik als einem Versuch von Diskursintegration. In: Joseph A. Kruse, Bernd Kortländer (Hgg.): Das Junge Deutschland. Kolloquium zum 150. Jahrestag des Verbots vom 10. Dezember 1835. Hamburg: Hoffmann &amp; Campe, 1987. S. 193-217.</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> (Madleen Podewski, Berlin)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Madleen Podewski.</tei:seg>
+        <tei:seg> Seite angelegt am 03. 12. 2004.</tei:seg>
+        <tei:seg> Fassung: 1.1</tei:seg>
+        <tei:seg> Geschichte der Seitenänderungen: Revidierte Editionsprinzipien und neue bibliographische Angaben eingearbeitet von Martina Lauster im Mai 2007.</tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>14.05.2007 12:54</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg> E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>

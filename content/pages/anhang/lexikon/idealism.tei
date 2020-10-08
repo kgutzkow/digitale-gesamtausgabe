@@ -1,109 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>IDEALISMUS</tei:title>
-<tei:author>Martina Lauster</tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2007-01">2007-01</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #idealism"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-size-large font-weight-bold">IDEALISMUS</tei:hi>
-<tei:seg>, Begriff zur Bezeichnung einer erkenntnistheoretischen bzw. metaphysischen Richtung in der
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Idealismus</tei:title>
+        <tei:author>Martina Lauster</tei:author>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2007-01">2007-01</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #idealism"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">IDEALISMUS</tei:hi>
+        <tei:seg>, Begriff zur Bezeichnung einer erkenntnistheoretischen bzw. metaphysischen Richtung in der
 europäischen Philosophie. Die deutsche Philosophie von Kant bis Hegel wird oft unter dem Begriff 'deutscher Idealismus' subsumiert.
 Ästhetik, Literatur und Kunst des 19. Jahrhunderts sind in Deutschland trotz des aufkommenden </tei:seg>
-<tei:seg>Realismus</tei:seg>
-<tei:seg>
+        <tei:seg>Realismus</tei:seg>
+        <tei:seg>
 stark geprägt vom Erbe der idealistischen Philosophie, und Gleiches gilt von der Publizistik. Mit der großen Mehrheit seiner
 vormärzlichen Zeitgenossen teilt Gutzkow den Glauben an die Wirkungsmacht der Idee, wenngleich er Hegel und den Hegelianern jeglicher
 Prägung zum Teil sehr kritisch gegenübersteht und im Nachmärz keine Wende zum Programm des 'Realismus' vollzieht, weder in
-ästhetischer Hinsicht noch im Hinblick auf Bismarcks 'Realpolitik'.</tei:seg></tei:p>
-<tei:seg> </tei:seg><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Allgemeines</tei:hi><tei:p>
-<tei:seg>"Der </tei:seg>
-<tei:hi style="font-weight-bold">metaphysische I[dealismus]</tei:hi>
-<tei:seg> besteht in der Lehre, daß nicht der tote Stoff und die blinden Naturkräfte,
+ästhetischer Hinsicht noch im Hinblick auf Bismarcks 'Realpolitik'.</tei:seg>
+      </tei:p>
+      <tei:seg> </tei:seg>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
+      <tei:p>
+        <tei:seg>"Der </tei:seg>
+        <tei:hi style="font-weight-bold">metaphysische I[dealismus]</tei:hi>
+        <tei:seg> besteht in der Lehre, daß nicht der tote Stoff und die blinden Naturkräfte,
 sondern geistige Prinzipien ('Ideen') das wahrhaft Wirkliche seien; die körperliche Natur ist demzufolge lediglich Darstellungsform eines
 idealen, geistigen Inhalts, ähnlich wie das Kunstwerk nur das Mittel der Versinnlichung der künstlerischen Idee bildet. Der metaphysische
 I[dealismus] spricht demnach dem Ideellen die Priorität vor dem sinnlich Reellen zu, der kausalen Erklärungsweise ordnet er die teleologische
 über, und die Erforschung der Stoffe und Kräfte gilt ihm zwar nicht für völlig wertlos, aber doch nur für eine niedere Stufe der
 Naturerkenntnis, die ihre Vollendung erst durch die Einsicht in den 'Plan' und 'Zweck' der Schöpfung findet. Diese Lehre wurde im Altertum
-begründet durch Platon und durch die Neuplatoniker weiter entwickelt". (Meyer, Bd. 9, S. 735)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Der Beitrag des 'deutschen Idealismus' zum europäischen Denken besteht in einer spezifischen Aufwertung des vernunftbegabten Individuums
+begründet durch Platon und durch die Neuplatoniker weiter entwickelt". (Meyer, Bd. 9, S. 735)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Der Beitrag des 'deutschen Idealismus' zum europäischen Denken besteht in einer spezifischen Aufwertung des vernunftbegabten Individuums
 und dadurch in einer Entkräftung religiös fundierter Systeme (Greif, S. 223), wenngleich die Theologie z. B. in Form der Geschichtsteleologie
 auf säkularisierte Weise erhalten bleibt. Kants erkenntnistheoretischer Idealismus definierte die Dinge als Erscheinungen für das Subjekt,
 und "im Anschluß an ihn führten Fichte, Schelling und Hegel glänzende idealistische Systeme aus, indem sie zugleich den
 erkenntnistheoretischen I[dealismus] Kants in einen metaphysischen umdeuteten". Fichte lehrte, dass die äußeren Dinge "</tei:seg>
-<tei:hi style="font-weight-bold">durch</tei:hi>
-<tei:seg> das Ich
+        <tei:hi style="font-weight-bold">durch</tei:hi>
+        <tei:seg> das Ich
 gesetzt würden, und faßte den Weltprozeß auf als eine fortschreitende Realisierung sittlicher Ideen. Schelling erweiterte den Begriff des
 produktiven Ich zu dem einer universellen schöpferischen Tätigkeit, durch die das Ich und alle Einzelwesen erst ihre Realität erhalten, und
 die, soweit sie ihrer selbst unbewußt ist, die Natur, soweit sie ihrer selbst bewußt wird, das geistige Leben ausmacht
 (</tei:seg>
-<tei:hi style="font-weight-bold">objektiver I[dealismus]</tei:hi>
-<tei:seg>). Hegel endlich ging zum </tei:seg>
-<tei:hi style="font-weight-bold">absoluten I[dealismus]</tei:hi>
-<tei:seg> über, indem er erklärt: 'Das Denken, der Begriff, die
+        <tei:hi style="font-weight-bold">objektiver I[dealismus]</tei:hi>
+        <tei:seg>). Hegel endlich ging zum </tei:seg>
+        <tei:hi style="font-weight-bold">absoluten I[dealismus]</tei:hi>
+        <tei:seg> über, indem er erklärt: 'Das Denken, der Begriff, die
 Idee oder vielmehr der Prozeß, das immanente Werden des Begriffs ist das allein Wirkliche und Wahre. Die Natur ist die Idee in der Form des
 Andersseins.' Doch vermochten auch diese großen Denker die mit der Frage nach dem Verhältnis des </tei:seg>
-<tei:hi style="font-weight-bold">Ideellen zum Reellen</tei:hi>
-<tei:seg> (letzteres
+        <tei:hi style="font-weight-bold">Ideellen zum Reellen</tei:hi>
+        <tei:seg> (letzteres
 läßt sich nicht restlos in ein Ideelles auflösen, die Wirkung und Gegenwirkung der </tei:seg>
-<tei:hi style="font-weight-bold">Kräfte</tei:hi>
-<tei:seg> sich nicht auf die rein logische
+        <tei:hi style="font-weight-bold">Kräfte</tei:hi>
+        <tei:seg> sich nicht auf die rein logische
 Entwickelung der </tei:seg>
-<tei:hi style="font-weight-bold">Begriffe</tei:hi>
-<tei:seg> zurückführen), der </tei:seg>
-<tei:hi style="font-weight-bold">Kausalität</tei:hi>
-<tei:seg> zur </tei:seg>
-<tei:hi style="font-weight-bold">Teleologie</tei:hi>
-<tei:seg> [...] verbundenen Schwierigkeiten nicht
+        <tei:hi style="font-weight-bold">Begriffe</tei:hi>
+        <tei:seg> zurückführen), der </tei:seg>
+        <tei:hi style="font-weight-bold">Kausalität</tei:hi>
+        <tei:seg> zur </tei:seg>
+        <tei:hi style="font-weight-bold">Teleologie</tei:hi>
+        <tei:seg> [...] verbundenen Schwierigkeiten nicht
 wegzuschaffen, und so wurden ihre Systeme durch die realistische naturwissenschaftliche Weltansicht, an die sich Schopenhauer und Herbart
-mehr anzulehnen suchten, gänzlich verdrängt". (Meyer, Bd. 9, S. 735-736)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>In der nachidealistischen Philosophie des 19. Jahrhunderts geht es also um eine Neudefinition des Verhältnisses von Ideellem und Reellem.
+mehr anzulehnen suchten, gänzlich verdrängt". (Meyer, Bd. 9, S. 735-736)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>In der nachidealistischen Philosophie des 19. Jahrhunderts geht es also um eine Neudefinition des Verhältnisses von Ideellem und Reellem.
 Ausschlaggebend dafür war die Aufspaltung des von Hegel formulierten dialektischen Prozesses in seine Aporien. Die Linkshegelianer entdeckten
 die Realität des sich in der Welt verwirklichenden Weltgeistes in der Fortschrittsidee, eine Vorstellung, die schließlich in Marx
 Forderungen nach gesellschaftlichen Veränderungen kulminierte. Man könnte sagen: Die Wirklichkeit fraß die Idee einfach auf. Umgekehrt entwickelte
 Eduard von </tei:seg>
-<tei:seg>Hartmann</tei:seg>
-<tei:seg> in seiner "Philosophie des Unbewussten" ein quasi hegelianisches System, in dem er aus der vernunftgesteuerten Idee und
+        <tei:seg>Hartmann</tei:seg>
+        <tei:seg> in seiner "Philosophie des Unbewussten" ein quasi hegelianisches System, in dem er aus der vernunftgesteuerten Idee und
 der kontingenten Wirklichkeit einen neuen Weltgeist erfand, den er das Unbewusste nannte, eine Idee also, die alles Wirkliche usurpiert hatte,
-eine Art Leviathan, der unberechenbar die Wirklichkeit beherrscht. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Im Gegensatz zu der marxistischen Lösung wurde Hartmanns "Philosophie des Unbewussten" in der Gründerzeit bereitwillig rezipiert -
+eine Art Leviathan, der unberechenbar die Wirklichkeit beherrscht. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Im Gegensatz zu der marxistischen Lösung wurde Hartmanns "Philosophie des Unbewussten" in der Gründerzeit bereitwillig rezipiert -
 Hartmann wurde geradezu Mode-Philosoph. Das hängt mit dem gesellschaftlichen Prozess zusammen, der teilweise seitenverkehrt zum
 philosophischen Diskurs verlief: Die Überzeugung Hegels vom schließlichen Sieg der Vernunft in der Wirklichkeit endete im
 Nachweis ihres Scheiterns bei Schopenhauer und Hartmann. Zugleich führte die wirtschaftliche Entwicklung zu einer
@@ -111,102 +119,109 @@ bisher nie gekannten materiellen Prosperität einerseits, einer immer tiefer wer
 Hartmanns auf den ersten Blick düsteres Weltmodell erweist sich bei näherer Betrachtung als erstaunlich konform. Anders als Schopenhauer fand
 er die Lösung nicht in der Ataraxie, sondern hielt an der Handlungsfähigkeit des Einzelnen und der Gesellschaft fest. Und auch der soziale
 status quo scheint gerechtfertigt, denn die Herrschaft des unbewussten Weltgeistes erklärt zwar das individuelle Glücksverlangen für nichtig,
-die tatkräftige Arbeit am Fortschritt des Ganzen dagegen für ein sittliches Gebot im Sinne der teleologischen gesellschaftlichen Entwicklung.</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Gutzkows Stellung zum deutschen Idealismus und seinem Erbe</tei:hi><tei:p>
-<tei:seg>Die 'Idee' bei Gutzkow</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Quellen</tei:hi><tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl)</tei:hi><tei:p>
-<tei:seg>Olaf </tei:seg>
-<tei:hi style="font-weight-bold">Briese</tei:hi>
-<tei:seg>: Konkurrenzen. Philosophische Kultur in Deutschland 1830-1850. Porträts und Profile. Würzburg: Königshausen &amp; Neumann, 1998.</tei:seg>
-<tei:seg>
-</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Olaf </tei:seg>
-<tei:hi style="font-weight-bold">Briese</tei:hi>
-<tei:seg>: Konkurrenzen. Philosophische Kultur in Deutschland 1830-1850. Porträts und Profile. Würzburg: Königshausen &amp; Neumann, 1998.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Lucien </tei:seg>
-<tei:hi style="font-weight-bold">Calvié</tei:hi>
-<tei:seg>: Le Renard et les raisins. La Révolution française et les intellectuels allemands 1789-1845. Paris: Études et Documentation Internationales, 1989.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Margot </tei:seg>
-<tei:hi style="font-weight-bold">Fleischer</tei:hi>
-<tei:seg> und Jochem </tei:seg>
-<tei:hi style="font-weight-bold">Henningfeld</tei:hi>
-<tei:seg> (Hgg.): Philosophen des 19. Jahrhunderts. Eine Einführung. Darmstadt: Wissenschaftliche Buchgesellschaft, 1998.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Stefan </tei:seg>
-<tei:hi style="font-weight-bold">Greif</tei:hi>
-<tei:seg>: Idealismus, deutscher. In: Metzler Lexikon Literatur- und Kulturtheorie. Ansätze - Personen - Grundbegriffe. Hg. von Ansgar Nünning. Stuttgart, Weimar: Metzler, 1998. S. 223-225.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Nicolai </tei:seg>
-<tei:hi style="font-weight-bold">Hartmann</tei:hi>
-<tei:seg>: Die Philosophie des deutschen Idealismus. Berlin, Leipzig: de Gruyter, 1923. 3. Aufl. 1974.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Lars </tei:seg>
-<tei:hi style="font-weight-bold">Lambrecht</tei:hi>
-<tei:seg> (Hg.): Philosophie, Literatur und Politik vor den Revolutionen von 1848. Zur Herausbildung der demokratischen Bewegungen in Europa. Frankfurt/M., Berlin, Bern usw.: Lang, 1996. (Forschungen zum Junghegelianismus. Quellenkunde, Umkreisforschung, Theorie, Wirkungsgeschichte. Hg. von Konrad Feilchenfeldt und Lars Lambrecht).</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Karl </tei:seg>
-<tei:hi style="font-weight-bold">Löwith</tei:hi>
-<tei:seg>: Von Hegel zu Nietzsche. In: Sämtliche Schriften. Bd. 4. Stuttgart: Metzler, 1988.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Walter </tei:seg>
-<tei:hi style="font-weight-bold">Stephan</tei:hi>
-<tei:seg>: Demokratisches Denken zwischen Hegel und Marx. Die politische Philosophie Arnold Ruges. Eine Studie zur Geschichte der Demokratie in Deutschland. Düsseldorf: Droste, 1995.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Peter </tei:seg>
-<tei:hi style="font-weight-bold">Wild</tei:hi>
-<tei:seg>: Die Selbstkritik der Philosophie in der Epoche von Hegel zu Nietzsche. Frankfurt/M. usw.: Lang, 1994.</tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi><tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> (Kurt Jauslin, Altdorf; Martina Lauster, Exeter)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>© Editionsprojekt Karl Gutzkow, 2007. / Not to be published in any form without the author's
-prior permission. / Layout Judith Näther &amp; Juliane Schaefer.</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
-<tei:seg> Seite angelegt im Januar 2007.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg>
+die tatkräftige Arbeit am Fortschritt des Ganzen dagegen für ein sittliches Gebot im Sinne der teleologischen gesellschaftlichen Entwicklung.</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Gutzkows Stellung zum deutschen Idealismus und seinem Erbe</tei:hi>
+      <tei:p>
+        <tei:seg>Die 'Idee' bei Gutzkow</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Quellen</tei:hi>
+      <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl)</tei:hi>
+      <tei:p>
+        <tei:seg>Olaf </tei:seg>
+        <tei:hi style="font-weight-bold">Briese</tei:hi>
+        <tei:seg>: Konkurrenzen. Philosophische Kultur in Deutschland 1830-1850. Porträts und Profile. Würzburg: Königshausen &amp; Neumann, 1998.</tei:seg>
+        <tei:seg>
+</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Olaf </tei:seg>
+        <tei:hi style="font-weight-bold">Briese</tei:hi>
+        <tei:seg>: Konkurrenzen. Philosophische Kultur in Deutschland 1830-1850. Porträts und Profile. Würzburg: Königshausen &amp; Neumann, 1998.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Lucien </tei:seg>
+        <tei:hi style="font-weight-bold">Calvié</tei:hi>
+        <tei:seg>: Le Renard et les raisins. La Révolution française et les intellectuels allemands 1789-1845. Paris: Études et Documentation Internationales, 1989.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Margot </tei:seg>
+        <tei:hi style="font-weight-bold">Fleischer</tei:hi>
+        <tei:seg> und Jochem </tei:seg>
+        <tei:hi style="font-weight-bold">Henningfeld</tei:hi>
+        <tei:seg> (Hgg.): Philosophen des 19. Jahrhunderts. Eine Einführung. Darmstadt: Wissenschaftliche Buchgesellschaft, 1998.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Stefan </tei:seg>
+        <tei:hi style="font-weight-bold">Greif</tei:hi>
+        <tei:seg>: Idealismus, deutscher. In: Metzler Lexikon Literatur- und Kulturtheorie. Ansätze - Personen - Grundbegriffe. Hg. von Ansgar Nünning. Stuttgart, Weimar: Metzler, 1998. S. 223-225.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Nicolai </tei:seg>
+        <tei:hi style="font-weight-bold">Hartmann</tei:hi>
+        <tei:seg>: Die Philosophie des deutschen Idealismus. Berlin, Leipzig: de Gruyter, 1923. 3. Aufl. 1974.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Lars </tei:seg>
+        <tei:hi style="font-weight-bold">Lambrecht</tei:hi>
+        <tei:seg> (Hg.): Philosophie, Literatur und Politik vor den Revolutionen von 1848. Zur Herausbildung der demokratischen Bewegungen in Europa. Frankfurt/M., Berlin, Bern usw.: Lang, 1996. (Forschungen zum Junghegelianismus. Quellenkunde, Umkreisforschung, Theorie, Wirkungsgeschichte. Hg. von Konrad Feilchenfeldt und Lars Lambrecht).</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Karl </tei:seg>
+        <tei:hi style="font-weight-bold">Löwith</tei:hi>
+        <tei:seg>: Von Hegel zu Nietzsche. In: Sämtliche Schriften. Bd. 4. Stuttgart: Metzler, 1988.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Walter </tei:seg>
+        <tei:hi style="font-weight-bold">Stephan</tei:hi>
+        <tei:seg>: Demokratisches Denken zwischen Hegel und Marx. Die politische Philosophie Arnold Ruges. Eine Studie zur Geschichte der Demokratie in Deutschland. Düsseldorf: Droste, 1995.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Wild</tei:hi>
+        <tei:seg>: Die Selbstkritik der Philosophie in der Epoche von Hegel zu Nietzsche. Frankfurt/M. usw.: Lang, 1994.</tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> (Kurt Jauslin, Altdorf; Martina Lauster, Exeter)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>© Editionsprojekt Karl Gutzkow, 2007. / Not to be published in any form without the author's
+prior permission. / Layout Judith Näther &amp; Juliane Schaefer.</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
+        <tei:seg> Seite angelegt im Januar 2007.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg>
 Geschichte der Seitenänderungen: </tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>14.05.2007 12:55</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg>E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>14.05.2007 12:55</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg>E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>

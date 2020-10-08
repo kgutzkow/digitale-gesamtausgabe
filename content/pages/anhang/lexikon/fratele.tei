@@ -1,99 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>FRANKFURTER 
-        TELEGRAPH. BLÄTTER FÜR LEBEN, KUNST UND WISSENSCHAFT,</tei:title>
-<tei:author>Peter Hasubek </tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2001-09-09">2001-09-09</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #fratele"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-size-large font-weight-bold">FRANKFURTER TELEGRAPH. BLÄTTER FÜR LEBEN, KUNST UND WISSENSCHAFT,</tei:hi>
-<tei:seg> Zeitschrift, die 1837 drei- bzw. viermal wöchentlich erschien (Rasch 5.6). Sie wurde von Wilhelm Speyer (bis Nr. 12, Januar 1837) und Eduard </tei:seg>
-<tei:seg>Beurmann</tei:seg>
-<tei:seg> (ab Nr. 13) als verantwortlichen Redakteuren herausgegeben, doch war Gutzkow, der wegen des Bundestagsbeschlusses gegen das Junge Deutschland nicht namentlich genannt werden durfte, der 'eigentliche' Redakteur. Er finanzierte die Zeitschrift unter erheblichen Geldverlusten zunächst allein; ob er später einen Teilhaber fand, ist ungeklärt. 1838 wurde der in Hamburg erscheinende </tei:seg>
-<tei:seg>"Telegraph für Deutschland"</tei:seg>
-<tei:seg> das Nachfolgeorgan. </tei:seg>
-<tei:seg>→ </tei:seg>
-<tei:seg>Bilder und Quellen: Bilder. Handschriften und Drucke</tei:seg>
-<tei:seg> .</tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>([Peter Hasubek, Göttingen / Gert Vonhoff, Exeter] / N.N.)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Peter Hasubek / Gert Vonhoff.</tei:seg>
-<tei:seg> Seite angelegt am 09.09.2001.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>17.07.2006 17:01</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg> E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Frankfurter Telegraph. Blätter für Leben, Kunst und Wissenschaft</tei:title>
+        <tei:author>Peter Hasubek </tei:author>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2001-09-09">2001-09-09</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #fratele"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">FRANKFURTER TELEGRAPH. BLÄTTER FÜR LEBEN, KUNST UND WISSENSCHAFT,</tei:hi>
+        <tei:seg> Zeitschrift, die 1837 drei- bzw. viermal wöchentlich erschien (Rasch 5.6). Sie wurde von Wilhelm Speyer (bis Nr. 12, Januar 1837) und Eduard </tei:seg>
+        <tei:seg>Beurmann</tei:seg>
+        <tei:seg> (ab Nr. 13) als verantwortlichen Redakteuren herausgegeben, doch war Gutzkow, der wegen des Bundestagsbeschlusses gegen das Junge Deutschland nicht namentlich genannt werden durfte, der 'eigentliche' Redakteur. Er finanzierte die Zeitschrift unter erheblichen Geldverlusten zunächst allein; ob er später einen Teilhaber fand, ist ungeklärt. 1838 wurde der in Hamburg erscheinende </tei:seg>
+        <tei:seg>"Telegraph für Deutschland"</tei:seg>
+        <tei:seg> das Nachfolgeorgan. </tei:seg>
+        <tei:seg>→ </tei:seg>
+        <tei:seg>Bilder und Quellen: Bilder. Handschriften und Drucke</tei:seg>
+        <tei:seg> .</tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>([Peter Hasubek, Göttingen / Gert Vonhoff, Exeter] / N.N.)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Peter Hasubek / Gert Vonhoff.</tei:seg>
+        <tei:seg> Seite angelegt am 09.09.2001.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>17.07.2006 17:01</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg> E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>
