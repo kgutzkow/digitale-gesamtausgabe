@@ -101,10 +101,49 @@
                             "selector": "tei:p"
                         },
                         "attrs": {
-                            "noIndent": {
-                                "default": false,
+                            "marginLeft": {
+                                "default": "0",
                                 "parser": {
-                                    "selector": "contains(@style, \"no-indent\")"
+                                    "selector": "@margin-left"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-left"
+                                }
+                            },
+                            "marginRight": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-right"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-right"
+                                }
+                            },
+                            "marginTop": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-top"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-top"
+                                }
+                            },
+                            "marginBottom": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-bottom"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-bottom"
+                                }
+                            },
+                            "firstLineIndent": {
+                                "default": "0.5",
+                                "parser": {
+                                    "selector": "@first-line-indent"
+                                },
+                                "serialiser": {
+                                    "attr": "first-line-indent"
                                 }
                             },
                             "textAlign": {
@@ -449,10 +488,49 @@
                             "selector": "tei:p"
                         },
                         "attrs": {
-                            "noIndent": {
-                                "default": false,
+                            "marginLeft": {
+                                "default": "0",
                                 "parser": {
-                                    "selector": "contains(@style, \"no-indent\")"
+                                    "selector": "@margin-left"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-left"
+                                }
+                            },
+                            "marginRight": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-right"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-right"
+                                }
+                            },
+                            "marginTop": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-top"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-top"
+                                }
+                            },
+                            "marginBottom": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-bottom"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-bottom"
+                                }
+                            },
+                            "firstLineIndent": {
+                                "default": "0.5",
+                                "parser": {
+                                    "selector": "@first-line-indent"
+                                },
+                                "serialiser": {
+                                    "attr": "first-line-indent"
                                 }
                             },
                             "textAlign": {
