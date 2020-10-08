@@ -69,7 +69,7 @@ class TeiDocumentReader(BaseReader):
         if doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns):
             metadata['bibl'] = str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0])
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()
-        extracts = doc.xpath('//tei:body/*[@data-extract="true"]', namespaces=ns)
+        extracts = doc.xpath('//tei:body/*[@extract="true"]', namespaces=ns)
         if len(extracts) == 0:
             extracts = doc.xpath('//tei:body/tei:p', namespaces=ns)
         if len(extracts) > 0:
