@@ -46,7 +46,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="25"/>
         <tei:seg> Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums.</tei:seg>
       </tei:head>
@@ -87,7 +87,7 @@
         <tei:seg> nicht von der </tei:seg>
         <tei:hi style="letter-sparse">Vervielfältigung der Musik</tei:hi>
         <tei:seg> trennen. Es ist eine und dieselbe Frage und beide Vervielfältigungen sind ganz unabhängig von der Vervielfältigung durch Druck oder Stich. Der Schutz, den man Büchern und Partituren schenkt, ist noch lange nicht erschöpfend genug. Es giebt eine freie Entäußerung seines Eigenthumsrechtes und eine unfreie, eine solche, die man sich durch öffentliche Aufführung und Darstellung gefallen lassen muß. Ist diese letztere eine solche, daß sie dem Aufführenden und Darstellenden Vortheil bringt, so ist der, der ihm den Stoff dafür lieferte, zu einem Antheil des Vortheils berechtigt und es ist widersinnig, daß dieser Antheil dadurch aufhören soll, daß ein Drama im Druck erschienen ist. Soll auch hier ein </tei:seg>
-        <tei:foreign>Terminus ad quem</tei:foreign>
+        <tei:seg>Terminus ad quem</tei:seg>
         <tei:seg> des Eigenthumsrechtes statt finden, so hätte er grade auch in diesem Gesetzentwurfe bei einer consequenten wissenschaftlichen Entwicklung berücksichtigt werden müssen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -113,33 +113,33 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item>
-          <tei:seg>J. K.[arl] Gutzkow: Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums. In: Telegraph für Deutschland. Hamburg. Nr. 7, [11.] Januar 1843, S. 25–27. (Rasch 3.43.01.11.2)</tei:seg>
+          <tei:seg>J. K[arl] Gutzkow: Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums. In: Telegraph für Deutschland. Hamburg. Nr. 7, [11.] Januar 1843, S. 25–27. (Rasch 3.43.01.11.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -148,7 +148,7 @@
       <tei:p style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -158,7 +158,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Vortheis</tei:sic>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p style="text-left">
@@ -186,17 +186,17 @@
         <tei:sic>dreizig</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>5. Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p style="text-left">
         <tei:seg>K.: Gutzkow und der Sächsische Gesetzentwurf über das literarische Recht. In: Allgemeine Preßzeitung. Leipzig. Nr. 8, 25. Februar 1843, Sp. 234-235. (Rasch 9/2.43.02.25)</tei:seg>
       </tei:p>
       <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p style="text-left">

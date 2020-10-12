@@ -46,11 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:pb n="912"/>
-        <tei:seg> [Deduktion des Eigentumsrechts der Schriftsteller.]</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Deduktion des Eigentumsrechts der Schriftsteller.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>* Aus der Feder des Buchhändlers </tei:seg>
         <tei:hi style="letter-sparse">Paul Neff</tei:hi>
         <tei:seg> in Stuttgart ist eine recht bündige und klare Deduktion des Eigenthumsrechtes der Schriftsteller und ihrer Rechtsnachfolger zu Nutz und Frommen der Würtembergischen Staatsmänner erschienen. Die sophistischen Spitzfindigkeiten Griesingers spuken noch immer in den Köpfen dieser Herren, deren Chef, Herr Schlayer, rundweg erklärte, er folge nur der Nothwendigkeit, wenn er den Nachdruck verbiete, nicht seiner Überzeugung! Was wir von Griesinger und dem scheinbaren Rechte des Nachdrucks nach Römischem halten, sehe man in Bulwers Zeitgenossen II. S. 301 und flg. nach, da wir mit der dortigen Entwickelung übereinstimmen.</tei:seg>
@@ -69,7 +70,7 @@
       <tei:head type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
       <tei:head type="level-3">
@@ -86,13 +87,13 @@
       <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
       <tei:head type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
