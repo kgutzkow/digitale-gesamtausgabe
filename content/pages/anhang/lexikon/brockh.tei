@@ -1,209 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-<tei:teiHeader>
-<tei:fileDesc>
-<tei:titleStmt>
-<tei:title>BROCKHAUS</tei:title>
-<tei:author>Martina Lauster</tei:author>
-<tei:respStmt xml:id="MarkMichaelHall">
-<tei:resp>Herausgeber</tei:resp>
-<tei:name>Mark M Hall</tei:name>
-</tei:respStmt>
-</tei:titleStmt>
-<tei:publicationStmt>
-<tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
-</tei:publicationStmt>
-</tei:fileDesc>
-<tei:encodingDesc>
-<tei:classDecl>
-<tei:taxonomy xml:id="gutzkow-taxonomy">
-<tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
-</tei:taxonomy>
-</tei:classDecl>
-</tei:encodingDesc>
-<tei:sourceDesc>
-<tei:bibl></tei:bibl>
-</tei:sourceDesc>
-<tei:profileDesc>
-<tei:creation>
-<tei:date when="2006-07-14">2006-07-14</tei:date>
-</tei:creation>
-<tei:textClass>
-<tei:catRef target="#anhang #lexikon #brockh"/>
-</tei:textClass>
-</tei:profileDesc>
-<tei:revisionDesc>
-<tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
-</tei:revisionDesc>
-</tei:teiHeader>
-<tei:text>
-<tei:body>
-<tei:p>
-<tei:hi style="font-size-large font-weight-bold">BROCKHAUS</tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg>, im 19. Jahrhundert führende Leipziger Verlagsbuchhandlung, bedeutend als Lexikon-, Zeitungs- und Zeitschriftenverlag mit liberaler Tendenz. Brockhaus verlegte u. a. Robert Prutz' "Deutsches Museum" und Gutzkows "Unterhaltungen am häuslichen Herd".</tei:seg></tei:p>
-<tei:seg> </tei:seg><tei:hi style="font-weight-bold"> Allgemeines, zitiert aus Meyer, Bd. 3, S. 441-442: </tei:hi><tei:p>
-<tei:seg> Friedrich Arnold Brockhaus, "der Begründer einer der größten Buchhandlungen Deutschlands, geb. 4. Mai 1772 in Dortmund, gest. 20. Aug. 1823 in Leipzig, errichtete, nachdem er in Düsseldorf seine Lehrzeit als Kaufmann vollendet und sich dann behufs wissenschaftlicher Fortbildung seit 1793 etwa anderthalb Jahre in Leipzig aufgehalten hatte, 1795 in seiner Vaterstadt eine Manufakturwarenhandlung, mit der er 1802 nach Amsterdam übersiedelte. Doch gab er dieselbe infolge der Kontinentalsperre bald auf und errichtete dafür 1805 eine deutsche Buchhandlung, zuerst unter der Firma Rohloff u. Komp., die später in Kunst- und Industrie-Comptoir umgeändert wurde. Das Geschäft gewann sowohl für Verlag als für Sortiment bald an Bedeutung, hatte aber unter den Zeitverhältnissen empfindlich zu leiden. Dies und Familienereignisse veranlaßten B., sein Verlagsgeschäft nach Deutschland zu verlegen, wogegen das Sortimentsgeschäft an Johannes Müller in Amsterdam überging. Nachdem er kurze Zeit in Leipzig verweilt hatte, ließ er sich 1810 in Altenburg nieder, wo er auch 1814 die Firma F. A. Brockhaus annahm. Hier war es vor allem das bereits 1808 von ihm angekaufte Löbelsche Konversations-Lexikon [...], für das er den größten Teil seiner Tätigkeit und seiner Mittel aufwandte, und das er mit der Zeit auf seine spätere Ehrenstelle erhob. Zugleich zog er die politischen Interessen mit in den Kreis seines Wirkens und nahm durch die Deutschen Blätter (Altenb. 1813-16) sowie später durch Okens Isis nicht unbedeutenden Anteil an den Hauptbewegungen der Zeit. Der Umfang und die Wichtigkeit, die sein Geschäft durch diese und andre Unternehmungen in wenigen Jahren gewonnen hatte, bewogen ihn, nach Leipzig zu ziehen, wo er 1818 neben seiner Buchhandlung eine eigne Buchdruckerei errichtete und sein Ansehen und Einfluß von Jahr zu Jahr stiegen. Die freisinnige Richtung seines Verlags zog ihm manche Unannehmlichkeiten zu; so verfügte von 1821 an die preußische Regierung eine Rezensur seines Verlags. B. Hauptunternehmen, z. T. noch vor seiner Übersiedelung nach Leipzig begonnen, waren unter andern: die Zeitgenossen (seit 1816), das Literarische Konversationsblatt (seit 1820), Hermes, oder kritisches Jahrbuch der Literatur (seit 1819), Isis (seit 1817) und andre Zeitschriften, das Taschenbuch Urania (seit 1810) nebst vielen andern großen Verlagswerken. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> Sein ältester Sohn, Friedrich, geb. 23. Sept. 1800 in Dortmund, gest. 24. Aug. 1865 in Dresden, übernahm mit seinem Bruder Heinrich gemeinschaftlich das väterliche Geschäft und leitete namentlich die Druckereien der Anstalt, die durch ihn bedeutend erweitert und verbessert wurden. 1850 trat er aus dem Geschäft aus. Heinrich, geb. 4. Febr. 1804 in Amsterdam, gest. 15. Nov. 1874 in Leipzig, besorgte die buchhändlerische Geschäftsführung der Anstalt. Vermehrt hat er den Verlag an periodischen Erscheinungen mit Raumers Historischem Taschenbuch, Gersdorfs Repertorium der gesamten deutschen Literatur, mit der Allgemeinen Bibliographie für Deutschland, mit dem </tei:seg>
-<tei:seg>Pfennigmagazin</tei:seg>
-<tei:seg> [zunächst verlegt von </tei:seg>
-<tei:seg>J.J. Weber</tei:seg>
-<tei:seg> als Geschäftsführer des Pariser Hauses Bossange und gedruckt bei Brockhaus, später von Brockhaus verlegt, M.L.] sowie (1. Okt. 1837) mit der Leipziger Allgemeinen Zeitung (später Deutschen Allgemeinen Zeitung), mit den Unterhaltungen am häuslichen Herd von Gutzkow, dem Deutschen Museum von Rob. Prutz u. a. m. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> Eine wichtige Erweiterung erhielt das Geschäft durch den 1827 erfolgten Ankauf des Gräfeschen Kommissionsgeschäfts und die Begründung einer Buchhandlung für deutsche und ausländische Literatur (1837) unter der Firma B. u. Avenarius in Paris und Leipzig, die teils 1844 in Paris verkauft, teils 1850 mit der Firma F. A. B. vereinigt ward und seit 1856 die Firma F. A. B. Sortiment und Antiquarium führt. Von Wichtigkeit war ferner der Ankauf der seit 1693 in Leipzig bestehenden Gleditschischen Buchhandlung mit dem Verlag der Allgemeinen Enzyklopädie von Ersch und Gruber. Nach dem Tode von Heinrich B. (1874) ging das Geschäft in den Besitz seiner beiden Söhne Eduard B. (geb. 7. Aug. 1829) und Rudolf B. (geb. 16. Juli 1838, gest. 28. Jan. 1898) über, die der Firma bereits seit 1854, resp. 1863 angehört hatten. 1881 trat der älteste Sohn von Eduard B., Albert, geb. 2. Sept. 1855,1889 der älteste Sohn von Rudolf B., Rudolf B. jun., geb. 4. Juni 1864, als Teilhaber in das Gesamtgeschäft ein, dessen alleinige Besitzer und Leiter sie seit 1. Juli 1895 sind. Das in großartiger Weise alle Zweige der buchhändlerischen Tätigkeit und graphischen Künste vereinigende Geschäft besitzt Zweigniederlassungen in Wien, Berlin, Paris und London. Die 1890 in St. Petersburg begründete Firma B. u. Efron wurde 1898 in eine Aktiengesellschaft umgewandelt. Vgl. Heinr. Ed. Brockhaus, Friedr. Arnold B. Sein Leben und Wirken nach Briefen und andern Aufzeichnungen geschildert (Leipz. 1872-81, 3 Bde.)." </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:hi style="font-weight-bold">Gutzkow und Brockhaus </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Bei Brockhaus erschienene Publikationen Gutzkows </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Briefe </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Biographien und Firmengeschichten </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Quellen </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Nachlass </tei:hi><tei:p>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> (Martina Lauster, Exeter)</tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg>© Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
-<tei:seg> Seite angelegt am 14. 07. 2006.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg>Geschichte der Seitenänderungen: </tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>17.07.2006 16:59</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg>E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi><tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi><tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg> (Martina Lauster, Exeter)</tei:seg></tei:p>
-<tei:p>
-<tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-<tei:seg>© Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
-<tei:seg> Seite angelegt am 14. 07. 2006.</tei:seg>
-<tei:seg> Fassung: 1.0</tei:seg>
-<tei:seg>Geschichte der Seitenänderungen: </tei:seg>
-<tei:seg> Letzte Änderung: </tei:seg>
-<tei:seg> #BeginDate format:Ge1m </tei:seg>
-<tei:seg>17.07.2006 16:59</tei:seg>
-<tei:seg> #EndDate </tei:seg>
-<tei:seg> . </tei:seg>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-<tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-<tei:seg>E-mail: </tei:seg>
-<tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-<tei:seg> oder </tei:seg>
-<tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-<tei:seg>. </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-</tei:p>
-<tei:p>
-<tei:seg> </tei:seg></tei:p>
-</tei:body>
-</tei:text>
-<tei:interpGrp type="global">
-<tei:p style="text-left"/>
-</tei:interpGrp>
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Brockhaus (Verlag)</tei:title>
+        <tei:author>Martina Lauster</tei:author>
+        <tei:respStmt xml:id="MarkMichaelHall">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Mark M Hall</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2006-07-14">2006-07-14</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #brockh"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p>
+        <tei:hi style="font-size-large font-weight-bold">BROCKHAUS</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg>, im 19. Jahrhundert führende Leipziger Verlagsbuchhandlung, bedeutend als Lexikon-, Zeitungs- und Zeitschriftenverlag mit liberaler Tendenz. Brockhaus verlegte u. a. Robert Prutz' "Deutsches Museum" und Gutzkows "Unterhaltungen am häuslichen Herd".</tei:seg>
+      </tei:p>
+      <tei:seg> </tei:seg>
+      <tei:hi style="font-weight-bold"> Allgemeines, zitiert aus Meyer, Bd. 3, S. 441-442: </tei:hi>
+      <tei:p>
+        <tei:seg> Friedrich Arnold Brockhaus, "der Begründer einer der größten Buchhandlungen Deutschlands, geb. 4. Mai 1772 in Dortmund, gest. 20. Aug. 1823 in Leipzig, errichtete, nachdem er in Düsseldorf seine Lehrzeit als Kaufmann vollendet und sich dann behufs wissenschaftlicher Fortbildung seit 1793 etwa anderthalb Jahre in Leipzig aufgehalten hatte, 1795 in seiner Vaterstadt eine Manufakturwarenhandlung, mit der er 1802 nach Amsterdam übersiedelte. Doch gab er dieselbe infolge der Kontinentalsperre bald auf und errichtete dafür 1805 eine deutsche Buchhandlung, zuerst unter der Firma Rohloff u. Komp., die später in Kunst- und Industrie-Comptoir umgeändert wurde. Das Geschäft gewann sowohl für Verlag als für Sortiment bald an Bedeutung, hatte aber unter den Zeitverhältnissen empfindlich zu leiden. Dies und Familienereignisse veranlaßten B., sein Verlagsgeschäft nach Deutschland zu verlegen, wogegen das Sortimentsgeschäft an Johannes Müller in Amsterdam überging. Nachdem er kurze Zeit in Leipzig verweilt hatte, ließ er sich 1810 in Altenburg nieder, wo er auch 1814 die Firma F. A. Brockhaus annahm. Hier war es vor allem das bereits 1808 von ihm angekaufte Löbelsche Konversations-Lexikon [...], für das er den größten Teil seiner Tätigkeit und seiner Mittel aufwandte, und das er mit der Zeit auf seine spätere Ehrenstelle erhob. Zugleich zog er die politischen Interessen mit in den Kreis seines Wirkens und nahm durch die Deutschen Blätter (Altenb. 1813-16) sowie später durch Okens Isis nicht unbedeutenden Anteil an den Hauptbewegungen der Zeit. Der Umfang und die Wichtigkeit, die sein Geschäft durch diese und andre Unternehmungen in wenigen Jahren gewonnen hatte, bewogen ihn, nach Leipzig zu ziehen, wo er 1818 neben seiner Buchhandlung eine eigne Buchdruckerei errichtete und sein Ansehen und Einfluß von Jahr zu Jahr stiegen. Die freisinnige Richtung seines Verlags zog ihm manche Unannehmlichkeiten zu; so verfügte von 1821 an die preußische Regierung eine Rezensur seines Verlags. B. Hauptunternehmen, z. T. noch vor seiner Übersiedelung nach Leipzig begonnen, waren unter andern: die Zeitgenossen (seit 1816), das Literarische Konversationsblatt (seit 1820), Hermes, oder kritisches Jahrbuch der Literatur (seit 1819), Isis (seit 1817) und andre Zeitschriften, das Taschenbuch Urania (seit 1810) nebst vielen andern großen Verlagswerken. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> Sein ältester Sohn, Friedrich, geb. 23. Sept. 1800 in Dortmund, gest. 24. Aug. 1865 in Dresden, übernahm mit seinem Bruder Heinrich gemeinschaftlich das väterliche Geschäft und leitete namentlich die Druckereien der Anstalt, die durch ihn bedeutend erweitert und verbessert wurden. 1850 trat er aus dem Geschäft aus. Heinrich, geb. 4. Febr. 1804 in Amsterdam, gest. 15. Nov. 1874 in Leipzig, besorgte die buchhändlerische Geschäftsführung der Anstalt. Vermehrt hat er den Verlag an periodischen Erscheinungen mit Raumers Historischem Taschenbuch, Gersdorfs Repertorium der gesamten deutschen Literatur, mit der Allgemeinen Bibliographie für Deutschland, mit dem </tei:seg>
+        <tei:seg>Pfennigmagazin</tei:seg>
+        <tei:seg> [zunächst verlegt von </tei:seg>
+        <tei:seg>J.J. Weber</tei:seg>
+        <tei:seg> als Geschäftsführer des Pariser Hauses Bossange und gedruckt bei Brockhaus, später von Brockhaus verlegt, M.L.] sowie (1. Okt. 1837) mit der Leipziger Allgemeinen Zeitung (später Deutschen Allgemeinen Zeitung), mit den Unterhaltungen am häuslichen Herd von Gutzkow, dem Deutschen Museum von Rob. Prutz u. a. m. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> Eine wichtige Erweiterung erhielt das Geschäft durch den 1827 erfolgten Ankauf des Gräfeschen Kommissionsgeschäfts und die Begründung einer Buchhandlung für deutsche und ausländische Literatur (1837) unter der Firma B. u. Avenarius in Paris und Leipzig, die teils 1844 in Paris verkauft, teils 1850 mit der Firma F. A. B. vereinigt ward und seit 1856 die Firma F. A. B. Sortiment und Antiquarium führt. Von Wichtigkeit war ferner der Ankauf der seit 1693 in Leipzig bestehenden Gleditschischen Buchhandlung mit dem Verlag der Allgemeinen Enzyklopädie von Ersch und Gruber. Nach dem Tode von Heinrich B. (1874) ging das Geschäft in den Besitz seiner beiden Söhne Eduard B. (geb. 7. Aug. 1829) und Rudolf B. (geb. 16. Juli 1838, gest. 28. Jan. 1898) über, die der Firma bereits seit 1854, resp. 1863 angehört hatten. 1881 trat der älteste Sohn von Eduard B., Albert, geb. 2. Sept. 1855,1889 der älteste Sohn von Rudolf B., Rudolf B. jun., geb. 4. Juni 1864, als Teilhaber in das Gesamtgeschäft ein, dessen alleinige Besitzer und Leiter sie seit 1. Juli 1895 sind. Das in großartiger Weise alle Zweige der buchhändlerischen Tätigkeit und graphischen Künste vereinigende Geschäft besitzt Zweigniederlassungen in Wien, Berlin, Paris und London. Die 1890 in St. Petersburg begründete Firma B. u. Efron wurde 1898 in eine Aktiengesellschaft umgewandelt. Vgl. Heinr. Ed. Brockhaus, Friedr. Arnold B. Sein Leben und Wirken nach Briefen und andern Aufzeichnungen geschildert (Leipz. 1872-81, 3 Bde.)." </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Gutzkow und Brockhaus </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Bei Brockhaus erschienene Publikationen Gutzkows </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Briefe </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Biographien und Firmengeschichten </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Quellen </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Nachlass </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> (Martina Lauster, Exeter)</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg>© Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
+        <tei:seg> Seite angelegt am 14. 07. 2006.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg>Geschichte der Seitenänderungen: </tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>17.07.2006 16:59</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg>E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:hi style="font-weight-bold">Zitat- und Belegstellen </tei:hi>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> (Martina Lauster, Exeter)</tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
+        <tei:seg>© Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
+        <tei:seg> Seite angelegt am 14. 07. 2006.</tei:seg>
+        <tei:seg> Fassung: 1.0</tei:seg>
+        <tei:seg>Geschichte der Seitenänderungen: </tei:seg>
+        <tei:seg> Letzte Änderung: </tei:seg>
+        <tei:seg> #BeginDate format:Ge1m </tei:seg>
+        <tei:seg>17.07.2006 16:59</tei:seg>
+        <tei:seg> #EndDate </tei:seg>
+        <tei:seg> . </tei:seg>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
+        <tei:seg>E-mail: </tei:seg>
+        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
+        <tei:seg> oder </tei:seg>
+        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p>
+        <tei:seg> </tei:seg>
+      </tei:p>
+    </tei:body>
+  </tei:text>
 </tei:TEI>
