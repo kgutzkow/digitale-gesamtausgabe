@@ -6,8 +6,12 @@
         <tei:title>Beurmann, Eduard</tei:title>
         <tei:author> Martina Lauster</tei:author>
         <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Herausgeberin</tei:resp>
+          <tei:resp>Autorin</tei:resp>
           <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -34,91 +38,115 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2001-09-30" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2020-12-16" who="#WolfgangRasch">1.1: Anpassungen, Text ergaenzt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p style="text-left">
-        <tei:hi style="font-size-large font-weight-bold">EDUARD BEURMANN</tei:hi>
-        <tei:hi style="font-weight-bold"> </tei:hi>
-        <tei:seg>(1804-1883), Jurist, Publizist und freier Schriftsteller. 1837 nominell Herausgeber des "Frankfurter Telegraph", als Gutzkows Name aus Zensurgründen nicht genannt werden durfte. Beurmann betätigte sich als diplomatischer Spitzel', indem er für Metternichs Überwachungsorgane Geheimberichte über Gutzkow lieferte, die diesem nützen sollten. Beurmann war Mitarbeiter Gutzkows nicht nur am "Frankfurter Telegraph", sondern dann auch am "Telegraph für Deutschland".</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Beurmann, Eduard</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>(Ludwig Georg) Eduard Beurmann (1804-1883) war Jurist, Publizist und freier Schriftsteller, von 1836-1848 auch Konfident der Metternich-Polizei.</tei:seg>
       </tei:p>
-      <tei:seg>Allgemeines</tei:seg>
-      <tei:seg> </tei:seg>
-      <tei:seg>Gutzkow und Beurmann</tei:seg>
-      <tei:seg> </tei:seg>
-      <tei:seg>Beiträge Beurmanns zum "Phönix", "Frankfurter Telegraph" und "Telegraph für Deutschland"</tei:seg>
-      <tei:seg>a) Phönix. Frühlings-Zeitung für Deutschland. Hg. v. Eduard Duller.</tei:seg>
-      <tei:p style="text-left">
-        <tei:seg>Literarische Charaktere. 1. Eduard Lytton Bulwer. Phönix, Nr. 149, 26. Juni 1835, S. 595-596; Nr. 151, 29. Juni 1835, S. 603-604.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Allgemeines </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der geborene Bremer studierte von 1823 bis 1826 in Göttingen Jura, arbeitete als Advokat in Bremen und Lübeck und zog 1832 nach Frankfurt/M., lebte auch zeitweilig in Kassel, wo seine Frau Therese Pauline Beurmann, geb. Böttiger, als Schauspielerin tätig war.  In Frankfurt verdiente Beurmann seinen Lebensunterhalt als Journalist und freier Schriftsteller, seit 1836 auch als Spitzel des Metternich-Regimes. Er wurde mit zahlreichen jungdeutschen Autoren bekannt, darunter mit Börne und Heine, die er in Paris besuchte. </tei:seg>
       </tei:p>
-      <tei:seg> </tei:seg>
-      <tei:seg>Selbständig erschienene Publikationen Beurmanns</tei:seg>
-      <tei:p style="text-left">
-        <tei:seg>Frankfurter Bilder. Mainz: F. Kupferberg, 1835.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Beurmann korrespondierte für viele Tageszeitungen, wurde 1839 Redakteur des politisch reaktionären und russlandfreundlichen "Journal de Francfort", 1840 Redakteur der Frankfurter "Ober-Post-Amts-Zeitung". 1863 zog er von Frankfurt nach Berlin, wo er bis zu seinem Tod lebte.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Gutzkow und Beurmann</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>1835 freundete sich Beurmann in Frankfurt/M. mit Gutzkow an, mit dem er in den kommenden Jahren eng zusammenarbeitete. 1836 wurde er als Agent der geheimen Metternich-Polizei (Mainzer Central-Polizei) angeworben, beschattete in dieser Funktion Gutzkow jahrelang und schrieb zahlreiche Konfidentenberichte über ihn. Gutzkow scheint von alledem nichts geahnt zu haben. Beurmann wurde 1837 nominell Herausgeber des "Frankfurter Telegraph" (erschien kurzzeitig auch unter dem Titel "Beurmann's Telegraph"), da Gutzkows Name aus Zensurgründen nicht genannt werden durfte. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Beziehung zu Beurmann blieb über das Jahr 1850 hinaus freundlich, auch wenn es nur noch zu gelegentlichen Briefkontakten kam. Beurmann steuerte einige Beiträge zu Gutzkows "Unterhaltungen am häuslichen Herd" bei und verfasste einige wenige Rezensionen von Werken Gutzkows. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Werke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Frankfurter Bilder. Mainz: Kupferberg, 1835.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Skizzen aus den Hanse-Städten. Hanau: Friedrich König, 1836.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Ludwig Börne als Charakter und in der Literatur. Frankfurt/M.: Carl Körner, 1837.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>[Anon.:] Vertraute Briefe über Preußens Hauptstadt. _▄Verlagsort, Verlag¯▀, 1837.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Brüssel und Paris. Bd. 1-2. Leipzig: Theodor Fischer, 1837.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Deutschland und die Deutschen. 4 Bde, Altona: Friedrich Hammerich, 1838-39.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>[Anon.:] Vertraute Briefe über Preußens Hauptstadt. Theil 1-2. Stuttgart &amp; Leipzig: Rieger, 1837.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Über Afghanistan. Darmstadt: Carl Wilhelm Leske, 1844.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Deutschland und die Deutschen. Bd. 1-4. Altona: Hammerich, 1838-39.</tei:seg>
       </tei:p>
-      <tei:seg> </tei:seg>
-      <tei:seg>Forschungsliteratur</tei:seg>
-      <tei:seg> </tei:seg>
-      <tei:seg>Zitat- und Belegstellen</tei:seg>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
+        <tei:seg>Die drei Septembertage der Georgia Augusta im Jahre 1837. Frankfurt/M.: Carl Körner, 1837.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Mittheilungen aus dem Leben eines Advocaten. Hrsg. von Eduard Beurmann. Bd. 1-2. Frankfurt/M.: Küchler, 1838.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Ueber Afghanistan. Darmstadt: Leske, 1844.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>(Martina Lauster, Exeter)</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Zeitschriftenbeiträge Beurmanns</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Literarische Charaktere. 1. Eduard Lytton Bulwer. Phönix, Nr. 149, 26. Juni 1835, S. 595-596; Nr. 151, 29. Juni 1835, S. 603-604.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Nachlass</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
+        <tei:seg>"Der reiche literarische Nachlaß Beurmanns ist auf seinen Wunsch größtenteils vernichtet worden, nur sehr weniges hat sich erhalten." (Geiger 1907, S. 218.)</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Autor der Seite: .</tei:seg>
-        <tei:seg> Seite angelegt am 30.09.2001.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>30.03.2006 16:00</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Quellen</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Ernst Rowe: Stehely &amp; Comp. In: Preußische Jahrbücher. Berlin. Bd. 117, Heft 1, Juli 1904, S. 83-106. (Enthält auf S. 98-106 eine Biographie Beurmanns.)</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Karl Glossy: Literarische Geheimberichte aus dem Vormärz. Einleitung. In: Jahrbuch der Grillparzer-Gesellschaft. Hg. von Karl Glossy. 21. Jg. Wien: Konegen, 1912. S. I-CXI (über Beurmann vornehmlich S. CXXXV-CXXXVII). </tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left">
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Forschungsliteratur</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
+        <tei:seg>Ludwig Geiger: Konfidentenberichte. (Beurmann und Pfeilschifter.) In: Ders.: Das junge Deutschland. Studien und Mitteilungen. Berlin: Schottlaender, 1907. S. 211-246. (Enthält auch S. 243/44 einen Brief Gutzkows an Beurmann vom 29. Mai 1861.)</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left">
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
+        <tei:seg>H[einrich] H[ubert] Houben: Beurmann, Eduard ... In: Ders.: Verbotene Literatur von der klassischen Zeit bis zur Gegenwart. Ein krit.-histor. Lexikon über verbotene Bücher, Zeitschriften u. Theaterstücke, Schriftsteller u. Verleger. Bd. 2. Bremen: Schünemann, 1928. S. 26-34.</tei:seg>
       </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Inge Rippmann: Beurmann, Ludwig Georg Eduard ... In: Inge Rippmann: Börne-Index. Histor.-biogr. Materialien zu Ludwig Börne Schriften u. Briefen. Ein Beitr. zur Geschichte u. Literatur des Vormärz. Berlin: de Gruyter, 985. Bd. 1, S. 53-54.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>(Martina Lauster, Exeter; Wolfgang Rasch, Berlin)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
