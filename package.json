@@ -5,19 +5,19 @@
   "author": "Mark Hall",
   "license": "CC-BY-SA",
   "dependencies": {
-    "femtotween": "^1.1.0",
-    "foundation-sites": "^6.6.1",
+    "femtotween": "^1.1.2",
+    "foundation-sites": "^6.6.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.0.1",
-    "jquery": "^3.4.1",
+    "gulp-sass": "^4.1.0",
+    "jquery": "^3.5.1",
     "pump": "^3.0.0",
     "tei-reader": "^0.7.0",
-    "what-input": "^5.2.7"
+    "what-input": "^5.2.10"
   },
   "devDependencies": {
-    "http-server": "^0.12.1"
+    "http-server": "^0.12.3"
   },
   "browserslist": [
     "defaults"
