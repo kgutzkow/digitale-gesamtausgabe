@@ -75,6 +75,10 @@
                     padding: $global-padding/2 $global-padding $global-padding/4 $global-padding;
                 }
             }
+
+            .tei-reader > main.text-reader > article > aside > a {
+                display: block;
+            }
         }
 
         &.mode-large {
@@ -113,6 +117,10 @@
                         font-weight: bold;
                     }
                 }
+            }
+
+            .tei-reader > main.text-reader > article > aside > a {
+                display: block;
             }
         }
 
