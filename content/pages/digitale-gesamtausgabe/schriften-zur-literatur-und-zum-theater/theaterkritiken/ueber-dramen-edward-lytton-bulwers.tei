@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -23,7 +22,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Kleine Chronik. Telegraph für Deutschland. Hamburg. Nr. 190, [28.] November 1838, S. 1518-1520. (Rasch 3.38.11.28).</tei:bibl>
+      <tei:bibl>[Anon.:] Kleine Chronik. Telegraph für Deutschland. Hamburg. Nr. 190, [28.] November 1838, S. 1518-1520. (Rasch 3.38.11.28)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -35,16 +34,768 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2007-08" who="#MartinaLauster">1.0</tei:change>
-      <tei:change when="2007-09" who="#MartinaLauster">1.0</tei:change>
-      <tei:change when="2007-09" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2009-02" who="#MartinaLauster">1.1</tei:change>
+      <tei:change when="2021-01-12" who="#MartinaLauster">1.2</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-style-italic">[Über Dramen Edward Lytton Bulwers]</tei:hi>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:hi style="font-style-italic">[1.]</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>* </tei:seg>
+        <tei:ref type="esv" target="#">Bulwers </tei:ref>
+        <tei:ref type="esv" target="#annotation-1">
+          <tei:hi style="letter-sparse">Lyoneserin</tei:hi>
+        </tei:ref>
+        <tei:seg> ist ein gutes Bühnenstück mit einigen Albernheiten, zu denen besonders die </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">Französischen Brocken</tei:ref>
+        <tei:seg> des Dialogs in einem Stücke gehören, das in Frankreich spielt. Es ist fast so, als wenn </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">Seydelmann</tei:ref>
+        <tei:seg> den </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">Ossip</tei:ref>
+        <tei:seg>, </tei:seg>
+        <tei:pb n="1519"/>
+        <tei:seg> einen Russen, in Rußland gebrochen Deutsch sprechen läßt. </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">Die Vorstellung auf hiesigem Stadttheater</tei:ref>
+        <tei:seg> spielt gut ineinander, obgleich die beiden Hauptpersonen, </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">Pauline und Melnotte</tei:ref>
+        <tei:seg> viel zu wünschen übrig lassen. Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Baumeister</tei:ref>
+        <tei:seg> giebt seinen Helden mit vieler Liebe und einem ihm immer schön stehenden Eifer wieder, aber feines, durchdachtes Spiel, geistreiche Nüancirung ist seine Sache nicht. Er versah es in sehr wichtigen Momenten gänzlich mit den Modulationen seiner Stimme; wo gleich im ersten Akte </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">der Brief zurückkommt</tei:ref>
+        <tei:seg>, mußte er am allerwenigsten den tragischen pathetischen Ton: O Du Schändliche! u. s. w. anwenden, um so weniger, als der Bote ihm sagt: Du bist traurig? Herr Baumeister war aber nicht traurig, sondern wüthend. Überhaupt </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">
+          <tei:hi style="letter-sparse">hinkoisirte</tei:hi>
+        </tei:ref>
+        <tei:seg> Herr Baumeister ein wenig. Die Stellen, wo er an die militairische Carrière dachte, mußten immer mit Sinnen und Grübeln vorgetragen werden; wenn </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Damas</tei:ref>
+        <tei:seg> davon sprach, mußte Melnotte wie aus Träumen auffahren und gleichsam an ein Geheimniß, das er im Stillen bei sich trug, erinnert werden. Die spätern Stellen gelangen besser, da in ihnen der Affekt vorwaltete. </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">Dem. Enghaus</tei:ref>
+        <tei:seg> giebt die Lyoneserin nicht vornehm und stolz genug; sie schwimmt gar zu leicht mit ihrem Gefühl davon, das weit seltner hervorzubrechen hat. Im Original bei Bulwer ist der Contrast beider Empfindungen auch schroffer gehalten; wir glauben fast, daß im 3ten Akte, sehr mit Unrecht, Manches </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">vom Bearbeiter gemildert</tei:ref>
+        <tei:seg> worden ist. Den Moment, wo Pauline klar sieht und sie sagt: </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">Das also ist das Schloß am Comersee?</tei:ref>
+        <tei:seg> u. s. w. wußte Dem. Enghaus nicht auszubeuten. Sie fand hier den Ton nicht, der die Verzweiflung und die Entrüstung ausdrückte; er lag grade eine </tei:seg>
+        <tei:hi style="letter-sparse">Octave</tei:hi>
+        <tei:seg> höher, als der, den Dem. Enghaus anschlug. Die Stimme mußte das höchste Register anziehen, das Tragödienregister des 5ten Aktes, die Scala der schreienden Verzweiflung; was sie gab, war matt und leblos. Die spätern empfindenden und thränennassen Stellen gelangen besser, ob wir gleich die junge Dame fragen möchten, ob sie denn keinen Freund auf der weiten Welt Gottes hat, keinen ergebenen Diener ihres Talentes, keinen, der es ehrlich mit ihr meint und ihr es beibringt, statt </tei:seg>
+        <tei:pb n="1520"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">Lieba</tei:hi>
+        <tei:seg> zu sagen: </tei:seg>
+        <tei:hi style="letter-sparse">Liebe</tei:hi>
+        <tei:seg>, statt </tei:seg>
+        <tei:hi style="letter-sparse">Reua</tei:hi>
+        <tei:seg>, </tei:seg>
+        <tei:hi style="letter-sparse">Reue</tei:hi>
+        <tei:seg> u. s. w. So kneifen Sie doch, junge Dame, den Mund ein, wenn Sie ein E zu sprechen haben und legen Sie sich förmlich ein Gebiß an, bis Sie es können. </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">Hat Demosthenes nicht Steine in den Mund genommen, um das R</tei:ref>
+        <tei:seg> und </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">
+          <tei:hi style="letter-sparse">Jerrmann</tei:hi>
+        </tei:ref>
+        <tei:seg> nicht Kalbsknöchel, um Französisch sprechen zu lernen? Der Ruf, eine erste tragische Liebhaberin zu seyn, muß durch Mühe und Fleiß errungen werden, wenn das Genie fehlt. Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Fehringer</tei:ref>
+        <tei:seg> hatte wieder seinen ungrammatikalischen Tag. Er sagte: ihm kämen die Thränen in </tei:seg>
+        <tei:hi style="letter-sparse">den</tei:hi>
+        <tei:seg> Augen. Uns kamen sie darüber in </tei:seg>
+        <tei:hi style="letter-sparse">die</tei:hi>
+        <tei:seg> Augen. </tei:seg>
       </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:hi style="font-style-italic">[2.]</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>* Wenn eine spannend angelegte Handlung, überraschende Aktschlüsse, klar gezeichnete Charaktere und ein geläufiger Dialog die Erfordernisse eines guten Theaterstückes sind, so verdient </tei:seg>
+        <tei:ref type="esv" target="#">
+          <tei:hi style="letter-sparse">Eugen Aram</tei:hi>
+        </tei:ref>
+        <tei:ref type="esv" target="#annotation-18"> von Rellstab</tei:ref>
+        <tei:seg> (</tei:seg>
+        <tei:ref type="esv" target="#annotation-19">gegenwärtig auf dem Hamburger Repertoir</tei:ref>
+        <tei:seg>) eine freundliche Erwähnung. </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Die innere psychologische Motivirung des Stoffes mag Bulwer verantworten</tei:ref>
+        <tei:seg>, dem Rellstab zum größten Theil das Material entnommen hat. Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">
+          <tei:hi style="letter-sparse">Baison</tei:hi>
+        </tei:ref>
+        <tei:seg> giebt die Titelrolle </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">mit denkendem Ernst und mit einem glücklichen Anflug von Melancholie</tei:ref>
+        <tei:seg>, ganz geschaffen, die Zuhörer in einer wehmüthig gespannten Theilnahme zu erhalten. Von den übrigen Rollen ist keine eigentlich brillant, d. h. dem Talente der Darsteller einen weiten Spielraum lassend; doch ist jede in den geeignetsten Händen und wird mit rühmlicher Sorgfalt ausgeführt. </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:hi style="font-style-italic">[3.]</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>- Man hat Herrn </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">
+          <tei:hi style="letter-sparse">Jost</tei:hi>
+        </tei:ref>
+        <tei:seg> als </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">
+          <tei:hi style="letter-sparse">Brandom</tei:hi>
+        </tei:ref>
+        <tei:seg> in Rellstabs Eugen Aram tadeln wollen und doch steht uns grade dieser Charakter in den markantesten Zügen unauslöschlich vor den Augen! Was uns an dieser Zeichnung verfehlt scheinen möchte, kommt wohl eher auf Herrn Rellstabs, als Herrn Josts Rechnung. Was sich nur irgend aus dem Bilde schaffen ließ, hat Jost meisterhaft getroffen. </tei:seg>
+        <tei:ref type="esv" target="#annotation-25">Brandom, sittenlos, nicht ganz schlecht, aber auch nicht gut</tei:ref>
+        <tei:seg>, mit jenen weichen Regungen versehen, die auch das Thier mit dem Menschen gemein hat, die Liebe zu seinen Jungen, Brandom, ein Mensch, nicht niedrig genug, um nicht einmal einen Ansatz zu Arams Freundschaft gehabt zu haben und doch wieder im Gemeinen stecken geblieben, Brandom, ein Verbrecher, der sein Gewissen in Grog und sinnlichen Genüssen erstickt, wie Aram in Büchern und edlen Sentiments, Brandom in der Abhängigkeit vom Genie, selbst mit der Wahrheit in den Händen zitternd vor der Übermacht eines imponirenden Blickes aus Eugens Auge und zuletzt im visionären Wahnsinn zusammenknickend - so zeichnete ihn Jost, so führte er ihn durch. - Besonders gut war Jost im dritten Akt in der </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">Scene mit dem Schenkmädchen</tei:ref>
+        <tei:seg>. Die Art, wie er sich von Dem. </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Spahn</tei:ref>
+        <tei:seg> im Haar krauen ließ, wie er die Wollust, von ihr </tei:seg>
+        <tei:hi style="letter-sparse">geschlagen</tei:hi>
+        <tei:seg> zu werden, malte, verräth das tiefste Studium der menschlichen Seele auf allen ihren Stufen. Auch der Accord mit Aram und besonders </tei:seg>
+        <tei:ref type="esv" target="#annotation-28">die Gerichtsscene mit dem erschütternden: „Jesus Christus“</tei:ref>
+        <tei:seg> waren treffliche Leistungen. - Als </tei:seg>
+        <tei:ref type="esv" target="#annotation-29">Schauspieldirektor Bock in Richard Wanderer</tei:ref>
+        <tei:seg> sahen wir leider Herrn Jost nur in der ersten Scene. Wir hätten gewünscht, beim Kartenspiel ihn mehr dem Gespräche Wanderers mit dem Wirth lauschen zu sehen; denn wie kann er dabei so gleichgültig seyn, wenn er in der Nähe einen berühmten Acteur hat, von dessen Gastspiel er sich für seine Scheune gute Einnahme verspricht? Als </tei:seg>
+        <tei:ref type="esv" target="#annotation-30">
+          <tei:hi style="letter-sparse">Bonoil</tei:hi>
+        </tei:ref>
+        <tei:seg> machte uns Jost herzlich lachen. - </tei:seg>
+        <tei:ref type="esv" target="#annotation-31">
+          <tei:hi style="letter-sparse">Eugen Aram</tei:hi>
+        </tei:ref>
+        <tei:seg> selbst ist bekanntlich eine der besten Leistungen unsers </tei:seg>
+        <tei:ref type="esv" target="#annotation-32">
+          <tei:hi style="letter-sparse">Baison</tei:hi>
+        </tei:ref>
+        <tei:seg> und in diesen Blättern schon mehrfach besprochen. Im </tei:seg>
+        <tei:ref type="esv" target="#annotation-33">
+          <tei:hi style="letter-sparse">Räuberhauptmann</tei:hi>
+        </tei:ref>
+        <tei:seg> nahm Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-34">Burmeister</tei:ref>
+        <tei:seg> seine Rolle edelmüthig sentimental; </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">
+          <tei:foreign>quod non</tei:foreign>
+        </tei:ref>
+        <tei:seg> - Im </tei:seg>
+        <tei:ref type="esv" target="#annotation-35">
+          <tei:hi style="letter-sparse">Wanderer</tei:hi>
+        </tei:ref>
+        <tei:seg> ist Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-36">
+          <tei:hi style="letter-sparse">Brüning</tei:hi>
+        </tei:ref>
+        <tei:seg> so in seiner Sphäre, daß er zweimal gerufen wurde. Er spielte diesen Deklamationsnarren mit dem liebenswürdigsten Humor. - </tei:seg>
+        <tei:ref type="esv" target="#annotation-37">
+          <tei:hi style="letter-sparse">Therese Elsler</tei:hi>
+        </tei:ref>
+        <tei:seg> tanzte eine Scene aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-38">Sylphide</tei:ref>
+        <tei:seg> mit dem ganzen Aufwand von Kunstfertigkeit, der ihr eigen ist. Dem. </tei:seg>
+        <tei:ref type="esv" target="#annotation-39">
+          <tei:hi style="letter-sparse">Dobritz</tei:hi>
+        </tei:ref>
+        <tei:seg> unterstützte sie. Warum denn immer so mürrisch und apathisch? Eine Tänzerin muß uns hold anlächeln, wenn auch nicht so </tei:seg>
+        <tei:hi style="letter-sparse">übertrieben</tei:hi>
+        <tei:seg> freundlich, wie Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-40">Benoni</tei:ref>
+        <tei:seg>, der in seinen Mienen gar zu viel Süssigkeit verschwendet. </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2"/>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:seg>Bulwers </tei:seg>
+            <tei:hi style="letter-sparse">Lyoneserin</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Edward Lytton Bulwers Lustspiel „The Lady of Lyons; or, Love and Pride“ wurde am 15. Februar 1838 anonym am Theatre Royal Covent Garden uraufgeführt. Die deutsche Übersetzung  trug den Aufführungstitel „Die schöne Lyoneserin, oder: Hoffart und Liebe“, erschien aber als:  Die Lyoneserin, oder Hoffart und Liebe. Ein Lustspiel in fünf Abtheilungen. Aus dem Englischen von Georg Nikolaus Bärmann. Zwickau: Schumann, 1838. Dieser Band bildete den 53. Teil der Zwickauer Edition (einer von dreien) des in Deutschland höchst erfolgreichen Bulwer. Vgl. Gerhard Lindenstruth: Edward Bulwer Lytton. Eine Bibliographie der veröffentlichungen im deutschen Sprachraum. Giessen: Lindenstruth, 2001. S. 67.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Französischen Brocken]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In Bulwers Stück kommen gelegentlich französische Ausdrücke wie „tournure“, „je ne sais quois“, „Mille diables!“ vor; Bärmann aber überlädt seine deutsche Übersetzung mit solchen eingestreuten </tei:seg>
+          <tei:q>Brocken</tei:q>
+          <tei:seg>, die dem Originaltext nicht entsprechen: Zum Beispiel wird aus „Dear mother“ „</tei:seg>
+          <tei:foreign>Chère maman</tei:foreign>
+          <tei:seg>“, aus „No, child“ „</tei:seg>
+          <tei:foreign>Du tout, mon enfant</tei:foreign>
+          <tei:seg>“.  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Seydelmann]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Karl Seydelmann (1793-1843; → Bilder) war einer der großen deutschen Schauspieler des 19. Jahrhunderts und zählte zu Gutzkows Freundeskreis. Gutzkow begegnete ihm erstmals 1831 in Stuttgart und stand ab September 1834 mit ihm in intensivem Kontakt. Im „Literatur-Blatt“ des „Phönix“ publizierte Gutzkow am 18. Februar 1835 die </tei:seg>
+          <tei:q>Phantasien über Seydelmann</tei:q>
+          <tei:seg>, und er widmete dem Schauspieler im „Telegraph“ 1843 den langen Nachruf </tei:seg>
+          <tei:q>Erinnerungen an Seydelmann</tei:q>
+          <tei:seg>, der 1844 in die Sammlung </tei:seg>
+          <tei:q>Aus der Zeit und dem Leben</tei:q>
+          <tei:seg> und 1875 in die </tei:seg>
+          <tei:q>Öffentlichen Charaktere</tei:q>
+          <tei:seg> (Fassung letzter Hand) aufgenommen wurde. </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ossip]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Figur in der in Russland spielenden Tragödie „Die Leibeigenen oder Isidor und Olga“ (1826) von Ernst Raupach (1784-1852). Der Dramatiker hatte die Rolle des Ossip, eines Vorlesers beim Fürsten, in französischem Gewand vorgesehen, aber der Schauspieler Ludwig Devrient (1784-1832) spielte sie in russischer Nationaltracht. Seydelmann machte sie noch naturalistischer, indem er  „den Ossip [...] als gemeinen Bartrussen [gab], mit jenem Wiegen des Oberkörpers, dem Schnippen mit den Fingern und Drehen auf dem Absatz, dem häufigen Sichniederwerfen und dem Küssen der Schuhe der Vornehmen, wie er dies alles an gemeinen Kosaken gesehen“ (Eduard Devrient: Dramatische und dramaturgische Schriften. Bd. 9: Geschichte der deutschen Schauspielkunst. Bd. 5. Leipzig: J. J. Weber, 1874. S. 202).</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,6-7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Vorstellung auf hiesigem Stadttheater]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Im Hamburger Stadttheater war Bulwers Stück am 24. Juli 1838 angelaufen. Gutzkow besuchte vielleicht die Aufführung am 11. November 1838 und schrieb seine Notiz für den „Telegraphen“ daraufhin.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pauline und Melnotte]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Bulwers Stück spielt während der republikanischen Phase der Französischen Revolution. Pauline, einzige Tochter eines reichen Seidenfabrikanten, wird als „Schönheit“ von Lyon von Verehrern umschwärmt. Ihre aufstiegsbesessene Mutter will sie nur an einen Adligen verheiraten, aber da der französische Adel abgeschafft worden ist, kommt nur ein ausländischer Kandidat in Frage. Der „Bürger Beauseant“, der ‚eigentlich‛ Marquis ist und um Paulines Hand wirbt, hat daher genau so wenig Glück wie der Gärtnersohn Claude Melnotte, der sich eine umfassende Bildung angeeignet hat und Pauline leidenschaftlich liebt. Als Pauline einen Brief mit Versen Melnottes auf verletzende Weise zurückschickt, lässt sich Melnotte von dem rachesüchtigen Beauseant auf eine Intrige verschwören. Der Gärtnersohn tritt als „Prinz von Como“ auf, gewinnt die Hand Paulines, entpuppt sich nach der Heirat als Melnotte und setzt sie und ihre Familie somit der Deklassierung aus. Pauline verliebt sich aber in Melnotte, zieht schließlich die Ehe mit ihm einer Konvenienzheirat vor, und als Melnotte sich auf dem italienischen Feldzug der Grande Armée auch noch militärische Ehre erwirbt, ist die Verbindung der beiden im Zeichen republikanischer Werte besiegelt. Bulwer beschreibt Melnotte in seinem Vorwort als „Typus jener ruhelosen, glänzenden und schnell verschwundenen Generation, die aus der Asche der schrecklichen großen französischen Revolution hervorging - einer Generation von Männern, die dazu geboren waren, die Agenten des Genies eines Napoleons zu sein“ (Die Lyoneserin, S. VI-VII).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Baumeister]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Wilhelm Baumeister (1810-1875), Angehöriger einer bekannten Schauspielerfamilie des 19. Jahrhunderts, war 1837-38 am Hamburger Stadttheater engagiert. Gutzkow war ihm sicher schon in Frankfurt/M. begegnet, der Stätte seines vorigen Engagements. „Seine Hauptstärke lag im Lustspiel und im Konversationsstück weit mehr als in der Tagödie.“ (Eisenberg, S. 63).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,13-14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">der Brief zurückkommt] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Erl. zu 1,8.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">hinkoisirte</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Anspielung auf die Titelrolle in Charlotte Birch-Pfeiffers Erfolgsstück „Hinko, der Freiknecht“, das die Dramatikerin 1833 nach der Vorlage eines Romans von Ludwig Storch konzipiert hatte: „Der Freiknecht. Historischer Roman aus der zweiten Hälfte des vierzehnten Jahrhunderts“, erschienen 1830 in drei Bänden bei Hartmann in Leipzig.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Damas]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Verwandter der Familie Paulines (→ Erl. zu 1,8), der in der republikanischen Armee innerhalb kurzer Zeit von den niederen Rängen zum Oberst (Colonel) aufgestiegen ist. Er verkörpert damit die egalitäre ‚Ehre durch Verdienst‛, die sich auch Melnotte erwirbt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,23-24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Dem. Enghaus]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Schauspielerin Christine Enghaus, eigentlich Engehausen (1817-1910), kam über mehrere norddeutsche Theater Mitte der 1830er Jahre ans Hamburger Stadttheater. „Im Anfang gefiel sie namentlich in Rollen, die durch den Ausdruck von Innigkeit und Gefühl wirken sollen, doch dauerte es nicht lange und es erwies sich ihre Begabung für das tragische Fach, in welchem ihr [...] gewaltige weibliche Charaktere am besten gelangen.“ (Eisenberg, S. 405) Am Hamburger Stadttheater sah sie zum ersten Mal der spätere Ehemann Friedrich Hebbel, zu der Zeit Mitarbeiter an Gutzkows „Telegraph für Deutschland“. Ab 1840 war Enghaus, nach ihrer Heirat 1846 unter dem Namen Hebbel auftretend, am Wiener Burgtheater engagiert, wo sie in Tragödien, besonders als Hebbels Judith, großen Erfolg hatte. - Das Kürzel </tei:seg>
+          <tei:q>Dem.</tei:q>
+          <tei:seg> steht für ‚Demoiselle‛: „In Deutschland wurde bis ins zweite Viertel des 19. Jahrh. jede unverheiratete Dame des bessern Bürgerstandes Demoiselle oder Mademoiselle [...] genannt im Gegensatze zu dem adligen ‚Fräulein‛.“ (Meyer, Bd. 4, S. 442).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,28-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">vom Bearbeiter gemildert]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Bärmanns Übersetzung war in der Tat eine Bearbeitung von Bulwers Stück.  </tei:seg>
+          <tei:metamark function="missing">Dritter Akt: zu ermitteln.</tei:metamark>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Das also ist das Schloß am Comersee?]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Im dritten Akt wird Pauline in das Häuschen Melnottes, des angeblichen Prinzen von Como, geführt und erlebt dort ihre Desillusionierung (→ Erl. zu 1,8). Die Regieanweisung Bulwers lautet: „laughing wildly“, vom Bearbeiter / Übersetzer getreu wiedergegeben als „wild lachend“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Hat Demosthenes [...] um das R]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„Demosthenes, der größte Redner des Alterthums [...]. Ohne alle Anlagen zur Beredsamkeit, durch eine kreischende, stammelnde Stimme verunstaltet, mußte dennoch seiner eisernen Geduld, seinen unsäglichen Anstrengungen der Sieg über die Natur gelingen. Er nahm Kiesel in den Mund, sprach Verse auf den steilsten Wegen und übertönte das Geräusch der Meereswogen.“ (DCL, Bd. 3, S. 109).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Jerrmann</tei:hi>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Schauspieler Eduard Jerrmann (1798-1859) war berühmt für seine Doppeldarstellung des Franz und Karl Moor in einundderselben Aufführung von Schillers „Räubern“. In Berlin geboren, machte er sich ab 1819 an den Bühnen von Würzburg, München, Leipzig und Augsburg sowie auf Gastspielen einen Namen und verwendete 1830 seinen Ehrgeiz darauf, in Paris „am Théâtre français in französischer Sprache den Wettkampf mit den dortigen Koryphäen aufzunehmen. Er studirte die französische Sprache mit großem Fleiß und brachte es wirklich dahin, daß er im J[ahre] 1832 unter allgemeinem Beifall und mit voller Anerkennung der französischen Presse zwölf Gastrollen am Théâtre français absolviren konnte. Nachdem dieses Experiment glücklich abgelaufen war, kehrte er im J[ahre] 1833 nach Deutschland zurück und spielte nun zunächst in München in einzelnen Scenen Corneille’scher Dramen, die ihm zu Liebe französisch gegeben wurden.“ Außerdem „betheiligte [er] sich lebhaft mit Wort und Schrift an den Bestrebungen zur Reform des deutschen Theaters“ (ADB, Bd. 51, S. 745-746). Eine publizistische Fehde, in die Jerrmann während eines Kölner Aufenthalts involviert war, gab wiederum Gutzkow 1838 Anlass, über Missstände im Buchhandel zu räsonieren (→ Ueber Preisherabsetzungen im Buchhandel, 6.1. Globalkommentar). Nachdem Jerrmann 1845-46 an der Wiener Hofburg engagiert war und Gutzkow 1847 vergeblich um ein Engagement am Dresdener Hoftheater ersucht hatte, erschien er dort 1849 in Gastrollen und bekam schließlich ein Engagement am Berliner Hoftheater.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Fehringer]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>August Fehringer (?-1859) spielte die Rolle des Obersten Damas (→ Erl. zu 1,20).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Eugen Aram</tei:hi>
+            <tei:seg> von Rellstab]</tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„Eugene Aram“ (1832) war ein Verbrecherroman von Edward Lytton Bulwer, den der Autor selbst in eine fragmentarische dramatische Fassung gebracht hatte. Diese erschien 1833 im „New Monthly Magazine“ und 1834 als Teil der „Complete Works of E. L. Bulwer“ bei Fleischer in Leipzig. Der Stoff basiert auf einer historischen Vorlage: „Eugene Aram, born c. September 1704, Ramsgill, Yorkshire, Eng[land], died Aug. 6, 1759, York, Yorkshire, noted English scholar and murderer, whose notoriety was romanticized in a ballad by Thomas Hood [The Dream of Eugene Aram] and in the novel 'Eugene Aram' (1832), by Bulwer-Lytton.“ (Encyclopaedia Britannica, https://www.britannica.com/biography/Eugene-Aram-English-scholar; Zugang 10. Januar 2021) Der ‚faustische‛ Charakter des gelehrten Verbrechers war wohl ein Grund der besonderen Popularität dieses Romans in Deutschland (→ Lexikon: Bulwer und Deutschland), so dass eine deutsche Bearbeitung für die Bühne sich anbot, zumal ein Autor zu jener Zeit noch nicht durch internationales Copyright geschützt war. - Ludwig Rellstab (1799-1860) war Musik- und Theaterkritiker, Verfasser von Dramen, Romanen, Reiseskizzen, biographischen Werken sowie Übersetzer und Bearbeiter von Dramen und Opern; ab 1826 Redakteur der Vossischen Zeitung, 1830-41 Herausgeber der musikalischen Zeitschrift „Iris im Gebiete der Tonkunst“. Seine „Gesammelten Schriften“ erschienen 1843-60 in 30 Bänden (vgl. ADB, Bd. 28, S. 781-782).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,24-25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">gegenwärtig auf dem Hamburger Repertoir]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Spielzeit des Stückes lief am 27. August 1839 an (Ludwig Wollrabe’s Chronologie sämmtlicher Hamburger Bühnen [...]. Hamburg: Berendsohn, 1847, S. 226).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,25-26</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Die innere psychologische Motivirung des Stoffes mag Bulwer verantworten]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Lexikon: Bulwer und Deutschland.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Baison</tei:hi>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Jean Baptist Baison (1812-1849), aus französischer Einwandererfamilie, erkämpfte sich eine Schauspielerlaufbahn und erlebte am Stadttheater Hamburg, an das er 1835 von den Direktoren Schmidt und Lebrün (→ Erl. zu 4,5) geholt wurde und das „zu jener Zeit unter diesen beiden Leitern in höchster Blüte stand“, in der Rolle des Hamlet seinen ersten durchschlagenden Erfolg: „Derselbe war um so höher anzurechnen, als Hamburg zu jener Zeit unstreitig den ersten Rang unter den Privattheatern in Deutschland einnahm.“ (Eisenberg, S. 43) Baison glänzte dann auf den Bühnen Dresdens, Berlins und Wiens, war für kurze Zeit wiederum am Hamburger Stadttheater, dann in Frankfurt, 1844 am Wiener Burgtheater, dann in Berlin und nochmals in Hamburg, wo er schließlich die Theaterdirektion mit übernahm. Die Titelrolle in Gutzkows </tei:seg>
+          <tei:q>Uriel Acosta</tei:q>
+          <tei:seg> (Uraufführung 13. Dezember 1846, Dresden) zählte neben Hamlet zu den großen Auftritten Baisons, und die Rolle des Lord Arthur Douglas in Gutzkows Drama </tei:seg>
+          <tei:q>Der dreizehnte November</tei:q>
+          <tei:seg> (Uraufführung 18. Juli 1845, Berlin) wurde von ihm noch im Herbst 1848, als seine Gesundheit bereits schwer angegriffen war, mit großem Beifall in Hamburg gespielt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,28-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">mit denkendem Ernst und mit einem glücklichen Anflug von Melancholie] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dazu die „Confession“ Arams im Schlussteil von Bulwers Roman: „When I was about thirteen, the deep and intense passion that has made the demon of my life, first stirred palpably within me. I had always been, from my cradle, of a solitary disposition, and inclined to revery and musing; these traits of character heralded the love that now seized me - the love of knowledge.“ (The Right Hon. Lord Lytton: Eugene Aram. A Tale. London, Glasgow, New York: Routledge, 1887. S. 329).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:hi style="letter-sparse">Jost</tei:hi>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Johann Karl Friedrich Jost (1789-1870) kam nach langer Zeit als Schauspieler bei Wanderbühnen, unter dem Namen Carly auftretend, schließlich ans Hamburger Stadttheater, wo er als Charakterdarsteller ein Publikumsliebling war. 1837 wurde er kontraktbrüchig und verschwand ans Münchner Hoftheater (vgl. Hermann Uhde: Das Stadttheater in Hamburg 1827-1877. Ein Beitrag zur deutschen Culturgeschichte. Stuttgart: Cotta, 1879.  S. 100), wo er bis zu seinem Tod wirkte (vgl. Eisenberg, S. 485-486). Nach Hamburg kehrte er jedoch immer wieder zu Gastspielen zurück und trat 1840 in den drei von Gutzkow in dieser Theaternotiz erwähnten Stücken - „Eugen Aram“, „Ich irre mich nie oder: Der Räuberhauptmann“ und „Richards Wanderleben“ - in führenden Rollen auf (→ Theaterzettel). </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Brandom</tei:hi>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Recte: Brandon. Wie der Kontext verdeutlicht, handelt es sich um die Figur von Arams Mord-Komplizen, der bei Bulwer, der historischen Vorlage getreu, Houseman heißt. Rellstab hat sich bei seiner Bearbeitung offensichtlich nur lose an Bulwers Roman gehalten, wenn er ihm auch </tei:seg>
+          <tei:q>zum größten Theil das Material entnommen</tei:q>
+          <tei:seg> hat (2,27). Der Name Brandon könnte einem anderen Verbrecherroman Bulwers entlehnt sein, „Paul Clifford“ (1830), in dem der Richter William Brandon, ein Misanthrop, sich als Vater des ehrenhaften Straßenräubers Clifford entpuppt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Brandom, sittenlos, nicht ganz schlecht, aber auch nicht gut] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Rellstabs Brandon bzw. Bulwers Houseman ist das sozial verwahrloste Gegenstück zu dem hochgebildeten, ‚wissenschaftlichen‛ Gesetzesbrecher Aram. Die asoziale Existenz, wie verschieden auch immer motiviert und gelebt, bildet ein ‚tertium comparationis‛ zwischen Gauner und Gelehrtem. Die offensichtliche Faszination Gutzkows von Brandon, bzw. von Josts Darstellung dieses Unterschicht-Charakters, der jenseits moralischer und gesetzlicher Grenzen handelt, deutet auf Figuren wie Hackert in den </tei:seg>
+          <tei:q>Rittern vom Geiste</tei:q>
+          <tei:seg> voraus.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,23 </tei:citedRange>
+          <tei:citedRange type="word-range">Scene mit dem Schenkmädchen]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In Bulwers Roman ereignet sich die entsprechende nächtliche Szene (Book IV, Chapter VI) im Londoner Zimmer Housemans. Bei seiner betrunkenen Gefährtin handelt es sich nicht explizit um ein Schenkmädchen, obwohl sich die Behausung in der Nähe finsterer Spelunken befindet. Gutzkows weitere Beschreibung der sinnlichen Hingabe Brandons an Liddy, das Schenkmädchen, muss ein Aspekt der Hamburger Regie gewesen sein, denn weder bei Rellstab noch bei Bulwer findet sich Entsprechendes.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Spahn]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Albertine Spahn, ab 1840 verh. Kläger (?-1865), spielte die Rolle des Schenkmädchens Liddy.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,27-28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Gerichtsscene mit dem erschütternden: „Jesus Christus“] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Gerichtsszene in Bulwers Roman kulminiert in der Schuldigsprechung Eugene Arams, die ihren Effekt jedoch nicht durch einen theatralischen Ausbruch, sondern durch ein frappierendes Understatement gewinnt: „They found the prisoner guilty. The judge drew on the black cap. Aram received his sentence in profound composure.“ Die drei Sätze sind durch eine Reihe von Asterisken voneinander getrennt. (The Right Hon. Lord Lytton: Eugene Aram. A Tale. London, Glasgow, New York: Routledge, 1887. S. 323.) In Rellstabs Bearbeitung wird Aram von den Geschworenen für nicht schuldig erkannt, und er enthüllt aus freien Stücken sein Verbrechen. Gutzkow bezieht sich auf den Ausruf des Komplizen Brandon, dessen schuldiges Mitwissen ihn wahnsinnig macht (Ludwig Rellstab: Gesammelte Schriften. Neue Ausgabe, Bd. 19. Leipzig: Brockhaus, 1861. S. 161).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schauspieldirektor Bock in Richard Wanderer]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Figur in dem Erfolgsstück „Richard’s  Wanderleben“ von Johann Georg Kettel (1793-1862), einer freien Bearbeitung von John O’Keeffes  „Wild Oats“ (Premiere 1791). Der Bearbeiter Kettel war als Schauspieler ein „gewandte[r] Bonvivant“, gastierte 1840 am Hamburger Stadtteater, war zuletzt Regisseur am Stuttgarter Hoftheater, und er lieferte „dem deutschen Theater fünfundzwanzig Bearbeitungen fremder Stücke“, das bekannteste davon  „Richard’s  Wanderleben“ (Hermann Uhde: Das Stadttheater in Hamburg 1827-1877. Ein Beitrag zur deutschen Culturgeschichte. Stuttgart: Cotta, 1879. S. 117-118). Die von Gutzkow besuchte Aufführung fand am Samstag, dem 4. April 1840 statt, zusammen mit der einaktigen Komödie „Ich irre mich nie oder: Der Räuberhauptmann“ (→ Erl. zu 4,5; → Theaterzettel).</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Bonoil</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Recte: Boneoeil. Figur des Postmeisters in „Ich irre mich nie oder: Der Räuberhauptmann. Lustspiel in einem Act. Nach dem Französischen frei bearbeitet von Carl Lebrün, Schauspieler“ (Mainz: Kupferberg, 1820). Carl August Lebrün (1792-1842) war eine Instanz am Hamburger Stadttheater: Ab 1818 dort engagiert und beim Publikum beliebt, führte er zusammen mit Friedrich Ludwig Schmidt von 1827 bis 1837 die Direktion. Er war ein ausgezeichneter Bearbeiter von französischen Stücken für die deutsche Bühne. </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-31">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Eugen Aram</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Erl. zu 2,24.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-32">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Baison</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Erl. zu 2,28.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-33">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Räuberhauptmann</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"/>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Erl. zu 4,5.</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-34">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Burmeister] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Möglicherweise Friedrich Burmeister (1771-1851), Schauspieler, ab 1811 am Dresdener Hoftheater; „im Anfang seiner Laufbahn vorzugsweise in fein komischen Rollen tätig, [...] ging anfangs der 20er Jahre mit bedeutendem Erfolg in das Fach der zärtlichen und humoristischen Väter, sowie in das der fein-komischen Alten über. [...] Am 15. Februar 1844 feierte er sein 50jähriges Künstlerjubiläum [...]. Eine eingehende Charakteristik B[urmeister]s liefert Tieck (1827)“ (Eisenberg, S. 143). Gastspiele in Hamburg sind nicht ermittelt. Die Rolle, die Herr Burmeister </tei:seg>
+          <tei:q>edelmüthig sentimental</tei:q>
+          <tei:seg> spielte, war die des pietistischen Hausverwalters Ephraim Glatt (→ Theaterzettel).  </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>quod non</tei:foreign>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"/>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Lat.: als ob nicht, wie wenn nicht.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-35">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Wanderer</tei:hi>
+          </tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>→ Erl. zu 3,29.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-36">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Brüning</tei:hi>
+            <tei:seg>]</tei:seg>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Schauspieler Karl Brüning (eigentlich Johann Dietrich Brünings, 1808-1870) war ab 1838 für zehn Jahre am Hamburger Stadttheater. Er zählte „namentlich als Bonvivant und später in Väterrollen zu den beliebtesten Mitgliedern“ der Hamburger Bühne (Eisenberg, S. 133). In „Richards Wanderleben“ spielte er die Titelrolle des Schauspielers (</tei:seg>
+          <tei:q>Deklamationsnarren</tei:q>
+          <tei:seg>) Richard Wanderer. Die Premiere von Gutzkows </tei:seg>
+          <tei:q>Werner</tei:q>
+          <tei:seg> am 22. Februar 1840 wurde „zum Benefiz-Antheile des Herrn Brüning“ gegeben (→ Theaterzettel).</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-37">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Therese Elsler</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Therese Elßler (1808-1878) war eine gefeierte Ballett-Tänzerin und zur Zeit ihres Hamburger Gastspiels Primaballerina beim Ballet Royal in Paris. Sie trat bei der Doppelvorstellung von „Ich irre mich nie oder: Der Räuberhauptmann“ und „Richards Wanderleben“ am 4. April 1840 zwischen den beiden Stücken in einem Divertissement aus „Sylphide“ auf, und am Schluss der Vorstellung noch einmal mit einem Solo „La Cachucha“ (→ Theaterzettel). </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-38">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sylphide]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„La Sylphide“, zweiaktige Ballett-Pantomime von Filippo Taglioni, uraufgeführt 1832 an der Pariser Opéra (damals „Théâtre de l'Académie Royale de Musique") mit Marie Taglioni in der Titelrolle; Musik Jean Schneitzhoeffer. „La Sylphide“ stellt den Durchbruch des romantischen Balletts dar. Die Grundlage für diese eigenständige Entwicklung des Bühnentanzes bildete das Klostertableau in Meyerbeers „Robert le Diable“ (1831), in dem der Tanz „nicht bloß als ‚Einlage‛ aus der Handlung motiviert [ist], sondern deren essentieller Bestandteil“, im Sinne eines romantischen Gesamtkunstwerks ‚avant la lettre‛. Vgl. Sieghart Döhring, Sabine Henze-Döhring: Oper und Musikdrama im 19. Jahrhundert. Laaber: Laaber-Verlag, 1997 (Handbuch der musikalischen Gattungen, Bd. 13). S. 150.</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-39">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Dobritz</tei:hi>
+          </tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diese Tänzerin gehörte vermutlich zu den Festengagierten des Hamburger Balletts (→ Theaterzettel), denn Gutzkow moniert, sie trete </tei:seg>
+          <tei:q>immer so mürrisch und apathisch</tei:q>
+          <tei:seg> auf.</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-40">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Benoni] </tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Wie </tei:seg>
+          <tei:q>
+            <tei:seg>Dem. </tei:seg>
+            <tei:hi style="letter-sparse">Dobritz</tei:hi>
+          </tei:q>
+          <tei:seg> vermutlich zum Hamburger Ballett gehörender Tänzer (→ Theaterzettel).</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [1.] [Anon.:] Kleine Chronik. Telegraph für Deutschland. Hamburg. Nr. 190, [28.] November 1838, S. 1518-1520. (Rasch 3.38.11.28) </tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J [2.] [Anon.:] Kleine Chronik. Telegraph für Deutschland. Hamburg. Nr. 158, [2.] October 1839, S. 1263. (Rasch 3.39.10.02) </tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J [3.] [Anon.:] Stadt-Theater-Notizen. Telegraph für Deutschland. Hamburg. Nr. 63, [17.] April 1840, S. 251. (Rasch 3.40.04.17.1) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0" style="text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Journaldruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der englische Schriftsteller Edward Lytton Bulwer (→ Lexikon) war in den 1830er Jahren in Deutschland so populär, dass seine Werke zugleich in drei verschiedenen Übersetzungsausgaben erschienen. Für Gutzkow, der an der ‚Übersetzungsindustrie‛ heftige Kritik übte, da sie das Aufkommen einer eigenen deutschen Literatur nach dem Ende der ,Kunstperiode‛ behinderte (→ Die Deutschen Uebersetzungsfabriken), war Bulwer sowohl ein Konkurrent als auch ein Vorbild. Als enzyklopädisch belesener Autor und ,man of letters‛ lebte dieser ausschließlich vom Schreiben, verdiente dabei allerdings sehr viel mehr als seine deutschen Berufsgenossen und wandelte sich – wie Gutzkow selbst ab 1839 – vom Prosaschriftsteller zum erfolgreichen Dramatiker.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Als Redakteur des bei Hoffmann &amp; Campe erscheinenden „Telegraph für Deutschland“ wohnte Gutzkow ab Ende 1837 in Hamburg und schrieb für den „Telegraph“ u. a. regelmäßig Theaterkritiken. Die Zusammenstellung von drei solchen Beiträgen Gutzkows (vom November 1838, Oktober 1839 und April 1840) zeigt die Bedeutung Bulwers für das deutsche Schauspiel um 1840. Das Hamburger Stadttheater, eine der führenden Bühnen im deutschen Sprachraum, brachte in der Spielsaison 1838-39 zwei neue Bulwer-Stücke. Das im Februar 1838 in London uraufgeführte Lustspiel „The Lady of Lyons; or, Love and Pride“ wurde in der zügig erfolgten Übersetzung und Bearbeitung Georg Nikolaus Bärmanns (für die Zwickauer Bulwer-Werkausgabe) unter dem Titel „Die [schöne] Lyoneserin oder: Hoffahrt und Liebe“ in Hamburg zuerst im Juli 1838 aufgeführt. 1839 folgte ein Trauerspiel, das auf Bulwers Verbrecherroman „Eugene Aram“ von 1832 basierte und von dem der englische Autor selbst schon eine fragmentarische Bühnenfassung hergestellt hatte. Die ab August 1839 in Hamburg aufgeführte Tragödie „Eugen Aram“ war eine neue, aus demselben Jahr stammende Bearbeitung durch Ludwig Rellstab. Beiden Stücken liegt ein historischer Stoff zugrunde, dessen soziale Aktualität Bulwer ausschöpfte: die ins Wanken geratene Klassendifferenz zwischen Adel und Kleinbürgertum in der republikanischen Phase der Französischen Revolution („The Lady of Lyons“) und die dünne Linie zwischen Gelehrtentum und Kriminalität, bürgerlicher Respektabilität und Verbrechersphäre im Schicksal des 1759 hingerichteten Eugene Aram.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Gutzkow war im wörtlichen Sinn in die Rolle Bulwers geschlüpft, als er 1837 seine panoramatische Bestandsaufnahme der europäischen Gegenwart, → </tei:seg>
+        <tei:q>Die Zeitgenossen</tei:q>
+        <tei:seg>, als Übersetzung </tei:seg>
+        <tei:q>aus dem Englischen des E. L. Bulwer</tei:q>
+        <tei:seg> veröffentlichte. Zensurgründe, d. h. die dem Bundestagsbeschluss gegen das Junge Deutschland folgenden Repressionen, waren das Hauptmotiv zu dieser Mystifikation, aber eine Wunsch-Affinität mit dem englischen Kollegen, der sich so glänzend als ‚public character‛ behauptete, war nicht von der Hand zu weisen (→ </tei:seg>
+        <tei:q>Die Zeitgenossen</tei:q>
+        <tei:seg>, Globalkommentar). Mit </tei:seg>
+        <tei:q>Richard Savage</tei:q>
+        <tei:seg>, einem Stück, das die Blütezeit der frühbürgerlichen Öffentlichkeit im London des 18. Jahrhunderts zum Hintergrund hat, erlebte Gutzkow im Juli 1839 seinen Durchbruch als Dramatiker am Frankfurter Stadttheater. Er verfolgte sein vormaliges alter ego Bulwer aufmerksam in der Entwicklung seiner Bühnenkunst. Gutzkows Hamburger Theaterkritiken verraten die Einfühlung eines Schriftstellerkollegen in die psychologische Motivierung der Figuren, und der Kritiker hält nicht zurück mit Lob und Tadel der Schauspieler bei der Erfassung solcher Nuancen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Mit dem satirischen Drama „Money“ (uraufgeführt im Dezember 1840) wandte sich Bulwer der zeitgenössischen Londoner Finanzwelt zu. Auch hierüber erschien im „Telegraph“ sehr bald, am 27. Februar 1841, unter der Rubrik „Miscellen“ eine Notiz, die allerdings nicht von Gutzkow stammt, denn es handelt sich um den Nachdruck einer Londoner Korrespondenz aus dem Cottaschen „Morgenblatt“. Hier wird Bulwer scharf dafür kritisiert, dass er mit dem Thema ,Geld‛ auch selber zum Farcenproduzenten und Kassenfüller geworden sei (in der Tat wurde „Money“ zu einem seiner durchschlagenden Erfolge). Gutzkow nahm die Notiz vermutlich nicht aufgrund dieser Wertung in seine Zeitschrift auf, sondern aus Interesse an der Professionalität Bulwers und seiner satirischen Durchdringung der Charaktermasken, die das Geld produziert. Ohne Zweifel besteht ein Zusammenhang von Gutzkows eigenem Stück „Die Schule der Reichen“ und Bulwers „Money“, allerdings nicht in Bezug auf den Publikumserfolg bei der Erstaufführung. In der Handelsstadt Hamburg fiel das Drama wegen seiner Kritik des Profitstrebens am 25. Oktober 1841 spektakulär durch.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

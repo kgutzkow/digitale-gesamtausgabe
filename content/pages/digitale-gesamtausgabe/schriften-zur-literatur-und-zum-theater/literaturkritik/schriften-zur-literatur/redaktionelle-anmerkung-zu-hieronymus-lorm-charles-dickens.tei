@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -23,7 +22,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>D[er] Her[ausgeber]: [Redaktionelle Anmerkung zu Hieronymus Lorm: Charles Dickens]. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2. Nr. 17, [21. Januar] 1854, S. 270. (Rasch 3.54.01.21.1).</tei:bibl>
+      <tei:bibl>D[er] Her[ausgeber]: [Redaktionelle Anmerkung zu Hieronymus Lorm: Charles Dickens]. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2. Nr. 17, [21. Januar] 1854, S. 270. (Rasch 3.54.01.21.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -39,10 +38,144 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-1">
+        <tei:pb n="270"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Redaktionelle Anmerkung zu Hieronymus Lorm: </tei:hi>
+        <tei:seg>„</tei:seg>
+        <tei:hi style="font-style-italic">Charles Dickens</tei:hi>
+        <tei:seg>“</tei:seg>
+        <tei:hi style="font-style-italic">]</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>So sehr wir mit dem Herrn Verfasser über die Belohnungen einverstanden sind, welche der das Leben verschönernden Phantasie der Dichter gebühren, so müssen wir doch in Betracht des </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">Romans „Bleakhouse“</tei:ref>
+        <tei:seg> von Dickens hinzufügen, daß sein Werth nicht nach </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">jenem obenerwähnten, enormen Ertrage</tei:ref>
+        <tei:seg> zu beurtheilen ist. Vielleicht hat man in diesem und dem vorigen Sommer hier und da auf unsern Eisenbahnen Gelegenheit gehabt, Engländern und Engländerinnen zu begegnen, die </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">eins der Hefte, in welchen jener Roman periodisch veröffentlicht wurde</tei:ref>
+        <tei:seg>, bei sich hatten und darin blätterten. Für einen Schilling kaufte der Engländer nur </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">drei Bogen vom Texte jenes Romans</tei:ref>
+        <tei:seg>; der Rest des starken Bandes bestand aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">
+          <tei:hi style="letter-sparse">Annoncen</tei:hi>
+        </tei:ref>
+        <tei:seg>. Die Industrie benutzte diesen Roman als öffentlichen Anzeiger und Charles Dickens gab dazu selbst die Idee an. Er verlegte ihn selbst und ließ Lampen, Gummigaloschen, Sattlerwaaren, Shirtinghemden, kurz alles nur irgend an die Oeffentlichkeit Angewiesene in beigebundenen Blättern von den betreffenden Fabrikanten anzeigen. Diese Methode, sich mit einem Romane 120,000 Thlr. zu erwerben, würde man in Deutschland schon annäherungsweise nachahmen können, wenn nur nicht der Autor, der es thäte, vielleicht bereits nach der zweiten Lieferung seines Werks vor Verdruß über den Hohn und Spott, den er dafür ernten würde, für immer verstummt wäre. Der deutsche Dichter soll nun einmal nur so schreiben und wirken, als wenn er vom Dufte der Blumen lebte.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Romans „Bleakhouse“]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Charles Dickens’ neunter Roman: Bleak House. 2 Bde. London: Chapman &amp; Hall, 1853.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">jenem obenerwähnten, enormen Ertrage]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Lorm erwähnt zu Beginn seines Artikels, dass „Bleak House“ „seinem Verfasser 20,000 Pfd. Sterl. oder nach möglichst annähernder Berechnung drei Thaler für die kleine gedruckte Zeile“ eingetragen habe; eine Summe, die einem nationalen „Ehrensold“ gleichkomme.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">eins der Hefte, in welchen jener Roman periodisch veröffentlicht wurde]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Mit der fortsetzungsweisen Lieferung in Einzelheften, erprobt durch den beispiellosen Erfolg der „Pickwick Papers“ (1836-37), schuf Dickens das Publikationsmodell für Romane im viktorianischen Zeitalter (vgl. Nicola Bradbury: Dickens and the Form of the Novel. In: The Cambridge Companion to Charles Dickens. Hg. von John O. Jordan. Cambridge: Cambridge University Press, 2001. S. 152-166). „Bleak House“ erschien wie die meisten Romane von Dickens in zwanzig illustrierten monatlichen Lieferungen (März 1852 bis September 1853) zu einem Shilling pro Heft. Die Buchausgabe folgte nach Abschluss der Lieferungen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">drei Bogen vom Texte jenes Romans]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Lieferungen von „Bleak House“ enthielten sogar nur zwei Bogen Oktav, d. h. 16 Blatt bzw. 32 Seiten Text, wie sich anhand eines Exemplars der Erstausgabe nachvollziehen lässt. 32 Seiten entsprechen einem Umfang von meist drei Romankapiteln. Der Inhalt jeder Lieferung ist angegeben in Paul Davis: The Penguin Dickens Companion. The Essential Reference to His Life and Work. Harmondsworth: Penguin, 1999. S. 37-43.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Annoncen</tei:hi>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Lieferungen von Dickens’ Romanen nahmen durch sogenannte „Advertisers“ einen Umfang von ca. 100 Seiten an, wobei der Romantext jeweils nicht mehr als ein Drittel davon umfasste. Die jüngere Forschung hat raffinierte semiotische Beziehungen zwischen dem Romantext mit seinen Illustrationen und den (oft illustrierten) Annoncen festgestellt, so z. B. Gerard Curtis: Dickens in the Visual Market. In: Literature in the Marketplace. Nineteenth-Century British Publishing and Reading Practices. Hg. von John O. Jordan und Robert L. Patten. Cambridge: Cambridge University Press, 1998. S. 213-249.</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J D[er] Her[ausgeber]: [Redaktionelle Anmerkung zu Hieronymus Lorm: Charles Dickens]. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2. Nr. 17, [21. Januar] 1854, S. 270. (Rasch 3.54.01.21.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.5" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Diese Anmerkung gilt einer Besprechung Hieronymus Lorms von Dickens’ Roman „Bleak House“ (1852-53) in den „Unterhaltungen am häuslichen Herd“ vom 21. Januar 1854. In dieser Besprechung geht Lorm jedoch nicht auf den Roman selbst ein, sondern thematisiert die kommerziellen Bedingungen seiner Publikation und generell den Charakter von Dickens’ Erzählweise (vgl. Bilder und Materialien. Materialien: → Hieronymus Lorm, „Charles Dickens“).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Lorms Kritik und Gutzkows Anmerkung sind im Kontext der Auseinandersetzung mit Englands avanciertem ‚Materialismus‛ zu sehen, wobei dieser Begriff sowohl für die Formen der literarischen Darstellung als auch für die Methoden der Vermarktung von Literatur gilt. Bereits 1839 hatte sich Gutzkow als Redakteur des „Telegraph für Deutschland“ veranlasst gesehen, eine Dickens-Rezension (in diesem Fall von Levin Schücking) durch eine Anmerkung zu modifizieren (→ Redaktionelle Anmerkung zu Levin Schücking: Neu-Englischer Humor). Schückings Kritik galt Dickens’ Humor, der mit der Drastik seines Realismus nicht im Einklang stehe, und Gutzkow pointierte diese Kritik noch durch den polemischen Hinweis auf die </tei:seg>
+        <tei:q>
+          <tei:hi style="letter-sparse">Häßlichkeit</tei:hi>
+        </tei:q>
+        <tei:seg> von Boz’ Schöpfungen sowie die </tei:seg>
+        <tei:q>stinkige, ordinäre Unfläterei der pseudo-humoristischen Romane</tei:q>
+        <tei:seg> Englands mit ihrem </tei:seg>
+        <tei:q>totale[n] Mangel an aller idealischen Färbung</tei:q>
+        <tei:seg>. Interessanterweise nimmt sich die redaktionelle Anmerkung von 1854 in ihrer Tendenz recht anders aus. Hier zeigt sich Gutzkow offenbar einverstanden mit dem unverhüllten Kommerzialismus, den Dickens bei der Publikation seiner Romane als Serienwerke mit umfangreichen Annoncenteilen an den Tag legt: Dem Romantext beigeheftet ist Reklame für </tei:seg>
+        <tei:q>Lampen, Gummigaloschen, Sattlerwaaren, Shirtinghemden</tei:q>
+        <tei:seg>. Würde ein deutscher Autor seine materiellen Verhältnisse durch ähnliche Strategien zu verbessern suchen, erntete er nichts als Hohn und Spott, denn von einem deutschen Autor werde angesichts der eigenen Existenzbedingungen immer noch eine idealistische Haltung erwartet. Was Dickens’ Romane betrifft, erkennt Gutzkow inzwischen - wie auch Lorm - ihr beträchtliches Maß an Idealisierung an.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

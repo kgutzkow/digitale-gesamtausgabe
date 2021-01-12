@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -23,28 +22,162 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Menzel's Geist der Geschichte. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 11, 18. März 1835, S. 261-263. (Rasch 3.35.03.18.1).</tei:bibl>
+      <tei:bibl>[Anon.:] Bulwer's Pilger am Rhein. Aus dem Englischen von le Petit. Mit Stahlstichen. Quedlinburg, Hanewald. 1834. In: Phönix. Frankfurt/M. Literatur-Blatt. Nr. 14, 8. April 1835, S. 335. (Rasch 3.35.04.08.3) </tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1835-03-18">18. März 1835</tei:date>
+        <tei:date when="1835-04-08">8. April 1835</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #rezensionen-und-literaturkritische-essays #bulwer-s-pilger-am-rhein-aus-dem-englischen-von-le-petit-mit-stahltischen"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2007-08" who="#MartinaLauster">1.0</tei:change>
-      <tei:change when="2007-09" who="#MartinaLauster">1.0</tei:change>
       <tei:change when="2009-02" who="#MartinaLauster">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:pb n="335"/>
+        <tei:seg> 37) Bulwer’s </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">
+          <tei:hi style="letter-sparse">Pilger am Rhein</tei:hi>
+        </tei:ref>
+        <tei:seg>. Aus dem Englischen von </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">
+          <tei:hi style="letter-sparse">le Petit</tei:hi>
+        </tei:ref>
+        <tei:seg>. </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">Mit Stahlstichen</tei:ref>
+        <tei:seg>. Quedlinburg, Hanewald. 1834.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Obgleich es schon zu spät ist, von diesem Bulwerschen Romane zu sagen, daß er, im strengsten Sinne des Worts, auf </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">schwindsüchtige Motive</tei:ref>
+        <tei:seg> gebaut ist und außerdem viele Erwartungen getäuscht hat, so kann ich doch davon diese </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">vortreffliche Übersetzung</tei:ref>
+        <tei:seg> und Ausstattung, welche mir erst jetzt zu Augen kömmt, nicht unerwähnt lassen. </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">Die Zeichnung zu der Mehrzahl der neun beigefügten Stahlstiche</tei:ref>
+        <tei:seg> ist genial erfunden, die Rheinansichten sind in der reizendsten Perspektive aufgenommen. Wir machen dringend auf die Äußerlichkeit dieses Buches aufmerksam, und wünschen, daß sich die Zahl solcher Erscheinungen vermehren möchte, um </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">den alten Schlendrian packleinerner Bücherausstattung</tei:ref>
+        <tei:seg> in Deutschland zu beschämen.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pilger am Rhein]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Edward Lytton Bulwers Roman „The Pilgrims of the Rhine“ (→ Lexikon: Bulwer: Bulwer und Deutschland) erschien 1834 bei Saunders &amp; Otley in London und bietet ein Musterbeispiel für die damalige Übersetzungsindustrie (→ Gutzkows Kritik </tei:seg>
+          <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
+          <tei:seg>) sowie für den beginnenden Absatz an illustrierter Literatur. Der Roman erlebte bereits im Jahr seines Erscheinens mehrere englischsprachige Ausgaben im Ausland (New York: Harper; Paris: Baudry; Leipzig: Fleischer; Frankfurt/M.: Jügel) sowie eine Übersetzung ins Französische (von J. Cohen unter dem Titel „Les pèlerins au bord du Rhin“, Paris: Fournier) und nicht weniger als vier Übersetzungen ins Deutsche. Drei davon wurden für die parallel laufenden deutschen Bulwer-Gesamtausgaben angefertigt (Aachen: Mayer; Übs. Louis Lax; Zwickau: Schumann; Übs. nicht ermittelt, und Stuttgart: Metzler; Übs. Friedrich Notter; zu diesen deutschen Bulwer-Ausgaben → </tei:seg>
+          <tei:q>Die Zeitgenossen</tei:q>
+          <tei:seg>, 3.2. Gattungsfolien). Die vierte deutsche Übersetzung ist die von Gutzkow hier besprochene von Le Petit, auf die er verspätet aufmerksam geworden war. Die Titelangabe ist allerdings inkorrekt, denn Le Petits Übersetzung erschien als „Pilger des Rheins“. Gutzkow geht es gar nicht mehr um Bulwers längst zur Kenntnis genommenen Roman, eine süßliche „Anempfindung“ (Heinrich Laube) der deutschen Rheinromantik. Gutzkow rezensiert das Buch nur wegen der besonderen Qualität der Übersetzung des mit ihm befreundeten dänisch-deutschen Autors Friedrich Carl Petit (1809-1854) und wegen der aufwändigen Ausstattung mit neun Stahlstichen, ▄_vermutlich nach denen der Londoner Originalausgabe▀¯. Diese waren ein Markenzeichen des Quedlinburger Verlags Hanewald, der nicht nur Literatur in Übersetzung herausbrachte, z. B. Jules Janins „Contes nouveaux“ (1833) in der Übertragung durch August Lewald („Ansichten der Zeit und des Lebens“, 2 Bde., 1833), sondern auch illustrierte Reise- und Wanderführer. Den Angaben in Lindenstruths Bulwer-Bibliographie zufolge erschienen „Die Pilger des Rheins“ in der illustrierten Übersetzung von Le Petit sogar zuerst als „Pfennig-Ausgabe“ in „5 Lieferungen“, an der auch der Karlsruher Verlag Creuzbauer beteiligt war (Gerhard Lindenstruth: Edward Bulwer Lytton. Eine Bibliographie der Veröffentlichungen im deutschen Sprachraum. Giessen: Lindenstruth, 2001. S. 51). Eine solche Publikationsweise wäre als verlegerischer Vorstoß auf das Gebiet illustrierter Fortsetzungswerke zu werten (→ Lexikon: Illustrierte Periodika). Wie Hanewald profilierte sich Creuzbauer ab Mitte der 1830er Jahre im Verlegen von Landschafts-Stahlstichen (besonders durch die Serie „Malerische Wanderungen“), also genau auf dem ikonographisch-technischen Gebiet der Illustrationen, die Bulwers „Pilger“ zierten (Stahlstiche; → Erl. zu 1,3).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">le Petit]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Friedrich (Frederik) Carl Petit (1809-1854) stammte aus Kopenhagen und war mit Hans Christian Andersen befreundet. Es ist nicht bekannt, wann und wo er Gutzkow begegnete; vielleicht bei dessen Aufenthalt in Hamburg im Sommer 1834. Gutzkow selbst macht folgende Angaben über Le Petit: </tei:seg>
+          <tei:q>Er gehört durch Geburt jenem norddeutschen Gränzlande an, welchem wir Rapssaat, leichte Friedrichsd’ore, Oehlenschläger, und Anderes verdanken. Das Schicksal verschlug ihn in alle Gegenden der Windrose, er sah England, Frankreich, Italien, und dies Alles, um in Quedlinburg, in der Nähe Basse’s [Gottfried Basse, Verleger u. a. von historischen Kolportage-Romanen] und seiner Aranzes und Marmorinos, seiner Gerillos und Guavannis sein gestrandetes Lebensschiff wieder zu kalfatern und zusammenzulesen.</tei:q>
+          <tei:seg> (Vorrede in „Dr. Le Petits ausführliche Erklärung der Hogarthischen Kupferstiche“, S. III; → Erl. zu 1,9-10.) - Zu Le Petits Werken zählen Übersetzungen aus dem Englischen und Französischen: außer der hier besprochenen Bulwer-Übersetzung z. B. eine der erweiterten zweiten Auflage (1837) von John Lang Dunmore: „An Historical and Statistical Account of New South Wales“, unter dem Titel „Neu-Süd-Wales: als Strafansiedlung und britische Colonie historisch und statistisch dargestellt“ (Quedlinburg, Leipzig: Basse, 1840). Für denselben Verlag übersetzte Le Petit auch die Memoiren Mirabeaus (4 Bde., 1835-36) sowie die Geschichte der Pariser Salons von der Duchesse d’Abrantès: „Die Salons von Paris: Gemälde und Portraits aus der großen Welt unter Ludwig XVI., dem Directorium, dem Consulat und dem Kaiserreich, unter der Restauration und der Regierung Ludwig Philipp’s I.“ (6 Bde., 1838-40). An eigenständigen Arbeiten lieferte er ethnographisch-soziologische Skizzen: „Sittengallerie der Nationen. Das Buch der Völker in Bildern und Vignetten“ (Mannheim: Hoff, 1836), und trug auf diese Weise zu der genrebildlichen Literatur der 1830er Jahre bei, die visuelle Paradigmen für eine unterhaltsam-analytische Gegenwartsschilderung fruchtbar machte (→ Lexikon: Paris, ou Le Livre des Cent-et-un). Es scheint bezeichnend, dass Le Petit sich für eine illustrierte Übersetzung von Bulwers „Pilgrims of the Rhine“ engagieren ließ, denn sein Interesse galt ganz offensichtlich dem Zusammenspiel von Bild und Text, das ab den 1830er Jahren durch Entwicklung neuer Reproduktionstechniken hoch im Kurs stand (→ Lexikon: Illustrierte Periodika). Vgl. auch sein „Luther und Faust in Vignetten zu deutschen Dichtern. Ein literarisches Fibelbuch“ (Leipzig: Hartmann, 1834) und seinen Hogarth-Kommentar (→ Erl. zu 1,9-10).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Mit Stahlstichen]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Im 19. Jahrhundert wurde der Kupferstich durch den billigeren und für hohe Auflagen besser geeigneten Stahlstich verdrängt. „Charakteristisch“ für diesen ist „das feinlinierte, helllichtig-spröde, oft etwas trocken wirkende Strichbild. Die Auflagenhöhe bewegt sich zwischen 20 000 und 100 000 Blatt. Geeignet war der S[tahlstich] für Reproduktionswerke, insbesondere für wissenschaftliche Buchillustrationen, Landkarten und Veduten [...]. Für Briefköpfe und Briefmarkendruck wird der S[tahlstich] noch bis ans Ende des 20. Jahrhunderts verwendet. Erfunden wurde die Technik von den Amerikanern Perkens und Fairman um 1817. Sie wurde dann in Europa für den englischen Kupferstecher Charles Heath (1820) patentiert. In Deutschland hat sie erstmals Ludwig Frommel um 1825 ausgeübt. Zwischen 1830 und 1860 war der S[tahlstich] nach der Lithografie und neben dem Holzstich eines der dominierenden gebrauchsgrafischen Medien“ (Art. ,Stahlstich, Siderografie‛. In: Ernst Rebel: Druckgrafik. Geschichte. Fachbegriffe. Mit 55 Abbildungen und Risszeichnungen. Stuttgart: Reclam, 2003. S. 249).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,5-6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">schwindsüchtige Motive]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die weibliche Hauptfigur von Bulwers Romanze stirbt an Tuberkulose.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,7-8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">vortreffliche Übersetzung]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die so positive Beurteilung Le Petits als Übersetzer erklärt sich auch aus der Tatsache, dass Gutzkow mit diesem Literatur- und Bilderkenner in einem anderen bibliophilen Unternehmen liiert war: in der Fortsetzung des Lichtenbergschen Kommentars zu Hogarths Kupferstichen. Im Jahr dieser Rezension, 1835, erschien bei Dieterich in Göttingen „Dr. le Petits ausführliche Erklärung der Hogarthischen Kupferstiche mit verkleinerten aber vollständigen Copien derselben von E. Riepenhausen herausgegeben von Karl Gutzkow“. Gutzkows → Vorrede (→ Erl. zu 1,3) datiert vom Dezember 1834. In einer knappen Rezension dieses Werkes rühmt Gutzkow wiederum Le Petits </tei:seg>
+          <tei:q>farbensatten Styl, seinen Witz und die Kraft seiner Phantasie</tei:q>
+          <tei:seg> (Phönix. Frankfurt/M. Literatur-Blatt. Nr. 28, 18. Juli 1835, S. 672, Sp. 1. [Rasch 3.35.07.18.2]).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,9-10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Zeichnung zu der Mehrzahl der neun beigefügten Stahlstiche]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg> </tei:seg>
+          <tei:metamark function="missing"> Zu ermitteln: vermutlich nach den Zeichnungen der Londoner Originalausgabe. </tei:metamark>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">den alten Schlendrian packleinerner Bücherausstattung]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>In der Buchgestaltung waren deutsche Verlage des ersten Jahrhundertdrittels gegenüber denen Englands und Frankreichs im Hintertreffen. Das lag unter anderem an der verspäteten Entwicklung einer Infrastruktur für Holzstichillustrationen. Als einer der ersten kümmerte sich J. J. Weber in Leipzig, Verleger der „Illustrirten Zeitung“, um bibliophil ausgestattete Bände (→ Lexikon: Weber).</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J [Anon.:] Bulwer’s Pilger am Rhein. Aus dem Englischen von le Petit. Mit Stahlstichen. Quedlinburg, Hanewald. 1834. In: Phönix. Frankfurt/M. Literatur-Blatt. Nr. 14, 8. April 1835, S. 335. (Rasch 3.35.04.08.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p style="text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Journaldruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
