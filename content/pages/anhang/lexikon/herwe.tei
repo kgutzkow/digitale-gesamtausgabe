@@ -5,9 +5,9 @@
       <tei:titleStmt>
         <tei:title>Herwegh, Georg</tei:title>
         <tei:author>Wolfgang Rasch</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,65 +33,77 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2003-07" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change when="2021-01-14" who="#WolfgangRasch">1.1: Anpassungen u. Ergänzung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">GEORG HERWEGH </tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg>(1817-1875), Lyriker, Publizist, Übersetzer, Übersetzer und (1848/49) Revolutionär, in den vierziger Jahren mit Gutzkow befreundet. Seine "Gedichte eines Lebendigen" (2 Bde, 1841/43), die sofort verboten wurden, machten Herwegh berühmt und übten vor allem auf die linksliberale Jugend im Vormärz einen enormen Einfluss aus (vgl. Theodor Fontane, "Herwegh Club"). </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
-        <tei:seg>.</tei:seg>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-size-large font-weight-bold">Herwegh, Georg</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Georg Herwegh (1817-1875), Lyriker, Publizist, Übersetzer, Übersetzer und (1848/49) Revolutionär, in den vierziger Jahren mit Gutzkow befreundet. Seine "Gedichte eines Lebendigen" (2 Bde, 1841/43), die sofort verboten wurden, machten Herwegh berühmt und übten vor allem auf die linksliberale Jugend im Vormärz einen enormen Einfluss aus (vgl. Theodor Fontane, "Herwegh Club").  </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
-      <tei:seg> </tei:seg>
-      <tei:hi style="font-weight-bold">Gutzkow und Herwegh</tei:hi>
-      <tei:seg> </tei:seg>
-      <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Herweghs</tei:hi>
-      <tei:seg> </tei:seg>
-      <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>→ Bilder und Quellen: Bilder. Gutzkows Zeitgenossen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
         <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-      <tei:p>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Gutzkow und Herwegh</tei:hi>
         <tei:seg> </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3"/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Bibliographie</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Deutsches Schriftsteller-Lexikon. 1830-1880. Bearb. von Herbert Jacob, Bd. H, Berlin 2003, S. 421-438.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Werke</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Georg Herwegh: Werke und Briefe. Kritische und kommentierte Gesamtausgabe. Hrsg. von Ingrid Pepperle in Verbindung mit Volker Giel, Heinz Pepperle, Norbert Rothe u. Hendrik Stein. Bielefeld: Aisthesis Verlag, 2005-2019. 6 Bände.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 1: Veröffentlichte Gedichte 1835 bis 1848</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 2: Veröffentlichte Gedichte 1849 bis 1875</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 3: Prosa 1837 bis 1848</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 4: Prosa 1849 bis 1875</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 5: Briefe 1832 bis 1848</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Bd. 6: Briefe 1849 bis 1875</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2003. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Wolfgang Rasch.</tei:seg>
-        <tei:seg> Seite angelegt im Juli 2003.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:03</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg> </tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
