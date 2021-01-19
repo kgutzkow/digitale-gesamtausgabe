@@ -5,9 +5,9 @@
       <tei:titleStmt>
         <tei:title>Keller, Gottfried</tei:title>
         <tei:author>Wolfgang Rasch</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,57 +33,58 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2003-07" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change when="2021-01-14" who="#WolfgangRasch">1.1: Anpassungen, Text ergänzt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">GOTTFRIED KELLER </tei:hi>
+      <tei:head type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Keller, Gottfried </tei:hi>
         <tei:seg> </tei:seg>
-        <tei:seg>(1819-1890), Schriftsteller. </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
-        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gottfried Keller (1819-1890), schweizer. Maler, Schriftsteller, Staatsschreiber des Kanton Zürich. </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
-      <tei:hi style="font-weight-bold">Gutzkow und Keller</tei:hi>
-      <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Kellers</tei:hi>
-      <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
-      <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>→ Bilder und Quellen: Bilder. Gutzkows Zeitgenossen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head type="level-3">
+        <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Keller wuchs als Sohn eines früh (1823) verstorbenen Drechslermeisters in Zürich auf, bildet sich als Maler aus, setzte seine Malstudien 1840/42 in München fort und ging zurück nach Zürich. Er studierte von 1848 bis 1850 in Heidelberg, lebte von 1850 bis 1855 als freier Schriftsteller in Berlin, verkehrte hier im Hause des Verlegers Franz Duncker sowie mit Ludmilla Assing, Adolf Stahr und Fanny Lewald. Seite Ende 1855 wohnte er wieder in Zürich. 1861 wurde Keller zum ersten Staatsschreiber des Kantons Zürich gewählt. Das Amt übte er bis 1876 aus, danach lebte er bis zu seinem Tod als freier Schriftsteller. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
+      <tei:head type="level-3">
+        <tei:hi style="font-weight-bold">Gutzkow und Keller</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Keller traf mit Gutzkow im Dezember 1855 bei Hermann Hettner in Dresden zusammen; sein anfängliches Interesse für Gutzkow, dessen "Ritter vom Geiste" er 1850 aufgeschlossen zur Kenntnis genommen hatte, änderte sich spätestens Mitte 1856, als eine – von Keller als bösartiger Verriß aufgefaßte – Besprechung seiner "Leute von Seldwyla" in den "Unterhaltungen am häuslichen Herd" erschien. Fortan stand Keller Gutzkow ausgesprochen kritisch und gereizt gegenüber.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Kellers</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2003. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Wolfgang Rasch.</tei:seg>
-        <tei:seg> Seite angelegt im Juli 2003.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:04</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>

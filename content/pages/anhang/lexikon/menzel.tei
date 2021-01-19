@@ -4,10 +4,14 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Menzel, Wolfgang</tei:title>
-        <tei:author>Ute Schneider</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:author>Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="UteSchneider">
+          <tei:resp>Autorin</tei:resp>
+          <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,62 +37,103 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2001-09-06" who="#UteSchneider">1.0</tei:change>
+      <tei:change when="2021-01-18" who="#WolfgangRasch">1.1: Neufassung, beginnende Ausarbeitung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">WOLFGANG MENZEL</tei:hi>
-        <tei:seg> (1798-1873), gefürchteter Literaturkritiker und Publizist. Er war von 1826 bis 1849 Redakteur des </tei:seg>
-        <tei:seg>"Literaturblatts"</tei:seg>
-        <tei:seg>. Zunächst Anhänger des nationalen Einheitsgedankens und Mitglied der Jenaer </tei:seg>
-        <tei:seg>Burschenschaft</tei:seg>
-        <tei:seg>, leistete Menzel später durch seine konservative Literaturkritik den politischen Zielen Metternichs Unterstützung. 1835 löste er mit seiner ruinösen Rezension von Gutzkows Roman </tei:seg>
-        <tei:seg>Wally, die Zweiflerin</tei:seg>
-        <tei:seg> und einer gegen die Autoren des "Jungen Deutschland" gerichteten Artikelserie im "Literaturblatt" das Verbot der Schriften Karl Gutzkows, Heinrich Laubes, Ludolf Wienbargs, Theodor Mundts und Heinrich Heines aus.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Menzel, Wolfgang</tei:hi>
         <tei:seg> </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
-        <tei:seg>.</tei:seg>
-        <tei:seg> </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Wolfgang Menzel (1798-1873), Kritiker, Redakteur, Literaturhistoriker u. Politiker in Stuttgart; 1832/34 Förderer Gutzkows, danach sein entschiedener Gegner. </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Im Herbst 1835 trug er mit seiner Rezension von Gutzkows Roman "Wally, die Zweiflerin" und mehrerer gegen Autoren des Jungen Deutschland gerichtete Artikel im "Literaturblatt" zum Verbot der Schriften Karl Gutzkows, Heinrich Laubes, Ludolf Wienbargs, Theodor Mundts und Heinrich Heines durch den Deutschen Bundestag bei. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>→ Bilder und Quellen: Bilder. Gutzkows Zeitgenossen. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Allgemeines </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Menzel wurde als Sohn eines Medizinalrats und Brunnenarztes im schlesischen Waldenburg geboren und besuchte seit 1814 das Gymnasium in Breslau. 1818 bezog er die Universität Jena, wurde als Student Mitglied der Urburschenschaft und flüchtete nach der Ermordung Kotzebues und der einsetzenden Demagogenverfolgung 1820 in die Schweiz. 1825 übernahm Menzel in Stuttgart die Redaktion des "Literatur-Blatts" (der kritischen Beilage von Cottas "Morgenblatt für gebildete Stände"), das er bis 1849 redigierte. Von 1831 bis 1838 war er Abgeordneter der württembergischen Zweiten Kammer, nach 1850 freier Publizist in Stuttgart, wo er das frühere "Literatur-Blatt" nunmehr im Selbstverlag als "Wolfgang Menzels Literaturblatt" von 1852 bis 1869 herausgab. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Als Literaturkritiker kommt Menzel das Verdienst zu, eine bewußte Verbindung von schöner Literatur mit nationalen, politischen und gesellschaftlichen Interessen gefordert und die Politisierung der Literatur gefördert zu haben. Neben Börne war er einer der heftigsten Gegner Goethes, den er als sittlich suspekten, vor allem unpatriotischen Fürstenknecht verachtete. Menzels einst fortschrittliche Rolle desavouierte er selbst 1835/36, als er den Kampf gegen die „unmoralische Literatur“, gegen das Junge Deutschland ausrief. Seine nationale, christlich-konservative Haltung wurde betont chauvinistisch und antisemitisch. Sein Einfluss auf die literarische Szene nahm nach 1836 jedoch deutlich ab und erstreckte sich nach 1850 nur noch auf eine kleine Schar treuer Anhänger. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Menzel und Gutzkow</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Menzels Werk "Die deutsche Literatur" (1828) und seine Literaturkritiken im "Literatur-Blatt" waren wegen ihres Postulats, die Literatur solle sich auf nationale Interessen beziehen, für das Literaturverständnis des jungen Gutzkow von zentraler Bedeutung. Gutzkows erste Zeitschrift "Forum der Journal-Literatur" (1831) sollte Menzel publizistisch von Berlin aus unterstützen; das Blatt schuf die Verbindung zum Stuttgarter Literaturpapst, den Gutzkow erstmals im Winter 1831/32 besuchte; von Ende 1831 bis 1833 war Gutzkow Menzels wichtigster Mitarbeiter am "Literatur-Blatt". </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Unter dem Einfluß Laubes und Wienbargs nabelte sich Gutzkow mehr und mehr von Menzel ab; im Frühjahr 1834 kam es wegen einer ironischen Bemerkung Gutzkows im Vorwort zu seinen "Novellen" zu einer ernsthaften Verstimmung, im Herbst 1834 zum Bruch. Gutzkows viel beachtete Redaktion des "Literatur-Blatts" zum "Phönix" betrachtete Menzel mit zunehmender Eifersucht, den Plan zur Gründung einer "Deutschen Revue" im Sommer 1835 scheint er als bedrohliche Konkurrenz zu seinem "Literatur-Blatt" angesehen zu haben. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Menzel eröffnete im September 1835 mit einer polemischen und sehr persönlichen Kritik von Gutzkows Roman "Wally" die öffentliche Diskriminierung Gutzkows und die Treibjagd auf das Junge Deutschland; ohne Zweifel war es dabei sein Ziel, die Existenz seines ehemaligen Anhängers zu ruinieren. Mit seiner fanatischen Polemik rief er jene reaktionären Politiker auf den Plan, die im Dezember 1835 die rigorose Verfolgung des Jungen Deutschland beschlossen. Nach 1836 setzte er seinen Kampf gegen das Junge Deutschland fort, geriet aber, von Börne als „Franzosenfresser“, von Heine als „Denunziant“ gebrandmarkt, immer mehr ins Abseits. Die Werke Gutzkows und der Jungdeutschen ignorierte er als Kritiker seit 1837 konsequent.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Briefe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Briefe an Wolfgang Menzel. Für die Litteraturarchiv-Gesellschaft hrsg. von Heinrich Meisner u. Erich Schmidt. Mit einer Einl. von Richard M[oritz] Meyer.	Berlin: Verl. d. Litteraturarchiv-Gesellschaft, 1908. - (Briefe Gutzkows an Menzel vom 25. Januar 1831, 2. Oktober 1831, 8. Juni 1833, 20. September 1833, 11. Oktober 1833, 21. März 1834 auf den Seiten 69-83.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Forschungsliteratur (speziell zum Verhältnis Menzel-Gutzkow)</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Heinrich Hubert </tei:seg>
+        <tei:hi style="font-weight-bold">Houben</tei:hi>
+        <tei:seg>: Literarische Lehr- und Wanderjahre. In: Heinrich Hubert Houben: Gutzkow-Funde. Beiträge zur Litteratur- und Kulturgeschichte des neunzehnten Jahrhunderts. Berlin: Wolff, 1901. S. 1-40. (Behandelt vornehmlich Gutzkow und Menzel.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Erich </tei:seg>
+        <tei:hi style="font-weight-bold">Harsing</tei:hi>
+        <tei:seg>: Wolfgang Menzel und das junge Deutschland. Düsseldorf: Ohligschläger, 1909. - </tei:seg>
+        <tei:hi style="font-size-small">Darin vielfache Bezugnahme auf Gutzkow sowie auf den Seiten 1730 das Unterkapitel "Menzel und Gutzkow".)</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Emil </tei:seg>
+        <tei:hi style="font-weight-bold">Jenal</tei:hi>
+        <tei:seg>: Der Kampf gegen das Junge Deutschland. – Die Denunziantenfrage. In: Emil Jenal: Wolfgang Menzel als Dichter, Literarhistoriker und Kritiker. Berlin: Junker &amp; Dünnhaupt, 1937. S. 124-139. (Neue deutsche Forschungen. Abteilung Neuere deutsche Literaturgeschichte. Bd. 10.) - </tei:seg>
+        <tei:hi style="font-size-small">Behandelt vornehmlich den Konflikt zwischen Gutzkow und Menzel um "Wally, die Zweiflerin".</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Wilhelm </tei:seg>
+        <tei:hi style="font-weight-bold">Winkler</tei:hi>
+        <tei:seg>: Menzels Verhältnis zu Gutzkow. In: Wilhelm Winkler: Wolfgang Menzels Bedeutung in den geistigen Auseinandersetzungen des 19. Jhs. Breslau: Priebatsch, 1938. S. 55-64. (Sprache und Kultur der germanisch-romanischen Völker. B. Germanistische Reihe. Bd. 25).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">Ingrid u. Günter Oesterle</tei:hi>
+        <tei:seg>: Der literarische Bürgerkrieg. Gutzkow, Heine, Börne wider Menzel. Polemik nach der Kunstperiode und in der Restauration. In: Gert Mattenklott, Klaus R. Scherpe: Demokratisch-revolutionäre Literatur in Deutschland: Vormärz. Kronberg/Ts.: Scriptor Verl., 1974. S. 151-185.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">Bernd Füllner</tei:hi>
+        <tei:seg>: "… es zieht mich hin zu dem Manne; denn süsser als Honig fliesst ihm die Rede." Karl Gutzkow und Wolfgang Menzel – freundliche Annäherung, erbitterte Feindschaft. In: Wolfgang Lukas, Ute Schneider (Hrsg.): Karl Gutzkow (1811-1878). Publizistik, Literatur und Buchmarkt zwischen Vormärz und Gründerzeit. Wiesbaden: Harrassowitz, 2013. S. 209-222.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
+        <tei:seg>  </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>(Ute Schneider, Mainz / N.N.)</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Ute Schneider.</tei:seg>
-        <tei:seg> Seite angelegt am 06.09.2001.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:08</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>

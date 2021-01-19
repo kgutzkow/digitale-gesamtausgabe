@@ -3,11 +3,15 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>Kottenkampf, Franz</tei:title>
-        <tei:author> </tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:title>Kottenkamp, Franz</tei:title>
+        <tei:author> Martina Lauster</tei:author>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Autorin</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,135 +37,142 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2001-09-30" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2021-01-16" who="#WolfgangRasch">1.1: Anpassungen u. kleine Ergänzungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">FRANZ KOTTENKAMP</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg>(1806-1858), Philologe und Historiker. Er war als freier Schriftsteller und Übersetzer tätig und mit Gutzkow in den dreißiger Jahren in Berlin und Frankfurt befreundet, von dem er politisch sowie als Kenner englischer Literatur und Kultur geschätzt wurde.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Kottenkamp, Franz</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Franz Kottenkamp (1806-1858), Schriftsteller, Übersetzer, Journalist, Historiker. Er war mit Gutzkow in den 1830er Jahren in Berlin und Frankfurt befreundet, von dem er politisch sowie als Kenner englischer Literatur und Kultur geschätzt wurde.</tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
-      <tei:p>
-        <tei:seg>Obwohl Kottenkamp nicht zum Mitarbeiterstab von Gutzkows Zeitschriften gehörte, stand er den Jungdeutschen nahe. Im November 1835 meldete er sich mit einem Beitrag zu Wort, der sich mit dem Streit zwischen Menzel und der jungen Literatur' auseinandersetzte: G[ent]z[e]l: Parteien-Kampf. Thema: Anti-Menzel oder Wolfgang Menzel vom Standpunkt der historischen Kritik aus betrachtet. In: Der Gesellschafter, 181. Blatt, 11. November 1835, S. 893-894 (Rasch 9/2.35.11.11). Offensichtlich brachte ihm seine Nähe zu Gutzkow Ende 1835 ein Aufenthaltsverbot in Frankfurt ein (Rasch 9/2.35.12.02).</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Kottenkamp wurde am 23. Januar 1806 im westfälischen Iserlohn geboren. Er studierte in den 1820er Jahren in Heidelberg, lebte seit etwa 1830 in Berlin, 1835 in Frankfurt/M., seit 1836 in Stuttgart, wo er 1840 Ottilie Schott heiratete, Tochter des liberalen württembergischen Politikers und Juristen Albert Schott ( 1782 - 1861). Kottenkamp wurde Redaktionsmitglied der "Allgemeinen Zeitung" und zog mit seiner Frau nach Augsburg, wo er am 23. September 1858 starb.</tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Gutzkow und Kottenkamp</tei:hi>
-      <tei:p>
-        <tei:seg>Gutzkow begegnete Kottenkamp im Berliner Lesecafé </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>St</tei:seg>
-        <tei:seg>ehely; zwischen beiden entspann sich aufgrund ihrer ähnlichen politischen Haltung ein freundschaftliches Verhältnis. In den </tei:seg>
-        <tei:seg>Rückblicken auf mein Leben</tei:seg>
-        <tei:seg> erinnert sich Gutzkow mehrfach an Kottenkamp:</tei:seg>
-        <tei:seg> Auf die Länge schienen mir im Sommer 1832 bei Stehely zwei Namen unverfänglich zu sein, zum engern Anschluß geeignete Nichtverräter und Nichtspione. Der eine war Doktor </tei:seg>
-        <tei:hi style="font-weight-bold">Sobernheim</tei:hi>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Kottenkamp wurde von Gutzkow 1835 als Übersetzer für die Werkausgabe Victor Hugos, die bei Sauerländer erschien, gewonnen. Auch sollte er Beiträge zur geplanten "Deutschen Revue" liefern. In einem Prospekt der "Deutschen Revue" des Verlegers Carl Löwenthal heißt es im November 1835: "Eine neue Revision der Lichtenbergischen Erklärung Hogarths ist uns von Franz Kottenkamp, einem tüchtigen Kenner Englands, versprochen worden." ("Deutsche Revue" und "Deutsche Blätter". Zwei Zeitschriften des jungen Deutschland. Hg. von Alfred Estermann. Frankfurt/M.: Athenäum, 1971, S. 92.) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wie stark sich Kottenkamp der jungdeutschen Bewegung zugehörig fühlt, belegt eine Schrift aus dem Herbst 1835, in der er gegen Wolfgang Menzel Partei ergreift: "Anti-Menzel, oder Wolfgang Menzel vom Standpunkte der historischen Kritik aus betrachtet" (Rasch 9/2.35.1). Die Verbindung mit Gutzkow brachte ihm ebenso wie Ludolf Wienbarg und Ludwig Wihl Ende 1835 ein Aufenthaltsverbot in Frankfurt ein (Rasch, Gutzkow-Doku, S. 60, Konfidentenbericht vom 15. November 1835).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Gutzkow und Kottenkamp</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Gutzkow begegnete Kottenkamp im Berliner Lesecafé → Stehely; zwischen beiden entspann sich aufgrund ihrer ähnlichen politischen Haltung ein freundschaftliches Verhältnis. In den "Rückblicken auf mein Leben" erinnert sich Gutzkow mehrfach an Kottenkamp: "Auf die Länge schienen mir im Sommer 1832 bei Stehely zwei Namen unverfänglich zu sein, zum engern Anschluß geeignete Nichtverräter und Nichtspione. Der eine war Doktor </tei:seg>
+        <tei:hi style="letter-sparse">Sobernheim</tei:hi>
         <tei:seg>, der andre ein Doktor </tei:seg>
-        <tei:hi style="font-weight-bold">Kottenkamp</tei:hi>
-        <tei:seg>. Jener ein Mediziner, dieser Philologe. Beide saßen täglich um dieselbe Zeit an derselben Stelle und schlürften ihren Mokka, damals ohne Zigarre. Jener las den "Temps" oder das "Journal des Débats" (der "National" </tei:seg>
-        <tei:seg>[</tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg> Thiers]</tei:seg>
-        <tei:seg> war verboten), dieser die "Times". Beide betrieben, ohne sich zu kennen, dieselbe Spezialität. Sie waren Konkurrenten, ohne es zu wissen! Sie verfaßten Dissertationen für medizinische Doktoranden. Sobernheim war ein Enthusiast für den berühmten Peter Frank, dessen Werke er herausgegeben hat. Mit Gewandtheit schrieb er Latein </tei:seg>
-        <tei:seg>[...]</tei:seg>
-        <tei:seg>. Dieser, ein geborener Friese, Landsmann seines Lehrers, des Historikers Schlosser in Heidelberg, hatte seltne Kenntnisse in der Geschichte und sprach ein vortreffliches Englisch, das er sich in England selbst angeeignet hatte. Mit diesen beiden eigentümlichen Menschen </tei:seg>
-        <tei:seg>[...]</tei:seg>
-        <tei:seg> war ein Austausch von Ansichten in jenem Geiste Süddeutschlands möglich, dem entrückt zu sein ich nach allen Richtungen hin peinlich zu fühlen begann. </tei:seg>
-        <tei:seg>(GE, Bd 9, S. 75) Als Gutzkow sich dann als Publizist in Frankfurt niederlässt, holt er Kottenkamp in dieses ihnen beiden politisch zusagende süddeutsche' Ambiente nach: </tei:seg>
-        <tei:seg>Meinen Freund Kottenkamp zog ich auf seinen Wunsch von Stehely und den für andre geschriebenen Doktordissertationen Berlins nach Frankfurt. Buchhändlerische Aufträge, die ich ihm verschaffte, fristeten seine Existenz, bis ihn in spätern Jahren die "Allgemeine Zeitung" in ihre Redaktion aufnahm. </tei:seg>
-        <tei:seg>(GE, Bd 9, S. 138) Seine Wertschätzung des Schriftstellers Kottenkamp sprach Gutzkow 1836 in der Rezension von "Die Engländer" aus, einem Werk, das mit Sicherheit die Konzeption der </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Zeitgenossen</tei:seg>
-        <tei:seg> beeinflusst hat. Auch in </tei:seg>
-        <tei:seg>Vergangenheit und Gegenwart</tei:seg>
-        <tei:seg>, erschienen Ende 1838, hebt Gutzkow Kottenkamps Verdienste auf dem Gebiet der Genreliteratur hervor, jener </tei:seg>
-        <tei:seg>Mischgattung </tei:seg>
-        <tei:seg>[...]</tei:seg>
-        <tei:seg>, welche sich mit der Darstellung von Reisen, Zuständen und Bagatellen beschäftigt und sich dazu der Form des einfachen Berichtes oder der Bilder-Skizzen und Aquarellmanier bedient. </tei:seg>
-        <tei:seg>(In: Jahrbuch der Literatur. Hamburg: Hoffmann und Campe, 1839, S. 106)</tei:seg>
+        <tei:hi style="letter-sparse">Kottenkamp</tei:hi>
+        <tei:seg>. Jener ein Mediziner, dieser Philologe. Beide saßen täglich um dieselbe Zeit an derselben Stelle und schlürften ihren Mokka, damals ohne Zigarre. Jener las den 'Temps' oder das 'Journal des Débats' (der 'National' [→  Thiers] war verboten), dieser die 'Times'. Beide betrieben, ohne sich zu kennen, dieselbe Spezialität. Sie waren Konkurrenten, ohne es zu wissen! Sie verfaßten Dissertationen für medizinische Doktoranden. Sobernheim war ein Enthusiast für den berühmten Peter Frank, dessen Werke er herausgegeben hat. Mit Gewandtheit schrieb er Latein [...]. Dieser, ein geborener Friese, Landsmann seines Lehrers, des Historikers Schlosser in Heidelberg, hatte seltne Kenntnisse in der Geschichte und sprach ein vortreffliches Englisch, das er sich in England selbst angeeignet hatte. Mit diesen beiden eigentümlichen Menschen [...] war ein Austausch von Ansichten in jenem Geiste Süddeutschlands möglich, dem entrückt zu sein ich nach allen Richtungen hin peinlich zu fühlen begann." (GWB VII, Bd. 2, S. 85-86.) </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Selbständig erschienene Werke Kottenkamps</tei:hi>
-      <tei:p>
-        <tei:seg>Allgemeine Geschichte der neuesten Zeit von dem Ende des Jahres 1830 _▄ [...]¯▀. Ein Supplement-Band zu E. Münch's Allgemeiner Geschichte. _▄Verlagsort, Verlag¯▀, 1833.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Als Gutzkow sich dann als Publizist in Frankfurt niederlässt, holt er Kottenkamp in dieses ihnen beiden politisch zusagende süddeutsche Ambiente nach: "Meinen Freund Kottenkamp zog ich auf seinen Wunsch von Stehely und den für andre geschriebenen Doktordissertationen Berlins nach Frankfurt. Buchhändlerische Aufträge, die ich ihm verschaffte, fristeten seine Existenz, bis ihn in spätern Jahren die 'Allgemeine Zeitung' in ihre Redaktion aufnahm." (GWB VII, Bd. 2, S. 166.) </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Die Engländer. Mannheim: Heinrich Hoff, 1836.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Seine Wertschätzung des Schriftstellers Kottenkamp sprach Gutzkow 1836 in der Rezension von "Die Engländer" aus, einem Werk, das mit Sicherheit die Konzeption der → "Zeitgenossen" beeinflusst hat. Auch in "Vergangenheit und Gegenwart", erschienen Ende 1838, hebt Gutzkow Kottenkamps Verdienste auf dem Gebiet der Genreliteratur hervor, jener "Mischgattung [...], welche sich mit der Darstellung von Reisen, Zuständen und Bagatellen beschäftigt und sich dazu der Form des einfachen Berichtes oder der Bilder-Skizzen und Aquarellmanier bedient." (eGWB IV, Bd. 6.2, pdf 1.0, S. 64.)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Der Unabhängigkeitskampf der spanisch-amerikanischen Kolonien. Stuttgart: _▄Verlag¯▀, 1838.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Selbständig erschienene Werke Kottenkamps</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Anti-Menzel, oder Wolfgang Menzel vom Standpunkte der historischen Kritik aus betrachtet. Stuttgart: Balz, 1835. </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>William Hogarth's Zeichnungen. Nach den Originalen in Stahl gestochen. Mit der vollständigen Erklärung derselben von G. C. Lichtenberg. Herausgegeben mit Ergänzung und Fortsetzung derselben, nebst einer Biographie Hogarth's, von Dr. Franz Kottenkamp. Stuttgart: _▄Verlag¯▀, 1840. Zweite verbesserte Auflage. Stuttgart: Riegersche Verlagsbuchhandlung, 1857. Dritte aufs neue durchgesehene und verbesserte Auflage. Stuttgart: _▄Verlag¯▀, 1873.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Die Engländer. Mannheim: Hoff, 1836.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Der Rittersaal. Eine Geschichte des Ritterthums, seines Entstehens und Fortgangs, seiner Gebräuche und Sitten. Artistisch erläutert von F. M. Reibisch, historisch beleuchtet von Franz Kottenkamp. Stuttgart: _▄Verlag¯▀, 1842.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Allgemeine Geschichte der neuesten Zeit von dem Ende des großen Kampfes der europäischen Mächte wider Napoleon Bonaparte, bis auf unsere Tage; Suppl.-Bd. [1]: Allgemeine Geschichte der neuesten Zeit von dem Ende des Jahres 1830. Stuttgart: Literatur-Comptoir, 1837.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Die neuesten Weltbegebenheiten nach authentischen Quellen bearbeitet. 28 Theile, Stuttgart: _▄Verlag¯▀, 1848-50.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der Unabhängigkeitskampf der spanisch-amerikanischen Kolonien. Stuttgart: Literatur-Comptoir, 1838.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Geschichte der Kolonisation Amerika's. 2 Bde, Frankfurt/M.: _▄Verlag¯▀, 1850. </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>William Hogarth's Zeichnungen. Nach den Originalen in Stahl gestochen. Mit der vollständigen Erklärung derselben von G. C. Lichtenberg. Herausgegeben mit Ergänzung und Fortsetzung derselben, nebst einer Biographie Hogarth's, von Dr. Franz Kottenkamp. Stuttgart: Scheible, Rieger u. Sattler, 1839-1840. </tei:seg>
+        <tei:hi style="font-size-small">(Zweite verbesserte Auflage. Stuttgart: Riegersche Verlagsbuchhandlung, 1857. - Dritte aufs neue durchgesehene und verbesserte Auflage: Stuttgart: Rieger, 1873.)</tei:hi>
       </tei:p>
-      <tei:hi style="font-weight-bold">Übersetzungen</tei:hi>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der Rittersaal. Eine Geschichte des Ritterthums, seines Entstehens und Fortgangs, seiner Gebräuche und Sitten. Artistisch erläutert von Friedrich Martin Reibisch, historisch beleuchtet von Franz Kottenkamp. Stuttgart: Hoffmann, 1842.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Die neuesten Weltbegebenheiten nach authentischen Quellen bearbeitet. 28 Theile, Stuttgart: Rieger, 1848-50.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Geschichte der Kolonisation Amerika's. 2 Bde, Frankfurt/M.: Literarische Anstalt, 1850.  </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:hi style="font-weight-bold">Übersetzungen</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Philippe Comte de Ségur: Geschichte Napoleons und der großen Armee in Jahre 1812. Nach der 10. Aufl. aus dem Franz. übers. von Kottenkamp. Mannheim : Hoff, 1835.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Victor Hugo: Cromwell. Drama. Deutsch von F[ranz] Kottenkamp. Frankfurt/M.: Sauerländer, 1835. (Sämmtliche Werke. Bd. 8.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Victor Hugo: Notre-Dame von Paris. Deutsch von Franz Kottenkamp. 1.-3. Theil. Frankfurt/M.: Sauerländer, 1836. (Sämmtliche Werke. Bd. 13-15.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Die Staatsmänner während der Regierungs-Epoche Georgs III. Mit Bemerkungen über Parteikämpfe und einem historischen Anhang. Aus dem Englischen des Henry Lord Brougham. 2 Bde, Pforzheim: Dennig, Finck &amp; Co., 1839-1840.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Jonathan Swift: Gullivers Reisen. _▄Verlagsort, Verlag, 1839. Zweite Auflage 1843¯▀.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Jonathan Swift: Gulliver's Reisen in unbekannte Länder. Aus dem Engl. neu übers. von Fr[anz] Kottenkamp. 2 Bde., mit 450 Bildern u. Vignetten von Grandville. Stuttgart: Krabbe, 1839. (Zweite Auflage 1843).</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Milton's Verlorenes Paradies. _▄Mit einer Biographie Miltons. Verlagsort, Verlag¯▀, 1841.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Milton's Verlorenes Paradies. Aus dem Engl. von Kottenkamp. Nebst einer Biographie Milton's vom Uebersetzer.  Pforzheim: Dennig, Finck &amp; Comp., 1841.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Lord Byron's sämmtliche Werke _▄ [...] [Übersetzt von Kottenkamp und anderen] Verlagsort, Verlag¯▀, 1842.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Swift's Humoristische Werke. _▄Verlagsort, Verlag¯▀, 1844.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Swift's Humoristische Werke.  Aus dem Engl. übers. u. mit der Geschichte seines Lebens und Wirkens bereichert von Franz Kottenkamp. 3 Bde. Stuttgart: Scheible, Rieger u. Sattler, 1844.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Edward Lytton Bulwer: Pelham oder die Abenteuer eines Gentleman. 2 Bde, _▄Verlagsort, Verlag¯▀, 1845.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Edward Lytton Bulwer: Alice oder die Geheimnisse. 2 Bde. Stuttgart: Scheible, Rieger u. Sattler,  1845.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>P. P. de Ségur: Geschichte Napoleons. _▄Verlagsort, Verlag¯▀, 1850.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Edward Lytton Bulwer: Maltravers. 2 Bde. Stuttgart: Scheible, Rieger u. Sattler,  1845.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Edward Lytton Bulwer: Pelham oder die Abenteuer eines Gentleman. (6 Teile) 2 Bde. Stuttgart: Scheible, Rieger u. Sattler,  1845.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Allgemeine illustrirte Gewerbelehre _▄ [...] Meist aus dem Englischen übersetzt. Verlagsort, Verlag¯▀, 1852</tei:seg>
       </tei:p>
-      <tei:seg> </tei:seg>
-      <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-      <tei:p>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Literarische Übersichten von K[arl] G[utzkow]. XIV. [Die Engländer. Von Franz Kottenkamp. - Rückblicke auf Personen und Zustände. Von Eduard Gans.] In: Europa, Bd 4 (1836) [Lfg. 1, Oktober], S. 43-45 (Rasch 3.36.10.1)</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>[Anon.; Verfasser ungesichert.:] Zahme Persönlichkeiten. [Darin auch über Kottenkamp.] In: Beurmanns Telegraph. Neueste Folge, Nr. 16, [28.] Oktober 1837, S. 121-125.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Die Zeitgenossen: ZgWWW, Globalkommentar: 6.1.2.1. Der 'öffentliche Charakter', (zu "Die Staatsmänner"; zu "Die Engländer"). [S.48, 52-53]</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Vergangenheit und Gegenwart. 1830-1838. In: Jahrbuch der Literatur. Hamburg: Hoffmann und Campe, 1839, S. 1-110; bes. S. 106-107 (= eGWB IV, Bd. 6.2, pdf 1.0, S. 64-65.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>(Martina Lauster, Exeter)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: .</tei:seg>
-        <tei:seg> Seite angelegt am 30.09.2001.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>05.10.2002 2:30</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow/ oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
