@@ -4,10 +4,14 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Lewald, August</tei:title>
-        <tei:author>Martina Lauster</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:author>Martina Lauster u. Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Autorin</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,184 +37,177 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2001-09" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2021-01-20" who="#WolfgangRasch">1.1: Anpassungen u. Ergänzungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">AUGUST LEWALD</tei:hi>
-        <tei:seg> (1792-1871)</tei:seg>
-        <tei:seg>, Schriftsteller und Publizist, Onkel Fanny Lewalds, Gründer der "Europa" und ihr Herausgeber von 1835 bis 1846. Programm und Aufmachung dieser Zeitschrift waren maßgebend für jungdeutsche Journale. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Bilder und Quellen: Bilder. Gutzkows Zeitgenossen</tei:seg>
-        <tei:seg>.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Lewald, August</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>August Lewald (1792-1871), Schriftsteller und Publizist, Gründer der Zeitschrift "Europa, Chronik der gebildeten Welt" und ihr Herausgeber von 1835 bis 1846. Programm und Aufmachung dieser Zeitschrift waren maßgebend für jungdeutsche Journale.</tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Allgemeines </tei:hi>
-      <tei:hi style="font-weight-bold">Gutzkow und Lewald </tei:hi>
-      <tei:p>
-        <tei:seg>In Lewalds publizistischer Tätigkeit, seiner weltmännischen Gewandtheit und seinen Bemühungen um eine Reform des deutschen Theaters sah Gutzkow während der 1830er Jahre ein Vorbild. Die nachmärzliche Konversion Lewalds zum Katholizismus setzte diesem Verhältnis jedoch ein Ende. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>  </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Lewalds (Auswahl) </tei:hi>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>→ Bilder und Quellen: Bilder. Gutzkows Zeitgenossen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Allgemeines </tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Lewald, Sohn eines jüdischen Kaufmanns in Königsberg, machte eine kaufmännische Lehre, trat 1812 vom jüdischen zum protestantischen Glauben über, beteiligte sich 1815 als preußischer Freiwilliger am Krieg gegen Napoleon, wurde 1818 Schauspieler, übernahm 1824 die Leitung des Nürnberger, 1826 die des Bamberger Stadttheaters, war nebenher Mitredakteur des "Nürnberger Korrespondenten von und für Deutschland", ging 1827 als Theaterdichter und -sekretär nach Hamburg, wo er Heine kennenlernte, reiste 1831 nach Paris und siedelte von dort 1832 nach München über, wo er 1833 die kurzlebigen "Unterhaltungen für das Theater-Publikum" herausgab. 1834 zog er nach Stuttgart, gründete dort die Zeitschrift "Europa, Chronik der gebildeten Welt", die zu einer der angesehensten Kulturzeitschriften des Vormärz wurde. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>1846 verkaufte Lewald sein Blatt an Ferdinand Gustav Kühne, lebte zeitweilig in Wien und Frankfurt und war schließlich bis zu seiner Pensionierung 1863 Regisseur am Stuttgarter Hoftheater. Lewald konvertierte 1852 zum Katholizismus und publizierte fortan nur noch im Geiste der ultramontanen Bewegung. Nach seiner Pensionierung privatisierte er in Baden-Baden, dann in München, wo er 1871 starb.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Verheiratet war Lewald mit der früheren Schauspielerin Katharina Wied (1814-1879), genannt "Kathi".</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>August Lewald war ein Vetter von Fanny Lewalds Vater David Markus (seit 1812 Lewald). Er förderte die schriftstellerischen Anfänge seiner Nichte Fanny, die erste Arbeiten seit 1840 in der "Europa" veröffentlichte. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Gutzkow und Lewald </tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Lewald und Gutzkow lernten sich 1833 in München kennen, begegneten sich im Spätherbst 1834 in Stuttgart wieder, wo sie mit den Schauspielern Heinrich Moritz und Karl Seydelmann einen Freundeskreis bildeten; im Sommer 1835 unternahmen Lewald und Gutzkow eine Rheinreise; trotz der Ächtung Gutzkows durch den Deutschen Bundestag engagierte ihn Lewald 1836 als Literaturkritiker für seine Zeitschrift "Europa". Mißhellig-keiten wegen nur schleppend erfolgter Honorarzahlungen führten zu einem Dissens zwischen Lewald und Gutzkow; 1838 söhnte sich Gutzkow mit Lewald aus. Der außerordentlich theaterkundige Lewald förderte seit 1839 publizistisch Gutzkows Arbeit als Theaterdichter mit Beiträgen in der "Europa". Die Freundschaft zu Lewald blieb ungetrübt, auch wenn die Kontakte nach 1846 immer spärlicher wurden. In den 1850er besuchte Lewald noch einmal (letztmalig?) Gutzkow in Dresden. Für Gutzkows Familienblatt "Unterhaltungen am häuslichen Herd" lieferte er einige Beiträge.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>In Lewalds publizistischer Tätigkeit, seiner weltmännischen Gewandtheit und seinen Bemühungen um eine Reform des deutschen Theaters sah Gutzkow während der 1830er Jahre ein Vorbild.  </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Lewalds (Auswahl) </tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Novellen. 3 Bde. Hamburg: Hoffmann &amp; Campe, 1831/33. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Album aus Paris. 2 Thle. Hamburg: Hoffmann &amp; Campe, 1832. </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Panorama von München. 2 Bde. Stuttgart: Hallberger, 1835. </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Seydelmann und das deutsche Schauspiel: für Kenner und Freunde der Bühne. Stuttgart: Liesching, 1835.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Seydelmann und das deutsche Schauspiel. Stuttgart: Liesching, 1835.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Aquarelle aus dem Leben. 6 Thle. Mannheim: Hoff, 1836-40. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Memoiren eines Banquiers. 2 Bde. Stuttgart: Scheible, 1836/37.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Das Buch der Gesellschaft für angehende Weltleute. Stuttgart: J.B. Müller, 1847. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Aquarelle aus dem Leben. 4 Bde. Mannheim: Hoff, 1836/37.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Neue Aquarelle aus dem Leben. 2 Bde. Stuttgart: Cast, 1840.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Theater-Roman. 5 Bde. Stuttgart: Krabbe, 1841. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Ein Menschenleben. 12 Bde. Leipzig: Brockhaus, 1844/46. (= Gesammelte Schriften. In einer Auswahl. )</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Entwurf zu einer praktischen Schauspielerschule. Wien: Wallishauser, 1846. </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Aus dem katholischen Leben der Gegenwart. Schaffhausen: Hurter, 1862. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Das Buch der Gesellschaft für angehende Weltleute. Stuttgart: J. B. Müller, 1847. </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Briefe </tei:hi>
-      <tei:hi style="font-weight-bold">Biographien </tei:hi>
-      <tei:hi style="font-weight-bold">Quellen </tei:hi>
-      <tei:hi style="font-weight-bold">Nachlass </tei:hi>
-      <tei:p>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Aus dem katholischen Leben der Gegenwart. Schaffhausen: Hurter, 1862.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Letzte Fahrten. 12 Reisebriefe aus dem Jahre 1870. Mainz: Kirchheim, 1871. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Bibliographie</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Karl Goedeke: Grundrisz zur Geschichte der deutschen Literatur. 2., ganz neu bearb. Auflage. Bd. 11, Halbbd. 1, hg. von Carl Diesch. Düsseldorf: Ehlermann, 1851. S. 509-515.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>(Nachträge in:) Karl Goedeke: Grundriß zur Geschichte der deutschen Literatur. 2., ganz neu bearb. Auflage. Bd. XVII. Von Herbert Jacob. Berlin, Akademie-Verl., 1989. S. 833-848. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg>Eoin </tei:seg>
-        <tei:hi style="font-weight-bold">Bourke</tei:hi>
-        <tei:seg>: "Wir wollen die große europäische Gesellschaft schildern, nach allen ihren Beziehungen, treu und wahr." Die Zeitschrift "Europa" von 1835 bis 1848. In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 27-43.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Ulrich </tei:seg>
-        <tei:hi style="font-weight-bold">Cruse</tei:hi>
-        <tei:seg>: August Lewald und seine zeitgeschichtliche Bedeutung. Breslau: Priebatsch, 1933.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Martina </tei:seg>
-        <tei:hi style="font-weight-bold">Lauster</tei:hi>
-        <tei:seg>: Moden und Modi des Modernen. Der frühe Gutzkow als Essayist. In: FVF Jahrbuch 1995. Bielefeld: Aisthesis, 1996. S. 59-95, bes. S. 91-94. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Martina </tei:seg>
-        <tei:hi style="font-weight-bold">Lauster</tei:hi>
-        <tei:seg>: Sketches of the Nineteenth Century. European Journalism and its 'Physiologies', 1830-50. Basingstoke: Palgrave Macmillan, 2007. S. 75-84. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:hi style="font-weight-bold">Zitat- und Belegstellen
-</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>[Anon.:] 30) Panorama von München. Von August Lewald. In: Phönix. Frankfurt/M. Literatur-Blatt. Nr. 12, 25. März 1835, S. 287-288.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836. Bd. 1, S. 305-312.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>ZgWWW, Apparat, S. 58-59. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Vergangenheit und Gegenwart. 1830-1838. In: Jahrbuch der Literatur. Hamburg: Hoffmann &amp; Campe, 1839. Reprint Frankfurt/M.: Athenäum, 1971. S. 1-110; bes. S. 104-106.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>August Lewald [1871]. In: GE, Bd. 11, S. 127-135. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>RueWWW, S. 2, 99-101, 103, 106-108, 139-140, 155, 236. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>(Martina Lauster, Exeter)</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg>© Editionsprojekt Karl Gutzkow, 2007. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
-        <tei:seg>Seite angelegt im September 2001.</tei:seg>
-        <tei:seg>Fassung: 1.1</tei:seg>
-        <tei:seg>Geschichte der Seitenänderungen: Informationen zur "Europa" modifiziert, Primär- und Sekundärliteratur ergänzt, Zitat- und Belegstellen aktialisiert Anfang Januar 2007. </tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>11.01.2007 12:48</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg>E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl) </tei:hi>
-      <tei:p>
-        <tei:seg>Eoin </tei:seg>
-        <tei:hi style="font-weight-bold">Bourke</tei:hi>
-        <tei:seg>: "Wir wollen die große europäische Gesellschaft schildern, nach allen ihren Beziehungen, treu und wahr." Die Zeitschrift "Europa" von 1835 bis 1848. In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 27-43.</tei:seg>
-      </tei:p>
-      <tei:p>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Ulrich </tei:seg>
         <tei:hi style="font-weight-bold">Cruse</tei:hi>
         <tei:seg>: August Lewald und seine zeitgeschichtliche Bedeutung. Breslau: Priebatsch, 1933.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Eoin </tei:seg>
+        <tei:hi style="font-weight-bold">Bourke</tei:hi>
+        <tei:seg>: "Wir wollen die große europäische Gesellschaft schildern, nach allen ihren Beziehungen, treu und wahr." Die Zeitschrift "Europa" von 1835 bis 1848. In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 27-43.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Martina </tei:seg>
         <tei:hi style="font-weight-bold">Lauster</tei:hi>
         <tei:seg>: Moden und Modi des Modernen. Der frühe Gutzkow als Essayist. In: FVF Jahrbuch 1995. Bielefeld: Aisthesis, 1996. S. 59-95, bes. S. 91-94. </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Martina </tei:seg>
         <tei:hi style="font-weight-bold">Lauster</tei:hi>
         <tei:seg>: Sketches of the Nineteenth Century. European Journalism and its 'Physiologies', 1830-50. Basingstoke: Palgrave Macmillan, 2007. S. 75-84. </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Zitat- und Belegstellen
-</tei:hi>
-      <tei:p>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Veronica </tei:seg>
+        <tei:hi style="font-weight-bold">Butler</tei:hi>
+        <tei:seg>: On- and Off-stage Theatre. Gutzkow and August Lewald. In: Karl Gutzkow and His Contemporaries / Karl Gutzkow und seine Zeitgenossen. Beiträge zur Internationalen Konferenz des Editionsprojektes Karl Gutzkow vom 7. bis 9. September 2010 in Exeter. Hrsg. von Gert Vonhoff, in Zusammenarbeit mit Beke Sinjen u. Sabrina Stolfa. Bielefeld: Aisthesis Verl., 2011. S. 341-357.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>(Martina Lauster, Exeter)</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Veronica </tei:seg>
+        <tei:hi style="font-weight-bold">Butler</tei:hi>
+        <tei:seg>: The analyst of manners, money and masks. August Lewald in the "Vormärz". Bielefeld: Aisthesis Verl., 2017.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg>© Editionsprojekt Karl Gutzkow, 2007. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">(Beiträge Gutzkows über Lewald:)</tei:hi>
       </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Martina Lauster.</tei:seg>
-        <tei:seg>Seite angelegt im September 2001.</tei:seg>
-        <tei:seg>Fassung: 1.1</tei:seg>
-        <tei:seg>Geschichte der Seitenänderungen: Informationen zur "Europa" modifiziert, Primär- und Sekundärliteratur ergänzt, Zitat- und Belegstellen aktialisiert Anfang Januar 2007. </tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>11.01.2007 12:48</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>[Anon.:] 30) Panorama von München. Von August Lewald. In: Phönix. Frankfurt/M. Literatur-Blatt. Nr. 12, 25. März 1835, S. 287-288. </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg>E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836. Bd. 1, S. 305-312. </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg> </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>ZgWWW, Apparat, S. 58-59.  </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Vergangenheit und Gegenwart. 1830-1838. In:  eGWB IV, Bd. 6.2, pdf 1.0, S. 64-65.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Theater-Roman. Von August Lewald. Erster und zweiter Band. In: eGWB IV, Bd. 6.1</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Theater-Roman. Von August Lewald. Dritter, vierter und fünfter Band.   In: eGWB IV, Bd. 6.1</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Winke für die Lesewelt. [Darin:] I. August Lewald's gesammelte Schriften.  In: eGWB IV, Bd. 6.1</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Eine männliche Gräfin Hahn-Hahn. [1871]. In: GWB VII, Bd. 3, S. 189-199; eGWB IV, Bd. 3</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Rückblicke auf mein Leben. In: GWB VII, Bd. 2, S. 100-101, 103, 106-108, 139-140, 155, 236-237.    </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>(Martina Lauster, Exeter) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>

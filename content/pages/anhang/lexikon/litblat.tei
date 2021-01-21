@@ -3,11 +3,11 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>Literaturblatt (Menzel)</tei:title>
+        <tei:title>Literatur-Blatt (Wolfgang Menzel)</tei:title>
         <tei:author>Ute Schneider</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="UteSchneider">
+          <tei:resp>Autorin</tei:resp>
+          <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,62 +33,39 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2001-09-06" who="#UteSchneider">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">LITERATURBLATT,</tei:hi>
-        <tei:hi style="font-size-large"> </tei:hi>
-        <tei:seg>populäre Rezensionszeitschrift (Stuttgart: Cotta 1817-1849). Zunächst erschien es als unselbständige literarische Beilage zu </tei:seg>
-        <tei:seg>Cottas</tei:seg>
-        <tei:seg> "Morgenblatt für gebildete Stände", dann bis 1849 mit eigenem Profil. Ab 1826 leitete </tei:seg>
-        <tei:seg>Wolfgang Menzel</tei:seg>
-        <tei:seg> das Literaturblatt, in dem vor allem die zeitgenössische Belletristik besprochen wurde. Mit einer Auflagenhöhe von 1800 Exemplaren war das Literaturblatt in der Mitte der dreißiger Jahre auf dem Höhepunkt seiner Wirkungskraft angelangt und wurde vorwiegend vom gebildeten Bürgertum in allen deutschen Staaten rezipiert. Ende der dreißiger/Anfang der vierziger Jahre hatte das Blatt sinkende Auflagenzahlen und verlor zunehmend seine Bedeutung als führendes Rezensionsorgan. 1852 bis 1869 setzte Menzel das Literaturblatt als selbständiges Journal fort.</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Literatur-Blatt</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>allgemeine Rezensionszeitschrift, die von 1817 bis 1849 als Beilage bzw. als Beiblatt zum "Morgenblatt für gebildete Stände" (Stuttgart und Tübingen: Cotta; ab 1837: "Morgenblatt für gebildete Leser") herauskam. </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Von 1817 bis 1819 erschien es als unselbständige Beilage innerhalb des Hauptblatts, seit 1820 zwei bis dreimal wöchentlich mit eigenem Profil. Zunächst redigiert von Adolf Müllner übernahm 1826 Wolfgang Menzel das Blatt, in dem vor allem die zeitgenössische Belletristik besprochen wurde. Menzels Name als verantwortlicher Redakteur erscheint in der Zeitschrift erst mit dem Jahrgang 1830. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Mit einer Auflagenhöhe von 1800 Exemplaren war das "Literatur-Blatt" in der Mitte der 1830er Jahre auf dem Höhepunkt seiner Wirkungskraft angelangt und wurde vorwiegend vom gebildeten Bürgertum in allen deutschen Staaten rezipiert. Ende der dreißiger/Anfang der vierziger Jahre hatte das Blatt sinkende Auflagenzahlen und verlor zunehmend seine Bedeutung als führendes Rezensionsorgan. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Von 1852 bis 1869 setzte Menzel das Literaturblatt als selbstständiges Journal unter dem Titel "Wolfgang Menzels Literaturblatt" im Verlag von Paul Neff bzw. im Eigenverlag in Stuttgart fort.   </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>(Ute Schneider, Mainz / N.N.)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Ute Schneider.</tei:seg>
-        <tei:seg> Seite angelegt am 06.09.2001.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:07</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
