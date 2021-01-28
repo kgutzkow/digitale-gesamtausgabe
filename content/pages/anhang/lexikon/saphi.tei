@@ -5,9 +5,9 @@
       <tei:titleStmt>
         <tei:title>Saphir, Moritz Gottlieb</tei:title>
         <tei:author>Wolfgang Rasch</tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,58 +33,128 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2003-07" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change when="2021-01-23" who="#WolfgangRasch">1.1: Anpassungen u. Ergänzungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">MORITZ GOTTLIEB SAPHIR</tei:hi>
-        <tei:seg> </tei:seg>
-        <tei:seg>(1795-1858), Schriftsteller und Journalist, Literatur- und Theaterkritiker, gab in Berlin von 1826 bis 1829 die "Berliner Schnellpost für Literatur, Theater und Geselligkeit" heraus, in der Gutzkow 1829 debütierte, und in Wien von 1837 bis 1858 "Der Humorist. Eine Zeitschrift für Scherz und Ernst, Kunst, Theater, Geselligkeit und Sitte". </tei:seg>
-        <tei:seg> → </tei:seg>
-        <tei:seg>Bilder und Materialien: Bilder. Gutzkows Zeitgenossen</tei:seg>
-        <tei:seg>.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Saphir, Moritz Gottlieb </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-1"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Moritz Gottlieb Saphir (1795-1858), Schriftsteller und Journalist, Literatur- und Theaterkritiker; lebte von Ende 1825 bis zu seiner Ausweisung Ende 1829 als Theaterkritiker u. Redakteur in Berlin, dann in München, seit 1835 in Wien; gab in Berlin von 1826 bis 1829 die "Berliner Schnellpost für Literatur, Theater und Geselligkeit" heraus, in der Gutzkow 1829 debütierte, und in Wien von 1837 bis 1858 "Der Humorist. Eine Zeitschrift für Scherz und Ernst, Kunst, Theater, Geselligkeit und Sitte".  </tei:seg>
       </tei:p>
-      <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
-      <tei:hi style="font-weight-bold">Gutzkow und Saphir</tei:hi>
-      <tei:hi style="font-weight-bold">Selbständig erschienene Publikationen Saphirs</tei:hi>
-      <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
-      <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>→ Bilder und Materialien: Bilder. Gutzkows Zeitgenossen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">Gutzkow und Saphir</tei:hi>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:hi style="font-weight-bold">Werke</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Poetische Erstlinge. Pesth: Trattner, 1821.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der getödtete und dennoch lebende M. G. Saphir oder: Dreizehn Bühnendichter und ein Taschenspieler gegen einen einzelnen Redakteur. Ein Schwank voll Wahrheit, in phlegmatischer Laune erzählt von M. G. Saphir. Berlin: Krause, 1828.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Dumme Briefe, Bilder und Chargen, Cypressen, Literatur- und Humoral-Briefe. München: Jacquet, 1834.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Gesammelte Schriften. Bd. 1-4. Stuttgart: Hallberger, 1832.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Neueste Schriften. Bd. 1-3. München: Lindauer, 1832.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-4">
+        <tei:seg>Saphirs Zeitschriften</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Berliner Schnellpost für Literatur, Theater und Geselligkeit. Berlin: Leopold Wilhelm Krause. 1826 - 1829. (4 Jge.) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="font-size-small">(Enthält als Beilage einen "Beiwagen für Kritik und Antikritik zur Berliner Schnellpost".)</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der Berliner Courier. Ein Morgenblatt für Theater, Mode, Eleganz, Stadtleben und Localität.  (3 Jge.) Berlin: Leopold Wilhelm Krause. 1827 - 1830.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Neues Mitternachtsblatt für den Sternenhimmel der Laune und des Humors. Nebst einer kritischen Beilage: "Die Gespenster-Zeitung". (Redigirt von Jean Paul's Schatten.) München: F. G. Franckh 1830. </tei:seg>
+        <tei:hi style="font-size-small">(15 Nummern nachgewiesen, vom 1. bis zum 26. Januar 1830.)</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der Bazar für München und Bayern. Ein Frühstücks-Blatt für Jedermann und jede Frau. (4 Jge.) München: George Jaquet 1830 - 1833.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der deutsche Horizont. Ein humoristisches Sopha- und Tooilettenblatt für Zeit, Leben und sittliche Bildung. (4 Jge.) München: George Jacquet, 1831-1834.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Conversationsblatt für Deutschland und Bayern. München: Rösl, 1834. </tei:seg>
+        <tei:hi style="font-size-small">[Erschienen nur Nr. 1-155, bis 30. Juni.]</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Der Humorist. Eine Zeitschrift für Scherz und Ernst, Kunst, Theater, Geselligkeit und Sitte. 22 Jge. </tei:seg>
+        <tei:hi style="font-size-small">[Ab 1848 wechselnde Titel/Untertitel, ab 1850: Humorist]. </tei:hi>
+        <tei:seg>Wien: Leopold Grund  1837-1858. </tei:seg>
+        <tei:hi style="font-size-small">[Das Blatt wurde nach Saphirs Tod fortgeführt und erschien noch bis 1862.]</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Bibliographie</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Karl Goedeke: Grundrisz zur Geschichte der deutschen Dichtung. 2., ganz neu bearb. Auflage. Bd. 9. Dresden: Ehlermann, 1910. S. 152-169.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>(Nachträge in:) Karl Goedeke: Grundriss zur Geschichte der deutschen Dichtung. 2., ganz neu bearb. Auflage. Bd. 14. Berlin: Akademie-Verl., 1956. S. 758-763. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>(Saphirs Zeitschriften:) Alfred Estermann: Die deutschen Literatur-Zeitschriften 1815-1850. Bibliographien, Programme, Autoren. Zweite, verbesserte und erweiterte Auflage. Bd. 4, 1825-1829. München, London, New York, Paris: Saur, 1991. S. 88-92 (Schnellpost), 224-226 (Berliner Courier), 476-482 (Conversationsblatt). - Bd. 5, 1830-1834. S. 14-19 (Bazar), S. 70 (Mitternachtsblatt), S. 124-127 (Deutsche Horizont). - Bd. 6, 1835-1839. S. 265-286 (Humorist).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Forschungsliteratur</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Peter </tei:seg>
+        <tei:hi style="font-weight-bold">Sprengel</tei:hi>
+        <tei:seg>: Moritz Gottlieb Saphir in Berlin. Journalismus und Biedermeierkultur. In: In: Studien zur Literatur des Frührealismus. Hg. von Günter Blamberger, Manfred Engel u. Monika Ritzer. Frankfurt a. M. [usw.]: P. Lang 1991, S. 243–275. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Wulf </tei:seg>
+        <tei:hi style="font-weight-bold">Wülfing</tei:hi>
+        <tei:seg>: Folgenreiche Witze. Moritz Gottlieb Saphir. In: Joachim Dyck (Hg.): Rhetorik. Ein internationales Jahrbuch. Bd. 12: Rhetorik im 19. Jahrhundert. Tübingen: Niemeyer, 1993. S. 73–83.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2003. / Not to be published in any form without the author's prior permission. / Layout Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Wolfgang Rasch.</tei:seg>
-        <tei:seg> Seite angelegt im Juli 2003.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:08</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg> </tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
