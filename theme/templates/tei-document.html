@@ -70,7 +70,7 @@
           <dd>
             <ul class="no-bullet">
               {% for revision in page.revisions[-1:] %}
-                <li>{{ revision.version }}, {% if revision.text %}, {{ revision.text }}{% endif %}{{ revision.date|fancy_date }}</li>
+                <li>{{ revision.version }}, {% if revision.text %}{{ revision.text }}, {% endif %}{{ revision.date|fancy_date }}</li>
               {% endfor %}
             </ul>
           </dd>
