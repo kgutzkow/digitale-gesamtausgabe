@@ -1177,6 +1177,8 @@ Wander
     Deutsches Sprichwörter-Lexikon. Ein Hausschatz für das deutsche Volk. Hg. von Karl Friedrich Wilhelm Wander. 5 Bde. Leipzig: Brockhaus, 1867-80. Unveränderter fotomechanischer Nachdruck: Augsburg: Weltbild-Verlag, 1987.
 WBB
     Wolfenbütteler Bibliographie zur Geschichte des Buchwesens im deutschen Sprachgebiet 1840-1980. Bearbeitet von Erdmann Weyrauch unter Mitarbeit von Cornelia Fricke. Bd. 1 ff. München usw.: Saur, 1990 ff.
+Weber
+    Georg Weber: Lehrbuch der Weltgeschichte mit besonderer Rücksicht auf Cultur, Literatur und Religionswesen. 2 Bde. 14., vielfach umgearb. u. bis auf die Gegenwart fortgeführte Aufl. Leipzig: Engelmann, 1870. 
 Wilpert/Gühring
     Gero von Wilpert / Adolf Gühring: Erstausgaben deutscher Dichtung. Eine Bibliographie zur deutschen Literatur 1600-1990. Zweite, vollständig überarbeitete Auflage; wissenschaftliche Beratung: Harro Kieser, Redaktion: Beate Mnich. Stuttgart: Kröner, 1992.
 Zedlitz
