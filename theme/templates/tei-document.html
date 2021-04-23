@@ -323,6 +323,25 @@
                         }
                     },
                     {
+                        "name": "externalLink",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@type=\"external\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@target"
+                                }
+                            }
+                        },
+                        "reference": {
+                            "external": "target"
+                        }
+                    },
+                    {
                         "name": "footnoteMarker",
                         "type": "inline",
                         "parser": {
