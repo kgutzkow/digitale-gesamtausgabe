@@ -6,6 +6,7 @@
 {% block head %}
   {{ super() }}
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/reader/app.css"/>
+  <link rel="alternate" type="application/tei+xml" href="{{ SITEURL }}/{{ page.url[:-5] }}.tei"/>
 {% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block breadcrumb_title %}{{ page.title }}{% endblock %}
@@ -81,9 +82,6 @@
   <div class="reader-overlay hidden">
     <div id="app"></div>
   </div>
-  <script id="TEIReaderContent" type="text/xml">
-    {{ page.content }}
-  </script>
   <script id="TEIReaderConfig" type="application/json">
     {
         "sections": {
@@ -827,11 +825,15 @@
       window.TEIReader = {
           callbacks: {
               autoLoad: function(callback) {
-                  const content = document.querySelector('#TEIReaderContent');
-                  if (content) {
-                      callback({
-                          content: content.innerHTML,
-                          identifier: '{{ page.slug|sha256 }}'
+                  const source = document.querySelector('link[rel=alternate][type="application/tei+xml"]');
+                  if (source && source.href) {
+                      fetch(source.href).then(function (response) {
+                          response.text().then(function (data) {
+                              callback({
+                                content: data,
+                                identifier: '{{ page.slug|sha256 }}'
+                              });
+                          });
                       });
                   }
               },
