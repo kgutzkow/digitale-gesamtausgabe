@@ -39,35 +39,43 @@
   <tei:text>
     <tei:body>
       <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
-        <tei:seg>Novellen von Karl Gutzkow.</tei:seg>
+        <tei:hi style="letter-sparse">Novellen</tei:hi>
+        <tei:seg> von Karl Gutzkow.</tei:seg>
       </tei:head>
       <tei:head data-heading-id="novellen-von-karl-gutzkow" type="level-1">
         <tei:seg>Zweiter Band.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="1.5" margin-bottom="0.5" first-line-indent="0.0" style="text-center" extract="">
         <tei:hi style="font-size-large letter-sparse">Inhal</tei:hi>
         <tei:hi style="font-size-large">t.</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0.0" style="text-center" extract="">
         <tei:hi style="font-size-medium letter-sparse">Chevalier Clement</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0.0" style="text-center" extract="">
         <tei:hi style="font-size-medium letter-sparse">Die Singekränzchen</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.0" style="text-center" extract="">
         <tei:hi style="font-size-medium letter-sparse">Der Prinz von Madagaskar</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:p>
       <tei:head data-heading-id="chevalier-clement" type="level-2">
-        <tei:seg>Chevalier Clement</tei:seg>
+        <tei:pb n="1"/>
+        <tei:seg> Chevalier Clement *) </tei:seg>
+        <tei:hi style="font-size-small">Die Grundlage dieser Erzählung bilden beglaubigte Thatsachen, über die man </tei:hi>
+        <tei:foreign>
+          <tei:hi style="font-size-small">Frédéric II. Oeuvres publiées du vivant de l’Auteur. Berlin 1798. Tom. I. p. 261 </tei:hi>
+        </tei:foreign>
+        <tei:hi style="font-size-small">folg. vergleichen mag.</tei:hi>
       </tei:head>
       <tei:head data-heading-id="chevalier-clement" type="level-3">
         <tei:seg>Novelle.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
-        <tei:seg>Europa beweinte den Tod eines Fürsten, dem es mit gleicher Theilnahme auf den Gipfel seines Glücks, wie später auf die sinkende Bahn seines Gestirns gefolgt war. Die Trauerbotschaft, die sich aus den Laufgräben vor Friedrichshall mit Blitzes­schnelle verbreitete, erschütterte die Fürsten, selbst wenn sie den Frühgefallenen zu ihren unversöhnlichsten Feinden rechnen mußten, und die Völker, deren Wohlstande die Entwürfe seines Ehrgeizes nur Verderben bringen konnten. Man feierte dennoch mit Bewunderung das Andenken eines Fürsten, den man einen Abentheurer hätte nennen dürfen, wenn ihn seine Thaten nicht unter die größten Helden der Jahrhunderte gestellt hätten. Die Könige, sonst gewohnt, </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
+        <tei:pb n="3"/>
+        <tei:seg> Europa beweinte den Tod eines Fürsten, dem es mit gleicher Theilnahme auf den Gipfel seines Glücks, wie später auf die sinkende Bahn seines Gestirns gefolgt war. Die Trauerbotschaft, die sich aus den Laufgräben vor Friedrichshall mit Blitzes­schnelle verbreitete, erschütterte die Fürsten, selbst wenn sie den Frühgefallenen zu ihren unversöhnlichsten Feinden rechnen mußten, und die Völker, deren Wohlstande die Entwürfe seines Ehrgeizes nur Verderben bringen konnten. Man feierte dennoch mit Bewunderung das Andenken eines Fürsten, den man einen Abentheurer hätte nennen dürfen, wenn ihn seine Thaten nicht unter die größten Helden der Jahrhunderte gestellt hätten. Die Könige, sonst gewohnt, </tei:seg>
         <tei:pb n="4"/>
         <tei:seg> kriegerische Evolutionen, Fanfaren und Kanonendonner nur zum Ausdruck ihrer Freude zu machen, hielten es für angemessen, dießmal auch der Trauer durch ein militair­isches Schauspiel Worte zu geben, weil sie einem eben so ausgezeichneten Feldherrn, als tapfern Krieger galt.</tei:seg>
       </tei:p>
@@ -125,7 +133,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Von einem Negligé, einem leichten Hauskleide, wußte diese gute Zeit unserer Urgroßväter noch nichts. Wo sie gingen und standen, waren sie in einem Aufzuge, als könnten sie stündlich zur Cour oder zu einem </tei:seg>
-        <tei:seg>Jeu de patience</tei:seg>
+        <tei:foreign>Jeu de patience</tei:foreign>
         <tei:seg> mit der ältesten Hofdame berufen werden. Um des Herrn Kammerherrn strahlendes Haupt wallten die Fluthen einer unendlichen Allongeperrücke, das Ueberkleid, dieß merkwürdige Justemilieu zwischen Frack und Oberrock, zierten mehrere einheimische und fremde Orden, von denen diese in Kriegsläuften immer so häufig waren, als jene im Frieden selten; mächtige Stickereien rieselten durch das lange, seidene Gilet, ungeheure Manschetten flossen aus den kurzen Aermeln des theegrünen Oberkleides und funkelnd glänzten an den Schuhen die goldenen Schnallen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -244,7 +252,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Isabelle hatte den Chevalier mit der Gluth einer südlichen Liebe umfangen. Clement stand eine Zeitlang im österreichischen Dienste. Durch den Prinzen Eugen war er später seiner Talente und seines festen Charakters wegen an den Kardinal Alberoni, diesen geistvollen Emporkömmling, der in der That das spanische Scepter trug, empfohlen worden. Wie Alberoni, ein Italiener, von dem stolzen Spanier </tei:seg>
         <tei:pb n="26"/>
-        <tei:seg>gehaßt wurde, so auch seine Umgebung, zu der Clement gehörte.</tei:seg>
+        <tei:seg> gehaßt wurde, so auch seine Umgebung, zu der Clement gehörte.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Don Hernandez, einer der exaltirtesten Feinde des fremden Einflusses, fand in diesem nicht nur die rechte Hand des Kardinals, sondern auch den Freund seiner Schwester, an dem sie mit ungezügelter Hingebung hing. Von einer neuen Zurücksetzung seiner Parthei eben auf ’s Höchste gereizt, überraschte er einst die Liebenden; es kam zu einem heftigen Auftritte, wobei die vermittelnde Isabella durch die unvorsichtige Hand ihres Bruders so verletzt wurde, wie einst die schöne Poppäa von ihrem kaiserlichen Anbeter Nero, worauf sie starb. Sie hatte verscheidend von ihrem Bruder das Versprechen des Friedens mit dem Chevalier nicht erhalten, und starb zweifach freudenlos, eine geknickte und entblätterte Rose.</tei:seg>
@@ -257,15 +265,15 @@
         <tei:pb n="27"/>
         <tei:seg> das Erdgeschoß, ließ sich seinen weiten Mantel umwerfen und verließ das hellerleuchtete Schloß, dessen Tänze mit seinem Pulse keinen Schritt hielten, und dessen Geigen mit seinem Schmerze noch schlechter zusammenklangen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.5" first-line-indent="0.0" style="text-center" extract="">
         <tei:seg>___________</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
         <tei:seg>Zur Nachtzeit möchte man in großen Städten glauben, sie seien nur von Gaunern und Spitzbuben bevölkert. Das Pfeifen der Wächter, das Anrufen der Patrouillen würde auf jeden honetten Mann einen recht widerlichen, ehrenrührigen Eindruck machen, wenn die Kommune nicht annähme, daß ein Jeder dieser Qualität um die nachtschlafenden Stunden in den Federn liege. Dazu kam in jenen Zeiten noch, daß es weit früher in den Städten Nacht wurde, obschon die Sonne schwerlich zu einer andern Stunde als heute untergegangen ist. Der ewigen Desertionen wegen wurden nämlich schon sehr früh die Thore geschlossen, und die Patrouillen scheuchten die ehrsamen Leute in ihre Häuser, da Niemand doch riskiren will, für einen Ausreißer gehalten zu werden.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="28"/>
-        <tei:seg>Es war einige Nächte nach jener auf vierzehn Tage für die ganze Umgegend unvergeßlichen Nacht beim Freiherrn Borck, als sich eine lange, vermummte Gestalt durch die hundert Quer- und Nebengassen der innern Stadt bewegte und endlich vor einem ansehnlichen Gebäude in der alten Friedrichsstraße stillstand.</tei:seg>
+        <tei:seg> Es war einige Nächte nach jener auf vierzehn Tage für die ganze Umgegend unvergeßlichen Nacht beim Freiherrn Borck, als sich eine lange, vermummte Gestalt durch die hundert Quer- und Nebengassen der innern Stadt bewegte und endlich vor einem ansehnlichen Gebäude in der alten Friedrichsstraße stillstand.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Es war das Hotel des spanischen Gesandten. Auf ein leises Klopfen öffnete sich die Thür und der Chevalier schlug auf der hellen Hausflur seine Umhüllung zurück. Geschäftige Diener kamen ihm wie einer langerwarteten Erscheinung entgegen und geleiteten ihn die Treppe hinauf in einen Salon, wo der Ein­tretende von einer Anzahl versammelter Personen begrüßt wurde.</tei:seg>
@@ -304,7 +312,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="32"/>
-        <tei:seg>„Die Politik des Gleichgewichts,“ rief er, „zerstört den innern und äußern Frieden der Staaten. Ist es nicht lächerlich, wenn sich Frankreich am Rheine für Verluste entschädigen will, die es in Westindien erlitten? Was bestimmt das Madrider Kabinet, mit den Höfen des entlegensten Nordens so weitberechnete Verbindungen anzuknüpfen, die das Vaterland nur in gefährliche Verwicklungen reißen können? Von jenem fernen Winkel Europens stellt man nach allen Seiten Netze aus, um die Raubthiere zu fangen, die man in ihrer wahren Schädlichkeit nur im Innern des Landes zu suchen hat. Spanien seufzt unter dem unglücklichen Joch –“</tei:seg>
+        <tei:seg> „Die Politik des Gleichgewichts,“ rief er, „zerstört den innern und äußern Frieden der Staaten. Ist es nicht lächerlich, wenn sich Frankreich am Rheine für Verluste entschädigen will, die es in Westindien erlitten? Was bestimmt das Madrider Kabinet, mit den Höfen des entlegensten Nordens so weitberechnete Verbindungen anzuknüpfen, die das Vaterland nur in gefährliche Verwicklungen reißen können? Von jenem fernen Winkel Europens stellt man nach allen Seiten Netze aus, um die Raubthiere zu fangen, die man in ihrer wahren Schädlichkeit nur im Innern des Landes zu suchen hat. Spanien seufzt unter dem unglücklichen Joch –“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Hier brach der Redner plötzlich ab, offenbar über seine kühnen Worte erschrocken. Die ihn umringten, waren schon längst scheu zurückgetreten und hatten sich verwundert Winke gegeben. Jetzt kam der Chevalier, längst auf dieß Gespräch aufmerksam, hastig herbei, schlug dem Sprecher auf die Schulter und sah erschrocken in ein gemaltes Gesicht, in dem nur die Augen lebten.</tei:seg>
@@ -323,7 +331,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Er hatte gesehen, in welcher Eigenschaft Clement auftrat, die Debatten der Unterhaltung regten seinen Widerspruch auf, und sein unberufener Eifer verrieth ihn. Er war mit einem leichten Sprunge in dem Hofe </tei:seg>
         <tei:pb n="34"/>
-        <tei:seg>des Hotels, stieg über eine Gartenmauer und war in wenig Augenblicken an dem Strome, der von dieser Seite eine Reihe von Besitzungen bespülte.</tei:seg>
+        <tei:seg> des Hotels, stieg über eine Gartenmauer und war in wenig Augenblicken an dem Strome, der von dieser Seite eine Reihe von Besitzungen bespülte.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Ihr seid verrathen? man verfolgt Euch?“ fragte eine lange, hagere Gestalt, die auf einem Kahne den Flüchtling erwartete. Hernandez riß die lästige Maske herunter und erzählte sein Abentheuer. Der Ruderer stieß ab, schwieg eine Zeitlang, bis der erschöpfte Spanier sich gesammelt hatte, und sagte dann: „Solcher Nächte habe ich in Paris mit Don Zea mehrere erlebt; nur endeten sie fröhlicher, als diese. Wenn Ihr wieder heimkehrt und den gelehrten Mann unter seinen Folianten in Salamanka aufsucht, so mögt Ihr ihm sagen, wie frisch noch in meinem alten Kopfe die Erinnerungen leben, und wie in mir die Wintersaat des Erlebten noch immer mit jungen Keimen aufschießt. Alles trifft zusammen: der spiegelglatte Strom, die vom Ruderschlag überraschten und entgleitenden Fische, die Nachtigall in den dunkeln Ulmen, die ihre säuselnden Schatten in den Strom werfen, die Sterne als einzige Vertraute über uns. Wenn wir dann den Kahn an einen Pfahl befestigt hatten, so betraten wir die friedlichen Räume unserer gemein-</tei:seg>
@@ -341,13 +349,13 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Eckard wohnte nach alten Privilegien in einem Erkerthurme des cöllnischen Rathhauses, wohin er jetzt seinen brütenden Gastfreund führte. Hernandez warf sich auf sein Lager und der Leibchemikus benutzte noch einen Theil der Nacht, um im Cornelius Agrippa und Rosenkreuzers chemischer Hochzeit zu studiren, nach seinen Säuren und Extracten zu sehen, die Destillir­kolben zu befestigen, kurz sich auf jene, für den ehrlichen Mann so traurige Zeit vorzubereiten, wo er Gold für seinen Monarchen machen wollte, und zu dem Ende mehr Ducaten verbrauchte, als er produzirte.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.5" first-line-indent="0.0" style="text-center" extract="">
         <tei:seg>___________</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
         <tei:seg>Wenige Zeiten gleichen der allgemeinen Unruhe und Aufregung, die den Anfang des vorigen Jahrhunderts bezeichnen. Es war die Zeit der Abentheurer, der Verschwörungen, der religiösen und wissenschaftlichen Thorheiten. Länder, deren Namen </tei:seg>
         <tei:pb n="37"/>
-        <tei:seg>bis jetzt unbekannt gewesen waren, bekamen plötzlich einen König, wie Korsika; Schweden, Rußland, Frankreich waren von innern Factionen zerrissen; der Aberglaube war von einem Könige, wie Ludwig XIV., auf den Thron erhoben worden, der Gemüther bemächtigte sich eine Aengstlichkeit, die die Einen immer geschickt macht, zu betrügen, und die Andern, sich betrügen zu lassen.</tei:seg>
+        <tei:seg> bis jetzt unbekannt gewesen waren, bekamen plötzlich einen König, wie Korsika; Schweden, Rußland, Frankreich waren von innern Factionen zerrissen; der Aberglaube war von einem Könige, wie Ludwig XIV., auf den Thron erhoben worden, der Gemüther bemächtigte sich eine Aengstlichkeit, die die Einen immer geschickt macht, zu betrügen, und die Andern, sich betrügen zu lassen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Männer von dunkler Herkunft, aber begabt mit Gewandtheit und körperlichen Vorzügen, wußten sich in Stellungen zu bringen, die ihnen unbeschränkte Macht über den Willen der Könige und den Gehorsam der Völker gaben. Die Lüge der Wissenschaft hatte auch die Geister und die äußern Verhältnisse ergriffen. Man konnte durch Kühnheit und die Gunst einer Prinzessin zu Allem gelangen. Und wie man Goldmacher, die ihr Versprechen nicht lösten, mit dem Leben bedrohte, bis sie vor Angst das Porzellan erfanden, so schreckte man sich gegenseitig mit erdichteten Verschwörungen, und die Furcht verursachte, daß man sich in wirkliche einließ.</tei:seg>
@@ -372,7 +380,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Die Gesinnungen,“ sagte der junge Freiherr, </tei:seg>
         <tei:pb n="39"/>
-        <tei:seg>welche das österreichische Kaiserhaus gegen unsere noch junge Königskrone an den Tag legt, sind dem Könige verdächtig, und müssen es bei so vielen Anzeichen bleiben. Man blickt mißgünstig auf diesen einst so schwachen Staat, der durch eine weise Berechnung seiner Kräfte, durch ein ansehnliches Capital von militairischem Ruhm, durch die besten Einrichtungen seiner innern Verwaltung zu einem Einflusse gelangt ist, der schon deßhalb gefährlich ist, weil er mehr zu vermögen scheint, als ehemals. Das in der europäischen Politik bisher unerhörte System der Ersparnisse hat eine Wahrheit für sich, die unwiderstehlich ist; der Aufschwung der Gewerbe, die Begünstigung der Einwanderungen, der systematische Berechnungsgeist, der die Finanzen des Königreichs durchdringt und in Alles einen Werth zu legen weiß, das sind Dinge, die die Eifersucht eines Nebenbuhlers eben so sehr, als die Besorgniß des Stärkeren erregen müssen.“</tei:seg>
+        <tei:seg> „welche das österreichische Kaiserhaus gegen unsere noch junge Königskrone an den Tag legt, sind dem Könige verdächtig, und müssen es bei so vielen Anzeichen bleiben. Man blickt mißgünstig auf diesen einst so schwachen Staat, der durch eine weise Berechnung seiner Kräfte, durch ein ansehnliches Capital von militairischem Ruhm, durch die besten Einrichtungen seiner innern Verwaltung zu einem Einflusse gelangt ist, der schon deßhalb gefährlich ist, weil er mehr zu vermögen scheint, als ehemals. Das in der europäischen Politik bisher unerhörte System der Ersparnisse hat eine Wahrheit für sich, die unwiderstehlich ist; der Aufschwung der Gewerbe, die Begünstigung der Einwanderungen, der systematische Berechnungsgeist, der die Finanzen des Königreichs durchdringt und in Alles einen Werth zu legen weiß, das sind Dinge, die die Eifersucht eines Nebenbuhlers eben so sehr, als die Besorgniß des Stärkeren erregen müssen.“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Der Chevalier schien ungemein zufrieden und hob die Unterlippe. Aber um wie Vieles praktischer sah dieser feine Kopf das Verhältniß an, als er fortfuhr: „Sie müssen sich in die gerade bestehenden Verhältnisse versetzen, und werden finden, </tei:seg>
@@ -583,17 +591,19 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Chevalier Clement konnte hoffen, wenn ihm seine Machination, die Anreizung zum Kriege, glückte, an den glänzendsten Früchten derselben Theil zu nehmen; als sie fehlschlug, mußte er ihr Opfer sein.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das sind die Nieten des Schicksals, auf die man gefaßt sein muß, wenn man den Einsatz wagt und sich mit der Möglichkeit eines glücklichen Treffers schmeichelt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="die-singekraenzchen" type="level-2">
-        <tei:seg>Die  Singekränzchen.</tei:seg>
+        <tei:pb n="61"/>
+        <tei:seg> Die  Singekränzchen.</tei:seg>
       </tei:head>
       <tei:head data-heading-id="die-singekraenzchen" type="level-3">
         <tei:seg>Bambocciade.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>Asmodi bückte sich, schnallte sein Bein fester und sprach:</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:pb n="63"/>
+        <tei:seg> Asmodi bückte sich, schnallte sein Bein fester und sprach:</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Was bleibt uns noch zu sehn übrig? Wir standen hinter dem Thronhimmel des Fürsten, dem Beichtstuhle des Priesters, hinter der Tapetenwand der diplomatischen Kabinette und den Thee­tischen der gesellschaftgebenden Damen; wir hatten den Schlüssel zu allen Hinterthüren und Geheimnissen, und wir benuzten ihn; Ihr müßt gestehn, daß ich ein Meister in der Deschiffrirkunst des Lebens bin. Was kann Euch noch verborgen sein? Ihr wißt, was es ist, das so eben im Pallaste hinter dem seidnen Vorhange wegrauschte; Ihr könnt die Geschichte eines Abends entziffern, wenn Ihr am Mor-</tei:seg>
@@ -649,7 +659,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Mein alter Freund schreibt mir da, daß Sie in unser Kränzchen eintreten werden, um es mit Ihrer sonoren Stimme zu unterstützen? Was singen Sie? Tenor? Nein, nein, Sie haben zu viel Bart am Kinn, Ihr Adamsapfel ist stark, es ist Blei in Ihrer Stimme: Sie müssen das tiefe </tei:seg>
-        <tei:seg>C</tei:seg>
+        <tei:foreign>C</tei:foreign>
         <tei:seg> trefflich hervorbringen. Gott, Gott, die Tenore werden rar! Nichts als Bässe, Kopfstimmen und Fisteln! Ich bitte jetzt um die Skala.“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -679,13 +689,13 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Ich beschloß daher, meinen Gang in die </tei:seg>
-        <tei:seg>réunion</tei:seg>
+        <tei:foreign>réunion</tei:foreign>
         <tei:seg> </tei:seg>
         <tei:pb n="74"/>
         <tei:seg> </tei:seg>
-        <tei:seg>chantante</tei:seg>
+        <tei:foreign>chantante</tei:foreign>
         <tei:seg> nicht zu übereilen; denn konnte es mir jetzt noch verborgen bleiben, daß das Institut des Herrn Weber bestimmt war, dem </tei:seg>
-        <tei:seg>petit monde</tei:seg>
+        <tei:foreign>petit monde</tei:foreign>
         <tei:seg> nach den Aufopferungen des Tages einen süßen Genuß, eine leichte Erholung, eine unschuldige Unterhaltung zu gewähren? Jetzt errieth ich die Ideenverbindung meines hinkenden Freundes, der mich, um die Bekanntschaft einer jungen Dame zu machen, veranlaßt hatte, in eine Gesellschaft zu treten, in der sie ohne Zweifel als das gefeiertste Mitglied glänzte.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -792,18 +802,20 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="87"/>
-        <tei:seg>Ich füge nur hinzu, daß mir bei einem dieser Ausflüge, der seine Richtung nach Köpenik nahm, aus dem Gebüsch mein Freund Asmodi entgegentrat. Er hinkte in meine Arme und drückte mich mit Wärme an seine Brust. Ueber seine diplomatische Mission fand er des Erzählens kein Ende, und in der That waren die Mittheilungen, die er gab, über alles interessant. Er zog mich in den Strudel der Politik, dem ich kaum entronnen, wieder hinein; ich dachte über die Thorheit nach, daß ich ohne Stimme hatte singen lernen wollen, und entschlüpfte den jubelnden Seelen, die auf einem grünen Rasen ihren bunten Reigen aufführten.</tei:seg>
+        <tei:seg> Ich füge nur hinzu, daß mir bei einem dieser Ausflüge, der seine Richtung nach Köpenik nahm, aus dem Gebüsch mein Freund Asmodi entgegentrat. Er hinkte in meine Arme und drückte mich mit Wärme an seine Brust. Ueber seine diplomatische Mission fand er des Erzählens kein Ende, und in der That waren die Mittheilungen, die er gab, über alles interessant. Er zog mich in den Strudel der Politik, dem ich kaum entronnen, wieder hinein; ich dachte über die Thorheit nach, daß ich ohne Stimme hatte singen lernen wollen, und entschlüpfte den jubelnden Seelen, die auf einem grünen Rasen ihren bunten Reigen aufführten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das ist alles schon lange her: ich habe Herrn Weber nie wieder gesehn, zweifle aber keineswegs, daß er noch immer der Mittelpunkt der kleinen musikalischen Bestrebungen und geselligen Freuden ist, an denen ich eine kurze Zeit Antheil nahm, daß er noch immer um die Osterzeit Kantaten einstudirt, und bei seinen Männerstimmen zuweilen anfragt, ob man nicht eine Fahrt unternehmen und die nöthigen Hülfsgelder deshalb zusammenschießen wolle. Möchte dabei auf ihn nie mehr kommen, als daß er die Summen abrundet, möchte es ihm nie an </tei:seg>
         <tei:pb n="88"/>
         <tei:seg> reinen, silberhellen Stimmen fehlen und seinen Worten an der schlagenden Kraft, mit der er so viele altfränkische und zögernde Mütter von dem Sinn und der hohen Bedeutung der Musik zu überzeugen wußte!</tei:seg>
       </tei:p>
       <tei:head data-heading-id="der-prinz-von-madagaskar" type="level-2">
-        <tei:seg>Der Prinz von Madagaskar.</tei:seg>
+        <tei:pb n="89"/>
+        <tei:seg> Der Prinz von Madagaskar.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>In dem hintern Zimmer eines Kaffeehauses, welches weder das beste noch das schlechteste von Paris war, schien ein junger Mann die hastigen Schritte zu zählen, mit welchen er den engen Raum durchmaß. Bald eilte er an die Fenster, welche zur Straße führten und warf einen erwartungsvollen Blick auf sie hinunter, bald lief er in die Vorderzimmer, um an der dort aufgehängten Uhr nach der Zeit zu sehen, weil er vermuthlich selbst keinen andern Stundenmesser besaß, als seine Ungeduld. Wollte er die Ouvertüre einer neuen Oper nicht versäumen? Hatte er für einen Ehrenhandel sein Wort gegeben? Galt es den präcisen Augenblick zu treffen, um bei einer Dame oder einem Gönner </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:pb n="91"/>
+        <tei:seg> In dem hintern Zimmer eines Kaffeehauses, welches weder das beste noch das schlechteste von Paris war, schien ein junger Mann die hastigen Schritte zu zählen, mit welchen er den engen Raum durchmaß. Bald eilte er an die Fenster, welche zur Straße führten und warf einen erwartungsvollen Blick auf sie hinunter, bald lief er in die Vorderzimmer, um an der dort aufgehängten Uhr nach der Zeit zu sehen, weil er vermuthlich selbst keinen andern Stundenmesser besaß, als seine Ungeduld. Wollte er die Ouvertüre einer neuen Oper nicht versäumen? Hatte er für einen Ehrenhandel sein Wort gegeben? Galt es den präcisen Augenblick zu treffen, um bei einer Dame oder einem Gönner </tei:seg>
         <tei:pb n="92"/>
         <tei:seg> oder einer geheimen Spielgesellschaft Einlaß zu finden? darüber wagen wir den jungen Mann selbst nicht zu fragen; denn er sieht mürrisch und finster vor sich her, aus seinen sonderbar geformten Gesichtszügen blickt ein Unmuth, welcher durch den auffallend dunkeln Teint nur noch gehoben, und durch den nachlässigen, fast ärmlichen Aufzug im Aeußern gewissermaßen gerechtfertigt wird. Ich rechne keinesweges darauf, daß diese Erzählung von Schneidern gelesen wird, füge aber doch hinzu, daß unser junger Unbekannter einen Rock trug, in welchen sich Taille und Haltung nicht heimisch fühlten; denn läßt sich daraus nicht schließen, daß wir einen Militair in Civilkleidern vor uns haben?</tei:seg>
       </tei:p>
@@ -831,7 +843,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="95"/>
-        <tei:seg>Colas hatte kaum noch Zeit, seinem jungen Herrn freudig die Hand zu drücken; denn eben wurde er des Professors in den vordern Zimmern ansichtig, und mußte eilen, diesen gelehrten Mann zurechtzuweisen.</tei:seg>
+        <tei:seg> Colas hatte kaum noch Zeit, seinem jungen Herrn freudig die Hand zu drücken; denn eben wurde er des Professors in den vordern Zimmern ansichtig, und mußte eilen, diesen gelehrten Mann zurechtzuweisen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Der Professor Polyglotte war ein dünnes, schmächtiges Männlein mit einem großen Kopfe, der, wie es an den französischen Gelehrten so gewöhnlich ist, hinten die Gestalt eines eckigen Würfels zeigte. Die schwachen kleinen Beine schienen gemacht zu sein, den übrigen Körper nicht zu tragen, sondern ihn fortwährend emporzuschnellen und größer zu machen, als er in der That war. Die hektisch geformte Brust, die unruhige Bewegung des Unterkiefers und der Augen, die dürftige, aber doch reinliche und sorgfältig gelegte Kleidung und Wäsche verriethen den armen Gelehrten, welcher nur davon zu leben wußte, daß er sich noch immer manierlich genug hielt, um die Leute, denen er seine Dienste antrug, durch sein Aeußeres nicht zurückzuschrecken. Er näherte sich mit gemessener Höflichkeit und fortwährenden Verbeugungen dem harrenden Hippolyt, welcher ihm mit schweigender Erwartung entgegentrat.</tei:seg>
@@ -871,7 +883,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Sie wollen mich Afrika kennen lehren?“ rief er den Professor heftig an; „ich bin unter dem Aequator wie zu Hause, ich war, wenn Sie es wissen wollen, zwanzig Jahre in Afrika, und habe mein linkes Auge nicht am Staube des </tei:seg>
-        <tei:seg>Bois de Boulogne</tei:seg>
+        <tei:foreign>Bois de Boulogne</tei:foreign>
         <tei:seg> verloren, sondern an der Sonnenhitze </tei:seg>
         <tei:pb n="99"/>
         <tei:seg> auf der Insel Bourbon, wo ich jeden Strauch kennen will, selbst wenn ich ganz blind wäre. Hippolyt, dieser Professor will uns sagen, was Afrika ist!“ –</tei:seg>
@@ -922,7 +934,7 @@
         <tei:seg> welcher der Dichter Roux’s gewesen war und sich lange Zeit in der Heimath seines Pfleglings aufgehalten hatte. Hippolyt war in die Armee getreten und bekleidete gegenwärtig die tiefste Charge des Avancements für einen Offizier, eine Lieutenantsstelle in einem Linienregimente. Niemals hatte er Paris verlassen: Dieser Wilde schien nur für Paris geboren zu sein. Er bewegte sich mit der geschliffensten Tournüre in den Cirkeln, welche sich dem abentheuerlichen Nimbus seines Daseins bereitwillig öffneten, er wußte sich keines andern Baumes zu entsinnen, als der Buchen und Akazien in der nächsten Umgebung von Paris, die Tagesneuigkeiten der Salons bildeten die Welt von Gedanken, in denen er lebte, und die kleinen Begegnungen unter Freunden und Bekannten, waren bis jetzt immer die Ereignisse gewesen, welche ihn am meisten beschäftigt hatten. Je älter er wurde, je weniger sich sein Einkommen, das er nur aus seiner subalternen Stelle und Colas Aufopferungen bezog, mit dem Werthe, welchen der Ruf und die eigene Eitelkeit auf seine Person legten, zu vertragen schien, desto unangenehmer berührten ihn die Erinnerungen seiner Herkunft, desto unerträglicher </tei:seg>
         <tei:pb n="105"/>
         <tei:seg> wurden ihm die Aufforderungen seines treuen Dieners, welcher Alles von dem Eintritt eines gewissen Alters und der Besitznahme der unveräußerlichen heimathlichen Rechte seines jungen Freundes erwartete. Hippolyt, welcher zwar als Kind den Erzählungen Colas wie Ammenmährchen gelauscht hatte, aber schon als strebender, reifender Jüngling die fixen Ideen seines alten Dieners belachte, konnte jetzt auf das heftigste erzürnt werden, wenn man ihn, den Pariser, den zierlichen Krieger, den Liebling der Damen, den Schmetterling aller Zirkel, den Vertrauten der jungen Literatur des Tages, den Wagehals im </tei:seg>
-        <tei:seg>Bois de Boulogne</tei:seg>
+        <tei:foreign>Bois de Boulogne</tei:foreign>
         <tei:seg>, an der Roulette, wenn man ihn an seine finstern, tropischen Wälder und den Thron von geflochtenen Binsen erinnerte, welchen er unten nackten, thierischen Menschen hätte einnehmen können.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -974,9 +986,9 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>„Nichts von Bezahlung,“ sagte er; „für meine Leistungen würde ich immer zu viel und“ setzte er ironisch hinzu, „für einen König immer zu wenig erhalten. Hoheit, nehmen Sie mich zum zweiten Unterthanen Ihres Reiches; (denn Ihr alter Diener wird sich die Ehre nicht rauben lassen, der erste zu sein), ich folge Ihnen über den Ocean, als ein </tei:seg>
-        <tei:seg>dictionnaire de poche</tei:seg>
+        <tei:foreign>dictionnaire de poche</tei:foreign>
         <tei:seg>, als eine </tei:seg>
-        <tei:seg>Grammaire portative</tei:seg>
+        <tei:foreign>Grammaire portative</tei:foreign>
         <tei:seg>, als eine lebendige Aushülfe. Was hab’ ich in Paris? Nichts, als meine unverkäuflichen Manuscripte, als das lange Nachsehn, wenn Andere mir die Stellen wegschnappen, nichts als diesen grauwerdenden schwarzen Frack, als diese Manschetten, welche ich mir jeden Abend selbst wasche, als diesen kahlen Hut, welcher gleichfalls bald nichts mehr, als eine einzige große Beule sein wird. Die Republik nahm mir Alles, das Consulat gab mir nichts wieder; die Kaiserherrschaft raubte mir meine jungen Verwandten, welche mich unterstützen konnten, und was die Restauration der Bourbonen gegen mich verabsäumte, das können Sie, Prinz, bei der </tei:seg>
         <tei:pb n="113"/>
         <tei:seg> Ihrigen wieder gut machen. Ich rechne seit vier und zwanzig Stunden darauf, daß Sie mich mitnehmen.“</tei:seg>
@@ -1002,17 +1014,17 @@
         <tei:pb n="116"/>
         <tei:seg> wie sie gekleidet waren, ein Handelsschiff, welches sie nach dem Schauplatze ihrer nächsten Schicksale bringen sollte.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.5" first-line-indent="0.0" style="text-center" extract="">
         <tei:seg>___________</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
         <tei:seg>Nach einer mühseligen Fahrt von vielen Wochen bemerkten endlich die Schiffer, daß nach Nordost ein langer dünner Strich über die unabsehbaren und dunkeln Gewässer lief. Es war die Küste von Madagaskar, welche von den Franzosen niemals selbst betreten wurde, sondern die Fahrt dauerte noch die ganze Ausdehnung der langen Insel entlang, bis sie im Angesicht einer kleinen felsigen Insel, die mit schärferen Umrissen aus dem Meeresspiegel tauchte und sich deshalb als von der großen Insel abgesondert zeigte, ihr Ziel erreicht hatte. Dies hülflose, dem Meere preisgegebene Eiland war die Insel St. Marie, die von den Franzosen zu wiederholten Niederlassungen benutzt und wegen ihrer Lage und Unfruchtbarkeit immer wieder aufgegeben war, sie war es, von welcher die Unternehmungen unsers Prätendenten ihren Anfang nehmen sollten.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="117"/>
         <tei:seg> Niemand konnte beim Anblick der Insel so froh sein, als Colas, der mit seinen beiden Gefährten auf dem Schiffe Angst und Noth hatte ausstehen müssen. Denn es währte nicht eine Viertelstunde nach der Abfahrt von Brest, als Polyglotte in Ohnmacht fiel, ein Zustand, von dem er sich während der ganzen Reise kaum erholte. Der alte Mann, der nur krampfhaft, durch vieles Reden und gezwungene Bewegungen lebte, versank in die ganze Entkräftung seines schwachen Körpers, als er vor Weh schweigen und auf seinem Platze bleiben mußte. Hippolyt war demselben Zustande nah, er dämmerte nur zwischen Vergangenheit und Zukunft, wie seine Seele, und bedurfte Colas Hülfe für jede Bewegung, die er zum Essen oder Schlafen machte. Ach, dieser junge Wilde war zu sehr Pariser geworden, Tortoni und der Rocher de Cancale hatten ihn civilisirt, und seine Nerven waren durch die französische Literatur auf das empfindsamste gestimmt worden. Hippolyt und Polyglotte hatten sich auf dem Schiffe immer nur mit matten Augen gesehen, jetzt, als sie in das Boot traten, welches die Mannschaft an das Ufer der als Hafen so ungünstigen Insel trug, drückten sie sich schweigend </tei:seg>
         <tei:pb n="118"/>
-        <tei:seg>die Hand und Polyglotte seufzte kaum vernehmbar: „Gott sei Dank!“</tei:seg>
+        <tei:seg> die Hand und Polyglotte seufzte kaum vernehmbar: „Gott sei Dank!“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Selbst das Meer war unter den glühenden Strahlen der Mittagssonne träge geworden, und die Wellen ließen sich ohne Widerspruch bis an das jenseitige Ufer durchrudern.</tei:seg>
@@ -1051,7 +1063,7 @@
         <tei:seg>Colas erklärte trocken, dieß sei die Herberge, und schob seine Freunde in ein niedriges dunkles Häuschen, das von zahllosen Kaninchen, welche den Boden ganz unterminirt hatten, bevölkert war. Polyglotte schrie laut auf; er hatte sogleich einem dieser Thierchen das Genick abgetreten, und war beim Aufspringen nahe daran, einem zweiten, wie er sagte, das Dasein zu verkürzen. Aber Hippolyt wollte in ein Zimmer dieses Hauses, wohin ihn Colas wies, erst gar nicht hinein; denn „Du irrst Dich,“ sagte er zu Colas; „was mußt Du nur für eine Vorstellung von einem Gasthofe haben! Ein Gasthof kündigt sich durch irgend eine Firma an, ein Portier steht vor der Thür, und </tei:seg>
         <tei:pb n="122"/>
         <tei:seg> eilt, Dir ein Zimmer anzuweisen. Man fragt Dich, ob Du an der heutigen </tei:seg>
-        <tei:seg>table d’hôte</tei:seg>
+        <tei:foreign>table d’hôte</tei:foreign>
         <tei:seg> speisen würdest, ob man die Wäscherin und den Lohnbedienten besorgen soll, ein dienstfertiger Kellner bringt Dir die Affichen der heutigen Theater. Geh, Colas, das ist hier kein Gasthof, das ist eine Lehmbude, die von einem Metzger bewohnt wird.“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -1705,7 +1717,7 @@
         <tei:seg> näher führte. Sie seufzte, sah ihn mit einem langen fragenden Blicke an und ging, einen Auftrag ihres Bruders zu vollziehen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Mocht nun Heloise inzwischen in der Küche eine Magd ausgescholten, oder kalte Speisen trenchirt haben, mochte sie ihrem Bruder ein Schnupftuch oder etwas Andres, daß unter ihrem Verschluß stand, haben geben müssen; die Saite, deren Ton in Hippolyts Seele zu widerhallen vermochte, war einmal angeschlagen. Sie knüpften ihr Gespräch von Neuem an, und kamen von der Freundschaft auf die Liebe, von der Liebe zur Treue, von der Treue zur Leidenschaft, von der Leidenschsaft zu ihren Verirrungen und von den Verirrungen auf die neuste französische Literatur, wo sich denn zuletzt die Ueberschwänglichkeit in die einfachen, abkühlenden Fragen: „Haben Sie dies gelesen? Kennen Sie das Buch, was ich meine? Lieben Sie des Autors Styl?“ und ähnliche auflöste. Beide hatten sich vortrefflich unterhalten, und während Heloise Alles von Hippolyts Gefühl hoffte, setzte er alle seine Aussichten auf ihre vortreffliche Aussprache, ihre feine Art zu urtheilen, auf die ganze Genugthuung, welche für ihn in ihren Umgebungen lag: kurz, auf </tei:seg>
+        <tei:seg>Mochte nun Heloise inzwischen in der Küche eine Magd ausgescholten, oder kalte Speisen trenchirt haben, mochte sie ihrem Bruder ein Schnupftuch oder etwas Andres, daß unter ihrem Verschluß stand, haben geben müssen; die Saite, deren Ton in Hippolyts Seele zu widerhallen vermochte, war einmal angeschlagen. Sie knüpften ihr Gespräch von Neuem an, und kamen von der Freundschaft auf die Liebe, von der Liebe zur Treue, von der Treue zur Leidenschaft, von der Leidenschsaft zu ihren Verirrungen und von den Verirrungen auf die neuste französische Literatur, wo sich denn zuletzt die Ueberschwänglichkeit in die einfachen, abkühlenden Fragen: „Haben Sie dies gelesen? Kennen Sie das Buch, was ich meine? Lieben Sie des Autors Styl?“ und ähnliche auflöste. Beide hatten sich vortrefflich unterhalten, und während Heloise Alles von Hippolyts Gefühl hoffte, setzte er alle seine Aussichten auf ihre vortreffliche Aussprache, ihre feine Art zu urtheilen, auf die ganze Genugthuung, welche für ihn in ihren Umgebungen lag: kurz, auf </tei:seg>
         <tei:pb n="191"/>
         <tei:seg> den einzigen Haltpunkt, der ihn seinen schon unfreiwilligen Aufenthalt jenseits des Aequators erträglich machen konnte.</tei:seg>
       </tei:p>
@@ -1804,7 +1816,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Ein sanfter Schlaf hatte sich Hippolyts bemächtigt, und ihm den Schmerz seiner Fesseln tragen helfen. Er erwachte und hatte Mühe, sich sogleich wieder in den Zusammenhang seiner Begegnisse zu finden. Man lös’te die Bande, welche ihn am Gehen verhinderten. Hippolyt stand auf und erblickte das Ufer eines Landes, welches er einst unter ganz andern Umständen zu erreichen gehofft hatte. Die riesenhohen Bäume, die duftigen Wiesenteppiche, die buntgefiederten Vögel, die am Wege wuchernden Pflanzen, welche von den Botanikern in dem </tei:seg>
-        <tei:seg>jardin des plantes</tei:seg>
+        <tei:foreign>jardin des plantes</tei:foreign>
         <tei:seg> sorgfältig gepflegt wurden, Alles traf ein, auch die Menschen, welche zahlreich am Ufer versammelt standen, entsprachen den Beschreibungen, die ihm Colas von seinem </tei:seg>
         <tei:pb n="206"/>
         <tei:seg> Vaterlande gemacht hatte; aber seine eigene Lage, seine Umstände waren so gar verschieden von den Erwartungen, die er in St. Marie selbst schon aufzugeben anfing!</tei:seg>
@@ -1890,7 +1902,7 @@
         <tei:seg>Aber es war so, Hippolyt betrat die Wohnung dieses Mannes, die dem prachtvollen, auf buntgemaltem Holze aufgeführten Pallaste der Königin nahe lag, und erkannte bald aus den Geräthschaften und den Manipulationen in den neuen Kreisen seiner Thätigkeit wider Willen, in wessen Diensten </tei:seg>
         <tei:pb n="218"/>
         <tei:seg> er sich befand. Hippolyt empfand bei dieser Entdeckung eine seltsame Mischung von Schrecken und Ekel, von Horror und </tei:seg>
-        <tei:seg>Dégout</tei:seg>
+        <tei:foreign>Dégout</tei:foreign>
         <tei:seg>, einen Schauder vor der unleugbaren Wahrheit und ein Mißbehagen, das sich nur aus seiner ästhetischen Ansicht der Dinge erklären ließ.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -2096,7 +2108,7 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Der weiße Punkt in der Ferne trat immer deutlicher aus den verschwimmenden, zitternden Farbenmassen hervor. Es waren die eingerefften Segel eines Schiffes, das sich bald als ein Königliches erkennen ließ. Die Bewohner der Kolonien jubelten, weil sie ein aus </tei:seg>
-        <tei:seg>Isle de France</tei:seg>
+        <tei:foreign>Isle de France</tei:foreign>
         <tei:seg> mit Lebensunterhalt oder dem Auftrage, sie nach Frankreich zurückzubringen, gekommenes Schiff vermutheten. Hippolyt wünschte, das Fahrzeug möchte für Europa bestimmt sein, und hätte es in diesem Falle lieber sogleich betreten, als daß er zuerst noch in die Einöde von St. Marie zurückkehren sollte. Die Pirogue fuhr dicht am Spiegel des ansehnlichen Seglers vorbei, und rief die oben aufgestellten Wachen </tei:seg>
         <tei:pb n="251"/>
         <tei:seg> an, wohin sie bestimmt wären. „Nach Brest!“ hieß es, und Hippolyts Herz schlug laut vor Freuden.</tei:seg>
@@ -2154,20 +2166,16 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die Anker rollen herauf, der Wind erfaßte die Segel, im Nu schwankt das Schiff mit majestätischer Bewegung über die Fläche des trügerischen Elements. Unterlaßt nicht, ihm Eure besten Wünsche nachzuschicken!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.5" first-line-indent="0.0" style="text-center" extract="">
         <tei:seg>___________</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left" extract="">
         <tei:seg>Hippolyt nahm in Frankreich wieder Dienste. Er trägt jetzt die Epaulettes Louis Philipps; Colas ist noch immer sein treuer Freund und Diener; Polyglotte hat die Anwartschaft auf einen Sitz in der Akademie; sein ausgezeichnetes Werk über die Verwandschaft der arabischen und madagassischen Sprache befindet sich unter der Presse.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Noch immer liegt derselbe Schleier der Melancholie auf dem jungen Manne, welcher in ganz Paris als der Prinz von Madagaskar bekannt ist. Jetzt besäß’ er die Eigenschaften, seine Eroberung zu machen, vielleicht mehr als früher, er kennt seine Muttersprache; aber er lächelt, wenn ihm Jemand dazu rathet. Seine liebste Freude ist die, mit Colas und Polyglotte gemeinschaftlich einige Stunden traulich zu verleben und dem Andenken Araxatens seine Worte und Thränen zu weihen. Die Unglückliche ertrug die Mühseligkeit der Reise nicht, und fand tief in den Wellen des Ozeans ihr kühles Grab.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Die Grundlage dieser Erzählung bilden beglaubigte Thatsachen, über die man </tei:seg>
-        <tei:seg>Frédéric II. Oeuvres publiées du vivant de l’Auteur. Berlin 1798. Tom. I. p. 261</tei:seg>
-        <tei:seg> folg. vergleichen mag.</tei:seg>
-      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
     </tei:body>
   </tei:text>
 </tei:TEI>
