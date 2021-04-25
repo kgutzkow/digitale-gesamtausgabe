@@ -22,7 +22,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Karl Gutzkow: Eine nächtliche Unterkunft. In: Bazar-Zeitung. Berlin. Nr. 2, 9. März 1870, S. 5-7. (Rasch 3.70.03.09).</tei:bibl>
+      <tei:bibl>Karl Gutzkow: Eine nächtliche Unterkunft. In: Bazar-Zeitung. Berlin. Nr. 2, 9. März 1870, S. 5-7. (Rasch 3.70.03.09)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -33,7 +33,8 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2019-11-22" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change when="2008-11-06" who="#WolfgangRasch">1.0</tei:change>
+      <tei:change when="2021-04-21" who="#WolfgangRasch">2.0: TEI-Auszeichnung, Kommentar hinzugefügt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -42,90 +43,579 @@
         <tei:pb n="5"/>
         <tei:seg> Eine nächtliche Unterkunft.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>In jenen, noch dem ersten Drittel unseres Jahrhunderts angehörenden Tagen, wo Berlin rundum keine andere große Stadt in der Nachbarschaft hatte, als eine solche, die erst nach einer Postreise von zwanzig Meilen zu erreichen war, bildete sich jene noch nicht vollkommen überwundene eigenthümliche Naivetät oder, nennen wir es beim richtigeren Namen - kleinstädtische Unzulänglichkeit aus, die den Charakter des berliner Pfahlbürgerthums in Manchem auch noch heute bezeichnen dürfte. Die Sperre gegen eine Welt, die damals dem Berliner schon hinter Potsdam für gleichsam "mit Brettern vernagelt" galt, war eine beinahe hermetische. Daher auch die Langsamkeit, womit sich der Zeitgeist, die freiheitliche Entwicklung Preußens nur erst allmälig, ja mit Beweisen völliger Unbeholfenheit, anschickte, dem Fortschritt des übrigen Europa zu folgen.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>In jenen, noch dem ersten Drittel unseres Jahrhunderts angehörenden Tagen, wo Berlin rundum keine andere große Stadt in der Nachbarschaft hatte, als eine solche, die erst nach einer Postreise von zwanzig Meilen zu erreichen war, bildete sich jene noch nicht vollkommen überwundene eigenthümliche Naivetät oder, nennen wir es beim richtigeren Namen - kleinstädtische Unzulänglichkeit aus, die den Charakter des berliner Pfahlbürgerthums in Manchem auch noch heute bezeichnen dürfte. Die Sperre gegen eine Welt, die damals dem Berliner schon hinter Potsdam für gleichsam </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">„mit Brettern vernagelt</tei:ref>
+        <tei:seg>“ galt, war eine beinahe hermetische. Daher auch die Langsamkeit, womit sich der Zeitgeist, die freiheitliche Entwicklung Preußens nur erst allmälig, ja mit Beweisen völliger Unbeholfenheit, anschickte, dem Fortschritt des übrigen Europa zu folgen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der Wohnung des Monarchen, </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Noch bis zur Märzrevolution befand sich im königlichen Schlosse, dicht unter der </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">Wohnung des Monarchen</tei:ref>
+        <tei:seg>, </tei:seg>
         <tei:ref type="esv" target="#annotation-1">in jenem Portal</tei:ref>
         <tei:seg>, das </tei:seg>
         <tei:ref type="esv" target="#annotation-5">seit dem Jahre 1844</tei:ref>
         <tei:seg> dem Publikum nicht mehr als Durchgang geöffnet ist, ein alter Rumpelkasten, </tei:seg>
-        <tei:hi style="letter-sparse">Portechaise</tei:hi>
-        <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: "Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">
+          <tei:hi style="letter-sparse">Portechaise</tei:hi>
+        </tei:ref>
+        <tei:seg> genannt, an deren mit grünem Kattun verhangenem Fenster unorthographisch zu lesen stand: „Wer sich dieser Portechaise bedienen will, melde sich in der </tei:seg>
         <tei:ref type="esv" target="#annotation-3">Nagelgasse</tei:ref>
-        <tei:seg>." Letztere, jetzt zur "Rathhausstraße" avancirt, begrenzt die südöstliche Front des </tei:seg>
+        <tei:seg>.“ Letztere, jetzt zur „Rathhausstraße“ avancirt, begrenzt die südöstliche Front des </tei:seg>
         <tei:ref type="esv" target="#annotation-4">neuen Rathhauses</tei:ref>
-        <tei:seg> - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die "Gerichtslaube," für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
+        <tei:seg> - gelegentlich bemerkt eines Baues, dessen Großartigkeit den Styl, den kräftigen Griffel des neunzehnten Jahrhunderts in so überwältigendem Maaße bezeichnet, daß bei allem Reiz, den ein alter Rest der Vergangenheit, die </tei:seg>
+        <tei:ref type="esv" target="#annotation-45">„Gerichtslaube,“</tei:ref>
+        <tei:seg> für die Tafeln der Chronik in Anspruch nehmen darf, ihn die Gegenwart doch für ihre Ueberlieferungen an die Zukunft wie einen sinnstörenden - Druckfehler beseitigen darf.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Und auf dem Gensdarmenmarkt, an derjenigen Seite des "französischen Thurms," die dem Wechselgeschäft der Herren Brest und Gelpcke grade gegenüber liegt, wuchs nicht nur in den Winkeln, die von den dürftigen Anbauten der beiden stolzen "Gensdarmenmarktthürme" gebildet werden, das helle, frische, grüne Gras, untermischt zuweilen mit "Butterblumen," sondern es war sogar möglich, daß die damalige schutzmannslose, nur auf jene "Polizeikommissarien" mit den Dreimastern und karmoisinrothen Kragen und Aufschlägen am Rock angewiesene Zeit in einem dieser Winkel - einen alten ausgedienten </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Und auf dem Gensdarmenmarkt, an derjenigen Seite des </tei:seg>
+        <tei:ref type="esv" target="#annotation-44">„französischen Thurms,“</tei:ref>
+        <tei:seg> die dem Wechselgeschäft der Herren </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Brest und Gelpcke</tei:ref>
+        <tei:seg> grade gegenüber liegt, wuchs nicht nur in den Winkeln, die von den dürftigen Anbauten der beiden stolzen </tei:seg>
+        <tei:ref type="esv" target="#annotation-46">„Gensdarmenmarktthürme“</tei:ref>
+        <tei:seg> gebildet werden, das helle, frische, grüne Gras, untermischt zuweilen mit „Butterblumen,“ sondern es war sogar möglich, daß die damalige schutzmannslose, nur auf jene „Polizeikommissarien“ mit den Dreimastern und karmoisinrothen Kragen und Aufschlägen am Rock angewiesene Zeit in einem dieser Winkel - einen alten ausgedienten </tei:seg>
         <tei:hi style="letter-sparse">Leichenwagen</tei:hi>
-        <tei:seg> duldete, der entweder durch irgend ein Mißverständniß zur Ueberwinterung dort stehen geblieben oder sonst aus dem Inventar des Leichenfuhrwesens in der Georgenstraße ausgestrichen war. Die Deichsel für die Rosse, die uns zum ewigen Frieden fahren, fehlte nicht. Aber die schwarze Draperie schillerte schon in's vollkommen Röthliche. Die Todtengräber Hamlets hätten hier Betrachtungen anstellen können über die Vergänglichkeit alles Irdischen. Ludwig Devrient, von Lutter und Wegener kommend und sich auf die Rolle besinnend, die der große Mime am Abend zu spielen hatte, mag manchen verstohlenen Blick hinüber geworfen haben auf den alten Charonsnachen, der manchmal fehlte, nach kurzer Pause sich aber immer wieder einstellte unter den gewölbten Thürmen, um deren Säulen und Säulchen die Spatzen und die Krähen und die Habichte nisteten. Berlin, das gegenwärtig alles brauchen kann, selbst die Denkmäler von den Gräbern, Berlin, das jetzt die Broncebilder der Todten von den Kirchhöfen stiehlt, ließ diesen alten Leichenwagen unangetastet.</tei:seg>
+        <tei:seg> duldete, der entweder durch irgend ein Mißverständniß zur Ueberwinterung dort stehen geblieben oder sonst aus dem Inventar des </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">Leichenfuhrwesens in der Georgenstraße</tei:ref>
+        <tei:seg> ausgestrichen war. Die Deichsel für die Rosse, die uns zum ewigen Frieden fahren, fehlte nicht. Aber die schwarze Draperie schillerte schon in's vollkommen Röthliche. Die </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Todtengräber Hamlets</tei:ref>
+        <tei:seg> hätten hier Betrachtungen anstellen können über die Vergänglichkeit alles Irdischen. </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">Ludwig Devrient</tei:ref>
+        <tei:seg>, von </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">Lutter und Wegener</tei:ref>
+        <tei:seg> kommend und sich auf die Rolle besinnend, die der große Mime am Abend zu spielen hatte, mag manchen verstohlenen Blick hinüber geworfen haben auf den alten </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">Charonsnachen</tei:ref>
+        <tei:seg>, der manchmal fehlte, nach kurzer Pause sich aber immer wieder einstellte unter den gewölbten Thürmen, um deren Säulen und Säulchen die Spatzen und die Krähen und die Habichte nisteten. Berlin, das gegenwärtig alles brauchen kann, selbst die Denkmäler von den Gräbern, Berlin, das jetzt die Broncebilder der Todten von den Kirchhöfen stiehlt, ließ diesen alten Leichenwagen unangetastet.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Abends, wenn der Sturm brauste, die Laternen, ohne Gaslicht </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Abends, wenn der Sturm brauste, die Laternen, </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">ohne Gaslicht</tei:ref>
+        <tei:seg> </tei:seg>
         <tei:pb n="6"/>
-        <tei:seg> und manchmal quer über die Straßen hinweggezogen, in ächzenden Tönen hin und her schaukelten, die Wagen der Vornehmen und Reichen dumpf über ein noch naturwüchsiges Pflaster rollten, hier und da ein Leierkasten aus einem Keller wie ein ferner Unkenruf ertönte und in den Straßen jener gespenstische Mann umging, der, ein Fäßchen in der Hand tragend, aus einer bis zu seinen Ohren, ja bis zur Nase hinaufreichenden stolzen rothen Cravatte mit einem gewissen würdevollen Anstand, aber geisterhaft hohl, den Ausruf hervorpreßte: "Neunaugen! Neunaugen -!" da schlich sich fröstelnd, die Hände in abgetragene, viel zu kurze, geflickte Beinkleider gesteckt, einen verschossenen Frack auf dem ausgehungerten Leibe, einen mannigfach brüchigen, beulenreichen Filzhut auf dem Haupte, eine verwitterte, magere, kleine Gestalt über den Markt, auf welchem öde Stille herrschte, nachdem sich eben die Zuschauer des Schauspielhauses, die vielleicht eine neue Posse von Raupach ausgezischt hatten, verlaufen hatten.</tei:seg>
+        <tei:seg> und manchmal quer über die Straßen hinweggezogen, in ächzenden Tönen hin und her schaukelten, die Wagen der Vornehmen und Reichen dumpf über ein noch naturwüchsiges Pflaster rollten, hier und da ein Leierkasten aus einem Keller wie ein ferner Unkenruf ertönte und in den Straßen jener gespenstische Mann umging, der, ein Fäßchen in der Hand tragend, aus einer bis zu seinen Ohren, ja bis zur Nase hinaufreichenden stolzen rothen Cravatte mit einem gewissen würdevollen Anstand, aber geisterhaft hohl, den Ausruf hervorpreßte: „</tei:seg>
+        <tei:ref type="esv" target="#annotation-18">Neunaugen</tei:ref>
+        <tei:seg>! Neunaugen -!“ da schlich sich fröstelnd, die Hände in abgetragene, viel zu kurze, geflickte Beinkleider gesteckt, einen verschossenen Frack auf dem ausgehungerten Leibe, einen mannigfach brüchigen, beulenreichen Filzhut auf dem Haupte, eine verwitterte, magere, kleine Gestalt über den Markt, auf welchem öde Stille herrschte, nachdem sich eben die Zuschauer des Schauspielhauses, die vielleicht eine neue Posse von </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">Raupach</tei:ref>
+        <tei:seg> ausgezischt hatten, verlaufen hatten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Der sich scheu Umblickende hatte keine Wohnung. Sein Name war von den Sternen hergenommen. Dort oben am blitzenden Nachthimmel stand die Constellation, die ihm den Vornamen gegeben. Besonders zur Winterszeit leuchtete sein Stern hellauf in einem Licht, das alle andern Sterne überstrahlte. In den Sternen auch hatte er seine eigentliche Behausung, nicht in der Dorotheen- und nicht in der Friedrichsstadt. Vorsichtig nähert er sich dem Leichenwagen ... Bist du heute wieder da, alter Freund -? Hat dich Charon heute Nacht nicht nöthig, um vom "Thürmchen" im "Voigtland" eine Leiche auf die Anatomie zu fahren -? Schont der "Leichenkommissarius" seine Gäule, wenn er sie erst hier einspannt, um einen Armen im "Nasenquetscher" auf Saturns großes Brach- und Nivellirungsfeld, auf den Friedhof, zu fahren -? .... Und husch -! Die verwitterte Gestalt, herabgekommen wie der Apotheker von Mantua, der an Romeo Gift verkaufte, weil die Geschäfte der üblichen Pharmakopöe so schlecht gingen, hebt die Vorhangsfetzen des Wagens auf und schiebt sich langsam hinein in ein damaliges - Asyl für Obdachlose.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der sich scheu Umblickende hatte keine Wohnung. </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Sein Name</tei:ref>
+        <tei:seg> war von den Sternen hergenommen. Dort oben am blitzenden Nachthimmel stand </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">die Constellation</tei:ref>
+        <tei:seg>, die ihm den Vornamen gegeben. Besonders zur Winterszeit leuchtete sein Stern hellauf in einem Licht, das alle andern Sterne überstrahlte. In den Sternen auch hatte er seine eigentliche Behausung, nicht in der Dorotheen- und nicht in der Friedrichsstadt. Vorsichtig nähert er sich dem Leichenwagen ... Bist du heute wieder da, alter Freund -? Hat dich Charon heute Nacht nicht nöthig, um vom </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">„Thürmchen</tei:ref>
+        <tei:seg>“ im </tei:seg>
+        <tei:ref type="esv" target="#annotation-47">„Voigtland“</tei:ref>
+        <tei:seg> eine Leiche auf die Anatomie zu fahren -? Schont der </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">„Leichenkommissarius</tei:ref>
+        <tei:seg>“ seine Gäule, wenn er sie erst hier einspannt, um einen Armen im </tei:seg>
+        <tei:ref type="esv" target="#annotation-25">„Nasenquetscher</tei:ref>
+        <tei:seg>“ auf </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">Saturns</tei:ref>
+        <tei:seg> großes Brach- und Nivellirungsfeld, auf den Friedhof, zu fahren -? .... Und husch -! Die verwitterte Gestalt, herabgekommen wie der </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Apotheker von Mantua</tei:ref>
+        <tei:seg>, der an Romeo Gift verkaufte, weil die Geschäfte der üblichen </tei:seg>
+        <tei:ref type="esv" target="#annotation-28">Pharmakopöe</tei:ref>
+        <tei:seg> so schlecht gingen, hebt die Vorhangsfetzen des Wagens auf und schiebt sich langsam hinein in ein damaliges - Asyl für Obdachlose.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Fand sich wohl ein Stück Holz, eine Planke darin vor - den Trägern mit den langen Flören am Dreimaster benöthigt, um den Sarg in die Grube zu senken - so rückt sie der lebende Todte so, daß sein Haupt mit den langen weißen Haaren eine Stütze findet beim Sichausstrecken. Vielleicht achtet er auch die neue Beule nicht viel an seinem wettererprobten Cylinder, wenn er damit dem harten Holz einige Weiche giebt und die hohle, gefurchte Wange aufstützt. Ruhen wird er; er wird schlafen. An diesem schwarzen Wagen huscht die von einem Ball bei "Dalichows" in der Dorotheenstraße kommende Schöne aus dem Volke, der Spieler, der im Hinterzimmer eines "Italieners" - wir meinen nicht gerade des damaligen Austern-Sala-Tarone - einen glücklichen Wurf gethan, der in der Nacht gerufene Arzt, der um Mitternacht sein Coupé nicht anspannen lassen kann, schnell und scheu vorüber. Selbst der Nachtwächter hält sich in der Ferne, dort, wo ein Ruf: "Wächter -!" ihm ein Trinkgeld für's Einlassen in ein verschlossenes Haus, dessen Schlüssel an seinem klirrenden Eisenbunde hängt, sicherer einbringt, als wenn er hier Posto faßte in der düster-unheimlichen Ecke an einer Kirche, wo vielleicht damals - der junge </tei:seg>
-        <tei:hi style="letter-sparse">Fournier</tei:hi>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Fand sich wohl ein Stück Holz, eine Planke darin vor - den Trägern mit den langen Flören am Dreimaster benöthigt, um den Sarg in die Grube zu senken - so rückt sie der lebende Todte so, daß sein Haupt mit den langen weißen Haaren eine Stütze findet beim Sichausstrecken. Vielleicht achtet er auch die neue Beule nicht viel an seinem wettererprobten Cylinder, wenn er damit dem harten Holz einige Weiche giebt und die hohle, gefurchte Wange aufstützt. Ruhen wird er; er wird schlafen. An diesem schwarzen Wagen huscht die von einem Ball bei </tei:seg>
+        <tei:ref type="esv" target="#annotation-30">„Dalichows</tei:ref>
+        <tei:seg>“ in der Dorotheenstraße kommende Schöne aus dem Volke, der Spieler, der im Hinterzimmer eines „Italieners“ - wir meinen nicht gerade des damaligen </tei:seg>
+        <tei:ref type="esv" target="#annotation-31">Austern-Sala-Tarone</tei:ref>
+        <tei:seg> - einen glücklichen Wurf gethan, der in der Nacht gerufene Arzt, der um Mitternacht sein Coupé nicht anspannen lassen kann, schnell und scheu vorüber. Selbst der Nachtwächter hält sich in der Ferne, dort, wo ein Ruf: „Wächter -!“ ihm ein Trinkgeld für's Einlassen in ein verschlossenes Haus, dessen Schlüssel an seinem klirrenden Eisenbunde hängt, sicherer einbringt, als wenn er hier Posto faßte in der düster-unheimlichen Ecke an einer Kirche, wo vielleicht damals - der junge </tei:seg>
+        <tei:ref type="esv" target="#annotation-32">
+          <tei:hi style="letter-sparse">Fournier</tei:hi>
+        </tei:ref>
         <tei:seg> als feuriger Candidat in französischer Sprache predigte und sich nicht träumen ließ, wie übel einem Geistlichen der Wetteifer mit dem Pathos eines Schauspielers bekommen kann.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Der Obdachlose war ein Dichter ohne Verleger. Er lebte in einer Zeit, wo die Journale Berlins unter Censur standen. Ein Absatz von 500 Exemplaren war schon die allerglücklichste Chance für - "Belletristik." Ein Honorar von einem Thaler zahlte man für ein Gedicht, von funfzehn Silbergroschen für eine Reihe von Lückenbüßern, damals "Aphorismen," "Streckverse," "Sternschnuppen" oder ähnlich genannt. Ach ja, die Sterne, die hatten es dem halben Polen angethan! Er hatte sich die Sprache Schiller's und Goethe's angeeignet, sang Dithyramben, Oden, Bardenlieder - alles in einem Styl, der an Pindar erinnerte - seiner Unverständlichkeit wegen. Aber schon in jener Zeit war die Lektüre frivol. Lieber wollte man Clauren lesen, als Klopstock. Die Gebildeteren hatten gerade Van der Velde. Sogar die Aesthetiker </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der Obdachlose war ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-33">Dichter ohne Verleger</tei:ref>
+        <tei:seg>. Er lebte in einer Zeit, wo die Journale Berlins unter Censur standen. Ein Absatz von 500 Exemplaren war schon die allerglücklichste Chance für - „Belletristik.“ Ein Honorar von einem Thaler zahlte man für ein Gedicht, von funfzehn Silbergroschen für eine Reihe von Lückenbüßern, damals „Aphorismen,“ „Streckverse,“ „Sternschnuppen“ oder ähnlich genannt. Ach ja, die Sterne, die hatten es dem </tei:seg>
+        <tei:ref type="esv" target="#annotation-34">halben Polen</tei:ref>
+        <tei:seg> angethan! Er hatte sich die Sprache Schiller's und Goethe's angeeignet, sang Dithyramben, Oden, Bardenlieder - alles in einem Styl, der an Pindar erinnerte - seiner Unverständlichkeit wegen. Aber schon in jener Zeit war die Lektüre frivol. Lieber wollte man </tei:seg>
+        <tei:ref type="esv" target="#annotation-35">Clauren</tei:ref>
+        <tei:seg> lesen, als Klopstock. Die Gebildeteren hatten gerade </tei:seg>
+        <tei:ref type="esv" target="#annotation-36">Van der Velde</tei:ref>
+        <tei:seg>. Sogar die Aesthetiker </tei:seg>
         <tei:hi style="letter-sparse">sprachen</tei:hi>
-        <tei:seg> zwar von Goethe, nippten aber, wie in dem Hinterzimmer des "Italieners" Rosoglio, so an den "Teufelselixiren" von Hoffmann. Was war da der verkommene Träumer, der noch bei Ossian stand und bei Jean Paul! Der einen Gedanken, der ihm aufgeblitzt bei seinem jeweiligen Erwachen in seinem dunkeln Leichenwagen (- und wo denken wir wahrer, fühlen wir tiefer, als in der Nähe der Todten! -) nur dadurch schlagend, </tei:seg>
+        <tei:seg> zwar von Goethe, nippten aber, wie in dem Hinterzimmer des „Italieners“ </tei:seg>
+        <tei:ref type="esv" target="#annotation-37">Rosoglio</tei:ref>
+        <tei:seg>, so an den </tei:seg>
+        <tei:ref type="esv" target="#annotation-38">„Teufelselixiren</tei:ref>
+        <tei:seg>“ von Hoffmann. Was war da der verkommene Träumer, der noch bei Ossian stand und bei Jean Paul! Der einen Gedanken, der ihm aufgeblitzt bei seinem jeweiligen Erwachen in seinem dunkeln Leichenwagen (- und wo denken wir wahrer, fühlen wir tiefer, als in der Nähe der Todten! -) nur dadurch schlagend, </tei:seg>
         <tei:pb n="7"/>
-        <tei:seg> zündend, lapidar zu machen glaubte, daß er ihn immer enger und enger, immer epigrammatischer und epigrammatischer, zuletzt in zwei Zeilen drängte, wie bei Rochefoucauld und Montaigne, jedes Wort eine ganze Welt - aber - die Zeile laut Quartalsberechnung des Journals drei bis vier Pfennige!</tei:seg>
+        <tei:seg> zündend, lapidar zu machen glaubte, daß er ihn immer enger und enger, immer epigrammatischer und epigrammatischer, zuletzt in zwei Zeilen drängte, wie bei </tei:seg>
+        <tei:ref type="esv" target="#annotation-40">Rochefoucauld und Montaigne</tei:ref>
+        <tei:seg>, jedes Wort eine ganze Welt - aber - die Zeile laut Quartalsberechnung des Journals drei bis vier Pfennige!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Dieser Obdachlose hieß </tei:seg>
-        <tei:hi style="letter-sparse">Orion Julius</tei:hi>
-        <tei:seg>. Seine Werke stehen nicht in den Katalogen der hiesigen Leihbibliotheken. Wer sich aber die Mühe geben will, in alten Jahrgängen des "Freimüthigen", des "Gesellschafters" zu blättern, der wird dort - dem nächtlichen Bewohner des Leichenwagens am Gensdarmenmarkt zuweilen begegnen.</tei:seg>
+        <tei:ref type="esv" target="#annotation-41">
+          <tei:hi style="letter-sparse">Orion Julius</tei:hi>
+        </tei:ref>
+        <tei:seg>. Seine Werke stehen nicht in den Katalogen der hiesigen Leihbibliotheken. Wer sich aber die Mühe geben will, in alten Jahrgängen des </tei:seg>
+        <tei:ref type="esv" target="#annotation-42">„Freimüthigen</tei:ref>
+        <tei:seg>“, des </tei:seg>
+        <tei:ref type="esv" target="#annotation-43">„Gesellschafters</tei:ref>
+        <tei:seg>“ zu blättern, der wird dort - dem nächtlichen Bewohner des Leichenwagens am Gensdarmenmarkt zuweilen begegnen.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">"mit Brettern vernagelt"</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Verbreitete Redewendung, hier Ausdruck für provinzielle Beschränktheit. Wird auch als besondere Berliner Redensart aufgeführt: „‚Hier is de Welt mit Bretter vernagelt‘ d.i. hier geht’s nicht weiter.“ ([Hans Meyer:] Der richtige Berliner in Wörtern und Redensarten. 2., verm. u. verb. Aufl. Berlin 1879, S. 10.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Wohnung des Monarchen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>König Friedrich Wilhelm IV. bewohnte eine Zimmerflucht im ersten Stockwerk des Schlosses, die sich von der Ostseite an der Spree über den Südflügel am Schlossplatz hinzog und dabei sowohl Portal I als auch Portal II überquerte.</tei:seg>
+        </tei:p>
+      </tei:interp>
       <tei:interp type="esv" xml:id="annotation-1">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,17-18</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">in jenem Portal]</tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
-          <tei:seg>Dabei handelte es sich um das Portal I, dem rechten der beiden Portale, die sich am Schloßplatz befanden. Das Schloss hatte fünf Portale, die ins Schlossinnere bzw. in die Schlosshöfe führten: Portal I und II lagen auf der Südfront des Schlosses am Schlossplatz, Portal III (Eosanderportal) an der westlichen Seite an der Schlossfreiheit, Portal IV und V an der nördlichen Seite gegenüber dem Lustgarten.</tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dabei handelte es sich um das Portal I, dem östlichen Eingang an der Südfront des Schlosses zum Schlossplatz. Das Schloss hatte insgesamt fünf Portale.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-5">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">seit dem Jahre 1844]</tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
-          <tei:seg>Portal I war 1844 Schauplatz eines Attentats auf Friedrich Wilhelm IV. geworden. Hier hatte der Bürgermeister von Storkow, Heinrich Ludwig Tschech, am 26. Juli 1844 auf den König und die Königin geschossen, als sie ihren Reisewagen nach Schlesien besteigen wollten. Das königliche Paar blieb unverletzt, Tschech wurde ein paar Monate später in Spandau mit einem Beil hingerichtet.</tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Portal I war 1844 Schauplatz eines Attentats auf Friedrich Wilhelm IV. geworden. Hier hatte der Bürgermeister von Storkow, Heinrich Ludwig Tschech, am 26. Juli 1844 auf den König und die Königin geschossen, als sie ihren Reisewagen nach Schlesien besteigen wollten. Das königliche Paar blieb unverletzt, Tschech wurde ein paar Monate später in Spandau mit einem Beil hingerichtet.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Portechaise</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>(Frz.) Sänfte, Tragesessel. – Die auffallende Existenz dieses altmodischen Fortbewegungsmittels im Schlosseingang wird noch 1833 bezeugt, und zwar in einem Buch des aus der Steiermark stammenden, seit etwa 1820 in Berlin lebenden Schauspielers, Bühnenautors und Schriftstellers Albin von Meddlhammer (1777-1838), der unter dem Pseudonym August Ellrich Sittenschilderungen aus Österreich und Ungarn veröffentlichte. Er schreibt 1833, dass „eine sehr wohl konditionirte Portechaise in einem Winkel des königlichen Schlosses, nahe an einem der Hauptthore steht, und von jedem Vorübergehenden nothwendig bemerkt werden muß. Jeder Berliner dürfte um so gewisser von dieser Portechaise Kenntniß haben, als selbe schon seit mehreren Decennien unverrückt ihren Posten zu behaupten […] scheint […]. […] Warum kein Bewohner Berlins sich dieser Portechaise bedienen will, ist um so weniger zu erklären, als der Eigenthümer derselben durch eine beigefügte Inschrift deutlich erklärt, daß Personen, welche Lust und Belieben tragen, sich ihrer zu bedienen, nur in die, ungefähr eine Viertelmeile vom königlichen Schlosse entfernte, im Berliner Revier gelegene Nagelgasse zu kommen, und daselbst ihr Verlangen anzuzeigen haben.“ (August Ellrich [d.i. Albin von Meddlhammer]: Genre-Bilder aus Oestreich und den verwandten Ländern. Berlin: Vereins-Buchhandlung, 1833. S. 88-89.)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-3">
-        <tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Nagelgasse]</tei:citedRange>
         </tei:p>
-        <tei:p>
-          <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt.</tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Nagelgasse verband die Spandauer Straße mit der Jüdenstraße. Nachdem 1869 das neue Rathaus gebaut worden war und ein Teil der Häuser der Nagelgasse dem Neubau weichen musste, wurde sie zur Rathausstraße umbenannt. Seit 1991 trägt sie den Namen Gustav-Böß-Straße. (Lexikon. Alle Berliner Straßen und Plätze. Von der Gründung bis zur Gegenwart. Hrsg. von Hans-Jürgen Mende. Berlin: Verl. Neues Leben, 1998. Bd. 3, S. 206.)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-4">
-        <tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">neuen Rathhauses]</tei:citedRange>
         </tei:p>
-        <tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Nachdem das alte, zum Teil noch aus dem 14. Jahrhundert stammende Berliner Rathaus an der Spandauer Straße zu klein geworden war, beschloss man Ende der 1850er Jahre einen Neubau. Er wurde nach Plänen des Architekten Hermann Friedrich Waesemann (1813-1879) unter Berücksichtigung früherer Entwürfe Schinkels zwischen 1861 und 1869 auf einer Fläche zwischen der damaligen Königs- und Jüdenstraße, der Nagelgasse und der Spandauer Straße ausgeführt. Mehrere Häuser und die Anlagen des alten Rathauses wurden dafür abgerissen.  Der rote Backsteinbau gab dem Gebäude bald den Namen 'Rotes Rathaus'. Das prächtige Gebäude im Rundbogenstil, mit Neorenaissanceelementen, reichem Terracottaschmuck der Fassade und prachtvoll gestalteten Innenräumen sowie einem 97 Meter hohen Turm war Ausdruck eines durch die Industrialisierung gesteigerten Selbstbewußtseins  des Berliner Bürgertums und wiedergewonnener kommunaler Selbständigkeit. Schon 1865 konnte in einem fertig gewordenen Teilabschnitt des Rathauses der Magistrat tagen, am 6. Januar 1870 fand im Rathaus die erste Stadtverordnetenversammlung statt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-45">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,27-28</tei:citedRange>
+          <tei:seg> „Gerichtslaube,“] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die alte Berliner Gerichtslaube, ein Gebäude aus der Gotik, mußte dem Neubau des Rathauses weichen. Der Abriss war umstritten und führte vor allem bei Lokalhistorikern und Denkmalschützern zu heftigen Protesten. Kaiser Wilhelm I. verfügte 1871 schließlich, die abgetragene Gerichtslaube im Park von Schloss Babelsberg wieder aufzubauen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-44">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„französischen Thurms“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Der barocke Kuppelturm des Französischen Doms auf dem Gendarmenmarkt, 1780-1785 von Carl von Gontard erbaut.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Brest und Gelpcke</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Bank- und Wechselgeschäft von Breest und Gelpcke befand sich in der Französischen Straße 42, zwischen Markgrafen- und Charlottenstraße, gegenüber dem Französischen Dom.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-46">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">2,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Gensdarmenmarktthürme“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die von Gontard entworfenen bauidentischen Kuppeltürme des Französischen Doms und der westlich gegenüber liegenden Deutschen Kirche prägen die Silhouette des Gendarmenmarkt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Leichenfuhrwesens in der Georgenstraße</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Unter dem Stichwort „Leichen-Fuhrwesen“ führt Leopold Freiherr von Zedlitz 1834 aus: „Dasselbe ist verpachtet, und der Pächter führt den Titel eines </tei:seg>
+          <tei:hi style="letter-sparse">Leichenkommissarius</tei:hi>
+          <tei:seg>. Gegenwärtig bekleidet der Amtmann Seidel diese Stelle. Seine Wohnung und das Beerdigungs-Comptoir ist Friedrichstraße Nr. 98. Es steht unter der Aufsicht der Polizei, und muß alle benöthigten Wagen, Pferde und sonstige Geräthschaften zu den Beerdigungen vorräthig halten.“ (Zedlitz, S. 418). Später befand sich die Geschäftsstelle des Unternehmens in der Georgenstraße 12.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Todtengräber Hamlets</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Sie treten in der ersten Szene des 5. Aufzugs von Shakespeares „Hamlet“ auf, die auf einem Kirchhof spielt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,16</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ludwig Devrient</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Schauspieler Ludwig Devrient (1784-1832) war seit 1815 am Königlichen Schauspielhaus in Berlin engagiert und gehörte zu den Stars der Berliner Bühne.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,16-17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Lutter und Wegener</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Berühmte Berliner Weinstube. Sie lag in der Charlottenstraße an der Ecke zur Französischen Straße, schräg gegenüber dem Königlichen Schauspielhaus und war 1811 eröffnet worden. Hier verkehrten von Anfang an bevorzugt Schauspieler und Schriftsteller. Legendären Ruhm erlangte die Weinstube durch Ludwig Devrient und E. T. A. Hoffmann, die dort regelmäßig nach dem Ende der Theatervorstellung zechten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,19-20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Charonsnachen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In der griech. Mythologie ist Charon ein düsterer Greis, der auf einem morschen Kahn die Seelen der Abgeschiedenen über den Fluss Styx oder den stygischen See in die Unterwelt befördert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ohne Gaslicht</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gaslaternen wurden in Berlin erst 1826 eingeführt. „Bis zum Jahre 1826 war Berlin nur durch Oellampen beleuchtet, traurige Laternen, welche kaum das tiefe Dunkel in den Straßen auch nur einigermaßen zu erhellen vermochten. […] Am 19. September 1826 strahlten unter den Linden die ersten Gasflammen ihr Licht aus […].“ (Adolf Streckfuß: 500 Jahre Berliner Geschichte. Vom Fischerdorf zur Weltstadt. 3. Aufl. Berlin: Brigl, 1880, Bd. 2, S. 817.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Neunaugen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Neunaugen sind „aalähnliche, nackte, fischähnliche Tiere mit knorpeligem Skelett, [...] sieben äußern Kiemenöffnungen (die vom Volk als Augen betrachtet und gezählt wurden) […]. Allen Neunaugen ist ein scharfer charakteristischer Geruch eigentümlich.“ (Meyer, Bd. 14, S. 568-569). Neunaugen wurden einst als Speisefisch geschätzt, noch im 19. Jahrhundert massenhaft gefangen und verarbeitet. „In Berlin und in andern großen norddeutschen Städten werden die Neunaugen auf den Strassen ausgerufen, in die Häuser getragen und des wohlfeilen Preises halber vom Volke in großer Menge verzehrt.“ (Neuestes vollständiges und unentbehrliches Taschenbuch für Freunde des Fischfanges. 2. Aufl. München: Fleischmann, 1849. S. 30).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Raupach</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Ernst Raupach (1784-1852), erfolgreicher und vom preußischen Hof protegierter Dramatiker, dessen Stücke besonders zwischen 1830 und 1850 zu den meist gespielten in Berlin gehörten. (→ Lexikon)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sein Name</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Orion Julius, vgl. Erl. zu 5,9.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Constellation</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Orion, ein Sternbild der Äquatorzone, das aus mehreren Sternen erster und zweiter Größe besteht und im Winter am Abendhimmel gut sichtbar ist.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,19</tei:citedRange>
+          <tei:seg> „Thürmchen“] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>So wurde in Berlin das von dem Berliner Ratsherrn Christian Koppe zu Beginn des 18. Jahrhunderts gestiftete Armenhospital in der Auguststraße genannt. Hinter dem Haus befanden sich ein Armenfriedhof, auf dem Friedhofsgelände „das gerichtliche Obduktions-Haus für die Leichen der Verunglückten und Selbstmörder.“ (Zedlitz S. 390.) Die hier obduzierten Leichen wurden anschließend zur Anatomie in die Charlottenstraße gebracht. Ausführlicher berichtet Gutzkow über diesen unheimlichen Ort 1852 in seinen Erinnerungen „Aus der Knabenzeit“ (HU, S. 1607-1610).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-47">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Voigtland“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>So wurde im 19. Jahrhundert ein berüchtigtes proletarisches Elendsquartier vor dem Hamburger und Oranienburger Tor genannt. Den Namen hatte das Viertel von Saisonarbeitern aus dem sächsischen Vogtlande erhalten, die hier in primitiven Unterkünften hausten. (Vgl. Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904, S. 132). Das Thürmchen befand sich allerdings nicht im Voigtland, sondern innerhalb der Stadtmauern, im nördlichen Teil des Spandauer Viertels (Spandauer Vorstadt).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,21</tei:citedRange>
+          <tei:seg>  </tei:seg>
+          <tei:citedRange type="word-range">„Leichenkommissarius“</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Vgl. → Erl. zu 2,11.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Nasenquetscher“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In Berlin volkstümlicher Begriff für einen „schlechte(n), billige(n) Sarg. (Der Armensarg hatte früher einen flachen Deckel.)“ (Hans Meyer: Der Richtige Berliner in Wörtern und Redensarten. 6. Aufl. Berlin: Hermann, 1904. S. 86.) Gutzkow erklärt 1852 in </tei:seg>
+          <tei:q>Aus der Knabenzeit</tei:q>
+          <tei:seg> den Ausdruck: </tei:seg>
+          <tei:q>So nannte das Volk Todtenladen, denen kein Maaß nach der Beschaffenheit der Leiche genommen wurde, sondern die passen mußten, ob auch die Nase dabei zu Grunde ging. </tei:q>
+          <tei:seg>(HU, S. 1614.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Saturns</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Saturnus ist in der römischen Mythologie der Saatgott, der Gott des Ackerbaus. Er wurde dem aus der griechischen Sage stammenden Titanen Kronos, dem Gott der Zeit und Urvater der Götter, gleichgestellt. In bildlichen Darstellungen wird er mit einer Sichel (Ackerbau), aber auch mit Sense und Stundenglas (Herrscher über die Zeit) wiedergegeben.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">der Apotheker von Mantua</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In Shakespeares Tragödie „Romeo und Julia“ (5. Aufzug, 1. Szene) verkauft ein verarmter und heruntergekommener Apotheker in Mantua Romeo eine Giftmischung, mit der sich dieser tötet.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,26</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pharmakopöe</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Arzneibereitungsvorschrift (Heyse 1859, S. 688). Präzise Anweisungen zur Herstellung von Medikamenten erschienen gesammelt in offiziellen Pharmakopöen, an die sich Ärzte und Apotheker streng halten mussten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Dalichows“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Name 'Dalichow' ist im Berliner Wohnungsanzeiger zwischen 1825 und 1835 nicht nachweisbar. Vermutlich ist G. Dalchow gemeint, der bis etwa 1830 Inhaber einer Tabagie und des ‚Berliner Saals‘ in der Dorotheenstraße 58 war.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-31">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Austern-Sala-Tarone]</tei:citedRange>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Name eines sehr vornehmen Wein- und Delikatessengeschäftes mit angeschlossener Weinstube an der Ecke Unter den Linden und Charlottenstraße. Die Firma ›Sala Tarone und Comp.‹ war seit 1812 im Besitz von Joseph Sala, der sie von seinem Vater übernommen hatte. Das Lokal hat es zu einer gewissen literarischen Prominenz gebracht: E. T. A. Hoffmann erwähnt es schon in seiner Novelle „Die Fermate“ (1815), dann in „Die Brautwahl“ (1819), Heine in seinen „Briefen aus Berlin“ (1822; vgl. DHA, Bd. 6, S. 15 u. (Anm.) S. 400) und noch bei Fontane ist es Schauplatz des 3. Kapitels seines historischen Romans „Schach von Wuthenow“ (1883; „Bei Sala Tarone“).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-32">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Fournier</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>August Fournier (1800-1874), Prediger der französisch-reformierten Kirche in der Klosterstraße, Konsistorialrat und Vorsteher der Französischen Gemeinde. Gutzkow spielt in den folgenden Zeilen auf einen Skandal an, den Fournier 1869 provozierte: Er hatte einer schon schwangeren „Braut, die zur Trauung erschienen war und ihren Kranz zu Unrecht trug […] mit den Worten: ‚Meine Tochter, was hast Du getan?‘ […] eine Ohrfeige gegeben […]. Als er deswegen verklagt wurde, schwor er es ab, mußte aber den Abschied nehmen“. (Emil Du Bois-Reymond: Jugendbriefe an Eduard Hallmann. Berlin: 1918, S. 141-142.) Fontane erinnert noch 1898 in seinen Lebenserinnerungen „Von Zwanzig bis Dreissig“ an „den zur Notorität gelangten und seinerzeit so viel besprochenen Fournier-Streifall“ (GBA, Das autobiographische Werk, Bd. 3, S. 435; vgl. auch den Kommentar zu dieser Affäre S. 861-862).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-33">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Dichter ohne Verleger</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Der weiter unten (vgl. Erl. zu 5,9) genannte Orion Julius publizierte hauptsächlich in belletristischen Journalen (vgl. Goedeke, Bd. XVII, S. 687f.), eigene Werke von ihm sind nicht verlegt worden. Lediglich zwei Übersetzungen erschienen selbstständig, darunter die zweite offenbar im Eigenverlag: 1. Demetrius der Erste, Czaar von Moscau. Hist. Gemälde. Aus dem Poln. [des Juljan Ursyn Niemcewicz] von Orion Julius. Angehängt: Die glücklichen Zufälle von C[hristoph] A[ndreas] Lindenhan. Hamburg: Herold 1824. – 2. Fürstin Radziwill. Trauerspiel in 5 Abth. Frei nach dem Poln. [Alojyz] Felinski’s von Orion Julius. Berlin, gedruckt bei Ferd. Nietack, 1831.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-34">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">halben Polen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Welche Beziehungen Orion Julius zu Polen hatten, ließ sich nicht aufklären. Für starke polnische Affinitäten sprechen seine beiden Übersetzungen bzw. Bearbeitungen aus dem Polnischen (vgl. Erl. zu 4,18), auf die Gutzkow möglicherweise hier anspielt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-35">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Clauren</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Heinrich Clauren, Pseudonym für Karl Gottlob Samuel Heun (1771-1854). Zwischen 1800 und 1830 schrieb er zahlreiche, von einem Massenpublikum goutierte Romane, Novellen und Lustspiele. Seine populären Erzählwerke (vor allem „Mimili“, 1816) galten als ‚schlüpfrig‘. Seit 1820 lebte er als Geheimer Hofrat in Berlin. (→ Lexikon)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-36">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Van der Velde</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Franz van der Velde (1779-1824), populärer Erzähler und Bühnenautor. Vor allem seine historischen Novellen und Romane erfreuten sich zeitweilig großer Beliebtheit (→ Lexikon).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-37">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Rosoglio</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Italienischer Likör, „aus Blüten oder Früchten, namentlich Orangeblüten, bereitet"  (Meyer, Bd. 17, S. 158).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-38">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,32-33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Teufelselixiren“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>E. T. A. Hoffmanns „Die Elixiere des Teufels. Nachgelassene Papiere des Bruders Medardus eines Capuziners“. Sie erschienen in Berlin 1815/16 in zwei Bänden. Das Werk steht in der Tradition des Schauerromans und gilt als einer der Höhepunkte der Berliner Romantik.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-40">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">5,6-7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Rochefaucould und Montaigne</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Zwei bedeutende französische Aphoristiker: François de La Rochefoucauld (1613-1680) bedient sich in seinem Hauptwerk „Betrachtungen oder moralische Sentenzen und Maximen“ (1665) aphoristisch-prägnanter Stilmittel; Michel de Montaigne (1533-1592) setzt sich in seinem Hauptwerk den „Essays“ (1580) bewußt von der bisher üblichen Form eines Traktates ab und schreibt seine Reflexionen über Geschichte, Philosophie, Literatur und Politik in einer ungezwungenen, subjektiven, aphoristischen Weise.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-41">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">5,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Orion Julius</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Orion Julius (1788-1835), Schauspieler, Schriftsteller, Gelegenheitsdichter und Vagabund. Sein tatsächlicher Name ist nicht sicher geklärt, die biographische Datenlage dürftig. Während einige annehmen, es handele sich um das Pseudonym für den 1788 in Berlin geborenen Ernst Karl Engelhardt (vgl. Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition, http://weber-gesamtausgabe.de/A006265 - Version 4.3.0 vom 1. Februar 2021), vermutet der „Goedeke“, dieser sei jüdischer Herkunft gewesen und habe den Nachname Julius getragen (vgl. Goedeke, Bd. XVII, S. 687-688). Nach den Angaben im „Goedeke“ ist er 1788 in Berlin geboren, war Schriftsteller und Porträtmaler, lebte 1817 in Hamburg, im Sommer 1818 bei Ernst von Houwald in Sellendorf, danach wieder in Berlin, nahm 1819-1820 seinen Aufenthalt in Warschau, 1821 in Königsberg. 1821 kehrte er nach Berlin zurück, ging 1824 wiederholt nach Hamburg, kehrte spätestens 1831 nach Berlin zurück, wo er am 1. Juni 1835 im Krankenhaus der Charité starb. Der Sonderling, Schnorrer und Stadtstreicher war in der literarischen Szene Berlins zwischen 1815 und 1835 kein Unbekannter. Theodor Mügge schreibt nach dessen Tod 1835 in einer Korrespondenz aus Berlin für den Frankfurter „Phönix“ über den Dahingeschiedenen: „Zuweilen war ein Mann bei Steheli, der klein, dick, von den Blattern zerfressen war, und über dessen gelbes Gesicht das schwarze, struppige Haar verworren herabsank. – Seine Kleidung war grob, schmutzig und nicht selten zerrissen, es lag ein wüster, unangenehmer Eindruck über den ganzen Mann verbreitet, nur seine Stirne war hoch und edel gebildet, und sein dunkles, tiefliegendes Auge glühte in Feuer. Das war er, der Dichter, Schauspieler, Zeichner und Tonkünstler Orion Julius. Er hatte ein wild bewegtes Leben geführt, und mehr Schicksale in einem Tage erfahren, als das ganze Leben derer enthalten mag, die hochmüthig ihn verachten und mit dem kalten Vorwurf: ‚Er hatte selbst Schuld an seinem Elend, der Taugenichts,‘ pharisäerhaft sich herausstreichen. – Die Welt hatte ihn zurückgestoßen, er war unglücklich geworden, man verspottete seine Erscheinung, verlachte ihn als Schauspieler, verkannte ihn als Dichter; in Rausch und Schwelgerei suchte er Vergessenheit, sank von Stufe zu Stufe, und ward so wirklich in seiner dumpfen Erstarrung ein verächtliches Geschöpf, das mit dem höchsten Elende kämpfend, keine Ansprüche mehr an die Welt machte und nichts liebte als den Müßiggang, dem er aus gänzlichem Mangel aller Thatkraft nachging und lieber darbte, bettelte und den Sommer über obdachlos umherirrte, als durch Arbeit, welche es auch sein mochte, ein ehrliches Auskommen zu finden. […] – Zuletzt arbeitete er für den Beobachter an der Spree, aber nie mehr, als hinreichend war, um so viel Geld zu erwerben, daß er mit schlechten Nahrungsmitteln sich einige Tage erhalten konnte, dann ging er spazieren, bis nichts mehr vorhanden war, und erst, wenn er bei Bekannten gebettelt hatte und Niemand mehr etwas geben wollte, bequemte er sich zu einer neuen, nicht einträglichen Arbeit. – So ist er untergegangen und doch war es kein gewöhnlicher Mensch. Er verstand und sprach fertig sechs Sprachen, zeichnete allerliebst, spielte mehre Instrumente mit Virtuosität, dichtete nicht ohne Beruf und Phantasie, schrieb eine schöne, glänzende Prosa und nur der fast fixe Gedanke, daß er ein großer Schauspieler sei, daß man ihn leider nicht anerkenne, daß aber nun Kabale, Neid und Eifersucht ihn verfolge, hat großen Antheil an dem Unglück seines Lebens gehabt, und ihn bis zum letzten Augenblicke verfolgt. – Er ist sehr kummervoll und im höchsten Grade mit sich selbst verzweiflungsvoll verfallen, in der Charité an der Wassersucht gestorben, die eine Folge seines unordentlichen Lebens war. “ ([Theodor Mügge:] Aus Berlin. In: Phönix. Frankfurt/M., Nr. 187, 10. August 1835, S. 747.) Wesentlich kritischer blickt der Berliner Korrespondent (wohl Willibald Alexis) des „Morgenblatts für gebildete Stände“ auf den Toten zurück und erwähnt dabei auch, dass Orion Julius einen Leichenwagen als Nachtquartier bezog: „Er wollte Dichter, Schriftsteller, Schauspieler, Philosoph und ich weiß nicht mehr was noch, seyn, hat es aber in keinem dieser Fächer zu etwas gebracht, weil jener Bettlerstolz, wenn wir es mild ausdrücken, ihn an allem Tüchtigen hinderte. Er liebte es, herum zu vagabundiren und bei den Theatern und in den Schriftstellerkreisen um Unterstützung anzusprechen. […] Als äußere Erscheinung war er merkwürdig genug, und in seinem schmutzigen und finstern Mulattengesicht, wie er sich auf Berlins Straßen und Kaffeehäusern zeigte, lieferte er doch, wenn auch kein anziehendes, doch ein eigenthümliches Bild. Man wich ihm gerne aus; er soll zuweilen sein Nachtquartier in einem offenstehenden Leichenwagen auf der Straße genommen haben. “ ([Anon.:] Korrespondenz-Nachrichten. Berlin, Juli. Orion Julius. In: Morgenblatt für gebildete Stände. Stuttgart u. Tübingen. Nr. 202, 24. August 1835, S. 807-808.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-42">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">5,11-12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Freimüthigen“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>„Der Freimüthige“, ein Unterhaltungsblatt mit wechselnden Untertiteln, zuerst herausgegeben von August von Kotzebue und Garlieb Merckel, ab 1809 von August Kuhn, erschien von 1803 bis 1829 in Berlin und wurde 1830 mit dem „Berliner Conversations-Blatt“ zusammengelegt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-43">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">5,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Gesellschafters“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>„Der Gesellschafter. Oder: Blätter für Geist und Herz“, von 1817 bis 1849 in Berlin erscheinende belletristisch-kritische Zeitschrift, die der Holzschneidekünstler, Schriftsteller und Kritiker Friedrich Wilhelm Gubitz (1786-1870) herausgab.</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
