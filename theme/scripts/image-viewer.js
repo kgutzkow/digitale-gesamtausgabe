@@ -7,6 +7,13 @@
         let autoNavTimeout = null;
         let hideHeaderTimeout = null;
 
+        if (window.location.hash && window.location.hash.length > 1) {
+            const hashIdx = Number.parseInt(window.location.hash.substring(1));
+            if (!Number.isNaN(hashIdx) && hashIdx >= 0 && hashIdx < images.length) {
+                currentIdx = hashIdx;
+            }
+        }
+
         function hideImage() {
             const image = images[currentIdx];
             image.setAttribute('aria-current', 'false');
@@ -30,6 +37,7 @@
                     image.classList.add('hide-heading');
                 }, 5000);
             }
+            window.location.hash = currentIdx;
         }
 
         function nextImage() {
