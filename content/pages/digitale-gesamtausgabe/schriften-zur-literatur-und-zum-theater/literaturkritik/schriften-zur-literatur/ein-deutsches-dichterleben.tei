@@ -3,7 +3,7 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>n deutsches Dichterleben</tei:title>
+        <tei:title>Ein deutsches Dichterleben</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="WolfgangRasch">
           <tei:resp>Herausgeber</tei:resp>
@@ -34,12 +34,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-10" who="#WolfgangRasch">1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2020-02-14">1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-02-14">1.1</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:pb n="765"/>
         <tei:seg> Ein deutsches Dichterleben.</tei:seg>
       </tei:head>
@@ -92,25 +92,25 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkows Beitrag </tei:seg>
         <tei:q>Ein deutsches Dichterleben</tei:q>
         <tei:seg> wurde zuerst in den "Unterhaltungen am häuslichen Herd" veröffentlicht und - minimal überarbeitet - 1857 in Gutzkows Textsammlung </tei:seg>
@@ -125,46 +125,46 @@
         <tei:q>Oeffentlichen Charaktere</tei:q>
         <tei:seg> im Band 9 der Werkedition.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
       <tei:list type="sources">
         <tei:item>
-          <tei:seg>J. [Anon.:] Ein deutsches Dichterleben. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 48, [27. August] 1853, S. 765-768. (Rasch 3.53.08.27) </tei:seg>
+          <tei:seg>J [Anon.:] Ein deutsches Dichterleben. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 48, [27. August] 1853, S. 765-768. (Rasch 3.53.08.27) </tei:seg>
         </tei:item>
         <tei:item>
-          <tei:seg>E. Ein deutsches Dichterleben. In: Karl Gutzkow: Die kleine Narrenwelt. Bd. 3. Frankfurt/M.: Literarische Anstalt, 1857, S. 75-86. (Rasch 2.33.3.2) </tei:seg>
+          <tei:seg>E Ein deutsches Dichterleben. In: Karl Gutzkow: Die kleine Narrenwelt. Bd. 3. Frankfurt/M.: Literarische Anstalt, 1857, S. 75-86. (Rasch 2.33.3.2) </tei:seg>
         </tei:item>
         <tei:item>
           <tei:seg>A</tei:seg>
           <tei:hi style="sup">2</tei:hi>
-          <tei:seg>. Eduard Duller. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammtausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 208-235. (Rasch 1.5.9.35)</tei:seg>
+          <tei:seg> Eduard Duller. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammtausgabe. Erste Serie. Bd. 9. Jena: Costenoble, [1875]. S. 208-235. (Rasch 1.5.9.35)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">7,17</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Jahrhunderts</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Jahrhunders </tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
