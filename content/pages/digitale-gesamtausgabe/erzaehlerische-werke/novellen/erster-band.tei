@@ -44,6 +44,7 @@
       <tei:head data-heading-id="" type="level-1">
         <tei:seg>Erster Band.</tei:seg>
       </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.5" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
       <tei:head data-heading-id="vorrede" type="level-2">
         <tei:pb n="V"/>
         <tei:seg> Vorrede.</tei:seg>
@@ -143,7 +144,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Berlin den 6. Januar 1834.</tei:seg>
       </tei:p>
-      <tei:p margin-left="2.8" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="2.8" margin-right="0" margin-top="0" margin-bottom="1.5" first-line-indent="0.5" style="text-left" extract="">
         <tei:signed>
           <tei:hi style="font-weight-bold">Karl Gutzkow.</tei:hi>
         </tei:signed>
@@ -155,7 +156,7 @@
         <tei:hi style="font-size-large letter-sparse"> Inhal</tei:hi>
         <tei:hi style="font-size-large">t.</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
         <tei:hi style="font-size-medium letter-sparse">Der Kaperbrie</tei:hi>
         <tei:hi style="font-size-medium">f. Novelle.</tei:hi>
       </tei:p>
@@ -165,7 +166,7 @@
         <tei:hi style="font-size-medium">r</tei:hi>
         <tei:hi style="font-size-medium">. Bambocciade.</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
         <tei:hi style="font-size-medium letter-sparse">Geständnisse einer Perrück</tei:hi>
         <tei:hi style="font-size-medium">e.</tei:hi>
       </tei:p>
@@ -1247,7 +1248,7 @@
         <tei:hi style="letter-sparse">der</tei:hi>
         <tei:seg> Handlungen, deren Früchte wir nicht einmal zu eigenem Genuß erhalten haben.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Sehen wir hier die Folgen eines Kaperbriefs, den eine Regierung immerhin ertheilen mag, der aber </tei:seg>
         <tei:pb n="106"/>
         <tei:seg> nicht von Jedem angenommen werden soll, dann möchte man glauben, das alte Fatum sei von den christlichen Göttern zwar um seine Altäre und Opfer gebracht, aber mediatisirt und mit Sitz und Stimme in der Regierung der Welt gelassen worden.</tei:seg>
@@ -1518,7 +1519,7 @@
         <tei:ref type="esv" target="#annotation-71">Thalermann</tei:ref>
         <tei:seg> begnügte sich, durch die kaum geöffnete Thüre zu lauschen, und sie, schauernd vor der Kälte und dem blassen Angesichte, rasch wieder anzulehnen. Ach! dann freuten sich die armen Spitzbuben, bezahlten ihre Schulden, fristeten noch ein paar Monate ihr Leben, und starben endlich wirklich, aller Aussicht beraubt, auf eine erträgliche Weise unter die Erde zu kommen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Dir aber, unscheinbares Häuschen mit deinen zwei breitlaubigen Linden, lächle eine ewige Frühlingssonne! Möchten dir nie deine Capitalien aufgekündigt werden, nie die Häuser, auf die du die erste Hypothek hast, ohne Miether stehen! Möge die Pest und die </tei:seg>
         <tei:ref type="esv" target="#annotation-73">Cholera</tei:ref>
         <tei:seg> nie mehr zwischen deinen Dividenden wüthen! Deine Solidität wird dir ewigen Nutzen bringen; denn fern von dem Wucher der Speculation, fern von den jüdischen Wirren der Börse und des Papiermarktes, ist nur die allgemeine Wohlfahrt dein Glück, und wo Thränen fließen, schickst du die Männer, die sie trocknen. </tei:seg>
@@ -1726,8 +1727,8 @@
         <tei:seg> Himmel! welch ein Drängen vor diesem Buchhändlergewölbe!</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>„Es wird der erste Bogen einer neuen Schrift von Voltaire die Presse verlassen haben,“ sagte mein Bruder, „oder ein Roman von Brebeuf ist erschienen, oder die Anfänge der längstversprochenen Encyclopädie sind angekommen, oder ein Pamphlet auf Madame *)</tei:seg>
-        Die Pompadour.
+        <tei:seg>„Es wird der erste Bogen einer neuen Schrift von Voltaire die Presse verlassen haben,“ sagte mein Bruder, „oder ein Roman von Brebeuf ist erschienen, oder die Anfänge der längstversprochenen Encyclopädie sind angekommen, oder ein Pamphlet auf Madame </tei:seg>
+        <tei:ref type="footnote" target="#footnote-2">*)</tei:ref>
         <tei:seg> wird ausgeboten. Ich vermuthe das Letztere,“ fügte er lachend hinzu, „denn dort kommt athemlos die Polizei; sie wird der Freude bald ein Ende machen.“</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -1870,8 +1871,8 @@
         <tei:seg>„Sie wissen vielleicht noch nicht, Herr Graf,“ begann Fräulein d’Aubigny, „daß jene fatalen Nebel, die heute der Sonne den Durchgang streitig machen, einen Trauerflor bedeuten, in den sich Paris in seinem Schmerze gehüllt hat?“ –</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>„Die Geschichte des gestrigen Abends,“ ergänzte der Vater, „bezeichnet außer Ihrem Unfalle noch ein anderer Act der Unmenschlichkeit. Der liebenswürdige Prinz Eduard *)</tei:seg>
-        Eduard Stuart, Prätendent des englischen Thrones, in allen Leihbibliotheken durch Walter Scott bekannt.
+        <tei:seg>„Die Geschichte des gestrigen Abends,“ ergänzte der Vater, „bezeichnet außer Ihrem Unfalle noch ein anderer Act der Unmenschlichkeit. Der liebenswürdige Prinz Eduard </tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
         <tei:seg> ist gestern in der Oper überfallen worden und von seinen Feinden nach Vincennes geschleppt.“ –</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -2850,12 +2851,12 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-26">
-        <tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">77,26</tei:citedRange>
           <tei:citedRange type="word-range">Nachen des Charon]</tei:citedRange>
         </tei:p>
-        <tei:p>
-          <tei:seg>Nach der griechischen Mythologie führte Mercur „die Seelen der Abgeschiedenen“ an den acherontischen See, „und der mürrische und rauhe, alte Fährmann Charon schiffte sie in seinem gebrechlichen Kahne gegen Bezahlung eines kleinen Geldstückes [...] über die Höllenflüsse, weshalb den Todten eine solche Münze in den Mund gelegt wurde“ (Bilder-Conversations-Lex., Bd 4, S. 535).  </tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In der griechischen Mythologie befördert der Fährmann Charon, ein düsterer Greis, auf seinem morschen Kahn „die Seelen der Abgeschiedenen“ über den Fluss Styx oder den stygischen See, „gegen Bezahlung eines kleinen Geldstückes [...], weshalb den Todten eine solche Münze in den Mund gelegt wurde“ (Bilder-Conversations-Lex., Bd 4, S. 535).  </tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-30">
@@ -3233,6 +3234,16 @@
           <tei:seg>Sprichwörtliche Redensart: „in jemandem durch Verzeihen oder Großmut Scham erwecken, ihn beschämen“. Die Redensart ist biblischen Ursprungs. (Vgl. Lutz Röhrich: Lexikon der sprichwörtlichen Redensarten. Bd 3, Freiburg, Basel, Wien 1994, S. 864.) – In der Weise, wie die Redensart in der Selbstbezüglichkeit der handelnden Sterbekassierer schief aufgenommen zu sein scheint, zeigt sich noch einmal die ironische Spitze, mit der am Textende das Philanthropische auf seinen materialistischen Gehalt zurückgebunden ist (→ auch Erläuterungen zu 81,5; 85,17-24). </tei:seg>
         </tei:p>
       </tei:interp>
+      <tei:note type="footnote" xml:id="footnote-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>*) Die Pompadour.</tei:seg>
+        </tei:p>
+      </tei:note>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:ref type="footnote" target="#footnote-1">*) Eduard Stuart, Prätendent des englischen Thrones, in allen Leihbibliotheken durch Walter Scott bekannt.</tei:ref>
+        </tei:p>
+      </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head type="level-1">
