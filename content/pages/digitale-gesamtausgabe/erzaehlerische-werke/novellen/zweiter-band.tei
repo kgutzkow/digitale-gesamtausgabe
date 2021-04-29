@@ -63,14 +63,10 @@
       </tei:p>
       <tei:head data-heading-id="chevalier-clement" type="level-2">
         <tei:pb n="1"/>
-        <tei:seg> Chevalier Clement *) </tei:seg>
-        <tei:hi style="font-size-small">Die Grundlage dieser Erzählung bilden beglaubigte Thatsachen, über die man </tei:hi>
-        <tei:foreign>
-          <tei:hi style="font-size-small">Frédéric II. Oeuvres publiées du vivant de l’Auteur. Berlin 1798. Tom. I. p. 261 </tei:hi>
-        </tei:foreign>
-        <tei:hi style="font-size-small">folg. vergleichen mag.</tei:hi>
+        <tei:seg> Chevalier Clement </tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
       </tei:head>
-      <tei:head data-heading-id="chevalier-clement" type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Novelle.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
@@ -591,14 +587,14 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Chevalier Clement konnte hoffen, wenn ihm seine Machination, die Anreizung zum Kriege, glückte, an den glänzendsten Früchten derselben Theil zu nehmen; als sie fehlschlug, mußte er ihr Opfer sein.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das sind die Nieten des Schicksals, auf die man gefaßt sein muß, wenn man den Einsatz wagt und sich mit der Möglichkeit eines glücklichen Treffers schmeichelt.</tei:seg>
       </tei:p>
       <tei:head data-heading-id="die-singekraenzchen" type="level-2">
         <tei:pb n="61"/>
         <tei:seg> Die  Singekränzchen.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="die-singekraenzchen" type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Bambocciade.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
@@ -804,7 +800,7 @@
         <tei:pb n="87"/>
         <tei:seg> Ich füge nur hinzu, daß mir bei einem dieser Ausflüge, der seine Richtung nach Köpenik nahm, aus dem Gebüsch mein Freund Asmodi entgegentrat. Er hinkte in meine Arme und drückte mich mit Wärme an seine Brust. Ueber seine diplomatische Mission fand er des Erzählens kein Ende, und in der That waren die Mittheilungen, die er gab, über alles interessant. Er zog mich in den Strudel der Politik, dem ich kaum entronnen, wieder hinein; ich dachte über die Thorheit nach, daß ich ohne Stimme hatte singen lernen wollen, und entschlüpfte den jubelnden Seelen, die auf einem grünen Rasen ihren bunten Reigen aufführten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="1" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das ist alles schon lange her: ich habe Herrn Weber nie wieder gesehn, zweifle aber keineswegs, daß er noch immer der Mittelpunkt der kleinen musikalischen Bestrebungen und geselligen Freuden ist, an denen ich eine kurze Zeit Antheil nahm, daß er noch immer um die Osterzeit Kantaten einstudirt, und bei seinen Männerstimmen zuweilen anfragt, ob man nicht eine Fahrt unternehmen und die nöthigen Hülfsgelder deshalb zusammenschießen wolle. Möchte dabei auf ihn nie mehr kommen, als daß er die Summen abrundet, möchte es ihm nie an </tei:seg>
         <tei:pb n="88"/>
         <tei:seg> reinen, silberhellen Stimmen fehlen und seinen Worten an der schlagenden Kraft, mit der er so viele altfränkische und zögernde Mütter von dem Sinn und der hohen Bedeutung der Musik zu überzeugen wußte!</tei:seg>
@@ -2176,6 +2172,13 @@
         <tei:seg>Noch immer liegt derselbe Schleier der Melancholie auf dem jungen Manne, welcher in ganz Paris als der Prinz von Madagaskar bekannt ist. Jetzt besäß’ er die Eigenschaften, seine Eroberung zu machen, vielleicht mehr als früher, er kennt seine Muttersprache; aber er lächelt, wenn ihm Jemand dazu rathet. Seine liebste Freude ist die, mit Colas und Polyglotte gemeinschaftlich einige Stunden traulich zu verleben und dem Andenken Araxatens seine Worte und Thränen zu weihen. Die Unglückliche ertrug die Mühseligkeit der Reise nicht, und fand tief in den Wellen des Ozeans ihr kühles Grab.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>*) Die Grundlage dieser Erzählung bilden beglaubigte Thatsachen, über die man </tei:seg>
+          <tei:foreign>Frédéric II. Oeuvres publiées du vivant de l’Auteur. Berlin 1798. Tom. I. p. 261 </tei:foreign>
+          <tei:seg>folg. vergleichen mag.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
   </tei:text>
 </tei:TEI>
