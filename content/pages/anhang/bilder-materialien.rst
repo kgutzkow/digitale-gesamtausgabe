@@ -22,9 +22,11 @@ Bilder
   * `Illustrationen zu Gutzkows Werken <bilder-materialien/illustrationen-zu-gutzkows-werken.html>`_
   * `Bildnisse und Dokumente aus Gutzkows persönlichem Umkreis <bilder-materialien/bildnisse-und-dokumente-aus-gutzkows-persoenlichem-umkreis.html>`_
   * `Bilder aus Berlin <bilder-materialien/bilder-aus-berlin.html>`_
+  * `Bilder has Frankfurt <bilder-materialien/bilder-aus-frankfurt.html>`_
   * `Bilder aus Hamburg <bilder-materialien/bilder-aus-hamburg.html>`_
   * `Mode zur Zeit Gutzkows <bilder-materialien/mode-zur-zeit-gutzkows.html>`_
   * `Zeitgenossen Gutzkows <bilder-materialien/zeitgenossen-gutzkows.html>`_
+  * `Theaterzettel <bilder-materialien/theaterzettel.html>`_
 
 Materialien
 +++++++++++
