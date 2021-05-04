@@ -308,7 +308,6 @@ TAXONOMY = (
         ))
     )),
     ('VII. Autobiographische Schriften', 'autobiographische-schriften', (
-        ('Rückblicke auf mein Leben (Zeitschriftenfassung)', 'rueckblicke-auf-mein-leben-zeitschriftenfassung', ()),
         ('2. Rückblicke auf mein Leben', 'rueckblicke-auf-mein-leben', ()),
         ('3. Kleine autobiographische Schriften und Memorabilien', 'kleine-autobiographische-schriften-und-memorabilien', (
             ('Julius Max Schottky, Professor', 'julius-max-schottky-professor', ()),
@@ -325,6 +324,7 @@ TAXONOMY = (
             ('Wie ich von der Lyrik abkam', 'wie-ich-von-der-lyrik-abkam', ()),
             ('Ein Millionär als Bettler. Atelier-Plauderei', 'ein-millionaer-als-bettler-atelier-plauderei', ()),
             ('Alter und neuer Glaube – bei Tisch', 'alter-und-neuer-glaube-bei-tisch', ()),
+            ('Rückblicke auf mein Leben (Zeitschriftenfassung)', 'rueckblicke-auf-mein-leben-zeitschriftenfassung', ()),
             ('Vor Freude sterben. Ein Literaturbild', 'vor-freude-sterben-ein-literaturbild', ()),
 			('Onkel Spener', 'onkel-spener', ()),
             ('Am Lethestrom. Erinnerungen', 'am-lethestrom-erinnerungen', ()),
