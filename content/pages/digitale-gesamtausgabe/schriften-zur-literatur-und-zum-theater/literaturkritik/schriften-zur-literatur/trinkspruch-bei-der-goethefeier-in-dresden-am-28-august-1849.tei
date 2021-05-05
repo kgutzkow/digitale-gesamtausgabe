@@ -6,7 +6,7 @@
         <tei:title>[Trinkspruch bei der Goethefeier in Dresden am 28. August 1849]</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,148 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Karl Gutzkow: Trinkspruch bei der Goethefeier in Dresden am 28. August.] In: Dresdner Journal und Anzeiger. Dresden. Nr. 240, 1. September 1849, S. 1917-1918. (Rasch 3.49.09.01N)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1849-09-01">1. September 1849</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #schriften-zur-literatur #trinkspruch-bei-der-goethefeier-in-dresden-am-28-august-1849"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:pb n="79"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">[Trinkspruch bei der Goethefeier in Dresden am 28. August]</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Verehrte Festgenossen! Wir huldigten beim ersten Zusammenklang unserer Gläser dem allumfassenden Genius Göthe. Wir huldigten beim zweiten dem Dichter Göthe: ich forderte Sie auf, aus der Fülle seiner glänzenden Eigenschaften noch </tei:seg>
+        <tei:hi style="letter-sparse">die</tei:hi>
+        <tei:seg> preisend hervorzuheben, daß er, so lang er lebte, die Merkmale seines deutschen Ursprungs trug. – Wohl kann es befremden, daß Deutsche einen ihrer größten Männer feiern und den Ton nachdrucksvoll darauf legen, daß er den eigenthümlichen Genius seines Volkes offenbarte. Was Britten an Shakespeare, Franzosen an Racine und Voltaire nimmermehr hervorheben würden, darüber verweilt der Deutsche mit besonderer Betrachtung, und verhehlen wir es uns nicht, aus einem Gefühl unserer Kraft und unserer Stärke entspringt diese Huldigung nicht. Ein Volk, das seit Jahrhunderten seinen politischen Mittelpunkt sucht, ohne ihn finden zu können, wendet sich nur schwermüthig dem Bewußtsein seines höhern Berufes zu und klammert sich mit stolzer Entsagung an Das, was bei aller Unzulänglichkeit unserer gemeinsamen Zustände uns doch sicher gegründet und dauernd gewiß bleibt. Und auch am schaffenden Genius erfreut uns deshalb vorzugsweise die Wiedergabe vaterländischen Sinnes, der ungetrübte reine Spiegel des in ihm wirkenden Nationalgeistes. – Wer aber erschließt uns da die Fülle des deutschen Wesens größer und mächtiger, als Göthe, der Deutscheste der deutschen Dichter! Geschichte, Kunst, Leben des Vaterlandes wurden nach der schnell beseitigten französischen Vorbildung seines Geistes die Quellen seines Schaffens. In ihm klopfte das deutsche Herz. Eichenstark wurzelte seine Kraft in der Kraft des Vaterlandes. Geht durch unsere Gauen, seht unsere Städte und Landschaften, wer kann Euch begleiten über Berg und Thal? Göthe! Sucht die geweihten Plätze der Sage und Geschichte, schaut nach den Giebeln und Erkern der alten Städte, Göthe führt Euch, sagenkundig, erinnerungsreich! Vom Auerbacher Keller in Leipzig bis an die Ufer des Rheins umplätschern uns in seinen Werken die deutschen Brunnen auf den Marktplätzen, grüßen uns die steinernen Rolande vor den Rathhäusern, leuchten uns die bunten Rosen über den Münsterthüren, hämmern in den Schachten die Grubenleute, singt der Fährmann auf dem Flusse, der Jäger im Walde, der Hirt im Thale, der Landmann hinterm Pfluge, und dort in den engen Gassen der Städte, dort, wo die Giebel der Häuser sich traulich berühren, aus den Erkerfenstern, hinter den kleinen Glasscheiben und frischen Blumentöpfen, grüßen Euch da nicht die holden Augen deutscher Mädchen, werfen neckend dem Wanderer Rosen zu und lachen uns an mit deutschem Märchengruß und deutscher Minne? Gretchen und Klärchen, sind es nicht Eure Schwestern? Valentin, Brackenburg, Wilhelm Meister, Faust, sind es nicht Eure Brüder? Und was Ihr auch gehört habt von Göthe’s griechischer Sehnsucht, diese Sehnsucht, sie war deutsch! Was Ihr gehört habt vom Zuge nach Rom und Griechenland, dieser Zug war deutsch! Was ihn reizte, zu singen im Ton des Orients, was ihn trieb, allen Völkern, allen Zungen und ihrem Edelsten gerecht zu werden, auch Das war deutsch! Deutsch war sein Wissensdrang; selbst die Beschränkung auf die kleine Welt und idyllisches Leben war deutsch, deutsch bei aller Universalität des Strebens und der Verständigung. Und Das, was Ihr vernommen habt in diesen Tagen der Parteiung, Göthe wäre ohne Neigung für die Politik gewesen, ist Das nicht auch </tei:seg>
+        <tei:hi style="letter-sparse">deutsch</tei:hi>
+        <tei:seg>? Deutsch in seinem innersten Kerne? – Wie schmerzlich, daß man ein Fest, wo man in die klaffenden Risse des deutschen Lebens die Blumen der Poesie hätte werfen sollen, hier und dort zum Anlaß einer Anklage genommen hat. Volksmänner, gestern gefeiert, sahen heute ihren Stern erbleichen. Wer weiß, ob die Dichter, die man als Förderer der Freiheit rühmt, noch heute die Probe des Tages bestanden hätten, ob sie nicht „aristokratischer“ denken würden, als Göthe, der Volksentstandene, im Volksleben, auch trotz Fürstengunst, immer Heimischgebliebene! Ist denn der Straßburger Münster darum, weil französische Mairien an seine Thüren französische Decrete nageln lassen dürfen, nicht mehr deutsch? Ist er mit allen seinen Pfeilern und Bogen, mit seinem ersten Grundstein und seinem letzten Spitzkreuze nicht unser, trotzdem, daß er im fremden Lager steht? Und so sollte uns darum, daß Göthe seiner ganzen Entwickelung nach nicht im Banne neuzeitlicher Debatte stehen </tei:seg>
+        <tei:hi style="letter-sparse">konnte</tei:hi>
+        <tei:seg>, irgend Etwas an ihm von Dem verkümmert werden, was der große unsichtbare Erwin </tei:seg>
+        <tei:ref type="esv" target="#">von</tei:ref>
+        <tei:seg> Steinbach, der große Baumeister des Vaterlandes, der Genius unseres Volkes, in ihm zu so hoher, wunderbarer Vollendung gemeißelt und gerundet hat? Nein, wie auch der Strom der Zeiten fluthen möge und wallen, wie auch das Herz der Völker in diesen Tagen zweifeln möge und bangen, Das, was wir schon besitzen, Das, </tei:seg>
+        <tei:pb n="1918"/>
+        <tei:seg> was schon eine Errungenschaft war mit dem ersten Lallen unserer Geburt, Das soll bleiben, heilig, unerörtert, unverkümmert und unangetastet: Es lebe Göthe, der </tei:seg>
+        <tei:hi style="letter-sparse">deutsche</tei:hi>
+        <tei:seg> Dichter!</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gutzkows Trinkspruch, den er bei einem großen Bankett im Saal der Dresdener „Harmonie“ am 28. August 1849 ausgebracht hatte, wurde wenige Tage später vom „Dresdner Journal und Anzeiger“ in der Sparte „Tagesgeschichte“ veröffentlicht. Die Redaktion leitete die Publikation mit den Worten ein: „Bevor wir zum Schluß des Göthefestes übergehen, müssen wir nochmals auf das bereits erwähnte Banket zurückkommen, theils weil wir der an die Theilnehmer vertheilten höchst geschmackvollen Erinnerungskarte von Bendemann zu erwähnen vergessen, theils um den versprochenen Gutzkow’schen Trinkspruch mitzutheilen. Derselbe lautet“.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J Tagesgeschichte. Dresden, 30. August. [Karl Gutzkow: Trinkspruch bei der Goethefeier in Dresden am 28. August.] In: Dresdner Journal und Anzeiger. Dresden. Nr. 240, 1. September 1849, S. 1917-1918. (Rasch 3.49.09.01N)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen.Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">174,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>von</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>vvn</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Dokument zur Wirkungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gutzkows Trinkspruch wurde von mehreren spontanen Beifallskundgebungen begleitet, die die Redaktion des „Dresdner Journals“ direkt in den Drucktext eingefügt hat. Sie werden an dieser Stelle vollständig recte wiedergegeben:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">172,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>führt Euch, sagenkundig, erinnerungsreich!</tei:q>
+        <tei:seg> (Bravo!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">173,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>die steinernen Rolande vor den Rathhäusern</tei:q>
+        <tei:seg> (Bravo!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">173,11-12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>mit deutschem Märchengruß und deutscher Minne?</tei:q>
+        <tei:seg> (Lauter Beifall.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">173,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>auch Das war deutsch!</tei:q>
+        <tei:seg> (Bravo!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">173,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>Deutsch in seinem innersten Kerne?</tei:q>
+        <tei:seg> (Heiterkeit, Beifall.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">174,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>nicht mehr deutsch?</tei:q>
+        <tei:seg> (Bravo!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">174,12-13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>mit dem ersten Lallen unserer Geburt,</tei:q>
+        <tei:seg> (Bravo!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">174,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>Es lebe Göthe, der deutsche Dichter!</tei:q>
+        <tei:seg> (Langanhaltender Beifall.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

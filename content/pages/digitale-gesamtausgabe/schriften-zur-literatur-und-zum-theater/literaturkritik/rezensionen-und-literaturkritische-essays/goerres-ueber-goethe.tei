@@ -6,7 +6,7 @@
         <tei:title>Görres über Göthe</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,95 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.:] Görres über Göthe. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 14, 8. April 1835, S. 333-334. (Rasch 3.35.04.08.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1835-04-08">8. April 1835</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #rezensionen-und-literaturkritische-essays #goerres-ueber-goethe"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2020-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head type="level-2">
+        <tei:pb n="333"/>
+        <tei:seg> Görres über Göthe.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Das neueste Morgenblatt enthält von Görres einen bis heute unvollendeten Artikel über Göthe’s Briefwechsel mit einem Kinde. Wir wissen noch nicht, was er über Bettina von Arnim sagen wird, über ihre Liebe zu Göthe, und ihre Verheirathung mit der romantischen Schule, vorzüglich aber über die Leiden Achims von Arnim, ihres Gemahles, dieses unglücklichen Elfensohnes, der sich den Rest seines Lebens über mit rationeller Landwirthschaft plagte. Wir wissen noch nicht, wie wir Bettinen sehen werden, ob als geflügelte Libelle der Poesie, oder als gelehrte Dame mit dem nachlässigen Air einer Schriftstellerin, eine kleine runde Person, gehüllt in einen </tei:seg>
+        <tei:ref type="esv">Shawl</tei:ref>
+        <tei:seg>, der, wie immer von geistreichen, die Toilette nicht achtenden Frauen geschieht, über die Schultern und die beiden Arme fest angezogen wird, so daß die ganze Breite des Körpers zum Vorschein kömmt; endlich ob euch die grüne Brille nicht überraschen wird, mit welcher diese poetische Sylphide ihr Auge zu bewaffnen pflegt. Bis jetzt sprach Görres nur von Göthe: und wie sich erwarten ließ, mit demselben Arabeskengeschnörkel, das Görres’ Styl charakterisirt, mit seiner ganzen prophetischen Salbung, mit seinem massiven und doch pointirten Witze. Architektonisch bauen sich die Perioden auf, wie Rundbögen ziehen sich die Phrasen hin- und herüber, kleine gothische Spitzsäulen auf ihnen, und allerhand ciselirtes Blätterwerk drum herum, mystische Knaufe, geheimnißvolle Steinrosen. Und doch scheint die ganze Weise mehr Erinnerung zu sein. Görres setzt einen Trumpf darauf, zu zeigen, daß er noch immer in seiner alten Maurischen Manier befangen ist und in der Kutte des Priesters, die er im Grunde doch auf dem Leibe trägt, doch immer noch nicht vergessen hat, wie er sprach, als Jakobiner von Coblenz, als Heidelberger Mithrasdiener und als der geflügelte Rheinische Merkurius. Görres macht es, wie Heine. Beide fangen an, jeder sich selbst nachzuahmen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Es war gerade Pater Cochem’s Legende der Heiligen, in der Görres gelesen haben mußte, als er auf den Gedanken kam, über Göthe zu schreiben. Denn viel Theologie, viel Salbung und biblische Parabolik ist ihm im Munde haften geblieben, und läuft nun in die etwas redseligen und unaufhörlichen Expositionen über Göthe unter. Die Idee ist schön. Görres theilt die Menschen ein in zwei große Feldlager, hier die Genialen, drüben die Philister. Und siehe, da geschah es, daß ein Fürst von den Genialen, ein im Himmel appanagirter Prinz, sich herabließ zu einer Tochter der Erde, ein Gott zu einer Bajadere, zu einem bürgerlichen Aschenbrödel, und aus dieser Ehe entsproß Wolfgang Göthe. Das wäre gewiß eine sehr schöne Genealogie und würde uns die Natur des großen Mannes hübsch erklären, wenn man das Ganze umkehrte. Göthe’s Poesie ist nicht genial, wie ein illegitimer Sohn, </tei:seg>
+        <tei:pb n="334"/>
+        <tei:seg> ein Bastard, der von einem Gottvater mit einer schüchtern-dummen, aber sinnlichen Grisette gezeugt wurde, nicht genial und weltstürmend, wie Edmund im Lear, der sich rühmt, nicht des warmen Ehebettes Frucht zu sein. Sondern diese Poesie entstand durch den Fehltritt einer Fee, durch eine sinnliche Verirrung mit einem jungen servilen Pagen. Daß sich Göthe an die höhern Stände acclimatisiren wollte, das ist an ihm das Prosaische und kann hier gar nicht in Betracht kommen, wo es einzig seiner poetischen Physiognomie gilt, diese aber ist sentimental, sie ist das Menschlich-Schwache, das Weiblich-Schöne. Einen Prinzen als Vater erkennt man nicht, wohl aber eine mondsüchtige Prinzessin, die die offizielle Vermählung mit einem auswärtigen Hofe ohne Liebe nicht abwarten wollte, und ihr Bestes einem hübschen Philister opferte, einem prosaischen Schafskopfe, der sich dabei genirt und zuletzt noch für die Ehre bedankt. Und so gleicht Göthes Poesie einem verschämten, mädchenhaften Gärtnerburschen, voll häuslichen Philisterismus, aber mit naivem Mutterwitz, einem oft recht ordinären, ängstlichen, rücksichtsvollen Diener, der aber poetische Schwingen bekömmt, wenn seine Prinzessin Mutter an ihm vorüberrauscht, und mit einer lächelnden Thräne im Aug’, ihn um eine Blume bittet. Und das ist Göthes eigenthümliche Unsittlichkeit, daß sich der Bube wohl gar in seine Mutter, in die Fee, verliebt. Ich glaube, Göthe richtiger charakterisirt zu haben, als Görres. Göthe war allem Genialen verwandt, aber selbst kein Weltstürmer, </tei:seg>
+        <tei:hi style="letter-sparse">Goethe war ein großes Talent mit dem Takte des Genies</tei:hi>
+        <tei:seg>, hingezogen zu allem Großartigen nicht schöpferisch, sondern empfangend, nicht männlich, sondern weiblich, und doch im Rückzuge wieder ein sehr prosaischer, bedenklicher und untergeordneter Patriziersohn.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Noch einmal berichtig’ ich Görres, was aber auf einem andern Brett liegt. Görres theilt die Personen, die Göthe geschaffen hat, in zwei Rangordnungen ein, in irdische und himmlische, in philisterhafte und geniale; zu diesen soll Werther, Faust u. s. w. gehören, zu jenen Albert, Lotte, Jarno u. s. w. Und dies ist ganz richtig, wenn Görres damit nicht eine persönliche Unzulänglichkeit des Dichters, ein Erbübel seiner Natur hätte bezeichnen wollen. Warum soll Göthe die Verantwortlichkeit für seine Schöpfungen übernehmen? Warum mit jeder Figur selbst identifizirt werden? War er nicht Künstler und sonderte die Masse seiner Idee in Licht und Schatten, in Satz und Gegensatz, in Charaktere, welche sich wechselsweise bedingten? Albert, Lotte, Jarno, Wagner u. s. w., diese gleichsam tellurischen Gestalten sind ja nichts als die Schatten, welche Werther, Meister und Faust werfen: sie sind einer tiefen Anschauung des Lebens, einem besondern Verständniß menschlicher Zustände entnommen, und können das, was wir in Göthe als das Philisterhafte zu bezeichnen haben, gerad’ am wenigsten ausdrücken, weil der Dichter sie nur aus künstlerischen Rücksichten, zur Drapperie schuf und weil er selbst über ihnen steht. Göthe für alle Charaktere seiner Gedichte verantwortlich machen, und jede seiner Reflexionen aus dem Spiegel </tei:seg>
+        <tei:hi style="letter-sparse">seines</tei:hi>
+        <tei:seg> Wesens herleiten, ist eine Ungerechtigkeit, gegen die er Schutz verdient.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Überhaupt, da Göthe gern als Devise und Partheiparole genommen wird, so erklär’ ich für dies Literaturblatt, daß in seinem Pantheon Göthe’s Büste den Ehrenplatz behauptet, daß sie aber mit einem schwarzen Flor umhüllt ist, wie das Brustbild Mirabeau’s im Convente verhangen wurde, als man den eisernen Schrank und des großen Redners Verrath entdeckte.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.:] Görres über Göthe. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 14, 8. April 1835, S. 333-334. (Rasch 3.35.04.08.1)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">130,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Shawl</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Shwal</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

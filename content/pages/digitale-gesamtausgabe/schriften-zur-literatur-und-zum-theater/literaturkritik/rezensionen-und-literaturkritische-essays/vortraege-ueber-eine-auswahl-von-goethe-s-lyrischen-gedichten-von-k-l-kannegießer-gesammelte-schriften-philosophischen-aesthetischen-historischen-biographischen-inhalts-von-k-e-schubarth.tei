@@ -6,7 +6,7 @@
         <tei:title>Vorträge über eine Auswahl von Göthe’s lyrischen Gedichten. Von K. L. Kannegießer. – Gesammelte Schriften philosophischen, ästhetischen, historischen, biographischen Inhalts. Von K. E. Schubarth</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,103 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.:] Vorträge über eine Auswahl von Göthes lyrischen Gedichten. Von K. L. Kannegießer. – Gesammelte Schriften philosophischen, ästhetischen, historischen, biographischen Inhalts. Von K. E. Schubarth. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 27, 11. Juli 1835, S. 646-648. (Rasch 3.35.07.11.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1835-07-11">11. Juli 1835</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #rezensionen-und-literaturkritische-essays #vortraege-ueber-eine-auswahl-von-goethe-s-lyrischen-gedichten-von-k-l-kannegießer-gesammelte-schriften-philosophischen-aesthetischen-historischen-biographischen-inhalts-von-k-e-schubarth"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head type="level-2">
+        <tei:pb n="646"/>
+        <tei:seg> Vorträge über eine Auswahl von Göthe’s lyrischen Gedichten. Von K. L. Kannegießer. – Gesammelte Schriften philosophischen, ästhetischen, historischen, biographischen Inhalts. Von K. E. Schubarth.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Männer, wie Kannegießer, Schubarth, Böttiger, haltet werth! Sie haben eine providentielle Bestimmung, weil sie dem Genie unentbehrlich sind. Das arme Genie, wenn es allein ist! Die großen, unsterblichen Gedanken, wenn sie nur todt, begafft, pyramidalisch dastehen! Nein, es liegt in den Wegen der Vorsehung, jedem Genie Männer nachzuschicken, welche seine Apostel werden, die die Fäden seiner kunstvollen Gewebe auftrennen, die die Aushängeschilder und Lustigmacher der Wunderdoktoren werden, und die großen Talente ihrer Meister an alle Welt verkündigen. Diese Enthu-</tei:seg>
+        <tei:pb n="647"/>
+        <tei:seg>siasten übernehmen auf Rechnung ihres großen Hauses kleine Detailgeschäfte; sie reisen auf die Firma, welche sie uneigennützig anbeten, und vertrödeln das Gold und Silber ihres Herrn im Wechselgeschäft gegen zahllose Kupfermünzen. Das Genie braucht diese Zwischenhändler, diese Dolmetscher, welche die Sprache der Götter und Menschen vermitteln. Jedes Genie braucht sie; denn es wird Jahrelang unverstanden bleiben. Kant, Göthe, Schiller, – Alle bekamen solche Mitesser ihrer Unsterblichkeit. Aus dem Rockärmel dieser Riesen konnten die Zwerge sich immer noch vollständige Kleider schneiden. Die Zwerge interpretirten, explizirten, kommentirten. Sie sind dem Genie nothwendig; darum sprecht mit Achtung von diesen Betriebsamen!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der Kommentar des Herrn Professor Kannegießer hat viel Ähnlichkeit mit dem Heyne’s über den Virgil. Dieselben Umschreibungen, dieselbe Wortfülle, dieselben Exklamationen und Trivialitäten. </tei:seg>
+        <tei:foreign>Quam pulchre! quam suvniter! quae singularis elegantia!</tei:foreign>
+        <tei:seg> Die Ansichten zuvörderst, welche Herr Kannegießer über Göthe’s Sittlichkeitsprinzip hat, sind größtentheils falsch. Er sucht Göthen überall das Christliche zu vindiziren, und legt in diesem Betracht überhaupt Maaßstäbe an seinen Text, die gänzlich unangemessen sind. Göthe’s religiöse Ansichten und die seinen Gedichten zum Grunde liegenden Ideen sind allzubekannt, als daß man hierüber mit dem Exegeten streiten könnte. Was soll man z. B. sagen, wenn Herr Kannegießer das lüderliche und nachlässige Gedicht: </tei:seg>
+        <tei:hi style="letter-sparse">Vorschlag zur Güte</tei:hi>
+        <tei:seg>! für eine Persiflage der unmoralischen Ideen des Zeitalters über die Ehe hält, und darauf eine Predigt von Schleiermacher citirt, worin das Sichscheidenlassen mißrathen wird!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Auch Göthe’s dichterische Eigenthümlichkeit, aus dem Standpunkte der Literaturgeschichte, weiß Herr Kannegießer nicht zu beurtheilen. Man höre folgende Phrasen: „Klopstock ist ein Prophet, Schiller ein ernster Weiser, Göthe ist eben nichts – als der Mensch. Klopstock ist ein lyrischer Dichter, Schiller ein dramatischer Dichter; Goethe ist </tei:seg>
+        <tei:hi style="letter-sparse">eben</tei:hi>
+        <tei:seg> ein Dichter. Klopstock ist ein religiöser, Schiller ein sittlicher, Göthe ein </tei:seg>
+        <tei:hi style="letter-sparse">dichterischer</tei:hi>
+        <tei:seg> Dichter!“ Das heißt: charakterisiren!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Auch das Historische ist im Buche vernachlässigt. Göthe’s bekanntes: „Über allen Wipfeln ist Ruh’,“ wurde in der Gegend von Weimar improvisirt, wie alle Welt weiß. Herr Kannegießer, der sich von Friederiken und den Gegenden um Straßburg nicht trennen kann, gibt die tiefsinnige Vermuthung, ob dieses besagte: „Über allen Wipfeln“ nicht vielleicht aus jener in Göthe’s Leben bekannten Epoche des </tei:seg>
+        <tei:hi style="letter-sparse">Wanderers</tei:hi>
+        <tei:seg> herstammen möchte?</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Endlich kann ich nicht umhin, die Manier dieser Auswässerungen durch Folgendes genauer zu bezeichnen. Herr Kannegießer konjekturirt über die Frau in dem herrlichen Gedichte „der Wandrer“: „Sie ist keine Geßnerische Schäferin, sie lebt in der wirklichen Welt, drei Meilen von Cuma, auch kommt wohl Jemand hin und wieder in ihre Abgeschiedenheit, sie fragt ja, ob er Waaren aus der Stadt im Land herumtrage. Freilich, sie lebt weit genug von dem Treiben der Welt, von dem Schein und der Leidenschaft, um sich rein und lauter erhalten zu haben. Und dieses reine Wesen, das wir doch wohl nicht ungebildet nennen wollen, weil sie keine Kenntnisse von Kunst und Wissenschaft und vielen andern irdischen (Kunst und Wissenschaft?) Dingen hat, deren Herz so rein gebildet ist, wie es nur durch Bildung werden kann, wenn wir überhaupt von Bildung sprechen können, wo blos gesunde, frische, unverfälschte, menschliche weibliche Natur ist, diese Mutter lebt in blühender Natur, selbst Natur in der edelsten Gestalt, welche die Erde hat, über den Trümmern der Vergangenheit, der Kunst, eine wahre Rose und Lilie über den vermoderten Blättern einer künstlichen oder eine lebende Göttin über den Trümmern einer marmornen, die Blüthe, oder wenn man so sagen dürfte, das Kunstgebilde, das Meisterstück der Natur, ohne, daß sie weder die Herrlichkeit der Todten, noch ihre eigne höhere Herrlichkeit kennt. So etwas bringt die Natur selten hervor, und es ist, wie vorher gesagt, eine solche Natur wieder fast ein Gebilde der Kunst u. s. w.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Trivialität spricht für sich selbst!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Um Vieles höher stehen die Leistungen des Herrn Schubarth. Göthe ist bei ihm eine Philosophie, ein System geworden. Er hat sein Ideal so in sich aufgenommen, daß er mit Göthe lebt und webt, und durch ihn eine eigenthümliche Anschauungsweise gewonnen hat. Die Wahrheit Göthe hat ihn frei gemacht. Es ist Dialektik und Bewegung in dieser originellen Einseitigkeit, in diesem abstoßenden Prinzipe, nach welchem Herr Schubarth die Menschen und die Dinge beurtheilt, während Herr Kannegießer nur darauf ausging, Göthe mit den hergebrachten Begriffen über Religion und Sittlichkeit in Harmonie zu bringen und das Geniale an ihm abzustreifen. Beklage sich doch Herr Schubarth nicht, daß man gewohnt sei, ihn nur in Verbindung mit Göthe zu nennen, als wenn er durch sich selbst und für sich nichts sei! Herr Schubarth hat gewiß vortreffliche Studien gemacht; aber er selbst scheint nicht zu wissen, wie mächtig ihn Göthe durchdringt, so daß er nur in und mit ihm denkt, auch da, wo er glaubt, auf eignen Füßen zu stehen. Wir wollen nur ein Resultat daraus hernehmen: das Schroffe in den Behauptungen des Herrn Schubarth und eine gewisse Unfriedfertigkeit, die ihn zu beherrschen scheint. Dies sind Eigenschaften, welche aus der Liebe zu Göthe erklärt werden müssen, aus einer Liebe, welche nicht eher unterschreibt, bis der Kalkül gemacht ist, was wohl ihr Idol in dieser Lage thun würde.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Ansicht des Herrn Schubarth über die französische Revolution ist vielleicht die einzige, welche ungöthisch ist. Herr Schubarth bezieht die Revolution </tei:seg>
+        <tei:pb n="648"/>
+        <tei:seg> nur auf Frankreich, während er glaubt, Deutschland habe in der Reformation seine Revolution gehabt. Aber wenn Göthe den Begriff der Weltliteratur erfand, hieß es damit nicht, daß die Völker in ihren Interessen, moralischen, politischen und literarischen (denn die literarischen drücken Alles aus) durch gemeinsame Bande zusammengehalten werden und ein Austausch der Ideen sie alle zu einer großen welthistorischen Nation macht? Doch ist es möglich, daß Göthe auch hierin seiner eignen Idee inkonsequent geblieben ist, und eine so unwürdige Ansicht von der Revolution, wie sie sich in seinen frühern Schriften offenbarte, auch da noch beibehält, als die Revolution sich so großartig und welterschütternd entfaltete. Herr Schubarth ahnt immer richtig, wo Etwas Göthen angeht: und so möcht’ er auch hier zwar nicht Recht behalten gegen die Geschichte und Wahrheit, aber doch Recht gegen Göthe, seinen Herrn und Meister.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.:] Vorträge über eine Auswahl von Göthes lyrischen Gedichten. Von K. L. Kannegießer. – Gesammelte Schriften philosophischen, ästhetischen, historischen, biographischen Inhalts. Von K. E. Schubarth. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 27, 11. Juli 1835, S. 646-648. (Rasch 3.35.07.11.2)</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht. </tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

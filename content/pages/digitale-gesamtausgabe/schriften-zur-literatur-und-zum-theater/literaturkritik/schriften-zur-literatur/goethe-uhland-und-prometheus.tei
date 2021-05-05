@@ -6,7 +6,7 @@
         <tei:title>Göthe, Uhland und Prometheus</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,109 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.:] Göthe, Uhland und Prometheus. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 5, 4. Februar 1835, S. 117-119. (Rasch 3.35.02.04.1 [irrtüml. hier 5. Febr.])</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1835-02-04">4. Februar 1835</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #schriften-zur-literatur #goethe-uhland-und-prometheus"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head type="level-2">
+        <tei:pb n="117"/>
+        <tei:seg> Göthe, Uhland und Prometheus.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der letzte Theil des Göthe-Zelter’schen Briefwechsels ist nicht reich an Personalitäten, nach welchen man in den vertrauten Äußerungen interessanter Männer so begierig ist. Doch überrascht es, die Unsterblichkeit von Weimar an vielen Stellen gegen die ihr systematisch dargebrachten Huldigungen kalt und zurückhaltend zu finden, weil es Göthen schwer ankam, für seine Enthusiasten, oder, wie man zu sagen pflegt, für seine Juden überall gut zu sagen. Vergebens, daß der Flügelmann der Hegel’schen Schule, Leopold von Henning, nach Weimar reist, und dem greisen Pontifex die Generalbeichte Berlins bringt; vergebens, daß Hegel selbst, wenn er den alten Zelter sieht, zwei Mal sein Sammtbarett lüftet, um anzudeuten, daß sein Leben eine stete Reverenz vor Göthe sei. Merlin bleibt ein Zauberer, der sich Allen entzieht, der auch über Hegel nicht in’s Reine kommen kann, und sich bei so viel Anbetung still bescheidet, er könne ihn nicht verstehen. Aber noch merkwürdiger, als diese Geständnisse, bleibt eine Stelle, welche Göthe am 4. October 1831 schrieb, und wo er gegen die würtembergische Andacht, gegen den süddeutschen Göthoklasmus einen Gestus macht, den Niemand erwartet hat, am wenigsten die Stuttgarter und Tübinger, welche noch darüber weinen, daß der dreiundachtzigjährige Göthe viel zu früh für die Literatur gestorben sey. Gustav nämlich, der Bruder des Paul Achaz Pfizer, bekannt durch eine Übersetzung Bulwers, grün beschattet von der in Schwaben wuchernden Lyrik, hatte an Göthe einen Band seiner früh in Garben gebundenen Gedichte übersandt, vielleicht von ihm ein Handschreiben dafür erhalten, das bei’m alten Reinbeck in Stuttgart von der ganzen schwäbischen Lyrik geküßt wurde, im Vertrauen aber folgende Äußerung nach Berlin hin veranlaßt: „Von den modernsten deutschen Dichtern kommt mir Wunderliches zu: </tei:seg>
+        <tei:hi style="letter-sparse">Gedichte von Gustav Pfizer</tei:hi>
+        <tei:seg>, wurden mir dieser Tage zugeschickt; ich las hie und da in dem halb aufgeschnittenen Bändchen. Der Dichter scheint mir ein wirkliches Talent zu haben, und auch ein guter Mensch zu sein. Aber es war mir im Lesen gleich so armselig zu Muth und ich legte das Büchlein eilig weg, da man sich bei’m Eindringen der Cholera vor allen deprimirenden Unpotenzen strengstens hüten soll. Das Werklein ist an Uhland dedizirt, und aus der Region, worin dieser waltet, möchte wohl nichts Aufregendes, Tüchtiges, das Menschengeschick Bezwingendes hervorgehen. So will ich auch diese Produktion nicht schelten, aber nicht wieder hineinsehen. Wundersam ist es, wie sich diese Herrlein einen gewissen sittig-religiös-poetischen Bettlermantel so geschickt umzuschlagen wissen, daß, wenn auch der Ellenbogen herausguckt, man diesen Mangel für eine poetische Intention halten muß. Ich leg’ es bei der nächsten Sendung bei, damit ich es nur aus dem Hause schaffe.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:pb n="118"/>
+        <tei:seg> Warlich für die schwäbische Lyrik konnte nichts Schmähenderes gesagt werden! Diese kleine, bescheidene, vom Tagesgewühl umrauschte Schule, an welche der Patriotismus und die Begeisterung für Schillers Album seit Jahren so große Forderungen gerichtet haben, diese Gutherzigen, welche in ihrem Gott vergnügt sind, wenn sie einen Maikäfer, ein Bienchen, die Fliege an der Wand und sich besungen haben, hatten alle im Stillen einen lautlosen Cultus für Göthe, der im Grunde ihres Herzens ihnen mehr war als Politik, Schiller und sein Album. Sie sagten’s nur nicht laut, damit es Wolfgang II. nicht hörte: nur in stillen vertrauten Stunden machten sie ihrem Herzen Luft, wenn Gustav Pfizer Göthe’s Farbenlehre besang oder sonst. Dieser fromme Enthusiasmus ist durch jene denkwürdige Äußerung recht schnöde paralysirt, um so mehr, da sie so unverständlich ist, und man so viel darin finden kann. Wir wollen versuchen, aus unserm Standpunkte die literarisch-historischen Folgerungen aus ihr zu ziehen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Veranlassung jener Worte betreffend, so kann Niemand die Wahrheit des Göthe’schen Urtheils über die ersten Versuche eines jungen Anfängers in Zweifel stellen. Göthe nennt den sich empfehlenden Dichter </tei:seg>
+        <tei:hi style="letter-sparse">einen guten Menschen</tei:hi>
+        <tei:seg>, und damit hat er für die ganze schwäbische Lyrik mehr gesagt, als er vielleicht wußte. Auch Talent besitzt Gustav; doch ist es nicht hoch; es ist etwas weitläuftig, weil es Reflexion ist: er käme nicht aus ohne Schiller und das, was Schiller eine gebildete Sprache nannte, die für dich dichtet und denkt. Gustavs Poesie ist nicht schöpferisch, sondern darstellend; er glättet jeden Gegenstand, den er grade vornimmt, ab und gibt uns das Spröde und Faserichte lauter, nett, im Goldschnitt zurück. Ich hasse die Poesie überhaupt, wenn sie nicht erfinderisch ist, und die Reflexion in’s besondere, wenn sie nicht witzig ist.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Hat Göthe über Uhland eine Ungerechtigkeit gesagt? Gewiß, wenn er ihn da tadelt, wo er ihm am verwandtesten ist. Von Uhlands sogenannter zeitgemäßer Poesie abstrahiren wir einen Augenblick; aber für die Gattung, für das Lied und die Ballade hat Uhland Unsterbliches geleistet. Wenn es wahr ist, daß das lyrische Gedicht einen begränzenden Rahmen haben soll, der den Gedanken so zusammentreibt, daß er auf einen Moment ihn verkörpert, so ist Uhlands Lyrik noch gestaltender, als Göthe’s. Jedes Gedicht soll in der That aus zwei Theilen bestehen, aus einem sichtbaren Gerüste und einem Nachklange, der so mächtig ist, daß er den Hörer zwingt, ein zweites Gedicht, die Erklärung eines gesehenen oder gehörten, in sich nachzuschaffen. Das wahre Gedicht liegt oft gänzlich ausserhalb des Wortes: man muß es erst machen, wenn man die anregenden Worte vernommen hat. Deshalb ist die Einfachheit schon das erste Kennzeichen eines jeden wahren Gedichtes; aber wie oft verpuffen Göthe’s Verse! Selten bei Uhland, namentlich in der Ballade, deren lyrische Auffassung, deren einfache Fragen und Antworten, deren ganze Form die Hörer immer zwingt, das eigentliche Gedicht erst selbst zu machen, so daß man einen Augenblick das Buch zuschlägt, und nicht </tei:seg>
+        <tei:hi style="letter-sparse">genießt</tei:hi>
+        <tei:seg>, sondern ergänzt und </tei:seg>
+        <tei:hi style="letter-sparse">thätig</tei:hi>
+        <tei:seg> ist. So muß man sich ausdrücken, will man an Uhland das Rechte bezeichnen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Uhlands patriotische Verdienste konnte Göthe nicht würdigen: er bepfuite die politischen Lieder. Das mag ihm hingehen, dem alten Herrn, der nicht im Zusammenhange die Ereignisse sahe, und in seiner Jugend wahrlich keine Aufforderung gefunden hatte, sich um die Misere seiner Geschichte zu bekümmern. Ihm dies nachtragen wollen, ist eine Ungerechtigkeit, die in Bezug auf Uhland sich um so mehr vergrößert, da die Thätigkeit desselben in dieser Rücksicht untergeordnet ist, und nur für Würtemberg von Werth seyn kann. Uhlands Verdienst ist ein generelles, in Beziehung auf das Lied und die Ballade.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Allein der positive Tadel, welchen Göthe über Uhland ausspricht, ist beherzigenswerth, namentlich wenn die schwäbische Lyrik Mode werden sollte, oder gar pretentiös. Diese Lyrik ist so beschränkt auf ihre kleinen Berge und Thäler, so einheimisch, ruhig und glückselig, daß sie keinen Schmerz in der Welt kennt, als vielleicht den, von einem Spaziergange kein neues Gleichniß mitzubringen. Diese Dichter sind mit der Welt versöhnt, sie interessiren nur in Beziehung auf ihren beliebigen Gegenstand, den man doch auch nur gelten läßt, weil wir keine Vandalen sein wollen, welche unempfindlich bleiben, wenn von Nachtigallen und Maikäfern die Rede ist. Man kann sie nicht so hart anlassen, diese kleinen Combinationen und artigen Gleichnisse, aber Recht hat Göthe, wenn er hier weder etwas Aufregendes, Tüchtiges, noch Menschengeschick Bezwingendes sieht. Er hat Recht, es ist ein sittig-religiös-poetischer Bettlermantel, der die Blößen dieser Herren bedeckt, ein gewisses Sichhaben und Thun, wohinter sich Mittelmäßigkeit und viel Phlegma verbirgt, eine ganz gewöhnliche, auf die Parthei sich stützende Weltansicht. Wo ist Prometheus? Wo ist der Gott in Euch, der Euch zu Boden wirft, daß Ihr Tränen der Verzweiflung weint? Wo ist der Schmerz, daß wir schier nichts wissen können? Ich sehe genug Gelbveigelein und Sternblümchen; wo aber sind die Palmen, wo der Lotos? Ich sehe Haberrohr und Holderblätter, auf welchen Ihr pfeift; wo hängen Eure Harfen? Göthe hatte die Welt überwunden: er hatte mit Aeschylus gesprochen, Menschengeschick bezwungen. Er hatte die Ewigkeit. Göthe konnte Vieles geben, und hatte doch noch Alles hinter sich. Man rede nicht von Vielseitigkeit, von der glücklichen Lage, sich um Fossilien und Farbenleiter bekümmern zu dürfen; das ist Spielerei und Nebensache gewesen. Dies ist die Frage: Habt Ihr Euch selbst gefunden? Überwandet </tei:seg>
+        <tei:pb n="119"/>
+        <tei:seg> Ihr die Welt in Euch? Habt Ihr Eurem Volk etwas Großes und Neues gegeben? Göthe läugnet es; er sagte: Ihr habt dem Bettler seine Lumpen gestohlen und Eurem Taufscheine Euren Glauben, und der Gewohnheit Eure Sitte, dem Herkommen Eure Grundsätze, fremder Poesie Eure eigne; Ihr lehnt Euch an das Anerkannte, Ihr standet nie hoch, nie auf den Alpen, Ihr habt nichts, als Eure gemüthlichen Stimmungen, Eure Abendsonnen-Spaziergänge, Eure Sommerfäden, die Euch die Poesie zuwehen. Wo ist Prometheus? Göthe sagt: Ihr werdet schon stolz auf Eure Reime. Göthe sagt: Ihr liebkos’t Euch unter einander und treibt jetzt, nachdem Ihr mich todt seht, mit Schiller Affenschande! Göthe sagt: Ihr wollt </tei:seg>
+        <tei:hi style="letter-sparse">Heinen</tei:hi>
+        <tei:seg> nicht unter Euch dulden, der am Schmerze der Zeit leidet, und in seinen Schriften die ihm entflohene Poesie, welche er einst schon erhascht hatte, wieder einzuholen jagt. Göthe sagt: Euer drittes Wort ist der deutsche Süden, gleichsam, als wenn in Schwaben die Poesie an den Bäumen wüchse und die Tübinger Stiftler prädestinirte Genies wären! Er sagt noch Mehres; man lese nur im sechsten Bande Zelter’scher Briefe, Seite 305 und 306.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Ich freue mich, Uhlands unendliche Verdienste um die </tei:seg>
+        <tei:hi style="letter-sparse">Gattung</tei:hi>
+        <tei:seg> anzuerkennen; doch ist es mir ein rechtes Bedürfniß gewesen, mich gegen Spalier und Reim auszusprechen und die Absicht der Lyrik sich zusammenzuthun, oder wohl gar durch Verse das ausdrücken zu wollen, was unsrer Zeit und Literatur noth thut, früher zu hintertreiben, ehe sie sich darüber ausspricht. Göthe’s Wort hielt ich für zu wichtig, als daß es überhört werden durfte. Für die voranstehende Ausführung desselben kann ich nicht; meine Stellung zwingt mich, offen und frei die Wahrheit zu bekennen.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Nach der ungezeichneten Publikation im „Literatur-Blatt“ zum „Phönix“ Anfang 1835 nahm Gutzkow den Beitrag im Jahr darauf in den ersten Band der Textsammlung </tei:seg>
+        <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
+        <tei:seg> auf. Er nahm dafür kleinere Kürzungen und einige stilistische Überarbeitungen vor: Wendungen wurden knapper gefasst, Worte umgestellt, einzelne Ausdrücke gestrichen oder neu hinzugefügt. Mit großzügigerer Absatzbildung und mit der typographischen Auszeichnung von Personennamen gab er dem Beitrag zugleich eine übersichtlichere Struktur.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.:] Göthe, Uhland und Prometheus. In: Phönix. LiteraturBlatt. Frankfurt/M. Nr. 5, 4. Februar 1835, S. 117-119. (Rasch 3.35.02.05.1) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>E Göthe, Uhland und Prometheus. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Bd. 1. Stuttgart: Balz, 1836. S. 57-66. (Rasch 2.13.1.4.3)</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

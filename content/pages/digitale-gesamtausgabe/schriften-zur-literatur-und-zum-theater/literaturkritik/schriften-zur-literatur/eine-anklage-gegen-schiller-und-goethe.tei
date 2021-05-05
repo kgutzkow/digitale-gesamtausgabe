@@ -6,7 +6,7 @@
         <tei:title>Eine Anklage gegen Schiller und Goethe</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,98 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.; Verf. unges.:] Eine Anklage gegen Schiller und Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 5, Nr. 5, [29. Oktober] 1859, S. 79-80. (Rasch *3.59.10.29)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1859-10-29">29. Oktober 1859</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #schriften-zur-literatur #eine-anklage-gegen-schiller-und-goethe"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head type="level-2">
+        <tei:pb n="79"/>
+        <tei:seg> Eine Anklage gegen Schiller und Goethe.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der gegenwärtig so mächtig erwachte vaterländische Sinn, der Deutschland einig, stark und groß zu machen bestrebt ist, bewegt sich schon wieder, wie dies </tei:seg>
+        <tei:pb n="80"/>
+        <tei:seg> bei uns in solchen Bewegungen immer der Fall ist, in Extremen.</tei:seg>
       </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die sonst so freisinnige „Protestantische Kirchenzeitung“ spricht von einem Grundübel der literarischen Bildung, die seit Klopstock die innere Gestalt des deutschen Lebens verwandelt hätte, vom „abstracten Kosmopolitismus“. Unsere classischen Dichter werden wegen ihrer Gleichgültigkeit gegen die Nation als politisches Ganzes angeklagt: „Auch unserm Schiller, an dem unser Sinn für den Staat, für politische Ideen sich am meisten gehoben hat, auch ihm scheint es ein kleines und armseliges Ideal, für eine Nation zu schreiben. Und wer kennt nicht Goethe’s Stellung zu der deutschen Bewegung, seinen Aerger an aller Politik und endlich selbst an der Reformation?“ Wohl hätten wir Ursache, zu unsern großen Dichtern mit Ehrfurcht hinaufzusehen; doch dieser Mangel an nationalem Sinn sei nicht zu leugnen, der „leere Enthusiasmus für die Bildung von 1794“ sei kaum minder widerwärtig als die Schwärmerei für das Mittelalter. „Dieses nur ästhetische und nur literarische Leben – und vor allem diese Goethe’sche ‚ruhige Bildung‘ – als das höchste Maß der Gesundheit zu preisen, ist eine arge Verwechselung der vollendeten Kunstform mit dem realen Lebensinhalt, den sie einfassen soll.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Echte Gothaer Tendenzkritik! Wie kann man vergangene Literaturzustände verantwortlich machen für Anschauungen, die nur unserer Zeit angehören! So hoch man auch den Einfluß der Literatur auf das Leben einer Nation anschlagen mag, zuerst wird die Literatur immer ihre Impulse aus dem Leben selbst empfangen müssen, ehe sie wieder eine Rückwirkung üben kann. Wäre zur Zeit Schiller’s und Goethe’s die Nation in einer vaterländischen Bewegung gewesen wie gegenwärtig, so hätte wol auch die Poesie – soweit es überhaupt sich mit den Gesetzen der Poesie verträgt, zu politisiren – dem Einflusse derselben sich nicht entziehen können. Uebrigens trifft der ausgesprochene Tadel überwiegend doch nur Goethe, nicht Schiller.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Wenngleich Schiller, wie jeder große Dichter, für die Menschheit und nicht blos für eine Nation gedichtet hat, so hat er doch durch seine Dichtungen mächtig auch auf den vaterländischen Sinn der Deutschen eingewirkt, hat diesen geweckt und belebt. Die Freiheitsbegeisterung des Dichters des „Wallenstein“ und „Tell“ war keine abstract kosmopolitische. Doch freilich war sie auch nicht eine so eingeschränkt politische, daß sie über den Bürger den Menschen übersehen hätte. Würde nicht die classische Literatur den Weltbürger und Menschen betont haben, so hätte uns wieder die Befähigung gemangelt, das </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">Nationale</tei:ref>
+        <tei:seg> in seiner höhern Bedeutung zu begreifen. Es ist gerade wie in der Literatur selbst. Ohne die vorhergegangene Schwärmerei für Homer hätte es keine Schwärmerei für die Nibelungen geben können.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:lem>Nationale</tei:lem>
+          <tei:seg> </tei:seg>
+          <tei:sic>Natiouale</tei:sic>
+        </tei:p>
+      </tei:interp>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
+      </tei:head>
+      <tei:head type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.; Verf. unges.:] Eine Anklage gegen Schiller und Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 5, Nr. 5, [29. Oktober] 1859, S. 79-80. (Rasch *3.59.10.29)</tei:seg>
+      </tei:p>
+      <tei:head type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">193,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Nationale</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Natiouale</tei:sic>
+      </tei:p>
+      <tei:head type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

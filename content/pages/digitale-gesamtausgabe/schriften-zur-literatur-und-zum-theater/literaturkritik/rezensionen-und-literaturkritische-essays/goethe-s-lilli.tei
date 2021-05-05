@@ -6,7 +6,7 @@
         <tei:title>Goethe's Lilli</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,108 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.:] Goethe’s Lilli. In: Unterhaltungen am häuslichen Herd. Leipzig N. F. Bd. 3, Nr. 24 [13. März] 1858, S. 382-383. (Rasch 3.58.03.13.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1858-03-13">13. März 1858</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #rezensionen-und-literaturkritische-essays #goethe-s-lilli"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:pb n="382"/>
+        <tei:seg> Goethe’s Lilli.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="letter-sparse">Elise Schönemann</tei:hi>
+        <tei:seg>, die Tochter eines frankfurter Bankiers, gehört in den Kreis jener Frauen, die so mannichfach in Goethe’s Leben den Zauber der Weiblichkeit persönlich und poetisch wirken ließen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Fast wäre sie diejenige geworden, an deren Stelle dreißig Jahre später die Schwester des Verfassers vom „Rinaldo Rinaldini“ trat, Fräulein Vulpius, die </tei:seg>
+        <tei:hi style="letter-sparse">Frau</tei:hi>
+        <tei:seg> des großen Mannes.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Goethe erzählt im 17. Buche von „Dichtung und Wahrheit“, wie ernst dies Verhältniß auf sein Leben wirkte. Er hatte schon den „Götz“, „Werther“ und „Clavigo“ geschrieben, als er sich von seinen kleinbürgerlichen Bekanntschaften und vielerlei herabsteigenden Neigungen zu diesem seinem damaligen Stande als Doctor juris ebenbürtigen Verhältniß erhob und, wie er in dem kühlen, nicht eben schönen Tone späterer Auffassungsweise sagte, „auch einmal versuchte, wie einem Bräutigam zu Muthe wäre“.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Goethe hat zweierlei Gattungen von Frauen vorzugsweise kennen gelernt und nach seiner Theorie schmerzstillend und geistig nutzentragend zu poetischen Gebilden verwandt: solche, die gewissermaßen unter, und solche, die gleichsam über seiner Leidenschaft standen. Jenen Beziehungen verdankt die Welt seine naiven Frauencharaktere, von der (wol in Friederike von Sesenheim vorgezeichneten) Dorothea (in „Hermann und Dorothea“) an, zu Klärchen, Gretchen bis zu Philinen hin, diesen seine Idealgestalten, Iphigenie, die Leonoren, die mehrern Charaktere seiner Romane, die sich sämmtlich zwar ein praktisch reales Air zu geben pflegen, mehr oder weniger aber doch nur der verschiedenartig nuancirte Ausdruck der weimarischen Hofdame sind.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Zwischen diesen beiden Gegensätzen </tei:seg>
+        <tei:hi style="letter-sparse">fehlt</tei:hi>
+        <tei:seg> bei Goethe jene Repräsentation des Frauenthums, die wir bei Jean Paul, Schiller, Voß und der neuern deutschen Literatur suchen müssen, die Frau der Begeisterung (Iphigenie ist nicht thatbegeistert, sie ist nur rücksichtsvoll und vermittelnd), der Pflicht, der Sorge, der Mühe, der Gleichberechtigung und Ergänzung zum Manne, mit Einem Wort die Heroine ihres Geschlechts.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Hätte Goethe bei Elise Schönemann nicht blos gefühlt, „wie einem Bräutigam“, sondern auch wie einem Manne zu Muthe ist, einem Manne, der in der von ihm bitter genug (s. „Wahrheit und Dichtung“, Buch 17) empfundenen Abhängigkeit von den Daseinsbedingungen seiner in der Gesellschaft ihm gleichstehenden Frau leben muß, in der Abhängigkeit von den Aeltern, Freunden, Verwandten derselben, die man im Leben nicht so leicht abschütteln kann, wie er in dem Gedichte: „Lilli’s Park“, mit einer sich selbst ironisirenden Verzweiflung gethan hat; wer würde nicht davon nothwendig entstandene Folgen für seinen Genius zugeben müssen? Wer weiß, ob sich das oftmals schon ausgemalte, an sich allerdings müßige Bild, was wol aus dem </tei:seg>
+        <tei:foreign>Dr. juris</tei:foreign>
+        <tei:seg>, frankfurter Advocaten, Notar, Senator, Schöffen, möglicherweise frankfurter Bundestagsgesandten Goethe </tei:seg>
+        <tei:hi style="letter-sparse">ohne Weimar</tei:hi>
+        <tei:seg> in poetischer Hinsicht geworden wäre, nicht auch gemodelt hätte nach den Frauencharakteren, die er schilderte? Wer weiß, ob sein, wie er an sich rühmt, immer realistischer Sinn sich nicht vervollständigend und mannichfacher liebevoll auffassend bewährt hätte im Geiste etwa einer Frau und Schwester des Götz und ähnlich erfundener Charaktere, welche die mächtige Gebundenheit des Mannes durch das Weib noch in anderer Weise versinnlicht hätten, als dies in den der weimarischen Periode entstammenden, mehr aus Reflexion als Wirklichkeit gewobenen ätherischen und in der „Natürlichen Tochter“ bis zur kalten Studie erfrierenden Weiblichkeiten sichtbar ist!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Goethe verzweifelte damals an den Schwierigkeiten, sich der anspruchsvollen Lebenslage seiner Ver-</tei:seg>
+        <tei:pb n="383"/>
+        <tei:seg>lobten gegenüber behaupten zu können. Der Druck ihres Reichthums, der Ansprüche ihrer Familie lag zu schwer sowol auf ihm selbst wie auf dem Stolze, ja der besorgten Vorsicht seiner eigenen Angehörigen. Nur mit großem Kampfe riß er sich von dem Mädchen los, dem er „Herz, mein Herz, was soll das geben!“ gesungen. Er bedurfte einer Thätigkeit wie der, die den „Egmont“ schuf, um die anmuthige, feingebildete und nicht etwa kokette (wie man „Lilli’s Park“ falsch auslegen könnte), sondern ihn nur wegen ihrer geselligen Pflichten und wegen einer Art von Vornehmheit zur Verzweiflung bringende Elise Schönemann zu vergessen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Das siebzehnjährige Mädchen hatte das Unglück, daß ein zweiter Verlobter, ein junger Kaufmann, Bernard aus Strasburg, nach erlittenen Vermögensverlusten gleichfalls den Muth zu diesem Ehebunde verlor und, ohne sie je wiederzusehen, nach Amerika floh. Ihr dritter, Fritz von Türkheim, gleichfalls aus Strasburg, Volontär im Geschäft ihrer Aeltern, der sie schon geliebt hatte, als sie noch mit Goethe und Bernard ging (man fühlt sich an Brackenburg erinnert), heirathete sie dann wirklich. Als Mutter von vier Kindern überraschte sie die Französische Revolution mit allen ihren Schrecken. Ihr Gatte, Girondist, stand als Maire von Strasburg der Guillotine nahe. Er floh. Auch sie mußte, da die Schreckensherrschaft Frauen und Kinder als Geiseln zurückbehielt, ihr Heil in der Flucht suchen. Fast immer zu Fuß, als Bäuerin verkleidet, mit ihren Kindern am Arm wanderte sie aus dem Herzen Lothringens mitten durch die französischen und deutschen Heere bis nach Heidelberg, wo sie sich erst mit ihrem Gatten vereinigen konnte. Noch oft prüfte die charakterstarke und ganz in ihren Lebenspflichten, in der Liebe zu ihrem Gatten und ihren Kindern aufgehende Frau ein wechselvolles Schicksal. Selbst Ministerin wurde sie auf ein Jahr in Baden; Napoleon hatte dem Großherzog erlaubt, ihren Mann, einen tüchtigen Finanzier, zum Finanzminister zu wählen, eine Stellung, die indessen Türkheim bald wieder aufgab. Einige Jahre nach seinem Tode starb auch Lilli (1817) auf dem Gute ihres Mannes in Lothringen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Diese Lebensschicksale des einzigen weiblichen Wesens, mit dem Goethe in dem Verhältniß stand, in welchem wir alle zu den Frauen stehen, um deren Liebe und Hand wir mit einiger Schwierigkeit werben mußten, sind mit vielen charakteristischen Belegen in einem Buche mitgetheilt, das, soviel wir wissen, noch nicht im Buchhandel zu haben ist. Der verdienstvolle Veteran des deutschen Kunst- und Buchhandels, </tei:seg>
+        <tei:hi style="letter-sparse">Karl Jügel</tei:hi>
+        <tei:seg> in Frankfurt am Main, hat seine Lebenserinnerungen in einem Werke herausgegeben (unter dem von einer gleichfalls Goethisch-frankfurter Reminiscenz entlehnten Titel: „Das Puppenhaus“), das der Anreger und Begründer des frankfurter Filials zur Schillerstiftung nur zum Besten dieses von ihm energisch vertretenen Zwecks und nicht unter vier Thalern verkauft. Für Kenner und Freunde der frankfurter Lokalität (und diese sind durch Goethe, Klinger, Börne, politische und patriotische Beziehungen aller Art in ganz Deutschland verbreitet) gibt es seit lange keine unterhaltendere Lectüre als diese Denkwürdigkeiten eines scharf beobachtenden, witzigen und gesinnungsvollen Geschäftsmannes. Die reichen Kenntnisse, die schlagfertigen Auffassungen, die allem Höhern mit der gleichen gesunden und frischen Natürlichkeit, die sonst nur die materiellen Interessen zu wecken pflegen, zugewandten klaren Gesichtspunkte Karl Jügel’s haben ihn in Frankfurt am Main zu einer im edelsten Sinne des Worts populären Persönlichkeit gemacht. Wie sehr er diesen Lokalruhm, diese Hingebung des ihm für alle seine Vorschläge leicht entgegenkommenden Vertrauens seiner Mitbürger verdient, beweist dies sein „Puppenhaus“. Hinter dem spaßigen Titel verbirgt sich ein starker Band inhaltreicher Thatsachen aus der frankfurter Chronik von Goethe’s Jugend an bis vorläufig in die Zeit, wo leider der Bundestag, später die eingelegte Bundesgarnison den Charakter der Stadt sehr geändert, den leichtblutigen alten Frankensinn in eine mehr dem Schein als dem Wesen der Dinge ergebene Weise geändert haben. Dies über den zurückgehenden alten Bürgersinn Frankfurts mannichfach verstimmte Gefühl verließ auch den Autor nicht beim Niederschreiben seiner Memoiren, und wenn wir in der Fülle des Anregenden, Belehrenden und Unterhaltenden, das sie bringen, eines tadeln möchten, so wäre es die fast zu oft durchblickende, von der Gegenwart unbefriedigt gelassene Stimmung, die zu einem Besserwerden der Zukunft gar kein Vertrauen mehr zu haben scheint. Jedenfalls möchte man den liebenswürdigen und sinnigen Verfasser fragen: Ist es denn darum, daß es in Frankfurt ungemüthlicher und oberflächlicher geworden, allüberall in der Welt und in den Herzen unserer Zeitgenossen trotz alledem und alledem ebenso schlimm beschaffen wie in deiner Umgebung?</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Karl Jügel ist selbst der Schönemann’schen Familie angehörig und hat an die Spitze seines Buchs Lilli’s sauber ausgeführtes Porträt gestellt. Es zeigt einen außerordentlich zarten, lieblichen und dennoch eigenthümlich strengen und in gewissen Dingen sogar unbeugsamen Kopf. Wir suchten nach einer Gestalt in der großen Galerie Goethe’scher Frauencharaktere, auf welche diese edeln und strengen Züge passen würden. Wir gestehen, daß wir keine ganz zutreffende gefunden haben.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.:] Goethe’s Lilli. In: Unterhaltungen am häuslichen Herd. Leipzig N. F. Bd. 3, Nr. 24 [13. März] 1858, S. 382-383. (Rasch 3.58.03.13.1)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

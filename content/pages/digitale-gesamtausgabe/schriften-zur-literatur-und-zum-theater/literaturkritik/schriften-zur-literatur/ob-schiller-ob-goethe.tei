@@ -6,7 +6,7 @@
         <tei:title>Ob Schiller, ob Goethe</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="MadleenPodewski">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Madleen Podewski</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
@@ -22,25 +22,73 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl></tei:bibl>
+      <tei:bibl>[Anon.:] Ob Schiller, ob Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 41, [8. Juli] 1854, S. 656. (Rasch 3.54.07.08.3)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="0000">Folgt</tei:date>
+        <tei:date when="1854-07-08">8. Juli 1854</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-literatur-und-zum-theater #literaturkritik #schriften-zur-literatur #ob-schiller-ob-goethe"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
+      <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Inhalt folgt.</tei:seg>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:pb n="656"/>
+        <tei:seg> Ob Schiller, ob Goethe. </tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Immer noch das alte Lied!</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Literatur über die Literatur hat sich bis zum Massenhaften gesteigert. Man hat alle classischen Schreibepultfächer durchstöbert, alle romantischen Papierkörbe umgeschüttelt, um den Beweis zu führen, daß große Menschen auch Menschen sind. Indem man das Genie im Schlafrocke überraschte, ward allerdings die Vertraulichkeit mit ihm immer größer. Besonders unsere Schullehrer, gelehrte und ungelehrte, wurden dabei selbst immer schreibseliger. Es ist eine Noth, diese Erläuterungsschriften nur registriren zu müssen. Das Neueste ist: „Der Freundschaftsbund Schiller’s und Goethe’s.“ Professor </tei:seg>
+        <tei:hi style="letter-sparse">Weber</tei:hi>
+        <tei:seg> in Weimar hat hier manchen guten Einfall. Er kann es natürlich nicht umgehen, den alten, langweilig gewordenen Streit über den qualitativen und quantitativen Unterschied der Begabung beider Dichter wieder zu berühren. Mit Recht hebt er hervor, daß Schiller wie ein vermittelnder Chorag zwischen dem deutschen Publicum und Goethe gestanden und durch die verwandtere Art seiner Poesie jenes zum Verständnis der Goethe’schen herangezogen habe. Aus der kleinen Gemeine des Goethecultus ist eine weitumfassende geworden und namentlich sind es gebildete Männer des praktischen Lebens, denen Goethe für beinahe jeden denkbaren Fall willkommene Kernstellen zur Aufklärung, zum Trost und zur Kräftigung darbietet. Männer der reinen Geistesthätigkeit aber, Dichter und Denker, werden doch immer wieder auf Schiller, als ihr nächstes und bestes Vorbild, zurückkommen müssen. Die Werdelust, der ewig junge Schöpferdrang in ihm, der jedes fertige Werk als einen Versuch, als eine bloße Studie zur Seite legt, – dieser Trieb zur Vervollkommnung, der das Genügen am Erreichten nicht aufkommen läßt, – die Ehrfurcht endlich vor dem unerreichbaren Ideal, zugleich aber vor dem eigenen Genius, der im Streben danach nie ermatten kann, – das Alles wird nie aufhören, zur Nacheiferung mächtig zu locken, wie es denn einst auch Goethe’s schlummernde Dichterkraft auf neue erweckt und entzündet hat. Die Weber’sche Schrift ist klein, aber anregend.</tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1">
+        <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J [Anon.:] Ob Schiller, ob Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 41, [8. Juli] 1854, S. 656. (Rasch 3.54.07.08.3)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
