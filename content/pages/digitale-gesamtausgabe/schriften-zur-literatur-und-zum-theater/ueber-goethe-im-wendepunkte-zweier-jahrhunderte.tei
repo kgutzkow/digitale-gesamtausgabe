@@ -35,6 +35,7 @@
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2020-05-04">1.0</tei:change>
       <tei:change when="2021-01-04" who="#MadleenPodewski">2.0: TEI Transfer</tei:change>
+      <tei:change when="2021-05-07" who="#MadleenPodewski">3.0: Korrektur</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -59,8 +60,8 @@
         <tei:pb n="III"/>
         <tei:seg> Zeiten in der Ausführung ihrer Ideale sehnten. Die Jugend zumal nimmt die persönlichen und individuellen Ueberlieferungen großer Männer immer nur als Reliquien einer Andacht hin, welche nicht mehr der Leidenschaft, der Liebe und dem Hasse, sondern nur noch dem Wissenstriebe und dem Gedächtnisse Nahrung giebt. Ich kenne wenig von der innern Maschinerie unserer Literaturgeschichte, von ihrer Häuslichkeit, von ihren Familienverhältnissen, ihrer Garderobe. Ich hab es niemals über mich gewinnen können, durch Deutschland zu reisen, bei großen Männern anzuklopfen, in ihre bürgerliche Atmosphäre mich hineinzuleben, und mir jenen Schatz von Medisance, Skandal, polnischer Wirthschaft zu erwerben, der in dem Gedächtnisse mancher </tei:seg>
         <tei:pb n="IV"/>
-        <tei:seg> Literaturhistoriker so dicht aufgespeichert liegt, </tei:seg>
-        <tei:ref type="esv" target="#annotation-1">daß</tei:ref>
+        <tei:seg> Literaturhistoriker so dicht aufgespeichert liegt, daß</tei:seg>
+        <tei:ref type="esv" target="#annotation-1"/>
         <tei:seg> er alles Ewige und Himmlische über dem Vergänglichen und Irdischen verdrängen muß. Was hat nicht ein junger Literator, der die Literatur in ihren Berliner, Dresdener und Weimarer Cirkeln studirte, für eine Menge von Detailkenntnissen, die man dort nur erlernen kann! Er weiß, wie viel Frauen Göthe hatte, wer Iphigenie, wer Leonore ist, er kennt den Grund, warum sich Göthe mit Bettinen erzürnte, wie Bettine mit Arnim lebte, kurz, um diese Spezialien gestehe ich aufrichtig mich niemals bekümmert zu haben. Die Andacht vor großen Männern ist mir nicht angeboren; ich muß mich erst durch eine vernünftige Ueberlegung und eine Vergleichung mit meiner Schwäche in sie versetzen. </tei:seg>
         <tei:pb n="V"/>
         <tei:seg> Diese Schrift ist ein Versuch, mich den Räthseln Göthe’s auf meine Weise anzunähern. Ich glaube, daß recht viele junge Männer mit mir im gleichen Falle sein werden, und rechne darauf, daß mein unbefangener und gerechtigkeitsliebender Standpunkt auf sie vorzüglich wirken wird.</tei:seg>
@@ -175,16 +176,12 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>So dachten die langen Haare einer spätern Zeit nicht; sie verbrannten die alexandrinische Bibliothek, da sie, wenn nicht für, dann gegen den Koran geschrieben sein mußte. Sie ließen sich von dem schönen Enthusiasmus für Freiheit, Nationalität und Religion zu einem Despotismus hinreißen, wo Gesetze der Gegenwart eine rückgängige Wirkung auf die Handlungen der Vergangenheiten haben sollten. Wie grob und grausam, einem Alten, der mit der aufgeregten Jugend nicht um die Wette laufen kann, die Krücke auf den Kopf zu schlagen! So verloren damals unter uns </tei:seg>
         <tei:pb n="19"/>
-        <tei:seg> die großen Namen ihre individuelle Geltung, und dienten, noch ehe sie das Zeitliche segneten, als Parteiparole. Die Jugend, auf der Flucht vor der aufgereizten bürgerlichen Gewalt, genöthigt, sich in Schlupfwinkel zu verbergen, sprang aus der Politik in die Literatur, verwechselte die Begriffe der einen mit denen der andern, und tobte </tei:seg>
-        <tei:ref type="esv" target="#annotation-2">ihre</tei:ref>
-        <tei:seg> letzten Leidenschaften auf einem Tummelplatze aus, wo die Neuerung mit keiner Gefahr verknüpft war. Hinter großen Namen wählte man seinen Versteck, und eröffnete zwischen Schiller und Göthe eine fingirte Diskussion, die für die literarischen Prinzipien hätte von Werth sein können, wenn sie nicht zuletzt in eine ganz triviale Rangstreitigkeit ausgeartet wäre. –</tei:seg>
+        <tei:seg> die großen Namen ihre individuelle Geltung, und dienten, noch ehe sie das Zeitliche segneten, als Parteiparole. Die Jugend, auf der Flucht vor der aufgereizten bürgerlichen Gewalt, genöthigt, sich in Schlupfwinkel zu verbergen, sprang aus der Politik in die Literatur, verwechselte die Begriffe der einen mit denen der andern, und tobte ihre letzten Leidenschaften auf einem Tummelplatze aus, wo die Neuerung mit keiner Gefahr verknüpft war. Hinter großen Namen wählte man seinen Versteck, und eröffnete zwischen Schiller und Göthe eine fingirte Diskussion, die für die literarischen Prinzipien hätte von Werth sein können, wenn sie nicht zuletzt in eine ganz triviale Rangstreitigkeit ausgeartet wäre. –</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Göthe blieb bei allen diesen Wirren unerschüttert. Die Wellen des Tages brachen </tei:seg>
         <tei:pb n="20"/>
-        <tei:seg> sich am Fuße dieses Mannes, der vor Alter und Genüge des Lebens sich schon halb in Stein verwandelt hatte, und wie die Memnonsäule nur dann erklang, wenn der rosige </tei:seg>
-        <tei:ref type="esv" target="#annotation-3">Schein</tei:ref>
-        <tei:seg> irgend einer historischen oder literarischen Zukunfts-Hoffnung, wie Byron, morgensonnig zu ihm herüberstrahlte. Wenn er die verschiedenen Stufen der Pflanzenmetamorphose belauschte, die Wirbelknochen der Thiere zählte, oder die Farbenskala des Lichtes maß, so glaubte er sich mit dem Leben der Welt immer im männlichsten Zusammenhange. Warum protestirte er nicht gegen die Carlsbader Beschlüsse? oder forderte vom Bundestag die Wiederherstellung einer Preßfreiheit, wie sie Preußen unter Friedrich dem Großen so unbeschränkt und vollkommen genoß? Göthe würde eine solche Zumuthung an ihn gerichtet, für Wahnsinn gehalten haben; dafür mag </tei:seg>
+        <tei:seg> sich am Fuße dieses Mannes, der vor Alter und Genüge des Lebens sich schon halb in Stein verwandelt hatte, und wie die Memnonsäule nur dann erklang, wenn der rosige Schein irgend einer historischen oder literarischen Zukunfts-Hoffnung, wie Byron, morgensonnig zu ihm herüberstrahlte. Wenn er die verschiedenen Stufen der Pflanzenmetamorphose belauschte, die Wirbelknochen der Thiere zählte, oder die Farbenskala des Lichtes maß, so glaubte er sich mit dem Leben der Welt immer im männlichsten Zusammenhange. Warum protestirte er nicht gegen die Carlsbader Beschlüsse? oder forderte vom Bundestag die Wiederherstellung einer Preßfreiheit, wie sie Preußen unter Friedrich dem Großen so unbeschränkt und vollkommen genoß? Göthe würde eine solche Zumuthung an ihn gerichtet, für Wahnsinn gehalten haben; dafür mag </tei:seg>
         <tei:pb n="21"/>
         <tei:seg> ihm die Gegenwart die Bürgerkrone verweigern. Durfte man Göthen den poetischen Lorbeerkranz entreißen, und ihn für einen untergeordneten Laien des Parnasses ausgeben, weil es seinem Patriotismus an der Aufregung eines jungen Mannes fehlte, und er die Hast in neuernden Versuchen mißbilligte? Diese Motive der Verketzerung zu verrathen, hütete man sich auch wohl, sondern man warf sich einen ästhetischen Mantel um, auf welchem Lappen verschiedener Farben, gelbe Fetzen Nikolais, blaue Restchen Novalis aufgenäht waren, kurz jenen religiös-sittlich-poetischen Bettlermantel, von dem Göthe in einem Briefe an Zelter spricht. Was müßten England und Frankreich, die recht gut kennen, was uns seit dreißig Jahren Ehre gemacht hat, von unserem Verstande urtheilen, wenn ihnen Jemand verriethe, daß der Fanatismus Menzels so </tei:seg>
         <tei:pb n="22"/>
@@ -203,11 +200,10 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Alle Schönheit der Kunst offenbart sich da, wo sie rührt; wie sich denn ihre Gesetze weniger aussprechen als empfinden lassen. Wer das Genie der Lektüre hat, beobachtet am treffendsten, wo die Kunst den rechten Fleck zu treffen weiß. In der Tragödie und dem Epos ist dies überall da, wo das physisch Starke dem Schmerze, das geistig Starke dem </tei:seg>
         <tei:pb n="24"/>
-        <tei:seg> Irrthume unterliegt, oder wo das im Ruhme und in der Gesellschaft Hochgestellte sich in irgend einer Situation und in einem Gefühle überraschen läßt, welches wir nicht gewohnt waren, bei einem mürrischen Charakter, oder bei einem Kriegsmanne vorauszusetzen. Mitten im Ueberfluß das Gefühl der Unzulänglichkeit ist im Leben die Quelle der Religion, und in der Kunst die Quelle der gefühlten Schönheit. Denn das Zurückstürzen aus der Region des Titanen in das Menschliche, das Gefühl einer letzlichen Unzulänglichkeit, sowohl in großen Handlungen, wie in Entschlüssen zur Tugend, überrascht, vernichtet, rührt. Die Halbheit der Göthischen Helden, Clavigo, Egmont, diese zwischen raschen, ehrgeizigen immer feurigen Entschlüssen, und dem Gefühl einer plötzlich versiegenden Kraft schwankenden Rohre, sind die meisterhafteste Berechnung </tei:seg>
-        <tei:ref type="esv" target="#annotation-23">ei-</tei:ref>
+        <tei:seg> Irrthume unterliegt, oder wo das im Ruhme und in der Gesellschaft Hochgestellte sich in irgend einer Situation und in einem Gefühle überraschen läßt, welches wir nicht gewohnt waren, bei einem mürrischen Charakter, oder bei einem Kriegsmanne vorauszusetzen. Mitten im Ueberfluß das Gefühl der Unzulänglichkeit ist im Leben die Quelle der Religion, und in der Kunst die Quelle der gefühlten Schönheit. Denn das Zurückstürzen aus der Region des Titanen in das Menschliche, das Gefühl einer letzlichen Unzulänglichkeit, sowohl in großen Handlungen, wie in Entschlüssen zur Tugend, überrascht, vernichtet, rührt. Die Halbheit der Göthischen Helden, Clavigo, Egmont, diese zwischen raschen, ehrgeizigen immer feurigen Entschlüssen, und dem Gefühl einer plötzlich versiegenden Kraft schwankenden Rohre, sind die meisterhafteste Berechnung ei-</tei:seg>
+        <tei:ref type="esv" target="#annotation-23"/>
         <tei:pb n="25"/>
-        <tei:ref type="esv" target="#annotation-23">nes</tei:ref>
-        <tei:seg> Dichters, der für Gladiatoren keine Trauerspiele schreiben wollte.</tei:seg>
+        <tei:seg>nes Dichters, der für Gladiatoren keine Trauerspiele schreiben wollte.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das ganze Lebensprinzip des Dichters wurde angegriffen, und schon die Möglichkeit, daß man aus Schriften des verschiedensten Inhalts, aus Dichtungen mit objektiver Tendenz, ja sogar aus lyrischen Kleinigkeiten auf eine universelle Weltanschauung und einen Charakter schließen konnte, schon dieses Höchste, das nur wenig Auserwählten je gelungen ist, wurde als etwas Zufälliges und eine Kleinigkeit übersehen.</tei:seg>
@@ -283,9 +279,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Genie und Talent werden wohl am besten so unterschieden, daß jenes auf die Erfindung und dieses auf die Nachahmung bezogen wird. Das Talent hat aber darin fast immer einen Vorsprung vor dem Genie, daß jenes ausdauert, dieses oft verpufft. Denn nicht jeder Wurf des Genie’s gelingt, während das Talent nie etwas produzirt, das nicht seine regelrechte, gezirkelte Abrundung hätte. Ein Genie kann zu Grunde gehen vor der Reife, es kann </tei:seg>
         <tei:pb n="40"/>
-        <tei:seg> alle Dinge mit einem göttlichen und großen Hiatus anfassen und von allen zurückgeschleudert werden, während das Talent auf berechneten Wegen zum Ziele kommt, und durch ein Zusammennehmen aller der Mittel, die ihm zu Gebote stehen, immer etwas erreicht, das ziemlich vollkommen dasjenige, was </tei:seg>
-        <tei:ref type="esv" target="#annotation-5">es</tei:ref>
-        <tei:seg> erreichen wollte, wieder giebt. Diese Erscheinung erklärt sich daher, daß das Talent sich nicht in einzelne Tugenden auflöst, das Genie aber durch eine innere Unruhe vom Einen zum Andern gezogen wird, und trotz seiner großartigen Einheit sich noch immer in schwächere oder stärkere Mannichfaltigkeiten auflösen kann. Das Talent ist Anlage und Befähigung, und auf wie viele Geistesgaben es sich auch erstrecken mag, es wird in sich immer Eins sein; denn ein absolutes Talent ist aller Dinge fähig, die durch Nachahmung erreicht werden </tei:seg>
+        <tei:seg> alle Dinge mit einem göttlichen und großen Hiatus anfassen und von allen zurückgeschleudert werden, während das Talent auf berechneten Wegen zum Ziele kommt, und durch ein Zusammennehmen aller der Mittel, die ihm zu Gebote stehen, immer etwas erreicht, das ziemlich vollkommen dasjenige, was es erreichen wollte, wieder giebt. Diese Erscheinung erklärt sich daher, daß das Talent sich nicht in einzelne Tugenden auflöst, das Genie aber durch eine innere Unruhe vom Einen zum Andern gezogen wird, und trotz seiner großartigen Einheit sich noch immer in schwächere oder stärkere Mannichfaltigkeiten auflösen kann. Das Talent ist Anlage und Befähigung, und auf wie viele Geistesgaben es sich auch erstrecken mag, es wird in sich immer Eins sein; denn ein absolutes Talent ist aller Dinge fähig, die durch Nachahmung erreicht werden </tei:seg>
         <tei:pb n="41"/>
         <tei:seg> können. Ein absolutes Talent kommt immer auf einen gewissen Vollendungsgrad, gleichviel ob es die Flöte oder das Waldhorn bläst, ob es Mathematik oder Philosophie studirt, ob es Jurist oder Arzt wird. Ein absolutes Talent arbeitet in allen Fächern, und setzt sich, wenn es sein Hauptgeschäft beendigt hat, des Abends in einer kurzen Jacke hin und arbeitet in Pappe, oder drechselt, oder spielt die Bratsche. Das Talent hat in seiner Einheit Vielheit oder Allheit, das Genie jedoch in seiner Einheit nur Mannichfaltigkeit. Es kann Dinge geben, für welche dem Genie der Kopf vernagelt ist, wie Göthen z. B. die Philosophie, so daß der genialste Mathematiker in einem Konzertsaale keinen Musikton hört, sondern nur in den Kreisen und Quadraten studirt, welche auf dem Plafond des Saales in Stuck gearbeitet sind. Weil das Genie er-</tei:seg>
         <tei:pb n="42"/>
@@ -387,8 +381,8 @@
         <tei:seg>! Hiemit bezeichnete Göthe selbst den Weg, den seine Poesie zu ihren Zielen nahm. Es ist die eigentliche Zauberformel, welche ein ganzes dichterisches Geheimniß erschließt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Sie war das Symbol des Göthischen Lebens in auf- wie in absteigender Linie. Aus beschränkter Sphäre hinaus sich drängend wurde seine Sehnsucht schnell ein poetisches Bild, </tei:seg>
-        <tei:ref type="esv" target="#annotation-6">das</tei:ref>
+        <tei:seg>Sie war das Symbol des Göthischen Lebens in auf- wie in absteigender Linie. Aus beschränkter Sphäre hinaus sich drängend wurde seine Sehnsucht schnell ein poetisches Bild, das</tei:seg>
+        <tei:ref type="esv" target="#annotation-6"/>
         <tei:seg> seinen Schritten voranschwebte, und ihn lockte, und Berge und Thäler vergessen ließ, die er durchwanderte, um die in immer schöneren Farben und deutlicheren Umrissen sich malende Anschauung einzufangen. Jeder Anfang in Göthe war harmlos und vom Nächsten ausgehend. Ja er versprach in erster Jugend so wenig, daß er selbst von Herder in Strasburg, der schon Standpunkte, </tei:seg>
         <tei:pb n="64"/>
         <tei:seg> Uebersichten und Allgemeinheiten gewonnen hatte, für linkisch in der Auffassung und Schönheitsurtheilung angesehen wurde. Göthe’s poetische Entwicklung war ein träumerisches Ausspinnen seiner häuslichen Zustände und primitiven Eindrücke, und so hinaus über die Vorurtheile, Gesetze, Sitten hinweg, bis in die Alpen-Regionen des freien Gedankens und der dichterischen Wahrheit. Ein rüstiger Wanderer, zieht er von seiner Heimath aus, und lernet Schönheit, zurückblickend in ein sonniges vom gelben Strom durchschlängeltes Thal, fern der blaue Rand der Gebirge, die unvollendete Kuppel des Domes, und doch ergänzt und vollkommen, gleichsam durch ihre Herrschaft über das was unter ihr liegt, ein rauschendes Treiben, das der Dichterjüngling verlassen kann, ohne aufzuhören es zu lieben. Dies war für Göthe entscheidend, denn jeder an-</tei:seg>
@@ -410,9 +404,7 @@
         <tei:pb n="68"/>
         <tei:seg> Berechnung historischer Ereignisse, drängten ihn aus idealischen Anschauungen heraus, und bannten ihn in einen engen Kreis, den er unter Sturm und Ungewitter, als das letzte zu retten suchte. Die heiligen Begriffe, welche Göthe mit der Familie verband, verscheuchen den Gedanken an die winterliche Bequemlichkeit eines warmen Ofens, die ein Ermüdeter oder Träger gesucht hätte. Die Familie war Göthen, von allen menschlichen Dasein, wie Jean Paul sagen würde, die Essigmutter, das Saatkorn und die Garantie jeder andern möglichen Entwickelung im Politischen und Nationalen. Alle spätere Poesie unseres Dichters, ist von diesen Vorstellungen über die Produktion der Familie ergriffen. Bezüge des Anstandes, Zurückhaltungen mancherlei Art, mischen sich in die leidenschaftlichen Motive; aus der Geselligkeit entsteht die Gewohnheit, </tei:seg>
         <tei:pb n="69"/>
-        <tei:seg> aus der Gewohnheit, das Wohlwollen, aus dem Wohlwollen die Neigung, aus der Neigung die Liebe, und aus ihr freilich genährt durch die lange conventionelle Zurückhaltung, zuletzt die glühendste Leidenschaft. Ob Göthe positiv oder negativ verfuhr, ob er uns in späteren Jahren eben so übermäßig vorbereitete, wie er in seiner Jugend durch die </tei:seg>
-        <tei:ref type="esv" target="#annotation-7">plötzlichen</tei:ref>
-        <tei:seg> Schläge uns überraschte; immer blieb das Resultat etwas, das uns blendete, weil es Alles für sich hatte, Alles in der Wahrheit und Schönheit.</tei:seg>
+        <tei:seg> aus der Gewohnheit, das Wohlwollen, aus dem Wohlwollen die Neigung, aus der Neigung die Liebe, und aus ihr freilich genährt durch die lange conventionelle Zurückhaltung, zuletzt die glühendste Leidenschaft. Ob Göthe positiv oder negativ verfuhr, ob er uns in späteren Jahren eben so übermäßig vorbereitete, wie er in seiner Jugend durch die plötzlichen Schläge uns überraschte; immer blieb das Resultat etwas, das uns blendete, weil es Alles für sich hatte, Alles in der Wahrheit und Schönheit.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Fanden wir somit im Häuslichen die genetische Grundlage der Göthischen Dichtungsweise; so können wir selbst die Entwickelung fernerer Originalitäten unseres Dichters an dies familiäre Prinzip anknüpfen. Wir werden finden, daß, wenn wir selbst über die ersten Prämissen einer literarhistorischen Kritik, über die Sprache und </tei:seg>
@@ -420,9 +412,7 @@
         <tei:seg> die Gelegenheit seiner Dichtungen sprechen, besonders aber die lyrische Empfindung Göthes zergliedern; daß sich alle unsere Urtheile hierüber an die eben angeleitete Betrachtung unmittelbar anreihen können.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Eine Geschichte des Göthischen Styles ist leider erschwert, durch die Discretion gegen Andere oder die Furcht gegen sich selbst, welche Göthen bestimmte, alle aus seiner Entwickelungsperiode herstammenden Briefe zu vernichten. Diese Correspondenz ist nicht das Geringste, was die deutsche Literatur seit jener Epoche, wo mit Göthen eine Veränderung vorging, die </tei:seg>
-        <tei:ref type="esv" target="#annotation-8">ihn</tei:ref>
-        <tei:seg> all seinen Freunden unerklärlich machte, an dem Dichter verloren hat. Veranlassung zur Vernichtung sieht man weniger, als Entschuldigung. Ich glaube die letztern in der Koketterie zu finden, welche </tei:seg>
+        <tei:seg>Eine Geschichte des Göthischen Styles ist leider erschwert, durch die Discretion gegen Andere oder die Furcht gegen sich selbst, welche Göthen bestimmte, alle aus seiner Entwickelungsperiode herstammenden Briefe zu vernichten. Diese Correspondenz ist nicht das Geringste, was die deutsche Literatur seit jener Epoche, wo mit Göthen eine Veränderung vorging, die ihn all seinen Freunden unerklärlich machte, an dem Dichter verloren hat. Veranlassung zur Vernichtung sieht man weniger, als Entschuldigung. Ich glaube die letztern in der Koketterie zu finden, welche </tei:seg>
         <tei:pb n="71"/>
         <tei:seg> die damalige Zeit mit sich selber trieb; in den Lavatereien, wo die flachsten Menschen auf den Gedanken kamen, sich für physiognomische Bedeutsamkeiten zu halten. Diese Richtung haßte Göthe, und persiflirte die Süßlichkeit des einreißenden Tones, die wechselseitigen Liebesversicherungen einander sich wildfremder Menschen um so lieber, als er sich selbst eine große Schuld an diesem empfindsamen Modetone durch seinen Werther beimessen durfte. Ich sage nicht, daß Göthe sich vor den Schwärmereien seiner verloren gegangenen Correspondenz fürchtete, aber er nahm ein Aergerniß an dieser Selbstbespiegelungsseuche, die in eine wahre Apotheose alles Unbedeutenden ausarten zu wollen schien. Aus diesem Grunde vernichtete er seine Correspondenz, und wir haben an dieser Uebereilung eben so sehr den Verlust literarhistorischer That-</tei:seg>
         <tei:pb n="72"/>
@@ -438,16 +428,14 @@
         <tei:pb n="74"/>
         <tei:seg> erlebte. Eine so eng zusammengerückte wohlhabende Gemeinsamkeit, wie sie Frankfurt darbietet, hebt das jugendliche Bewußtsein früh aus seiner unbestimmten Dämmerung heraus. Die mannigfachen auf Gewerb und Vermögen sehr einflußreichen Verwandschaften treiben die Kinder bald in den Vordergrund, und zwingen ihnen bei Zeiten eine Reife auf, welche den Jahren zuvorkömmt. Von allen Seiten sind zwar die Schranken sehr nahe gezogen, doch herrscht in ihnen die Frucht des Reichthums, eine gar löbliche Freiheit, begünstigt durch das erfreuliche Gefühl der Eltern und Verwandten, wenn sie die Fortpflanzer der gemüthlichen Aristokratie ihres Namens frischblühend und die künftige Selbstständigkeit sogar durch einen mit schwerem Herzen bestraften Trotz verrathend um sich sehen. Dabei sind alle Begriffe traditionell und müssen </tei:seg>
         <tei:pb n="75"/>
-        <tei:seg> sich als solche erhalten, weil die größte Freiheit sich ja immer als die sicherste Beschützerin des Gesetzes zu bewähren pflegt. In diesen Kreisen können sich die träumerischen, mürrischen, sich isolirenden jugendlichen Charaktere der Provinz und der großen Hauptstädte nur bei besonders ungünstigen </tei:seg>
-        <tei:ref type="esv" target="#annotation-9">Vermögens-,</tei:ref>
+        <tei:seg> sich als solche erhalten, weil die größte Freiheit sich ja immer als die sicherste Beschützerin des Gesetzes zu bewähren pflegt. In diesen Kreisen können sich die träumerischen, mürrischen, sich isolirenden jugendlichen Charaktere der Provinz und der großen Hauptstädte nur bei besonders ungünstigen Vermögens-</tei:seg>
+        <tei:ref type="esv" target="#annotation-9">,</tei:ref>
         <tei:seg> Verwandtschafts- und Familienumständen entwickeln. Ja auch das Genie bricht hier nur selten hervor, da sich die Bildung des jungen Mannes frühzeitig in eine allgemeine, gesunde und tüchtige Verstandesrichtung nivellirt. Was hier auf die Jugend wirkt, ist das Beispiel. Früh versteht die Jugend die Manieren des Alters, und macht sie nach, da sie ihr ehrwürdig erscheinen. Die Begriffe überliefern sich schnell, Haltung, Benehmen, Alles drückt sich wie mit einem Spiegel in der weichen Bildungsmasse ab, und die Sprache mit ih-</tei:seg>
         <tei:pb n="76"/>
         <tei:seg>ren körnigen Erfahrungssprüchen, stehenden Redensarten und dem lexikographischen Umfange, der auch gerade dem Umfang der Begriffe gleich kommt, ist von der Jugend früh dem Alter abgelauscht. Zuletzt verhindert die muntere lachende Gesundheit und Freiheit, in dem Allen – Altklugheit zu finden.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Auf Göthe ist die Anwendung leicht gemacht. Seine Sprache war früh reif, vollständig, keck. Sprichwörter ersetzten das noch mangelnde eigene Urtheil. Noch seine ersten Produktionen sind ganz mit diesem Lakonismus geschrieben, den Göthe z. B. im Götz nicht vom Mittelalter oder vom Volke zu </tei:seg>
-        <tei:ref type="esv" target="#annotation-10">entlehnen</tei:ref>
-        <tei:seg> brauchte, sondern der seine eigene Natur war. Die Wendungen körnig, die Verbindungen abgerissen. Partikeln in Fülle, wenn sie den Ton nüanciren, und gleichsam </tei:seg>
+        <tei:seg>Auf Göthe ist die Anwendung leicht gemacht. Seine Sprache war früh reif, vollständig, keck. Sprichwörter ersetzten das noch mangelnde eigene Urtheil. Noch seine ersten Produktionen sind ganz mit diesem Lakonismus geschrieben, den Göthe z. B. im Götz nicht vom Mittelalter oder vom Volke zu entlehnen brauchte, sondern der seine eigene Natur war. Die Wendungen körnig, die Verbindungen abgerissen. Partikeln in Fülle, wenn sie den Ton nüanciren, und gleichsam </tei:seg>
         <tei:pb n="77"/>
         <tei:seg> der Accent des Styles sind, und fehlend, wo man sie als Ruhepunkte des logischen Prozesses, und der künstlich ausgesponnenen Dialektik zu brauchen pflegt. Die Weitläuftigkeit der persönlichen Fürwörter wird vermieden, als verstände es sich von selbst, ob ich, oder du, oder er gemeint ist. Auch ging dies kurze, die Sprache und ihre Privilegien prellende Verfahren auf Göthe’s erste Versifikationen über. Man glaubt, Göthe habe bei seinem Puppenspiel und den satyrischen Kleinigkeiten an Hans Sachs und dessen Weise gedacht. Gewiß nicht, er lernte ihn erst später kennen; es war dies etwas Angebornes, das selbst in der Kunstprosa des Veteranen als Reminiscenz öfters zurückkehrte, und durch die damals so kalten und bedächtigen Abstraktionen als ein gar ergötzlicher Transparent zuweilen hindurch schimmerte.</tei:seg>
       </tei:p>
@@ -501,11 +489,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Man weiß, welche hohe Meinung der Dichter von der Gelegenheitspoesie hatte. Fast alle seine Dichtungen gab der Zufall an. In seinen Jugendkreisen herrschte ein heiterer geselliger Ton, der sich durch wechselseitige Anregung dauernd erhielt, der den Einzelnen hervortrieb, indem ihn die Masse unterstützte, und der zunächst im vorzüglichsten Grade die Satyre begünstigte. Göthe verlebte eine Jugend, die rings von geselligen dichterischen Aufforderungen umgeben war. Sein Vater war ein origineller Mann, in dessen Kopfe sich </tei:seg>
         <tei:pb n="88"/>
-        <tei:seg> praktische Ideen und Pläne durchkreuzten, und der um jeden Preis auch den Sohn dafür gewinnen wollte; der sich aber dennoch von dem Ehrgeize nicht trennen konnte, an seinem Sohne auch den Ruhm eines schönen Geistes zu erleben. So ging kein Familienfest ohne poetische Verherrlichung hin. Das Verhältniß zu </tei:seg>
-        <tei:ref type="esv" target="#annotation-11">Lili</tei:ref>
-        <tei:seg> zeigt uns selbst den Verfasser des Werther und Götz noch mitten in diesen Anregungen des Zufalls immer mit neuen Einfällen und unermüdlichen Opfergaben auf den </tei:seg>
-        <tei:ref type="esv" target="#annotation-12">Hausaltar</tei:ref>
-        <tei:seg> der Geselligkeit. Liebend oder spottend wurden die Originalitäten der Umgebung dargestellt, die Pläne gestalteten sich schnell, und verkörperten sich in den leichtesten und zufälligsten Formen.</tei:seg>
+        <tei:seg> praktische Ideen und Pläne durchkreuzten, und der um jeden Preis auch den Sohn dafür gewinnen wollte; der sich aber dennoch von dem Ehrgeize nicht trennen konnte, an seinem Sohne auch den Ruhm eines schönen Geistes zu erleben. So ging kein Familienfest ohne poetische Verherrlichung hin. Das Verhältniß zu Lili zeigt uns selbst den Verfasser des Werther und Götz noch mitten in diesen Anregungen des Zufalls immer mit neuen Einfällen und unermüdlichen Opfergaben auf den Hausaltar der Geselligkeit. Liebend oder spottend wurden die Originalitäten der Umgebung dargestellt, die Pläne gestalteten sich schnell, und verkörperten sich in den leichtesten und zufälligsten Formen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Wenn auch Göthe gegen diese Produktionen streng war und sie vernichtete, so konnte er doch niemals diesen Instinkt eines plötzlich </tei:seg>
@@ -761,9 +745,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Sterne dagegen trat nicht so subjectiv vor die Menge; er lamentirt weniger über die Bosheit, als über das Unglück der Menschen. Dieser herrliche Engländer hat, was ihn selbst betrifft, immer guten Muth; nur wenn er zu Andern tritt, gehen ihm die Thränendrüsen auf. Der Mönch, der in Calais bettelt, der Ludwigsritter in Versailles, welcher Pasteten verkauft, das sind Situationen-Wellen, welche so lange sein Herz umspülen, bis er mit allen seinen Remisenabentheuern und Kammerzofenepisoden in das weiche Bette seiner Empfindung fällt, und er eben im Begriff zu lachen, in Thränen ausbricht, bis er nicht </tei:seg>
         <tei:pb n="148"/>
-        <tei:seg> mehr dämmen kann. Rousseau wirkte auf verwandte, Sterne auf schöne Seelen. Jener ist sentimental, dieser humoristisch. Rousseau mußte durch die Nachahmung verlieren; Sterne war so glücklich Nachahmer zu finden, welche ihn ehrten. Der vortrefflichste und über ganz Europa siegreiche war aber der Vicar von Wakefield. Dieser Charakter mit seiner feinen Selbst-Ironie und unverwüstlichen Gutmüthigkeit brachte in Deutschland eine magische Wirkung hervor, und ist zugleich eines der ersten Bücher, </tei:seg>
-        <tei:ref type="esv" target="#annotation-13">das</tei:ref>
-        <tei:seg> auf Göthe’s Herzens- und Geistesbildung, seinem eigenen Berichte nach, von entscheidendem Einflusse war.</tei:seg>
+        <tei:seg> mehr dämmen kann. Rousseau wirkte auf verwandte, Sterne auf schöne Seelen. Jener ist sentimental, dieser humoristisch. Rousseau mußte durch die Nachahmung verlieren; Sterne war so glücklich Nachahmer zu finden, welche ihn ehrten. Der vortrefflichste und über ganz Europa siegreiche war aber der Vicar von Wakefield. Dieser Charakter mit seiner feinen Selbst-Ironie und unverwüstlichen Gutmüthigkeit brachte in Deutschland eine magische Wirkung hervor, und ist zugleich eines der ersten Bücher, das auf Göthe’s Herzens- und Geistesbildung, seinem eigenen Berichte nach, von entscheidendem Einflusse war.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die ersten allgemeinen Tendenzen von welchen sich unser Dichter näher berührt fand, sind nun zunächst jene schon erwähnten naiven, herzlichen und etwas pedantischen Bestrebungen unserer Nation, die durch Rabener, </tei:seg>
@@ -812,9 +794,7 @@
         <tei:seg>wegsamen Wald Steine säet, um auf alle Fälle den Rückzug wieder zu finden. Dies frivole Bestreben sollte erst mit einem Widerspruche endigen, als die Revolution die Excentricität des Gemüthes überraschte, und dem egoistischen aus der Lüge die Wahrheit saugenden Genie in die Zügel fiel. Die Revolution frug: Wohin führ’ ich dich zurück, du Mittelpunktloser? Und das Genie hatte so wenig für seinen Rücken gesorgt, daß es in der Eile keine andere Wohnung wußte, als die Prosa. Alle Empfindungen, die ihr Herz mit der Geschichte der Zeit parallel ausgebildet hatten, verletzte Göthe am Schluß des Jahrhunderts so hart, daß Unbillige niemals wieder mit ihm an eine Aussöhnung dachten.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Die Herz- und Geisttendenzen, welche in der zweiten Hälfte des vorigen Jahrhunderts Deutschland beherrschten, lassen sich auf </tei:seg>
-        <tei:ref type="esv" target="#annotation-14">zwei</tei:ref>
-        <tei:seg> </tei:seg>
+        <tei:seg>Die Herz- und Geisttendenzen, welche in der zweiten Hälfte des vorigen Jahrhunderts Deutschland beherrschten, lassen sich auf zwei </tei:seg>
         <tei:pb n="159"/>
         <tei:seg> Erscheinungen zurückführen, die eben so sehr individuell wie allgemein waren, und durch Lavater und Basedow am schärfsten bezeichnet werden. Beide Richtungen gingen von demselben Anfange aus und bedienten sich, um zu ihren Zielen zu gelangen, derselben Mittel. Rousseau’s das ganze vorige Jahrhundert ergreifender Einfluß ist auch hier unverkennbar; nur, daß in Deutschland seine Tendenzen durch den Charakter der Nation ein theologisches Beigemisch erhielten, das ihm selbst fremd war.</tei:seg>
       </tei:p>
@@ -852,9 +832,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Wenn nun so die Zweige der laufenden Cultur hinter ihm zusammenschlugen, wohin entschlüpfte da der Harzwanderer? Schon nehmen mancherlei Tendenzen in Religion und Philosophie ihren rauschenden Gang. Kant und Jakobi eröffnen ihre Schulen. Die Geister erklimmen entweder die schwindelnde Höhe einer alle sinnliche Wahrnehmung überflügelnden Abstraktion, oder vergraben sich immer tiefer in die kleinen Ritzen des menschlichen Herzens, und knüpfen an das Nächste das Entfernteste. Wenn nun auch Göthe sich keiner dieser Erscheinungen um so weniger entzog, da die Streitenden oft Miene machten, seinen Ruhm in ihre Interessen zu verwickeln, so hielt er sich doch außerhalb des Kampfes selbst, Wirbel vermeidend, deren aufge-</tei:seg>
         <tei:pb n="168"/>
-        <tei:seg>regte Resultate oft nichts anderes, als Staub waren. Seine Betrachtungen über diese Zeitphänomene beschränkten sich nur auf Parallelen und Vergleiche, angestellt zwischen dem Objekt dieser Kämpfe, der naiven Präsentation desselben als einem Problem, und jenen undankbaren Mühen, eine Schaale zu zerbrechen, wo ihm wenigstens der Kern noch weniger zu gelten schien, als die Schaale selbst. Im Faust sprach Göthe diese negative Theilnahme an der Philosophie am lebhaftesten aus. In den beiden Hauptgestalten des Gedichtes, Faust und Mephistopheles, zeichnete er zwei wechselseitig sich aufhebende Richtungen; einerseits den Drang des Innern der Dinge zu erkennen, und andererseits das drängende Innere der Dinge selbst, </tei:seg>
-        <tei:ref type="esv" target="#annotation-15">das</tei:ref>
-        <tei:seg> im Offenbaren und Aeußeren, in der Erscheinung sich zu begreifen sucht. Kern und Schaale, beide </tei:seg>
+        <tei:seg>regte Resultate oft nichts anderes, als Staub waren. Seine Betrachtungen über diese Zeitphänomene beschränkten sich nur auf Parallelen und Vergleiche, angestellt zwischen dem Objekt dieser Kämpfe, der naiven Präsentation desselben als einem Problem, und jenen undankbaren Mühen, eine Schaale zu zerbrechen, wo ihm wenigstens der Kern noch weniger zu gelten schien, als die Schaale selbst. Im Faust sprach Göthe diese negative Theilnahme an der Philosophie am lebhaftesten aus. In den beiden Hauptgestalten des Gedichtes, Faust und Mephistopheles, zeichnete er zwei wechselseitig sich aufhebende Richtungen; einerseits den Drang des Innern der Dinge zu erkennen, und andererseits das drängende Innere der Dinge selbst, das im Offenbaren und Aeußeren, in der Erscheinung sich zu begreifen sucht. Kern und Schaale, beide </tei:seg>
         <tei:pb n="169"/>
         <tei:seg> treibt dieselbe Neigung. Sie weichen Eine dem Andern, um hier das Offenbare, dort das Verborgene zu sehen. In allen Erscheinungen der Natur und Geisteswelt nur Gesetz und Nothwendigkeit erblickend, unterwarf sich der Dichter gern den heiligen Schauern derselben, und opferte ihnen die unruhige Freiheit des Gedankens. Er nahm die Philosophie und Religion als ein Kunstwerk, wo die beglückende Wahrheit des Gefunden! doch immer nur Reflex der Individualität ist, und ließ schwerlich ein System gelten, das für zwei Personen eine und dieselbe Richtschnur sein wollte. So fehlte es ihm aber in den höchsten Fragen der Menschheit niemals an Anknüpfungspunkten, wo er frei von ihrer wirren Debatte, doch auf Menschen und Dinge die weisesten und tiefsten Schlaglichter der Spekulation fallen lassen konnte. Denn dasjenige überrascht im-</tei:seg>
         <tei:pb n="170"/>
@@ -1010,9 +988,7 @@
         <tei:pb n="206"/>
         <tei:seg> sehr viel Ehre, aber sehr wenig Vortheil zieht; so ist es, weil sich unsere glorreichsten Bestrebungen gewöhnlich in dem Charakter der Zeit irrten, und von einer Masse, die sie kalt von sich wies, eine mit den Umständen disharmonirende Hingebung verlangten. Jene schreiende Dissonanz, als die Kunst und die Geschichte so feindselig zusammentrafen, verwirrte zuerst die Kunst selbst, erzeugte jene Haarspaltungen der ästhetischen Tendenzen und künstlerischen Theoreme, welche besonders in Göthe’s und Schiller’s Briefwechsel sich in einem fortwährenden Zirkel bewegen, lähmte darauf die schöpferische Produktivität unseres größten Dichters, der in einer so unruhigen Zeit, um nicht mit fortgerafft zu werden, sich entschließen mußte, sich in sich zurückzuziehen und in sich den Dichter nur zu einem Theile des Menschen zu machen. Noch immer hallt </tei:seg>
         <tei:pb n="207"/>
-        <tei:seg> diese Dissonanz in </tei:seg>
-        <tei:ref type="esv" target="#annotation-16">unsern</tei:ref>
-        <tei:seg> Zuständen fort, und es wird lange währen, ehe wir aus diesen widersprechenden Thatsachen sowohl die richtigen Urtheile, wie die weiseren Entschlüsse gezogen haben.</tei:seg>
+        <tei:seg> diese Dissonanz in unsern Zuständen fort, und es wird lange währen, ehe wir aus diesen widersprechenden Thatsachen sowohl die richtigen Urtheile, wie die weiseren Entschlüsse gezogen haben.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Man spricht immer von der großen Geschichte, von dem großen Jahrhundert, von der Dichterin Zeit, die Alles überflügelt. Aber wie wenig die Literaturen auf den Umschwung der nationalen und ästhetischen Begriffe vorbereitet waren, wird man am passendsten aus einer Vergleichung erkennen, die noch nicht angestellt worden ist. Was hat Frankreich durch seine großartige Geschichte wohl für seine Literatur gewonnen? Unsere Rigoristen wollen, daß uns die Schmach hätte begeistern sollen; in Frankreich, sollte man denken, hatte der Ruhm vor der Schmach sogar noch einige Schritte voraus. Der Ruhm konnte </tei:seg>
@@ -1251,9 +1227,7 @@
         <tei:seg>sprechen in ihren Prinzipien all den Merkmalen, welche die sogenannte Nationalliteratur tragen soll. Es ist durch den Erfolg entschieden, wie wenig befruchtend und anregend jene patriotischen Lehren wirken konnten. Wir sehen es. Ueberall Produktionsohnmacht. Und wo ein Produkt ist, da wird nur die Tendenz gesehen!</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Die Weltliteratur will die Nationalität nicht verdrängen. Sie verlangt schwerlich, daß man seinen heimischen Bergen und Thälern entsagend, sich an kosmopolitische Bilder und Landschaften gewöhne. Die Weltliteratur ist sogar die Garantie der Nationalität. Sie wird immer, wenn das Evangelium der Letzteren mit zu vielen Golgathagefahren gepredigt wird, oder sonstige </tei:seg>
-        <tei:ref type="esv" target="#annotation-17">Beanstandnahmen</tei:ref>
-        <tei:seg> desselben eintreten, den mißlichen Anknüpfungspunkten zu Hülfe kommen, und vor einem </tei:seg>
+        <tei:seg>Die Weltliteratur will die Nationalität nicht verdrängen. Sie verlangt schwerlich, daß man seinen heimischen Bergen und Thälern entsagend, sich an kosmopolitische Bilder und Landschaften gewöhne. Die Weltliteratur ist sogar die Garantie der Nationalität. Sie wird immer, wenn das Evangelium der Letzteren mit zu vielen Golgathagefahren gepredigt wird, oder sonstige Beanstandnahmen desselben eintreten, den mißlichen Anknüpfungspunkten zu Hülfe kommen, und vor einem </tei:seg>
         <tei:pb n="231"/>
         <tei:seg> Europäischen Forum dasjenige möglich machen, was in der Heimath unzuverlässig ist. Die Nationalität wird durch den weltliterarischen Zustand nicht aufgehoben, sondern gerechtfertigt. Der heimischen Literatur wird das Urtheil und die Geburt durch ihn erleichtert, wie namentlich in Deutschland die Voraussetzungen einer nationalen Literatur so sehr erschwert sind, daß man bei uns über ein Talent den Stab bricht, während demselben das Ausland akklamirt. Was wir auch gegen Heine einzuwenden haben, so ist es doch unerträglich, daß bei uns ein Name ungestraft darf gelästert werden, der durch seine ausserordentlichen Fähigkeiten sich bereits eine europäische Bekanntschaft erworben hat.</tei:seg>
       </tei:p>
@@ -1265,9 +1239,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die Grundsätze der Weltliteratur geben sich sogleich zu erkennen, wenn man nur die äußere Physiognomie derselben näher bezeichnet. Zur Weltliteratur gehört alles, das würdig ist in die fremden Sprachen übersetzt zu werden, somit alle Entdeckungen, welche </tei:seg>
         <tei:pb n="233"/>
-        <tei:seg> die Wissenschaft bereichern, alle Phänomene, welche ein neues Gesetz in der Kunst zu erfinden und die </tei:seg>
-        <tei:ref type="esv" target="#annotation-18">Regeln</tei:ref>
-        <tei:seg> der alten Aesthetik zu zerstören scheinen. Die geringe Ausbeute derartiger Produktionen würde namentlich Deutschland von jener Ueberfluthung des Literaturmarktes befreien, welche den Umsatz, die Theilnahme, den Ueberblick und die Kritik erschwert. Mit dem inneren Werthe käme die äußere Würde der Literatur. Die Literatur erhöbe sich von der niederen Stufe, auf welche sie als ein Bedürfniß herabgesunken ist. Sie würde sich als eine organische Offenbarung des Menschengeistes bethätigen, und mit einem Schlage durch ihre eigene naive Unübertrefflichkeit alle jene Fragen beenden, welche sich auf dem jetzigen Gebiete der Geisteswelt zu keinem andern Zwecke durchkreuzen, als um die Mittelmäßigkeit zu ordnen, zu placi-</tei:seg>
+        <tei:seg> die Wissenschaft bereichern, alle Phänomene, welche ein neues Gesetz in der Kunst zu erfinden und die Regeln der alten Aesthetik zu zerstören scheinen. Die geringe Ausbeute derartiger Produktionen würde namentlich Deutschland von jener Ueberfluthung des Literaturmarktes befreien, welche den Umsatz, die Theilnahme, den Ueberblick und die Kritik erschwert. Mit dem inneren Werthe käme die äußere Würde der Literatur. Die Literatur erhöbe sich von der niederen Stufe, auf welche sie als ein Bedürfniß herabgesunken ist. Sie würde sich als eine organische Offenbarung des Menschengeistes bethätigen, und mit einem Schlage durch ihre eigene naive Unübertrefflichkeit alle jene Fragen beenden, welche sich auf dem jetzigen Gebiete der Geisteswelt zu keinem andern Zwecke durchkreuzen, als um die Mittelmäßigkeit zu ordnen, zu placi-</tei:seg>
         <tei:pb n="234"/>
         <tei:seg>ren, zu erläutern und mit falschen Lorbeern zu bekränzen.</tei:seg>
       </tei:p>
@@ -1337,9 +1309,7 @@
         <tei:seg>gemeinheit lernt sie, von seiner Unbefangenheit wird sie befruchtet. Niemand kann ein Vorbild sein, der nicht Etwas in sich trägt, das sich auf alle Fälle anwenden läßt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Jeder Cicerone der gegenwärtigen deutschen Literaturzustände wird in Verlegenheit gerathen, wenn ihn ein Fremder früge: Wo ist das Genie? Du sprichst von Tendenzen, von </tei:seg>
-        <tei:ref type="esv" target="#annotation-19">philosophischen</tei:ref>
-        <tei:seg> Sekten, von entscheidenden Sekten: wo ist das Genie? Wo ist jene Allgemeinheit, die kein anderes Kredo hat, als eines auf sich selbst? Wo ist jener Funke, der hier als mildes Feuer wärmt, dort als Flamme wüthet, der Alles entzündet, was du willst, und der aus den größten Tollkühnheiten sich immer wieder in seine stille heimliche Gluth zurückzieht? Wo ist jene Freiheit vom Gesetz, von der Meinung, von der Partey; </tei:seg>
+        <tei:seg>Jeder Cicerone der gegenwärtigen deutschen Literaturzustände wird in Verlegenheit gerathen, wenn ihn ein Fremder früge: Wo ist das Genie? Du sprichst von Tendenzen, von philosophischen Sekten, von entscheidenden Sekten: wo ist das Genie? Wo ist jene Allgemeinheit, die kein anderes Kredo hat, als eines auf sich selbst? Wo ist jener Funke, der hier als mildes Feuer wärmt, dort als Flamme wüthet, der Alles entzündet, was du willst, und der aus den größten Tollkühnheiten sich immer wieder in seine stille heimliche Gluth zurückzieht? Wo ist jene Freiheit vom Gesetz, von der Meinung, von der Partey; </tei:seg>
         <tei:pb n="251"/>
         <tei:seg> wo jener Abenteurer, der nur sich und seine Farbe und seine Dame kennt, und die Lanze bricht mit Ideen? Klopstock, Herder, Wieland – das ist schon lange her.</tei:seg>
       </tei:p>
@@ -1356,9 +1326,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Weder eine Gesinnung, noch eine Manier sollte durch diese Schrift anempfohlen werden. Herrlich die Jugend, welche aufrichtiger, hingebender und feuriger empfinden kann, als Göthe konnte. Man kann hochherziger den-</tei:seg>
         <tei:pb n="254"/>
-        <tei:seg>ken vom Vaterland, von der Liebe, von den Formen der Gesellschaft und den Räthseln der Geschichte. Ja selbst die Kunst war in den Händen des Dichters nicht immer ein heiliges Weihgefäß, aus dem er Segen und Gottesnähe auf die Gemeinde sprengte. Göthe hatte die größten Anschauungen, Imaginationen, deren Ausführung ihn fortwährend hoch über jenen Verhältnissen gehalten hätte, denen er unterlag; und er zog es vor, seine ungeheure Kraft an kleinen Stoffen zu verschwenden, und das natürliche Prinzip, </tei:seg>
-        <tei:ref type="esv" target="#annotation-20">daß</tei:ref>
-        <tei:seg> alle Dinge ohne Anstrengung nach einem eingebornen Organismus sich entwickeln müßten, auch auf die moralische Welt, und zum großen Schaden der Nation, auf die Imputation des ästhetischen Gewissens zu übertragen. Indem die Poesie bei ihm die augenblickliche Erregung, der Akt des Dichtens selbst Ab-</tei:seg>
+        <tei:seg>ken vom Vaterland, von der Liebe, von den Formen der Gesellschaft und den Räthseln der Geschichte. Ja selbst die Kunst war in den Händen des Dichters nicht immer ein heiliges Weihgefäß, aus dem er Segen und Gottesnähe auf die Gemeinde sprengte. Göthe hatte die größten Anschauungen, Imaginationen, deren Ausführung ihn fortwährend hoch über jenen Verhältnissen gehalten hätte, denen er unterlag; und er zog es vor, seine ungeheure Kraft an kleinen Stoffen zu verschwenden, und das natürliche Prinzip, daß alle Dinge ohne Anstrengung nach einem eingebornen Organismus sich entwickeln müßten, auch auf die moralische Welt, und zum großen Schaden der Nation, auf die Imputation des ästhetischen Gewissens zu übertragen. Indem die Poesie bei ihm die augenblickliche Erregung, der Akt des Dichtens selbst Ab-</tei:seg>
         <tei:pb n="255"/>
         <tei:seg>schließung einer abweichenden Stimmung war, so bildete er in sich nicht jene innere Triebkraft aus, die den Menschen immer aus seinem Gleichgewichte herauszuheben sucht, und ihn mit Aufopferung des genossenen Momentes auf immer höhere Stufen und Terrassen der Zukunft erhebt. Ueber alle diese Fragen kann es keinen Zweifel mehr geben.</tei:seg>
       </tei:p>
@@ -1373,29 +1341,11 @@
           <tei:sic>das</tei:sic>
         </tei:p>
       </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-2">
-        <tei:p>
-          <tei:lem>ihre</tei:lem>
-          <tei:sic>seine</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-3">
-        <tei:p>
-          <tei:lem>Schein</tei:lem>
-          <tei:sic>Rhein</tei:sic>
-        </tei:p>
-      </tei:interp>
       <tei:interp type="esv" xml:id="annotation-23">
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:lem>ei-25nes</tei:lem>
           <tei:seg> </tei:seg>
           <tei:sic>ei-25des</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-5">
-        <tei:p>
-          <tei:lem>es</tei:lem>
-          <tei:sic>er</tei:sic>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-6">
@@ -1404,88 +1354,10 @@
           <tei:sic>daß</tei:sic>
         </tei:p>
       </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-7">
-        <tei:p>
-          <tei:lem>plötzlichen</tei:lem>
-          <tei:sic>plötzliche</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-8">
-        <tei:p>
-          <tei:lem>ihn</tei:lem>
-          <tei:sic>ihm</tei:sic>
-        </tei:p>
-      </tei:interp>
       <tei:interp type="esv" xml:id="annotation-9">
         <tei:p>
           <tei:lem>Vermögens-,</tei:lem>
           <tei:sic>Vermögens-</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-10">
-        <tei:p>
-          <tei:lem>entlehnen</tei:lem>
-          <tei:sic>ntlehnen</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-11">
-        <tei:p>
-          <tei:lem>Lili</tei:lem>
-          <tei:sic>Lidi</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-12">
-        <tei:p>
-          <tei:lem>Hausaltar</tei:lem>
-          <tei:sic>Hausalter</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-13">
-        <tei:p>
-          <tei:lem>das</tei:lem>
-          <tei:sic>daß</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-14">
-        <tei:p>
-          <tei:lem>zwei</tei:lem>
-          <tei:sic>zwe</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-15">
-        <tei:p>
-          <tei:lem>das</tei:lem>
-          <tei:sic>daß</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-16">
-        <tei:p>
-          <tei:lem>unsern</tei:lem>
-          <tei:sic>unserm</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-17">
-        <tei:p>
-          <tei:lem>Beanstandnahmen</tei:lem>
-          <tei:sic>Beandstandnahmen</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-18">
-        <tei:p>
-          <tei:lem>Regeln</tei:lem>
-          <tei:sic>Regelu</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-19">
-        <tei:p>
-          <tei:lem>philosophischen</tei:lem>
-          <tei:sic>philophischen</tei:sic>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-20">
-        <tei:p>
-          <tei:lem>daß</tei:lem>
-          <tei:sic>das</tei:sic>
         </tei:p>
       </tei:interp>
       <tei:note type="footnote" xml:id="footnote-2">
@@ -1499,22 +1371,22 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1 Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1 Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2 Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1590,13 +1462,13 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1 Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert. </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1.1 Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
