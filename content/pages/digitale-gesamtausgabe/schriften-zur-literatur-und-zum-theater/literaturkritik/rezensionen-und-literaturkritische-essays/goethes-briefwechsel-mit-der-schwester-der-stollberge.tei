@@ -34,6 +34,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
+      <tei:change when="2021-05-09" who="#MadleenPodewski">2.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -57,17 +58,8 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Man sieht, dieser Briefwechsel hat eine Abrundung, die ihn fast einem Romane ähnlich macht. Welch’ ungeheure Umwälzungen im Glauben und Empfinden der Menschen liegen </tei:seg>
         <tei:pb n="1300"/>
-        <tei:seg> zwischen jenem Anfang und diesem Ende! Wie hat sich Alles so verändert; wie ist Alles so kalt, finster, lieblos worden! Wie entfremdet sind sich die Menschen; wie mißtrauisch sind die Verhältnisse! Sollte nicht eine schöne Folge der Veröffentlichung von Zuständen, in welchen unsre großen Geister in alten Tagen gelebt haben, auch die werden, daß wir ihrer Liebe und ihrer Hingebung nachahmen und inniger, zutraulicher </tei:seg>
-        <tei:ref type="esv" target="#annotation-1">aneinanderrücken</tei:ref>
-        <tei:seg> duldsamer uns tragen, traulicher uns genießen?</tei:seg>
+        <tei:seg> zwischen jenem Anfang und diesem Ende! Wie hat sich Alles so verändert; wie ist Alles so kalt, finster, lieblos worden! Wie entfremdet sind sich die Menschen; wie mißtrauisch sind die Verhältnisse! Sollte nicht eine schöne Folge der Veröffentlichung von Zuständen, in welchen unsre großen Geister in alten Tagen gelebt haben, auch die werden, daß wir ihrer Liebe und ihrer Hingebung nachahmen und inniger, zutraulicher aneinanderrücken, duldsamer uns tragen, traulicher uns genießen?</tei:seg>
       </tei:p>
-      <tei:interp type="esv" xml:id="annotation-1">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:lem>aneinanderrücken</tei:lem>
-          <tei:seg>, </tei:seg>
-          <tei:sic>aneinanderrücken</tei:sic>
-        </tei:p>
-      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head data-heading-id="" type="level-1">
@@ -112,7 +104,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">139,33</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>aneinanderrücken</tei:lem>
+        <tei:lem>aneinanderrücken,</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>aneinanderrücken</tei:sic>
       </tei:p>

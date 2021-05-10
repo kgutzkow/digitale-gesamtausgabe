@@ -34,29 +34,30 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
+      <tei:change when="2021-05-09" who="#MadleenPodewski">2.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:pb n="79"/>
         <tei:seg> Eine Anklage gegen Schiller und Goethe.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Der gegenwärtig so mächtig erwachte vaterländische Sinn, der Deutschland einig, stark und groß zu machen bestrebt ist, bewegt sich schon wieder, wie dies </tei:seg>
         <tei:pb n="80"/>
         <tei:seg> bei uns in solchen Bewegungen immer der Fall ist, in Extremen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die sonst so freisinnige „Protestantische Kirchenzeitung“ spricht von einem Grundübel der literarischen Bildung, die seit Klopstock die innere Gestalt des deutschen Lebens verwandelt hätte, vom „abstracten Kosmopolitismus“. Unsere classischen Dichter werden wegen ihrer Gleichgültigkeit gegen die Nation als politisches Ganzes angeklagt: „Auch unserm Schiller, an dem unser Sinn für den Staat, für politische Ideen sich am meisten gehoben hat, auch ihm scheint es ein kleines und armseliges Ideal, für eine Nation zu schreiben. Und wer kennt nicht Goethe’s Stellung zu der deutschen Bewegung, seinen Aerger an aller Politik und endlich selbst an der Reformation?“ Wohl hätten wir Ursache, zu unsern großen Dichtern mit Ehrfurcht hinaufzusehen; doch dieser Mangel an nationalem Sinn sei nicht zu leugnen, der „leere Enthusiasmus für die Bildung von 1794“ sei kaum minder widerwärtig als die Schwärmerei für das Mittelalter. „Dieses nur ästhetische und nur literarische Leben – und vor allem diese Goethe’sche ‚ruhige Bildung‘ – als das höchste Maß der Gesundheit zu preisen, ist eine arge Verwechselung der vollendeten Kunstform mit dem realen Lebensinhalt, den sie einfassen soll.“</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Echte Gothaer Tendenzkritik! Wie kann man vergangene Literaturzustände verantwortlich machen für Anschauungen, die nur unserer Zeit angehören! So hoch man auch den Einfluß der Literatur auf das Leben einer Nation anschlagen mag, zuerst wird die Literatur immer ihre Impulse aus dem Leben selbst empfangen müssen, ehe sie wieder eine Rückwirkung üben kann. Wäre zur Zeit Schiller’s und Goethe’s die Nation in einer vaterländischen Bewegung gewesen wie gegenwärtig, so hätte wol auch die Poesie – soweit es überhaupt sich mit den Gesetzen der Poesie verträgt, zu politisiren – dem Einflusse derselben sich nicht entziehen können. Uebrigens trifft der ausgesprochene Tadel überwiegend doch nur Goethe, nicht Schiller.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Wenngleich Schiller, wie jeder große Dichter, für die Menschheit und nicht blos für eine Nation gedichtet hat, so hat er doch durch seine Dichtungen mächtig auch auf den vaterländischen Sinn der Deutschen eingewirkt, hat diesen geweckt und belebt. Die Freiheitsbegeisterung des Dichters des „Wallenstein“ und „Tell“ war keine abstract kosmopolitische. Doch freilich war sie auch nicht eine so eingeschränkt politische, daß sie über den Bürger den Menschen übersehen hätte. Würde nicht die classische Literatur den Weltbürger und Menschen betont haben, so hätte uns wieder die Befähigung gemangelt, das </tei:seg>
-        <tei:ref type="esv" target="#annotation-1">Nationale</tei:ref>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wenngleich Schiller, wie jeder große Dichter, für die Menschheit und nicht blos für eine Nation gedichtet hat, so hat er doch durch seine Dichtungen mächtig auch auf den vaterländischen Sinn der Deutschen eingewirkt, hat diesen geweckt und belebt. Die Freiheitsbegeisterung des Dichters des „Wallenstein“ und „Tell“ war keine abstract kosmopolitische. Doch freilich war sie auch nicht eine so eingeschränkt politische, daß sie über den Bürger den Menschen übersehen hätte. Würde nicht die classische Literatur den Weltbürger und Menschen betont haben, so hätte uns wieder die Befähigung gemangelt, das Nationale</tei:seg>
+        <tei:ref type="esv" target="#annotation-1"/>
         <tei:seg> in seiner höhern Bedeutung zu begreifen. Es ist gerade wie in der Literatur selbst. Ohne die vorhergegangene Schwärmerei für Homer hätte es keine Schwärmerei für die Nibelungen geben können.</tei:seg>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
