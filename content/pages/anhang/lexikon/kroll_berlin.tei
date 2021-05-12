@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Krolls Etablissement (Berlin)</tei:title>
+        <tei:author>Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc/>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2021-04-29">29. April 2021</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #kroll"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2021-04-29" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head type="level-1">
+        <tei:seg>Krolls Etablissement (Berlin)</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Vergnügungspalast im Berliner Tiergarten, im Februar 1844 eröffnet, nach einem Brand 1851 und einem bald darauf erfolgten Wiederaufbau auch als Theater und Opernhaus genutzt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>→ Bilder</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head type="level-2">
+        <tei:seg>Allgemeines</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der Breslauer Gastronom Joseph Kroll (1797-1848) ließ 1843 am westlichen Rand des ehemaligen Exerzierplatzes am Tiergarten einen Vergnügungspalast errichten, der an Eleganz, Größe und Ausstattung alle bisherigen Berliner Amüsierstätten weit übertraf. Die Initiative dazu war von König Friedrich Wilhelm IV. ausgegangen, dem bei einem Besuch Breslaus im Jahr 1841 Krolls prachtvoller Wintergarten so gut gefallen hatte, dass er ein ähnliches Etablissement für Berlin wünschte. Er stellte Kroll den Baugrund und das Gelände für den Garten unentgeltlich zur Verfügung. Neben dem kommerziellen Aspekt erfüllte der Vergnügungspalast auch einen ›Tendenzzweck‹, denn der König wollte und sollte hier „in zwangslos-freundlichem Begegnen […] bei seinem Volke und das Volk bei seinem König“ sein, wie es in einer königlichen Kabinettordre heißt. (Zitiert nach Peter Thiebes: Zur Geschichte der Unterhaltungsmusik. Hamburg: Diplomica, 2005. S. 14-15.) Das Haus bot mit drei großen Sälen, dreizehn Logen- und vierzehn Gesellschaftszimmern sowie weiteren Räumlichkeiten Platz für etwa 5.000 Besucher. Den Gebäudekomplex hatten Carl Ferdinand Langhans und Ludwig Persius entworfen, die Bauausführung lag in den Händen von Eduard Knoblauch, die angrenzenden Gartenanlagen gestaltete der königliche Garten-Direktor Peter-Joseph Lenné. Am 15. Februar 1844 fand die festliche Eröffnung des Hauses mit einem Konzert statt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Als Glanzpunkt des Hauses galt „der Königssaal, so genannt nach lebensgroßen […] Bildnissen Friedrich Wilhelms IV. und seiner Frau Elisabeth, wo 1000 und in jeder der anstoßenden Kolonnaden noch einmal je 400, alles in allem also 1800 Personen bequem tafeln konnten.“ (Reichardt 1988, S. 12.) Ein besonderer Clou des Hauses war die aus 400 Flammen bestehende, prachtvolle Gasbeleuchtung, die für Berlin damals in dieser Üppigkeit einzigartig war. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>	Kroll warb kurz vor Eröffnung seines Prachtbaus in einer Zeitungsannonce für sein Lokal und stellte es dem Berliner Publikum vor, nicht ohne auf die königliche Protektion („allerhöchster Bestimmung“) hinzuweisen: „Nach allerhöchster Bestimmung soll mein Lokal dem gebildeten Publikum Berlins einen Erholungsort bieten; ich glaubte daher die mir gestellte Aufgabe am zweckmäßigsten zu lösen, wenn ich mein Lokal zu Conzerten, Bällen und anderen Festlichkeiten so einrichten ließ, daß es den Anforderungen des heutigen Geschmacks überall entspräche und Zweckmäßigkeit mit einer äußeren eleganten Ausstattung verbände. [...] / Es werden daher nach der von mir beabsichtigten Einrichtung sämtliche Lokale, welche bequem 5000 Personen fassen, den Besuchenden zur Disposition stehen. Die Räumlichkeiten bestehe aus dem Hauptsaale (Königs-Saal genannt), zwei kleineren Sälen (Rococco-Saal und Renaissance-Saal), 13 Logen, von denen die kleinsten 15 Personen fassen, außerdem aber aus 14 großen Zimmern, wohin sich kleinere Gesellschaften zurückziehen können, und aus einem Tunnel-Saale. Es können 1800 bis 2000 Couverts so gelegt werden, daß die Verbindung der Gesellschaft untereinander durchaus nicht gestört ist. / Für das Orchester ist nach besten Kräften gesorgt, um ein Conzert unterhalten zu können, was neben allen klassischen Musikstücken die neuesten und besten Compositionen aufzuführen im stande sein wird.“ Kroll macht auf sein fest engagiertes Orchester mit 60 „tüchtigen Musikern“ aufmerksam, das sich zu besonderen Anlässen „auf 150 bis 200 Musiker“ aufstocken lasse und fährt fort: „Die Conzerte werden drei bis viermal in jeder Woche stattfinden [...]; außerdem werden in diesem Jahre noch drei Maskenbälle gegeben werden. Vierzig Kellner werden bereit sein die ihnen erteilten Befehle auf das Schnellste auszuführen; auch ist der Tunnel, in welchem die Bier- und kleinere Restauration stattfindet, für diejenigen Herren welche an das Rauchen gewöhnt sind, geöffnet.“ (Zitiert nach Raeder 1894, S. 18-20.) Im Bierausschank des ›Tunnels‹ war das ansonsten streng befolgte vormärzliche Rauchverbot, das auch für den Tiergarten und seine Restaurationen galt, ausgenommen. Das Eintrittsgeld für Kroll war anfangs sehr hoch und betrug einen Taler, wurde bald daraus aber auf „zehn Silbergroschen“ (Raeder 1894, S. 20) reduziert, um auch breiteren Volksschichten den Zugang zu öffnen. Als 1845 erstmals der Wiener Walzerkönig Johann Strauß auftrat, „wurden die Preise nochmals gesenkt. Der Eintritt kostete von nun an 5 Silbergroschen.“ (Freydank 1988, S. 239.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Krolls Etablissement wurde in den folgenden Jahrzehnten für Berlin eine bedeutende und berühmte Lokalität, genutzt für Ballveranstaltungen, Konzerte und Ausstellungen, später auch für Varietédarbietungen, Gartentheater, Opernaufführungen. Schon in den 1840er Jahren war das Programm sehr abwechslungsreich, zugeschnitten auf die Bedürfnisse eines Zerstreuung und Unterhaltung suchenden Massenpublikums: „Neben den regelmäßig stattfindenden Kaffeekonzerten traten hier Akrobaten, Seiltänzer, Kunstreiter, Zauberkünstler in bunter Folge auf. In einer Ecke des Gartens stand die Bühne des bekannten Berliner Marionettenspielers Julius Linde, in einer anderen konnte man Schreyers Affentheater besuchen.“ (Freydank 1988, S. 239.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Allerdings hatte das vor dem Brandenburger Tor gelegene Haus in den Anfangsjahren mit wirtschaftlichen Belastungen und Krisen zu kämpfen, denn die prächtige Lokalität war „für das damalige Berlin zu groß angelegt, auch etwas abgelegen und unbequem zu erreichen.“ (Paul Goldschmidt: Berlin in Geschichte und Gegenwart. Berlin: Springer, 1912. S. 265.) Als Kroll im April 1848 starb, übernahm seine älteste Tochter Auguste (1821-1907) das finanziell schwer angeschlagene Unternehmen. Um es wirtschaftlich wieder in der Höhe zu bringen, beantragte sie 1850 beim Berliner Polizeipräsidenten die Konzession für ein Sommertheater, die auch erteilt wurde. Im Juni des Jahres eröffnete es. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Im Februar 1851 brannte der Vergnügungspalast ab und wurde nach Plänen von Eduard Titz neu aufgebaut. „Titz erhielt von allerhöchster Stelle den Auftrag, das Gebäude in seinem äußeren Erscheinungsbild nach den alten Plänen von Langhans und Persius wieder aufzubauen.“ (Freydank 1988, S. 241.) Der ehemalige Königssaal wurde zum Theaterraum umgestaltet. Er bot 3.000 Zuschauern Platz.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Treibende Kraft für das vielfältige Theater-, Konzert- und Unterhaltungsprogramm bei Kroll wurde jetzt der österreichisch-ungarische Geiger und Kapellmeister Joseph Carl Engel (1821-1888), dem Auguste Kroll Ende 1852 die Geschäftsleitung übertrug und den sie 1853 heiratete. Engel wollte das Krollsche Theater zu einem „internationalen Rendezvousmarkt von Celebritäten und Spezialitäten“ machen (Wahnrau 1957, S. 433). Neben Opern und Konzerten, neben Vaudevilles, Lokalpossen und Volksstücken wurde das große Publikum vor allem durch Varietédarbietungen und sensationelle „Spezialitäten-Schauen“ angelockt: „Bei Kroll tritt 1853 der Zauber-Künstler Robert Houdin auf, dann folgen eine Zulu-Kaffern-Schau, chinesische Gaukler und der Affenmensch Klischnigg.“ (Wahnrau 1957, S. 433) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Hohe Schulden durch den Neubau trieben Auguste Kroll 1855 in die Insolvenz. Sie musste das Haus verkaufen, das später mehrfach den Besitzer wechselte, bis es am Ende des 19. Jahrhunderts zum Sitz der Kroll-Oper wurde. Nach Zerstörungen im 2. Weltkrieg wurde das Haus 1951 gesprengt und beseitigt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head type="level-2">
+        <tei:seg>Kroll in Gutzkows Werken</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gutzkow hat schon einige Wochen nach Eröffnung des Krollschen Etablissements die Lokalität besucht und seine eher unerquicklichen Impressionen in seinem Reisefeuilleton </tei:seg>
+        <tei:q>Berlin Eindrücke</tei:q>
+        <tei:seg> festgehalten.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Das Krollsche Etablissement diente ihm 1850/51 als Folie bzw. Anregung für das in seinem Roman </tei:seg>
+        <tei:q>Die Ritter vom Geiste</tei:q>
+        <tei:seg> geschilderte </tei:seg>
+        <tei:q>Fortuna</tei:q>
+        <tei:seg>-Etablissement, in dem ein großer Maskenball stattfindet (4. Buch des Romans). Gutzkow beschreibt die Lokalität hier so: </tei:seg>
+        <tei:q>Die Fortuna war das neueste und größte Etablissement dieser Art. Der Schein-Besitzer desselben</tei:q>
+        <tei:seg> […] </tei:seg>
+        <tei:q>war ein anschlägiger Kopf, der den Charakter der genußsüchtigen Bevölkerung zu treffen wußte und mit bunten Straßenplacaten und den wunderlichsten Namen für seine Festivitäten die Vergnügungslust immer in Athem erhielt. Seine neue Anlage, die Fortuna, war nach englischem Muster gebaut. Hier fanden sich Gärten und Säle, Galerieen, Logen, von denen man in die Säle hinabblickte, Tunnels, Schaukeln, Carrousels, Rutschberge, kurz eine ganze kleine Welt, die, so lange kein anderes Etablissement dieses neue verdrängte, in der Vogue war.</tei:q>
+        <tei:seg> (RvGN, S. 1294-1295.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head type="level-2">
+        <tei:seg>Literatur</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Ruth </tei:seg>
+        <tei:hi style="font-weight-bold">Freydank</tei:hi>
+        <tei:seg>: Kroll. In: Dies.: Theater in Berlin. Von den Anfängen bis 1945. Berlin: Henschelverl. Kunst u. Gesellschaft, 1988. S. 236-241.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Allwill </tei:seg>
+        <tei:hi style="font-weight-bold">Raeder</tei:hi>
+        <tei:seg>: Kroll. Ein Beitrag zur Berliner Cultur- und Theater-Geschichte. Denkschrift zu dem 50-jährigen Bestehen des Hauses. 1844 – 1894. Berlin: Steinitz, 1894. (384 S., die Schlussbogen sind nie erschienen!)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Hans J.</tei:seg>
+        <tei:hi style="font-weight-bold"> Reichardt</tei:hi>
+        <tei:seg>: … bei Kroll 1844 bis 1957. Etablissement, Ausstellungen, Theater, Konzerte, Oper, Reichstag, Gartenlokal. Eine Ausstellung des Landesarchivs Berlin: 14. Juni bis 31. Okt. 1988. Berlin: Transit Buchverl., 1988.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Wahnrau</tei:hi>
+        <tei:seg>: Krolls Etablissement. In: Ders.: Berlin Stadt der Theater. Der Chronik I. Teil. Berlin: Henschel, 1957. S. 428-435.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+    </tei:body>
+  </tei:text>
+</tei:TEI>
