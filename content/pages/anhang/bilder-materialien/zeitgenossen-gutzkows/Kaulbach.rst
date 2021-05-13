@@ -1,0 +1,11 @@
+Wilhelm von Kaulbach
+====================
+
+:slug: Kaulbach
+:order: 42
+
+Wilhelm von Kaulbach, 1805-1874
+
+.. class:: source
+
+  (Stahlstich, um 1840, gestochen von Auguste Hüssener nach einem Bild von Eduard Ratti, Einzelblatt)
