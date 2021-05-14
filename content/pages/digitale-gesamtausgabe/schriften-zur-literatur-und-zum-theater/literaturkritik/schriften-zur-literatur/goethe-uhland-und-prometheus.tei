@@ -34,6 +34,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
+      <tei:change when="2021-05-12" who="#MadleenPodewski">1.1: Korrektur</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -81,22 +82,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -110,16 +111,19 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>E Göthe, Uhland und Prometheus. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Bd. 1. Stuttgart: Balz, 1836. S. 57-66. (Rasch 2.13.1.4.3)</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Seiten- und Zeilenangaben im Apparat und in den Stellenerläuterungen des edierten Textes beziehen sich auf folgenden Druckband der Edition: Karl Gutzkow: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im neunzehnten Jahrhundert herausgegeben von Madleen Podewski, GWB  IV, Bd. 3.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
