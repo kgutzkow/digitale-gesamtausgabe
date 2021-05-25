@@ -190,6 +190,14 @@ def check_empty_text_nodes(doc, errors):
     walk_tree(text)
 
 
+def check_stage_instructions(doc, errors):
+    for stage in doc.xpath('//tei:stage', namespaces=ns):
+        if 'type' not in stage.attrib:
+            errors.append('Stage instruction missing type')
+        elif stage.attrib['type'] not in ['setting', 'entrance', 'exit', 'business', 'novelistic', 'delivery', 'modifier', 'location', 'mixed']:
+            errors.append('Stage instruction with invalid type {0} ({1}...)'.format(stage.attrib['type'], ''.join(stage.itertext())[:20]))
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -208,6 +216,7 @@ for basepath, _, filenames in walk('content'):
                 check_readings(doc, file_errors)
                 check_editor_transition(doc, file_errors)
                 check_empty_text_nodes(doc, file_errors)
+                check_stage_instructions(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:

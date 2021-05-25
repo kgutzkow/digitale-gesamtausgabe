@@ -138,36 +138,34 @@
             border-left: 1px solid $light-gray;
         }
 
-        .node-paragraph {
-            @for $width from 0 through 200 {
-                &[data-marginleft="#{$width/10}"] {
-                    margin-left: #{$width/10}cm;
-                }
-                &[data-marginright="#{$width/10}"] {
-                    margin-right: #{$width/10}cm;
-                }
-                &[data-margintop="#{$width/10}"] {
-                    margin-top: #{$width/10}cm;
-                }
-                &[data-marginbottom="#{$width/10}"] {
-                    margin-bottom: #{$width/10}cm;
-                }
-                &[data-firstlineindent="#{$width/10}"] {
-                    text-indent: #{$width/10}cm;
-                }
+        @for $width from 0 through 200 {
+            &[data-marginleft="#{$width/10}"] {
+                margin-left: #{$width/10}cm;
             }
+            &[data-marginright="#{$width/10}"] {
+                margin-right: #{$width/10}cm;
+            }
+            &[data-margintop="#{$width/10}"] {
+                margin-top: #{$width/10}cm;
+            }
+            &[data-marginbottom="#{$width/10}"] {
+                margin-bottom: #{$width/10}cm;
+            }
+            &[data-firstlineindent="#{$width/10}"] {
+                text-indent: #{$width/10}cm;
+            }
+        }
 
-            &[data-textalign="center"] {
-                text-align: center;
-            }
+        &[data-textalign="center"] {
+            text-align: center;
+        }
 
-            &[data-textalign="right"] {
-                text-align: right;
-            }
+        &[data-textalign="right"] {
+            text-align: right;
+        }
 
-            &[data-textalign="justify"] {
-                text-align: justify;
-            }
+        &[data-textalign="justify"] {
+            text-align: justify;
         }
 
         .node-heading {
@@ -260,6 +258,25 @@
             .node-line {
             }
         }
+
+        .node-speaker {
+            font-variant: small-caps;
+
+            + .node-lineGroup {
+                margin-top: 0;
+            }
+        }
+
+        .node-speech {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .node-staging {
+            font-size: 80%;
+            font-variant: normal;
+        }
+
 
         .node-pageLineRef {
             font-weight: bold;

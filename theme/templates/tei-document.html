@@ -212,6 +212,84 @@
                         }
                     },
                     {
+                        "name": "speech",
+                        "type": "wrapping",
+                        "content": "block",
+                        "parser": {
+                            "selector": "tei:sp"
+                        }
+                    },
+                    {
+                        "name": "speaker",
+                        "type": "block",
+                        "parser": {
+                            "selector": "tei:speaker"
+                        },
+                        "attrs": {
+                            "marginLeft": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-left"
+                                }
+                            },
+                            "marginRight": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-right"
+                                }
+                            },
+                            "marginTop": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-top"
+                                }
+                            },
+                            "marginBottom": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-bottom"
+                                }
+                            },
+                            "firstLineIndent": {
+                                "default": "0.5",
+                                "parser": {
+                                    "selector": "@first-line-indent"
+                                }
+                            },
+                            "textAlign": {
+                                "default": "left",
+                                "parsers": [
+                                    {
+                                        "selector": "contains(@style, \"text-left\")",
+                                        "type": "static",
+                                        "value": "left"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-center\")",
+                                        "type": "static",
+                                        "value": "center"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-right\")",
+                                        "type": "static",
+                                        "value": "right"
+                                    },
+                                    {
+                                        "selector": "contains(@style, \"text-justify\")",
+                                        "type": "static",
+                                        "value": "justify"
+                                    }
+                                ]
+                            },
+                            "extract": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "@extract"
+                                }
+                            }
+                        }
+                    },
+                        {
                         "name": "pageLineRef",
                         "type": "inline",
                         "parser": {
@@ -233,6 +311,21 @@
                         "parser": {
                             "selector": "tei:q",
                             "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "staging",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:stage",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "type": {
+                                "parser": {
+                                    "selector": "@type"
+                                }
+                            }
                         }
                     },
                     {
