@@ -1,3 +1,5 @@
+@use "sass:math";
+
 @import 'foundation';
 
 /* Include Foundation Components */
@@ -52,7 +54,7 @@ dd + dt {
         border-bottom: 2px solid get-color(primary);
     }
     a {
-        padding-bottom: $global-margin / 2;
+        padding-bottom: math.div($global-margin, 2);
     }
 }
 .tabs-content {

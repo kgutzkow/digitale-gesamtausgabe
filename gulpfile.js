@@ -2,7 +2,7 @@ var autoprefixer = require('gulp-autoprefixer'),
     concat = require('gulp-concat'),
     gulp = require('gulp'),
     pump = require('pump'),
-    sass = require('gulp-sass');
+    sass = require('gulp-dart-sass');
 
 
 gulp.task('css:theme', function(cb) {
