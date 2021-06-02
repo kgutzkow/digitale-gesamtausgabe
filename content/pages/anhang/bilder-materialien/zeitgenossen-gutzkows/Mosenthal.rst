@@ -2,7 +2,7 @@ Salomon Ritter von Mosenthal
 ============================
 
 :slug: Mosenthal
-:order: 42
+:order: 87
 
 Salomon Ritter von Mosenthal, 1821-1877
 

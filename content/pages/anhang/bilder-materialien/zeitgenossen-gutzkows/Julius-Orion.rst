@@ -2,7 +2,7 @@ Orion Julius
 ============
 
 :slug: Julius-Orion
-:order: 42
+:order: 62
 
 Orion Julius, 1788-1835
 

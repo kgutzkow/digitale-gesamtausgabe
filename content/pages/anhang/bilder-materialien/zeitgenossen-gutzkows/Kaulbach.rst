@@ -2,7 +2,7 @@ Wilhelm von Kaulbach
 ====================
 
 :slug: Kaulbach
-:order: 42
+:order: 63
 
 Wilhelm von Kaulbach, 1805-1874
 

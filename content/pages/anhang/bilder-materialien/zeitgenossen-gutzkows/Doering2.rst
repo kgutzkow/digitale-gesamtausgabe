@@ -2,7 +2,7 @@ Theodor Döring
 ==============
 
 :slug: Doering2
-:order: 58
+:order: 24
 
 Theodor Döring, 1803-1878
 

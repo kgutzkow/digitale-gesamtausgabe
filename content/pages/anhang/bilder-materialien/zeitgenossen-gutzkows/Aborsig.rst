@@ -2,7 +2,7 @@ August Borsig
 =============
 
 :slug: Aborsig
-:order: 4
+:order: 9
 
 August Borsig, 1804-1854
 
