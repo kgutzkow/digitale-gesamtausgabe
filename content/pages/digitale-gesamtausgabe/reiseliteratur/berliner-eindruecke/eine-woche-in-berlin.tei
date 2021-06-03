@@ -64,7 +64,7 @@
         <tei:ref type="esv" target="#annotation-6">Jenny Goldschmidt-Lind</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Wenn man nicht in der Lage ist, seine Ankunft in Berlin vermittels telegraphischer Depesche irgend einem Hôtelier unter den Linden anzeigen und sich eine Suite Zimmer im ersten Stock zweckmäßig vorrichten zu lassen, so wird man in der </tei:seg>
         <tei:ref type="esv" target="#annotation-7">Hauptstadt der Intelligenz</tei:ref>
         <tei:seg> immer einige Mühe haben, sich in seinem Absteigequartier mit dem Wahlspruche auszusöhnen: </tei:seg>
@@ -1060,14 +1060,16 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-50">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">7,23-24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die beiden Stereotypen des „Kladderadatsch“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:seg>Müller und Schultze hießen zwei bekannte Spießbürgerfiguren des Berliner satirischen Witzblattes „Kladderadatsch“ (→ Erl. zu 9,2), die im Berliner Dialekt Woche für Woche Ereignisse des Tages glossierten. Die Abbildung der beiden im „Kladderadatsch“ war ein Klischeedruck und behauptete sich jahrzehntelang unverändert im Blatt. Die Popularität von ›Müller und Schultze‹ blieb nicht auf den „Kladderadatsch“ beschränkt. Das Figurenpaar wurde bald auch auf die Bühne gebracht, so etwa im Dezember 1850 mit dem „komisch-satyrischen Genrebild“ von Rudolph Genée „Müller und Schultze oder: die Einquartierung“ (gedruckt 1851). Auch in die humoristische Reiseliteratur fanden Müller und Schultze Eingang. 1853 erschien vom „Kladderadatsch“-Mitarbeiter David Kalisch „Schultze und Müller im Harz“, 1855 „Schultze und Müller in Paris während der Industrie-Ausstellung“, 1856 „Schultze und Müller auf der Leipziger Messe“, Heftchen von etwa 100 Seiten Umfang, die Albert Hofmann, der Verleger des „Kladderadatsch“, bis in die 1870er Jahre herausgab. Müller und Schultze machten Spaziergänge durch Berlin, besuchten Kriegsschauplätze, Gewerbe-, Industrie- und Weltausstellungen, bereisten den Rhein, das Riesengebirge, Helgoland und Hamburg, machten Badereisen nach Ems oder Teplitz oder sahen sich die europäischen Weltstädte London, Paris und Wien an. Mehr als dreißig solcher, zum Teil illustrierten ›Müller und Schultze‹-Heftchen erschienen bis in die 1870er Jahre. Das Berliner Duo war schließlich so berühmt, dass es als „unsterbliches Paar“ 1879 in Büchmanns „Geflügelte Worte“ aufgenommen wurde (Büchmann 1879, S. 152).</tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Müller und Schultze (→ </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/karikaturen.html#13">Bilder</tei:ref>
+          <tei:seg> Karikaturen) hießen zwei bekannte Spießbürgerfiguren des Berliner satirischen Witzblattes „Kladderadatsch“ (→ Erl. zu 9,2), die im Berliner Dialekt Woche für Woche Ereignisse des Tages glossierten. Die Abbildung der beiden im „Kladderadatsch“ war ein Klischeedruck und behauptete sich jahrzehntelang unverändert im Blatt. Die Popularität von ›Müller und Schultze‹ blieb nicht auf den „Kladderadatsch“ beschränkt. Das Figurenpaar wurde bald auch auf die Bühne gebracht, so etwa im Dezember 1850 mit dem „komisch-satyrischen Genrebild“ von Rudolph Genée „Müller und Schultze oder: die Einquartierung“ (gedruckt 1851). Auch in die humoristische Reiseliteratur fanden Müller und Schultze Eingang. 1853 erschien vom „Kladderadatsch“-Mitarbeiter David Kalisch „Schultze und Müller im Harz“, 1855 „Schultze und Müller in Paris während der Industrie-Ausstellung“, 1856 „Schultze und Müller auf der Leipziger Messe“, Heftchen von etwa 100 Seiten Umfang, die Albert Hofmann, der Verleger des „Kladderadatsch“, bis in die 1870er Jahre herausgab. Müller und Schultze machten Spaziergänge durch Berlin, besuchten Kriegsschauplätze, Gewerbe-, Industrie- und Weltausstellungen, bereisten den Rhein, das Riesengebirge, Helgoland und Hamburg, machten Badereisen nach Ems oder Teplitz oder sahen sich die europäischen Weltstädte London, Paris und Wien an. Mehr als dreißig solcher, zum Teil illustrierten ›Müller und Schultze‹-Heftchen erschienen bis in die 1870er Jahre. Das Berliner Duo war schließlich so berühmt, dass es als „unsterbliches Paar“ 1879 in Büchmanns „Geflügelte Worte“ aufgenommen wurde (Büchmann 1879, S. 152).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-51">
@@ -1193,14 +1195,16 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-62">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">9,4</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">„Gelehrten des Kladderadatsch“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:seg>Scherzhafte Bezeichnung für die Hauptmitarbeiter Ernst Dohm, David Kalisch, Rudolph Löwenstein und den Zeichner Wilhelm Scholz. (→ Bilder &gt;&gt; Zeitgenossen Gutzkows &gt;&gt; Die Gelehrten des Kladderadatsch)</tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Scherzhafte Bezeichnung für die Hauptmitarbeiter Ernst Dohm, David Kalisch, Rudolph Löwenstein und den Zeichner Wilhelm Scholz (→ </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows.html#69">Bilder</tei:ref>
+          <tei:seg>  Gutzkows Zeitgenossen).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-63">
@@ -1638,13 +1642,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-100">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">15,6</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Marie Taglioni</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die Tänzerin Maria Taglioni (1833-1891, → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows.html#121">Bild</tei:ref>
           <tei:seg>), Tochter des Berliner Choreographen Paul Taglioni (1808-1884), debütierte 1847 in Berlin, wurde 1848 an der königlichen Bühne engagiert und „blieb als erste Berliner Primaballerina bis 1866 an der Spitze des Ensembles.“ (Frank-Rüdiger Berger: Die Taglionis in Berlin. In: Gunhild Oberzaucher-Schüller, Hans Moeller (Hg.): Meyerbeer und der Tanz. Paderborn: Ricordi, 1998. S. 273-285, Zitat S. 276.) In „Satanella“, das sich Gutzkow während seines Berlin-Besuches ansah, stellte sie die Titelheldin dar.</tei:seg>
