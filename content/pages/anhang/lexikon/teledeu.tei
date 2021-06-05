@@ -5,9 +5,13 @@
       <tei:titleStmt>
         <tei:title>Telegraph für Deutschland (Hamburg) </tei:title>
         <tei:author>Peter Hasubek </tei:author>
-        <tei:respStmt xml:id="MarkMichaelHall">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Mark M Hall</tei:name>
+        <tei:respStmt xml:id="PeterHasubek">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Peter Hasubek</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="GertVonhoff">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -33,71 +37,48 @@
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
-      <tei:change when="2020-03-30" who="#MarkMichaelHall">1.0</tei:change>
+      <tei:change when="2001-09-09" who="#GertVonhoff">1.0</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:hi style="font-size-large font-weight-bold">TELEGRAPH FÜR DEUTSCHLAND,</tei:hi>
-        <tei:seg> Zeitschrift Gutzkows, die 1838 bis 1843 bei Hoffmann &amp; Campe (ab 1842 bei Campe) in Hamburg erschien und den 1837 veröffentlichten </tei:seg>
-        <tei:seg>"Frankfurter Telegraph"</tei:seg>
-        <tei:seg> als Vorgänger hat. Zunächst wurde sie unter "Verantwortlichkeit der Verlagshandlung" redigiert; mit Nr. 164 (Oktober 1841) durfte Gutzkow als verantwortlicher Redakteur genannt werden. (Rasch 5.7) </tei:seg>
-        <tei:seg>→ </tei:seg>
-        <tei:seg>Bilder und Quellen: Bilder. Handschriften und Drucke</tei:seg>
-        <tei:seg>.</tei:seg>
+      <tei:head data-heading-id="" type="level-1">
+        <tei:hi style="font-size-large font-weight-bold">Telegraph für Deutschland</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-1"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Zeitschrift Gutzkows, die von 1838 bis 1843 bei Hoffmann &amp; Campe (ab 1842 bei Campe) in Hamburg erschien und den 1837 veröffentlichten "Frankfurter Telegraph" als Vorgänger hat. Zunächst wurde sie unter "Verantwortlichkeit der Verlagshandlung" redigiert; mit Nr. 164 (Oktober 1841) durfte Gutzkow als verantwortlicher Redakteur genannt werden. (Rasch 5.7) </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>→ Bilder und Quellen: Bilder. Handschriften und Drucke.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:head data-heading-id="" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
-      </tei:p>
-      <tei:p>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Wolfgang </tei:seg>
         <tei:hi style="font-weight-bold">Rasch</tei:hi>
         <tei:seg>: Zur Geschichte des "Telegraph für Deutschland" 1838-1843. In: FVF Jahrbuch 1995, S. 131-160.</tei:seg>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>([Peter Hasubek, Göttingen / Gert Vonhoff, Exeter] / N.N.)</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe, herausgegeben vom Editionsprojekt Karl Gutzkow, 1999ff.</tei:seg>
-        <tei:seg> © Editionsprojekt Karl Gutzkow, 2000. / Not to be published in any form without the author's prior permission. / Layout. Judith Näther &amp; Juliane Schaefer. </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Autor der Seite: Peter Hasubek / Gert Vonhoff.</tei:seg>
-        <tei:seg> Seite angelegt am 09.09.2001.</tei:seg>
-        <tei:seg> Fassung: 1.0</tei:seg>
-        <tei:seg> Geschichte der Seitenänderungen:</tei:seg>
-        <tei:seg> Letzte Änderung: </tei:seg>
-        <tei:seg> #BeginDate format:Ge1m </tei:seg>
-        <tei:seg>17.07.2006 17:10</tei:seg>
-        <tei:seg> #EndDate </tei:seg>
-        <tei:seg> . </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Die Root-URLs der Seite sind http://www.exeter.ac.uk/german/gutzkow.htm oder http://www.gutzkow.de.</tei:seg>
-        <tei:seg> E-mail: </tei:seg>
-        <tei:seg>mailto:G.Vonhoff@exeter.ac.uk</tei:seg>
-        <tei:seg> oder </tei:seg>
-        <tei:seg>mailto:M.Lauster@exeter.ac.uk</tei:seg>
-        <tei:seg>. </tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
