@@ -49,26 +49,23 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="marino-falieri" type="level-1">
+      <tei:head data-heading-id="marino-falieri" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Marino Falieri.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:hi style="letter-sparse">Dramatische Studie</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="erste-scene" type="level-2">
+      <tei:head data-heading-id="erste-scene" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:hi style="letter-sparse">Erste Scene</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:stage type="setting">Das Vermählungsfest des greisen Dogen und der jugendlichen Luzia. Erleuchteter Saal, verlängert im Hintergrunde. Musik, die im Verlauf der Scene allmälig verhallt. Gäste, erst herumwandelnd, dann um die Hauptpersonen sich gruppirend. Der Doge tritt beschleunigten Fußes, Luzia am Arm, in den Vorgrund.</tei:stage>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Marino.</tei:seg>
-      </tei:speaker>
+      <tei:speaker>Marino.</tei:speaker>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Mein theures Ehgemahl, verlocken denn</tei:seg>
           </tei:l>
@@ -124,10 +121,8 @@
             <tei:seg> daran, mein Kind!</tei:seg>
           </tei:l>
         </tei:lg>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ach, wenn ich fühlen soll, mein lieber Herr,</tei:seg>
           </tei:l>
@@ -158,10 +153,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>O süßer Ton aus unschuldsvollem Mund!</tei:seg>
           </tei:l>
@@ -220,10 +213,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Obgleich Ihr älter seyd, so werdet Ihr</tei:seg>
           </tei:l>
@@ -256,12 +247,10 @@
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:pb n="27"/>
-        <tei:seg> Marino.</tei:seg>
-      </tei:speaker>
+      <tei:speaker>
+        </tei:speaker>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ja, unerhört war Deine Hingebung;</tei:seg>
           </tei:l>
@@ -292,10 +281,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="3.2" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Und dennoch will ich Euch</tei:seg>
           </tei:l>
@@ -332,10 +319,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Mein theures Kind, was Dir der Zufall nur </tei:seg>
           </tei:l>
@@ -424,10 +409,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="6.7" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Seht</tei:seg>
           </tei:l>
@@ -464,10 +447,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Gratiano.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Gratiano.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Heil diesem Bund, der an Venedigs Spitze</tei:seg>
           </tei:l>
@@ -489,10 +470,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Paschale.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Paschale.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="3.8" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Und von dieser Stadt</tei:seg>
           </tei:l>
@@ -509,10 +488,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Montenegro.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Montenegro.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ja, hätte wohl ein schöneres Geschenk</tei:seg>
           </tei:l>
@@ -540,10 +517,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="3.1" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>O ihr erfahrnen Männer,</tei:seg>
           </tei:l>
@@ -590,10 +565,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="6.3" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ach, wenn</tei:seg>
           </tei:l>
@@ -621,10 +594,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="5.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Sprich, vielleicht</tei:seg>
           </tei:l>
@@ -640,10 +611,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Gewiß ich würd’ es auch nicht nennen, Herr,</tei:seg>
           </tei:l>
@@ -696,10 +665,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Warum nicht? Liegen an der Brenta Ufer</tei:seg>
           </tei:l>
@@ -738,13 +705,10 @@
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:pb n="33"/>
-        <tei:seg> Luzia</tei:seg>
-        <tei:stage type="delivery"> (zu Steno).</tei:stage>
-      </tei:speaker>
+      <tei:speaker>
+        </tei:speaker>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Verlieht Ihr wohl um so geringen  Preis,</tei:seg>
           </tei:l>
@@ -757,11 +721,9 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno </tei:seg>
-          <tei:stage type="delivery">(kalt).</tei:stage>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>
+          </tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="4.3" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg> Ich glaube,</tei:seg>
           </tei:l>
@@ -774,11 +736,9 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia </tei:seg>
-          <tei:stage type="business">(sich weinend zu Marino kehrend).</tei:stage>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>
+          </tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="3.6" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>O da hört Ihr’s, wie</tei:seg>
           </tei:l>
@@ -791,10 +751,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="4.2" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Theure Luzia,</tei:seg>
           </tei:l>
@@ -825,10 +783,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Steno.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Wo denkt Ihr hin, mein Herzog? Würden nicht </tei:seg>
           </tei:l>
@@ -851,10 +807,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Was spricht aus Dir? Vom Weine überwunden,</tei:seg>
           </tei:l>
@@ -867,10 +821,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Steno.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="5.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Nichts als</tei:seg>
           </tei:l>
@@ -892,10 +844,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="2" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Wie, Du häufest auf verruchte,</tei:seg>
           </tei:l>
@@ -933,10 +883,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Steno.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Es ist die schwächste Waffe, die ihr alten Herren</tei:seg>
           </tei:l>
@@ -967,10 +915,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Fegt ihn hinaus, den frechen Buben! daß er </tei:seg>
           </tei:l>
@@ -982,12 +928,10 @@
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Steno </tei:seg>
-        <tei:stage type="business"> (zieht den Degen; doch Gratiano, Paschale und Montenegro fallen ihm in den Arm).</tei:stage>
-      </tei:speaker>
+      <tei:speaker>
+        </tei:speaker>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Du alter,</tei:seg>
           </tei:l>
@@ -1006,12 +950,10 @@
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Marino </tei:seg>
-        <tei:stage type="business"> (indem Steno hinausgedrängt wird und dann in die Scene rufend).</tei:stage>
-      </tei:speaker>
+      <tei:speaker>
+        </tei:speaker>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Verflucht sey jeder Schritt, den Du je wagtest</tei:seg>
           </tei:l>
@@ -1048,10 +990,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Gratiano.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Gratiano.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="4.7" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Beruhigt Euch,</tei:seg>
           </tei:l>
@@ -1073,10 +1013,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="6.4" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ich fürchte</tei:seg>
           </tei:l>
@@ -1111,10 +1049,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Paschale.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Paschale.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="5.4" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Sey es mir</tei:seg>
           </tei:l>
@@ -1130,10 +1066,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>So recht, mein Freund!</tei:seg>
           </tei:l>
@@ -1141,7 +1075,7 @@
             <tei:stage type="business">(Paschale ab, dann zu Luzia.)</tei:stage>
           </tei:l>
         </tei:lg>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="4.2" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Du aber, schüchtern Herz,</tei:seg>
           </tei:l>
@@ -1190,14 +1124,14 @@
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:head data-heading-id="zweite-scene" type="level-2">
+      <tei:head data-heading-id="zweite-scene" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:hi style="letter-sparse">Zweite Scene</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:stage type="setting">Vor dem Dogenpallast. Nacht. Die Fenster sind erleuchtet.</tei:stage>
       </tei:p>
-      <tei:lg>
+      <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:seg>Steno</tei:seg>
           <tei:stage type="entrance"> (allein).</tei:stage>
@@ -1209,7 +1143,7 @@
           <tei:stage type="business">(Zieht sich in das Dunkel zurück.)</tei:stage>
         </tei:l>
       </tei:lg>
-      <tei:lg>
+      <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:seg>Cippo </tei:seg>
           <tei:stage type="entrance">(aus dem Pallaste kommend).</tei:stage>
@@ -1217,40 +1151,31 @@
           <tei:pb n="40"/>
           <tei:seg>nem lieben Vetter seine verlorne Ehre suchen helfe! Wo steckst Du, Vetter? Wo hältst Du den Schiffbruch Deines guten Namens? Ehrliche, klingende Münze, man hat Dir so heiß gemacht, daß man den goldenen Feingehalt Deiner unübertrefflichen Tugenden ausschmelzen wollte! Es ist kein Traum, Krämer Venedigs! Wahrhaftig, es sind die Adelsbriefe im Preise gesunken und werden losgeschlagen an den, der am gröbsten ist. Ihr schnuppernden Markuslöwen, kommt und helft mir auf diesem einst weltberühmten Platze, jetzt aber dem Mordgetäfel der Ehre, meinen bis auf den Tod verwundeten Vetter suchen!</tei:seg>
         </tei:l>
-        <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5"/>
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:seg>Steno (schüchtern hervortretend).  Ach, mein guter Cippo –</tei:seg>
         </tei:l>
-        <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5"/>
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:seg>Cippo. Das ist er: so spricht die gewesene Unschuld, wenn sie eine verhängnißvolle halbe Stunde beweint. Tritt hervor, Steno; man hat Dir Gewalt angethan. Fürchte Deine Anverwandten nicht!</tei:seg>
         </tei:l>
       </tei:lg>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
             <tei:seg>Steno. Ich  danke der Nacht, daß meine Schamröthe nicht sichtbar ist.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
             <tei:pb n="41"/>
             <tei:seg> Cippo. Richte Dein Haupt auf! rücke die Mütze Deines Stolzes einmal auf das linke Ohr der Gleichgültigkeit! Mich schmerzt es, Dich so mit gebrochenen Flügeln auf dem Erdboden klatschen zu sehen. Es wäre Alles besser; aber da hatt' ich mich in den Netzen Fortuna's verfangen und würfelte in einem der hintern Zimmer um die eitle Gunst dieser Göttin. Erst in dem Augenblicke, wo die Einsprache meiner Faust zu spät kam,  vernehm' ich Deine schnöde Verbannung und breche mir durch das Gedränge Bahn, um jetzt den Dolch Deiner Rache schleifen zu helfen. Siehe, dort werfen sich selber aus dem Hause heraus alle die, so für fallende Größe noch Mitgefühl haben! Hierher tretet und betrachtet, wie ein Hoffnungsstern bleich sieht, wenn sein Glanz zum ersten Male schnuppte! </tei:seg>
             <tei:stage type="entrance">
-              <tei:seg>(</tei:seg>
-              <tei:hi style="letter-sparse">Cornar</tei:hi>
-              <tei:seg>o, </tei:seg>
-              <tei:hi style="letter-sparse">Pesar</tei:hi>
-              <tei:seg>o, </tei:seg>
-              <tei:hi style="letter-sparse">Malfatt</tei:hi>
-              <tei:seg>i treten mit Fackelträgern aus dem Pallast.)</tei:seg>
-            </tei:stage>
+              </tei:stage>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:lg>
+      <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:seg>Cippo </tei:seg>
           <tei:stage type="business">(wirft sich ihnen entgegen).</tei:stage>
@@ -1258,24 +1183,18 @@
           <tei:pb n="42"/>
           <tei:seg> prunken mit ihren Trauergewändern, als wäre jede Thräne, die darauf gefallen, ein Edelstein, und unternehmen dann Nichts! Was sprecht Ihr?</tei:seg>
         </tei:l>
-        <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
           <tei:seg>CORNARO. Nein, mein theurer Steno, wenn Dein Schwert beim Falle zerbrochen ist, so bieten wir Dir das unsrige an.</tei:seg>
         </tei:l>
       </tei:lg>
-      <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Malfatti.  </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Malfatti.  </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Und bevollmächtigen Dich, so lange auf Rechnung unsres keuschen Namens zu leben, bis Du im Stande bist, wieder mit dem Deinigen zu zahlen.</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Pesaro</tei:seg>
-        </tei:speaker>
+        <tei:speaker>Pesaro</tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:stage type="delivery">(ruhiger).</tei:stage>
         </tei:p>
@@ -1284,23 +1203,17 @@
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Steno </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:stage type="delivery">(seufzend)</tei:stage>
         </tei:p>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>.</tei:seg>
-        </tei:speaker>
+        <tei:speaker>.</tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>O ihr lieben Freunde! –</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Malfatti. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Malfatti. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Man hat mir gesagt, daß er zugleich gegen uns Alle, die wir bei der jüngsten Wahl in den Senat kamen, Schmähungen aussprach.</tei:seg>
         </tei:p>
@@ -1309,25 +1222,19 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:pb n="43"/>
         </tei:p>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cornaro. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cornaro. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Dieser Alte verrechnet sich, wenn er die Disciplin  seiner Feldlager auf die Verwaltung des Staats übertragen will. Das spreizt sich mit seiner zähen Lebensdauer und wirft einem überall den schon verjährten Ruhm eines halben Jahrhunderts ins Angesicht. Wir wollen keine mit dem Kopf wackelnde Vergangenheit an der Spitze des Staats, keine Schwelgerei in bestäubten Erinnerungen, nicht die Laune eines alten Murrkopfes, der aus der Republik eine Aufwärterin machen möchte, die ihm die Kissen des Kopfes zurecht rückt und den Ofen heizt, an dem er seine gichtischen Füße wärmt!</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Malfatti. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Malfatti. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Deine Sache ist die unsrige, Steno! Wir überlassen Dir, die kleine Scharte Deiner persönlichen Ehre auszuwetzen, wenn Du es willst, durch einen beliebigen Anschlag; werden Dir aber eine Rache schaffen in dem Lauf, den das ganze Staatsschiff gegen den Willen seines übermüthigen Hauptmanns von jetzt an nehmen soll.</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Pesaro. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Pesaro. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Und  doch handelt Ihr vielleicht zu eilig, gu-</tei:seg>
           <tei:pb n="44"/>
@@ -1335,9 +1242,7 @@
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Schlecht gesprochen, Vetter Pesaro! aber vortrefflich für den Sohn einer reinen Jungfer, vortrefflich für ein so versöhnliches Herz, daß es die Republik Venedig mit dem Sultan vermählen möchte; vortrefflich für ein Insekt, das sich zwischen der Thür der Ehre und der Angel der Vorsicht zu klemmen versteht! Ihr werdet alt, guter Mann! Große Entschlüsse verursachen Euch kein Kopfweh mehr: die Haare, die von Eurem äußern Schädel fallen, braucht Ihr wohl, um drinnen die Wände des Gehirns zu füttern, daß Eure Gedanken hübsch weich liegen? Pfui, das sind morsche Worte, eben so verwittert als verwettert, Vetter!</tei:seg>
         </tei:p>
@@ -1346,77 +1251,59 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:pb n="45"/>
         </tei:p>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cornaro. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cornaro. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Haltet's  ihm zu gut, Cippo: er hat des Wirths Gastgebot noch nicht verdaut und scheut sich, gegen ihn so lange Böses im Schilde zu führen. Wir sprechen mehr von dieser Sache; jetzt gute Nacht.</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Pesaro. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Pesaro. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Warum zählt Euer Verstand nicht weiter als  eure Jahre, ihr jungen Leute? Euer Unfall schmerzt mich, Steno; doch wühlt in Eurer Wunde nicht, um sie zu vergrößern!</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Malfatti. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Malfatti. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Mit vergnügteren Mienen sehen wir uns wieder; gute Nacht, Steno! </tei:seg>
           <tei:stage type="exit">(Diese drei gehen ab.)</tei:stage>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Mein kranker Junge, das sind Schwätzer, deren Antheil nur Kampf gegen ihre  angeborne Empfindungslosigkeit ist. Sie wollen nicht in den Ruf der Grausamkeit kommen. Aber Du sprichst nichts? sinnst auf Rache? Wo suchst Du sie? Haha, die ganze Welt ist Dir im Wege? Die Sterne rufst Du zur Hülfe? Das Weitläuftige, was man nicht erreichen kann? Nichts da von dieser unbestimmten, ohnmächti-</tei:seg>
           <tei:pb n="46"/>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Steno. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Gibt es ein Gebiß, das stark genug für meine Wuth wäre, so nenne es; aber ich fürchte, schon der giftige Schaum derselben äzt es durch, zu Asche, zu Nichts, zu Etwas, was mir nicht helfen kann.</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Geh hin, benage das Portal der Dogana! Hebe ganz Venedig mit den beiden Markussäulen aus den Fugen! Dort sind die großen Glocken der Campanile; nimm  sie herunter und schenke sie dem Alten zum Hochzeitsangebinde, als Ohrgehenke für die junge Dogaresse! Wozu dieser kindische Grimm, der nur das Gelächter der Welt herausfordert?</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Steno. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Du irrst, wenn Du glaubst, daß blos die empfangene Beleidigung meine Sinne so in Verzweiflung wirft. Nein, mich foltert ebenso der Anblick der Dogaresse, dies reizende Meisterstück der Schöpfung, das ich durch eine Weigerung, die mehr Verwirrung als Stolz, mehr </tei:seg>
           <tei:pb n="47"/>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Ich sehe wohl, Vetter, daß Du, statt einer Thorheit aus dem Wege zu gehen, ihr gerade entgegentrittst. Diese schnell aufgeloderte Leidenschaft  ist eine schlechte Bundesgenossin für den Feldzug, dessen geheime Minen zu legen für mich ein süßes Ingenieurstück ist. Und dennoch überlege ich diesen wunderbaren Widerstreit des Interesse, und würde mich freuen, Dir durch eine und dieselbe Handlung ein </tei:seg>
           <tei:hi style="font-style-italic">zwiefaches</tei:hi>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Steno. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Ach, noch jener verzweifelnde Blick, als mein tölpelhafter Stolz ihr einen Dienst der Liebe abschlug, blieb wie  ein Sommerfaden an mir hängen. Es war nicht Haß, der aus ihm sprach, sondern eine flehentliche Bitte, so daß mein ganzes Wesen in zerschmetterte Erhörung zerfloß.</tei:seg>
         </tei:p>
@@ -1425,25 +1312,19 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:pb n="48"/>
         </tei:p>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Doch glaub' ich nicht, daß Du darum mit verkürzter Ehre durch die Welt hinken oder gar aus dieser Neigung einen Stelzfuß machen willst?</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Steno. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Steno. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Nimmermehr, aber wie treff' ich nur den Adler, ohne die Taube zu verwunden, welche er in seinen Krallen hält?</tei:seg>
         </tei:p>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Cippo. </tei:seg>
-        </tei:speaker>
+        <tei:speaker>Cippo. </tei:speaker>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Ich werde mit meinem Scharfsinn zu Deinem Besten eine Verhandlung anstellen und mich bemühen, das Grobe und Feine an dieser Sache richtig abzuwägen. Wenn die Menschen da am leichtesten zu verwunden sind, wo sie sich schämen, am wenigsten leisten zu können, so ist dies am Dogen seine possenhafte Liebe, diese Leidenschaft, die sich bei ihm um zwei Menschenalter verspätet hat. Stell' ihm einen Spiegel vor, wenn sich sein zahnloser Mund bemüht, jugendlicher Zärtlichkeit verliebte Schwüre nachzustottern! Peinige ihn mit Schilderungen männlicher Schönheit und lege in seinen unruhigen Schlaf die Eifersucht, nur einen Keim davon, so groß wie eine Erbse; glaube mir, sie </tei:seg>
           <tei:pb n="49"/>
@@ -1454,10 +1335,8 @@
         <tei:stage type="business">(Die Gäste, welche aus dem Hause mit Fackeln treten, zerstreuen sich allmälig, sich gute Nacht! zurufend.)</tei:stage>
       </tei:p>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Dort gleiten unsrer Gäste Fackeln über</tei:seg>
           </tei:l>
@@ -1488,10 +1367,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Gewiß habt Ihr den Himmel stets geliebt,</tei:seg>
           </tei:l>
@@ -1504,10 +1381,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Wie das so kam, mein Kind; gar ungestüm,</tei:seg>
           </tei:l>
@@ -1545,10 +1420,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Noch eh' ich Euch von Angesicht gesehen,</tei:seg>
           </tei:l>
@@ -1576,10 +1449,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ich sage umgekehrt,</tei:seg>
           </tei:l>
@@ -1619,10 +1490,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Legt meine Jahre zu den Euren zu,</tei:seg>
           </tei:l>
@@ -1638,10 +1507,8 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ja,</tei:seg>
           </tei:l>
@@ -1684,20 +1551,16 @@
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ihr kränkt mich, theurer Herr.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
       <tei:sp>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Marino.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Marino.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Laß dies der Zukunft,</tei:seg>
           </tei:l>
@@ -1734,10 +1597,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:pb n="53"/>
         </tei:p>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>Luzia.</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>Luzia.</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Für Alles, was Ihr heute mir gebracht,</tei:seg>
           </tei:l>
@@ -1748,7 +1609,7 @@
             <tei:stage type="exit">(Sie treten zurück und der Vorhang des ersten Akts fällt.)</tei:stage>
           </tei:l>
         </tei:lg>
-        <tei:lg>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>[[[HS]]]</tei:seg>
           </tei:l>
@@ -1756,10 +1617,8 @@
       </tei:sp>
       <tei:sp>
         <tei:seg>[[[HSPACE|1.0cm]]]</tei:seg>
-        <tei:speaker margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-          <tei:seg>* * *</tei:seg>
-        </tei:speaker>
-        <tei:lg>
+        <tei:speaker>* * *</tei:speaker>
+        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5">
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>[[[HS]]]</tei:seg>
           </tei:l>
