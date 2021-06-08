@@ -91,10 +91,17 @@ def process_block(block, blocks):
     blocks.append(new_block)
     if block.text:
         new_block.append(create_text_node(block.text))
-    for child in block:
-        process_inline(child, new_block)
-        if child.tail:
-            new_block.append(create_text_node(child.tail))
+    if block.tag == '{http://www.tei-c.org/ns/1.0}lg':
+        tmp_blocks = []
+        for child in block:
+            process_block(child, tmp_blocks)
+        for tmp in tmp_blocks:
+            new_block.append(tmp)
+    else:
+        for child in block:
+            process_inline(child, new_block)
+            if child.tail:
+                new_block.append(create_text_node(child.tail))
 
 
 def walk(node, blocks):
