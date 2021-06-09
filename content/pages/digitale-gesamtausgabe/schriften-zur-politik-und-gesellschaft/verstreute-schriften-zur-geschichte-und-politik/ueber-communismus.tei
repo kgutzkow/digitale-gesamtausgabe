@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Ueber Communismus</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Karl Gutzkow: Ueber Communismus. In: Sonntagsblatt zur Weser-Zeitung. Bremen. Nr. 104, 8. Februar 1846, S. 1-2. (Rasch 3.46.02.08.2)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1846-02-08">8. Februar 1846</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#schriften-zur-politik-und-gesellschaft #verstreute-schriften-zur-geschichte-und-politik #ueber-communismus"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2021-06-09" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:pb n="1"/>
+        <tei:seg> Ueber Communismus.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Wie ist es möglich, daß eine Gesellschaftsimprovisation, wie sie von den Communisten gelehrt wird, seit einer Reihe von Jahren immer mehr das Nachdenken selbst Derer hat beschäftigen können, die doch nicht gewohnt sind, sich immer auf den hintersten Schweif des Zeitgeistes zu hocken, um jede neue Lehre deshalb zu predigen, weil man den Vorsprung eines noch nicht abgenutzten und abgegrasten Raisonnements damit hat? Ein großer Theil unsrer neuen sogenannten Sozialisten und Communisten gehört zu dieser gedankenlosen Schriftstellergattung, die nicht existiren, nicht einen lesenswerthen Aufsatz schreiben kann, wenn sie nicht von der Mode eine buntscheckige Livree borgen durfte. Aber unter diesen Predigern der „Gemeinschaft“ (</tei:seg>
+        <tei:foreign>Communauté</tei:foreign>
+        <tei:seg> in Frankreich) giebt es einige begeisterte Schwärmer, denen wir mit Rührung zuhören, einige Denker, deren Scharfsinn uns auf Augenblicke gefangen nimmt. Das lebendigste </tei:seg>
+        <tei:hi style="letter-sparse">Fürwort</tei:hi>
+        <tei:seg> für den Communismus aber sind die Thatsachen, sind die unwiderleglichen Uebelstände, denen er abzuhelfen verspricht. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Der polemische Theil des Communismus ist seine glänzendste Seite. Kein gefühlvolles Herz wird sich der schmerzlich beschämenden Wirkung desselben entziehen können. Der Communist sagt: Die Welt ist voller Elend und sie könnte voller Glück sein! Er schildert die Noth der arbeitenden Klassen, er tritt zu Euch heran, während ihr auf einem seidnen Sopha behaglich vom köstlichen Mahle ausruht, und zerstört Euch die üppigen Träume und Ausgeburten Eurer Phantasie durch eine nackte Wirklichkeit voll Hunger und Elend! Ihr seht mit düsterm Schmerz auf Eure Teppiche, Eure Gemälde, Eure Vasen, Eure Kronenleuchter! Ihr erschreckt vor den Summen, die ihr bedürft, um das Dasein fortzusetzen, das Euch schon zur andern Natur geworden ist! Es tritt wohl ein Tröster an Euch heran, der Euch sagen will: Was kümmerst du dich um ein Elend, das die Natur, die Geschichte verschuldet hat? Ein Geistlicher sogar weist vielleicht auf die ausgleichende Macht des Jenseits. Ein Philosoph rühmt die Armuth als Schule der Entsagung. Ein Politiker spricht von Uebertreibungen und verbrecherischer Aufwiegelung der arbeitenden Volksklasse, die sich keineswegs so schrecklich unglücklich fühle, wie der sentimentale Zeitgeist sie durchaus geschildert wissen wolle. Aber was hilft das? Es mischt sich doch ein Wermuthstropfe in unsern Freudenwein. Wir vergleichen den üppigen Glanz, in welchem dort hinter den erleuchteten Fenstern bei einem Großen der Erde ein Ball gefeiert wird, mit dem Abend eines armen Fabrikarbeiters in Birmingham, mit dem Morgenerwachen eines Webers in Schlesien, und es schaudert uns, wenn wir noch ein Herz haben. Dies Herz ist der beredte Fürsprecher des Communismus. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Thatsachen, auf welche der Communismus seine </tei:seg>
+        <tei:hi style="letter-sparse">Polemik</tei:hi>
+        <tei:seg> baut, sind unwiderleglich. Unwiderleglich sind die furchtbaren schroffen Abstände der verschiedenen Lebensexistenzen. Unwiderleglich sind die schreienden Dissonanzen von Arm und Reich, Proletariat und Besitzthum in einer Welt, die uns, wie das Universum, auf die Hervorbringung einer majestätischen Harmonie angelegt scheint. Unwiderleglich ist das vom Communismus entworfene Gemälde einer herzlosen Gesellschaft, die sich civilisirt nennt und auf einen grausamen Egoismus begründet ist. Die Consequenz des Privateigenthums und der freien Concurrenz ist der Krieg Aller gegen Alle. Jenes, hervorgegangen aus dem Begriffe der freien Persönlichkeit, kann den Vorwurf nicht zurückweisen, daß es allmählig alle Merkmale der Willkür in sich aufgenommen hat. Diese zeigt uns das gesellschaftliche Leben in Gestalt eines Wettlaufes, in welchem der Stürzende vom Huf des über ihn Hinwegsetzenden zertreten wird. Unwiderleglich ist der tiefe Widerwille, den wir gegen überlieferte oder angeborne gesellschaftliche Vorzüge, Privilegien und Kastenvorrechte empfinden. Unwiderleglich ist die Darstellung jener Scheinwerthe, die die Dinge nur dadurch im Handel und Wandel bekommen, weil Einer der Feind des Andern ist, und Einige von der Verlegenheit Vieler Nutzen ziehen. Unwiderleglich ist das schreiende Unrecht jenes Vorsprunges, welchen bei allem Fleiß, aller Bildung, allem Talent des Nichtsbesitzenden der Capitalist bei jeder Unternehmung vor dem Capitallosen voraus hat. Unwiderleglich ist die Berechnung, daß ein Land wie Deutschland für die Aufrechthaltung des monarchischen Prinzipes an mehr als 500 Fürsten, Prinzen und Prinzessinnen Millionen zu zahlen hat, ungerechnet die übrigen Würdenträger der Kronen und die Besitzer geistlicher Pfründen, Summen, die im jähsten Contraste zu der Armuth in Schlesien, Ost- und Westpreußen, Böhmen und überall stehen, wo sich die Hände der Darbenden uns entgegenstrecken. Unwiderleglich ist es, daß England nur deshalb an einer Hyper-Produktion der Industrie leidet mit allem Gefolge des Fabrikelendes, damit eine reiche Aristokratie, die der Grundrente wegen das Brot im hohen Preise hält, in glänzenden Caravanen durch Italien reisen und in Paris ihre Zinsen verschwenden kann. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wir haben gesehen, daß die St. Simonisten eine Lösung dieser Widersprüche anboten. Die Communisten folgten ihnen. Die Communisten haben eine Theorie wieder aufgenommen, die zur Zeit der französischen Revolution schon nahe daran war, in die Praxis eingeführt zu werden. 1797 war Frankreich freilich der sozialen Experimente müde und guillotinirte Baboeuf, einen zweideutigen Charakter, den die Communisten nicht gern als ihren Propheten genannt sehen. Die Unmöglichkeit, ohne eine Armee der Gesellschaft, wie sie ist, den Krieg zu erklären, hat den Communismus seither bestimmt, zu gütlicher Uebereinkunft die Hand zu reichen. In allen Gestalten aber, die er auch annehmen mag, hat er der Gesellschaft gesagt: Du siehst, deine Grundlage ist morsch! Es muß, gleichviel ob plötzlich oder durch Uebergänge, ob jetzt oder in hundert Jahren, ein neuer Bau unsrer gesellschaftlichen Verfassung aufgeführt werden. Wir können die Menschen nur anerkennen mit gleicher Berechtigung Aller auf alle Freuden und Glücksgüter des Lebens! Wir erkennen eine Errungenschaft, ein Eigenthum an; aber nur ein allgemeines, an welches Jeder Ansprüche machen darf, ein Eigenthum, das sich nicht auf Einzelne, sondern auf Generationen vererbt! Die Besitzthümer der Einzelnen, die da sind, sollen nicht plötzlich geraubt, vertheilt, sondern umgeschmolzen werden, hinübergeleitet in die Strömung der allgemeinen Nutzung! Es soll Niemand darben, Niemand in Sorge sein wegen Ehe und Kindererziehung. Der Staat, das Allgemeine bürgt für den Einzelnen, so lange der Einzelne nach seinen Fähigkeiten Arbeit zum Ganzen zusteuert. Nachdem ist der Communismus weiter gegangen und hat seinen neuen Staat anschaulicher ausgemalt. Dieser Staat ist kein Staat mehr, sondern die Gesellschaft selbst, die constituirte Gesellschaft. Die Bedürfnisse würden bald geregelt sein; man würde wissen, wieviel Bekleidung, wieviel Nahrung dieses Volk, diese Provinz, dieser Distrikt oder communistische Gau von so und soviel Quadratmeilen brauche. Keine Ueberproduktion würde den dann abgeschafften Handelsstand zwingen, sich in dem, was er verkauft, auch das bezahlen zu lassen, was er nicht verkauft. Kein Nachbar mehr würde nach dem Prinzip der freien Conkurrenz unsern bescheidenen Fleiß zu überflügeln trachten. Eine Gesammtadministration würde unsre Bedürfnisse und ihre wohlfeilste Befriedigung regeln. Das Geld wird abgeschafft und dadurch eine Anhäufung unrealisirter Nennwerthe verhindert, denn alles das, was früher für Geld nur zu haben war, bekommt man im communistischen Gemeinwesen als ein, weil Allen, so auch mir zustehendes Eigenthum geliefert. Regierungskunst würde hinfort nur noch eine großartige Buchführung über unsre Arbeit und unsre dafür empfangenen Existenzmittel sein. Verbrechen würden seltener werden, wenn Diebstahl nur das ohne nachweisbare Arbeit sich erlaubte Nehmen von Existenzmitteln wäre u. s. w. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>An schlagenden Widerlegungen der Möglichkeit eines solchen Phantasiestaates ist kein Mangel. Man hat verwiesen auf die klimatischen Einflüsse, die uns von den Erzeugnissen der Fremde abhängig machen, von nationalen Unterschieden, von der leidenschaftlichen und thierischgewalthätigen Natur des Menschen. Wenn Republiken auf den Grund </tei:seg>
+        <tei:pb n="2"/>
+        <tei:seg> einer vollkommenen Gleichheit der politischen Rechte schon die größten Schwierigkeiten des Bestandes haben, wie sollten Gemeinwesen sich in harmonischer Ordnung erhalten können, die auf die unmögliche Hypothese einer allgemeinen Bildungsgleichheit und eines Intelligenz-Nivellements begründet sind! Der von Natur Dumme wird ewig hinter dem begabten Kopf zurückbleiben. Die rohe sinnliche Natur würde unausrottbar im Menschen festsitzen und ihn fortwährend zu Excessen treiben, die nicht nur für Augenblicke in dem Gesellschaftsgebäude Schwankungen erzielten, sondern dauernde Aenderungen und bald darauf gegründete Institutionen hervorriefen. Man will dich, um das Glück Anderer und dein eignes zu befördern, in eine große Humanitätskaserne einpferchen. Wie aber, wenn du keineswegs nach Reichthümern strebst, mit Wenigem dich begnügst und dein Glück darin findest, einsam dir selbst, dem Nachdenken über Gott und die Welt und die Zukunft zu leben? Wer kann dir beweisen, daß es gegen die Natur und gegen die Geschichte wäre, einsam in einem Häuschen, fern vom Gewühl der Welt, zu leben? Nicht die Aussicht auf einen Antheil an der Theilung </tei:seg>
+        <tei:hi style="letter-sparse">aller</tei:hi>
+        <tei:seg> Reichthümer der Erde brächten mich in eine communistische Kaserne. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Das Wahre am Communismus kann nicht seine Polemik sein, wenn nicht in ihm selbst eine Ahnung des Richtigen läge. Diese ist da, wird aber auf verkehrte Art ausgesprochen. Ich billige den Grundgedanken dieser Lehre, von dem manche, um sie zu empfehlen, gesagt haben, sie wäre christlich, und sie deshalb mit Bibelsprüchen verbrämten. Ich bewundere den schönen harmonischen Ausbau einer communistischen Gesellschafts-Wechselseitigkeit, wie sie uns von einigen communistischen Schriftstellern entworfen worden ist. Aber gestehet doch ein, daß diese </tei:seg>
+        <tei:foreign>Communauté</tei:foreign>
+        <tei:seg> wie der </tei:seg>
+        <tei:foreign>Contrat social</tei:foreign>
+        <tei:seg> bei Rousseau oder der Urstaat mancher Rechtsphilosophen nur das Gedankenschema einer Welt ist, wie sie sein sollte! Begeht doch die Plumpheit nicht und zerstört eine Phantasmagorie der Seele mit täppisch dreinfassenden Händen! Die Communauté ist eine Fata morgana des Gedankens, eine Vorstellung der Vernunft und des Herzens, die wir in unsre Politik, unsre Nationalökonomie so aufnehmen sollen, wie dem Heilkünstler ein möglich unsterblicher Leib vorschwebt und die Idee einer ewigen Gesundheit. Das Kind greift nach dem Regenbogen und glaubt, er berühre an seinen Enden die Erde. Es ist verbrecherisch, den arbeitenden Klassen den Traum vorzuspiegeln, daß ein solcher communistischer Urstaat mehr sein könnte, als ein theoretisches Ideal.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Als Rousseau den </tei:seg>
+        <tei:foreign>Contrat social</tei:foreign>
+        <tei:seg> lehrte, verlangte er, daß die Menschen wieder in die Wälder liefen? Seine Gegner bespöttelten ihn und sagten: der Bürger von Genf verlangt, daß wir auf allen Vieren kriechen. Das war Rousseaus Absicht nicht. Er wollte, daß die Politik, die Jurisprudenz, die Moral sich nach dem Schema seines besten Staates verbesserten, daß sie aus Unrecht zum ewigen Rechte strebten, aber eine so plumpe Anwendung seines Prinzipes wie den Communisten ist ihm, der nur mit der Erziehung anfing, nie eingefallen. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der communistische Staat ist eine Verbesserung der gesellschaftlichen Ideale, die seit Platons Republik aufgestellt wurden. Es ist der Staat, in welchem nicht nur für unsere politischen Rechte, sondern auch für unser materielles Wohlergehen gesorgt ist. Die Universitäten, die Cabinette, die Gewissen der Könige sollen diesen Idealstaat in sich aufnehmen und nach seiner als möglich vorgestellten Verwirklichung hin ihre Lehren, ihre Regierungsmaximen, ihre Ansprüche einrichten. Wir sollen aus dem Chaos unsrer jetzigen Welt den communistischen Urstaat zu erzeugen suchen, grade wie wir aus unsrer sittlichen Schwäche heraus einem Ideale von Tugend nachtrachten, das nie existirt hat oder nach dem Glauben der Christen nur in Jesus existirte. „Das Himmelreich ist nahe herbeigekommen,“ glaubten einst die Apostel und hielten sein Erscheinen binnen Kurzem für möglich. Eben solche Chiliasten sind unsre jetzigen Communisten, die ihre </tei:seg>
+        <tei:foreign>Communauté</tei:foreign>
+        <tei:seg> als etwas Materielles lehren und die arbeitenden Volksklassen aus ihrer hinbrütenden Dumpfheit mit Illusionen aufwecken, deren Erfüllung unmöglich ist. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Das rein communistische Princip wird sich trotz seiner verkehrten Anwaltschaften Bahn brechen und eine große Umwälzung in unsern Lehrbüchern, wie in unserm Leben hervorbringen, bis vielleicht auch die schönen Resultate, die dadurch in einem längern europäischen Frieden gezeitigt werden dürften, umstürzen vor einem irgendwoher losgelassenen Schlauche des Aeolus, vor einer irgendwoher wieder losbrechenden rohen Kraft der Natur, der Leidenschaft, der Geschichte. Denn </tei:seg>
+        <tei:hi style="letter-sparse">die</tei:hi>
+        <tei:seg> Wahrheit ist neben dem communistischen Urstaate unwiderleglich in unsre Brust eingeschrieben: das Räthsel des Daseins wird hienieden nicht gelöst.</tei:seg>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>*) Ungedrucktes Fragment aus dem unter der Presse befindlichen neunten Bande der </tei:seg>
+          <tei:hi style="letter-sparse">gesammelten Werke</tei:hi>
+          <tei:seg> des Verfassers.</tei:seg>
+        </tei:p>
+      </tei:note>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung  </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gutzkows zuerst im „Sonntagsblatt zur Weser-Zeitung“ publizierte Stellungnahme zu (aus heutiger Sicht) frühkommunistischen Anschauungen ist eine Vorveröffentlichung aus dem neunten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>. Dieser Band enthält den ersten Teil der </tei:seg>
+        <tei:q>Säkularbilder</tei:q>
+        <tei:seg>, einer gründlich überarbeiteten Neufassung des 1837 erschienenen, ideengeschichtlichen und analytischen Werkes </tei:seg>
+        <tei:q>Die Zeitgenossen</tei:q>
+        <tei:seg>. Der Vorabdruck ist dem fünften Abschnitt (</tei:seg>
+        <tei:q>Die Existenz</tei:q>
+        <tei:seg>) der </tei:seg>
+        <tei:q>Säkularbilder</tei:q>
+        <tei:seg> entnommen, in dem sich Gutzkow mit den ökonomischen und sozialen Verhältnissen der Gegenwart und mit der Kritik an den sozioökonomischen Zuständen auseinandersetzt. Während sich Gutzkow 1837 im wesentlichen auf den Saint-Simonismus, die frühsozialistische Lehre von Henri de Saint-Simon (1760-1825) stützt, erweitert er 1846 das Spektrum der sozialkritischen Perspektiven um die seit Ende der 1830er Jahre aufkommenden kommunistischen Ideenströmungen. Dieses Teilstück schreibt er 1846 komplett neu. Vom fünften Abschnitt der </tei:seg>
+        <tei:q>Säkularbilder</tei:q>
+        <tei:seg> bildet es die Schlusspassage und wird hier eingeleitet mit dem Satz: </tei:seg>
+        <tei:q>Wir kommen zu den Communisten.</tei:q>
+        <tei:seg> (GWI, Bd. 9, S. 205.) Die folgenden neun Absätze des fünften Abschnitts stimmen (abgesehen von zwei Druckfehlern im Journaldruck) wortgetreu mit der Erstveröffentlichung im „Sonntagsblatt zur Weser-Zeitung“ überein. Ob dem Setzer der „Weser-Zeitung“ schon eine Druckfahne aus den </tei:seg>
+        <tei:q>Gesammelten Werken</tei:q>
+        <tei:seg> oder eine Abschrift vorlag, lässt sich nicht mehr feststellen. Georg Schirges druckte diesen Artikel nur kurze Zeit später in „Die Werkstatt. Eine Monatsschrift für Arbeiter“ nach. Als Nachdruck, vom Verfasser nicht autorisiert, spielt diese Publikation für die Textgeschichte keine Rolle. Bei dem in der „Bibliographie Karl Gutzkow“ (Bd. 1, S. 350) erwähnten zweiten Nachdruck in der Frankfurter „Didaskalia“ vom 4. April 1846 handelt es sich um einen Irrläufer. Die Redaktion der „Didaskalia“ entnahm die gleichfalls unter dem Titel </tei:seg>
+        <tei:q>Ueber Communismus</tei:q>
+        <tei:seg> enthaltenen Passagen nicht dem „Sonntagsblatt zur Weser-Zeitung“, sondern auszugsweise dem Ende März 1846 erschienenen Band 9 der Werkausgabe.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Als Gutzkow 1875 die </tei:seg>
+        <tei:q>Säkularbilder</tei:q>
+        <tei:seg> von 1846 in die zweite große Ausgabe seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> bei Costenoble übernahm, überarbeitet er den Text sprachlich-stilistisch, machte ein paar Zusätze, fasste die ersten beiden Absätze des ursprünglichen Journalerstdrucks zusammen und ließ im ersten Absatz eine längere Passage weg (1,6-16 unserer Ausgabe: </tei:seg>
+        <tei:q>um jede neue Lehre</tei:q>
+        <tei:seg> […] </tei:seg>
+        <tei:q>Augenblicke gefangen nimmt</tei:q>
+        <tei:seg>). Eine etwas deutlichere Modifikation erfuhr der Schlusssatz, der 1875 kategorisch lautet: </tei:seg>
+        <tei:q>Das Räthsel des Daseins wird niemals von uns gelöst werden.</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, S. 157.) Ansonsten blieb die Textfassung inhaltlich im wesentlichen unverändert erhalten, obwohl der hier behandelte, ursprüngliche ›Gefühlskommunismus‹ inzwischen zu einer (von Gutzkow 1846 schon vorausgesagten) starken internationalen Bewegung geworden war und mit dem im Februar 1848 erschienenen „Kommunistischen Manifest“ von Marx und Engels eine ganz andere theoretische Basis und intellektuelle Höhe gewonnen hatte. </tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>	Karl Gutzkow: Ueber Communismus. In: Sonntagsblatt zur Weser-Zeitung. Bremen. Nr. 104, 8. Februar 1846, S. 1-2. (Rasch 3.46.02.08.2)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>	Karl Gutzkow: Ueber Communismus. In: Die Werkstatt. Hamburg. Bd. 2, [Heft 3, März 1846], S. 127-130. (Rasch 3.46.03.1N)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>	Karl Gutzkow: V. Die Existenz. In: Säkularbilder. Theil 1. (Gesammelte Werke. Bd. 9.) Frankfurt/M.: Literar. Anst., 1846. S. 205-213. (Rasch 1.2.9.8)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>	Karl Gutzkow: V. Die Existenz. In: Säkularbilder. Anfänge und Ziele des Jahrhunderts. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 8.) Jena: Costenoble, [1875]. S. 151-157. (Rasch 1.5.8.8)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">3,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vorsprunges</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Vorspruuges</tei:sic>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">4,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>von so und soviel</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>und so und soviel</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

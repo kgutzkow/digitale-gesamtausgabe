@@ -105,6 +105,9 @@ TAXONOMY = (
             ('Vorwort', 'vorwort', ()),
         )),
         ('6. Verstreute Schriften zur Geschichte und Politik', 'verstreute-schriften-zur-geschichte-und-politik', (
+            ('Ueber Communismus', 'ueber-communismus', ()),
+            ('Ansprache an das Volk', 'ansprache-an-das-volk', ()),
+            ('Ueber innere Mission', 'ueber-innere-mission', ()),
             ('Zur Arnim-Affaire', 'zur-arnim-affaire', ()),
         )),
         ('8. Zum Gesellschaftsleben - Skizzen und Zeitfragen', 'zum-gesellschaftsleben-skizzen-und-zeitfragen', (

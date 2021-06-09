@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Ansprache an das Volk</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>K[arl] G[utzkow]: Ansprache an das Volk. Berlin: Springer, 1848. (Rasch 2.26)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1848-03">März 1848</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#schriften-zur-politik-und-gesellschaft #verstreute-schriften-zur-geschichte-und-politik #ansprache-an-das-volk"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2021-06-09" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Ansprache an das Volk.</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Von K. G.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>  </tei:seg>
+        <tei:pb n="3"/>
+        <tei:seg> Ihr Alle habt gekämpft! Der Eine mit der Waffe, der Andre mit dem Wort, Alle mit der Gesinnung. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der Sieg war Euer! Nicht durch die Niederlage des Gegners, nicht durch die Todten, die dem Feinde fielen; Ihr siegtet durch Euer eignes Blut, Ihr triumphirtet mit Euren eignen Todten. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Jahre werden vorüberrauschen, bis sich der Anblick jener Särge verwischt, welche der Schmerz mit Trauerflören, die Liebe mit Blumen, die Hoffnung mit bunten Fahnen schmückte. Nein! Nie wird er sich verwischen! Nie! Eure Kinder hobt Ihr empor und zeigtet ihnen die Märtyrer der neuen Freiheit, Eure Enkel stammelten Euch die Worte des Schmerzes nach, die auf Euren Lippen zuckten und die Ursache Eurer Thränen mußtet Ihr ihnen enträthseln! Und in unser Gedächtniß, in unser Herz nicht nur sind diese Tage eingeschrieben, nein, ihr unsterblicher Stoff, ihre ätherische Idee muß sich einigend verflüchtigen mit unserm Blut, mit unserm Leben, unsrer Bil-</tei:seg>
+        <tei:pb n="4"/>
+        <tei:seg>dung, unsrer Erziehung, mit der Luft, die wir athmen, mit dem Brot, das wir essen. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Haltet vor allen Dingen fest, was Ihr in diesem Augenblick besitzt! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Was besitzt Ihr? </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Ich will es Euch sagen. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Man gab Euch in diesen Tagen Freiheiten, deren Zweck und Ursprung Ihr nicht faßtet! Man nannte Euch neue Minister . . . . . Ihr kanntet ihre Namen kaum. Männer kamen und verkündeten: Freut Euch! Man sorgt für Euch, man giebt Euch neue Berather Eurer Wünsche, neue Tröster Eurer Leiden! Man sprach von Preußens Zukunft, von Deutschland, von Allem, – nur nicht von dem, was Euch in nächster Nähe ergriff. Die Freiheit der Presse – das war ein Wort, dessen Verlebendigung Ihr schon begriffet an den weißen Blättern, die lustig in den Straßen auf und ab flatterten: aber endlich gab man Euch Waffen! Das war Etwas, was sich halten und fassen läßt: ein Zauber, unmittelbar, durch alle Sehnen und Adern wie Genesung rieselnd, ein Zauber, der Euch plötzlich zu Männern machte! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Und diesen Zauber haltet fest! Auf dem Gewehr den Arm stützend und in stiller Mondnacht auf Eurem Wachtposten hinausblickend auf die Plätze, Paläste und Straßen, in denen Ihr sonst nur wie geduldete Miether lebtet, überdenket, was Alles geschah, warum es geschah und wofür! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die freie Presse, die Geschwornen-Gerichte, die freige-</tei:seg>
+        <tei:pb n="5"/>
+        <tei:seg>wählten ständischen Vertreter, das enger geschürzte Band der deutschen Einheit, alle diese Gaben von oben herab, wie ausgeworfene Münzen geschenkt, das hätte keinen Bau gegeben von Dauer und von Kraft. Das Fundament mußte gelegt werden durch Euch selbst! Und sehet! Darin erblick’ ich einen weisen Fingerzeig von Oben. Die ewige Weisheit kam der menschlichen zu Hülfe. Diese Blüthen der Freiheit mußten aus Eurer eignen Empfindung sprießen, aus Eurem eignen Schweiß, aus Eurem eignen Blute. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wer die Verantwortung für jene düstre Gräberreihe hat, die draußen vor dem Thor auf Jahrhunderte ein Wallfahrtsort der Freiheit bleiben soll . . . . . vielleicht giebt es Herzen, die hier in Wehmuth und Reue in sich selber blicken . . . . . aber die alte Lehre sagt: Gott verkehrt die Weisheit der Menschen, um seiner eignen Weisheit Willen! Dies Blut </tei:seg>
+        <tei:hi style="letter-sparse">mußte</tei:hi>
+        <tei:seg> vergossen werden und ich will Euch sagen: Warum? </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Freiheiten, die man Euch schenkte, bedurften einen Grund und Boden. Dieser Grund und Boden war die Freiheit selbst. Ihr mußtet </tei:seg>
+        <tei:hi style="letter-sparse">in Euch</tei:hi>
+        <tei:seg> fühlen, was Menschenrecht ist; Ihr mußtet Euch herauswickeln aus dieser Schnürbrust ewiger Bevormundung durch Gensd’armen und bewaffnete Knechte der Disciplin. Erst mußte Euch die Luft gehören, die Ihr athmet, eh’ Ihr ein neues Deutschland und alle Wunder der Zeitungen besaßet. Diese Luft gehörte Euch in Preußen nicht! Ein Beamtennetz umspann Euch, ein ewiges polizeiliches Ueberwachen </tei:seg>
+        <tei:pb n="6"/>
+        <tei:seg> Eurer glücklichen „Gewohnheit des Daseins“ benahm Euch die Lust am Dasein. Die kriegerischen Erinnerungen, ruhmvoll für das Volk, ruhmvoll für die, deren König ein Friedrich II. war, ruhmvoll für die Bürger, die Gut und Blut an die Jahre 1813, 14 und 15 setzten, sollten nur zur Verherrlichung des </tei:seg>
+        <tei:hi style="letter-sparse">Mittels</tei:hi>
+        <tei:seg> zu diesem Ruhme, der Armee, dienen. Welche Last drückte Euch! Wie unerträglich in einem Zeitalter der Civiltugenden dies ewige im Vordergrund Stehen der bunten Uniform und der adligen, in den Offiziersrock gehüllten Kastenansprüche! Preußen, in erzwungenster Weise zum Militärstaat hinaufgeschraubt, war das Land der Bajonette, des zweifarbigen Tuches, der Ordens- und Titelsucht und des patriarchalischen Despotismus einer Polizei, die sich in Alles und Jedes mischte. Ehe nicht diese Schnürbrust gesprengt war, konnten wir nicht frei athmen und alle Freiheiten der Welt, von allen Zeitungen der Monarchie proklamirt, konnten uns nicht wahrhaft frei machen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Erinnert Ihr Euch jenes Abends, am 13. März, als die Reitergeschwader an das Brandenburger Thor sprengten und der Bataillone wuchtiger Geschwindschritt durch die Straßen dröhnte? Eine Versammlung auf freiem Raume, in Regen- und Frühlingsschauern, wollte dort von Dingen sprechen, die vielleicht Alles betrafen, nur nicht die Störung der öffentlichen Ruhe und Ordnung. Daß Ludwig Philipp von Frankreich gefallen war, weil sein Minister Guizot nicht leiden mochte, daß sich tausend Menschen an einer Mittagstafel zu </tei:seg>
+        <tei:pb n="7"/>
+        <tei:seg> politischen Zwischengesprächen versammelten, hatte man vergessen. Man wollte allen gekrönten Häuptern der Welt zeigen, wie der Militärstaat mit solchen anmaaßenden Bewegungen verführe und ein einziger metallener Druck der Hand derlei Aufschwung den Nacken bräche. Aber der Druck mißlang. Nicht, daß Ihr Neigung gehabt hättet, in den Zelten dem dort Gesprochenen oder Begehrten Euch anzuschließen, Ihr wolltet Euch nur das Menschenrecht erwirken, Euch ohne Störung der öffentlichen Ordnung, und wär’s in hunderttausendfacher Anzahl, versammelt zu sehen und dies Werk gelang. Hohn und Spott, die Drohung, selbst die Barrikade, bewiesen, daß jene Regierungszeit, wo man den Zusammentritt von fünf Menschen, die sich über den Staat unterhalten, für ein Verbrechen erklärte, aufgehört hat. Glückliche Zeit, die uns erst funfzig Jahre nach anderen Völkern anbrach! Wir erkämpften die persönliche Freiheit, das Menschenrecht der freien Bewegung, der erlaubten Rührigkeit in unserer Meinung, in unserem Gehen und Stehen. Dem Bürger gehört nun die ganze Straße und nicht bloß der „Bürgersteig“! Willkommen sei uns der Krieger, der unser Sohn und Bruder ist; willkommen sei uns der Wächter der öffentlichen Ordnung, den wir bezahlen, aber beide müssen die von </tei:seg>
+        <tei:hi style="letter-sparse">uns</tei:hi>
+        <tei:seg> Geduldeten sein, nicht wir die von </tei:seg>
+        <tei:hi style="letter-sparse">ihnen</tei:hi>
+        <tei:seg> Geduldeten! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Man hat die Begebenheiten dieser Tage eine Revolution genannt. Sie ist es. Preußen reiht sich jetzt den Staaten an, welche auf den Grund des Volkswohles angelegt sind, </tei:seg>
+        <tei:pb n="8"/>
+        <tei:seg> und damit wir nie wieder zurückfallen in jenen Zustand lokaler Sklaverei und unterbundener persönlicher Freiheit, was ist zu thun? </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Zunächst denkt Euch, daß der Staat nichts ist, was </tei:seg>
+        <tei:hi style="letter-sparse">außer</tei:hi>
+        <tei:seg> Euch lebt! Der Staat ist hinfort keine mit Fingern mehr zu zeigende fremde Existenz, die sich nur an jene Gebäude anknüpft, an welchen Ihr Schilderhäuser und Soldaten erblickt! Der Staat beginnt mit Euch selbst, mit Jedem von Euch! Er beginnt nicht mehr von Oben, senkt sich nicht mehr, wie eine gewölbte Gnadenkuppel über Euch herab, sondern von der breiten Basis des ganzen Volkes erhebt sich der Staat nur noch wie eine Pyramide. Jeder Staat ist so, wie er von unten auf angelegt wird. Die Gesinnung, die von unten emporlodert, giebt den Duft der Höhe, und es liegt an Euch, daß es ein wohlgefälliger Duft, ein Opferrauch der Freiheit ist. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wehe den Gesetzgebern, die sich am 4. April versammeln und Euch eine Verfassung geben werden, wenn sie sagen sollten: Du Geringster dort in der Blouse, Du in der Mütze, die die Kugeln an der Barrikade durchlöcherten, sollst ausgeschlossen sein von Deinem Antheil am Staat! Der Staat ist auch Dein Leben, ist die Garantie Deines Menschenrechts, ist die Garantie aller Deiner Ansprüche auf Glück und Freiheit! Wehe ihnen, wenn sie den Staat nur von jenen Menschen beginnen wollen, welche goldne Siegelringe tragen, von Jenen, die am 19. März erst zitternd von ihren Waarenschildern den servilen Titel: Hoflieferanten ausstrichen, dann an die Thüren </tei:seg>
+        <tei:pb n="9"/>
+        <tei:seg> des Zeughauses liefen und die Ersten waren, denen man Gewehre gab! Das allgemeinste Stimmrecht werde die friedliche Waffe, die jeder Deutsche, jeder Preuße in seiner Hand trage, und dies, wackrer Mitbürger, übe mit Vorsicht! Lies in den Zeitungen, wer im Rathe der Stadt, wer bei gemeinnützigen Zwecken, Vereinen, Sammlungen ein gutes, für das Volk schlagendes Herz verräth! Der Mann, dem die Hofräthe und Hoflieferanten am öftersten widersprechen, den merke Dir, dessen Namen trage im Herzen, dessen Chiffern wirf in die Urne, wenn sie Dich auffordern, einen Verordneten der Stadt, einen Verordneten des Landtags, vielleicht einen Verordneten jenes Reichstages zu wählen, der im Herzen Deutschlands für die gemeinsamen Angelegenheiten der Nation reden soll. Dies Stimmrecht ist Dein Stolz, ist Deine Ehre, und wenn Du es übst, ist es Deine Feierstunde, Deine Beeidigung als Bürger der geistigen Welt! Entflieh’ ihr nicht! Opfre nicht leichtsinnig Dein Recht, Ja oder Nein zu sagen! Es wird Dich heben, eine Ansicht aussprechen zu dürfen! Deine Meinung wird Deine Religion werden! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Waffe, die Du am 19. März empfingst, fordert der Staat nicht zurück. Er gab sie Dir als Zeichen der Lossprechung, als Zeichen Deiner Freiheit! Aber Du siehst Tausende in den Straßen wandeln, die rüstig sind wie Du, fordere, daß auch ihnen eine Waffe gegeben wird! Denn wehe Euch, freigewordene Bürger, wenn Eure neue Wehr nur der Eitelkeit der Begüterten, dem Müssiggang der Reichen als </tei:seg>
+        <tei:pb n="10"/>
+        <tei:seg> Spielzeug dienen sollte. Die Frage ist ernst, ich muß darüber genauer sprechen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Preußen hat eine Friedensarmee von 120,000 Mann. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="1" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die ist zu groß! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Preußen hat eine Kriegsarmee von 800,000 Mann. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="1" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die ist zu klein! </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der Friede ist die Sehnsucht aller Völker. Nur im Frieden blüht das Glück des Lebens. Preußen wird, wie alle andern deutschen Staaten, in einem erkräftigten Deutschland sich neu gebären. Wir werden keine Preußischen, keine Sächsischen, keine Dessau’schen Truppen mehr haben: wir werden nur noch Deutsche haben unter dem schwarz-roth-goldnen Banner! Glückliche Aussicht für den Landmann, dessen Sohn ihm nicht mehr auf Jahre vom Pfluge gerissen wird: glückliche Mutter, die ein Sohn durch sein Gewerbe ernährt: der Militärzwang wird gemildert werden; denn Preußen bedarf keiner Ueberanstrengung seiner Bürger mehr. Die Landwehr, ein tapferes Vermächtniß glorreicher Jahre, werde </tei:seg>
+        <tei:hi style="letter-sparse">lokalisirt</tei:hi>
+        <tei:seg> und verschmolzen mit der neuen Bürgerwehr. Verschmachten sollt Ihr nicht im Dienst unter den Waffen, die Bürgergarde soll Euch eine ernste, keine drückende Pflicht werden, und was Ihr auf der einen Seite dem öffentlichen Zwecke an Kraft und Zeit für die Stadtwehr leistet, das müßt Ihr gewinnen an Erleichterung der Landwehrpflichtigkeit! Die Landwehr muß zum größeren Theile übergehen in die Stadtwehr.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:pb n="11"/>
+        <tei:seg> Eine theils stationäre, theils mobile Nationalgarde, eine Wehr, die je nach den Dienstjahren </tei:seg>
+        <tei:hi style="letter-sparse">vor</tei:hi>
+        <tei:seg> oder </tei:seg>
+        <tei:hi style="letter-sparse">in</tei:hi>
+        <tei:seg> den Thoren, am Heerde oder auf dem Marsch verwandt wird, hat ihre frühere von oben herab befohlene Einrichtung aufzugeben! Von unten herauf findet die Wahl der Offiziere Statt. Auch hier wird das Wahlrecht, frei aus dem Herzen kommend, der schönste Orden, der die Brust des Bürgers schmückt. So erst wird Stadt- und Landwehr wahres Volkseigenthum. Man sieht sich vereinigt für den Zweck der Freiheit und der Ordnung, für die Größe der Nation, die Würde unseres Namens. Und in diese Reihen darf keine Anmaßung sich drängen, kein von Oben dekretirter Major darf es wagen, Euch mit dem „vertraulichen Du“ zu begrüßen! Die Uebernahme der Offiziersstelle ist eine Gefälligkeit, die man dem vielleicht zu viel beschäftigten tapfern und gebildeten Gemeinen, der noch größere Ansprüche darauf hätte, zu danken hat. Und nun sorge, daß sich in Reih’ und Glied der reine, volksthümliche Geist erhält, daß es uns nicht ergehe, wie in Frankreich, wo der schlaue, gleißnerische, gekrönte Börsenmäkler den Geist der Nationalgarde durch die Leckerbissen der Hofgunst verdarb, durch scheinbare Bürgerfreundlichkeit gute und friedliche Menschen in das Netz einer willenlosen Abhängigkeit verstrickte und sich aus der Nationalgarde eine Brustwehr für das System der Nüchternheit, öffentlichen Langenweile und der Spießbürgerlichkeit schuf! Seid auf Eurer Hut, wenn Ihr Hoflieferanten, Milentz-dinirende sogenannte „Kameraden“ von 1813, </tei:seg>
+        <tei:pb n="12"/>
+        <tei:seg> Beamte, die Ihr überhaupt ganz aus Euren Reihen ausschließen müßt, deh- und wehmüthige Stadtverordnete und ähnliche Persönlichkeiten zu Euren Offizieren wählt. Laßt Euch nicht zu viel von der Ordnung predigen! Die wahre Ordnung ist nur da, wo die Freiheit ist. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Vom Recht, die Waffe zu tragen, vom Recht, seine Stimme zu geben, erhebt sich der Bau des Gemeinwesens empor zur luftigeren Höhe. Um sich zurechtzufinden in den oft labyrinthischen Gängen dieses Gebäudes sucht Euer Urtheil zu bilden, Eure Kenntnisse zu vermehren und wenn Ihr Wegweiser bedürft, wählt diejenigen Zeitungen, die nicht nur eine freie, sondern auch eine anregende Sprache führen. Die Presse ist frei; aber sie sei nicht frei, um nur in Stimmungen und Gefühlen sich zu ergehen und der bloßen Unbequemlichkeit einer zweiten Durchsicht durch einen albernen Censor überhoben zu sein, sondern sie übernehme in dieser ernsten Zeit das Amt, mit- und vorzuarbeiten den Organisationen, den neuen Einrichtungen und Staatsformen! Denn der Schwierigkeiten werden sich zahllose finden und es ist Pflicht der Presse, sich schnell aus einem gehaltlosen, breiten Hin- und Herwogen der Notizen, aus dem Gefühl der Bequemlichkeit zu erheben zur That, zur Unterstützung der Gesetzgebung, zur Vorzeichnung der Wege, die die Staatsmänner wandeln sollen. Die Zügel der Bewegung in der Hand zu behalten, erfordert Muth und Ausdauer. Eine freie Presse ist ein Aufruf an die Feder, nicht sich auszuruhen, sondern ihre Anstrengung zu verdoppeln. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:pb n="13"/>
+        <tei:seg> Weit ist das Feld, wollt’ ich beginnen von Dem, was nun durch unsere errungene persönliche Freiheit zu erwirken ist. Die Welt raucht, hie und da steht sie schon in Flammen. Jeder Tag erschwert die Aufgabe des Löschens, denn immer neuer Zündstoff wird in die Gluth geworfen und Tage, Stunden sogar, verändern die Gesichtspunkte. Darüber vielleicht ein Andermal. Preußens neue Verfassung, der Landtag, die Aufhebung der Herrencurie, die Auflösung dieses Landtages und Wahl nach neuen Prinzipien, die vorauszusehende polnische Verwirrung, die Entschädigung Preußens durch eine moralische Gebietserweiterung im deutschen Staatsorganismus, die Gestaltung dieses Organismus, . . . . das alles sind Fragen von unberechenbarer Aussicht, voll Aufforderung an unsere feurigste Theilnahme und überdachteste Wachsamkeit. </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Nur damit schließ’ ich: </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Verliert über allen diesen gemeinsamen Fragen Eure </tei:seg>
+        <tei:hi style="letter-sparse">nächste</tei:hi>
+        <tei:seg> Aufgabe nicht! Duldet nicht, daß man von Versöhnung spricht, ehe Gerechtigkeit geworden! Duldet nicht, daß Männer zweideutiger Gesinnung auftreten und Euere Gefühle mitten im Schmerz abschneidend, Eure Gesinnungen vorwegnehmend, Euch auffordern, mit denen „Arm in Arm“ zu gehen, von denen Ihr Euch auf ewig trennen müßt (trennen, nicht von den Menschen, sondern von ihrem System); duldet nicht, daß man zu früh seine segnenden Hände ausstreckt und Euch Zweige des Friedens anbietet! Ihr wollt Zeit für Eure Trauer, Zeit für Eure Vergebung. Was Berlin erlebt hat, das ist so </tei:seg>
+        <tei:pb n="14"/>
+        <tei:seg> denkwürdig in seinem innersten Gehalt, daß dieses sich auf die ganze Gesinnung der Stadt, des Landes ausdehnen muß. Verachtet die, welche zu früh den Takt anschlagen, daß Ihr fröhlich sein und tanzen sollt! Seid stolz auf diesen Ernst der Gemüther. Wahrlich, er that Noth in einer Stadt, die die erste Deutschlands sein sollte und so zerstreut in ihren Gesinnungen, so spielend und gedankenlos in ihrer Antheilnahme am großen Ganzen war! Und wenn Euch Lauheit überkommt, Sophisten und faselnde Witzlinge Euch ernüchtern wollen, so wallfahrtet hinaus in jenen Hain, wo, Euch erhebend und zu Thaten mahnend, Eure unvergeßlichen Todten ruhn!</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung  </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Gutzkows Flugschrift von 14 Seiten wurde unmittelbar nach den Berliner Revolutionsereignissen vom 18. und 19. März 1848 verfasst und im Verlag von Julius Springer in Berlin gedruckt. Springer schickte sie nach der Fertigstellung an das Leipziger „Börsenblatt für den Deutschen Buchhandel“, wo das Erscheinen des Titels in Nr. 27 vom 4. April 1848 (S. 379) gemeldet wurde. Die in dieser Nummer angezeigten Titel waren „in Leipzig am 29. März bis 1. April“ (S. 377) angekommen, so dass davon auszugehen ist, dass Gutzkows Schrift Ende März schon erhältlich war. Gutzkow zeichnete als Verfasser nur mit den Anfangsbuchstaben seines Vor- und Nachnamens, wollte als Autor also im Hintergrund bleiben.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>	Seine Verfasserschaft scheint sich jedoch schnell herumgesprochen haben. In dem seit Sommer 1848 lieferungsweise ausgegebenen Chronikwerk von Julius Lasker und Friedrich Gerhard „Des deutschen Volkes Erhebung im Jahre 1848, sein Kampf um freie Institutionen und sein Siegesjubel“ wurde die </tei:seg>
+        <tei:q>Ansprache an das Volk</tei:q>
+        <tei:seg> unter seinem Namen vollständig nachgedruckt: „Das bedeutendste unter den fliegenden Blättern [unmittelbar nach den Barrikadenkämpfen in Berlin] war von Karl Gutzkow“, heißt es dort einleitend (S. 593). </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Dieser Nachdruck ist von Gutzkow sicher nicht autorisiert worden und spielt daher für die Textgeschichte keine Rolle. Gutzkow übernahm die Arbeit schon zwei Jahre später in den vierten Band seiner </tei:seg>
+        <tei:q>Vermischten Schriften</tei:q>
+        <tei:seg>, der neben dem dramatischen Fragment </tei:seg>
+        <tei:q>Die Gräfin Esther</tei:q>
+        <tei:seg> im wesentlichen dramaturgische und zwei politische Arbeiten enthält. Am Text seiner Flugschrift vom März 1848 hat Gutzkow nahezu nichts verändert (vgl. 2.2. Lesarten und Varianten). Lediglich der Titel wurde – offenbar zum besseren allgemeinen Verständnis – neu gefasst und lautete jetzt </tei:seg>
+        <tei:q>Ansprache an die Berliner im März 1848.</tei:q>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>	Diesen Druck benutzte Gutzkow fünfundzwanzig Jahre später als Vorlage für die Aufnahme des Textes in die Sammlung </tei:seg>
+        <tei:q>Zur Geschichte unserer Zeit</tei:q>
+        <tei:seg>, den zehnten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>. Für diese Edition fasste Gutzkow Absätze zusammen, veränderte stellenweise die Zeichensetzung, nahm Wortumstellungen und einige Neuformulierungen vor. Insgesamt bieten jedoch die stilistisch-sprachlichen Modifikationen inhaltlich keinen gravierenden Unterschied zum Erstdruck von 1848 bzw. dem Abdruck von 1850. </tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item>
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>	K[arl] G[utzkow]: Ansprache an das Volk. Berlin: Springer, 1848. (Rasch 2.26)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>	Ansprache an die Berliner im März 1848. In: Karl Gutzkow: Vor- und Nachmärzliches. (Vermischte Schriften. Bd. 4.) Leipzig: Brockhaus, 1850. S. 105-120. (Rasch 2.23.4.4)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>J	Karl Gutzkow: Ansprache an das Volk. In: J[ulius] Lasker u. Friedr[ich] Gerhard: Des deutschen Volkes Erhebung im Jahre 1848, sein Kampf um freie Institutionen und sein Siegesjubel. Ein Volks- und Erinnerungsbuch für die Mit- und Nachwelt. Danzig: Gerhard 1848. S. 593-600. (Rasch 4.48.1N)</tei:seg>
+        </tei:item>
+        <tei:item>
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>	Ansprache an die Berliner. März 1848. In: Karl Gutzkow: Zur Geschichte unserer Zeit. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 10.) Jena: Costenoble, [1875]. S. 190-199. (Rasch 1.5.10.11)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Verglichen wird der Erstdruck (E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>) mit der zwei Jahre darauf erfolgten Publikation in den Vermischten Schriften (E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>). Dabei werden Differenzen in der Orthographie und Zeichensetzung nicht berücksichtigt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">1,1-3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ansprache an das Volk</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Ansprache an die Berliner im März 1848</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">4,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>von Oben</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">vom obersten Oben</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">4,22-23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>in Wehmuth</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">voll Wehmuth</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">5,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>das Menschenrecht</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">jenes Menschenrecht</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">9,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>die Ihr überhaupt ganz</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">die Ihr vielleicht theilweise</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">10,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Nur damit</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">Und damit</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">10,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>seine segnenden</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">seine schon wieder segnenden</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">10,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß dieses sich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#">daß es sich</tei:rdg>
+        <tei:seg> E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>
