@@ -1620,19 +1620,19 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Stephan Landshuter, Zürich</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung </tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1641,7 +1641,7 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1665,10 +1665,10 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.1" style="text-left">
@@ -1683,7 +1683,7 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1718,33 +1718,16 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,3</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>
-          <tei:seg>Hart-</tei:seg>
-          <tei:hi style="font-size-small">[43]</tei:hi>
-          <tei:seg>laub. Er</tei:seg>
-        </tei:lem>
-        <tei:seg> </tei:seg>
-        <tei:sic>
-          <tei:seg>Hart-</tei:seg>
-          <tei:hi style="font-size-small">[43]</tei:hi>
-          <tei:seg>laub Er</tei:seg>
-        </tei:sic>
+        <tei:lem>Hart-[43]laub. Er </tei:lem>
+        <tei:sic>Hart-[43]laub Er</tei:sic>
         <tei:seg> (ausgefallener Punkt)</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">30,9</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>
-          <tei:seg>Compagnons, frü-</tei:seg>
-          <tei:hi style="font-size-small">[45]</tei:hi>
-          <tei:seg>her</tei:seg>
-        </tei:lem>
+        <tei:lem>Compagnons, frü-[45]her</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:sic>
-          <tei:seg>Compagnons frü-</tei:seg>
-          <tei:hi style="font-size-small">[45]</tei:hi>
-          <tei:seg>her</tei:seg>
-        </tei:sic>
+        <tei:sic>Compagnons frü-[45]her</tei:sic>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">31,17</tei:citedRange>
@@ -1858,18 +1841,10 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">130,14-15</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>
-          <tei:seg>Behüte der Himmel, daß sich </tei:seg>
-          <tei:hi style="font-size-small">[207]</tei:hi>
-          <tei:seg> wiederholt</tei:seg>
-        </tei:lem>
+        <tei:lem>Behüte der Himmel, daß sich [207] wiederholt</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:sic>
-          <tei:seg>Behüte der Himmel, daß sich </tei:seg>
-          <tei:hi style="font-size-small">[207]</tei:hi>
-          <tei:seg> kommen. Behüte der Himmel, daß sich wiederholt</tei:seg>
-        </tei:sic>
-        <tei:seg> (Satzfehler beim Seitenumbruch, emendiert nach A</tei:seg>
+        <tei:sic>Behüte der Himmel, daß sich [207] kommen. Behüte der Himmel, daß sich wiederholt</tei:sic>
+        <tei:seg>  (Satzfehler beim Seitenumbruch, emendiert nach A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
         <tei:seg>)</tei:seg>
       </tei:p>
@@ -1903,7 +1878,7 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
