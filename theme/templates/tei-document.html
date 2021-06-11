@@ -190,6 +190,51 @@
                                 "parser": {
                                     "selector": "substring(@type, 7)"
                                 }
+                            },
+                            "marginLeft": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-left"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-left"
+                                }
+                            },
+                            "marginRight": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-right"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-right"
+                                }
+                            },
+                            "marginTop": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-top"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-top"
+                                }
+                            },
+                            "marginBottom": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-bottom"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-bottom"
+                                }
+                            },
+                            "firstLineIndent": {
+                                "default": "0.5",
+                                "parser": {
+                                    "selector": "@first-line-indent"
+                                },
+                                "serialiser": {
+                                    "attr": "first-line-indent"
+                                }
                             }
                         },
                         "navigation": {
@@ -241,6 +286,44 @@
                         "content": "line",
                         "parser": {
                             "selector": "tei:lg"
+                        },
+                        "attrs": {
+                            "marginLeft": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-left"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-left"
+                                }
+                            },
+                            "marginRight": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-right"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-right"
+                                }
+                            },
+                            "marginTop": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-top"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-top"
+                                }
+                            },
+                            "marginBottom": {
+                                "default": "0",
+                                "parser": {
+                                    "selector": "@margin-bottom"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-bottom"
+                                }
+                            }
                         }
                     },
                     {
@@ -249,113 +332,42 @@
                         "content": "block",
                         "parser": {
                             "selector": "tei:sp"
-                        }
-                    },
-                    {
-                        "name": "speaker",
-                        "type": "block",
-                        "parser": {
-                            "selector": "tei:speaker"
                         },
                         "attrs": {
                             "marginLeft": {
                                 "default": "0",
                                 "parser": {
                                     "selector": "@margin-left"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-left"
                                 }
                             },
                             "marginRight": {
                                 "default": "0",
                                 "parser": {
                                     "selector": "@margin-right"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-right"
                                 }
                             },
                             "marginTop": {
                                 "default": "0",
                                 "parser": {
                                     "selector": "@margin-top"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-top"
                                 }
                             },
                             "marginBottom": {
                                 "default": "0",
                                 "parser": {
                                     "selector": "@margin-bottom"
-                                }
-                            },
-                            "firstLineIndent": {
-                                "default": "0.5",
-                                "parser": {
-                                    "selector": "@first-line-indent"
-                                }
-                            },
-                            "textAlign": {
-                                "default": "left",
-                                "parsers": [
-                                    {
-                                        "selector": "contains(@style, \"text-left\")",
-                                        "type": "static",
-                                        "value": "left"
-                                    },
-                                    {
-                                        "selector": "contains(@style, \"text-center\")",
-                                        "type": "static",
-                                        "value": "center"
-                                    },
-                                    {
-                                        "selector": "contains(@style, \"text-right\")",
-                                        "type": "static",
-                                        "value": "right"
-                                    },
-                                    {
-                                        "selector": "contains(@style, \"text-justify\")",
-                                        "type": "static",
-                                        "value": "justify"
-                                    }
-                                ]
-                            },
-                            "extract": {
-                                "default": "",
-                                "parser": {
-                                    "selector": "@extract"
-                                }
-                            }
-                        }
-                    },
-                        {
-                        "name": "pageLineRef",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
-                            "text": "text()"
-                        }
-                    },
-                    {
-                        "name": "wordRange",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:citedRange[@type=\"word-range\"]",
-                            "text": "text()"
-                        }
-                    },
-                    {
-                        "name": "quotation",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:q",
-                            "text": "text()"
-                        }
-                    },
-                    {
-                        "name": "staging",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:stage",
-                            "text": "text()"
-                        },
-                        "attrs": {
-                            "type": {
-                                "parser": {
-                                    "selector": "@type"
+                                },
+                                "serialiser": {
+                                    "attr": "margin-bottom"
                                 }
                             }
                         }
@@ -398,6 +410,46 @@
                             },
                             {
                                 "selector": "tei:hi",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:foreign",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:speaker",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:q",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:lem",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:sic",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:signed",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:stage",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:citedRange",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:metamark",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:rdg",
                                 "text": "text()"
                             }
                         ]
@@ -494,8 +546,54 @@
                         }
                     },
                     {
+                        "name": "speaker",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:speaker"
+                        }
+                    },
+                        {
+                        "name": "pageLineRef",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "wordRange",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"word-range\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "quotation",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:q",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "staging",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:stage",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "type": {
+                                "parser": {
+                                    "selector": "@type"
+                                }
+                            }
+                        }
+                    },
+                    {
                         "name": "foreignLanguage",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:foreign",
                             "text": "text()"
@@ -503,7 +601,7 @@
                     },
                     {
                         "name": "lemma",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:lem",
                             "text": "text()"
@@ -511,7 +609,7 @@
                     },
                     {
                         "name": "sic",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:sic",
                             "text": "text()"
@@ -519,7 +617,7 @@
                     },
                     {
                         "name": "reading",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:rdg",
                             "text": "text()"
@@ -535,7 +633,7 @@
                     },
                     {
                         "name": "missing",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:metamark[@function=\"missing\"]",
                             "text": "text()"
@@ -543,7 +641,7 @@
                     },
                     {
                         "name": "signed",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:signed",
                             "text": "text()"
@@ -758,24 +856,36 @@
                             {
                                 "selector": "tei:hi",
                                 "text": "text()"
+                            },
+                            {
+                                "selector": "tei:foreign",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:q",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:lem",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:sic",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:citedRange",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:metamark",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:rdg",
+                                "text": "text()"
                             }
                         ]
-                    },
-                    {
-                        "name": "pageLineRef",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
-                            "text": "text()"
-                        }
-                    },
-                    {
-                        "name": "wordRange",
-                        "type": "inline",
-                        "parser": {
-                            "selector": "tei:citedRange[@type=\"word-range\"]",
-                            "text": "text()"
-                        }
                     },
                     {
                         "name": "annotationGlobal",
@@ -816,8 +926,24 @@
                         }
                     },
                     {
+                        "name": "pageLineRef",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
+                        "name": "wordRange",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "tei:citedRange[@type=\"word-range\"]",
+                            "text": "text()"
+                        }
+                    },
+                    {
                         "name": "foreignLanguage",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:foreign",
                             "text": "text()"
@@ -825,7 +951,7 @@
                     },
                     {
                         "name": "quotation",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:q",
                             "text": "text()"
@@ -833,7 +959,7 @@
                     },
                     {
                         "name": "lemma",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:lem",
                             "text": "text()"
@@ -841,7 +967,7 @@
                     },
                     {
                         "name": "sic",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:sic",
                             "text": "text()"
@@ -849,7 +975,7 @@
                     },
                     {
                         "name": "reading",
-                        "type": "inline",
+                        "type": "mark",
                         "parser": {
                             "selector": "tei:rdg",
                             "text": "text()"
