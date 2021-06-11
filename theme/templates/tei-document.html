@@ -549,14 +549,14 @@
                         "name": "speaker",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:speaker"
+                            "selector": "self::tei:speaker"
                         }
                     },
                         {
                         "name": "pageLineRef",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
+                            "selector": "self::tei:citedRange[@type=\"page-line-ref\"]",
                             "text": "text()"
                         }
                     },
@@ -564,7 +564,7 @@
                         "name": "wordRange",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:citedRange[@type=\"word-range\"]",
+                            "selector": "self::tei:citedRange[@type=\"word-range\"]",
                             "text": "text()"
                         }
                     },
@@ -572,7 +572,7 @@
                         "name": "quotation",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:q",
+                            "selector": "self::tei:q",
                             "text": "text()"
                         }
                     },
@@ -580,7 +580,7 @@
                         "name": "staging",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:stage",
+                            "selector": "self::tei:stage",
                             "text": "text()"
                         },
                         "attrs": {
@@ -595,7 +595,7 @@
                         "name": "foreignLanguage",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:foreign",
+                            "selector": "self::tei:foreign",
                             "text": "text()"
                         }
                     },
@@ -603,7 +603,7 @@
                         "name": "lemma",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:lem",
+                            "selector": "self::tei:lem",
                             "text": "text()"
                         }
                     },
@@ -611,7 +611,7 @@
                         "name": "sic",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:sic",
+                            "selector": "self::tei:sic",
                             "text": "text()"
                         }
                     },
@@ -619,7 +619,7 @@
                         "name": "reading",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:rdg",
+                            "selector": "self::tei:rdg",
                             "text": "text()"
                         },
                         "attrs": {
@@ -635,7 +635,7 @@
                         "name": "missing",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:metamark[@function=\"missing\"]",
+                            "selector": "self::tei:metamark[@function=\"missing\"]",
                             "text": "text()"
                         }
                     },
@@ -643,7 +643,7 @@
                         "name": "signed",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:signed",
+                            "selector": "self::tei:signed",
                             "text": "text()"
                         }
                     },
@@ -929,56 +929,49 @@
                         "name": "pageLineRef",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:citedRange[@type=\"page-line-ref\"]",
-                            "text": "text()"
+                            "selector": "self::tei:citedRange[@type=\"page-line-ref\"]"
                         }
                     },
                     {
                         "name": "wordRange",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:citedRange[@type=\"word-range\"]",
-                            "text": "text()"
+                            "selector": "self::tei:citedRange[@type=\"word-range\"]"
                         }
                     },
                     {
                         "name": "foreignLanguage",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:foreign",
-                            "text": "text()"
+                            "selector": "self::tei:foreign"
                         }
                     },
                     {
                         "name": "quotation",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:q",
-                            "text": "text()"
+                            "selector": "self::tei:q"
                         }
                     },
                     {
                         "name": "lemma",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:lem",
-                            "text": "text()"
+                            "selector": "self::tei:lem"
                         }
                     },
                     {
                         "name": "sic",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:sic",
-                            "text": "text()"
+                            "selector": "self::tei:sic"
                         }
                     },
                     {
                         "name": "reading",
                         "type": "mark",
                         "parser": {
-                            "selector": "tei:rdg",
-                            "text": "text()"
+                            "selector": "self::tei:rdg"
                         },
                         "attrs": {
                             "wit": {
@@ -993,7 +986,7 @@
                         "name": "missing",
                         "type": "inline",
                         "parser": {
-                            "selector": "tei:metamark[@function=\"missing\"]",
+                            "selector": "self::tei:metamark[@function=\"missing\"]",
                             "text": "text()"
                         }
                     },
