@@ -207,7 +207,7 @@
             }
         }
 
-        .node-foreignLanguage {
+        .mark-foreignLanguage {
             font-weight: 300;
         }
 
@@ -242,59 +242,37 @@
             }
         }
 
-        .node-quotation {
+        .mark-quotation {
             font-style: italic;
         }
 
-        .node-sourceList {
-            .node-source {
-            }
-        }
-
-        .node-lineGroup {
-            margin-top: 1rem;
-            margin-left: 2rem;
-
-            .node-line {
-            }
-        }
-
-        .node-speaker {
+        .mark-speaker {
             font-variant: small-caps;
-
-            + .node-lineGroup {
-                margin-top: 0;
-            }
         }
 
-        .node-speech {
-            margin-top: 1rem;
-            margin-bottom: 1rem;
-        }
-
-        .node-staging {
+        .mark-staging {
             font-size: 80%;
             font-variant: normal;
         }
 
 
-        .node-pageLineRef {
+        .mark-pageLineRef {
             font-weight: bold;
         }
 
-        .node-wordRange {
+        .mark-wordRange {
             padding-left: $global-padding;
         }
 
-        .node-sic {
+        .mark-sic {
             font-style: italic;
         }
 
-        .node-reading {
+        .mark-reading {
             font-style: italic;
         }
 
-        .node-lemma {
+        .mark-lemma {
             font-style: italic;
 
             &::after {
@@ -303,7 +281,7 @@
             }
         }
 
-        .node-missing {
+        .mark-missing {
             &::before {
                 content: '\25fc';
                 vertical-align: sub;
@@ -314,7 +292,7 @@
             }
         }
 
-        .node-signed {
+        .mark-signed {
             font-weight: bold;
         }
 
