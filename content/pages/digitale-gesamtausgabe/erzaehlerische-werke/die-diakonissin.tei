@@ -43,14 +43,16 @@
       <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Die Diakonissin.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>Ein Lebensbild.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="12" style="text-left" extract="">
-        <tei:foreign>
-          <tei:hi style="font-size-small">Atra cura ...</tei:hi>
-        </tei:foreign>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="12" style="text-left" extract="">
+        <tei:ref type="esv" target="#annotation-1">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Atra cura ...</tei:hi>
+          </tei:foreign>
+        </tei:ref>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="13.4" style="text-left" extract="">
         <tei:foreign>
@@ -58,7 +60,7 @@
         </tei:foreign>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.2" first-line-indent="0.5" style="text-center" extract="">
         <tei:seg>Meinen lieben Schwägerinnen Frau Minna und Frau Elise </tei:seg>
         <tei:hi style="letter-sparse">gewidmet</tei:hi>
         <tei:seg>.</tei:seg>
@@ -1618,6 +1620,7 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
         <tei:pb n="223"/>
         <tei:seg> wird sie allein das Glück der Freunde vollenden, denn diese genießen keine Freude, gestehen sich nie das Verdienst zu, eine genießen zu dürfen, ohne nicht auch dankerfüllt und voll Sehnsucht zu gedenken ihrer Lieben im Lande der Palmen. </tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1"/>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
@@ -1851,7 +1854,7 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-center">
         <tei:seg>Problemstellen ohne Emendationen</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
