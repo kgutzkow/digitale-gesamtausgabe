@@ -27,6 +27,8 @@ echo "Fetching the latest data"
 echo "========================"
 echo
 
+rm -rf theme/static/css theme/static/js theme/static/reader
+
 git checkout -f default
 git pull
 
@@ -38,8 +40,6 @@ echo "================="
 echo
 
 poetry install --no-dev
-yarn install --frozen-lockfile --check-files --non-interactive
-node_modules/.bin/gulp
 poetry run pelican -s publishconf.py -o output -d content
 
 echo
