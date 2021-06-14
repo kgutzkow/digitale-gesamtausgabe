@@ -61,7 +61,9 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
       <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.2" first-line-indent="0.5" style="text-center" extract="">
-        <tei:seg>Meinen lieben Schwägerinnen Frau Minna und Frau Elise </tei:seg>
+        <tei:seg>Meinen lieben Schwägerinnen </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">Frau Minna und Frau Elise</tei:ref>
+        <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">gewidmet</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:p>
@@ -1620,7 +1622,26 @@ vergoldeten Gitter einer reizenden Villa fand. Ich klingelte. Es währte lange b
         <tei:pb n="223"/>
         <tei:seg> wird sie allein das Glück der Freunde vollenden, denn diese genießen keine Freude, gestehen sich nie das Verdienst zu, eine genießen zu dürfen, ohne nicht auch dankerfüllt und voll Sehnsucht zu gedenken ihrer Lieben im Lande der Palmen. </tei:seg>
       </tei:p>
-      <tei:interp type="esv" xml:id="annotation-1"/>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">1,6-7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Atra cura ...]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Horaz, Carmina, 3, 1, 40: Post equitem sedet atra cura, "Hinter dem Reiter sitzt die schwarze Sorge" (... und reitet mit). (Lexikon der lateinischen Zitate. 3500 Originale mit Übersetzungen und Belegstellen hg. von Hubertus Kudla. 2. überarb. Aufl. München: Beck, 2001, S. 406</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Frau Minna und Frau Elise]</tei:citedRange>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Gutzkow widmete das Buch den beiden älteren Schwestern seiner zweiten Frau Bertha Gutzkow: Johannette Wilhelmine (Minna) Küchler (geb. Meidinger, 1822-1883), die 1846 den Frankfurter Buchdrucker Wilhelm Küchler (1811-1866) geheiratet hatte, sowie Elise Walther (geb. Meidinger, geb. 1823), Gattin des Offenbacher Arztes Heinrich Walther (1822-1887).</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
       <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
