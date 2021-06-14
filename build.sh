@@ -27,8 +27,6 @@ echo "Fetching the latest data"
 echo "========================"
 echo
 
-rm -rf theme/static/css theme/static/js theme/static/reader
-
 git checkout -f default
 git pull
 
