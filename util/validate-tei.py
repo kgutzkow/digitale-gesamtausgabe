@@ -132,8 +132,6 @@ def check_source_lists(doc, errors):
     for item in markup:
         if len(item) == 0:
             errors.append('Source item without any content')
-        if 'data-source-id' in item.attrib:
-            errors.append('Old-style source identifier')
 
 
 def check_readings(doc, errors):
