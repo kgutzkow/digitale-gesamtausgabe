@@ -38,11 +38,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="677"/>
         <tei:seg> Tzschoppe.</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:hi style="font-size-medium letter-sparse">Ein Beitrag zur Seelenkunde</tei:hi>
         <tei:hi style="font-size-medium">.</tei:hi>
       </tei:head>
@@ -83,22 +83,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -120,22 +120,22 @@
         <tei:seg>. Gutzkow fasste die ersten drei Absätze von E zusammen und untergliederte sie durch lange Gedankenstriche.</tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Karl Gutzkow: Tzschoppe. Ein Beitrag zur Seelenkunde. In: Telegraph für Deutschland. Hamburg. Nr. 173, [24.] Oktober 1842, S. 677-679. (Rasch 3.42.10.24) </tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E. Tzschoppe. Ein Beitrag zur Seelenkunde. In: Karl Gutzkow: Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844. S. 101-109. (Rasch 2.25.3.1) </tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="A2">
           <tei:seg>A</tei:seg>
           <tei:hi style="sup">2</tei:hi>
           <tei:seg>. Tzschoppe. 1840. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 279-282. (Rasch 1.5.9.26)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -147,7 +147,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine autobiographische Schriften und Memorabilien. Hg. von Wolfgang Rasch. Münster: Oktober Verlag, 2018. (= Gutzkows Werke und Briefe. Abt. VII: Autobiographische Schriften, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">

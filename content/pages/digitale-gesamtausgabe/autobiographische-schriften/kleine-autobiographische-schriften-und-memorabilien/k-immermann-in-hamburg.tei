@@ -38,7 +38,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="609"/>
         <tei:seg> K. Immermann in Hamburg.</tei:seg>
       </tei:head>
@@ -152,22 +152,22 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -208,22 +208,22 @@
         <tei:seg> ein eklatanter Widerspruch, was Immermanns angebliche Äußerungen über Mundt angeht.</tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. K[arl] G[utzkow]: K. Immermann in Hamburg. In: Telegraph für Deutschland. Hamburg. Nr. 153, [23.] September 1840, S. 609-616; Nr. 154, [25.] September 1840, S. 613-615. (Rasch 3.40.09.23) </tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E. K. Immermann in Hamburg. In: Karl Gutzkow: Mosaik. Novellen u. Skizzen. (Vermischte Schriften. Bd. 3.) Leipzig: Weber, 1842. S. 148-163. (Rasch 2.23.3.8) </tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="A2">
           <tei:seg>A</tei:seg>
           <tei:hi style="sup">2</tei:hi>
           <tei:seg>. Karl Immermann in Hamburg. In: Karl Gutzkow: Oeffentliche Charaktere. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 9.) Jena: Costenoble, [1875]. S. 288-298. (Rasch 1.5.9.28)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -235,8 +235,8 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine autobiographische Schriften und Memorabilien. Hg. von Wolfgang Rasch. Münster: Oktober Verlag, 2018. (= Gutzkows Werke und Briefe. Abt. VII: Autobiographische Schriften, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3"/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">

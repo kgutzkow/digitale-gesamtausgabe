@@ -9,13 +9,13 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Peter Hasubek</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Martina Lauster</tei:name>
-        </tei:respStmt>
         <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
@@ -43,33 +43,34 @@
     <tei:revisionDesc>
       <tei:change when="2001-07" who="#PeterHasubek">1.0</tei:change>
       <tei:change when="2008-12" who="#PeterHasubek">1.1</tei:change>
-      <tei:change when="2018-07" who="#MartinaLauster #GertVonhoff">1.2</tei:change>
+      <tei:change when="2018-07" who="#GertVonhoff">1.2</tei:change>
+      <tei:change when="2021-06-15" who="#WolfgangRasch">2.0: TEI Transfer, formale Anpassungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="7"/>
         <tei:seg> Rückblicke auf mein Leben.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>I.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:ref type="esv" target="#annotation-1">Montaigne</tei:ref>
         <tei:seg> hat gesagt: </tei:seg>
         <tei:ref type="esv" target="#annotation-2">
           <tei:foreign>Mon mêtier c’est vivre</tei:foreign>
         </tei:ref>
-        <tei:ref type="esv" target="#">.</tei:ref>
+        <tei:ref type="esv">.</tei:ref>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Der scharfsinnige Franzose wird in der Hauptsache unter seinem „Leben als Lebenskunst“ kaum etwas Andres verstanden haben, als was </tei:seg>
         <tei:ref type="esv" target="#annotation-3">Terenz eine seiner dramatischen Personen</tei:ref>
         <tei:seg> sagen läßt: </tei:seg>
         <tei:foreign>Homo sum, nil humani a me alienum puto.</tei:foreign>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:pb n="8"/>
         <tei:seg> Dieser offenen Ehrlichkeit, die weiland Sitte gewesen, als man noch </tei:seg>
         <tei:ref type="esv" target="#annotation-4">für die Männer allein, nicht für die Frauen Literatur machte</tei:ref>
@@ -100,7 +101,7 @@
         <tei:ref type="esv" target="#annotation-16">bei seiner Selbstbiographie</tei:ref>
         <tei:seg> der „Wahrheit“, die sein Gewissen drückte, die „Dichtung“ unter. Vollkommne Menschen können nur die Männer gewerbmäßiger Berufsart, die hohen politischen Streber des Tages, die Geheimen Ober-Regierungsräthe, die Besitzer einer Brust voll Orden sein, die Börsenmillionäre, alle, die in der Welt nicht rechts, nicht links gesehen haben, sondern immer nur schnurstracks losgingen auf ein und dasselbe Ziel. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wenn ich nun der auch </tei:seg>
         <tei:ref type="esv" target="#annotation-17">an mich ergangenen Aufforderung</tei:ref>
         <tei:seg> folge und dem Herrn Herausgeber dieser Zeitschrift, ohne viel Rancüne über einige früher auch mir zu Gute gekommene </tei:seg>
@@ -110,24 +111,24 @@
         <tei:ref type="esv" target="#annotation-19">
           <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">“</tei:ref>
+        <tei:ref type="esv">“</tei:ref>
         <tei:seg> hervorsuchen und daraus ein zeitgemäßes Excerpt für sein reichhaltiges Feuilleton zusammenstellen. Aber wie trocken sind doch da die Büchertitel neben einander aufgezählt! Wie unwahr ist so vieles, was sich, mit der unerschütterlichen Sicherheit eines Lehrers der Literaturgeschichte für höhere Töchterschulen, als ganz besonders charakterisirendes Kennzeichen, ankündigt! Wie unvermittelt stehen die Notizen neben einander! Der wahre Mensch, der noch unverleumundete, das gesunde Fleisch, eben </tei:seg>
         <tei:ref type="esv" target="#annotation-20">Montaignes </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:foreign>Mêtier</tei:foreign>
         </tei:ref>
-        <tei:ref type="esv" target="#"> oder </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv"> oder </tei:ref>
+        <tei:ref type="esv">
           <tei:foreign>Mestier</tei:foreign>
         </tei:ref>
         <tei:seg>, wie </tei:seg>
         <tei:ref type="esv" target="#annotation-21">Rabelais’ jüngerer Zeitgenosse</tei:ref>
         <tei:seg> noch schrieb, das Leben zu dem todten Gerippe von Namen und Jahreszahlen ist nicht einmal zwischen den Zeilen zu lesen. </tei:seg>
-        <tei:ref type="esv" target="#">„</tei:ref>
+        <tei:ref type="esv">„</tei:ref>
         <tei:ref type="esv" target="#annotation-22">
           <tei:hi style="letter-sparse">Das junge Deutschland wollte nicht blos lebe</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">n“</tei:ref>
+        <tei:ref type="esv">n“</tei:ref>
         <tei:seg> heißt es z. B. bei Gustav Kühne in seinem beliebten Nekrologslieferanten, den eben citirten „Männern der Zeit“, „</tei:seg>
         <tei:hi style="letter-sparse">sondern auch gut leben</tei:hi>
         <tei:seg>“. Du edler, großherziger Kamerad, der du dich nicht nur selbst zum „Jungen Deutschland“ rechnetest, sondern auch mehr zu ihm gehörtest, als jetzt </tei:seg>
@@ -154,7 +155,7 @@
         <tei:ref type="esv" target="#annotation-34">Beiblatt „Telegraph“</tei:ref>
         <tei:seg>, als welcher sich später, wo die Börsenzeitung eingegangen war, in Gestalt eines selbstständigen belletristischen Blattes erhalten hat, aber ebenso zwei Jahre lang nur durch die Mittel erhalten wurde, die sich der Redacteur auch hier wieder am Munde abdarben mußte. Kaum deckte der Absatz die Hälfte der materiellen Herstellung. Auf die besondere Versendung dieses Beiblattes an die Buchhändler und auf die Hoffnung einiger Einnahmen durch die Ostermesse bauend, appellirte der „Gutleber“ an den frankfurter </tei:seg>
         <tei:ref type="esv" target="#annotation-35">Buchhändler </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">Streng</tei:hi>
         </tei:ref>
         <tei:seg>, der für 50% die Commission übernommen hatte, und bat diesen um einen Vorschuß – zum „Gutleben“ bei der Taufe! Nicht ohne Stirnrunzeln gab der geldliebende Mann die erbetenen 50 Gulden, gab sie aber sämmtlich in Rollen von Sechskreuzerstücken. Der Empfänger, der seine Hülfe von der altberühmten </tei:seg>
@@ -165,7 +166,7 @@
         <tei:ref type="esv" target="#annotation-38">und Kühne ist ein ehrenwerther Mann</tei:ref>
         <tei:seg>.“ Diese vielleicht etwas zu „intim“ ausgefallene Anekdote hat für unsern Zweck das Gute, daß sie für meine Widersacher gleich von vornherein constatirt, ich sei allerdings zuerst nichts als Journalist gewesen. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Meine Herkunft, mein Schulleben, meinen Bildungsgang habe ich schon in meinem Buche: </tei:seg>
         <tei:ref type="esv" target="#annotation-15">„Aus der Knabenzeit“ erzählt. Ueberarbeitet und fortgeführt</tei:ref>
         <tei:seg> bis zum achtzehnten Jahre findet es sich in meinen „Gesammelten Werken“ (Costenoble’sche Ausgabe) Band I. Dann stehen Erinnerungen an die berliner Universitätszeit von 1829 – 1831 in dem Aufsatz: </tei:seg>
@@ -194,10 +195,10 @@
         <tei:ref type="esv" target="#annotation-48">liberale Minorität der 221</tei:ref>
         <tei:seg> wenn nicht in der pariser Kammer, doch in der öffentlichen Meinung Frankreichs den Sieg davontrug, ob es zur Auflösung der Legislative kam, das allein waren die täglichen Fragen, denen sich der junge französische Publicist hingab und die im komischsten Contraste standen zu unserer Lectüre des </tei:seg>
         <tei:ref type="esv" target="#annotation-49">Kotzebue’schen „</tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:foreign>Vielouissêer</tei:foreign>
         </tei:ref>
-        <tei:ref type="esv" target="#">“</tei:ref>
+        <tei:ref type="esv">“</tei:ref>
         <tei:seg> („Vielwisser“), den der ältere Schüler als Grundlage unserer Conversationen im </tei:seg>
         <tei:ref type="esv" target="#annotation-50">Hotel de Rome</tei:ref>
         <tei:seg> „Unter den Linden“ dem Vorschlage des jüngern Lehrers, Schiller oder Goethe zu wählen, vorzog. Wunder nimmt mich, daß das von mir in etwa 20 Stunden erlernte Deutsch nicht beim </tei:seg>
@@ -210,7 +211,7 @@
         <tei:ref type="esv" target="#annotation-54">Präsidenten der Republik</tei:ref>
         <tei:seg>, dem Wahrer der gesetzlichen Ordnung und Beschicker des frankfurter Congresses, versöhnt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die </tei:seg>
         <tei:ref type="esv" target="#annotation-55">Ordonnanzen</tei:ref>
         <tei:seg> waren erschienen, die Kammern wurden aufgelöst, doch </tei:seg>
@@ -251,7 +252,7 @@
         <tei:ref type="esv" target="#annotation-73">Bahlingen</tei:ref>
         <tei:seg> in Schwaben in die württembergische Kammer gewählt worden. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Es stehen von Wolfgang Menzel </tei:seg>
         <tei:ref type="esv" target="#annotation-74">Memoiren</tei:ref>
         <tei:seg> zu erwarten. Bis diese erschienen sind, lege ich mir über diese Verbindung mit dem wissensreichen, aber dämonischen Manne Schweigen auf. Nur so viel sei schon gesagt, daß hingegebener, treuer, bewunderungerfüllter kein junger Schriftsteller sich je einem ältern angeschlossen und untergeordnet hat, als ich mich Menzeln. Vollkommen war ich jener junge </tei:seg>
@@ -260,10 +261,10 @@
         <tei:ref type="esv" target="#annotation-76">Stuttgarts classischem Boden</tei:ref>
         <tei:seg>. Jetzt haben wir in solchen Fällen erster Entwicklung schriftstellerisch aufkeimender Triebe nur noch die </tei:seg>
         <tei:ref type="esv" target="#annotation-77">Schüler vom </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">zweiten</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#"> Theil des „Faust“</tei:ref>
+        <tei:ref type="esv"> Theil des „Faust“</tei:ref>
         <tei:seg>, wo diejenigen, denen sie ihre unreifen Producte erst mit der Widmung: „der Schüler dem Meister“ verehrt haben, nur zu bald, ihrer Untreue, Undankbarkeit, Arroganz wegen, ihrem Abfall mit Goethe nachrufen möchten: </tei:seg>
         <tei:ref type="esv" target="#annotation-78">„Fahr hin, Originalgenie, in deiner Pracht!“</tei:ref>
         <tei:seg> Daß ich das Dienen bei Menzel, das Lesen und Recensiren der ihm zugesandten Bücherstöße, das Ansammeln aller Unpopularität, die </tei:seg>
@@ -320,12 +321,11 @@
         <tei:ref type="esv" target="#annotation-107">Bücherpolizei</tei:ref>
         <tei:seg>. Nicht äußere Persönlichkeiten sind es, die ich hier erzähle, sondern das Persönliche wurde ja Wendepunkt, Hebel oder Angel neuer Entwicklungen so für andre, wie für mich.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="22"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>In meinem Schaffen, um mich endlich der Emphase auch über den eignen Genius, dem Prospectus- und Buchhändleranzeigen-Stil zu nähern, gab es einen Scheideweg, über welchen ich in den literargeschichtlichen Compendien, in den lobenden, wie in den tadelnden, über mich nichts finde. Es läßt sich zum Glück davon erzählen, ohne in Choral zu verfallen oder mit sich selbst besonders schön zu thun. Wenn wir Heinrich Laube einen Goethe nennen wollen, so war jedenfalls ein gewisser Gustav Schlesier in frühster Zeit sein </tei:seg>
         <tei:hi style="letter-sparse">Merck</tei:hi>
         <tei:seg>. Ich sage: „ein gewisser Gustav Schlesier“. Denn nach seinem Buch: „Oberdeutsche Staaten und Stämme“ und seinen Arbeiten über Wilhelm von Humboldt ist der Mann verschollen; ich weiß kaum, ob der kühne Anläufer zu einem neuen Varnhagen oder gar zum zweiten Friedrich Gentz noch unter den Lebenden weilt. Heinrich Laube besaß von je die Kunst, im </tei:seg>
@@ -336,53 +336,52 @@
         <tei:hi style="letter-sparse">Benno</tei:hi>
         <tei:seg> im „Zauberer von Rom“. Gustav Schlesier, ein geistvoller kleiner Herr, war das Prototyp des sächsischen Gelehrten. Magister durch und durch verband er mit der Pedanterie Allüren von Eleganz. Leipzig ist ein „Klein Paris und bildet seine Leute“. Im Schlafrock ganz nur Stubengelehrter und pedantisch wie nur Gottsched pedantisch gewesen, war Gustav Schlesier Abends, vielleicht am Theetisch einer schönen liebenswürdigen jungen Wittwe, die sich später sein Freund als Gattin gewann, ganz Petitmaitre. Selbst das zu vorschnell gekommene Bäuchlein des behäbigen jungen Mannes gab ihm das Ansehen eines Abbés der alten Schule. Sein Wissen war bedeutend, doch nicht in solchem Grade, daß damit die Sicherheit seiner Urtheilabgabe hätte für entschuldigt gelten können. Ein aus Dresden Gekommener war er jedenfalls in Kunstanschauungen und unter guten Theatereindrücken aufgewachsen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Ohne Zweifel gesteht Heinrich Laube zu, daß ihm Gustav Schlesier in vielen Dingen die Directive gegeben. Nun – dieser scharfsinnige Kopf, der sich indessen trotz seines Scharfsinns ebenso oft von Anfang bis zu Ende zu irren vermochte, wie nur der Positivismus der Kritiker heute etwas behaupten kann, was er morgen, falls es der Ehrgeiz erlaubte, selbst zurücknehmen würde, sagte mir eines Tages, als ich in Leipzig und sogar bei Laube selbst wohnte: „Uebrigens sind Sie in Ihrer Production ganz auf dem Holzwege! Sie ahmen Voltaire und Diderot nach! Voltaire und Diderot haben sich als ästhetische Muster überlebt; Sie brauchen ja nur an Wieland zu denken. Ihr „Maha Guru“ liest sich wie Zadig oder Candide. Herzblut müssen Sie zeigen! Den Charakter der Gegenwart treffen! Sich Ihre Brust aufreißen! Nur „modern“, specifisch „modern“ muß man sein! Die deutsche Literatur darf nur noch den Weg gehen, den allen Literaturen Europas die Baronin Dudevant, Georg Sand, vorgezeichnet hat!“</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Sprach’s – und ich gestehe, das Wort schmetterte mich nieder. Weder Zadig noch Candide hatte ich gelesen. Doch kannte ich Wieland. Auf der Schule war ich, wie ich Band I. meiner Gesammelten Werke S. 208 erzählt habe, zur förmlichen Verachtung des Verfassers der „Abderiten“ erzogen worden. Ich fand Wieland langweilig. Aber das ist wahr, Lucian von Samosata hatte ich mit Vorliebe gelesen, Lucian, den griechischen Spötter, das gemeinschaftliche Muster Voltaires, Diderots und Wielands. „Herzblut –?“ Nun wohl! Ich hatte ein mich mächtig fortreißendes „Herzblut“, aber nur, wenn ich von den Ideen der Zeit sprach. Sowie ich das künstlerische, selbstschaffende Gebiet betrat, dämmte ich die Wallungen des Herzens zurück, legte seinem mächtigen Pulsschlage Mäßigung auf, dachte nur an die vorsichtige Arbeit des Malers, des Bildhauers, die ebenso nicht mit dem bloßen Kohlenumriß, nicht mit dem ersten Bearbeiten und Kneten des Thons ihre Schöpfungen für abgeschlossen erklären. Aus Kälte des Gemüths beschränkte ich mich nicht. Es war nur die nachhaltige Scheu vor den Gesetzen der Kunst. Ich haßte allen rohen Naturalismus, besonders in der Erzählungsliteratur des Tages. Bei der tief dem Kritiker innewohnenden Scheu, seinerseits selbst in die Fehler zu verfallen, die er an andern gerügt haben würde, vergaß ich dabei, daß leider nur ein tobsüchtiges Arbeiten, etwa wie die damalige Grabbe’sche Dramenfabrik, sich vor den Deutschen den Schein der Genialität zu geben vermag. Noch jetzt verharren ja Publicum und Kritik bei uns auf dem Standpunkt, nur das Regellose anzustaunen, das ewig fragmentarisch oder genialisirende Grimasse Gebliebene. Doch gestehen muß ich, daß damals Gustav Schlesiers Auslassung meine Vorrede zu Schleiermachers Briefen über die Lucinde und die Wally veranlaßte. Sein Spott hatte mich aus meinem Frieden gerissen. Er hatte es leicht damit. Denn im eigenen Schaffen war ich das „zerstoßne Rohr“ und der „verglimmende Docht“ des Evangeliums. Anerkennung war dem Mitarbeiter des auf dem damaligen Parnaß verhaßten Wolfgang Menzel bei keiner einzigen Instanz zu Theil geworden. Meine Arbeiten erster Periode, mein „Sadducäer von Amsterdam“, der, wie ich höre, von Vielen, die mich sonst nicht mögen, meinen spätern Arbeiten vorgezogen wird, „Nero“, „Maha Guru“ waren so gut wie nicht erschienen. Sogar Heinrich Laube, der mir hätte die Stange halten sollen, verspottete mich in seinen „Reisenovellen“ als „Archivar des Königs“; also wohl als eine Art Clavigo, dem nur der rechte, ihm die matadorische Aufwiegelung gebende Carlos fehlte. Aber wo war der größere Werth der Leistungen der Matadore? Konnten selbst die Heine’schen Arbeiten, die damals schwächer und schwächer wurden, mich nicht von Platen oder den bessern schwäbischen Lyrikern abwendig machen, so mußte in mein Gemüth Erbitterung einziehen und meine Stellung die eines Einsiedlers werden. Es entstanden damals unter den jungen Schriftstellern jener Periode die gehässigen Fehden, die in den Literaturgeschichten meist nur mir allein zugeschrieben werden, während sie doch nur die Folge des glücklicher situirten Uebermuths der Andern waren. Allerdings trug mein unverwüstlicher Gerechtigkeitstrieb manche Schuld dieser ewig wechselnden Stellungen, die ich jedoch durch keine Unterordnung unter Varnhagen von Ense oder den Fürsten Pückler mir bestimmen lassen wollte. Die trüben Folgen der veränderten Richtung meiner Feder für meine Person, meine Freiheit, mein Lebensglück verbitterten nicht minder mein Gemüth. Die Sorge schlug ihre Harpyenkrallen in die täglichen Berechnungen über Woaus und Woein. Erst im Jahre 1839 heilte ich meinen Unmuth dadurch, daß ich für die Bühne zu schreiben anfing, dieselbe Bühne, zu der mich längst eine wohlwollende Förderung hätte ermuntern sollen. Selbst Karl Seydelmann, in Stuttgart mir so nahebefreundet, wußte auf zwei Acte eines Trauerspiels: „Marino Falieri“, die ich in’s Morgenblatt hatte einrücken lassen, mir keine andere Ermunterung zur Fortsetzung zu geben, als die: „Nur ja keinen schwachen Helden!“ Der Held war allerdings achtzig Jahre alt, mußte demnach drei Acte lang schwach sein, vollends war er verliebt, bis der alte Löwe erwachte. Das kritische Wort einer solchen Autorität ließ mir die Hände in den Schooß sinken; ich glaubte mein Talent verurtheilt. Wie ich später die Bühne, wie sie ist, habe kennen lernen, wußte ich, daß Seydelmann kalt geblieben war, weil – die Rolle des achtzigjährigen Marino Falieri nicht an ihn, sondern an seinen Widerpart, den nicht unbedeutenden Schauspieler Maurer hätte kommen müssen. So sind die meisten Schauspieler. Der Liebhaberspieler bleibt kalt bei der Lectüre eines Dramas, wo die Chance, nach jedem Acte gerufen zu werden, auf den Charakterspieler fällt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Meine Selbstschau würde nicht aufrichtig sein, wenn ich hier nicht die Erzählung der literarischen Entwicklung unterbrechen und eingestehen wollte, daß es neben dem Geist der Zeit noch eine andere Sphäre gab, die parallel die volle Hälfte meines jugendlichen Ich’s in Anspruch nahm. In dem allbeliebten dramatischen Scherz Wilhelmis „Einer muß heirathen“ sind die Brüder „Zorn“ geschildert, die ihre Ehe und die Wahl einer Lebensgefährtin durch das Loos bestimmen lassen. Jacob Zorn jubelt, daß er zu seinen Büchern zurückkehren dürfe, zu seinen berühmten Studien, denen wir und unsere Nachkommen bis in’s fünfte Glied die enormen Kosten der Anschaffung des „Deutschen Wörterbuchs“ verdanken. Roderich Benedix hat in seiner „Hochzeitsreise“ einen deutschen Professor </tei:seg>
         <tei:pb n="24"/>
         <tei:seg> geschildert, der nicht mehr existirt, einen Gelehrten, dem sein Stiefelwichser mehr an’s Herz gewachsen ist, als seine eben erheirathete junge Frau. Mit solcher Kühle hat sich Referent zum Frauenthum nicht verhalten können. Er schildert hier ein Dichterleben und muß es daher eingestehen, daß ihn der Zauber des weiblichen Geschlechts früh unterjochte. Das Gefühl der Vereinsamung eines gegen den Strom Schwimmenden, der Druck, der immer und immer auf dem verkannten Gemüth lastete, der Mangel an Glück kam diesem Zuge des Herzens und der Sinne entgegen. Sage man doch nicht, daß sich die Seele selbst genügen könnte! Nicht einmal das physische Leben erwehrt sich der Stockungen ohne den Sonnenschein des Glücks. Und wo das Glück finden? Ministern, Verlegern, dem Publicum gegenüber hatte ich kein Glück. Aber Compensationen für das Glück muß es im Gemüth geben. Abrechnungen eines Minus hier gegen ein Plus dort. Sonst erliegen wir. Frühe schon hatte ich gegen die Rabbinenweisheit der Entsagung und Selbstkasteiung geeifert, hatte in Heinrich Heines Unterscheidung zwischen den beiden Lebensprincipien, dem Nazarenerthum und dem Hellenismus, einen seiner Lichtblicke gefunden, hatte das, was sich die Menschen ihre Tugend nennen und an sich und Anderen glorificiren, so oft nur für organisch bedingte Empfindungslosigkeit und Stumpfheit, nach spätern Erfahrungen für die Alleinbeschäftigung mit ihrem Ehrgeiz, die Narcissusgenüge an der Widerspiegelung ihres geliebten Ich erkannt. Das nagende Prickeln der Eitelkeit, die nur ihren Erfolgen, ihrem Namen, der Pflege des Schattens, den man in der Sonne wirft, lebt, ich hatte es nie. Aber mir blieb das Bedürfniß, wenigstens in Andern auszuruhen. Früh schloß ich leidenschaftliche Freundschaften. Aber was sind studentische Freundschaften? Bald gehen die Lebensbahnen auseinander. Vollends war die damalige Zeit in einer Weise eine andere, daß sie sich jetzt kaum noch fassen, kaum schildern läßt. Auf drei freigesinnte, gleichgestimmte junge Akademiker kamen wenigstens in Berlin 97, die nur am Gegebenen hafteten, die nur fromme August Neander’sche Pastoren werden wollten, sich nur als Beamte, Richter in dem Sinne zu sehen wünschten, wie der damalige Staat seine Beförderungen gewährte. Es waren meist nur Menschen von absolut erkältender Wirkung. Und Cameradschaft, dem jugendlichen Gemüth so unerlaßlich wie der Biene die Blumenwelt, bildet sich da am wenigsten, wo sich literarische Anfängerschaft zeigt! Spricht sich diese nicht mit der aufdringlichen Eitelkeit junger Lyriker aus, wo dann wohl eine gleichgestimmte Richtung zuweilen unter jungen Cameraden dem beständig aus der Rocktasche gezogenen Portefeuille bewundernd entgegenkommt, so wird eine auf aparten Meinungen sich gründende literarische Entwicklung unter Schul- und Universitätscameraden fast immer allein stehen. Ein Nachkomme Bürgers, selbst Bürger geheißen, ein Hauslehrer beim Professor F. W. Gubitz in Berlin, war bis 1833 mein treuster Freund, bis ihn der Strudel des Theaterlebens ergriff und von seinen Studien und von mir selbst fortriß. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Frauen gegenüber fühlt dann freilich der Jüngling nicht Freundschaft, sondern sogleich Liebe. In dem Spiegel eines Mädchenauges fängt sich ihm die ganze Welt auf. Und sie fängt sich ihm nur in harmonischer Schöne auf. Des Mondes blasses Licht, das Geflüster einer vertrauenden Seele beim Wandeln unter den sanftbewegten Wipfeln eines Baumganges, die Berathschlagungen über künftige, vielleicht schon gemeinsam gewordene Lebensziele – in diese bestrickenden Zauber, die von Neander, Schleiermacher, Boeckh, Lachmann abzogen, war ich allzufrühe gerathen. Der erste Theil meiner „Seraphine“ (Gesammelte Werke Band III) ist selbsterlebt. Die dort Geschilderte hieß Leopoldine Spohn. War ich hier gefesselt wider Willen, verzweifelte ich wie unter einem mir zufällig übergeworfenen Nessushemd, so schlug mein Herz desto freier und leidenschaftlicher bald darauf für eine sechszehnjährige Brünette von mehr kleinem als mittlerem Wuchs, mächtigen schwarzbewimperten blauen Augen, blendend weißen Zähnen, keine Schönheit an sich, aber anziehend in allem, was in und an ihr mit geistigem und leiblichem Auge gesehen, mit dem Ohr gehört werden konnte. Am meisten fesselte sie durch ihre Stimme, die so sonor, so tiefliegend war, daß sie allem, was sie sprach, schon dadurch allein den Charakter bedeutungsvoller Reife gab. In Berlin ist alles, was ehedem Garten hieß, im nächsten Umkreis der alten Stadtmauer bis auf den letzten Baum getilgt. Aber die Trauerweide, wo nach zweijährigem „Minnewerben“ das angebetete Mädchen zitternd die Worte sprach: „Ich kann nicht mehr“ – („mich beherrschen“ erstickte an der Brust eines sich redlich zum Oberlehrerexamen Rüstenden) und ringsum die anderen Bäume, in deren Schatten bereits von einer künftigen Wohnung bei einem Oberlehrergehalt von 600 Thalern geträumt wurde, sie steht noch in der Königin-Augusta-Straße zwischen Potsdamer- und Schellingsstraße. Vierzig Jahre später ist die halb und halb mir verlobt Gewesene unvermählt grade im unmittelbaren Gegenüber dieser Bäume auf dem „Tempelhofer Ufer“ gestorben. Warum erzähle ich diese Momente der Vergangenheit? Dieser Bund hat Tage, Wochen, Monate der Verzweiflung heraufbeschworen. Er bestimmte eine Richtung meines Schaffens. Denn die innigste Liebe hatte hier die gehorsamste Tochter nicht bewegen können, dem Gebote einer Mutter, die mich heute in ihre Arme schloß, morgen mit dem Messer drohen konnte: „Er oder Ich!“ auf die letzte Drohung entsagend Folge zu leisten. Der „ahnungsvolle Engel“ hatte sich bewahrt vor dem Schicksal, die Bahnen eines irrewandelnden Kometen zu theilen. „Gottesleugner“ nannten mich die berliner Journale. Die Thüren eines Gefängnisses thaten sich auf. Der schmale Weg, den ohnehin der Schriftsteller jener Zeit durch’s Leben gehen mußte, wurde enger und enger. Mit dieser schlechtbestandenen Probe eines liebenden Herzens gingen mir unermeßliche Schätze des Lebens zu Grunde. Der Nibelungenhort, den ich im Frauenthum gefunden zu haben glaubte, versank mir wie unwiederbringlich. Keinen Muth, keine hochherzige Willenskraft hatte die Reinste ihres Geschlechts zu zeigen vermocht; Charlotte Birch – staune nicht, lieber Leser – die richtige Charlotte Birch-Pfeiffer, die mir damals innig befreundet war (erst da haßte sie mich, als ich für die Bühne schrieb und in ihr und dem verbündeten Intendanten Küstner die Usurpatoren der königlichen Bühne Berlins sehen und fühlen lernen mußte), hatte sie noch einmal im Auftrage des damals Dreiundzwanzigjährigen besucht, um den Versuch zu machen, einigen Heroismus zum „Handeln“, wie eben Liebende „handeln“, zu erwecken. Umsonst! Die Mutter zeigte auf’s Messer und mir erstarb – der Glaube an die Bewährung des Frauenthums für jene Welt, welcher mein Leben gehörte. Sie können nicht theilnehmen, rief mein sich krümmender Schmerz, am großen Kampfe der Zeit! Und wenn auch damals Berlin den Tod der Stieglitz erlebte, wenn auch Rahel die unbefangene Lebensauffassung ihres damals zuerst entsiegelten Briefwechsels zu verbreiten begann, nichts half, um vorzugsweise die berliner Welt aus ihrer anmaßenden, kalten Selbstgenüge aufzurütteln. Goethe, Tieck, Steffens, Raumer, Chamisso, Hitzig beherrschten die öffentliche Meinung. Später erstanden allerdings Frauen, die bei der inzwischen erschreckend gewordenen Zunahme an politischen Märtyrern sich für ihre Ehegatten einen muthigen Aufschwung zu geben verstanden – die mir befreundete Gattin des Darmstädters Wilhelm Schulz befreite den ihrigen aus der Feste Starkenburg am Odenwald; ich selbst fand die Hand eines Mädchens, das sich in der Zeit meines Unglücks bewährt hatte – aber die Abneigung, die in mir entstanden war, die Verhimmelungen der lyrischen Muse über den Werth der Frauen zu theilen und beim Schreiben speciell nur der Frauen zu gedenken, denen vorzugsweise zu huldigen, dem Gedankenkreise zu schmeicheln, an dem den Frauen nach Goethe am meisten gelegen sein müsse (die Huldigung sollte sich bald bis zum Schwindel und zur permanenten Affectation steigern) blieb, blieb in meinem „Blasedow und seine Söhne“ </tei:seg>
         <tei:pb n="25"/>
         <tei:seg> (Gesammelte Werke Band V und VI) fast bis zum Cynischen, blieb – – ohne – daß darum bei mir das Suchen nachdem Schlüssel des Paradieses, den Gott, als er sein Eden schloß, zur Verwahrung in’s Frauenherz zurückgelegt zu haben scheint, an sich selbst aufhörte! Mit der Feder sprach ich jedoch diese Sehnsucht nicht aus.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Den Gedankengängen des sich immer mehr zum Siege hindurchringenden neuen Geistes der Zeiten gegenüber stand ich von Jahr zu Jahr gefesteter Rede. Mein „Telegraph“, ein Schmerzenskind, war in anständige buchhändlerische Versorgung gekommen. Ich zog aus dem Bereich des Bundestages, der Frankfurter Späher und Zuträger, seiner feigen auf dem Frankfurter „Römer“ geübten Censur (Frankfurter Bürgermeister wie Thomas, von Meyer, Günderode trugen das ihnen von Nagler, Münch-Bellinghausen, Blittersdorf auferlegte Joch mit Begeisterung) in die freiere Freistadt Hamburg und fühlte die volle Kraft, in den Kölnischen Wirren gegen den Görres’schen „Athanasius“ zu schreiben, gegen Leo in Halle im Hegelingenstreit aufzutreten, gegen die ständischen Prätensionen des Fürsten von Solms-Lich zu opponiren und so mich in meiner Weise an jeder bedeutenden Frage in längerer oder kürzerer Rede zu betheiligen. Bei öffentlichen Festen, am Guttenbergsfest in Mainz, bei Errichtung des Schwanthalerschen Goethe in Frankfurt am Main wurden mir officielle Toaste übertragen. Die Bosheit von Männern wie Carové in Frankfurt, Karl Buchner in Darmstadt, C. von Wachsmann und des Theodor Hell’schen Kreises in Dresden, die Alles, was von mir ausging, begeiferten, kümmerte mich nicht mehr. Hätte ich dem geheimen Förderer und Berather der jüngeren Literatur, Varnhagen von Ense, wie Laube, Mundt, Kühne und die anderen jungen Autoren zu huldigen mich überwinden können, ich würde für die Geltendmachung meiner Vota mich noch eines festern Untergrundes erfreut haben. Doch verzichtete ich auf Protection, seitdem ich die demüthigenden Folgen der Menzel’schen Kritik erlebt hatte. Selbst die Anerkennung derer, die ich hochverehrte, suchte ich nicht. Sah ich wohl, da ich zu reisen liebte, deutsche Städte, wo so mancher berühmte Name lebte, dessen Nimbus mir fleckenrein und anziehend erschien, so mochte ich doch nicht bei ihm anklopfen. Denn mein Gemüth wußte, daß sich der Angesprochene erst aus einem Wust von Mißtrauen und falscher Nachrede über mich, aus Bildungsstandpunkten, deren objective Berechtigung ich anerkennen mußte, herauszulösen hatte, ehe er mein offenes Wort, meine dargereichte Rechte zu würdigen verstand. Solche Ueberdreistigkeit, die einige damals mit mir zugleich aufstrebende jüngere Schriftsteller später gezeigt haben, daß sie sich überall an die ersten Namen der Zeit zu machen wußten, wo dann Uhland und Meyer, Schelling und Meyer, Kaulbach und Meyer bis in’s Elysium Hand in Hand gehen sollen, ist mir bis zum heutigen Tage zuwider gewesen. Unter solchen Umständen mußte mich wohl die wie aus der Luft gekommene Aufforderung des Curators der Universität Bonn, J. Ph. von Rehfues, überraschen, der mich ermunterte, ich sollte meine gegenwärtige Carrière unterbrechen, mich an einer Universität der Schweiz oder einer kleinen in Deutschland, Gießen oder Marburg, als Privatdocent habilitiren, er würde dafür sorgen, daß ich in kürzester Zeit Berufung an eine preußische Universität erhielte. So sicher stand doch noch Altenstein, der nächste Anhalt für Rehfues, dem Hausminister Wittgenstein und seinem Polizeischergen Tzschoppe gegenüber, daß eine solche Wendung meines Lebens, bei wahrscheinlich vorausgesetzter einiger „Reue“, als denkbar angenommen werden konnte. Der mich schon lange geistig fördernde Verkehr mit dem durch Herzensgüte ausgezeichneten, wenn auch vielverkannten Mann war die Folge einer vor Jahren von mir geschriebenen Kritik über seinen Scipio Cicala. Jener Aufforderung konnte ein schon für Weib und Kind zu sorgen Verpflichteter nicht folgen. Der Verleger des „Telegraphen“ war glücklicherweise Julius Campe geworden, derselbe Buchhändler, der Heine, Börne, theilweise Anastasius Grün, Raupach, Maltitz und a. verlegte. Doch gab ich, gelegentlich bemerkt, niemals meine Feder dazu her, gegen meine Ueberzeugung ein Buch seines Verlags zu loben. Wie ich auch andererseits dem, wie der ältere deutsche Buchhandel es weiß, wunderlich gearteten Manne nachzurühmen habe, daß er niemals die Prätension gemacht oder in unwürdiger Weise, wie gewisse neuere Zeitungen, ein von ihm verlegtes Journal zur steten Anpreisung seiner Autoren hat benutzen wollen. Ich erwähne dies Verhältniß um deswillen, weil sich im Kopfe des kürzlich verstorbenen Hoffmann von Fallersleben eine Anekdote zusammengewirrt hat, die in seinen, bei Rümpler in Hannover erschienenen Memoiren, diesem traurigen Sammelsurium von Gelegenheitsgedichten, Tischtoasten und ausgeschnittenen Zeitungslobhudeleien, in Bezug auf mein Verhältniß zu Julius Campe meinen Charakter nicht wenig verunglimpft. Ich hatte, wie den ganzen Mann, so auch Hoffmanns „Unpolitische Lieder“ gut der Gesinnung nach, für Mittelgut als Dichterwaare befunden. Einige Jahre später begegnete ich ihm im schönen Taunusgebirg, auf der Promenade des Bades Soden, wo ich meine Gattin besuchte, die dort mit den Kindern verweilte. „Sieh den schönen Strauß, den mir der Professor geschenkt hat!“ rief meine Frau, als sie mit dem Ueberall und Nirgends, der damals am Rhein und Main seine Breslauer Quiescenz in kaum zu schildernder Weise genoß, daherkam, mir entgegen. „Versöhnt Euch Beide!“ setzte sie bittend hinzu. Die Schwester der drei wackern Büchner, Georg, Alexander, Louis Büchner, die geistvolle Luise Büchner, war mit vielen Andern zugegen. Ich bot dem Straußwinder die Hand. „Aber sagen Sie mir, wie haben Sie denn das vor Campe durchbringen können, daß Sie seine eigenen Verlagsartikel in dem von ihm bezahlten Blatt herunterrissen?“ fragte mich Hoffmann, als er mich vertraulich zur Seite gezogen. Ich schwieg eine Weile, stutzend über die grobnaive Erinnerung an jene Kritik, die mir eine Ueberzeugungssache gewesen, und machte die ausweichende Bemerkung: „</tei:seg>
         <tei:hi style="letter-sparse">Campe</tei:hi>
         <tei:seg> hat am wenigsten etwas dagegen gehabt. Gönnt er doch seinen Autoren, daß sie zuweilen etwas geduckt werden“. Wer Julius Campe gekannt hat und je gesehen, wie sich dieser Tyll Eulenspiegel der Leipziger Messe die Hände reiben und darüber amüsiren konnte, wenn er sah, daß für die Bäume, daß sie nicht in den Himmel wüchsen, wieder einmal gesorgt war, wird mein Wort harmlos deuten und es nehmen wie es gefallen. Doch aus diesem Gespräch, das von einem Knäuel von Curgästen, in welches wir geriethen, unterbrochen wurde, hat sich der Eitelste der Eiteln, nachdem er mich zehn Jahre darauf freundschaftlichst in Dresden besucht hatte, in späterer Zeit, wo er sich einbildete, ich hätte nicht in der Schillerstiftung für ihn gesorgt (die Acten beweisen das Gegentheil) den Vers gemacht: G. gestand mir einst mit – (ich citire aus dem Gedächtniß. Aber „schamloser Frechheit“ oder etwas Aehnliches versteht sich in solchen Fällen unter deutschen Autoren von selbst), er hätte mich im Auftrage Campes getadelt, </tei:seg>
         <tei:hi style="letter-sparse">nur damit dieser den Vortheil gewann, daß ich weniger Honorar forderte</tei:hi>
         <tei:seg>! Lieber Leser, wie viel Selbstbeherrschung muß ein Schriftsteller über sich gewinnen, um solcher, nur das Böswilligste voraussetzenden Schmähsucht gegenüber nichts zu thun, als zu sagen: Legt’s zum Uebrigen! Aus dem Duellanbieten (wozu ich in ähnlichen Fällen zweimal in der That gegriffen habe), aus dem Gegen-Erklären, dem Berichtigen, Herumzanken in den Zeitungen käme ein solcher „Bestverleumdeter“ nicht mehr heraus.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="38"/>
         <tei:seg> III.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die Zeit brach an, wo dem „Jungen Deutschland“ die Tonangabe in der Kritik (denn diese besaß es) entwunden wurde. Es geschah dies durch die Stiftung der „Hallischen Jahrbücher“. Das Kurze, Desultorische, Subjective und Willkürliche hörte jetzt auf. Lange Abhandlungen, die vom Ei anfingen, aber ebenso subjectiv, ebenso willkürlich waren, traten an seine Stelle. Die junghegel’sche Arbeit hat reiche Früchte getragen, vorzugsweise für die Universitäten, die akademische Jugend und die Lehrer. Daß dabei Männer wie R. E. Prutz ihren eigenen Ursprung, die Schule ihrer Bildung verleugneten und die Kritiker, die bisher im Vordergrunde standen, mit den herbsten Ausdrücken der Geringschätzung verfolgten, lag in der Eigenheit jeder neuen Epoche, zumal in Deutschland; die Kinder tödten durch ihre Geburt die Mutter. Schon hatten auch die einzelnen Mitglieder jenes Bundes, der nie bestand, des „Jungen Deutschland“, neue Phasen ihrer Entwicklung angetreten. Heinrich Heine kehrte von seinen so mißlichen prosaischen Ausflügen auf deutsche Literatur und Philosophie zum politischen Tagesvers zurück; Heinrich Laube folgte meinem Vorausgang und wandte sich mit glücklichstem Erfolg der Bühne zu; Gustav Kühne, derselbe, der von seinen Gesinnungsgenossen sagte: „Sie wollten nicht blos leben, sondern auch gut leben“, hatte das richtige Theil ergriffen, er heirathete eine junge Dame, die ihm ein Erbgut von 80,000 Thalern mitbrachte; Theodor Mundt kam durch Louise Mühlbach in eine neues Stadium seiner gewandten, leider nie recht unmittelbaren und deshalb reizlos gebliebenen Feder; Ludolf Wienbarg konnte schon seit lange für verschollen gelten, denn er war hinter den schönen Hoffnungen, die sein erstes Auftreten hatte wecken dürfen, weit zurückgeblieben. Als der Bedauernswerthe vor einigen Jahren starb, forderten mich vier unserer ersten Zeitungen auf, ihm einen Nachruf zu schreiben. </tei:seg>
         <tei:pb n="39"/>
         <tei:seg> Allen stand das Bild vor Augen, das einst grade von ihm der Mann der „Männer der Zeit“ entworfen. „Am Strande der Nordsee steht reckenhaft Ludolf Wienbarg mit im Sturm flatternder Locke, Möven umkreisen ihn u. s. w.“ So oder ähnlich war seine Erscheinung stereotypirt. Jahre lang hieß es zu meinem Nachtheil: „Wie anders dagegen Ludolf Wienbarg –!“ Nun wohl! Ich mußte die Aufforderung ablehnen. Was mir bei dem Dahingegangenen Undankbarkeit an persönlichem Leid zugefügt hatte, das konnte in dem Nekrolog verschwiegen bleiben, aber nicht der traurige Verfall im Streben und Leisten, ein geistiger Schwund, der ganz Hamburg zum Zeugen hatte. Gesagt mußte doch werden, ob Immermann bei gesunder Vernunft gewesen, als er in seinem von Putlitz veröffentlichten Tagebuch über die Wienbargschen Augen gesagt, „sie müßten viel geweint haben!“ Geweint –! Die Kenner der betreffenden Augen werden mit Mühe die Bemerkung unterdrücken, daß hier wohl eine Abbreviatur in Immermanns Tagebuchnotizen nicht richtig gelesen worden ist. Hamburger Erinnerung sieht den Nordlandsrecken, für welchen die Freunde einst die Subscription für sechs Vorlesungen zu Stande gebracht hatten, im Kreise von 10 oder 12 Zuhörern auf dem Hamburger Lloyd, eintretend statt um 12 um halb 1, mit allen Zeichen bedeutungsvoller Erinnerung an seine Kieler Docentenschaft sich räuspernd, ein Glas Zuckerwasser nehmend, ein Manuscript entfaltend, dasselbe langsam ablesend und sich nach – 15 Minuten schon wieder mit den Blättern, die plötzliche Leere zeigten, entfernend! Vom Thurm der Katharinenkirche hatte es eben erst ¾ geschlagen. Ludmilla Assings treues Gedächtniß wird die Richtigkeit dieser Scene, der sie beiwohnte, bestätigen. Näherte man sich dann aber dem Nordlandsrecken, so schlug er seine oben geschilderten Augen auf, sprach mit lispelnder Stimme einzelne bedeutungsvolle Worte und wollte uns glauben machen, daß er der Mittelpunkt der deutschen Literatur des Tages sei. Später gab ihm noch die Sache seines engern Vaterlandes, Schleswig-Holstein, einigen Aufschwung, doch verlief sich auch dieser, wie die Kenner nur zu gut wissen, anders, als in den „Männern der Zeit“ zu lesen sein wird. Nur um zu zeigen, daß ich trotz der Empfindungen, deren ganzen Unmuth über die stereotype Willkürlichkeit in den Urtheilen und Parallelen des Literaturgeschichtsgeschwätzes ich zurückdränge, doch für etwas Poetisches auch in diesem mir von der löblichen Collegenschaft Vorgezogenen nicht blind gewesen, erwähne ich, daß ich ein Dritttheil des Stoffes, aus welchem ich später meinen „Klingsohr“ im „Zauberer von Rom“ formte, von eben jenem Wienbarg entlehnt habe. Die Herkunft der beiden andern Drittel, nicht minder typisch für eine gewisse norddeutsche Richtung, bezeichne ich gelegentlich.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Das Allgemeine der Zeit, die Signatur der neuen Ideen hatte sich trotz der geschilderten journalistischen Thätigkeit in dem inzwischen männlicher Gewordenen und leider zu früh in die Oeffentlichkeit Gedrängten allmählich als ein einiges Ganzes ausgebildet. Stütze und Halt fand er schon lange nur in sich selbst. Daß sich eine Anzahl junger Männer, auch Frauen aus den Kreisen der immer mehr sich entwickelnden weiblichen Literatur, um die von mir gehaltene Fahne schaarte, vielversprechende Namen, Dingelstedt, Herwegh, Uffo Horn; daß fast die ganze jüngere Literatur, wenn sie nicht zur Richtung der schwäbischen Lyrik gehörte, sich mit mir in Verbindung setzte, durfte mir Schadloshaltung erscheinen für den Mangel an Ermuthigung bei den Männern einer ältern Periode, Rehfues ausgenommen. Aber nicht Belletristen allein waren es, die meine „Coterie“, meine „Handlanger“ genannt wurden (viele dieser Treuen deckt schon das Grab); auch fachwissenschaftliche Namen, Männer wie Detmold, Oppermann, jener zu früh gestorbene geistvolle Mediciner Siebert in Würzburg und viele andere schlossen jene Freundschaft mit mir, die jedem vertrauensvollen Worte freudig Gehör gibt und Gefälligkeit zu üben für gebotene Pflicht hält. Aber doch fühlte ich mehr und mehr, daß die Fortsetzung des großen neuzeitlichen Kampfes andere Waffen erforderte, als ich zu führen verstand. Die politischen Aufgaben erforderten immer mehr das reichere specielle Wissen des Rechtskundigen. Die Ausbeute, die mir ein einjähriger juristischer Cursus in Heidelberg und München gegeben hatte, war nur der Anfang einer Specialität, die selbst durch das Studium der Schriften eines Zachariae, Weitzel, Say, Adam Smith, Mac Culloch, Klüber nicht gleichen Schritt halten konnte mit der immer mehr sich erweiternden Breschelegung in den damaligen Staat. Wurden doch auch die Principien der ebengenannten Namen schon wieder durch die Umwälzungsmethode, die in dem Journal der strebenden Privatdocenten, den „Hallischen Jahrbüchern“, gepflegt wurde, wieder über den Haufen geworfen. Die andere Incompetenz fühlte ich auf dem speculativ-philosophischen Gebiete. Obschon ein Schüler Hegels, hatte mir doch von je das abstracte Formeldenken widerstrebt. Die Leichtigkeit des Umspringens mit den logischen Kategorieen, wie sie damals von den „Hallischen Jahrbüchern“ geübt wurde und wiederun jetzt von den jungen Adepten des Pessimismus geübt wird, erregte mir wohl staunende Bewunderung; doch konnte ich selbst nur denken mit concreten Unterlagen, in der Weise wie die Engländer, Lessing, Herder philosophirten. Den damals zu enthusiastischer Empfehlung gelangten, jetzt bereits wieder vergessenen Ludwig Feuerbach fing ich zu lesen an, gestehe aber, daß mir der Satz: Der Mensch ist das Maß aller Dinge! nicht sicher zu sein schien vor der Klippe, in’s Triviale zu gerathen. Bei alledem mich bescheidend und den feurigen Zungen, die jetzt die neuen Botschaften verkündeten, nicht widersprechend, pflegte ich meine Lust am Einzelnen, meinen alten Sinn für künstlerische Abrundung und Einheitlichkeit. Allerdings konnte mir der damals immer mehr aufkommende Formenschiller in unserer „Goldschnittlyrik“, die jetzt so vergessen und vergilbt die Buchläden hütet, nur ein Uebermaß dessen erscheinen, worauf es in der Literatur zumeist anzukommen schien. Die ästhetische Formengebung beschäftigte mich indessen nicht wenig, ja in solchem Grade, daß ich die Lust und selbst das Vermögen zu eigener Production verloren haben würde, umsomehr, als jene Lyrik, so edle Blüthen sie trieb, die Entwicklung einer wahren Nationalliteratur mehr zu hemmen, als zu fördern anfing und die Wegbahnerin des Manierirten und der kleinen Detail-Tiftelei wurde, wenn mir nicht die Bühne, die mir in Hamburg in ihrer ganzen unmittelbaren Wirkung auf die Gemüther entgegentrat, ein Heilmittel geworden wäre für meist trübe und entsagende Stimmungen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wenn vom Schein der Esse umglüht, der Schmied am Feuer steht und in die vom angezogenen Ventilator angefachte und immer neu verstärkte Gluth so lange das Eisen hineinhält, bis es in den rechten Grad des Schweißens gelangt, hurtig das halbflüssige Metall dann auf den Anboß trägt und mit nerviger Faust darauf den wuchtigen Hammer fallen läßt, so erinnert sich das Kinderauge mit Wonne, wie sich ein Lauschen an der Schmiede durch den prächtigen Anblick der ringsum sprühenden Funken belohnt. Solche Funken sprüht der poetische junge Genius, wenn er das Drama als erste Offenbarung seines Schaffens wählt. So Schiller in den Räubern und Fiesko; so Goethe im Götz. Der ganze Mensch, im Bedürfniß sich zum Erstenmale auszusprechen, gibt sich in diesen Dramen kund, in solchen Erstlingen der dichterischen Jugendkraft. Kleist, Immermann, Grabbe haben uns nicht in vollem Glanz dies titanische Schauspiel hinterlassen. Der erste nicht, weil ihm das Sonderthümliche seiner Stoffe sofort das Gesetz der Beschränkung, sozusagen der Zuspitzung zum Epigramm auferlegte; der zweite nicht, weil er kalt und ironisch von Hause aus war; der dritte nicht, weil er der Welt aus dem Urgrund seines Innern nichts besonders Edles, Tiefes oder Hochgemuthes zu sagen wußte. Grabbe hat nur die Grimasse der Genialität zu zeigen verstanden.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Den Reiz dieser schriftstellerischen Jungfräulichkeit konnten die Dramen eines Autors nicht haben, der seinen Menschen, sein Ich schon zehn Jahre lang, in Poesie und Prosa, aus-</tei:seg>
         <tei:pb n="40"/>
         <tei:seg>gesprochen hatte. Diese Funken des Weltenstürmers, diese bestrickenden Zauber einer genialen Unreife, die immer und immer mit fesselnden Wendungen vom Stoffe abzuirren droht und sich doch wieder durch den angeborenen Künstlersinn zu ihm zurückfindet, sie fehlten meinen Dramen. Das erste „König Saul“ gehörte noch ganz den Einflüssen des Zeitalters der Ironie und Satire an, wie man wohl am besten die Zeit der Tieck’schen Suprematie bezeichnen würde. Diese Zeit hat im Wesentlichen bis 1840 gedauert. Saul kämpfte mit den Philistern. Philistern! Da kann der Tieckianer nicht widerstehen, zwei Fürsten „Flach“ und „Oberflach“ einzuführen, wie nur in Tiecks ernsten Dramen das Pathos des nicht einmal recht ernst gemeinten Ernstes allzuschnell aus der Rolle zu fallen pflegt. Das zweite Drama „Richard Savage“ machte schon glücklicher seinen Weg. Es führte mich in die Bretterwelt ein, die Bretterwelt vor und hinter den Lampen, vor und hinter den Coulissen. Doch erst mit dem dritten Versuch „Werner oder Herz und Welt“ gewann ich mir die nachhaltige Gunst des Publicums. Hier hatte ich den Stoff aus mir selbst entlehnt, aus meinem eigenen Leben. Es war nicht das von Gustav Schlesier gemeinte „Herzblut“, nicht die Heinrich Heine’sche Actualität, was ich wiedergab; es war etwas Besseres; die erste meiner Arbeiten, die mich in eine vertrauliche Beziehung zum Begriff „Publicum“ brachte und mir diesen Begriff minder verächtlich erscheinen ließ. Raffinirt war bei dieser Erfahrung nichts. Es war ein Zufall, daß ich, der ich nie an die Leserinnen der Leihbibliothek, nie an die Voraussetzungen der gespannt sein wollenden Blasirtheit gedacht hatte, zu dem genialen Schauspieler Jean Baptiste Baison in Hamburg sagte: „Kürzlich war ich in Berlin. Ich besuchte den Vater eines Mädchens, das ich vor Jahren leidenschaftlich liebte! Ich wurde gütig von ihm aufgenommen. Die Angebetete, die zu meiner Beglückung nichts hatte wagen wollen, sich nicht hatte entschließen können, sich für mich zu bekennen, hat dennoch alle Bewerbungen, die sie reichlich empfing, abgelehnt. Ich gestehe Ihnen bei aller Achtung vor meiner Gattin, daß ich vor dem Vater der ehemaligen Geliebten, einer edlen idealen Mannesnatur, mit Erschütterung stand, ja daß ich noch jetzt zuweilen über dies Verfehlthaben eines Zuges meines Herzens vor Schmerz und Wehmuth“ – Doch ich will nicht fortfahren in einem Tone, der vielleicht nur posthume Berechtigung hat. Ich verweise auf jenes Schauspiel, das ich auf’s eifrigste Zureden des mir Freund Gewordenen in wenigen Tagen schrieb. Die rigoristische Tugendkritik unsrer Zeit hat dies Drama, wie so viele andere meiner Charaktere und Erfindungen, vom Standpunkt der neueingeführten poetischen Criminalgerichtsbarkeit, einem der schwächsten, elendesten ästhetischen Standpunkte, die es nur geben kann (muß er nicht z. B. aus dem Vicar of Wakefield eine einzige Erbärmlichkeit machen?), verworfen und damit die Nerven, die Stricken gleichen, als maßgebend für die Literatur des 19. Jahrhunderts bezeichnet, nicht die empfindsamen oder „kranken“. Aber das Erzeugniß Eurer „Molluskenseele“ zündete in Hamburg in solchem Grade, daß es eine Reihe von gefüllten Vorstellungen rasch hinter einander erlebte. Bei der fünften oder sechsten begegnete mir im gedrängtvollen Parterre Friedrich Hebbel, der eben bei der Direction seine „Judith“ eingereicht hatte. Auch er hat es der obenbezeichneten Hausbackenheit nie recht machen können. Aber leider stand Hebbel damals auf dem Gipfel der Verblendung über seinen Beruf. Mit Orsina zu reden, möcht’ ich’s bezeichnen: „In einem Tone – in einem Tone –“ der auch nur Friedrich Hebbel eigen gewesen, wenn er von der Cheops-Pyramide seines Selbstbewußtseins herab verachtend und doch die Höflichkeit fast wie „Elias Krumm“ nicht aus den Augen verlierend, sprechen wollte, warf er mir </tei:seg>
         <tei:foreign>en passant</tei:foreign>
         <tei:seg> ein langgezogenes „Guten Abend!“ entgegen. Nach dem dritten Act war es, wo die Darstellerin der Julie soeben dreimal gerufen worden war, dieselbe Christine Enghaus, die später seine Gattin werden sollte und bei hereinbrechender Beeinträchtigung ihrer Stellung am Burgtheater sich Jahre lang mit dieser so frisch von ihr erfaßten Rolle wieder in ihrem Werth geltend zu machen wußte und dann gewiß zur Freude des Mannes, dem schon 1839 eine blinde Vergötterung einiger Menschen in Hamburg vorgeredet hatte, er allein sei der Messias des deutschen Theaters und der denn auch damals für mich nichts hatte, als sein hämisches „Guten Abend!“, das mir durch die Seele schnitt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Man legt wohl einen Stein auf eine leichte, mit Wiesenblumen gefüllte Schale. Die Blumen soll der Stein festhalten, soll die in ein wenig Wasser getauchten Vergißmeinnicht glauben lassen, daß sie noch am Bachesrande stünden und fortfahren könnten zu träumen wie gewohnt. Aber das Schicksal wirft uns oft auch in den Frühling unserer Entwicklung Steine hinein, um diesen zu hemmen. Dann müssen die nicht erdrückten Keime sich mühsam unter ihnen hindurch winden. Oft heben sie ihre Köpfchen erst wieder nach langem Ringen und Prüfen, ob sie auch in ihrer Wurzel ungebrochen geblieben sind. In Hamburg schuf mir mein endlich gekommenes Glück, der Erfolg Richard Savages und Werners, eine wahre Meute von Widersachern und hinterrücks mich Schmähenden. Das Stadttheater, ausgezeichnet geleitet von F. L. Schmidt, einem Zögling der alten Schule, sollte durchaus Jedem gehören, wenn er auch nur eine Uebersetzung zu Stande gebracht hatte. Und einige Leute lebten in Hamburg ganz nur von einem fabrikartig betriebenen Uebersetzen. Andere, wie Toepfer, der sich den Schein eines Originaldichters gegeben hatte, der er in den seltensten Fällen war, sahen nicht minder mißmuthig auf jede neue Concurrenz. Alle hatten sie die Presse, ja die Stimmung im Theater selbst, im Parterre, in den Corridoren, den Büffets in der Hand. Ein Nicolaus Bärmann, der nie etwas Eigenes, außer plattdeutschem Gequatsch, zu Stande gebracht hatte, aber doch immer etwas betrieb, was die Repertoire des Theaters in Anspruch nehmen sollte, war der Erfinder jener Kritiken, die man im Jargon des Theaterlebens „kuhwarme“ zu nennen pflegt. Hatte er der Vorstellung neuer Stücke kaum bis zum Schlusse beigewohnt, so eilte er abends halb elf in die Druckerei des gelesensten Hamburger Blattes, der „Nachrichten“, und ließ die Leser der über Nacht gedruckten Nummer schon am frühen Morgen erfahren, ob die Novität von gestern Abend gut oder schlecht gewesen, gut oder schlecht aufgenommen wurde. Wie mußte mich dieser Mann, der sich bei diesen Referaten selten an die Wahrheit hielt, hassen, als ich ein unter seinem Namen gegebenes Drama „Frauenehre“, worin wiederum Christine Enghaus mit fortreißender Kraft und Natürlichkeit gespielt hatte, ein Drama, das er als „nach dem Spanischen des Don Mendez Truxillo“ von ihm selbständig geschaffen angekündigt hatte, für eine wörtliche Uebersetzung eines Stückes erklärte, das ich mir hatte aus Paris kommen lassen, der Marie Padille des französischen Akademikers Ancelot. Diese ganze Hamburger Gesellschaft fing an, mir die neue Tragödie „Judith“ zum Stein zu machen, über den ich fallen sollte. Friedrich Hebbel genoß die Protection eines Kreises von Gönnern, den in edelster Absicht die Schriftstellerin Amalie Schoppe für ihn zusammengebracht hatte. Der junge Gerichtsschreiber von Wesselburen sollte die Mittel gewinnen, noch nachträglich zu studiren. Eben von München gekommen, brachte er das Bewußtsein mit, daß er die Erwartungen, die man auf einen großen Genius, eben auf den Messias der Bühne, setzte, zu erfüllen im Stande war. Der Anblick der Judith von Horace Vernet hatte ihm sein bekanntes, knapp epigrammatisch gehaltenes, all jener obenbezeichneten Funken des ersten Schlags auf schweißendes Eisen entbehrendes Drama abgewonnen. Oder die sprühenden Funken müßten dann in der Großsprecherei des Holofernes gelegen haben. Töpfer, taub und gewohnt, so nachdrücklich zu sprechen, als wenn alle Welt taub wäre, raunte mir zuerst wie mit Fracturschrift ins Ohr: „Das gibt den neuen Shakespeare!“ Nun gut! Da hatte ich den Stoß, ertrug ihn jedoch ruhig. Ein Messias der deutschen Bühne hieß ja auch ich in auswärtigen Kritiken. Ich hatte die </tei:seg>
         <tei:hi style="letter-sparse">Sprache der Neuzeit</tei:hi>
         <tei:seg>, das war mein unbestreitbarer Ruhm, die </tei:seg>
@@ -395,10 +394,10 @@
         <tei:foreign>horribile dictu</tei:foreign>
         <tei:seg>! – in eine „Magellone“ umgedichtet hatte, das heißt, wie einen verbotenen Operntext verändert und dann noch die Magellonenfabel dem Burgtheaterpublicum zu Liebe mehrmals umgeworfen, sagte er mir beim Spazierenschlendern am Stephansplatz: „Lieber Freund, ich bin von manchen Dingen zurückgekommen! Ich rede mit den Menschen menschlich und gestehe alles zu, was man nur will! Nur Geld! Nur Geld! Das Uebrige ist mir gleichgültig!“ Das Uebrige war ihm natürlich keineswegs gleichgültig und die Devise „Geld! Nur Geld!“ galt ihm wie uns allen nur für gewisse Augenblicke. Aber die Wandlungsfähigkeit selbst des Titanen, die Accommodation selbst des gebornen Michel Angelo war doch constatirt und jedenfalls hatte ich eine Genugthuung für jenes verurtheilende „Guten Abend!“, das ich nicht etwa dem Mangel an Gemüth (Hebbel hätte Ursache haben können, mir damals mehr als höflich, sogar dankbar zu sein), nicht der eigenen Ueberschätzung zuschreibe, sondern lediglich dem Verranntsein in jene Principien, die auch Otto Ludwig ruinirt haben und dem Messiaswahn, der leider im Publicum und unter den jungen Nachwuchsköpfen nicht aussterben will, immer wieder neue Opfer bringen wird. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Nathan der Weise klagt bei Lessing, daß doch der Mensch durch seinen eigenen Mund so oft das Zeugniß seines wahren Werthes sich nicht zu geben wisse! Dieser elegische Gedanke, von Hebbel, den ich in diesem Fall dem Tempelherrn verglichen haben möchte, auf mich angewendet, sollte mir anrathen, für heute in meinen Rückblicken aufzuhören. Sind sie doch, obschon nur summarisch gefaßt, schon längst über den, den Selbstbiographieen der „Gegenwart“ zugemessenen Raum hinausgewachsen. Seien sie denn vorläufig geschlossen mit dem Bekenntniß, daß die Rivalität bildend und erziehend gewirkt hat und daß auch ich in meiner anspruchsloseren, von Großprahlern geringgeschätzten, vom Halloh! der theatralischen Tageskritik umlärmten Arbeitswerkstatt immer mehr auf Vertiefung bedacht zu werden lernte, ohne darum in jene Selbstquälerei zu verfallen, die vor einem ewigen Wühlen und Grübeln nach Gedankentiefe, nach dem theoretisch Gesetzmäßigen, praktisch nicht zur Ausführung gelangen kann. Diejenigen Kritiker und Literarhistoriker, die einen Dichter, der wie ich gewohnt gewesen, überall sein Gemüth einzusetzen, zu Gunsten einer nägelkauenden Impotenz, die sich mit hochtönenden Tagebuchsphrasen über ihr mäßiges Schaffen hinwegzulügen sucht, verkleinern und dem Publicum zu verleiden suchen, versündigen sich am Genius der Poesie, wenigstens dem der dramatischen gewiß. Denn die dramatische Muse wird nie wissen, was ihr die von Gedankenblässe und Theorieensucht angekränkelten dramatischen Hamlets nützen sollen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Vielleicht nehme ich die Fortsetzung dieser Bekenntnisse: die Entwicklung des gereifteren Autors, demnächst wieder auf.</tei:seg>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
@@ -525,13 +524,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-12">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,23-24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">der badische und Reichstagsdeputirte „Waldfried“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Gemeint ist Berthold Auerbachs (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/auerba.html">Lexikon</tei:ref>
           <tei:seg>) Ich-Roman „Waldfried. Eine vaterländische Familiengeschichte in sechs Büchern“ (3 Bde. Stuttgart: Cotta, 1874). In dem Roman wird u. a. die liberale Einheits- und Freiheitsbewegung der letzten Jahrzehnte dargestellt und auf aktuelle Vorgänge (Krieg gegen Frankreich, Annexion Elsass-Lothringens, Reichseinheit) Bezug genommen. Waldfried, der 1848/49 schon in der Paulskirche gesessen hatte, wird zum Schluss Mitglied des Deutschen Reichstages. Am 12. Juli 1874 schrieb Auerbach an seinen „Freund“ (Neffen) Jakob Auerbach über Gutzkows Angriff: „Apropos! Hast du gelesen, wie Gutzkow mich in der letzten Nummer der ‚Gegenwart‘ anrempelt? Er war immer so. Als er noch seine Trompeter in den Zeitungen blasen ließ, war’s ihm nie genug gelobt zu werden, ich mußte daneben meinen Treff haben. O, wie recht hatte ich, daß ich mich in Berlin absolut fern von ihm hielt. Ich konnte ihm die Wahrheit nicht sagen, ohne ihn zu kränken, und heucheln oder auch nur verschweigen darf und kann ich nicht. Es war trotz alledem und ist noch ein Wahrheitsstreben in Gutzkow, aber ihm fehlt die Liebe.“ (Berthold Auerbach: Briefe an seinen Freund Jakob Auerbach. Ein biographisches Denkmal. Frankfurt/M.: Literarische Anstalt, 1884, Bd. 2, S. 213.) Ungefähr ein Jahr später, am 8. Mai 1875, bezieht sich Gutzkow in einem Brief an einen Rezensenten noch einmal auf seine Äußerungen über Auerbach in den Rückblicken: </tei:seg>
@@ -555,10 +554,7 @@
           <tei:citedRange type="page-line-ref">2,8-9</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>„das Leben </tei:seg>
-            <tei:hi style="letter-sparse">ist</tei:hi>
-            <tei:seg> ein Traum!“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -607,17 +603,14 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-14">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Gustav Kühnes „</tei:seg>
-            <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
-            <tei:seg>“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Männer der Zeit. Biographisches Lexikon der Gegenwart. Mit Supplement: Frauen der Zeit. Leipzig: Lorck, 1862. Der Artikel über Gutzkow: Sp. 429-432.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -626,10 +619,7 @@
           <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Gustav Kühnes „</tei:seg>
-            <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
-            <tei:seg>“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -666,30 +656,27 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-22">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">3,13-14</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>„</tei:seg>
-            <tei:hi style="letter-sparse">Das junge Deutschland wollte nicht blos lebe</tei:hi>
-            <tei:seg>n“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Gustav Kühne (1806-1888; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kuehne.html">Lexikon</tei:ref>
           <tei:seg>) folgte im September 1846 August Lewald als Herausgeber der Zeitschrift „Europa. Chronik der gebildeten Welt“. In der Vorrede erklärt Kühne, der Zeitschrift künftig ein stärker literarisches Gepräge geben zu wollen, nachdem bisher die politischen und religiösen Auseinandersetzungen dominierten. In der Folgezeit beobachtet man ein wiederholtes Pendeln der Zielsetzungen zwischen literarischen und politischen Ansprüchen. Insgesamt zeichnet sich jedoch unter Kühnes Redaktion eine Tendenz zur literarischen Ausrichtung hin ab. Im Februar 1859 übergibt Kühne die Redaktion an Karl B. Lorck (vgl. Kurt Haß: Gustav Kühne als Herausgeber der „Europa“. Wiesbaden: Humanitas Verl., 1973, S. 14ff.). – Das betreffende Zitat findet sich in dem Artikel über Gutzkow in den „Männern der Zeit“ nicht. Hingegen hatte Kühne in Nr. 7, 1859 der „Europa“ in dem Beitrag „Vier Männer des weiland ‚jungen Deutschlands‘„ in dem Abschnitt über Gutzkow geschrieben: „[...] das junge Deutschland, mit Gewalt zur berühmten und berüchtigten Person geworden, mußte und wollte auch glänzend leben und füllte den deutschen Büchermarkt mit einem Geschäftseifer, als gälte es damit das Vaterland zu retten“ (S. 247). In Nr. 11 des Jahrgangs 1859 druckte Lorck als neuer Redakteur folgende Entschuldigung Kühnes: „In Betreff des in Nr. 7 der Europa befindlichen biographischen Artikels über Herrn Dr. Karl Gutzkow erhalte ich aus zuverlässiger Quelle folgende thatsächliche Berichtigungen zum Abdruck. Ich erkläre zugleich, daß bei der gedrängten Kürze der Artikel eine Färbung erhielt, die ich nicht beabsichtigte, und die zu Mißverständnissen in Bezug auf des Geschilderten Charakter führte, die ich nicht bezweckte. F. G. Kühne.“ (S. 399)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-23">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">3,18-19</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">in der Allgemeinen Zeitung sogar Berthold Auerbach</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>In der (Augsburger) „Allgemeinen Zeitung“ erschien im April/Mai 1874 eine Artikelserie von Julian Schmidt über Auerbachs Werk und seine literarische Entwicklung (wieder abgedruckt in Julian Schmidt: Characterbilder aus der zeitgenössischen Literatur. Leipzig: Duncker u. Humblot, 1875, S. 37-149 (= zit. Text). Schmidt machte nur allgemeine Andeutungen über Auerbachs mögliche Zugehörigkeit zum Jungen Deutschland. Über die frühe literarische Entwicklung Auerbachs verlautet: „Diese Periode wird als die jungdeutsche bezeichnet. Man gebraucht in der Regel den Ausdruck nur von einer bestimmten Schule, in der That paßt er auf die ganze Zeit.“ (S. 45) Nach kurzen Bemerkungen über David Friedrich Strauß und Arnold Ruge heißt es: „in solcher Gemüthstimmung wuchs Auerbach auf“ (S. 46). Am 12. Mai 1874 äußert sich Auerbach seinem „Freund“ Jakob Auerbach gegenüber zu dem Artikel von Julian Schmidt, der Auerbach und sein Werk sehr schätzte: „Ich denke Du liesest die Studie, die Julian Schmidt in der Allgemeinen Zeitung (bis jetzt sechs Artikel) über mich [veröffentlicht]. Ich besuche ihn nicht, bis ich die ganze Arbeit kenne, und nach der Anlage werden es wohl noch weitere sechs Artikel. Wenn ich mich so betrachtet sehe, denke ich oft an die Holländerin, die mir im vorigen Sommer in Gernsbach sagte: ‚Was? Sie leben noch? Ich glaubte, Sie wären schon längst todt.‘ Ich stehe der Darlegung Julian Schmidts oft ganz verwundert gegenüber. Also das bin ich und so abgethan? Ich bin oft erstaunt von der stricten Consequenz, die er in meinem Schaffen und Reflectiren aufzeigt, ich habe mich nie so gesehen; ich lese namentlich, was ich theoretisch gesagt habe, oft als ein ganz Neues, und wenn ich auch manchen seiner Ausführungen widersprechen muß, besonders wo er vom Einflusse Jean Pauls etc. spricht, wer kann sagen, ob nicht ein Anderer freier und klarer sieht als man selber vermag?“ (Berthold Auerbach: Briefe an seinen Freund Jakob Auerbach. Ein biographisches Denkmal. Frankfurt/M.: Literarische Anstalt, 1884, Bd. 2, S. 210.)</tei:seg>
         </tei:p>
       </tei:interp>
@@ -727,13 +714,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-28">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">3,28</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die preußischen Verbote meiner Bücher</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Am 10. Dezember 1835 verfügte der Deutsche Bundestag in Frankfurt, veranlasst durch die Denunziation Gutzkows durch Wolfgang Menzel, wegen der ‚Unsittlichkeiten‘ in Gutzkows Roman </tei:seg>
           <tei:q>Wally, die Zweiflerin</tei:q>
           <tei:seg> (1835) ein allgemeines Verbot der Schriften des sog. Jungen Deutschland (→ </tei:seg>
@@ -766,13 +753,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-31">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">4,4</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Uebersetzung aus dem Englischen des Bulwer</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere. Aus dem Englischen des E. L. Bulwer. Bd. 1-2. Stuttgart: Verlag der Classiker, 1837 (Rasch 2.14). Die Ausführungen (3,32-4,14) stellen einen interessanten Hinweis auf die schwierige Arbeitssituation sowie die Arbeitsweise Gutzkows in diesen Jahren dar und erläutern die Entstehungsweise der Zeitgenossen. (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/die-zeitgenossen/erster-band.html">Zeitgenossen</tei:ref>
           <tei:seg>, Entstehungsgeschichte)</tei:seg>
@@ -801,13 +788,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-34">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">4,14</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Beiblatt „Telegraph“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Drei- bzw. viermal wöchentlich erscheinende, von Wilhelm Speyer (bis Nr. 12. Januar 1837) und Eduard Beurmann (ab Nr. 13) herausgegebene Zeitschrift, bei der Gutzkow wiederum der ‚eigentliche‘ Redakteur war (Rasch 5.6). Ab 1841 trug die Zeitschrift den Namen „Telegraph für Deutschland“. (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/teledeu.html">Lexikon</tei:ref>
           <tei:seg>) Gutzkow durfte erst 1841 (bis Dezember 1843) als Redakteur öffentlich genannt werden (Rasch 5.7).</tei:seg>
@@ -818,9 +805,7 @@
           <tei:citedRange type="page-line-ref">4,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Buchhändler </tei:seg>
-            <tei:hi style="letter-sparse">Streng</tei:hi>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -909,26 +894,26 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-41">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">5,29-30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Burschenschaftsschwärmereien</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/bursch.html">Lexikon</tei:ref>
           <tei:seg>: Burschenschaft. – Mit dem Zusatz -schwärmereien will Gutzkow das Unrealistische dieser Bewegung treffen, die politisch unwirksam und in ihren Methoden verfehlt war. Gutzkow grenzt hier die Bestrebungen der Burschenschaften von den Absichten und Zielen der Julirevolution 1830 ab (vgl. Proelß, Das junge Deutschland, S. 244-246).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-42">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">5,30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Juni- und Julitagen des denkwürdigen Jahres 1830</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die Julirevolution → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/julirev.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -983,13 +968,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-47">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,4</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Fürst Polignac</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Jules Armand Marie (erst Graf, dann) Fürst von Polignac (1780-1847; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/poligna.html">Lexikon</tei:ref>
           <tei:seg>); als Leiter des Auswärtigen und des neuen Kabinetts betrieb und unterzeichnete er die „Ordonnanzen“ vom 25. Juli 1830, die die Julirevolution auslösten. Polignac wurde im Dezember 1830 von dem neuen Regime zu ewigem Gefängnis und bürgerlichem Tod verurteilt, kam 1836 durch Amnestie wieder frei und lebte anschließend im Exil in England.</tei:seg>
@@ -1007,17 +992,14 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-49">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,11</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Kotzebue’schen „</tei:seg>
-            <tei:foreign>Vielouissêer</tei:foreign>
-            <tei:seg>“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>August von Kotzebue: Der Vielwisser. Lustspiel in fünf Aufzügen. Leipzig: Kummer, 1817. – Kotzebue (1761-1819; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kotzebu.html">Lexikon</tei:ref>
           <tei:seg>) war neben August Wilhelm Iffland einer der erfolgreichsten Bühnenautoren seiner Zeit. Er verfasste etwa 200 Melodramen und Lustspiele, hinter denen seine Erzählungen und Geschichtsstudien zurücktreten. – Neben seiner Tätigkeit als Literat spielte Kotzebue auch in der Politik seiner Zeit eine Rolle. Seit 1780 war er Advokat am Hof von Weimar. Anschließend trat er in den russischen Staatsdienst ein (1781-1790) und lebte zwischen 1797 und 1799 als Bühnenautor in Wien. Nachdem er nach Russland zurückgekehrt war, musste Kotzebue 1800 aufgrund eines seiner Dramen kurzzeitig nach Sibirien in die Verbannung, wurde jedoch später rehabilitiert und zum Leiter des Deutschen Theaters in Petersburg ernannt. 1813 kehrte er als Generalkonsul ins preußische Königsberg zurück. Ab 1816 wieder in Petersburg, bereiste Kotzebue 1817 im Dienst Zar Alexanders I. Deutschland. Seine 1818 von ihm selbst gegründeten „Literarischen Wochenblatt“ geäußerten reaktionären Vorbehalte gegen die deutschen Burschenschafter sowie seine politischen Aktivitäten führten 1819 in Mannheim zu seiner Ermordung durch den Burschenschafter Karl Ludwig Sand.</tei:seg>
@@ -1046,13 +1028,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-52">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,17</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Thiers</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Adolphe Thiers (1797-1873; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/thiers.html">Lexikon</tei:ref>
           <tei:seg>), frz. Politiker und Historiker, unter Louis Philippe 1836 und 1840 Ministerpräsident und Außenminister. Als gemäßigter Republikaner bekämpfte er später das Kaiserreich Napoleons III.; seit 1871 Präsident der Dritten Republik, 1873 zurückgetreten. (→ Erläuterung zu 6,3-4.)</tei:seg>
@@ -1081,13 +1063,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-55">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Ordonnanzen</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die von Karl X. (1824-1830) am 25. Juli 1830 erlassenen sog. Juliordonnanzen waren der Auslöser der Revolution von 1830 (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/julirev.html">Lexikon</tei:ref>
           <tei:seg>: Julirevolution). Sie bezogen sich 1. auf die Wiederherstellung der Zensur, 2. auf die Auflösung der Abgeordnetenkammer und 3. auf die Bekanntmachung einer neuen Wahlordnung, die die bisherigen Rechte wesentlich einschränkte.</tei:seg>
@@ -1105,13 +1087,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-57">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Louis Philippe</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Louis Philippe (1773-1850; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/louisph.html">Lexikon</tei:ref>
           <tei:seg>), Sohn des Herzogs Philipp von Orleans, wurde 1793 nach der Hinrichtung des Vaters Herzog von Orleans. Während der Restauration sympathisierte er mit der liberalen Opposition und wurde nach der Julirevolution durch Kammerbeschluss vom 7. August 1830 zum König der Franzosen („Bürgerkönig“) gemacht. Er regierte, gestützt auf das liberale Großbürgertum, im Geist des ‚Juste-Milieu‘ (→ </tei:seg>
@@ -1142,13 +1124,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-60">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">6,30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">gegen die Demagogie</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>(‚demagoge‘: [griech.] ‚Volksführer‘) während der Restaurationszeit verwendetes Schlagwort für die Anhänger liberaler und nationaler Strömungen. Die „Karlsbader Beschlüsse“ (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/karlbe.html">Lexikon</tei:ref>
           <tei:seg>) von 1819 erließen Maßnahmen gegen diese Bewegungen. Seit 1824 bestand in Mainz die „Zentraluntersuchungskommission“ gegen ‚revolutionäre Umtriebe‘, deren Tätigkeit zur Verurteilung und Inhaftierung zahlreicher ‚Demagogen‘ führte (→ Lexikon: </tei:seg>
@@ -1191,9 +1173,9 @@
           <tei:seg> beschrieben (vgl. eGWB IV, Bd. 6.2, pdf 1.0, S. 3,6-4,14). Im </tei:seg>
           <tei:q>Kastanienwäldchen in Berlin</tei:q>
           <tei:seg> nennt er den Titel </tei:seg>
-          <tei:q>
-            <tei:foreign>De Diis fatalibus</tei:foreign>
-          </tei:q>
+          <tei:foreign>
+            <tei:q>De Diis fatalibus</tei:q>
+          </tei:foreign>
           <tei:seg> (GWB VII, Bd. 3, S. 92,34-93,2, offenbar in verkürzter Form). In der Universitäts- und Stadtbibliothek Frankfurt befindet sich eine Abschrift der Arbeit von fremder Hand. Ein Auszug aus der Dissertation nach dem Teildruck in Beurmann’s Telegraph von 1837 (Rasch 3.37.07.26) in HU, Bd. 1, S. 505-517: </tei:seg>
           <tei:q>‹De diis fatalibus› </tei:q>
           <tei:seg>1830. </tei:seg>
@@ -1201,13 +1183,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-64">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">7,12</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die anbrechende große Zeit</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Anspielung auf die Zeit nach der Julirevolution in Deutschland. Gutzkow schreibt über die Wirkung der Revolution auf ihn selbst und die Zeitgenossen: </tei:seg>
           <tei:q>Der Kronprinz lächelte; aber Alle, die Zeitungen lasen, wußten, daß in Frankreich eben ein König vom Thron gestoßen wurde. Der Kanonendonner zwischen den Barrikaden von Paris dröhnte bis in die Aula nach. Böckh sprach von den schönen Künsten, aber Niemand achtete diesmal seiner gedankenreichen Wendungen und classischen Sprache </tei:q>
           <tei:seg> [...] </tei:seg>
@@ -1220,10 +1202,7 @@
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/stehely.html">Lexikon</tei:ref>
           <tei:seg>] </tei:seg>
           <tei:q>
-            <tei:seg>und nahm </tei:seg>
-            <tei:hi style="letter-sparse">zum ersten Male</tei:hi>
-            <tei:seg> eine Zeitung vor’s Gesicht;</tei:seg>
-          </tei:q>
+            </tei:q>
           <tei:seg> [...] </tei:seg>
           <tei:q>ich wollte nur wissen, wie viel Todte und Verwundete es in Paris gegeben, ob die Barricaden noch ständen, ob noch die Lunten brennten, der Pallast des Erzbischofs rauchte, ob Karl seinen Thron beweine, ob Lafayette eine Monarchie oder Republik machen würde. Die Wissenschaft lag hinter, die Geschichte vor mir.</tei:q>
           <tei:seg> [...] </tei:seg>
@@ -1286,26 +1265,26 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-69">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">7,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Schiller-Goethe-Verleger Cotta</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Johann Friedrich Cotta von Cottendorf (1764-1832; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/cotta.html">Lexikon</tei:ref>
           <tei:seg>), Verleger und Buchhändler in Stuttgart, publizierte zahlreiche Schriften klassischer Autoren, bes. Goethes und Schillers, und stand deshalb als Verleger in hohem Ansehen. 1832 übernahm sein Sohn Johann Georg (1796-1863) den Verlag.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-70">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">7,24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Wolfgang Menzel</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Wolfgang Menzel (1798-1873), Kritiker, Redakteur, Literaturhistoriker u. Politiker in Stuttgart → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/menzel.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1325,13 +1304,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-72">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">7,27-2</tei:citedRange>
           <tei:seg>8 </tei:seg>
           <tei:citedRange type="word-range">„Literaturblatt“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Das „Literaturblatt“ zum „Morgenblatt für gebildete Stände“; → Lexikon: </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/litblat.html">Literaturblatt</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1386,10 +1365,7 @@
           <tei:citedRange type="page-line-ref">8,8-9</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Schüler vom </tei:seg>
-            <tei:hi style="letter-sparse">zweiten</tei:hi>
-            <tei:seg> Theil des „Faust“</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -1408,13 +1384,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-79">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">8,15-16</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Menzel als Goetheverächter und rücksichtsloser Verurtheiler der damaligen Modebelletristik</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/menzel.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1432,39 +1408,39 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-81">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">8,26</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Heinrich Laube</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>. Sein (sich wandelndes) Verhältnis zu Gutzkow hat er in zahlreichen Äußerungen und Kritiken niedergelegt. Vgl. LauGW, Bd. 50 (Personenregister).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-82">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">8,29</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">neben der Turnerei</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Friedrich Ludwig Jahn („Turnvater Jahn“, 1778-1852; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/jahn.html">Lexikon</tei:ref>
           <tei:seg>), war der Gründer der deutschen Turnbewegung zu Beginn des 19. Jahrhunderts. Neben der Entwicklung des Turnens allgemein (Fechten, Schwimmen, Laufen, Spiel, Tanz usw. mit volkstümlicher Tendenz) hatte die Bewegung eine politische Bedeutung, die in der Stärkung der physischen und moralischen Kraft des deutschen Volkes gegen die Herrschaft Napoleons bestehen sollte. Der erste Turnplatz Deutschlands war die „Hasenheide“ bei Berlin (1811). Darüber hinaus war Jahn 1815 Mitbegründer der Burschenschaft. Ein Prozess wegen politischer Betätigung endete 1825 mit dem Freispruch Jahns. Mit dem Prozess im Zusammenhang stand die weit gehende Schließung der Turnplätze in Deutschland.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-83">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">8,31</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">carlsbader Beschlüsse</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/karlbe.html">Lexikon</tei:ref>
           <tei:seg>: Karlsbader Beschlüsse.</tei:seg>
@@ -1493,16 +1469,16 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-86">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">9,8</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">„Zeitung für die elegante Welt“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Literarisch-kulturelle Zeitschrift, erschien in Leipzig von 1801 bis 1859.</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/elegant.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1520,13 +1496,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-98">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">9,8-10</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">der sächsischen Hofrathsbelletristik abgewonnene Laube’sche Terrain</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Hier sind die in der von Theodor Hell (d. i. Karl Gottlieb Theodor Winkler) und Friedrich Kind herausgegebenen Dresdener „Abendzeitung“ erschienenen Beiträge belletristischer Natur gemeint. Laube (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>) übernahm 1833 die „Zeitung für die elegante Welt“ (→ </tei:seg>
@@ -1535,13 +1511,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-89">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">9,11</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">im Stil desultorischen Artikel</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Welche Artikel Gutzkow meint, ist schwer nachzuvollziehen. Möglicherweise handelt es sich um die unter der von Laube geschaffenen Rubrik der „laufenden Geschichte“ publizierten Beiträge in der „Zeitung für die elegante Welt“ (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/elegant.html">Lexikon</tei:ref>
           <tei:seg> ).</tei:seg>
@@ -1559,13 +1535,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-92">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">9,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">des schönen Gardasee</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Gutzkows Reise durch Österreich und Oberitalien mit Laube (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>) und einem weiteren Reisebegleiter begann am 4. August 1833 in München und endete mit der Rückkehr Gutzkows nach Berlin am 14. September 1833. Gutzkow und Laube haben diese Reise mehrfach beschrieben. Zunächst lieferte Gutzkow darüber eine Artikelserie mit dem Titel </tei:seg>
@@ -1738,16 +1714,16 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Peter Hasubek, Göttingen </tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung  </tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -1755,18 +1731,18 @@
           <tei:seg>H Rückblicke auf mein Leben. Von Karl Gutzkow. 1. Kapitel. Druckmanuskript für J, 56 Blatt. GSA Weimar 96/1018.</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J	Karl Gutzkow: Rückblicke auf mein Leben. I.-III. In: Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben. Berlin. Bd. 6, Nr. 27, 4. Juli 1874, S. 7-10; Nr. 28, 11. Juli 1874, S. 22-25; Nr. 29, 18. Juli 1874, S. 38-41. (Rasch 3.74.07.04)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1775,13 +1751,13 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriff</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>4,34 Mann.“] Mann.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1799,46 +1775,46 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zeitgenössische Kurzbiographien → Globalkommentar.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>1. Paul Lindau: Vorwort zu den Autobiographieen aus der Gegenwart. In: Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben. Berlin. Bd. 5, Nr. 18, 2. Mai 1874, S. 279-281.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>„Sainte-Beuve leitet die Charakteristik eines französischen Classikers mit den Worten ein: ‚Es ist werthvoll und bedeutend, auch nur einen Menschen mehr, namentlich wenn dieser Mensch eine entscheidende und hervorragende Persönlichkeit ist, recht genau kennen zu lernen‘.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Von der Richtigkeit dieses Satzes überzeugt, richteten wir vor einiger Zeit an eine selbstverständlich nur beschränkte Anzahl verdienstvoller und erfolgreicher Zeitgenossen und Landsleute zunächst die vertrauliche Anfrage, ob sie sich entschließen könnten, für die ‚Gegenwart‘ eine autobiographische Skizze zu schreiben. Wir glaubten, daß solche Selbstgespräche ein doppeltes Interesse haben müßten, daß sowohl dem Leser wie dem Schreiber mit einer derartigen Publication gedient sein würde – dem Leser, der für die Erlebnisse und den Entwicklungsgang des Schriftstellers oder Gelehrten, dessen Werke er liebgewonnen oder bewundern gelernt hat, eine leicht begreifliche warme Theilnahme hegt; dem Schreiber, dem hier die Gelegenheit geboten, gewisse Dinge zu sagen, die er allein weiß, die aber auszusprechen ihm der Anlaß oder der Antrieb fehlt und von denen es ihm doch wünschenswerth sein muß, daß sie nicht ungesagt bleiben, weil gerade diese zum Verständniß und zur richtigen Würdigung seines Wirkens und seiner Leistungen wesentlich beitragen. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Man mag sagen, was man will: man kennt Niemand so genau, wie sich selbst, wenn man den ernsten Willen hat, seine eigene Bekanntschaft zu machen. Wir erwarteten daher von der in Aussicht genommenen Veröffentlichung einer Reihe von Selbstbiographieen einen redlichen Nutzen und erheblichen Gewinn. Wir hofften dadurch werthvolles Material für die Literaturgeschichte anzusammeln.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Ueber das Gelingen unseres Vorhabens kann erst die Folge entscheiden. Vergeblich war unser Mühen jedenfalls nicht. Denn die Conversationslexica, die Literatur- und Culturgeschichten, welche den Lebenslauf unserer vornehmsten Zeitgenossen schildern, haben den Stoff der Natur der Sache nach nicht erschöpfen können. Die ersteren müssen sich ihrer ganzen Anlage nach beschränken auf eine möglichst objective, nüchterne Wiedergabe der Thatsachen. Das schüchterne Urtheil verhüllt sich vor lauter Decenz bis zur Unerkenntlichkeit. In den Literaturgeschichten und ähnlichen Werken aber wirkt naturgemäß die persönliche Auffassung des Verfassers, sein ästhetischer, politischer und religiöser Standpunkt als bestimmendes Moment bei der Beurtheilung erheblich mit. Zur Vervollständigung des Bildes, welches diese Werke von einem Mitlebenden zu geben vermögen, zu der farblosen Objectivität des Nachschlagebuchs und der selbst im besten Sinne tendenziösen Färbung der Literaturgeschichte gehörte noch ein dritter Factor: die Subjectivität des Zeitgenossen selbst. Aufschlüsse über die intimere Individualität des Schriftstellers, des Gelehrten, einen wenn auch nur fragmentarischen Selbstbericht über das, was er erstrebt und erreicht, über seine Erfolge und Niederlagen oder auch nur über eine bedeutsame Epoche, ja über einen entscheidenden Augenblick in seinem Dasein zu erlangen – das war das Ziel, welches wir im Auge hatten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wir gaben uns keinen Täuschungen hin über die Schwierigkeit, dasselbe zu erreichen. Wir wußten im Voraus, daß wir auf alle Fälle schon durch die äußeren Bedingungen einer periodischen Zeitschrift, deren Raum ein beschränkter ist, auf Vollständigkeit verzichten mußten, und daß wir, selbst unter der Voraussetzung ihrer Zustimmung, nicht allen verdienstvollen Männern die Möglichkeit gewähren konnten, diesen Selbstbericht zu erstatten; aber wir waren der Ansicht, daß es immerhin der Mühe lohnen würde, den Versuch zu wagen, wenn nur eine gewisse Anzahl bedeutender Schriftsteller unserm Antrage zustimmte. Auch konnten wir nicht die Erwartung hegen, daß diejenigen, bei welchen unser Vorschlag Anklang gefunden hatte, in dem knapp bemessenen Raume, den wir ihnen zur Verfügung stellen konnten, ihre ganze Lebensgeschichte uns erzählen und alles das sagen würden, was ihnen zu ihrer Selbstcharakteristik erforderlich schiene. Aber auch das konnten wir nicht als einen entscheidenden Nachtheil betrachten. Die nothgedrungene räumliche Beschränkung war in unsern Augen sogar ein Vortheil. Gerade dadurch, daß es unter den gegebenen Verhältnissen dem Einzelnen nicht möglich war, sein Leben und den Gang seiner Entwicklung von der Wiege bis zum heutigen Tage in der erwünschten, ja nothwendigen Breite zu schildern, verschwand die Gefahr, welche die Aufeinanderfolge einer ziemlich langen Reihe von stoffähnlichen Aufsätzen mit sich zu bringen drohte: die Gefahr der zu großen Aehnlichkeit der Aufsätze mit einander, ja der Einförmigkeit. Wir überließen es daher jedem Einzelnen, die autobiographische Skizze nach eigenem Ermessen anzulegen und auszuführen. Wir stellten keine andere Bedingung als die, daß der Betreffende über sich und seine Leistungen schriebe. Ob er nun seinen ganzen Lebenslauf in chronologischer Folge schildern, ob er, wie bemerkt, ein entscheidendes Moment aus seinem Dasein herausgreifen und dieses eingehend besprechen, ob er seine Gesammtthätigkeit oder ein bestimmtes Werk, ob er eine allgemeine Charakteristik seines Schaffens oder eine specielle Schilderung eines Zweiges seiner Wirksamkeit geben, ob er uns sich in seinen Anfängen oder in seiner Reife, als dankbar Werdender oder als Fertiger, dem nichts recht zu machen ist, darstellen wollte – das Alles konnten wir dem Gutbefinden jedes Einzelnen unterwerfen. So konnte schon die Art und Weise, wie der Betreffende unsern Vorschlag auffaßte und ausführte, als ein ihn charakterisirender Zug gelten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wir wandten uns, da wir im Laufe des Jahres verhältnißmäßig doch nur wenige solcher Biographieen veröffentlichen konnten, an eine sehr beschränkte Anzahl von Schriftstellern, Gelehrten und Politikern. Die letzteren billigten unser Unternehmen zwar in den wärmsten Worten, hielten den Gedanken für glücklich und durchführbar, erklärten aber in ihrer Mehrheit, für den Augenblick aus diesem oder jenem Grunde ihre Mitwirkung versagen zu müssen. Da unsere Galerie von Selbstportraits aber nur dann eine berechtigte war, wenn die hauptsächlichen Führer in derselben vertreten waren, so entschlossen wir uns kurzweg, das Gebiet, das wir zunächst zu weit gezogen hatten, enger abzugrenzen und die eigentlichen Fachpolitiker, die ihre Hauptthätigkeit auf die Wirksamkeit in den Kammern concentriren, vor der Hand ganz auszuschließen. Umsomehr, als uns aus dem Kreise der Schriftsteller und Gelehrten, die dabei ja auch Politiker sein mochten, so überaus zahlreiche Zusagen zugingen, daß wir vollauf zu thun haben werden, um das Material, welches zum Theil bereits vorhanden ist, zum andern Theil binnen Kurzem vorhanden sein wird, zu bewältigen. Wir können für das vertrauensvolle Entgegenkommen, für die freudige Zustimmung, welche unser Vorschlag gefunden hat, nicht genug danken.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Nur zwei oder drei haben uns durch Nichtbeantwortung unseres ersten Briefes der Mühe enthoben, die Correspondenz mit ihnen fortzusetzen, alle Anderen haben sich binnen kürzester Frist entschieden, und selbst diejenigen, welche unsere Anfrage verneinen zu müssen glaubten, haben mit herzhaften Worten der Sympathie für das Gelingen unseres Unternehmens, mit dem Ausdruck der innigsten Theilnahme nicht gekargt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Von denen, welche Nein sagten, hat nur ein Einziger die Tendenz, welche wir im Auge hatten, völlig verkannt. Dieser meinte, die Sache würde auf eine Selbstberäucherung hinauslaufen – ein Mißverständniß, vor dem wir uns offen gesagt durch die Richtung unserer Zeitschrift von vornherein gewahrt glaubten. Die übrigen der Verneinenden billigten sämmtlich unser Project, zum Theil sogar in enthusiastischer Weise.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>[...]</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>So hatten wir wenige Wochen nachdem wir den ersten Schritt zur Verwirklichung unseres Projects gethan, die freudige Gewißheit, daß dasselbe gelingen werde. Mit besonderer Genugthuung mußte es uns erfüllen, daß auch diejenigen, und gerade mit besonderer Liebenswürdigkeit diejenigen, welche alle Ursache haben mochten, sich über literarische Rücksichtslosigkeiten des Herausgebers dieser Blätter zu beschweren, unserm Vorschlage zustimmten und nicht daran dachten, den Redacteur die Sünden des Kritikers büßen zu lassen. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Es erübrigt uns, die Namen der Schriftsteller und Gelehrten hier anzuführen, welche entweder bedingungslos ihre Zustimmung gegeben, oder dieselbe an Bedingungen geknüpft haben, die zu erfüllen wir leicht im Stande waren, so daß auch die bedingte Zusage dieser Letzteren zu einer definitiven geworden ist. Wir geben sie in alphabetischer Reihenfolge.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="2" style="text-left">
@@ -1917,10 +1893,10 @@
         <tei:hi style="font-size-small letter-sparse">Fr. Vischer</tei:hi>
         <tei:hi style="font-size-small"> in Stuttgart.</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste ist noch nicht geschlossen. Wir stehen noch mit einer Anzahl anderer hervorragender Persönlichkeiten in Unterhandlungen, die voraussichtlich ebenfalls zu einem guten Resultate führen werden.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Bei der Veröffentlichung kann von einer bestimmten Rangordnung selbstverständlich nicht die Rede sein. Wir werden versuchen, in der Aufeinanderfolge die größtmögliche Mannichfaltigkeit walten zu lassen, so daß der Skizze eines Dichters sich die eines Gelehrten anschließen würde, einer längeren eine kürzere, der Charakteristik eines entscheidenden Momentes im Entwicklungsgange die Schilderung eines größeren Lebensabschnittes etc.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -1932,21 +1908,21 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>2. Paul Lindau an Gutzkow, 17. April 1874 (StUBF, Gutzkow-Nachlass, Bl. 3469; → auch Erläuterung zu 2,25).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>„Zu besonderem Dank verpflichten Sie mich durch Ihre Zusage, die ich jetzt wohl als eine definitive betrachten darf. Ich füge die Namen der übrigen Zustimmenden diesem Briefe bei. Bedingungsweise haben mir noch andre bedeutende Schriftsteller – etc [?] – zugestimmt. Mitte Mai möchte ich mit der Publication beginnen. Es wäre mir daher – da ich Ihre Skizze gern recht früh bringen möchte – sehr erwünscht, wenn ich das Manuscript bis zu jener Zeit erhalten könnte. Es versteht sich, daß Sie an den angegebenen Raum (5 Spalten) nicht gebunden sind. Wenn Sie das Doppelte gebrauchen – bene.“ </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>3. Gutzkow an Paul Lindau, 5. Mai 1874 (StUBF, Gutzkow-Nachlass, Bl. 13494; → auch Erläuterung zu 2,25).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>	</tei:seg>
         <tei:q>Geehrter Herr!</tei:q>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>Wenn mich nicht schon meine andauernde Krankheit (Nervenüberreizung, Muskelkrämpfe, Kopfgicht) verhinderte, bereits in diesem Monat mit meinem Beitrag zur neuen Selbstschau-Rubrik Ihrer mir nun wieder vorliegenden Zeitschrift einzutreffen, so müßte es eine gewisse Zaghaftigkeit sein, die mich am schnellen Angriff der Arbeit verhinderte.</tei:q>
         <tei:seg> [...]</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>Dennoch soll mein erster Versuch, wieder etwas – seit Monaten! – zu schreiben, der Lösung meines Versprechens gewidmet sein. Der „Schwelle“ bedarf es ja nun nicht nach Ihre</tei:q>
         <tei:seg>[r]</tei:seg>
         <tei:q> schönen und die Leser sofort gewinnenden Einleitung. </tei:q>
@@ -1954,21 +1930,23 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>4. Gutzkow an Christoph Wiese, 11. Mai 1874 (StUBF, Gutzkow-Nachlass, Bl. 13498).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:q>
-          <tei:seg>Also bitte beginnen Sie in alter Weise! Copiatur nur auf </tei:seg>
-          <tei:hi style="letter-sparse">Einer</tei:hi>
-          <tei:seg> Seite! Ich schicke successive die Fortsetzungen. Die ganze Arbeit trotze ich meinem kranken Körper ab, um Paul Lindau einen Beweis meiner Versöhnlichkeit zu geben. Sie ist für eine Reihe von Selbstbiographieen in der „Gegenwart“ bestimmt. </tei:seg>
-        </tei:q>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:q>Also bitte beginnen Sie in alter Weise! Copiatur nur auf </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Eine</tei:q>
+        </tei:hi>
+        <tei:q>r Seite! Ich schicke successive die Fortsetzungen. Die ganze Arbeit trotze ich meinem kranken Körper ab, um Paul Lindau einen Beweis meiner Versöhnlichkeit zu geben. Sie ist für eine Reihe von Selbstbiographieen in der „Gegenwart“ bestimmt.</tei:q>
+        <tei:seg> </tei:seg>
+        <tei:q>         </tei:q>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> 5. Gutzkow an Julius Stettenheim, 16. Mai 1874 (StUBF, Gutzkow-Nachlass, Bl. 13501).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>Meine „Selbstschau“ ist fertig, soweit ich sie schreiben </tei:q>
-        <tei:q>
-          <tei:hi style="letter-sparse">durfte</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>durfte</tei:q>
+        </tei:hi>
         <tei:q>; der Augenarzt verbot die Fortsetzung. Es wäre auch sonst ein Buch geworden. Zur Tacitäischen Kürze habe ich mich nicht erheben können u Spielhagens fließende Feder</tei:q>
         <tei:seg> [...] </tei:seg>
         <tei:q>hat allen Nachfolgenden ein schlechtes Beispiel gegeben.</tei:q>
@@ -1976,13 +1954,13 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>6. Paul Lindau an Gutzkow, 20. Mai 1874 (StUBF, Gutzkow-Nachlass, Bl. 3471).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>„Bitte schicken Sie mir Ihre ‚Selbstschau‘ so bald wie möglich! Jetzt kommt Bluntschli (als alternirender Zwischenmann) an die Reihe. Dann möchte ich mit Ihnen Staat machen.“ </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>7. Gutzkow an Klara Mosson, 10. Juni 1874 (StUBF, Gutzkow-Nachlass, Bl. 13517).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>An Lindau habe ich mein Bruchstück Autobiographie geschickt, doch den Abdruck verbeten, ehe nicht einige andre mit ihren Bekenntnissen vorausgegangen.</tei:q>
         <tei:seg> [...] </tei:seg>
         <tei:q>Meine Plauderei ist sehr, sehr intim u vielleicht verfehlt! Ich werde neue Berliner Gemeinheiten erleben. </tei:q>
@@ -1990,7 +1968,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>8. Paul Lindau an Gutzkow, 15. Juni 1874 (StUBF, Gutzkow-Nachlass, Bl. 3472-73).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>„es würde mir </tei:seg>
         <tei:hi style="letter-sparse">sehr</tei:hi>
         <tei:seg> angenehm, wenn ich Ihre biographische Skizze in die erste Juli-Nummer bringen könnte. Ihre Bedenken sind jetzt wohl hinfällig geworden, da Bluntschli auf Spielhagen gefolgt ist und in der nächsten Nummer Auerbach auf Bluntschli folgt. Ich bitte Sie also recht herzlich, Ihren Aufsatz, der, wie Sie mir schrieben, druckfertig daliegt, gleich an mich abgehen zu lassen. Da Sie die Correctur selbst lesen und durch meine Abwesenheit von Berlin auch Zeitverlust entsteht, muß ich schon jetzt, um die Vorbereitungen zur Quartalsnummer rechtzeitig abzuschließen, um die Absendung bitten. Ich hoffe, daß Sie meine Bitte werden gewähren können.“ </tei:seg>
@@ -1998,28 +1976,28 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>9. Gutzkow an Klara Mosson, 18. Juni 1874 (StUBF, Gutzkow-Nachlass, Bl. 13524).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>In meinem Stück Autobiographie, das für die neueintretenden 1 Juli-Abonnenten bestimmt scheint, habe ich eine verwandte Andeutung über die „Compensation für mangelndes Glück“ gemacht. </tei:q>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>10. Paul Lindau an Gutzkow, 19. Juni 1874 (StUBF, Gutzkow-Nachlass, Bl. 3474).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>„Es ist alles in schönster Ordnung. Ihr Manuscript ist in der Druckerei und in den ersten Tagen der nächsten Woche wird Ihnen die Correctur zugehn, die ich Sie sehr [ein Wort unles.] bitte möglichst schnell erledigen zu wollen.“ </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>11. Gutzkow an Christoph Wiese, 8. Juli 1874 (StUBF, Gutzkow-Nachlass, Bl. 13530).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.4" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>In der Gegenwart steht ja nun mein Lebensrückblick.</tei:q>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>12. Gutzkow an Hermann Costenoble, 9. Juli 1874 (StUBF, Gutzkow-Nachlass, Bl. 13532).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:q>In Lindaus Gegenwart finden Sie jetzt von mir „Rückblicke auf mein Leben“. Ich habe Sorge getragen, dabei der Ges. Werke öfters zu gedenken. </tei:q>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -2041,41 +2019,41 @@
         <tei:q>In Lindaus Gegenwart finden Sie jetzt von mir „Rückblicke auf mein Leben“. Ich habe Sorge getragen, dabei der Ges. Werke öfters zu gedenken</tei:q>
         <tei:seg> (→ Dokumente zur Entstehungsgeschichte, Nr. 12). Am 24. August 1874 dankt Gutzkow Paul Lindau für das hohe Honorar (Betrag nicht genannt). </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>1. Lindau an Gutzkow, 24. Juli 1874; der erwähnte Brief ist nicht überliefert (StUBF, Gutzkow-Nachlass, Bl. 3476).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="1" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="1" style="text-left">
         <tei:seg>„Hochgeehrter Herr!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Der beifolgende Brief eines Lesers der ‚Gegenwart‘ drückt soweit er sich mit Ihrem Aufsatz beschäftigt, ganz meine Ansicht aus. Es würde mich herzlich erfreuen, wenn Sie recht bald Stimmung und Zeit fänden, einen weiteren Abschnitt aus Ihrem Leben unsern Lesern zu erzählen.“ </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>2. Gutzkow an Klara Mosson, 26. Juli 1874; Beilagen nicht überliefert (StUBF, Gutzkow-Nachlass, Bl.).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Gutzkow sendet </tei:seg>
         <tei:q>einige Anerkennungen für meine Rückblicke, die Ihren Glauben an mich bestärken</tei:q>
         <tei:seg> [...]</tei:seg>
         <tei:q>, belohnen sollen.</tei:q>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Im Gegensatz zum Bucherstdruck wenige (indirekte) brieflich überlieferte Äußerungen.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">

@@ -39,7 +39,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="5"/>
         <tei:seg> Eine nächtliche Unterkunft.</tei:seg>
       </tei:head>
@@ -639,10 +639,10 @@
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Karl Gutzkow: Eine nächtliche Unterkunft. In: Bazar-Zeitung. Berlin. Nr. 2, 9. März 1870, S. 5-7. (Rasch 3.70.03.09) </tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E. Eine nächtliche Unterkunft. In: In bunter Reihe. Briefe, Skizzen, Novellen von Karl Gutzkow. Breslau: Schottlaender, 1878, S. 97-106. (Rasch 2.49.2)</tei:seg>
         </tei:item>
       </tei:list>

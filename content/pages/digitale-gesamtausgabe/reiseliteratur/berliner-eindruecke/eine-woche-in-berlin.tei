@@ -39,12 +39,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="396"/>
         <tei:seg> Eine Woche in Berlin.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>I.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -177,8 +176,7 @@
         <tei:ref type="esv" target="#annotation-46">Carnevalbesuchs</tei:ref>
         <tei:seg> in Berlin ausführlicher festzuhalten.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="409"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
@@ -412,7 +410,7 @@
         <tei:seg> Witz und Esprit, das kecke Paradoxon und jener doctrinäre Schwindel etwas gilt, den Hegel aufbrachte, Hegel, der Jahre lang die trivialsten Köpfe, die nur in seiner Tonart zu reden wußten oder die es verstanden, ihrem sogenannten Denken eine praktische Anwendung auf beliebte Religions- und Staatsauffassungen zu geben, zu ordentlichen Professoren befördern konnte! Hamlet ist auch darin das große und Shakspearen auf den Knieen zu dankende Vorbild aller mit der Welt verfallenen Geistesfreiheit, daß er auf des Königs Frage, wie es ihm ginge, antwortet: </tei:seg>
         <tei:ref type="esv" target="#annotation-127">„Ich leide am Mangel der Beförderung.“</tei:ref>
       </tei:p>
-      <tei:l margin-left="5.9" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:l margin-left="5.9" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:hi style="font-size-small"> </tei:hi>
         <tei:ref type="esv">
           <tei:hi style="font-size-small">- - Wer ertrüge</tei:hi>
@@ -424,13 +422,12 @@
           <tei:hi style="font-size-small">Den Uebermuth der Aemter und den Kummer, </tei:hi>
         </tei:ref>
       </tei:l>
-      <tei:l margin-left="1.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:l margin-left="1.5" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:ref type="esv">
           <tei:hi style="font-size-small">Den Unwerth schweigendem Verdienst erweist!</tei:hi>
         </tei:ref>
       </tei:l>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="442"/>
         <tei:seg> III.</tei:seg>
       </tei:head>
@@ -2008,10 +2005,10 @@
         <tei:seg> aufgenommen. Weitere Drucke oder Teildrucke zu Lebzeiten Gutzkows sind nicht bekannt. </tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Eine Woche in Berlin. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2, Nr. 25, [18. März] 1854, S. 396-399; Bd. 2, Nr. 26, [25. März] 1854, S. 409-416; Bd. 2, [8. April] 1854, S. 442-447. (Rasch 3.54.03.18)</tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="A2">
           <tei:seg>A</tei:seg>
           <tei:hi style="sup">2</tei:hi>
           <tei:seg>. Eine Woche in Berlin. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammtausgabe. Erste Serie. Bd. 11. Jena: Costenoble, [1876]. S. 208-235. (Rasch 1.5.11.6)</tei:seg>
@@ -2032,7 +2029,7 @@
       <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
