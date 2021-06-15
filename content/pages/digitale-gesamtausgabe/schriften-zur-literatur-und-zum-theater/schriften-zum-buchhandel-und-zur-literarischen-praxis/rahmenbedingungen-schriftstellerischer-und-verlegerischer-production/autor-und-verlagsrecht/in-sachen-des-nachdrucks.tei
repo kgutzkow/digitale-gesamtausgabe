@@ -46,13 +46,13 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="497"/>
         <tei:seg> In Sachen des Nachdrucks.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:ref type="esv" target="#">Herr </tei:ref>
-        <tei:ref type="esv" target="#">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
+        <tei:ref type="esv">Herr </tei:ref>
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">Hitzi</tei:hi>
         </tei:ref>
         <tei:ref type="esv" target="#annotation-1">g in Berlin</tei:ref>
@@ -60,7 +60,7 @@
         <tei:ref type="esv" target="#annotation-2">
           <tei:hi style="letter-sparse">Dümmler</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">’sche Buchhandlung</tei:ref>
+        <tei:ref type="esv">’sche Buchhandlung</tei:ref>
         <tei:seg> in Berlin gehörte ihm früher) hat </tei:seg>
         <tei:ref type="esv" target="#annotation-3">in den Berlinischen Zeitungen über eine Verbindung Französischer Autoren</tei:ref>
         <tei:seg> Bericht erstattet, die diese zur Wahrung ihrer Eigenthumsrechte kürzlich in Paris geschlossen haben. Herr Hitzig fordert, da das Übel des Nachdrucks in Deutschland eben so offen am Tage liegt, die Deutschen Zeitungen und deren Redaktionen auf, eine ähnliche Verbindung zu treffen und vorläufig, ehe juristische Zwangsmittel gegen die Piraten einträten, wenigstens </tei:seg>
@@ -80,10 +80,10 @@
         <tei:hi style="letter-sparse">gesuch</tei:hi>
         <tei:seg>t sind, ist sehr gering. Herr Lewald konnte mit Fug und Recht zur Entschuldigung seiner fast lediglich </tei:seg>
         <tei:ref type="esv" target="#annotation-8">aus dem Französischen und Englischen übersetzten </tei:ref>
-        <tei:ref type="esv" target="#">
+        <tei:ref type="esv">
           <tei:hi style="letter-sparse">Europ</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">a</tei:ref>
+        <tei:ref type="esv">a</tei:ref>
         <tei:seg> sagen, daß die Lesewelt nur auf den Stoff und die Behandlung, nicht auf das Vaterland sieht, und daß ihr Übersetzungen geistreicher </tei:seg>
         <tei:ref type="esv" target="#annotation-9">Exoteren</tei:ref>
         <tei:seg> lieber sind, als alle </tei:seg>
@@ -106,11 +106,11 @@
         <tei:seg> der Nachdruckvertheidiger gegenüber) fühlt, daß hier ein Maaß und eine Abschätzung eintreten müsse. Oft rechnet ein Verleger nur auf einen einzigen Beitrag, der seinem Almanach Zug verschafft; druckt ihm diesen ein Journal nach, so wird er um seinen Vortheil betrogen; man liest den Nachdruck und läßt den Almanach liegen. Mit Büchern, die nicht periodisch erscheinen, ist es ebenso. Ich hörte kürzlich, daß </tei:seg>
         <tei:ref type="esv" target="#annotation-14">Immermann in dem Franck’schen dramatischen Almanach etwas über Grabbe geschrieben</tei:ref>
         <tei:seg>; ich hätte den Almanach kaufen oder ihm dadurch nützen müssen, daß ich ihn in einer Leihbibliothek verlangt hätte; allein der </tei:seg>
-        <tei:ref type="esv" target="#">Berliner </tei:ref>
+        <tei:ref type="esv">Berliner </tei:ref>
         <tei:ref type="esv" target="#annotation-15">
           <tei:hi style="letter-sparse">Freimüthig</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">e</tei:ref>
+        <tei:ref type="esv">e</tei:ref>
         <tei:seg> brachte mir den ganzen Artikel; er hatte ihn nachgedruckt: ich konnte ihn in dieser Zeitschrift lesen. Man fühlt, daß hier die Gesetzgebung einzuschreiten hat und solange sich in dieser das freie Bewußtsein über geistiges Eigenthum noch nicht ausgebildet hat, sollten sich allerdings die Deutschen Journale und ihre Redaktionen unter einander verbinden und sich verpflichten, über ein gewisses Maaß hinaus (das ohnehin an Rezensionen geknüpft seyn müßte) aus Büchern nichts auszuziehen oder die gemachten Auszüge nach einem zu bestimmenden Tarif dem Verleger und Autor, jedem die Hälfte, zu bezahlen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -132,7 +132,7 @@
         <tei:ref type="esv" target="#annotation-17">
           <tei:hi style="letter-sparse">Correspondenzen der politischen Zeitunge</tei:hi>
         </tei:ref>
-        <tei:ref type="esv" target="#">n</tei:ref>
+        <tei:ref type="esv">n</tei:ref>
         <tei:seg>. Wenn die Freibeuterei irgendworin System geworden ist, so ist es hier. Die Nichtgewöhnung unserer Gefühle an die Idee des literarischen Eigenthums tritt hier in einer wahrhaft abschreckenden Gestalt auf. Eine Zeitung druckt der andern ihre theuer erworbenen Mittheilungen nach und begnügt sich, unten die Quelle zu nennen, und die bestohlene Zeitung nimmt dies als eine Gewohnheit hin, die sich von selbst versteht. Mit welchem Rechte will man, wenn überhaupt das Prinzip des Nachdrucks verworfen ist, dies Verfahren vertheidigen? Haben sich denn alle </tei:seg>
         <tei:ref type="esv" target="#annotation-18">Correspondenzen der Allgemeinen Zeitung</tei:ref>
         <tei:seg> überlebt und in ihrem Originalwerthe verschleudert, wenn sie in das Gebiet einer andren Zeitung kommen? Hat bei der durch ganz Deutschland gehenden Cirkulation der Deutschen Zeitungen eine das Recht, der andern ihre Originalität zu entziehen? Man kann sagen, daß nicht jede Zeitung im Stande ist, andre, als gedruckte Quellen zu benutzen; aber wäre dann das Minimum von Rechtlichkeit nicht wenigstens dies, daß man nur das </tei:seg>
@@ -171,7 +171,7 @@
         <tei:seg> Fl. 13. 30 </tei:seg>
         <tei:ref type="esv" target="#annotation-28">Kr. </tei:ref>
         <tei:seg>; der </tei:seg>
-        <tei:ref type="esv" target="#">Schwäbische Merkur</tei:ref>
+        <tei:ref type="esv">Schwäbische Merkur</tei:ref>
         <tei:seg> in Stuttgart Fl. 6, hier Fl. 13. 30 Kr. Eine Bairische Zeitschrift schlägt in ihrem weitesten </tei:seg>
         <tei:ref type="esv" target="#annotation-31">Rayon</tei:ref>
         <tei:seg> vielleicht höchstens 3 Fl. auf; d. h. für eine Entfernung von 30 Meilen vielleicht. Eine Zeitung aber, die in Frankfurt Fl. 10 kostet, wird in Nürnberg, also auch etwa 30 Meilen von Frankfurt, Fl. 17 kosten; demnach Fl. 7 mehr. In Preußen hat man die Sitte, </tei:seg>
@@ -206,8 +206,10 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:pb n="504"/>
         <tei:seg> Möchte Herr Hitzig diese Bemerkungen für seine versprochene Bearbeitung des </tei:seg>
-        <tei:ref type="esv" target="#">Etienne Blanc: </tei:ref>
-        <tei:ref type="esv" target="#annotation-37">Traité de la Contrefaçon</tei:ref>
+        <tei:ref type="esv">Etienne Blanc: </tei:ref>
+        <tei:ref type="esv" target="#annotation-37">
+          <tei:foreign>Traité de la Contrefaçon</tei:foreign>
+        </tei:ref>
         <tei:seg> u. s. w. wenn sie den Zweck hat, die Hauptinteressen der </tei:seg>
         <tei:hi style="letter-sparse">Deutsche</tei:hi>
         <tei:seg>n Journalistik zu erörtern, benutzen. Unsre Verhältnisse sind von den Französischen wesentlich verschieden und ich bin gern bereit, da ich mir einbilden darf, sie gründlich zu kennen, meine Ansichten darüber noch weiter zu entwickeln und sie durch manches Andre zu ergänzen, was diesmal zu weit führen würde.</tei:seg>
@@ -217,10 +219,7 @@
           <tei:citedRange type="page-line-ref">3,2</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Herr </tei:seg>
-            <tei:hi style="letter-sparse">Hitzig</tei:hi>
-            <tei:seg> in Berlin</tei:seg>
-          </tei:citedRange>
+            </tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p style="text-left">
@@ -617,22 +616,36 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-37">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">8,10-11</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">Etienne Blanc: Traité de la Contrefaçon</tei:citedRange>
+          <tei:citedRange type="word-range">Etienne Blanc: </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Traité de la Contrefaçon</tei:foreign>
+          </tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Etienne Blanc: Traité de la contrefaçon et de sa poursuite en justice: concernant: les œuvres littéraires, dramatiques, musicales et artistiques; les dessins et les marques de fabrique. Paris: Raymond, 1838.</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkow nahm seinen zuerst 1838 im „Telegraph für Deutschland“ veröffentlichten Beitrag </tei:seg>
         <tei:q>In Sachen des Nachdrucks</tei:q>
         <tei:seg> 1842 in das Kapitel </tei:seg>
@@ -641,67 +654,60 @@
         <tei:q>Vermischten Schriften</tei:q>
         <tei:seg> auf. </tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung</tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J [Karl] G[utzkow]: In Sachen des Nachdrucks. In: Telegraph für Deutschland. Hamburg. Nr. 63, [20.] April 1838, S. 497-504. (Rasch 3.38.04.20)</tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E In Sachen des Nachdrucks. In: Karl Gutzkow: Vermischte Schriften. Bd. 2: Vermittelungen. Kritiken und Charakteristiken. Leipzig: Weber, 1842. S. 10-20. (Rasch 2.23.2.1.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt unverändert in Orthographie und Interpunktion dem Erstdruck. Textsperrungen im Erstdruck wurden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung des Erstdrucks ist mit Klammern [ ] in den Text an den betreffenden Stellen eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die Fassung J wurde von Gutzkow nahezu unverändert in E aufgenommen. Der Hinweis auf die Nachdruckspraxis in August Lewalds „Europa“ (4,7-13) wurde gestrichen.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3.1. Bezugstext</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Julius Eduard Hitzig: Die Auctoren-Association in Paris. In: Berlinische Nachrichten von Staats- und gelehrten Sachen. Nr. 54, 5. März 1838, 1. Beilage.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> [Eduard Duller (?):] Gutzkow gegen den Nachdruck. In: Phönix. Frankfurt/M. Nr. 108, [7.] Mai 1838, S. 432. (Rasch 9/2.38.05.07)</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>

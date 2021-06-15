@@ -46,76 +46,79 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="181"/>
         <tei:seg> Nothwendiger Nachtrag </tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:hi style="letter-sparse">zu dem in Nr. 38 enthaltenen Aufsatze: </tei:hi>
       </tei:head>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>Die Furcht vor der Preßfreiheit.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg> Obgleich ich die in dem oben angeführten Aufsatz enthaltenen Behauptungen für Wahrheiten halte, so haben doch auch Wahrheiten ihre Zeit. Ich schrieb jene Beherzigungen einer so wichtigen Zeitfrage in der Voraussetzung nieder, das so sehnlich erwartete preußische Preßgesetz würde uns die letzliche Erfüllung vorangegangener Erleichterungen und jedenfalls einen Rechtszustand bringen, der sich mehr der Preßfreiheit als der Censur näherte. Da diese Erwartung aber nicht eingetroffen, vielmehr ein Gesetz gegeben worden ist, welches recht eigentlich die Nothwendigkeit der Censur zur organischen Grundlage hat, da ferner im Angesichte eines entschieden ausgesprochenen Censursystems jeder Schriftsteller von Gewissen und Selbstständigkeit die Pflicht hat, nur die überwiegenden Vortheile, die unumstößlichen Beweisgründe </tei:seg>
         <tei:hi style="letter-sparse">für</tei:hi>
         <tei:seg> die Preßfreiheit hervorzuheben, so beeil’ ich mich, unsern Lesern mein Bedauern auszusprechen, daß ich sie in einer Zeit des Fortschrittes der höheren Menschheitsinteressen mit einer Erörterung behelligt habe, die nur im Taumel des erträumten Glücks, im Rausche der freudigsten, aber seitdem nicht erfüllten Hoffnungen geschrieben worden ist.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkows </tei:seg>
         <tei:q>Nothwendiger Nachtrag</tei:q>
         <tei:seg> erschien am 17. März 1843 im „Telegraph für Deutschland“ als Folgeerklärung zu seinem 14 Tage vorher dort publizierten Artikel → </tei:seg>
         <tei:q>Die Furcht vor der Preßfreiheit</tei:q>
         <tei:seg>. Im Apparat zu diesem Text finden sich weitere Informationen zu der publizistischen Auseinandersetzung um dieses Thema. </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung</tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:head type="level-4">
-        <tei:seg>1.1.1. Übersicht</tei:seg>
-      </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J K[arl] G[utzkow]: Nothwendiger Nachtrag zu dem in Nr. 38 enthaltenen Aufsatze: Die Furcht vor der Preßfreiheit. In: Telegraph für Deutschland. Hamburg. Nr. 46, [17.] März 1843, S. 181. (Rasch 3.43.03.17.1)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.1. Dokument zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon.:] Gutzkow gibt nun im „Telegraph“ einen „nothwendigen Nachtrag“ zu seinem Artikel gegen die Preßfreiheit ... In: Der Komet. Leipzig. Nr. 59, 22. März 1843, S. 236. (Rasch 9/2.43.03.22.1)</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

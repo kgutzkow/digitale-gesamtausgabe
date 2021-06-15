@@ -46,55 +46,61 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="912"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Deduktion des Eigentumsrechts der Schriftsteller.]</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>* Aus der Feder des Buchhändlers </tei:seg>
         <tei:hi style="letter-sparse">Paul Neff</tei:hi>
         <tei:seg> in Stuttgart ist eine recht bündige und klare Deduktion des Eigenthumsrechtes der Schriftsteller und ihrer Rechtsnachfolger zu Nutz und Frommen der Würtembergischen Staatsmänner erschienen. Die sophistischen Spitzfindigkeiten Griesingers spuken noch immer in den Köpfen dieser Herren, deren Chef, Herr Schlayer, rundweg erklärte, er folge nur der Nothwendigkeit, wenn er den Nachdruck verbiete, nicht seiner Überzeugung! Was wir von Griesinger und dem scheinbaren Rechte des Nachdrucks nach Römischem halten, sehe man in Bulwers Zeitgenossen II. S. 301 und flg. nach, da wir mit der dortigen Entwickelung übereinstimmen.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 114, [18.] Juli 1838, S. 912. (Rasch 3.38.07.18)</tei:seg>
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 114, [18.] Juli 1838, S. 912. (Rasch 3.38.07.18)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>

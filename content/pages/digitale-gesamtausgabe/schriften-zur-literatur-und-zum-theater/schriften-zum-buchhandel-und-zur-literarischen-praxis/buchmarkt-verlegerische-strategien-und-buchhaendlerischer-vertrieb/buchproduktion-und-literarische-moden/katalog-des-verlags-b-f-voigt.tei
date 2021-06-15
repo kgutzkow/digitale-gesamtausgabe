@@ -46,12 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="420"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Katalog des Verlags B. F. Voigt.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>* Ein in der That bewunderungswürdiger Beleg buchhändlerischer Thätigkeit ist der von </tei:seg>
         <tei:hi style="letter-sparse">Voigt</tei:hi>
         <tei:seg> in Weimar herausgegebene Katalog seiner vieljährigen literarischen Unternehmungen. Es ist wahr, daß Voigt den Buchhandel mehr von der industriellen Seite auffaßte, und so, wie er für Gewerbe und Fabriken Handbücher herausgab, auch wiederum etwas Fabrikmäßiges in seiner Art, Bücher in die Welt zu setzen, nicht verläugnen kann. Indessen ist die Umsicht dieses Geschäftsmannes, seine Belesenheit, sein richtiges Treffen der Zeitbedürfnisse doch erstaunenswerth. Dieser Verlagskatalog ist so vollständig, daß er fast das Ansehen einer systematischen Anlage hat, als wenn Voigt in seinen Unternehmungen ordentlich nach einem Grund- und Aufriß verfahren wäre. Alle Zweige der Technologie sind hier mit praktischen, meist in mehrfachen Auflagen gangbaren Handbüchern bedacht. Geschichte, Biographie, moralische Wissenschaften, Gesundheitslehre, populäre Medizin, Naturkunde – für jedes Bereich menschlicher Erkenntniß findet man in Voigts Waarenlager einen passenden Wegweiser und einige lexikographische Werke sind sogar von wissenschaftlicher Bedeutung und mit großem Kostenaufwande hergestellt. Den </tei:seg>
@@ -60,59 +60,63 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 105, [1.] Juli 1840, S. 420. (Rasch 3.40.07.01)</tei:seg>
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 105, [1.] Juli 1840, S. 420. (Rasch 3.40.07.01)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken: </tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">108,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>jeden</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>jedes</tei:sic>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

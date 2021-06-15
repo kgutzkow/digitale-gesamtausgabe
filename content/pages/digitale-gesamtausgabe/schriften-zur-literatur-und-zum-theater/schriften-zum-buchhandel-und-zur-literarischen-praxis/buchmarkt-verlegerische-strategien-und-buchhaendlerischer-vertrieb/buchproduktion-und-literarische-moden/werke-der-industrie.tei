@@ -46,22 +46,24 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="549"/>
         <tei:seg> Werke der Industrie.</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>Der alte Buchhandel besaß, ich darf nicht sagen, mehr Geld, aber er besaß mehr Stolz, als der jetzige. Der alte Buchhandel stand mit verschränkten Armen in der Thüre seines Ladens, grüßte herablassend das vorübergehende Publikum, das noch durch </tei:seg>
         <tei:ref type="esv" target="#annotation-1">keine Plakate und große Kupferwerke</tei:ref>
         <tei:seg> an die Aushängefenster herangelockt wurde; der alte Buchhandel griff das Publikum nicht gewaltsam an: </tei:seg>
-        <tei:ref type="esv" target="#annotation-2">la vie et la bourse</tei:ref>
+        <tei:ref type="esv" target="#annotation-2">
+          <tei:foreign>la vie et la bourse</tei:foreign>
+        </tei:ref>
         <tei:seg>. Es war ein sehr gemessener Gang, das damalige Buchhändlergeschäft, ein Gang auf den gebahnten Straßen des Bedürfnisses: nur die Gelehrten, die Autodidakten klopften bei den Buchhändlern an, das Bedürfniß war das bittende, es war ein freies, kein erzwungenes Bedürfniß. </tei:seg>
         <tei:ref type="esv" target="#annotation-9">Einige Firmen fuhren sechsspännig</tei:ref>
         <tei:seg>; aber Lessing gerieth in Verzweiflung, und wollte hinfort </tei:seg>
         <tei:ref type="esv" target="#annotation-3">seine Schriften auf eigne Rechnung verlegen</tei:ref>
         <tei:seg>. </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Die Journalistik hat den alten Buchhandel zu Grunde gerichtet. Die Journale veranlaßten die </tei:seg>
         <tei:ref type="esv" target="#annotation-7">Lesezirkel</tei:ref>
         <tei:seg>, die Lesezirkel absorbirten die Kauflust der Privaten. Es waren zwei Dinge nothwendig: neue Käufer zu gewinnen, und die Waare selbst äußerlich in andere Gestalt zu bringen. Wir reden noch nicht von den </tei:seg>
@@ -70,7 +72,7 @@
         <tei:ref type="esv" target="#annotation-6">„beispiellos wohlfeilen“ Periode</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Der neue Buchhandel </tei:seg>
         <tei:ref type="esv" target="#annotation-5">gründete sich auf Nichts</tei:ref>
         <tei:seg>; denn er fing mit Schulden an. Seht, dort wird </tei:seg>
@@ -93,7 +95,7 @@
         <tei:ref type="esv" target="#annotation-13">Tutti Frutti</tei:ref>
         <tei:seg>! Die Leute hören nicht, sie haben auf der Börse, im Amte, draußen auf der Zollwage zu thun. Was Literatur! Narrenspossen!</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Mein junger Buchhändler verzweifelt nicht. Er ärgert sich nicht, daß in die alte Firma des Ortes, drüben an der Ecke des Marktes, nach einander hineintreten </tei:seg>
         <tei:ref type="esv" target="#annotation-37">der praktizirende Arzt, der Stadtprediger, der Justizamtmann, der Bediente einer englischen Familie, die nach Deutschland reiste, um zu sparen, zuletzt eine alte Betschwester</tei:ref>
         <tei:seg>: er greift nach dem Wohnungsanzeiger der Stadt, dieser wunderlichen Stadt, die aber wie alle Städte ist, und streicht sich mit Rothstift die Adressen der Menschen an, welche entweder Vermögen besitzen oder ihr Auskommen haben, oder derer, welche </tei:seg>
@@ -101,7 +103,9 @@
         <tei:seg> auf Bildung Anspruch machen. Nun herbei, ihr Anzeigen und </tei:seg>
         <tei:ref type="esv" target="#annotation-17">Subscriptionslisten</tei:ref>
         <tei:seg>, herbei, ihr bibliographischen Berichte, herbei, ihr </tei:seg>
-        <tei:ref type="esv" target="#annotation-18">à condition</tei:ref>
+        <tei:ref type="esv" target="#annotation-18">
+          <tei:foreign>à condition</tei:foreign>
+        </tei:ref>
         <tei:seg> anvertrauten Bücher; ich will </tei:seg>
         <tei:ref type="esv" target="#annotation-16">diesem Orte von 15000 Seelen zeigen, was es heißt, Bedürfnisse, nicht befriedigen, nein! Bedürfnisse schaffen</tei:ref>
         <tei:seg>. Du schlauer </tei:seg>
@@ -112,15 +116,15 @@
         <tei:ref type="esv" target="#annotation-22">verschossenes Makulatur</tei:ref>
         <tei:seg>; das Ganze gibt ein hübsches Paket und geht dreist an eine Adresse ab, welche nie mit dem Reich der Ideen, mit der Kunst, mit Schiller und Göthe, am wenigsten mit dem jungen Anfänger in irgend einer Verbindung gestanden hat.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Das Paket kömmt an. Was ist das? Was soll das? Wozu das? Wer wollte das? – Bitte! Öffnen Sie nur! Man öffnet, die Familie steht herum, neugierig, man lies’t: Ew. Wohlgeboren erhalten anbei zur gefälligen – Von wem? Von wem hab’ ich etwas zu erhalten? Wer braucht mir unaufgefodert Gefälligkeiten zu erweisen? Der </tei:seg>
         <tei:ref type="esv" target="#annotation-23">Sortiments-, Kunst- und Musikalienhändler</tei:ref>
         <tei:seg> Mauser – Mauser? Ich kenne keinen Mauser!  Ach, der junge Mann da, – sagt die Frau. Ach, der junge Mann auf dem Ball da, – sagt die Tochter. Man lies’t, man rechnet, man fühlt sich geehrt, man zahlt. Der junge Anfänger lacht: Er hat Kundschaft.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Aber nicht überall reussirte die Dreistigkeit. Es gibt Grobiane (auch verheirathete), dummstolze, in überwiegender Zahl aber rohe Menschen, die sich für zu gebildet achten und zu reich, als daß sie noch nöthig hätten, etwas Monatliches auf die Kultur ihres Geistes zu verwenden. Der junge Anfänger klopft nicht wieder an. Sein erster Coup gelang im Durchschnitte. Die Literatur hat einen neuen Absatzweg. Wir verdanken dem jungen Manne brave Menschen, welche sich bilden wollen, die Wahrheit befördern und eine Ehre darein setzen, ihren Kindern eine Bibliothek zu hinterlassen.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Dies </tei:seg>
         <tei:ref type="esv" target="#annotation-24">Genrebild</tei:ref>
         <tei:seg> klärt uns das Glück auf, welches in unsern Tagen </tei:seg>
@@ -131,16 +135,16 @@
         <tei:ref type="esv" target="#annotation-27">Es leben die alten Firmen</tei:ref>
         <tei:seg>!</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Das Glück, welches die Heftliteratur machte, veranlaßte freilich den Plunder; doch kommen auch vortreffliche Erscheinungen vor, und wir wollen hier kurz einige dieser Art erwähnen, welche besondre Aufmerksamkeit verdienen.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:ref type="esv" target="#annotation-28">
           <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
         </tei:ref>
         <tei:seg> ist bis zur neunzehnten Lieferung gediehen. Anerkannt ist der innre Werth dieses Buches; aber noch hat man nicht bemerkt, welche merkwürdige Erscheinung es in der Fassungskraft des großen Publikums bewirkt hat. Wie begann diese Naturgeschichte? Mit den Phänomenen der Thierwelt, mit den Organen des menschlichen Körpers, kurz mit Begriffen, welche uns nahe liegen, mit Anschauungen, in welche sich der Laie bald versetzen konnte. Jetzt im Verlaufe des Werkes werden die Untersuchungen schon complizirter, der Geist der Wissenschaft gibt die Deutlichkeit auf Kosten des Systemes nicht zu; aber wir hielten uns fest an den Demonstrationen des Verfassers, wir prägten seine Vordersätze unsrer Fassungskraft ein, wir fühlen kaum, daß wir aus Laien Kundige geworden sind, daß wir uns mitten in dem Systeme selbst befinden.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:ref type="esv" target="#annotation-29">
           <tei:hi style="letter-sparse">Littrow’s Himmel</tei:hi>
         </tei:ref>
@@ -149,7 +153,7 @@
         <tei:ref type="esv" target="#annotation-31">die Popularität nichts der Wissenschaft entzieht</tei:ref>
         <tei:seg>, was ihr gehört. Die geschmackvolle Ausdrucksweise des Verfassers ist seinem Gegenstande durchweg angemessen.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:ref type="esv" target="#annotation-30">
           <tei:hi style="letter-sparse">Hugo’s Geschichte des Kaisers Napoleon</tei:hi>
         </tei:ref>
@@ -157,7 +161,7 @@
         <tei:hi style="letter-sparse">Elsner</tei:hi>
         <tei:seg> zulässig wurde. Mehre Hefte des letztern liegen uns vor; doch scheint der jetzige Bearbeiter, auf die Bereitwilligkeit des Publikums rechnend, sich in Ausdehnungen zu gefallen. Bei solchem Streben müssen denn Dinge unterlaufen, wie man sie zur Ergötzlichkeit z. B. Bd. II. S. 97 liest: „Man kann die Seemächte theilen in die katholischen, protestantischen und neutralen.“ Diese Eintheilung ist drollig. Was hat die Religion mit der Marine zu thun?</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:ref type="esv" target="#annotation-32">
           <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
         </tei:ref>
@@ -172,7 +176,7 @@
         <tei:pb n="551"/>
         <tei:seg>fühl von jenseits der Elbe zu versetzen, wie hier geschehen ist.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Im Allgemeinen aber bitten wir die </tei:seg>
         <tei:ref type="esv" target="#annotation-39">Firma </tei:ref>
         <tei:ref type="esv" target="#annotation-35">
@@ -181,25 +185,27 @@
         <tei:seg>, in ihrer heillosen Büchermacherei einzuhalten und die kaum erwachte Theilnahme des Publikums durch übergroße Zudringlichkeit nicht zu erkälten.</tei:seg>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">97,6</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">keine Plakate und große Kupferwerke</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Zwar warb auch schon der von Gutzkow so bezeichnete ,alte‛ Buchhandel mit ausgehängten Plakaten und druckgraphischen Erzeugnissen. Öffentliche Aushänge des Angebots waren sogar bereits in der Handschriftenzeit vor Erfindung des Buchdrucks mit beweglichen Lettern üblich. Jedoch wurden die buchhändlerischen Werbemethoden im ersten Drittel des 19. Jahrhunderts aufgrund der zunehmenden Industrialisierung im Buchgewerbe wie auch in anderen Geschäftsbranchen aufdringlicher. Vgl. die Erläuterungen zum Begriff ,Ausverkauf‛ in </tei:seg>
           <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
           <tei:seg>, → Erl. zu 158,15.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-2">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">97,8</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:foreign>la vie et la bourse</tei:foreign>
+          <tei:citedRange type="word-range">
+            <tei:foreign>la vie et la bourse</tei:foreign>
+          </tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Der Räuberausdruck lautet im Französischen (wie im Deutschen ‚Geld oder Leben!‛) eigentlich: ‚La bourse ou la vie!‛ Die Variante ,Geld und Leben!‛, also  ‚la bourse et la vie!‛, war ein Topos für fordernde Unverschämtheit.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -310,7 +316,6 @@
         <tei:p style="text-left">
           <tei:seg>Carl Friedrich Splittegarb (1753-1802), Pädagoge und Leiter einer Knabenschule in Berlin, schrieb Lese- und Rechenbücher sowie Sprachlehrwerke für den Schulunterricht, auch Handbücher für Lehrer. Zu den Unterrichtswerken gehören: „Neues Bilder-ABC. Eine Anleitung zum Lesen, dergleichen es bisher noch nicht gab“ (1787), „Neues Bilder-ABC oder Deutsches Lesebuch für die Jugend“ (1795-98), sowie „Deutsche Sprachlehre für Anfänger mit Aufgaben“ (10. Aufl. 1824), „Anleitung zum Rechnen“ (9. Aufl. 1825), und „Französisches Lesebuch für Anfänger: nebst einer kurzgefaßten Grammatik und einem französ.-deutschen Wörterbuch“ (10. Aufl. 1831).</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-19">
         <tei:p style="text-left">
@@ -321,7 +326,6 @@
         <tei:p style="text-left">
           <tei:seg>„Der Kinderfreund. Ein Lesebuch zum Gebrauch in Landschulen“ von Friedrich Eberhard Freiherr von Rochow (1734-1805) erschien 1776 (Teil 1) und 1779 (Teil 2). Das Werk war das erste Volksschullesebuch und eines der erfolgreichsten Bücher des letzten Drittels des 18. Jahrhunderts, von dem in kurzer Zeit 100.000 Exemplare abgesetzt wurden. Das Buch erlebte insgesamt fast 200 Auflagen und wurde bis 1871 im Volksschulunterricht eingesetzt.</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-14">
         <tei:p style="text-left">
@@ -332,7 +336,6 @@
         <tei:p style="text-left">
           <tei:seg>Bücher wurden ungebunden und gerollt als ,Ballen‛ in Fässern transportiert, um sie vor Feuchtigkeit zu schützen. Die Buchhandelsmetropole Leipzig war ab der Mitte des 18. Jahrhunderts der wichtigste Umschlagplatz für Bücherversendungen: Verleger im deutschen Sprachraum und auch im Ausland schickten Neuerscheinungen an ihre Kommissionäre in Leipzig, die die Sendungen wiederum in der entsprechenden Stückzahl auf die von ihnen belieferten Buchhandlungen im Deutschen Bund aufteilten und versandten.</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-15">
         <tei:p style="text-left">
@@ -343,7 +346,6 @@
         <tei:p style="text-left">
           <tei:seg>Bezeichnenderweise ist der erste der preiswerten Artikel, mit denen der junge Buchhändler Kunden anzulocken versucht, ein Produkt der damals kontrovers diskutierten belgischen Nachdruckindustrie (→ Lexikon: Brüsseler Nachdruck). </tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-11">
         <tei:p style="text-left">
@@ -354,7 +356,6 @@
         <tei:p style="text-left">
           <tei:seg>Wie der im selben Satz genannte Kollmann verlegte der in Nordhausen ansässige E. F. Fürst (1802-1861) besonders populäre Unterhaltungsliteratur. Dieser Verleger spezialisierte sich auf Ritter-, Räuber- und Abenteuerromane. Als Beispiel sei ein Werk des Verlagsautors C. F. Fröhlich genannt: „Der Alte vom Berge, oder: Thaten und Schicksale des tapfern Templers Hugo v. Maltitz, und seiner geliebten Mirza. Ein Gemälde aus den Zeiten der Kreuzzüge. Nordhausen: Fürst, 1828“ (Preis: 1 Taler); „neue, wohlfeile Ausgabe 1834“ (Preis: 18 Groschen). Angaben nach Wilhelm Heinsius: Allgemeines Bücher-Lexikon. Bd. 8, bearb. von August Otto Schulz. Leipzig: Brockhaus, 1838. Abt. 1, S. 249.</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-12">
         <tei:p style="text-left">
@@ -365,7 +366,6 @@
         <tei:p style="text-left">
           <tei:seg>Christian Ernst Kollmann (1792-1855), Verleger in Leipzig, produzierte belletristische Literatur für Leihbibliotheken und gab zahlreiche preiswerte Unterhaltungs- und Jugendbibliotheken heraus. Seine „Bibliothek wohlfeiler Unterhaltungsschriften“ brachte zwischen 1829 und 1834 sechzehn Bändchen im Taschenformat. Bändchen 16 enthielt als „neue wohlfeile Ausgabe“ einen bereits 1822 bei Klein in Leipzig erschienenen Titel: „Schreckens-Tage der unglücklichen Elmira Czetikar, einer jungen Griechin aus Jassy. Eine Schauder-Geschichte aus der gegenwärtigen griechisch-türkischen Kriegs-Epoche. Aus den Papieren eines ***schen Gesandtschafts-Sekretairs. Frei nach dem Englischen bearbeitet von C. M. Rittler. Neue wohlfeile Ausgabe“ (Preis: 12 Groschen; Angaben nach Heinsius, Bd. 8, Abt. 1, S. 84).</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-13">
         <tei:p style="text-left">
@@ -404,12 +404,14 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-18">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">98,18</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">à condition</tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>à condition</tei:foreign>
+          </tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Franz. ,bedingungsweise‛. Der Ausdruck bezeichnet den ,Bedingtverkehr‛ im deutschen Buchhandel seit Ende des 18. Jahrhunderts: Verlage lieferten dem Sortimentsbuchhandel unaufgefordert Neuerscheinungen zu, die bei Nichtverkauf an den Verlag zurückgegeben werden durften. Der neue Buchhändler sendet zum Erwerb von Kundschaft also aus seinem gerade angekommenen Leipziger Bücherballen voller Titel, die ihm </tei:seg>
           <tei:q>à condition</tei:q>
           <tei:seg> zugekommen sind, Exemplare ungebeten zur Ansicht an Unbekannte weiter.</tei:seg>
@@ -477,7 +479,6 @@
           <tei:q>Werken der Industrie</tei:q>
           <tei:seg> fällt, Beiträge dieser Gattung wie Eduard Beurmanns „Die Borjer (Bild aus Frankfurt)“ und „Skizzen aus den Hansestädten“ oder Eduard Kolloffs „Karaktergemälde aus Paris“.</tei:seg>
         </tei:p>
-        <tei:p style="text-left"/>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-38">
         <tei:p style="text-left">
@@ -590,9 +591,7 @@
           <tei:citedRange type="page-line-ref">100,32</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>werthvollen Werkes von </tei:seg>
-            <tei:hi style="letter-sparse">Preuß</tei:hi>
-          </tei:citedRange>
+            </tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
           <tei:seg>Der Wert bestand in der gründlichen Arbeit des Geschichtsprofessors: Johann David Erdmann Preuß: Friedrich der Große. Eine Lebensgeschichte. 4 Bde. Text, 5 Teile Urkunden. Berlin: Rauck, 1832-34. Zusätzlich kam vom selben Verfasser eine Art ,Volksausgabe‘ heraus: Die Lebensgeschichte des großen Königs Friedrich von Preußen. Ein Buch für Jedermann. 2 Teile. Berlin: Rauck, 1834.</tei:seg>
@@ -629,9 +628,7 @@
           <tei:citedRange type="page-line-ref">101,7</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            <tei:seg>Firma </tei:seg>
-            <tei:hi style="letter-sparse">Scheible</tei:hi>
-          </tei:citedRange>
+            </tei:citedRange>
         </tei:p>
         <tei:p style="text-left">
           <tei:seg>Der Verlag von Johann Scheible (1809-1866) wurde 1831 gegründet und gehörte zu den dynamischen Stuttgarter Firmen (→ Lexikon: Spekulativer Verleger). Ein extremes Beispiel für die kommerzielle Ausnutzung seiner Artikel bietet Abel Hugos „Geschichte des Kaisers Napoleon“ (→ Erl. zu 100,19), die vom französischsprachigen Werk zur Übersetzung und schließlich zur bearbeiteten Publikation wurde. Während aller seiner Mutationen kam dieses Werk in lukrativen Lieferungen heraus. Bei Scheible erschienen Werke häufiger zunächst in der französischen Originalsprache, und eine Übersetzung folgte nach Kalkül.</tei:seg>
@@ -639,58 +636,58 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München, und Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkow nahm den 1835 im „Literatur-Blatt“ des „Phönix“ erschienenen Text 1836 in überarbeiteter und gekürzter Form in das Kapitel </tei:seg>
         <tei:q>→ Literarische Industrie</tei:q>
         <tei:seg> seiner Sammlung </tei:seg>
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg> auf. </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung</tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:head type="level-4">
-        <tei:seg>1.1.1. Übersicht</tei:seg>
-      </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
-      <tei:p style="no-indent text-left"/>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J [Anon.:] Werke der Industrie. In: Phönix. Literatur-Blatt. Frankfurt/M.  Nr. 23, 13. Juni 1835, S. 549-551. (Rasch 3.35.06.13.1)</tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E Literarische Industrie. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836. Bd. 1, S. 1-22. (Rasch 2.13.1.2.) Die Passagen aus J finden sich auf S. 1-6.</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:citedRange type="page-line-ref"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">99,27</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Embonpoint</tei:lem>
@@ -698,78 +695,73 @@
         <tei:sic>Emponpoin</tei:sic>
         <tei:sic>t</tei:sic>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">100,33</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>welches</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>welche</tei:sic>
         <tei:seg> </tei:seg>
-        <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">99,27</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Allein Nicolai sagte, er würde schon sehen, wie weit man damit käme</tei:lem>
         <tei:seg> Dieser Satz findet sich nicht in J, sondern nur in E, und ist zu streichen</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">101,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Erfolg</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Verfolg</tei:sic>
-        <tei:citedRange type="page-line-ref"/>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Für die Aufnahme des Textes in E strich Gutzkow die Bezüge auf aktuelle Fortsetzungspublikationen in Heftform (ab 99,29: </tei:seg>
         <tei:q>Das Glück, welches die Heftliteratur machte</tei:q>
         <tei:seg>). Damit entfielen die Hinweise auf </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Okens Naturgeschichte</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Okens Naturgeschichte</tei:q>
+        </tei:hi>
         <tei:seg>, </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Littrow's Himmel</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Littrow's Himmel</tei:q>
+        </tei:hi>
         <tei:seg>, </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Hugo's Geschichte des Kaisers Napoleon</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Hugo's Geschichte des Kaisers Napoleon</tei:q>
+        </tei:hi>
         <tei:seg> und </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Friedrich der Große von Theobald Chauber</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Friedrich der Große von Theobald Chauber</tei:q>
+        </tei:hi>
         <tei:seg>: alles popularisierende naturwissenschaftliche oder historische Werke, die als Fortsetzungspublikationen für weite Käuferkreise erschwinglich wurden und deren Verdienste Gutzkow anerkannte, wenn er auch die ,industrielle‛ Buchproduktion des Stuttgarter Verlags Scheible tadelte (101,7).</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Weitere Änderungen in E sind kleinere Kürzungen oder Zusätze sowie eine Reihe von Straffungen und Glättungen. Exemplarisch für diese Überarbeitung steht der zweite Abschnitt:</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> J: </tei:seg>
         <tei:q>Die Journalistik hat den alten Buchhandel zu Grunde gerichtet. Die Journale veranlaßten die Lesezirkel, die Lesezirkel absorbirten die Kauflust der Privaten. Es waren zwei Dinge nothwendig: neue Käufer zu gewinnen, und die Waare selbst äußerlich in andere Gestalt zu bringen. Wir reden noch nicht von den populären Schriften; wir stehen erst bei der „beispiellos wohlfeilen“ Periode.</tei:q>
         <tei:seg> (97,17-23)</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>E: </tei:seg>
         <tei:q>Die Journalistik hat den alten Buchhandel zu Grund gerichtet; denn die Journale veranlaßten die Lesezirkel und die Lesezirkel absorbirten die Kauflust der Privatleute. So wurden denn zwei Dinge nothwendig: neue Käufer zu gewinnen und die Waare selbst von Außen in eine andere Gestalt zu bringen. </tei:q>
       </tei:p>
-      <tei:p style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:head type="level-2">
-        <tei:seg>Kommentierung</tei:seg>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg> Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

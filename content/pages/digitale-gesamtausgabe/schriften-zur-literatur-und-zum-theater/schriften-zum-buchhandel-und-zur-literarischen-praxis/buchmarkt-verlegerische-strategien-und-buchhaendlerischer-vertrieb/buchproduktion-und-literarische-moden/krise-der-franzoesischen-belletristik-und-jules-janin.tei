@@ -46,12 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="251"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Krise der französischen Belletristik und Jules Janin.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>* Auch der französische belletristische Buchhandel hat Bankerott gemacht. Eine Menge junger Romantiker, die auf der vierten Seite der Zeitungen schon unsterblich waren (die Zeile 1 Franc 50 Centimes) mußten wieder in das Chaos der </tei:seg>
         <tei:pb n="252"/>
         <tei:seg> Nichtexistenz zurück. Sie konnten keine Verleger, oder besser gesagt, die Verleger konnten keine Capitalisten mehr finden. Aus diesem Schiffbruch von Genie und Albernheit, Geist und Fadheit, Phantasie und schlechten Sitten hat sich nur Einer gerettet, Jules Janin, der apportirende Pudel der Tagesconversation, die Ephemere des Feuilletons, die täglich sterbende und täglich vom Sonnenschein neu ausgebrütete, Jules Janin, der Schatten jedes Ereignisses, das Echo jeder Begebenheit, der Daguerre des Tages, der in der unausgesetzt schaukelnden Bewegung der Mode und der kleinen Ereignisse jeden nur einen Moment fixen Moment fixirt, Jules Janin, der Feuilletonist der </tei:seg>
@@ -66,55 +66,58 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J. [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 63, [17.] April 1840, S. 251–252. (Rasch 3.40.04.17.2)</tei:seg>
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 63, [17.] April 1840, S. 251–252. (Rasch 3.40.04.17.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>In der Buchausgabe (GWB IV, Bd. 7) wurde ein Texteingriff vorgenommen, der rückgängig gemacht wurde:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">111,12</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>jeden nur einen Moment fixirt</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>jeden nur einen Moment fixen Moment fixirt</tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

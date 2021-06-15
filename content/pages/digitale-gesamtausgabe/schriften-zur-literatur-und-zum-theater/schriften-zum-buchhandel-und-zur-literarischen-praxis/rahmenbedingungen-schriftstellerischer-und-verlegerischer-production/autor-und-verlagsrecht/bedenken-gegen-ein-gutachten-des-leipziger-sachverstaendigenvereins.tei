@@ -46,12 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="56"/>
         <tei:seg> Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins.</tei:seg>
         <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die Zeitungen berichten, ohne die nähern Umstände anzugeben, daß der leipziger Sachverständigenverein die neue Auflage der bei Voß in Berlin erschienenen Gedichte von Karl Beck für Nachdruck erklärt und somit das Recht der Beschlagnahme erwirkt hätte.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -70,14 +70,14 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Was thut nun der Sachverständigenverein? Er spielt die Rechtsfrage auf ein anderes, völlig heterogenes Gebiet, auf das des Nachdrucks. Für ein so leichtes und bequemes Manoeuvre brauchen die Juristen und Parteien keine Sachverständigen zu fragen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Sind Beck’s Gedichte </tei:seg>
         <tei:hi style="letter-sparse">Nachdruck</tei:hi>
         <tei:seg> der frühern einzelnen Ausgaben? Der Verfasser steht auf dem Titel, unter der Vorrede, er garantirt moralisch die Rechtmäßigkeit der neuen Auflage, er wird sich vertheidigen, er wird in einem Processe Rede stehen müssen; ist da Beschlagnahme auf </tei:seg>
         <tei:hi style="letter-sparse">Nachdruck</tei:hi>
         <tei:seg> nothwendig? zulässig? entschuldbar?</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Kann angenommen werden, daß ein Autor sich selbst nachdruckt?</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -96,130 +96,134 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J. </tei:seg>
-          <tei:hi style="letter-sparse">Ein Literat</tei:hi>
-          <tei:seg> [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18)</tei:seg>
+        <tei:item data-source-id="J">
+          <tei:seg>J Ein Literat [d. i. Karl Gutzkow]: Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins. In: Allgemeine Preßzeitung. Leipzig. Nr. 14, 18. Februar 1845, S. 56. (Rasch 3.45.02.18)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,3</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Recht</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Rechte</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,3</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>sein;</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>sein,</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,5</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>u. s. w.</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>u. s. w.:</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,9</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>keinen</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>keine</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,15</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>nothwendig</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>nothwendig?</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,16</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>druckt</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>nachdruckt</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,21</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>doch</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>auch</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,21-22</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>zu kurz</tei:lem>
         <tei:seg> lies:</tei:seg>
         <tei:hi style="letter-sparse"> </tei:hi>
-        <tei:sic>
-          <tei:hi style="letter-sparse">zu kurz</tei:hi>
-        </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>zu kurz</tei:sic>
+        </tei:hi>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">29,23</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>
-          <tei:hi style="letter-sparse">Literat</tei:hi>
-        </tei:lem>
+        <tei:hi style="letter-sparse">
+          <tei:lem>Literat</tei:lem>
+        </tei:hi>
         <tei:seg> lies: </tei:seg>
-        <tei:sic>
-          <tei:hi style="letter-sparse">Literat.</tei:hi>
-        </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>Literat.</tei:sic>
+        </tei:hi>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>A. Berger: Bemerkungen zu den „Bedenken gegen das Gutachten des Leipziger Sachverständigenvereins“. In: Allgemeine Preßzeitung. Leipzig. Nr. 21, 14. März 1845, S. 81-82; Nr. 22, 18. März 1845, S. 85-86. (Rasch 9/2.45.03.14)</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Der wissenschaftliche Apparat wird hier als work in progress zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>

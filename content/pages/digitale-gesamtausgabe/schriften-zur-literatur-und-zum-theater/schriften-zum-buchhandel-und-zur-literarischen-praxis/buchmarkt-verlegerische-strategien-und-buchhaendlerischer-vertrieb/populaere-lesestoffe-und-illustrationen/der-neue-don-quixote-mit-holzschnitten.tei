@@ -46,11 +46,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="281"/>
         <tei:seg> Der neue Don-Quixote mit Holzschnitten.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Wenn man die </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Industrie</tei:ref>
         <tei:seg> und den Unternehmungsgeist des Buchhandels, wie er sich seit länger als zehen Jahren in Deutschland entwickelt hat, verfolgt, so wird man leicht gewisse Perioden unterscheiden können, wo sich die </tei:seg>
@@ -67,7 +67,7 @@
         </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Man versteht unter dieser Art, berühmte Werke herauszugeben, eine </tei:seg>
         <tei:ref type="esv" target="#annotation-7">in Frankreich und England mit beispiellosem Erfolg aufgenommene</tei:ref>
         <tei:seg> </tei:seg>
@@ -82,7 +82,7 @@
         <tei:ref type="esv" target="#annotation-11">sie gibt den Künsten Gelegenheit, sich in geistvollen und ihre Popularität befördernden Arbeiten zu ergehen</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:ref type="esv" target="#">Der in Stuttgart erscheinende </tei:ref>
         <tei:ref type="esv" target="#annotation-12">
           <tei:hi style="letter-sparse">Don-Quixote</tei:hi>
@@ -117,7 +117,7 @@
         <tei:ref type="esv" target="#annotation-23">Reinecke Fuchs</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Als einen besonders sinnigen Zug muß man den Stuttgarter Herausgebern dieses </tei:seg>
         <tei:hi style="letter-sparse">illustrirten Don Quixote</tei:hi>
         <tei:seg> nachsagen, daß sie, um ein neues industrielles Genre in die Literatur einzuführen und es mit der Weihe der Bedeutsamkeit zu versehen, </tei:seg>
@@ -442,47 +442,49 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J [Karl] G[utzkow]: Der neue Don-Quixote mit Holzschnitten. In: Frankfurter Telegraph. Neue Folge. Nr. 36, [2.] Juni 1837, S. 281-282. (Rasch 3.37.06.02)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">136,29</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>befördernden</tei:lem>
@@ -490,14 +492,13 @@
         <tei:sic>beförde nden</tei:sic>
         <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6.1 Globalkommentar</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkows Rezension </tei:seg>
         <tei:q>Der neue D</tei:q>
         <tei:q>on-Quixote mit Holzschnitten</tei:q>
@@ -515,7 +516,7 @@
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg>).</tei:seg>
       </tei:p>
-      <tei:head type="level-3"/>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>

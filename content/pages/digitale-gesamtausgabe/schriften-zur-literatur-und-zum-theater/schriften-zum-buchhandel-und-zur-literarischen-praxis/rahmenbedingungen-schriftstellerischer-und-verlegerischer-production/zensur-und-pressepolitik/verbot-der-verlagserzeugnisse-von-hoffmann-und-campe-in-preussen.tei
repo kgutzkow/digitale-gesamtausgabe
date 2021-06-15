@@ -46,12 +46,12 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="478"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Verbot der Verlagserzeugnisse von Hoffmann und Campe in Preußen.]</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>*** Von der Niederelbe, im Februar. Die belgische, französische, selbst englische Journalistik hat sich mit der bekannten preußischen Ausschließung des Verlags der Buchhandlung Hoffmann und Campe in Hamburg beschäftigt. Die Journale aller Farben haben ein solches Generalverbot der Zukunft für sehr bedenklich erklärt. Indessen mag vom deutschen Preßstandpunkte aus dieses Verfahren der preußischen Regierung gegen einen Verleger, der eine entschiedene liberale Richtung verfolgte und, oft gewarnt, den Debit aufreizender Schriften nicht lassen konnte, eine andere Beurtheilung erfordern. Das Mißliche eines solche Schrittes, so gerecht er gegen den Verleger seyn mag, liegt nur in den Consequenzen für die von ihm </tei:seg>
         <tei:hi style="letter-sparse">Verlegten</tei:hi>
         <tei:seg>. Eine Firma, wie die von Hoffmann und Campe, eine Buchhandlung von so bedeutenden Geldmitteln, von so weitverzweigten Verbindungen, ist nicht bloß der Stamm, an welchen sich ein einzelnes Buch lehnt, sondern die ganze Thätigkeit mancher Schriftsteller, der ganze Ausdruck ihres litterarischen Berufs, die Interessen eines ganzen Lebens ranken sich an einen Verleger von solcher Geltung an. </tei:seg>
@@ -62,90 +62,93 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="">
           <tei:seg>J [Anon.:] Von der Niederelbe, im Februar. In: Allgemeine Zeitung. Augsburg. Nr. 60, 1. März 1842, S. 478–479. (Rasch 3.42.03.01)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">73,10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>verfolgt</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>verfolgte</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">73,25</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>literarischen</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>litterarischen</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">73,33</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>die Thätigkeiten</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>die edelsten Thätigkeiten</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">73,34-74,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>haben</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>haben,</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">74,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>sich sich</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>sich</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">74,16</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Publikums</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Publicums</tei:sic>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

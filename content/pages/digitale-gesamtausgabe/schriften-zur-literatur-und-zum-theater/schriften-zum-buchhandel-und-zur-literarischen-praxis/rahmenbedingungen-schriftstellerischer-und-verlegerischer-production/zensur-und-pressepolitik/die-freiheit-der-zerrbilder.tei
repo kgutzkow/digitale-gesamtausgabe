@@ -46,11 +46,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="69"/>
         <tei:seg> Die Freiheit der Zerrbilder.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Trotz Herwegh-Ausweisungen, Zeitungsverboten und Concessionsrücknahmen kann man die gewaltigen Fortschritte der deutschen Presse nicht läugnen. Selbst in den Aktenstücken, die die neuesten so viel besprochenen ministeriellen Reactionen auf ihre Gründe zurückführen, findet man Zugeständnisse, die man dem vor drei Jahren noch so verhaßten Zeitgeist nicht gemacht hat. Welche Lebendigkeit jetzt auf einem Felde, wo man früher nur mit Filzschuhen auftreten durfte! Die Zeit von jetzt würde der Zeit von damals ein Gräuel scheinen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -76,10 +76,10 @@
         <tei:pb n="70"/>
         <tei:seg> nicht Wurzel schlagen wollen. Das Charivari von heute darf seit geraumer Zeit keine politische Carrikaturen mehr bringen. Es geißelt nur noch die Thorheiten des Pariser Lebens und seine ergiebigste Quelle sind die Travestissements und Quiproquos des Carneval.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Als man vor einem Jahre etwa in Berlin Carrikaturenfreiheit dekretirte, werden wohl Viele erstaunt seyn. Ich gestehe, zu diesen Staunenden mitgehört zu haben. Wie, man verweigert uns die Freiheit der Feder und giebt die schwarze Kreide des Lithographen frei? Man giebt uns nicht die Freiheit der Presse, sondern die Freiheit der Carrikaturen? Wer hat diese Freiheit begehrt? Wo liegt in unserm Volk der Sinn für Zerrbilder? War in einer Zeit so bittern Ernstes das Bedürfniß zum Scherze da?</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Ich wiederhole, daß ich diese Carrikaturenfreiheit nicht begreife. Man giebt Arabesken frei und nicht das innere Bild? Man giebt Randverzierungen frei und nicht den Spruch, den sie einschließen? Kein Mensch hat diese frivole Freiheit der Zerrbilder begehrt. Sie entspricht keinem einzigen Zuge im deutschen Charakter. Wir haben nichts von jener hämischen Spottsucht, mit der der ohnmächtige Italiener so gern sein Müthchen kühlt. Bei uns würde die Säule des Pasquino leer stehen, selbst wenn sie von Rathswegen in jeder Stadt aufgestellt würde. Es liegt nicht in unserm Charakter, durch Zerrbilder unsere Meinung zu sagen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -110,70 +110,73 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkow nahm seinen zuerst 1843 im „Telegraph für Deutschland“  publizierten Beitrag </tei:seg>
         <tei:q>Die Freiheit der Zerrbilder</tei:q>
         <tei:seg> unter demselben Titel 1844 in seine Sammlung </tei:seg>
         <tei:q>Aus der Zeit und dem Leben</tei:q>
         <tei:seg> auf.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung</tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:head type="level-4">
-        <tei:seg>1.1.1. Übersicht</tei:seg>
-      </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
+      <tei:item data-source-id="J">
+        <tei:seg>J K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30)</tei:seg>
+      </tei:item>
       <tei:list type="sources">
-        <tei:item>
-          <tei:seg>J K[arl] Gutzkow: Die Freiheit der Zerrbilder. In: Telegraph für Deutschland. Hamburg. Nr. 18, [30.] Januar 1843, S. 69–70. (Rasch 3.43.01.30)</tei:seg>
-        </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E Karl Gutzkow: Die Freiheit der Zerrbilder. In: Ders.: Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844. S. 124-132. (Rasch 2.25.3.4)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zwischen J und E finden sich kaum Differenzen: Die Fußnote: </tei:seg>
         <tei:q>In der </tei:q>
-        <tei:q>
-          <tei:hi style="letter-sparse">Mannheimer Abendzeitung</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Mannheimer Abendzeitung</tei:q>
+        </tei:hi>
         <tei:q> lasen wir kürzlich folgenden unglaublichen Ausdruck aus Kölln: „</tei:q>
-        <tei:q>
-          <tei:hi style="letter-sparse">Der neue Censor der Rheinischen Zeitung streicht wie verrückt</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Der neue Censor der Rheinischen Zeitung streicht wie verrückt</tei:q>
+        </tei:hi>
         <tei:q>.“</tei:q>
         <tei:seg> (77,32-35) ist in E  gestrichen, dafür aber weist dieser Text am Schluss einen Zusatz auf, der vom Text durch einen Asterisk abgesetzt ist und sich lakonisch auf die Karikaturenfreiheit bezieht: </tei:seg>
         <tei:q>Sie ist gestrichen.</tei:q>
         <tei:seg> Ansonsten folgt E der Absatzeinteilung und dem Wortlaut von J.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

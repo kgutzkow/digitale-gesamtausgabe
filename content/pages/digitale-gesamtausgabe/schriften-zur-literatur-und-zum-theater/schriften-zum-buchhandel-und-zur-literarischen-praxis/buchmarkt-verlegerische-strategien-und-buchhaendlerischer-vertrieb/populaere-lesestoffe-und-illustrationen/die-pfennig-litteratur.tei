@@ -46,14 +46,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="513"/>
         <tei:seg> Die Pfennig-Litteratur.</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>*** Leipzig, Anfang März. In der Nachmittagsstunde von drei bis vier Uhr versammelt eine neue Erscheinung, welche sich regelmäßig fast täglich vorn in der </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Grimmaischen Gasse</tei:ref>
         <tei:seg> unweit dem großen Markte vorfindet, eine Menge neugieriger Zuschauer. Wir befinden uns vor dem eleganten Gewölbe des Buchhändlers </tei:seg>
@@ -64,9 +61,12 @@
         <tei:ref type="esv" target="#annotation-4">Kommissionairen</tei:ref>
         <tei:seg>, welche es bis in die verstektesten Winkel Deutschlands spediren. Der federleichte durchsichtige Wagenlenker immer voran, und einige Buchhalter, Hand­knechte und Lehrlinge in gewisser Entfernung hinterher. Alles blikt freundlich, die Hände werden mit Seligkeit gerieben; man sieht es diesen Trabanten an, daß es sich um Tausende von Exemplaren und um eben so viel Thaler handelt. Bossange Père  ist stolz auf seine Erfindung. Obschon er nicht ein deutsches Wort versteht, so pflegt er doch oft auf französisch zu sagen, er liebe die Deutschen, sie seyen nächst den Franzosen die erste Nation. Bossange Père vergleicht sich oft mit Napoleon, und behauptet etwas vollbracht zu haben, was selbst dem großen Kaiser nicht gelungen sey, eine unzertrennliche Allianz zwischen Frankreich und Deutschland. </tei:seg>
         <tei:foreign>La librairie en Allemagne</tei:foreign>
-        <tei:ref type="esv">, sagt er oft, </tei:ref>
-        <tei:ref type="esv" target="#annotation-5">n’était jusqu’alors qu’une chimère: moi j’étais le pre­mier à montrer ce que c’est que d’avoir une idée. Mon magazin était une idée; mais une idée-vérité</tei:ref>
-        <tei:seg>. Der stolze Mann sagt nicht zu viel, denn es handelt sich um eine Wahrheit von 50,000 Exemplaren, um einen aufgehaltenen Bankerott, um eine glänzende Zukunft, um eine Wahrheit, welche sich Pferd und Wagen hat anschaffen können. </tei:seg>
+        <tei:ref type="esv" target="#">, sagt er oft, </tei:ref>
+        <tei:ref type="esv" target="#annotation-5">
+          <tei:foreign>n’était jusqu’alors qu’une chimère: moi j’étais le pre­mier à montrer ce que c’est que d’avoir une idée. Mon magazin était une idée; mais une idée-vérité</tei:foreign>
+        </tei:ref>
+        <tei:foreign>.</tei:foreign>
+        <tei:seg> Der stolze Mann sagt nicht zu viel, denn es handelt sich um eine Wahrheit von 50,000 Exemplaren, um einen aufgehaltenen Bankerott, um eine glänzende Zukunft, um eine Wahrheit, welche sich Pferd und Wagen hat anschaffen können. </tei:seg>
         <tei:ref type="esv" target="#annotation-6">Baumgärtner</tei:ref>
         <tei:seg> ist dem Franzosen schnell auf dem Fuße gefolgt. Sein </tei:seg>
         <tei:hi style="letter-sparse">Heller-Magazin</tei:hi>
@@ -87,7 +87,7 @@
         <tei:seg>, welche nicht fehlen dürfen. Die </tei:seg>
         <tei:ref type="esv" target="#annotation-12">Londoner Stöke sind schwer zu verschaffen, die Pariser besizt Bossange, und die Berliner Stöke, den Professor Gubitz</tei:ref>
         <tei:seg> an der Spize, laufen in ein ungeheures Geld. Man rechnet, daß ein freies ungefesseltes Vermögen von 8000 Thalern, sogleich auf den Tisch zählbar, dazu gehört, die Konkurrenz der schon blühenden Institute auszuhalten. Erwägt man nun, daß es sich um einen buchhändlerischen Umsaz einer Summe von mehr als 200,000 Thalern jährlich bei diesen neuen Erscheinungen handelt, so wäre es möglich, daß auch in Deutschland sich bald ein solcher Widerspruch gegen die Pfennigindustrie erheben würde, wie er jezt in England schon eingetroffen ist</tei:seg>
-        <tei:ref type="esv"/>
+        <tei:ref type="esv" target="#"/>
         <tei:seg>. Ansehnliche Buchhandlungen, wie z. B. </tei:seg>
         <tei:ref type="esv" target="#annotation-13">Duncker und Humblot</tei:ref>
         <tei:seg> in Berlin, schiken alle Pfennig-Ankündigungen zurük, und vielleicht treten in der nächsten Messe einige störende Reibungen wegen der Pfennigfrage ein. Doch sind die deutschen Verhältnisse verschieden von den englischen. Denn in Deutschland ist die Pfennig-Litteratur, vom buchhändlerischen Standpunkte aus gesehen, keine Neuerung. Unsre Litteratur ist niemals zu hohen Preisen angeschlagen worden. Unsre </tei:seg>
@@ -102,13 +102,13 @@
         <tei:ref type="esv" target="#annotation-17">Verbreitung gemeinnüziger Kenntnisse</tei:ref>
         <tei:seg> hat. Es ist zwar beschämend, daß über die gebildetsten Völker plözlich die Sucht gekommen ist, sich zu unterrichten, allein es handelt sich um Thatsachen aus der Geschichte, dem Völkerleben, der Natur, deren Kenntniß gerade in der gebildeten Welt nur zu oft vermißt wird.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="522"/>
         <tei:seg> Noch unendlich wichtiger ist die Verbindung der Pfen­nig-Litteratur mit den Fortschritten, welche die Industrie in der neuern Zeit mit so reißender Schnelligkeit gemacht hat. Deutschland, durch den jüngst abgeschlossenen </tei:seg>
         <tei:ref type="esv" target="#annotation-18">Zollverband</tei:ref>
         <tei:seg> nur um somehr aufgefordert, mit der englischen Gewerbsthätigkeit zu wetteifern, bedarf populairer Aufklärung über seinen Vortheil. Es ist viel zu wenig unterrichtet über die Vereinfachung der Gewerbe, über die Benuzung einfacher physikalischer, chemischer und namentlich mechanischer Kräfte und Geseze zu seinen industriellen Arbeiten, ja es fehlt selbst an vielen Orten die Bekanntschaft damit, wie man Lokalbegünstigungen, z. B. Steinkohlen- und Torflager, in das Interesse seines Gewerbes ziehen kan. Freilich hat unter den deutschen Pfennig-Blättern nur erst das National-Magazin, welches von dem </tei:seg>
         <tei:ref type="esv" target="#annotation-19">Deutsch-Amerikaner </tei:ref>
-        <tei:ref type="esv">
+        <tei:ref type="esv" target="#">
           <tei:hi style="letter-sparse">List</tei:hi>
         </tei:ref>
         <tei:seg> geleitet wird, eine Bestimmung dieser Art in seinen Plan aufgenommen. Aber die Uebrigen müssen einsehen, daß sie zulezt sich diesem Beispiele anzuschließen haben, wenn sie sich die Theilnahme des Publikums fortdauernd erhalten wollen. Die Konkurrenz wird auch dem National-Magazin seinen </tei:seg>
@@ -194,13 +194,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-5">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">128,28-31</tei:citedRange>
           <tei:seg>  </tei:seg>
           <tei:foreign>La librairie en Alle­magne  […] mais une idée – vérité</tei:foreign>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Franz.: Der Buchhandel in Deutschland war bisher ein bloßes Hirngespinst; ich war der erste, der gezeigt hat, was es heißt, eine Idee zu haben. Mein Magazin war auch eine Idee, aber eine Idee mit Wahrheit.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -491,12 +491,12 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-31">
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">134,6-7</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Thiers, Mignet, Guizot, Cuvier</tei:citedRange>
         </tei:p>
-        <tei:p style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Beispiele für erstrangige Autoren jenseits der belletristischen Literatur, die sich durch heftweise Publikationen der Teilnahme eines großen nationalen Lesepublikums  gewiss sein konnten. Ihre berühmten Hauptwerke waren größtenteils in den 1820er Jahren erschienen. Adolphe Thiers (1797-1877), Journalist, Historiker und Politiker, veröffentlichte 1823-27 seine zehnbändige „Histoire de la Révolution française“; François Mignet (1796-1884), Historiker, Journalist und Staatsbeamter, 1824 die zweibändige „Histoire de la Révolution française de 1789 jusqu’en 1814“; François Guizot (1787-1874), Historiker und Staatsmann, 1828 die „Histoire générale de la civilisation en Europe“ und 1830 die vierbändige„Histoire de la civilisation en France“. Der Naturforscher Georges Cuvier (1769-1832) publizierte die beiden Hauptwerke seiner paläontologischen und geologischen Forschungen in einem ähnlichen Zeitraum: 1812, mit späteren Auflagen 1821 und 1825, die „Recherches sur les ossemens fossiles de quadrupèdes“, 1825 den „Discours sur les revolutions de la surface du globe“. </tei:seg>
         </tei:p>
       </tei:interp>
@@ -534,11 +534,25 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left"/>
-      <tei:p style="no-indent text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung </tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.   </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkow nahm den 1834 in der „Außerordentlichen Beilage zur Allgemeinen Zeitung“ veröffentlichten Artikel in gekürzter und überarbeiteter Form 1836 in seine Sammlung </tei:seg>
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg> auf. Dort bildet dieser Text den Abschluss des ersten Kapitels </tei:seg>
@@ -547,104 +561,90 @@
         <tei:q>Werke der Industrie</tei:q>
         <tei:seg> (GWB IV, Bd. 7, S. 97-101) und → </tei:seg>
         <tei:q>Der Ostermeßkatalog</tei:q>
-        <tei:seg> einarbeitete. </tei:seg>
+        <tei:seg> einarbeitete.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung </tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:head type="level-4">
-        <tei:seg>1.1.1. Übersicht</tei:seg>
-      </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.   </tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J [Anon]: Die Pfennig-Litteratur. In: Außerordentliche Beilage zur Allgemeinen Zeitung. Augsburg. Nr. 129 u. 130, 31. März 1834, S. 513-514; Nr. 131, 1. April 1834, S. 522-523. (Rasch 3.34.03.31)</tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E Karl Gutzkow: Literarische Industrie. In: Ders.: Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836. Bd. 1, S. 9-21. (Rasch 2.13.1.2) </tei:seg>
         </tei:item>
       </tei:list>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg> 2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt. </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg> 2.1.2 Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">129,2</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>gefolgt</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>gefogt</tei:sic>
       </tei:p>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der oben verzeichnete Texteingriff ist in der Buchausgabe (GWB IV, Bd. 7) nicht vorgenommen worden.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.2. Lesarten und Varianten</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die Umarbeitung von J für E besteht aus einer Reihe stilistischer Änderungen: So entfernte Gutzkow die Charakteristika des aktuellen Korrespondentenberichtes aus Leipzig, untergliederte den Text stärker in Abschnitte und straffte die detailreichen, manchmal abschweifenden Schildungen des Journaltextes durch Streichungen und glattere Übergänge. Orthographische Abweichungen betreffen vor allem die Schreibung von Konsonanten nach kurzen Vokalen: geschmakvolles J, geschmackvolles E; angeschaft J, angeschafft E; gemeinnüziger J, gemeinnütziger E; dagegen aber: Nummern J, Numern E. Im Gegensatz zu Sperrungen in J sind Eigennamen in E teilweise gefettet. Zahlen (z. B. </tei:seg>
         <tei:q>Es handelt sich um eine Wahrheit von 50,000 Exemplaren</tei:q>
         <tei:seg>, 128,32) stehen in E ebenfalls im Fettdruck.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg> 6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Der Beitrag </tei:seg>
         <tei:q>Die Pfennig-Litteratur</tei:q>
         <tei:seg> belegt Gutzkows früh einsetzendes publizistisches Engagement für eine sinnvolle Verbreitung von Wissen und literarischer Bildung durch Neuerungen im Druck- und Verlagswesen. Anfang der 1830er Jahre zeigten sich auf diesem Gebiet in Deutschland Innovationen, die aus England und Frankreich kamen: die Produktion und Distribution von Druckwerken in heftweisen Lieferungen. Leipzig stellte dabei den wichtigsten Umschlagplatz im deutschen Handelsraum dar: Hier betreuten ortsansässige Buchhändler (Kommissionäre) zwischen den Buchmessen die Leipziger Lager auswärtiger Verleger und belieferten in deren Namen und auf deren Rechnung Kunden im gesamten deutschen Raum. Der französische Verleger Martin Bossange (1765-1865) eröffnete in Leipzig eine Zweigstelle und begründete 1833 zusammen mit Johann Jakob Weber (1803-1880) nach englischem und französischem Vorbild das mit Holzstichen opulent illustrierte „Pfennig-Magazin“, das als Lieferungswerk in Heften für einen geringen Preis populärwissenschaftliche und unterhaltende Lesestoffe für ein breites Publikum bereit hielt und überaus reüssierte. Gutzkow registriert und verarbeitet dieses Phänomen sogleich an Ort und Stelle, nämlich während seines Aufenthalts in Leipzig von Mitte Januar bis Anfang März 1834. Mit der „(Außerordentlichen) Beilage“ zu der von Cotta verlegten, überregional bedeutenden Augsburger „Allgemeinen Zeitung“, für die der junge Autor in den ersten Monaten des Jahres 1834 regelmäßig Korrespondenzen lieferte, wurde ein großer gebildeter Leserkreis erreicht.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Im vorliegenden Beitrag hebt Gutzkow nicht nur auf die plötzliche Popularität des „Pfennig-Magazins“, dieses neuen Periodikums, ab, sondern stellt auch das Phänomen der heftweise und preisgünstig vertriebenen anderen Publikationsformen vor. Mit seinem nachdrücklichen Plädoyer für den ,Pfennigdemokratismus‛ beteiligt er sich an einem literarisch-politisch brisanten Diskurs der literarischen Intelligenz in den 1830er Jahren über die Vor- und Nachteile einer ungehemmten Expansion des Buchmarkts und einer Deregulierung der Buchzirkulation. Die Produktion von Groschen- und Pfennigliteratur scheint ihm ein wirksames Element eines </tei:seg>
         <tei:q>homöopathisch</tei:q>
         <tei:seg> wirkenden Selbstheilungsprozesses im Verlagsgewerbe zu sein, denn diejenige verflachte Literatur der Restaurationsperiode, die </tei:seg>
         <tei:q>keinen Pfennig werth</tei:q>
         <tei:seg> sei, werde allmählich ersetzt durch Literatur, die wirklich jeden für sie ausgegebenen Pfennig wert sei (135,4-6).</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Dass Gutzkow diesen Text in das Eröffnungskapitel seiner literaturkritischen Sammlung </tei:seg>
         <tei:q>Beiträge zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg> einarbeitete, zeigt, wie eng für ihn die Modernisierung der Literatur nach dem Ende der ,Kunstperiode‘ mit der erhöhten Zirkulation von Bildungsstoffen zusammenhing.</tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>    </tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>
