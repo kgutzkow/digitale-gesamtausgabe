@@ -9,6 +9,13 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0',
       'gutz': 'https://gutzkow.de/ns/1.0',
       'xml': 'http://www.w3.org/XML/1998/namespace'}
 
+def get_ancestors(node):
+    if node.getparent() is not None:
+        return [node.getparent()] + get_ancestors(node.getparent())
+    else:
+        return []
+
+
 def check_creation_date(doc, errors):
     """Checks that the machine-readable creation date is valid."""
     date = doc.xpath('/tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date/@when', namespaces=ns)
@@ -198,6 +205,23 @@ def check_stage_instructions(doc, errors):
             errors.append('Stage instruction with invalid type {0} ({1}...)'.format(stage.attrib['type'], ''.join(stage.itertext())[:20]))
 
 
+def check_speaker(doc, errors):
+    for speaker in doc.xpath('//tei:speaker', namespaces=ns):
+        found = False
+        for ancestor in get_ancestors(speaker):
+            if ancestor.tag == '{http://www.tei-c.org/ns/1.0}sp':
+                found = True
+        if not found:
+            errors.append('Speaker outside of spoken text ({0})'.format(speaker.text))
+
+
+def check_list_items(doc, errors):
+    for item in doc.xpath('//tei:item', namespaces=ns):
+        ancestors = get_ancestors(item)
+        if not ancestors or ancestors[0].tag != '{http://www.tei-c.org/ns/1.0}list':
+            errors.append('List item outside of a list')
+
+
 errors = []
 
 for basepath, _, filenames in walk('content'):
@@ -217,6 +241,8 @@ for basepath, _, filenames in walk('content'):
                 check_editor_transition(doc, file_errors)
                 check_empty_text_nodes(doc, file_errors)
                 check_stage_instructions(doc, file_errors)
+                check_speaker(doc, file_errors)
+                check_list_items(doc, file_errors)
             except etree.XMLSyntaxError as e:
                 file_errors.append(str(e))
             if file_errors:

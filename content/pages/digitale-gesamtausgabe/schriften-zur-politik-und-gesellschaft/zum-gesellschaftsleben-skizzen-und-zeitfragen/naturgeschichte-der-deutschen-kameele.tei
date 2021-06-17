@@ -9,6 +9,7 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
+
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -34,8 +35,8 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2003-09" who="#MartinaLauster">1.0</tei:change>
-      <tei:change when="2008-12" who="#MartinaLauster">1.1: Rückgängig gemachter Texteingriff (1,17 Wahrlich]), neuer Vor- und Nachspann, Sperrungsauszeichnungen und Anker</tei:change>
-      <tei:change when="2021-06-13" who="#MartinaLauster">1.2: Überführung nach TEI, Apparat mit Stellenerläuterungen</tei:change>
+      <tei:change when="2008-12" who="#MartinaLauster">1.0</tei:change>
+
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -550,10 +551,10 @@
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. Karl Gutzkow: Naturgeschichte der deutschen Kameele. (Vorgetragen im Frankfurter Museum.) In: Phönix. Frühlings-Zeitung für Deutschland. Frankfurt/M. Nr. 49, 26. Februar 1835, S. 193-195. (Rasch 3.35.02.26)</tei:seg>
+          <tei:seg>J. Naturgeschichte der deutschen Kameele. Von Karl Gutzkow. (Vorgetragen im Frankfurter Museum.) In: Phönix. Frühlings-Zeitung für Deutschland. Frankfurt/M. Nr. 49, 26. Februar 1835, S. 193-195. (Rasch 3.35.02.26)</tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>E. Karl Gutzkow: Naturgeschichte der deutschen Kameele. In: Soireen. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
+          <tei:seg>E. Naturgeschichte der deutschen Kameele. In: Soireen. Von Karl Gutzkow. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
         </tei:item>
       </tei:list>
       <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
@@ -562,76 +563,13 @@
       <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
-        <tei:seg>2.2. Varianten</tei:seg>
-      </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Für die Buchfassung als Teil der Sammlung </tei:seg>
-        <tei:q>Soireen</tei:q>
-        <tei:seg> änderte Gutzkow den Text der Journalfassung nur geringfügig. Er reduzierte die Absatzgliederung (5,13-14 und 5,30-31 unserer Ausgabe) und stellte dadurch die Gattung des ,gesellschaftlichen Kamels‘ in durchgängigem Text dar, ohne die Übergänge und Pausen des ursprünglichen Vortrags durch Einschnitte sinnfällig zu machen. Eine weitere größere Änderung gegenüber der Journalfassung besteht darin, dass in E die </tei:seg>
-        <tei:q>Sage</tei:q>
-        <tei:seg>, die am Anfang von J erwähnt wird (1,3), ihre Aufschlüsselung als </tei:seg>
-        <tei:q>Heine’sche Erzählung</tei:q>
-        <tei:seg> erfährt (→ Erl. zu </tei:seg>
-        <tei:ref type="esv" target="#annotation-1">1,3</tei:ref>
-        <tei:seg>).</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Abgesehen von wenigen kleinen Änderungen in der Orthographie sind die übrigen Varianten:</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>1,2</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>Vorgetragen]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">Vorgelesen</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>2,31-32</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>ist es ja vorzüglich]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">ist es vorzüglich</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>3,1</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>sind hier aber kühl]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">sind dabei kühl</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>3,2</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>belästigen sie, oder sind ihnen]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">belästigen sie, oder sie sind ihnen</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>3,8-9</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>von Geburt aus]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">von Natur aus</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>6,11</tei:seg>
-        <tei:seg> </tei:seg>
-        <tei:sic>Zahlmethode]</tei:sic>
-        <tei:seg> </tei:seg>
-        <tei:rdg wit="#E">Zahlenmethode</tei:rdg>
-        <tei:seg> E</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
-        <tei:seg> 3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-1">
+        <tei:seg>Kommentierung</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die folgenden Angaben treffen auch auf Gutzkows ebenso vor dem Frankfurter „Museum“ vorgetragene humoristische Gesellschaftskritiken → </tei:seg>
