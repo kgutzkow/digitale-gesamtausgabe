@@ -134,9 +134,11 @@
       <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:item data-source-id="J">
-        <tei:seg>J. K[arl] G[utzkow]: Der Birch-Pfeiffer-Auerbach’sche Handel. In: Allgemeine Zeitung. Augsburg. Nr. 29, 29. Januar 1848, S. 458–459. (Rasch 3.48.01.29)</tei:seg>
-      </tei:item>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. K[arl] G[utzkow]: Der Birch-Pfeiffer-Auerbach’sche Handel. In: Allgemeine Zeitung. Augsburg. Nr. 29, 29. Januar 1848, S. 458–459. (Rasch 3.48.01.29)</tei:seg>
+        </tei:item>
+      </tei:list>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>(Nachgedruckt in: Frankfurter Konversationsblatt. Nr. 34, 3. Februar 1848, S. 134-135; Nr. 35, 4. Februar 1848, S. 138-139.)</tei:seg>
       </tei:p>
