@@ -145,7 +145,7 @@ def check_readings(doc, errors):
             errors.append('Empty reading')
         if 'wit' not in rdg.attrib:
             errors.append('No witness specified in the reading')
-        elif rdg.attrib['wit'].strip() == '':
+        elif rdg.attrib['wit'].strip() == '' or rdg.attrib['wit'].strip() == '#':
             errors.append('Empty witness specified in the reading')
         elif not rdg.attrib['wit'].startswith('#'):
             errors.append('Witness does not specify an identifier')

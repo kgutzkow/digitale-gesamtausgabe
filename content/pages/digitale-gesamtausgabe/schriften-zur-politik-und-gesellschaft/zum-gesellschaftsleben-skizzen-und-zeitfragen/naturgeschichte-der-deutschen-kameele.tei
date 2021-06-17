@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -35,110 +34,860 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2003-09" who="#MartinaLauster">1.0</tei:change>
-      <tei:change when="2008-12" who="#MartinaLauster">1.0</tei:change>
-
+      <tei:change when="2008-12" who="#MartinaLauster">1.1: Rückgängig gemachter Texteingriff (1,17 Wahrlich]), neuer Vor- und Nachspann, Sperrungsauszeichnungen und Anker</tei:change>
+      <tei:change when="2021-06-13" who="#MartinaLauster">1.2: Überführung nach TEI, Apparat mit Stellenerläuterungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="naturgeschichte-der-deutschen-kameele" type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="193"/>
-        <tei:seg> Naturgeschichte der deutschen Kameele.</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">Naturgeschichte</tei:ref>
+        <tei:seg> der </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">deutschen Kameele</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:hi style="font-size-small">(Vorgetragen im Frankfurter Museum.)</tei:hi>
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:hi style="font-size-small">(Vorgetragen im </tei:hi>
+        <tei:ref type="esv" target="#annotation-4">
+          <tei:hi style="font-size-small">Frankfurter Museum</tei:hi>
+        </tei:ref>
+        <tei:hi style="font-size-small">.)</tei:hi>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Ich weiß nicht, ob es der </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">Geologie</tei:ref>
+        <tei:seg> ebenso geht, wie der </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">Sage</tei:ref>
+        <tei:seg> nach einem Professor in Berlin. Dieser gelehrte Herr wollt’ einmal das Glück gehabt haben, in der Mark Brandenburg eine alte Römische Vase zu finden; und als man den Gegenstand genauer in Untersuchung zog, fand sich’s, daß die Vase nichts gewesen war, als aus dem siebenjährigen Kriege der Stiefel eines Postillons oder etwas dem Ähnliches. Ich weiß nicht, wie es sich mit den Entdeckungen verhält, welche </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">die Naturforscher auf deutschen Gebirgen</tei:ref>
+        <tei:seg>, ja auch in der Ebene, an Fossilien und Resten einer ausgestorbenen Thierwelt wollen gemacht haben. Sollte dieses glückliche, friedliche Deutschland einst in der That von Löwen und </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Mammuths</tei:ref>
+        <tei:seg> bevölkert gewesen sein? Sollte man einst wirklich Gefahr gelaufen haben, </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">auf dem Taunus oder der Schwäbischen Alb</tei:ref>
+        <tei:seg> Wallfischen zu begegnen? Warlich, diese Nachrichten klingen, als wenn sich ein deutsches Blatt aus Heidelberg schreiben läßt, man hätte im Neckar Seehunde gefangen! Aber lassen wir die Urwelt auf sich beruhen; das ist erwiesen, eine Thiergattung ist nicht nur </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">nicht ausgestorben</tei:ref>
+        <tei:seg>, sondern gedeiht noch immer vortrefflich in Deutschland; das sind die Kameele.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Ich weiß nicht, ob es der Geologie ebenso geht, wie der Sage nach einem Professor in Berlin. Dieser gelehrte Herr wollt' einmal das Glück gehabt haben, in der Mark Brandenburg eine alte Römische Vase zu finden; und als man den Gegenstand genauer in Untersuchung zog, fand sich's, daß die Vase nichts gewesen war, als aus dem siebenjährigen Kriege der Stiefel eines Postillons oder etwas dem Ähnliches. Ich weiß nicht, wie es sich mit den Entdeckungen verhält, welche die Naturforscher auf deutschen Gebirgen, ja auch in der Ebene, an Fossilien und Resten einer ausgestorbenen Thierwelt wollen gemacht haben. Sollte dieses glückliche, friedliche Deutschland einst in der That von Löwen und Mammuths bevölkert gewesen sein? Sollte man einst wirklich Gefahr gelaufen haben, auf dem Taunus oder der Schwäbischen Alb Wallfischen zu begegnen? Warlich, diese Nachrichten klingen, als wenn sich ein deutsches Blatt aus Heidelberg schreiben läßt, man hätte im Neckar Seehunde gefangen! Aber lassen wir die Urwelt auf sich beruhen; das ist erwiesen, eine Thiergattung ist nicht nur nicht ausgestorben, sondern gedeiht noch immer vortrefflich in Deutschland; das sind die Kameele.</tei:seg>
-      </tei:p>
-      <tei:p>
-        <tei:seg>Glückliche Zeit, wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen, keine Oper in Mannheim versäumten und uns an des alten Zachariä schnöden Witzen ergötzten! Wie duftig träumerisch liegt sie hinter uns! Wir besinnen uns noch auf Alles, was uns damals die Welt schien. Und in dem Strome dieser Welt bildeten sich unsere Charaktere; wir lernten die Pfälzer im Allgemeinen und die Menschen insbesondere kennen; ja wir fingen sogar schon an, von dem Charakter unserer Freunde Federn zu lesen. Aber welcher Maaßstab! Nur Jugend, nur heitere fröhliche Gesichter, Sonnenschein, Muth in seinen Ansichten und hoher Werth auf seine eigne Person! Sie waren nicht Alle so. Wenn wir auf der Terasse des Schloßbergs saßen, und hinaus blickten in die Rheinebene, und die Thürme von Speyer und Worms zählten; so trat wohl Mancher auf, und sagte: Ach, das soll schön sein? Kommt nur und werft einen Blick auf die Lüneburger Haide oder auf Hinterpommern, oder verfolgt die sanften Windungen der Spree! Da werdet ihr euer Wunder haben! Dann erhoben wir uns und fuhren auf ihn los: Du Kameel! Und siehe, das Thier blähte sich und dehnte sich aus, und wurde immer größer und buckliger, und streckte seinen Hals weithin in die Luft, und Schwielen legten sich ihm an die Brust, und seine Hufe spalteten sich, und der Kopf wurde oben immer flacher - und unten immer länger, bis zu einem Barte, der ihm ziegenhaft am Kinne wackelte. Und es war ein Bild der Wüste, das wir sahen. Aber es war nicht das einzige. Von diesen muhamedanischen Kameelen zogen ganze Karavanen durch Heidelberg, und wollten immer Recht haben, und ärgerten sich empfindlich, daß man die Dinge nicht von afrikanischer Seite ansah. Später zogen sie dann aus nach allen Regionen, und setzten sich in den Trab der Staatskarriere. Indem </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Glückliche Zeit, </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen</tei:ref>
+        <tei:seg>, keine Oper in Mannheim versäumten und uns an </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">des alten Zachariä</tei:ref>
+        <tei:seg> schnöden Witzen ergötzten! Wie duftig träumerisch liegt sie hinter uns! Wir besinnen uns noch auf Alles, was uns damals die Welt schien. Und </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">in dem Strome dieser Welt bildeten sich unsere Charaktere</tei:ref>
+        <tei:seg>; wir lernten die Pfälzer im Allgemeinen und die Menschen insbesondere kennen; ja wir fingen sogar schon an, </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">von dem Charakter unserer Freunde Federn zu lesen</tei:ref>
+        <tei:seg>. Aber welcher Maaßstab! Nur Jugend, nur heitere fröhliche Gesichter, Sonnenschein, Muth in seinen Ansichten und hoher Werth auf seine eigne Person! Sie waren nicht Alle so. Wenn wir auf der Terasse des Schloßbergs saßen, und hinaus blickten in die Rheinebene, und die Thürme von Speyer und Worms zählten; so trat wohl Mancher auf, und sagte: Ach, das soll schön sein? Kommt nur und werft einen Blick auf die Lüneburger Haide oder auf Hinterpommern, oder verfolgt die sanften Windungen der Spree! Da werdet ihr euer Wunder haben! Dann erhoben wir uns und fuhren auf ihn los: Du </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">Kameel</tei:ref>
+        <tei:seg>! Und siehe, das Thier blähte sich und dehnte sich aus, und wurde immer größer und buckliger, und streckte seinen Hals weithin in die Luft, und Schwielen legten sich ihm an die Brust, und seine Hufe spalteten sich, und der Kopf wurde oben immer flacher - und unten immer länger, bis zu einem Barte, der ihm ziegenhaft am Kinne wackelte. Und es war ein Bild der Wüste, das wir sahen. Aber es war nicht das einzige. Von diesen muhamedanischen Kameelen zogen ganze Karavanen durch Heidelberg, und wollten immer Recht haben, und ärgerten sich empfindlich, daß man die Dinge nicht von afrikanischer Seite ansah. Später zogen sie dann aus nach allen Regionen, und setzten sich in den Trab der Staatskarriere. Indem </tei:seg>
         <tei:pb n="194"/>
         <tei:seg> sie an der Krippe der Budjets fraßen, erstreckte sich ihr langer Hals in Alles, in den Staat, in die Kirche, in die schöne Literatur; kurz, Kameele ringsum!</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Ich erlaube mir, diesen naturhistorischen Gegenstand gründlich zu erschöpfen, einige Behauptungen Büffon's stillschweigend zu berichtigen, und diese Race überhaupt in drei Gattungen einzutheilen, in die öffentlichen, die moralischen und die gesellschaftlichen Kameele.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Ich erlaube mir, diesen naturhistorischen Gegenstand gründlich zu erschöpfen, einige Behauptungen </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">Büffon’s</tei:ref>
+        <tei:seg> stillschweigend zu berichtigen, und </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">diese Race überhaupt in drei Gattungen einzutheilen</tei:ref>
+        <tei:seg>, in die öffentlichen, die moralischen und die gesellschaftlichen Kameele.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Man kann zuerst von den öffentlichen nicht unerwähnt lassen, daß sie vorzugsweise verdienen, Dromedare genannt zu werden. Denn sie sind thätig, rührig und tragen mit einem Buckel mehr, als die gewöhnlichen mit zweien. Diese Gattung ist es ja vorzüglich, welche sich um das öffentliche Leben bekümmert, welche Ansprüche macht auf Staatsweisheit, auf tiefe Einsicht in den Kreislauf der Begebenheiten, auf die Beförderung der Wissenschaften, und ihres Gewerbes. Sie sind hier aber kühl und ohne Enthusiasmus. Große Gedanken belästigen sie, oder sind ihnen gänzlich unverständlich. Wo wir mit Rosenkränzen die Stirn umwinden, da erscheinen sie mit der Nachtmütze. Wenn wir vom Geist des Jahrhunderts sprechen und den Hoffnungen der Menschheit, so behaupten sie, daß Alles in der Welt von Glas sei, namentlich die Vorhängekasten ihrer Boutiquen, und daß das so viel Geld koste. Die öffentlichen Kameele handeln von Geburt aus schon mit Quincaillerien. O ja, sie treten auch in die Bürgergarde, aber sie haben immer Abhaltungen. Parthei machen können sie nun gar nicht, weil sie die Eitelkeit besitzen, Alles besser machen zu wollen. Wenn einer ihrer Nachbarn ein freies Wort führt, so kramen sie gleich aus, was </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Man kann zuerst von den öffentlichen nicht unerwähnt lassen, daß sie vorzugsweise verdienen, Dromedare genannt zu werden. Denn sie sind thätig, rührig und tragen mit einem Buckel mehr, als die gewöhnlichen mit zweien. Diese Gattung ist es ja vorzüglich, welche sich um das öffentliche Leben bekümmert, welche Ansprüche macht auf Staatsweisheit, auf tiefe Einsicht in den Kreislauf der Begebenheiten, auf die Beförderung der Wissenschaften, und ihres Gewerbes. Sie sind hier aber kühl und ohne Enthusiasmus. Große Gedanken belästigen sie, oder sind ihnen gänzlich unverständlich. Wo wir mit Rosenkränzen die Stirn umwinden, da erscheinen sie mit der Nachtmütze. Wenn wir vom Geist des Jahrhunderts sprechen und den Hoffnungen der Menschheit, so behaupten sie, daß Alles in der Welt von Glas sei, namentlich die Vorhängekasten ihrer Boutiquen, und daß das so viel Geld koste. Die öffentlichen Kameele handeln von Geburt aus schon mit </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Quincaillerien</tei:ref>
+        <tei:seg>. O ja, sie treten auch in die Bürgergarde, aber sie haben immer Abhaltungen. Parthei machen können sie nun gar nicht, weil sie die Eitelkeit besitzen, Alles besser machen zu wollen. Wenn einer ihrer Nachbarn ein freies Wort führt, so kramen sie gleich aus, was </tei:seg>
         <tei:hi style="letter-sparse">der</tei:hi>
         <tei:seg> schon alles gemacht hätte! Und </tei:seg>
         <tei:hi style="letter-sparse">der</tei:hi>
         <tei:seg> hätte gut reden! Und </tei:seg>
         <tei:hi style="letter-sparse">dessen</tei:hi>
-        <tei:seg> Schwestersohn sei zwar nicht angestellt, aber sein Schwager sei schon einmal nahe daran gewesen, angestellt zu werden. Ach! wir kennen diese Kameele! sie fühlen die Unheimlichkeit, nach Europa versetzt zu sein, und würden mit Freuden in die große Wüste Sahara zurückkehren, und in Mekka die rechtgläubige Kaaba küssen. In den Wissenschaften nehmen sie sich eben so blödsinnig. Keine neue Entdeckung kömmt ihnen recht. Wenn sich das Genie einen eignen Weg bahnt und alte Irrthümer an den Pranger der Kritik stellt, so lärmen sie in ihren Karavansereien, in den Literaturzeitungen. Sie haben einen eignen Abscheu vor Wärme und Licht, und ärgern sich, daß andere Leute das Wasser nicht so lange kalt im Leibe behalten, wie sie, und wie die Schwaben den rosafarbnen Neckarwein. An seinem Unglauben ist jedes wissenschaftliche Kameel erkennbar. Als neulich der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde bei lebendigem Leibe an naturwissenschaftliche Museumsvorsteher und sonstige Liebhaber, da hat gewiß manches Kameel von Professor still bei sich gedacht: ob das wohl auch ein ächter Elephant wäre! Wahrlich, dieser Zweifel charakterisirt vollkommen die erste Klasse, welche wir vorzugsweise Dromedare genannt haben.</tei:seg>
+        <tei:seg> Schwestersohn sei zwar nicht angestellt, aber sein Schwager sei schon einmal nahe daran gewesen, angestellt zu werden. Ach! wir kennen diese Kameele! sie fühlen die Unheimlichkeit, nach Europa versetzt zu sein, und würden mit Freuden in die große Wüste Sahara zurückkehren, und in Mekka die rechtgläubige Kaaba küssen. In den Wissenschaften nehmen sie sich eben so blödsinnig. Keine neue Entdeckung kömmt ihnen recht. Wenn sich das Genie einen eignen Weg bahnt und alte Irrthümer an den Pranger der Kritik stellt, so lärmen sie in ihren Karavansereien, in den Literaturzeitungen. Sie haben einen eignen Abscheu vor Wärme und Licht, und ärgern sich, daß andere Leute das Wasser nicht so lange kalt im Leibe behalten, wie sie, und wie die Schwaben den rosafarbnen Neckarwein. An seinem Unglauben ist jedes wissenschaftliche Kameel erkennbar. Als neulich </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde</tei:ref>
+        <tei:seg> bei lebendigem Leibe an naturwissenschaftliche Museumsvorsteher und sonstige Liebhaber, da hat gewiß manches Kameel von Professor still bei sich gedacht: ob das wohl auch ein ächter Elephant wäre! Wahrlich, dieser Zweifel charakterisirt vollkommen die erste Klasse, welche wir vorzugsweise Dromedare genannt haben.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Auch von der zweiten Race, von der moralischen, muß ich zugeben, daß sie sich mehr dem amerikanischen Kameele nähert, dem Lama. Denn es ist Mitleid, was man für sie empfindet. Alles, was penible und prüde Grundsätze hat, gehört hierher; z. B. diejenigen, welche glauben, man habe den Kopf nicht zum Denken, sondern zum Hängenlassen. Alle diese Jammergestalten, welche die Natur mit ihren Grillen bevölkern, und die frische Farbe der Welt mit dem Leichentuch abstruser Ansichten verhängen, schaaren sich da zusammen. Diese Kameele lesen Göthe nicht, weil sie glauben, er werde ihre Sitten verderben, und nennen Alles frivol, was nichts ist, als der Gebrauch einer Kraft, welche die Natur uns spendet. Dabei sind sie ohne alle Consequenz, weil sie auch an Andern keinen Charakter im Zusammenhange verstehen und sich immer an den äußern Erscheinungen reicher und voller Naturen stoßen. Diese guten frommen Lamas verketzern selbst und können doch nicht leiden, daß man an andern Leuten kleine Eigenheiten große Fehler nennt. Hier soll die Wahrheit Honig bauen und an der Dornengeißel der Entrüstung sollen Rosinen wachsen. Gewisse Kritiker und Theaterreferenten gehören hierher. Zum Beispiel denke man sich einen Berichterstatter über die Erzeugnisse fremder Musen. Der gute Mann hat selber Gedichte gemacht, und zwar so abscheuliche, daß ihn keine Zeitung ungerupft ließ. Nun sammelt er sich alle die Blätter, worin Gift über ihn gesprützt ist, nicht um sie zu vertilgen; nein! er bewahrt sie auf, und wenn er wieder in den Fall kömmt, Kritiken schreiben zu müssen, so liest er zuvor den ganzen Wust von Verwünschungen durch, um sich nur in die nöthige gallenhafte Aufregung zu versetzen. Solche gutmüthige Seelen gehören zu den moralischen Kameelen. Dies sind diejenigen, von welchen es in der Bibel heißt, daß sie durch ein Nadelöhr gehen.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Auch von der zweiten Race, von der moralischen, muß ich zugeben, daß sie sich mehr dem </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">amerikanischen Kameele</tei:ref>
+        <tei:seg> nähert, dem Lama. Denn es ist Mitleid, was man für sie empfindet. Alles, was penible und prüde Grundsätze hat, gehört hierher; z. B. diejenigen, welche glauben, man habe den Kopf nicht zum Denken, sondern zum Hängenlassen. Alle diese </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Jammergestalten</tei:ref>
+        <tei:seg>, welche die Natur mit ihren Grillen bevölkern, und die frische Farbe der Welt mit dem Leichentuch abstruser Ansichten verhängen, schaaren sich da zusammen. Diese Kameele </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">lesen Göthe nicht, weil sie glauben, er werde ihre Sitten verderben</tei:ref>
+        <tei:seg>, und nennen Alles frivol, was nichts ist, als der Gebrauch einer Kraft, welche die Natur uns spendet. Dabei sind sie ohne alle Consequenz, weil sie auch an Andern keinen Charakter im Zusammenhange verstehen und sich immer an den äußern Erscheinungen reicher und voller Naturen stoßen. Diese guten frommen Lamas verketzern selbst und können doch nicht leiden, daß man an andern Leuten kleine Eigenheiten große Fehler nennt. Hier soll die Wahrheit Honig bauen und an der Dornengeißel der Entrüstung sollen Rosinen wachsen. Gewisse Kritiker und Theaterreferenten gehören hierher. Zum Beispiel denke man sich einen Berichterstatter über die Erzeugnisse fremder Musen. Der gute Mann hat selber Gedichte gemacht, und zwar so abscheuliche, daß ihn keine Zeitung ungerupft ließ. Nun sammelt er sich alle die Blätter, worin Gift über ihn gesprützt ist, nicht um sie zu vertilgen; nein! er bewahrt sie auf, und wenn er wieder in den Fall kömmt, Kritiken schreiben zu müssen, so liest er zuvor den ganzen Wust von Verwünschungen durch, um sich nur in die nöthige gallenhafte Aufregung zu versetzen. Solche gutmüthige Seelen gehören zu den moralischen Kameelen. Dies sind diejenigen, von welchen es </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">in der Bibel heißt, daß sie durch ein Nadelöhr gehen</tei:ref>
+        <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Nun aber seh' ich endlich dich, gesellschaftliche Gattung, die du sein solltest ein leichtes, gazellenartiges Geschlecht, und schwerfällig auftrittst mit Bedenklichkeiten, Einwendungen, verdrießlichen Mienen, mit der man keine Parthie arrangiren kann, der es hier zu heiß, dort zu kalt, da nichts links, hier nichts recht ist. Das sind die wahren Umgangskameele, die unausstehlichsten von allen. Besucht man sie, so kommt man nicht zu rechter Zeit; die Gardinen sind gerad' in der Wäsche, und ihr ewiger Refrain scheint zu sein: Gott, ich bin so beschäftigt, ich will ja heute über vierzehn Tage verreisen! Gleichsam, als wenn </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Nun aber seh’ ich endlich dich, gesellschaftliche Gattung, die du sein solltest ein leichtes, gazellenartiges Geschlecht, und schwerfällig auftrittst mit Bedenklichkeiten, Einwendungen, verdrießlichen Mienen, mit der man keine Parthie arrangiren kann, der es hier zu heiß, dort zu kalt, da nichts links, hier nichts recht ist. Das sind die wahren Umgangskameele, die unausstehlichsten von allen. Besucht man sie, so kommt man nicht zu rechter Zeit; die Gardinen sind gerad’ in der Wäsche, und ihr ewiger Refrain scheint zu sein: Gott, ich bin so beschäftigt, ich will ja heute über vierzehn Tage verreisen! Gleichsam, als wenn </tei:seg>
         <tei:hi style="letter-sparse">sie</tei:hi>
-        <tei:seg> uns nicht Langeweile machten. Man betrachte nur ein solches Kameel, wenn es ausgehen will, und sich nicht entschließen kann, ob es den Regenschirm mitnehmen soll. Dann wird gesehen nach Himmel und Erde, die Hand zum Fenster hinausgestreckt, wieder ein andrer Rock angezogen, dann ist das Fischbein an einer Ecke des Schirms </tei:seg>
+        <tei:seg> uns nicht Langeweile machten. Man betrachte nur ein solches Kameel, wenn es ausgehen will, und sich nicht entschließen kann, ob es den Regenschirm mitnehmen soll. Dann wird gesehen nach Himmel und Erde, die Hand zum Fenster hinausgestreckt, wieder ein andrer Rock angezogen, dann ist das </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">Fischbein</tei:ref>
+        <tei:seg> an einer Ecke des Schirms </tei:seg>
         <tei:pb n="195"/>
         <tei:seg> wieder einmal losgegangen, dann wird der Kalender nachgeschlagen; kurz, es ist nicht zum Aushalten!</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Wann wird diese Thiergattung aussterben? Sie ist lästig in der Liebe, in der Freundschaft, in der Ehe, in der Erziehung, in allen Berührungen, wo man heitre Laune, wenn nicht besitzen kann, doch immer sich schaffen soll. Wie unglücklich das Mädchen, in welches sich ein solcher Umstandsprinz verliebt! Sie tanzt ihm zu viel; und sie tanzt doch nur mit ihm. Sie spricht zu freundlich mit den Leuten; und sie thut es doch nur, um zu zeigen, daß er ihr keine böse Laune macht! Ein solches verliebtes Kameel ist eine Plage der Menschheit. Es verspricht seiner Braut die abscheulichsten Dinge: ein eignes Familienbegräbniß, eine Aktie in der Gothaer Lebensversicherungs-Anstalt; kurz, man kann sich denken, was erst kommen wird nach der Hochzeit. Ich kenne das nicht, aber man behauptet, die verheiratheten Kameele wären unerträglich. Sie sollen lebendige Rechnungsmaschinen sein, an den Fingern zählen und den ganzen Tag etwas vor sich hinmurmeln, was kein Mensch versteht. Er liebt Oberrad, sie liebt Niederrad. Er will nach dem Melibokus, sie nach dem Taunus.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Wann wird diese Thiergattung aussterben? Sie ist lästig in der Liebe, in der Freundschaft, in der Ehe, in der Erziehung, in allen Berührungen, wo man heitre Laune, wenn nicht besitzen kann, doch immer sich schaffen soll. Wie unglücklich das Mädchen, in welches sich ein solcher Umstandsprinz verliebt! Sie tanzt ihm zu viel; und sie tanzt doch nur mit ihm. Sie spricht zu freundlich mit den Leuten; und sie thut es doch nur, um zu zeigen, daß er ihr keine böse Laune macht! Ein solches verliebtes Kameel ist eine Plage der Menschheit. Es verspricht seiner Braut die abscheulichsten Dinge: ein eignes Familienbegräbniß, eine Aktie in der </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">Gothaer Lebensversicherungs-Anstalt</tei:ref>
+        <tei:seg>; kurz, man kann sich denken, was erst kommen wird nach der Hochzeit. Ich kenne das nicht, aber man behauptet, die verheiratheten Kameele wären unerträglich. Sie sollen lebendige Rechnungsmaschinen sein, an den Fingern zählen und den ganzen Tag etwas vor sich hinmurmeln, was kein Mensch versteht. </tei:seg>
+        <tei:ref type="esv" target="#annotation-25">Er liebt Oberrad, sie liebt Niederrad</tei:ref>
+        <tei:seg>. Er will nach dem Melibokus, sie nach dem Taunus.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Und in der Erziehung ist es auch so. Ich sage nichts von den Lehrern, die oft noch von der Universität her ganz horrende Kameele sind, und bei denen die Langeweile zum Handwerk gehört; aber im Hause selbst, man hört das ja, ist ewige Plage mit der Ausbildung des Geistes und der Erweckung des Nachdenkens. Der Sohn soll einmal in's Geschäft, und frägt der Vater, was er lernt, so sind's lateinische Vocabeln. Vergebens, daß die Mutter spricht, es wäre doch abscheulich, wenn der Junge </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Und in der Erziehung ist es auch so. Ich sage nichts von den Lehrern, die oft noch von der Universität her ganz horrende Kameele sind, und bei denen die Langeweile zum Handwerk gehört; aber im Hause selbst, man hört das ja, ist ewige Plage mit der Ausbildung des Geistes und der Erweckung des Nachdenkens. Der Sohn soll einmal in’s Geschäft, und frägt der Vater, was er lernt, so sind’s lateinische Vocabeln. Vergebens, daß die Mutter spricht, es wäre doch abscheulich, wenn der Junge </tei:seg>
         <tei:hi style="letter-sparse">A</tei:hi>
-        <tei:seg>then statt Athen sagte, von den römischen </tei:seg>
+        <tei:seg>then statt At</tei:seg>
+        <tei:hi style="letter-sparse">hen</tei:hi>
+        <tei:seg> sagte, von den römischen </tei:seg>
         <tei:hi style="letter-sparse">Con</tei:hi>
         <tei:seg>suln spräche, als wären es Amerikanische Con</tei:seg>
         <tei:hi style="letter-sparse">suln</tei:hi>
-        <tei:seg>. Das ist Alles nichts, heißt es dann im Kamisol und den schlorrenden Pantoffeln: Regula de Tri, Kopfzerbrechen! Drei mal drei ist zehn! Darauf kommt's an! Und so auch mit den Töchtern. Der Sinn für die Küche würde schon im Keim erstickt; den ganzen Tag würde Skala gesungen, und noch dazu nach der Zahlmethode 1, 3, 5, 8, und was denn das wäre, neulich hätte das Kind verlangt, der Vater solle sogar auf das neue Journal abonniren. Mit einem Worte, ich glaube, das gesellschaftliche Kameel gezeichnet zu haben, wie es ißt und trinkt, in seiner ganzen afrikanischen Wildheit, wie es nur jemals durch die vaterländische Wüste gallopirt ist.</tei:seg>
+        <tei:seg>. Das ist Alles nichts, heißt es dann im </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">Kamisol</tei:ref>
+        <tei:seg> und den schlorrenden Pantoffeln: </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Regula de Tri</tei:ref>
+        <tei:seg>, Kopfzerbrechen! Drei mal drei ist zehn! Darauf kommt’s an! Und so auch mit den Töchtern. Der Sinn für die Küche würde schon im Keim erstickt; den ganzen Tag würde Skala gesungen, und noch dazu </tei:seg>
+        <tei:ref type="esv" target="#annotation-28">nach der Zahlmethode 1, 3, 5, 8</tei:ref>
+        <tei:seg>, und was denn das wäre, neulich hätte das Kind verlangt, der Vater solle sogar auf das neue Journal abonniren. Mit einem Worte, ich glaube, das gesellschaftliche Kameel gezeichnet zu haben, wie es ißt und trinkt, in seiner ganzen afrikanischen Wildheit, wie es nur jemals durch die vaterländische Wüste gallopirt ist.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Und so schließ' ich diese Monographie, welche ich für einen wesentlichen Beitrag zu Okens Naturgeschichte halte. Ich freue mich, daß man selbst über die Langweiligkeit lachen kann, und sich üble Gewohnheiten ordentlich in ein wissenschaftliches System bringen lassen. Und ist nur dies mein Wunsch, daß keiner von meinem Publikum bei'm Hinausgehen um die neunte Stunde draußen unter den Sternen des Himmels, im blassen Scheine des Mondes und des vielleicht inzwischen gefallenen Schnees seinem Begleiter zuflüstern möge: "Du bist auch so ein Kameel!" -</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Und so schließ’ ich diese </tei:seg>
+        <tei:ref type="esv" target="#annotation-29">Monographie</tei:ref>
+        <tei:seg>, welche ich für einen wesentlichen Beitrag zu </tei:seg>
+        <tei:ref type="esv" target="#annotation-30">Okens Naturgeschichte</tei:ref>
+        <tei:seg> halte. Ich freue mich, daß man selbst über die Langweiligkeit lachen kann, und sich üble Gewohnheiten ordentlich in ein wissenschaftliches System bringen lassen. Und ist nur dies mein Wunsch, daß keiner von meinem Publikum bei’m Hinausgehen um die neunte Stunde draußen unter den Sternen des Himmels, im blassen Scheine des Mondes und des vielleicht inzwischen gefallenen Schnees seinem Begleiter zuflüstern möge: „Du bist auch so ein Kameel!“ -</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,1</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Naturgeschichte]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„[E]igentlich Geschichte des Welt- und Erdganzen sowie aller einzelnen Formen und deren Entwickelung in der Zeit wie im Individuum. In diesem Sinne begreift N[aturgeschichte] den Inhalt der gesamten Naturforschung, doch versteht man unter N[aturgeschichte] meist nur die speziellen Naturwissenschaften [...].“ Diese vom Beginn des 20. Jahrhunderts stammende Definition aus „Meyers Großem Konversationslexikon“ (Meyer, Bd. 14, S. 456) belegt die Überholung des älteren Begriffs „Naturgeschichte“, der alles mit Naturphänomenen befasste Wissen einschloss, durch den Terminus „Naturwissenschaften“, dessen Gebrauch im Plural die Diversifizierung des Wissens mit dem Aufkommen der exakten Naturwissenschaften in der zweiten Hälfte des 19. Jahrhunderts anzeigt. Das noch nicht spezialisierte ,naturgeschichtliche‘ Wissen ist verkörpert in den Forschungsreisenden der ersten Jahrhunderthälfte wie z. B. Alexander v. Humboldt und Aimé Bonpland, Charles Darwin oder auch in dem Frankfurter Eduard Rüppell (→ </tei:seg>
+          <tei:ref target="#global" data-heading-id="Stelle: Der spezifische Anlass einer Satire, 4.2. Entstehungs- u. Auftrittsgesch.">4.2.</tei:ref>
+          <tei:seg>), deren Expeditionen der Zoologie, Botanik, Geologie, Paläontologie und Ethnographie zugute kamen. Gutzkow benutzt den Begriff </tei:seg>
+          <tei:q>Naturgeschichte</tei:q>
+          <tei:seg> jedoch mit spezifischem Bezug auf eine Gattung; Meyer glossiert diesen Gebrauch ebenfalls: „Man spricht auch von der N[aturgeschichte] einer Pflanze, eines Tieres, eines Weltkörpers, selbst eines Kunstproduktes (Kerze) und meint damit die Gesamtheit ihrer natürlichen Eigenschaften einschließlich ihrer natürlichen Entstehung und Entwickelung.“ (Bd. 14, S. 456) In dieser Verwendung ist ‚Naturgeschichte‘ synonym mit ‚Monographie‘ (vgl. → Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-29">6,17</tei:ref>
+          <tei:seg>).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,1</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>deutschen Kameele]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die naturhistorisch nicht existente Spezies legt nahe, dass das Objekt von Gutzkows Naturgeschichte einer ironischen Abhandlung unterzogen wird. Die negative bildliche Bedeutung des Begriffs ,Kamel‘ (→ Erl. zu </tei:seg>
+          <tei:ref type="esv" target="#annotation-14">2,8</tei:ref>
+          <tei:seg>) lässt eine Sozialsatire erwarten. In derselben Art verfahren die Pariser „Physiologien“, die sich auf ironisierte naturwissenschaftliche Weise mit den verschiedensten sozialen Typen und Phänomenen befassen (vgl. → Globalkommentar).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,2</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Frankfurter Museum]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das „Museum“ war eine der Unterhaltung und Belehrung gewidmete Frankfurter Gesellschaft, die noch heute als Musikverein, die „Museumsgesellschaft“, besteht. Vgl. → </tei:seg>
+          <tei:ref target="#global" data-heading-id="Stelle: Die „Museumsgesellschaft“, auf deren Erwartungen, 4.2. Entstehungs- u. Auftrittsgesch.">4.2.</tei:ref>
+          <tei:seg> und → Globalkommentar.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,3</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Geologie]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Forschungszweig der Geologie, auf den Gutzkow hier Bezug nimmt, ist die Fossilienkunde bzw. Paläontologie, heute der ‚historischen Geologie‘ zugerechnet. Die letzten Jahre des 18. und die erste Hälfte des 19. Jahrhunderts waren eine Epoche fieberhafter Entdeckungen und Theoriebildungen in der Geologie und Zoologie. Vgl. Deborah Cadbury: The Dinosaur Hunters. A True Story of Scientific Rivalry and the Discovery of the Prehistoric World. London: Fourth Estate, 1988.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,3</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Sage]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In E geändert zu: </tei:seg>
+          <tei:q>Heine’schen Erzählung</tei:q>
+          <tei:seg>. Der Bezug von 1,4-9 ist somit auf Heines „Ideen. Das Buch Le Grand“ (1826), den abschließenden Teil der „Reisebilder“. Hier liefert Heine seinerseits eine Philistersatire, die den Sprecher abgrenzt von jenen „Narren“, die ihm Pantoffeln, Schlafrock und Nachtmütze reichen oder ihn „zum Professor extraordinarius“ bzw. „Direktor von römischen Ausgrabungen“ machen wollen: „denn ich wäre so recht ein Mann, den man in allen Fächern gebrauchen könnte, sintemal ich [...] nicht so leicht wie andre Leute einen preußischen Postillionsstiefel für eine etruscische Vase ansehe“ (DHA, Bd. 6, S. 214-215).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,10-11</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>die Naturforscher auf deutschen Gebirgen]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Fossilienfunde wurden zunehmend wissenschaftlich behandelt und kamen der im Aufschwung begriffenen Geologie sowie der Paläontologie zugute. Der Chemiker Johann Friedrich Philipp Engelhardt (1797-1837) fand als erster in Deutschland 1834 bei Nürnberg ein Dinosaurierskelett, und als Art wurde es durch den Frankfurter Paläontologen Hermann von Meyer (1801-1869), Mitglied der Senckenbergischen Naturforschenden Gesellschaft, beschrieben und ,Plateosaurus engelhardti‘ benannt. Es war die weltweit fünfte beschriebene Dinosaurierart.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,14</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Mammuths]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der französische Geologe und vergleichende Anatom Georges Cuvier hatte 1796 das sibirische, elefantenähnliche Tier, dessen Fossilien schon lange bekannt waren, erstmals als eine vom lebenden Elefanten deutlich unterschiedene, ausgestorbene Tierart definiert und ihr den Namen ‚Mammut‘ verliehen. Das Aussterben von Tierarten wurde von Cuvier und seinen Anhängern als Folge von Naturkatastrophen erklärt. Nach Gegnern Cuviers, die eine Evolutionstheorie vertraten (z. B. Jean-Baptiste Lamarck und Geoffroy de Saint-Hilaire), war es denkbar, dass nicht mehr existierende Arten in verwandelter Form weiterlebten, also im strengen Sinne nicht ‚ausgestorben‘ waren (vgl. Cadbury, Dinosaur Hunters, S. 24 und S. 68-69).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,15-16</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>auf dem Taunus oder der Schwäbischen Alb]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Juragebirge der Schwäbischen Alb ist berühmt für marine Fossilien, zu denen der zuerst 1811 an der englischen Südküste gefundene Ichthyosaurus gehört. Diese Art wurde 1835 von dem französischen Zoologen Henri de Blainville (1777-1850) klassifiziert. Im Taunus ist besonders das Schiefergestein des Hintertaunus reich an Meeresfossilien.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,20</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>nicht ausgestorben]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dadurch, dass die </tei:seg>
+          <tei:q>deutschen Kameele</tei:q>
+          <tei:seg> als exotische Fossilien eingestuft, jedoch als </tei:seg>
+          <tei:q>nicht ausgestorben</tei:q>
+          <tei:seg> bezeichnet werden, ordnet Gutzkow sie als Mutationen einer vorgeschichtlichen Art ein und gibt sich als ‚Evolutionist‘ zu erkennen; vgl. Erl. zu → </tei:seg>
+          <tei:ref type="esv" target="#annotation-7">1,14</tei:ref>
+          <tei:seg>.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,22-23</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow, bereits mit dem Doktortitel der Universität Jena versehen, hatte von Herbst 1832 bis Frühjahr 1833 in Heidelberg Jura-Vorlesungen besucht. In den </tei:seg>
+          <tei:q>Rückblicken</tei:q>
+          <tei:seg> gibt er eine lebendige Schilderung der teils freisinnigen, teils beschränkten professoralen ‚Originale‘, die in der </tei:seg>
+          <tei:q>Musenstadt</tei:q>
+          <tei:seg> die Rechte lehrten (GWB VII, Bd. 2, S. 91).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,24</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>des alten Zachariä]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Karl Salomo Zachariä (1769-1843), Professor der Rechte, 1806 an die Universität Heidelberg berufen und 1842 geadelt, war Verfasser der „Vierzig Bücher vom Staat“. Er wird in den </tei:seg>
+          <tei:q>Rückblicken</tei:q>
+          <tei:seg> als Inbegriff des philisterhaften Akademikers dargestellt, dem nichts über die eigene Provinz und den eigenen Geldbeutel geht: </tei:seg>
+          <tei:q>Ein geborner Sachse, früher zur Universität Wittenberg gehörig, knüpfte er an gewisse Stellen seiner Erläuterung der „Vierzig Bücher vom Staat“ elegische Reminiscenzen an die schönen Ufer der Elbe an.</tei:q>
+          <tei:seg> [...] </tei:seg>
+          <tei:q>Große und freimüthige Ideen konnten nicht von einem Manne kommen, der mit den Bauern um den Zins seiner Aecker stritt und seine Reisen nach Mannheim nur mit einem Geldsack zur Seite zu machen pflegte, der für seinen Bankier bestimmt war. Es kam vor, daß der lange dürre Mann zum Jubel der Studenten von seinem Sohne erzählte, „der ihm ein Heidengeld kostete“</tei:q>
+          <tei:seg>. (GWB VII, Bd. 2, S. 90) Anklänge an die Philistersatire der </tei:seg>
+          <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+          <tei:seg> mit ihrer Verspottung des Provinzpatriotismus (2,5-7) und der Sparer-Mentalität (3,4-8) sind unüberhörbar.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,26-27</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>in dem Strome dieser Welt bildeten sich unsere Charaktere]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Satire richtet sich hier auf den Sprecher selbst, der eingesteht, dass der (oft kleinstädtische) Horizont der Universitätsbildung einen wesentlichen Faktor in der Bildung des ,deutschen Kamels‘ ausmache.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1,29-30</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>von dem Charakter unserer Freunde Federn zu lesen]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>,Federn von etwas lesen‘ bedeutet so viel wie ,Staub / Unreinheiten von etwas abzupfen‘ (vgl. Grimm, Bd. 3, Sp. 1404), hier also: Charakterfehler der Freunde kritisieren.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>2,8</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Kameel]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Verwendung des Tiernamens als „scheltwort“ war vor allem „in studentischer sprache“ verbreitet und bezeichnete „einen studenten der keiner verbindung angehört, oder sich überhaupt vom studentischen treiben fern hält, philister, auch büffler“ (Grimm, Bd. 11, Sp. 96).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>2,24</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Büffon’s]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der französische Naturforscher Georges Louis Leclerc, comte de Buffon (1707-1788) ist berühmt für seine „Histoire naturelle générale et particulière“, die von 1749 bis 1788 in 36 Bänden erschien, vielfach ergänzt und weitergeführt und in viele Sprachen übersetzt wurde. Buffons Werk übte auf die weitere Entwicklung der Naturgeschichte enormen Einfluss aus. Die Gattung des Kamels wird in der Unterabteilung über vierfüßige Tiere, „Histoire naturelle des quadrupeds“, behandelt. Das Kamel gilt dem Verfasser als die vom Menschen am stärksten unterworfene und deformierte Tierart: „Diejenige Gattung aber, auf die das Gewicht der Sklaverey am schwersten gedrückt und die tiefsten Eindrücke gemacht hat, ist das Kameel.“ (Herrn von Büffons Naturgeschichte der vierfüßigen Thiere. [Übersetzt von Friedrich Heinrich Wilhelm Martini, ab Bd. 7 von Bernhard Christian Otto.] 23 Bde. Berlin: Pauli, 1772-1801. Bd. 18, 1792, S. 225). Laut Buffon sind sowohl die Höcker als auch die Brustschwielen eine physische Folge des Lasttragens, die dem Tier zur zweiten Natur geworden sind.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>2,25-26</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>diese Race überhaupt in drei Gattungen einzutheilen]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Buffon gruppiert Kamel und Dromedar zusammen als eine seiner neun „isolirten Gattungen“ (Herrn von Büffons Naturgeschichte der vierfüßigen Thiere, Bd. 18, S. 264), die im Tierreich keine weiteren Familienmitglieder aufweisen. Eine Analogie zum Kamel allerdings sieht er im Lama, das ähnliche physische und charakterliche Eigenschaften zeige. Dennoch erachtet er das Lama als „eine vom Kameel sehr unterschiedne und sehr verschiedene Gattung [...]. Sie sind Nachbaren aber keine Verwandte“ (S. 270).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>3,9</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Quincaillerien]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Frz. ,quincailleries‛: Eisenwaren. Abwertend im Sinne von ,Billigschmuck‛, ,Flitterkram‛ gebraucht, daraus das deutsche ,Kinkerlitzchen‛ (vgl. Meyer, Bd. 16, S. 525).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>3,28-29</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Philippine Tourniaire, geb. Rödinger (1780-1850), war ursprünglich Kunstreiterin und führte zuerst mit ihrem Mann Jacques, später selbständig, eine Wandermenagerie. Diese enthielt zu ihren Glanzzeiten 35 Tiere, darunter ein Nashorn und einen Elefanten. Madame Tourniaire verkaufte die Menagerie 1824, behielt aber das Nashorn und den Elefanten. Vgl. Art. ,Jacques Tourniaire‛, https://de.wikipedia.org/wiki/Jacques_Tourniaire, Zugang 14.°Juni 2021). Der sonst zahme Elefant wurde bei einem Aufenthalt in Bayreuth Anfang 1835 unbändig und wurde zum Kauf </tei:seg>
+          <tei:q>ausgeboten</tei:q>
+          <tei:seg>: „Der Elephant hat im Ankauf 30,000°Frks, also etwa 14,000°fl. gekostet, und jetzt will ihn Mad. Tourniaire um 4,000°fl. verkaufen. Etwaige Kaufliebhaber wollen sich an die Redaktion dieses Blattes wenden.“ (Allgemeine Zeitung von und für Bayern. Nürnberg. Nr.°23, 23.°Januar 1835, S.°93). Der Elefant erlitt bei einem Aufenthalt in Warschau 1837 schließlich einen qualvollen Vergiftungstod, sein Kadaver wurde in ein naturhistorisches Kabinett geschleppt und soll seiner Besitzerin „3000 poln. Gulden (ungefähr 1700-1800°Frks)“ Entschädigung erbracht haben (Der bayerische Eilbote. München. Nr.°30, 11.°März 1837, S.°122).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>4,2</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>amerikanischen Kameele]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Buffon vergleicht im Kapitel „Von der Ausartung der Thiere“ die Gattungen der alten und der neuen Welt und kommt in diesem Zusammenhang auf das Lama als eine dem Kamel ähnliche, amerikanische Art zu sprechen (Herrn von Büffons Naturgeschichte der vierfüßigen Thiere, Bd. 18, S. 267ff.).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>4,6</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Jammergestalten]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow, selbst im pietistischen Milieu Berlins aufgewachsen, gibt eine plastische Schilderung der sinnenfeindlichen, moralisierenden ,Kopfhänger‘ zu Beginn seiner Sozialskizze → </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/novellen/erster-band.html">
+            <tei:q>Die Sterbecassirer</tei:q>
+          </tei:ref>
+          <tei:seg> (GWB I, Bd. 3, S. 75-76).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>4,9-10</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>lesen Göthe nicht, weil sie glauben, er werde ihre Sitten verderben]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dieser Bezug auf die pietistische Moral, die sich vor Goethe verwahrt, hat im Kontext von Gutzkows Vortrag eine spezifische Frankfurter Dimension. In der Bürgerstadt war nicht nur freidenkerischer Geist anzutreffen, sondern auch pietistisch strenger Protestantismus; einer der frühesten Vetreter des Pietismus in Deutschland war der Frankfurter Johann Jacob Schütz (1640-1690). Der demokratische Frankfurter Schriftsteller und Publizist Friedrich Stoltze (1816-1891) machte sich über die ,kopfhängerische‘, asketische Richtung in seinem mundartlichen Vers-Prosa-Gedicht „Kää Kinner“ lustig, in dem der Pietismus durch einen „ältliche[n] Herr[n]“ vertreten ist, „der ausgeseh hat, als wann er net satt zu esse kriehe deht“, und durch Männer, „die den Kopp gehengt hawwe, als weer en hinne der Halswerwel abgefault odder awwer als hätte se deß Genick gebroche“ (Friedrich Stoltze: Sämmtliche Gedichte. Zweiter Theil: Gedichte in Frankfurter Mundart. Bd. 1. Frankfurt/M.: Keller, 1865. S. 187-188).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>4,29</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>in der Bibel heißt, daß sie durch ein Nadelöhr gehen]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Worte Jesu, dass eher ein Kamel durch ein Nadelöhr gehe als ein Reicher in Himmel komme, sind in den Evangelien überliefert (Mt 19,24, Mk 10,25, Lk 18,25).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>5,11</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Fischbein]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Bevor Schirme ab der Mitte des 19. Jahrhunderts mit leichten Metallgestellen versehen wurden, bestanden die Streben aus Fischbein.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>5,23-24</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Gothaer Lebensversicherungs-Anstalt]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Einrichtung von großen Lebensversicherungsanstalten in Deutschland ging im Vergleich etwa zu England und Holland, wo diese schon seit dem 18. Jahrhundert bestanden, zögerlich voran und war noch in den 1830er Jahren ein Novum. „Unter die wichtigsten und umfassendsten Anstalten dieser Art, welche in der neuesten Zeit in Deutschland entstanden sind und durch ihr Gedeihen die Zweckmäßigkeit des Systems, auf welchem sie beruhen, zu bewähren scheinen, gehören die 1829 eröffnete Lebensversicherungsbank für Deutschland zu Gotha und die 1830 gestiftete Lebensversicherungsgesellschaft zu Leipzig. Beide beruhen auf Gegenseitigkeit und Öffentlichkeit und haben den Zweck, die Lebensversicherung durch Entfernung aller Gewinnsucht und Willkür zu erleichtern, aber zugleich durch ihre Einrichtung eine vielseitige Benutzung der Anstalt in allen Fällen, wo an das Leben einer Person sich sowol für sie selber als für einen Dritten ein Interesse knüpft, möglich zu machen.“ (Brockhaus 1833-37, Bd. 6 [1835], S. 542-543).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>5,29</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Er liebt Oberrad, sie liebt Niederrad]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diese beiden südlich des Mains gelegenen heutigen Stadtteile Frankfurts wurden 1900 eingemeindet. 1835 waren sie als Dörfer noch beliebte Ausflugsziele der städtischen Bevölkerung. Der anschließend erwähnte Melibokus und Taunus stehen dagegen für landschaftliche Erholungsorte der Mittelgebirge um Frankfurt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>6,7</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Kamisol]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>“[D]as Nachtjäckchen der Frauen, welches bekanntlich aus feineren oder stärkeren weißen Stoffen, je nach der Jahreszeit und dem Vermögen der Besitzerin, mit mehr oder minder prächtigen Garnituren verziert, besteht. In Frankreich kennt die Modedame diesen einfachen Nacht-Anzug nicht, sondern kostbare Oberröcke von reich gesticktem Batist, treten an seine Stelle, indem die Südländerin sowohl diese als das wohlthätige Kamisol verschmäht, und in ihrem warmen Klima während des Schlummers nur des Schutzes leichter Decken bedarf.“ (F.: Kamisol. In: DCL, Bd. 2 [1834], S. 52).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>6,7</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Regula de Tri]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dreisatz; Rechenverfahren zur Lösung von Proportionalitäts-Aufgaben.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>6,11</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>nach der Zahlmethode 1, 3, 5, 8]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>E: </tei:seg>
+          <tei:q>nach der Zahlenmethode</tei:q>
+          <tei:seg>: Durch die Einteilung der Tonskala in einen gebrochenen Akkord aus Grundton (1. Ton), Terz (3. Ton), Quinte (5. Ton) und Oktave (8. Ton) erhalten die Nummern 3, 5 und 8 einen relationalen Wert zum Grundton.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>6,17</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Monographie]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„[E]ine Schrift, in der ein einzelner Gegenstand aus irgend einer Wissenschaft als ein besonderes Ganze abgehandelt wird.“ (Meyer, Bd. 14, S. 77) Da der ‚wissenschaftliche‘ Gegenstand hier ein sozialer ist, folgt Gutzkow der spielerischen Übertragung eines analytisch-synthetischen Untersuchungsmodells auf das Gebiet der Gesellschaft. In genau demselben sozialkritischen Sinne hatte Ludwig Börne den Begriff in seiner „Monographie der deutschen Postschnecke“ verwendet (vgl.→ Globalkommentar).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>6,18</tei:seg>
+          <tei:seg> </tei:seg>
+          <tei:seg>Okens Naturgeschichte]</tei:seg>
+          <tei:seg> </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow bezieht sich hier auf ein hochaktuelles, laufendes buchhändlerisches Unternehmen. Auf Initiative des Stuttgarter Verlegers Carl Hoffmann publizierte Lorenz Oken (1779-1851), Mediziner und Naturforscher, Professor in Zürich und dort 1836/37 Lehrer Georg Büchners, die „Allgemeine Naturgeschichte für alle Stände“. Dieses 1841 abgeschlossene siebenbändige Werk erschien ab 1833 in Heftlieferungen zu je 6 Bogen, Preis 5 Silbergroschen (Angaben nach Heinsius, Bd. 8, Abt. 2, S. 82-83). Es gehört zu den bekanntesten Beispielen für die Popularisierung wissenschaftlicher Inhalte. Somit reiht sich Gutzkow hier scherzhaft in die Wissenschaftspopularisierung ein, die ab den 1830er Jahren durch Innovationen im Buchhandel markant wurde. Zu diesem Trend äußerte er sich anerkennend, aber auch kritisch (→ </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/buchproduktion-und-literarische-moden/werke-der-industrie.html">Werke der Industrie</tei:ref>
+          <tei:seg>).</tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der Text liegt in zwei Druckfassungen vor, im folgenden aufgeführt nach Wolfgang Rasch: Bibliographie Karl Gutzkow (1829 - 1880). 2 Bde. Bielefeld: Aisthesis, 1998.</tei:seg>
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. Naturgeschichte der deutschen Kameele. Von Karl Gutzkow. (Vorgetragen im Frankfurter Museum.) In: Phönix. Frühlings-Zeitung für Deutschland. Frankfurt/M. Nr. 49, 26. Februar 1835, S. 193-195. (Rasch 3.35.02.26)</tei:seg>
+          <tei:seg>J. Karl Gutzkow: Naturgeschichte der deutschen Kameele. (Vorgetragen im Frankfurter Museum.) In: Phönix. Frühlings-Zeitung für Deutschland. Frankfurt/M. Nr. 49, 26. Februar 1835, S. 193-195. (Rasch 3.35.02.26)</tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>E. Naturgeschichte der deutschen Kameele. In: Soireen. Von Karl Gutzkow. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
+          <tei:seg>E. Karl Gutzkow: Naturgeschichte der deutschen Kameele. In: Soireen. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:list type="sources">
-        <tei:item data-source-id="J">
-          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
-        </tei:item>
-      </tei:list>
-      <tei:head type="level-1">
-        <tei:seg>Kommentierung</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+        <tei:seg>2.2. Varianten</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Für die Buchfassung als Teil der Sammlung </tei:seg>
+        <tei:q>Soireen</tei:q>
+        <tei:seg> änderte Gutzkow den Text der Journalfassung nur geringfügig. Er reduzierte die Absatzgliederung (5,13-14 und 5,30-31 unserer Ausgabe) und stellte dadurch die Gattung des ,gesellschaftlichen Kamels‘ in durchgängigem Text dar, ohne die Übergänge und Pausen des ursprünglichen Vortrags durch Einschnitte sinnfällig zu machen. Eine weitere größere Änderung gegenüber der Journalfassung besteht darin, dass in E die </tei:seg>
+        <tei:q>Sage</tei:q>
+        <tei:seg>, die am Anfang von J erwähnt wird (1,3), ihre Aufschlüsselung als </tei:seg>
+        <tei:q>Heine’sche Erzählung</tei:q>
+        <tei:seg> erfährt (→ Erl. zu </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">1,3</tei:ref>
+        <tei:seg>).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Abgesehen von wenigen kleinen Änderungen in der Orthographie sind die übrigen Varianten:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>1,2</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>Vorgetragen]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">Vorgelesen</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>2,31-32</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>ist es ja vorzüglich]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">ist es vorzüglich</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>3,1</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>sind hier aber kühl]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">sind dabei kühl</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>3,2</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>belästigen sie, oder sind ihnen]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">belästigen sie, oder sie sind ihnen</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>3,8-9</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>von Geburt aus]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">von Natur aus</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>6,11</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:sic>Zahlmethode]</tei:sic>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">Zahlenmethode</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg> 3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Die folgenden Angaben treffen auch auf Gutzkows ebenso vor dem Frankfurter „Museum“ vorgetragene humoristische Gesellschaftskritiken → </tei:seg>
+        <tei:ref type="external" target="">
+          <tei:q>Ueber Pudel, Jokey’s und Nachtigallen </tei:q>
+        </tei:ref>
+        <tei:q>oder über die kleinen Freuden des Lebens</tei:q>
+        <tei:seg> und → </tei:seg>
+        <tei:ref type="external" target="">
+          <tei:q>Ueber die Natur der Kometen</tei:q>
+        </tei:ref>
+        <tei:seg> zu:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die zeitgenössische protosoziologische Skizzenliteratur Frankreichs, die naturwissenschaftliche Modelle der Klassifizierung ironisch auf die Analyse sozialer Phänomene anwandte (→ Globalkommentar der </tei:seg>
+        <tei:q>Zeitgenossen</tei:q>
+        <tei:seg>: 6.1.3.2. Naturwissenschaftliche Paradigmen)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Ludwig Börnes Gesellschaftssatire „Monographie der deutschen Postschnecke“ von 1821, die ebenfalls auf das Modell der Naturgeschichte anspielt</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die öffentliche Wirksamkeit des gewitzten Vortrags, für die Ludwig Börnes ebenfalls vor dem „Frankfurter Museum“ vorgetragene „Denkrede auf Jean Paul“ (1825) als Folie dient</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Frankfurt als ,Bürgerstadt‘ und ‚Kulturstadt‘ zugleich (Heimatstadt Börnes und Goethes), an deren Potential zu einer liberalen Hauptstadt Deutschlands Gutzkows Satire appelliert</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>4. Entstehungs- und Auftrittsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
+        <tei:seg>1. Karl Gutzkow: Rückblicke auf mein Leben, GWB VII, Bd. 2, S. 143-145.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Nichts Behaglicheres von einem städtischen Leben kann man sich denken, als das Ensemble eines damals in Frankfurt alles, was zu des Lebens Anmuth, Bequemlichkeit und höherer Würde gehörte, in nächster Nähe beisammen hatte. Da lag das Theater mit mehr als mittelmäßigen, zuweilen trefflichen Leistungen. Unmittelbar daneben die Post, ringsum lagen Gasthöfe, die für die Kunst der Hôtelhaltung als Akademie galten; Kaffeehäuser, gemüthlich eingerichtet, noch nicht durch die Fremden aus den nahegelegenen Bädern verfranzösirt. Ein Lesezimmer ersten Ranges lag auf dem Roßmarkt. Eine Gasse voll Buchhandlungen, die Buchgasse, war im Nu zu erreichen (sie legte den Grund zu Deutschlands Einheit, denn hier begann, was sich später in Leipzig für die Communicationswege des geistigen Verkehrs fortsetzte); dazu die Senckenberg’sche Stiftung, eine Art Akademie für die Naturwissenschaften, sogar mit einer Sternwarte und Anatomie. Nicht zu vergessen das Städel’sche Museum, eine lehrreiche Gemäldegallerie mit vielem Schönen und Werthvollen älterer und neuerer Kunst. Und unmittelbar nahe sorgsam gepflegte Promenaden, die sich um die Stadt zogen und sich immer mehr vervollkommneten, mit der Zeit Staffagen immer zahlreicherer Neubauten. An Concerten, geistigen Genüssen dabei kein Mangel. Was nur an berühmten Namen auftauchte, holte sich, wenigstens hielten die Frankfurter auf diesen Glauben, das Diplom seines ob wirklichen oder nur gemachten Werthes erst von einer Frankfurter Beweisführung für sein Talent. Der Cäcilienverein, der Liederkranz, beide waren von Dirigenten ersten Ranges geleitet. Ein geschlossener Verein, die Museumsgesellschaft, bot einen Mittelpunkt für geistige Geselligkeit. Nur die einzige Stadtbibliothek lag außerhalb dieses schönen, engzusammengedrängten behaglichen Ensemble’s. Diese an’s äußerste Ende der Stadt zu verpflanzen, war ein unglücklicher Gedanke. Sie hätte in dem Rundkreise um den Roßplatz gerade in der Mitte liegen sollen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Christ und Jude waren damals gesellschaftlich noch mannichfach getrennt. Zu jener eben gerühmten Lesegesellschaft wurde kein Jude zugelassen. Man hatte die Ansicht: Wo erst Einer dieses Stammes Platz gegriffen, da folgen bald die andern und zuletzt sind Wir es, die gehen müssen! Doch gab es Gelegenheiten genug, wo ein Jeder soviel galt, als sein Name, seine Bildung, sein Geist vertreten konnte. Immer mehr an Macht gewann die Börse. Börsenspiel wurde eine Kunst, die sich auf Erkenntniß der politischen Zustände gründete, eine Erkenntniß, die nicht überall anzutreffen war. Der Bundestag mochte diese vielen herumwandelnden verkörperten Barometer kaum wünschen, that sich aber gütlich an den Folgen des immer mehr steigenden Wohlstandes, an den Gastereien, die unter den großen Häusern einen förmlichen Wettstreit erzeugten. Auch eine aristokratische Gesellschaft gab es, obschon dieser die eigentlich fesselnden Bindeglieder, geistreiche und schöne Frauen, fehlten. Nur von einigen Gefallsüchtigen wußte die Chronik grade dieser Sphäre zu erzählen. Ab und zu fuhren die umwohnenden Souveräne die stattliche „Zeil“ herauf. Denn bei Rothschild gab es immer zu handeln und zu markten. Stammgast in Frankfurt war der Herzog von Nassau, der sich im Gasthof zum „Römischen Kaiser“ sogar mehr als erster Weinhändler Deutschlands, denn als Fürst zu fühlen schien.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Ein so kleines und doch bedeutsames Terrain erschien wie ein Glashaus, wo das von oben hereinfallende Licht jeder Physiognomie eine schärfere Zeichnung giebt. Immer streiften hier Menschen aus den verschiedensten Gegenden oder Thätigkeitsgebieten dicht aneinander. Der Beobachter konnte in diesem Verkehr nur lernen. Das Entgegenkommen, das ich fand, war von allen Seiten das wohlwollendste. Hatte ich doch die Gunst der Stadt rasch gewonnen durch einen Vortrag in der erwähnten Museumsgesellschaft. Weit entfernt zu glauben, daß hier eine ernste Abhandlung am Platze gewesen wäre, hatte ich dem Publikum der „Museumsabende“, welchem Musik über alles zu gehen und hinter dieser jeder Vortrag über Goethe oder Schiller, über Posa oder Hamlet langweilig vorzukommen schien, eine „Naturgeschichte der deutschen Kameele“ vorgelesen. War es die Rückkehr des Doctor Rüppell aus Abyssinien oder worin sonst die Anregung gelegen hatte, meine Schilderung des deutschen Philisters, des „Kameels“, fand eine solche Zustimmung bei Männern sowohl wie Frauen und erregte ein solches Ausschütten der Lachlust, einen solchen Sturm von Beifall, daß ich meine Stellung in Frankfurt, den Bundestag und die mit diesem kokettirende Sphäre des Adels und der großen Bankiers ausgenommen, für mehr als leidlich begründet halten konnte.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.1" first-line-indent="0">
+        <tei:seg>4.2. Entstehungs- und Auftrittsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Die Philistersatire </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> wurde als Vortrag vor der Frankfurter „Museumsgesellschaft“ konzipiert und entstand wahrscheinlich in der ersten Februarhälfte des Jahres 1835. Als Redakteur der Literaturbeilage zu der neuen Frankfurter Kulturzeitschrift „Phönix“, die sich durch ihren Untertitel „Frühlings-Zeitung für Deutschland“ programmatisch der ,jungdeutschen‘ Neuerung verschrieb, von Eduard Duller herausgegeben wurde und ab dem 1. Januar 1835 bei J. D. Sauerländer erschien, war Gutzkow erst seit einigen Wochen in der Freien Stadt ansässig. Was ihn dorthin gezogen hatte, waren außer Sauerländers Angebot auch die Liberalität der Stadt, ihr zivilisiertes Ambiente und ihr Kulturleben. Auf dicht gedrängtem Raum fanden sich dort Wissenschaften, Künste, Buchwesen, Wirtschafts- und Finanzmacht, Politik, Gastronomie und Geselligkeit beisammen. In den </tei:seg>
+        <tei:q>Rückblicken</tei:q>
+        <tei:seg> gibt Gutzkow eine lebendige Schilderung davon (→ Dokumente zur Entstehungsgeschichte, </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Entstehungsgeschichte, Nr. 1">Nr. 1</tei:ref>
+        <tei:seg>). Es ist anzunehmen, dass er sich als Neuankömmling mit einem Ruf in der ,jungen‘ Literatur so früh wie möglich an Frankfurts berühmtem Kulturleben beteiligen und durch einen geistreichen Vortrag gesellschaftlich debütieren wollte. Vor einem weiteren Publikum konnte somit auf humorvolle Weise der kritische Anspruch der ‚jungen Schule‘ ausgedrückt werden, der sich in Gutzkows resolut geführtem „Literatur-Blatt“ geltend machte.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die „Museumsgesellschaft“, auf deren Erwartungen Gutzkow sich einstellte und vor der er 1835 noch zwei weitere Male vortrug, widmete sich der Unterhaltung und Belehrung ihrer Mitglieder durch ein integriertes Programm an musikalischen, künstlerischen und wissenschaftlichen Darbietungen. Beeindruckend ist, dass das „Museum“ in einer Stadt von unter 50.000 Einwohnern auf eine kulturelle Infrastruktur zurückgreifen konnte, die es ermöglichte, alle 14 Tage ein umfassendes, die Kapazitäten des Publikums fast überforderndes Programm zu bieten (vgl. auch die Beschreibung einer „Production im Museum“ durch Ludwig Bechstein, der Gutzkows zweitem Vortrag beiwohnte: </tei:seg>
+        <tei:q>Ueber Pudel, Jokey’s und Nachtigallen oder über die kleinen Freuden des Lebens</tei:q>
+        <tei:seg>, Dokumente zur Rezeptionsgeschichte, → </tei:seg>
+        <tei:ref type="external" target="">Nr. 1</tei:ref>
+        <tei:seg>). Gutzkows erster Vortrag </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> fand am 13. Februar 1835 statt und war in folgendes Ensemble an Darbietungen eingegliedert:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Symphonie von Mendelsohn (Zum Erstenmale).</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Katharina Düchesnois, scizzirt nach einem französischen Original, von Herrn </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Berl</tei:hi>
+        <tei:hi style="font-size-small">y.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Arie, von Rossini, gesungen von Fräulein </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Kratk</tei:hi>
+        <tei:hi style="font-size-small">y. </tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Naturgeschichte der deutschen Kameele, von Herrn </tei:hi>
+        <tei:foreign>
+          <tei:hi style="font-size-small">Dr</tei:hi>
+        </tei:foreign>
+        <tei:hi style="font-size-small">. </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Gutzko</tei:hi>
+        <tei:hi style="font-size-small">w.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Duett von </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Cimaros</tei:hi>
+        <tei:hi style="font-size-small">a, gesungen von den Herren </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Fische</tei:hi>
+        <tei:hi style="font-size-small">r und </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Wiegan</tei:hi>
+        <tei:hi style="font-size-small">d.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Der </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Phöni</tei:hi>
+        <tei:hi style="font-size-small">x, Gedicht von Pfitzer, gesprochen von Fräulein </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Lindne</tei:hi>
+        <tei:hi style="font-size-small">r.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Concertino für den Contrabass, komponirt und gespielt von Herrn </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Sach</tei:hi>
+        <tei:hi style="font-size-small">a.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Andeutungen über mittelalterliche und moderne Romantik von Herrn </tei:hi>
+        <tei:foreign>
+          <tei:hi style="font-size-small">Dr</tei:hi>
+        </tei:foreign>
+        <tei:hi style="font-size-small">. </tei:hi>
+        <tei:hi style="font-size-small letter-sparse">Wih</tei:hi>
+        <tei:hi style="font-size-small">l.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:hi style="font-size-small">Ouvertüre von Herrn Schnyder von Wartensee.</tei:hi>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="1" style="text-left">
+        <tei:seg>(Houben, Zff. d. Jg. Dtl., Tl. 2, Sp. 78-79)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>In dem überwiegend musikalischen Angebot bestand also Raum für Kunsterörterungen und gelehrte Vorträge. Dass man das Publikum auch auf die neue Kulturzeitschrift Sauerländers aufmerksam machte, wird außer durch Gutzkows Vortrag mit der Rezitation des Gedichtes „Der Phönix“ von Gustav Pfizer deutlich, das 1833 im „Morgenblatt“ erschienen war (vgl. Houben, Zff. d. Jg. Dtl., Tl. 2, 407-408).  Gutzkow selbst kam es darauf an, in der ,wissenschaftlichen‘ Sparte des Museumsprogramms zu reüssieren. Dies geschah, indem er einer potentiell eher trockenen Gesellschaftskritik eine witzige Form verlieh und sie als </tei:seg>
+        <tei:q>Naturgeschichte</tei:q>
+        <tei:seg> des (zoologisch unsinnigen, sozial jedoch manifesten) ‚deutschen Kamels‘ ankündigte. Die Rechnung ging auf; sein Vortrag passte sich in den unterhaltsamen Stil des Programms ein und geriet mit all seiner subtilen Gesellschaftskritik geradezu zum Komiker-Auftritt (Dokumente zur Rezeptionsgeschichte, → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 1">Nr. 1</tei:ref>
+        <tei:seg>, → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 2">Nr. 2</tei:ref>
+        <tei:seg> und → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 3">Nr. 3</tei:ref>
+        <tei:seg>).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Inspiration zu einer ,naturhistorischen‘ Gesellschaftsstudie, in der ein Sozialtypus als ,Spezies‘ satirisch klassifiziert und analysiert wird, ist im europäischen Kontext physiologischer Gesellschaftsskizzen zu sehen, in dem Gutzkows Werk vor allem der 1830er und 40er Jahre seinen Platz hat (vgl. Globalkommentar der </tei:seg>
+        <tei:q>Zeitgenossen</tei:q>
+        <tei:seg>: → 6.1.3.2. Naturwissenschaftliche Paradigmen). Der spezifische Anlass einer Satire auf die deutschen Philister als </tei:seg>
+        <tei:q>Kameele</tei:q>
+        <tei:seg> und nicht ‚Esel‘ mag tatsächlich, wie Gutzkow in den </tei:seg>
+        <tei:q>Rückblicken</tei:q>
+        <tei:seg> angibt (Dokumente zur Entstehungsgeschichte, → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Entstehungsgesch., Nr. 1, Stelle: War es die Rückkehr des Doctor Rüppell">Nr. 1</tei:ref>
+        <tei:seg>), die Rückkehr des international renommierten Frankfurter Forschungsreisenden Eduard Rüppell (1794-1884) von seiner zweiten großen Expedition nach Nordafrika und Arabien (1830-33) gewesen sein, die im Oktober 1834 durch einen Festakt der Stadt begangen worden war. Rüppell „trug [...] reiche zoologische Sammlungen zusammen (Landwirbeltiere, Fische u. maritime[ ] Wirbellose aus d. Roten Meer). Durch seine wissenschaftlichen Aufsammlungen und Auswertungen wurde das Frankfurter Senckenberg Museum innerhalb weniger Jahre zu einem der bedeutendsten Forschungsmuseen. [...] R[üppell] beschrieb 30 neue Gattungen und knapp 450 neue Arten.“ (Wolfgang Klausewitz: Rüppell,  Wilhelm Peter Simon Eduard. In: Neue Deutsche Biographie. Bd. 22. Berlin: Duncker &amp; Humblot, 2005. S. 227).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>5. Rezeption</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>1. [Bericht über Gutzkows Vortrag </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> im „Museum“]. In: Didaskalia. Frankfurt/M. Nr. 47, 16. Februar 1835. Zitiert nach Houben, Zff. d. Jg. Dtl. 2. Tl., Sp. 79.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Eine Vorlesung des Dr. Gutzkow. Man weiss, dass in unserm Museum die Musen nicht in dem geweihten Schmucke der Priesterinnen, sondern im eleganten Kostüme der Mode des Tages erscheinen müssen. Warum es so ist? ob es gut ist? Das wollen wir nicht untersuchen. Alles ist Meinung. Aber der Käufer wird hier nicht betrogen, er erhält, was er erwarten darf – eine leichte, wechselnde, angenehme Unterhaltung. Für den Ernst sorgt das ernste Leben. Dass man für wissenschaftliche Vorlesungen nebenbei auch noch empfänglich ist, das zeigte sich in der letzten Museumssitzung, indem ein gelehrter Beitrag zur Naturgeschichte der </tei:seg>
+        <tei:hi style="letter-sparse">Kameel</tei:hi>
+        <tei:seg>e Furore machte. Der Naturforscher war der geistvolle Dr. </tei:seg>
+        <tei:hi style="letter-sparse">Gutzko</tei:hi>
+        <tei:seg>w, der mit der Wünschelruthe seiner Gedanken wohl fähig wäre, selbst aus dem dürren Boden der Abgaben frische Quellen springen zu lassen und dessen humoristische Kameelschau als ein würdiges Seitenstück zur bekannten Naturgeschichte der Esel in den satyrischen Feldzügen betrachtet werden darf. Das lebendige Wort belebt und bei jugendlich-frischen Gedanken wird es Allen wohl zu Muthe.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Wir sind von vielen Seiten ersucht worden, die Vorlesung des Hrn. Dr. </tei:seg>
+        <tei:hi style="letter-sparse">Gutzko</tei:hi>
+        <tei:seg>w unsern Lesern mitzutheilen; wir haben daher denselben um das Manuscript in optima forma ersucht, aber den traurigen Bescheid erhalten, es sey bereits besagtes Kameel in die Druckerei des Hrn. J. D. </tei:seg>
+        <tei:hi style="letter-sparse">Sauerlände</tei:hi>
+        <tei:seg>r gewandert, und habe sich unter die Fittige des </tei:seg>
+        <tei:hi style="letter-sparse">Duller</tei:hi>
+        <tei:seg>schen </tei:seg>
+        <tei:hi style="letter-sparse">Phöni</tei:hi>
+        <tei:seg>x geflüchtet. Wir müssen demnach die Leselustigen auf den Wandervogel verweisen. Die Unterhaltung desselben kostet seinen Besitzer, Sauerländer, viel Geld, denn der Vogel frisst nur Manuscript von Duller, Beurmann, Storch, Rellstab, Adrian, Gutzkow, Förster, Häringen, Massmann, Schefer u. A., die sich gutes </tei:seg>
+        <tei:hi style="letter-sparse">Futte</tei:hi>
+        <tei:seg>r gut bezahlen lassen. Unter den Flügeln des Phönix, der recht munter und kräftig emporfliegt, könnt Ihr finden, was Ihr sucht; Ihr seyd reich genug, Euch Papageyen, Nachtigallen und andere Vögel zu kaufen, warum nicht auch einen Phönix? Er kostet für’s ganze Jahr kaum so viel, als eine Theaterloge für eine Woche und sein Repertoire ist doch wahrlich geistreicher, als das mancher Bühne.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>2. [Bericht über Gutzkows Vortrag </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> im „Museum“]. In: Frankfurter Konversationsblatt. Nr. 49, 18. Februar 1835. Zitiert nach Houben, Zff. d. Jg. Dtl, 2. Tl., Sp. 80.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Die Museumssitzung am vergangenen Freitag nahm das Interesse der Freunde dieser Anstalt in einem hohen Grade in Anspruch. Wir behalten uns vor, über einige musikalische Ausführungen bei einer anderen Gelegenheit zu sprechen, und beschränken uns heute auf die Erwähnung eines Vortrages, der auf die Zuhörer einen tiefen Eindruck erzeugte, und sie zu einem Beifall hinriss, wie er im Museum einem rhetorischen Vortrage vielleicht noch nie zu Theil geworden ist. Herr Dr. </tei:seg>
+        <tei:hi style="letter-sparse">Gutzko</tei:hi>
+        <tei:seg>w sprach nämlich über die </tei:seg>
+        <tei:hi style="letter-sparse">Naturgeschicht</tei:hi>
+        <tei:seg>e der </tei:seg>
+        <tei:hi style="letter-sparse">deutschen Kameel</tei:hi>
+        <tei:seg>e. Weder der Gegenstand, noch die Behandlung desselben, noch der Erfolg der Mittheilung war uns unerwartet: Gutzkow war uns lange als ein wissenschaftlicher, geistreicher, humoristischer Schriftsteller, als einer der wenigen Sterne bekannt, die gegenwärtig noch am trüben Himmel unserer deutschen Literatur glänzen, und deren Geistesthätigkeit nicht ohne mächtige Einwirkung bleiben wird. Gutzkow’s Schreibart ist kurz, gedankenreich, kraftvoll und lebendig und mit ächtem Humore erschöpft er siegreich seine Kunst, um systematisch die Altäre umzustossen, die so manchen Götzen unverdient errichtet worden sind. Ein tüchtiger Aristarch, der mit Scharfsinn untersucht, und, wo es nöthig ist, mit der Geissel der Satyre züchtigt, hat Gutzkow der Feinde viele, die in ihren literarischen Garküchen ergrimmt wider ihn schreien, denn er hat es mit der Eitelkeit der Schriftsteller zu thun, aber er hat auch Freunde, die seinem Feuergeiste, seinen Talenten, seinem redlichen Streben Gerechtigkeit widerfahren lassen. Diesen wenigen Worten erlauben wir uns folgenden Artikel aus der „Didaskalia“ beizufügen:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>(Folgt der Bericht aus der Didaskalia.) [→ Dokumente zur Rezeptionsgeschichte, </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 1">Nr. 1</tei:ref>
+        <tei:seg>.]</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>3. [Eingesandt. Bericht über Gutzkows Vortrag </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> im „Museum“]. In: Frankfurter Konversationsblatt. Nr. 50, 19. Februar 1835. Zitiert nach Houben, Zff. d. Jg. Dtl., Tl. 2, Sp. 80-81.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Hr. Dr. Gutzkow hat uns eine so naturgetreue Schilderung der deutschen Kameele geliefert, dass wir nicht anstehen, ihn den ersten Naturhistorikern Deutschlands, wie einem Oken, Goldfuss, Schubert usw. an die Seite zu setzen, und uns nicht wundern würden, wenn derselbe heute oder morgen einen Ruf als Professor publicus ordinarius nach irgend einer benachbarten Universität in dieser Branche erhalten sollte. Er besitzt einen wahrhaft populären Vortrag und weiss das trockene Studium der Naturgeschichte durch seinen lebendigen und frischen Humor, durch sprudelnden Witz, durch sarkastische Wendungen und, was uns das liebste ist, durch seine liberalen Ansichten recht interessant und angenehm zu machen. Es wäre nur zu wünschen, dass er uns auf ähnliche Weise recht bald eine Naturgeschichte aller Säugethiere, namentlich der Esel, Schafe, Böcke, Löwen, Wölfe, Füchse und Bären lieferte. – Sollte er, wie es von einem so bedeutenden Zoologen zu erwarten ist, sich ebenso speziell mit der Ornithologie befasst haben, so sehen wir auch von seiner Hand einer genaueren Naturgeschichte der deutschen Gänse entgegen.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0">
+        <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der außerordentliche Publikumserfolg des Vortrags, belegt durch unmittelbar folgende Berichte in Frankfurter Blättern (Dokumente zur Rezeptionsgeschichte, → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 2">Nr. 2</tei:ref>
+        <tei:seg> und → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Rezeptionsgeschichte, Nr. 3">Nr. 3</tei:ref>
+        <tei:seg>) sowie in Gutzkows Erinnerungen (Dokumente zur Entstehungsgeschichte, → </tei:seg>
+        <tei:ref target="#global" data-heading-id="Dokumente zur Entstehungsgesch., Nr. 1, Stelle: Hatte ich doch die Gunst, ">Nr. 1</tei:ref>
+        <tei:seg>), lässt auf die Popularität der Philistersatire schließen. Diese war seit der Romantik Bestandteil des literarischen Repertoires, und auch die jungdeutsche Generation griff darauf zu. Die Darstellung des ‚deutschen Kamels‘, ganz zu schweigen von seinen Untergattungen, forderte zu einer geradezu theatralischen Darbietung heraus (vgl. z. B. 2,8-14 unserer Ausgabe). Dagegen beweist die eher zurückhaltende Reaktion des Publikums bei Gutzkows zweiter Lesung vor dem „Museum“ am 13. März 1835, die dem Muster der </tei:seg>
+        <tei:q>Naturgeschichte</tei:q>
+        <tei:seg> folgte (</tei:seg>
+        <tei:q>Ueber Pudel, Jokey’s und Nachtigallen oder über die kleinen Freuden des Lebens</tei:q>
+        <tei:seg>, Dokumente zur Rezeptionsgeschichte, → </tei:seg>
+        <tei:ref type="external" target="">Nr. 1</tei:ref>
+        <tei:seg> und → </tei:seg>
+        <tei:ref type="external" target="">Nr. 2</tei:ref>
+        <tei:seg>), dass die Feinheiten seiner Sozialsatire wohl eher durch das gedruckte Medium als durch das gesprochene Wort vermittelt werden konnten.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Interessant an der Rezeption der </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> ist, dass der Vortrag zu einem Medien-Ereignis wurde. Die enthusiastischen Berichte waren geprägt von der Ansicht der Kritiker, in dem Auftritt des „Hrn. Dr. Gutzkow“ habe sich die Kritik der jungen Generation zu einem belebenden, sozusagen gemeinnützigen Element aufgeschwungen: „bei jugendlich-frischen Gedanken wird es Allen wohl zu Muthe“, so die „Didaskalia“.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der Text von Gutzkows Lesung am 13. Februar wurde knapp zwei Wochen später im „Phönix“ mit dem Hinweis </tei:seg>
+        <tei:q>Vorgetragen im Frankfurter Museum</tei:q>
+        <tei:seg> veröffentlicht. Dass der Autor selbst diese Skizze schätzte, belegt ihre Aufnahme in den zweiten Teil seiner Sammlung </tei:seg>
+        <tei:q>Soireen</tei:q>
+        <tei:seg> (1835). </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der Globalkommentar wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg> </tei:seg>
       </tei:p>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
