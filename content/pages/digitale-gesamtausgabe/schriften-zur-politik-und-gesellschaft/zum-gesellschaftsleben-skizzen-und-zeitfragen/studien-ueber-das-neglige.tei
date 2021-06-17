@@ -9,7 +9,7 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
+
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -35,7 +35,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2006-03" who="#MartinaLauster">1.0</tei:change>
-      
+
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -109,7 +109,7 @@
         <tei:seg>Der Text liegt in einer einzigen Druckfassung vor, im folgenden aufgeführt nach Wolfgang Rasch: Bibliographie Karl Gutzkow (1829 - 1880). 2 Bde. Bielefeld 1998.</tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. [Anon.:] Studien über das Negligé. In: Morgenblatt für gebildete Stände. Stuttgart und Tübingen. Nr. 5, 5. Januar 1833, S. 17-18; Nr. 6, 7. Januar 1833, S. 22-24; Nr. 7, 8. Januar 1833, S. 26-27. (Rasch 3.33.01.05)</tei:seg>
         </tei:item>
       </tei:list>
@@ -117,7 +117,7 @@
         <tei:seg>Edierter Text</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
         </tei:item>
       </tei:list>

@@ -9,7 +9,7 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
+
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -35,7 +35,7 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-11" who="#MartinaLauster">1.0</tei:change>
-      
+
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -79,7 +79,7 @@
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. [Anon.]: Die zoologischen Gärten. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 1, Nr. 27, [4. Juli] 1861, S. 540. (Rasch 3.61.07.04.4 N)</tei:seg>
         </tei:item>
       </tei:list>
@@ -90,7 +90,7 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
         </tei:item>
       </tei:list>

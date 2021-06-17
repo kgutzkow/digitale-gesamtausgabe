@@ -9,7 +9,7 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-        
+
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -36,7 +36,7 @@
     <tei:revisionDesc>
       <tei:change when="2003-09" who="#MartinaLauster">1.0</tei:change>
       <tei:change when="2008-12" who="#MartinaLauster">1.0</tei:change>
-      
+
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -114,10 +114,10 @@
         <tei:seg>Der Text liegt in zwei Druckfassungen vor, im folgenden aufgeführt nach Wolfgang Rasch: Bibliographie Karl Gutzkow (1829 - 1880). 2 Bde. Bielefeld: Aisthesis, 1998.</tei:seg>
       </tei:p>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Naturgeschichte der deutschen Kameele. Von Karl Gutzkow. (Vorgetragen im Frankfurter Museum.) In: Phönix. Frühlings-Zeitung für Deutschland. Frankfurt/M. Nr. 49, 26. Februar 1835, S. 193-195. (Rasch 3.35.02.26)</tei:seg>
         </tei:item>
-        <tei:item>
+        <tei:item data-source-id="E">
           <tei:seg>E. Naturgeschichte der deutschen Kameele. In: Soireen. Von Karl Gutzkow. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
         </tei:item>
       </tei:list>
@@ -128,7 +128,7 @@
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:list type="sources">
-        <tei:item>
+        <tei:item data-source-id="J">
           <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
         </tei:item>
       </tei:list>
