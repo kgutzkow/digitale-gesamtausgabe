@@ -46,13 +46,13 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:hi style="font-style-italic">[Modernes Antiquariat.]</tei:hi>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:hi style="font-style-italic">[1.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:pb n="679"/>
         <tei:seg> * Bei dem </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Streite, welchen die jüdischen Antiquare in Frankfurt a. M. mit den dortigen Buchhändlern führen</tei:ref>
@@ -86,10 +86,10 @@
         <tei:hi style="letter-sparse">Sortiments</tei:hi>
         <tei:seg>buchhandel, als ein Gewerbe, von diesen Geschäften ausnehmen. Die gesunde Vernunft lehrt, daß für eine Stadt von 50,000 Einwohnern in Frankfurt schon mehr als zu viel Buchhändler da sind, und daß eine Vermehrung derselben nur Verarmung der Betheiligten und die Entwürdigung der Literatur zur Folge haben kann. Die Handelsfreiheit ist sehr gut; aber sie muß auch richtig verstanden werden.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:hi style="font-style-italic">[2.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:pb n="895"/>
         <tei:seg> * In Stuttgart giebt der Buchhändler </tei:seg>
         <tei:ref type="esv" target="#annotation-6">
@@ -134,10 +134,10 @@
         <tei:hi style="letter-sparse">wohlfeiler</tei:hi>
         <tei:seg> bekömmt, als im alten ehrlichen Gange einzeln über Leipzig! Freilich dann würde der Buch- dem Zucker- und Kafféhandel gleich!</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:hi style="font-style-italic">[3.]</tei:hi>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:pb n="983"/>
         <tei:seg> * Der Buchhändler </tei:seg>
         <tei:hi style="letter-sparse">C. Hoffmann</tei:hi>
@@ -544,29 +544,29 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>In der Rubrik „Kleine Chronik“ des „Telegraph für Deutschland“ setzte sich Gutzkow 1838 in einer Reihe von Beiträgen mit dem Phänomen des modernen Antiquariats auseinander. Diese Publikationen reihen sich in seine Kritik der Entwertung von Druckwerken durch profitorientierte buchhändlerische Methoden ein (vgl. auch → </tei:seg>
         <tei:q>Ueber Preisherabsetzungen im Buchhandel</tei:q>
         <tei:seg>). Der in GWB edierte Text „Modernes Antiquariat“ stellt eine Kompliation von drei aufeinander bezogenen Beiträgen Gutzkows zu diesem Thema dar, die über einen Zeitraum von etwas mehr als zwei Monaten veröffentlicht wurden.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
-        <tei:seg>1. Textüberlieferung</tei:seg>
-      </tei:head>
-      <tei:head type="level-3">
-        <tei:seg>1.1. Handschriften</tei:seg>
-      </tei:head>
-      <tei:head type="level-4">
-        <tei:seg>1.1.1. Übersicht</tei:seg>
-      </tei:head>
-      <tei:p style="no-indent text-left">
-        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>1.2. Drucke</tei:seg>
-      </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
           <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 85 vom 26. Mai 1838, S. 679-680 (Rasch 3.38.05.26)</tei:seg>
@@ -578,22 +578,25 @@
           <tei:seg>J [Anon.:] Kleine Chronik. In: Telegraph für Deutschland. Hamburg. Nr. 123 vom 1. August 1838, S. 983-984. (Rasch 3.38.08.01.2)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">162,19-20</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>zu- [680]dringlichen</tei:lem>
@@ -602,24 +605,23 @@
         <tei:sic>[680]</tei:sic>
         <tei:sic>dringlichen</tei:sic>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">164,15</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Schleudern</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Schlaudern</tei:sic>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3. Quellen, Folien, Anspielungshorizonte, Bezugstexte</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3.1. Bezugstext von Nr. 2 der edierten Texte</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon., vermutlich Carl Hoffmann:] Kukukseier. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 24, 15. Juni 1838, S. 179-180.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Seit längerer Zeit sind wir gewöhnt, allerlei den Buchhandel be­schrän­kende Maßregeln von Frankfurt aus beantragt zu sehen, so daß wir keinen Augenblick im Zweifel sind, was für ein Vogel diese Eier in ein fremdes Nest legte, und die Ueberschrift keiner weiteren Erläute­rung bedarf. Wir trauen auch dem Herausgeber des Telegraphen, obschon er vor einiger Zeit sich berufen glaubte, mittels einiger paradoxer Rathschläge den heruntergekommenen Buchhandel zu reformiren [→ </tei:seg>
         <tei:q>Ueber eine Reform des deutschen Buchhandels</tei:q>
         <tei:seg>], zu viel Selbstkenntniß zu, als daß er sich für fähig halten sollte, ‚das literarische Bedürfnis von 50,000 Menschen ohne weiteres abzuschätzen.‛ Da der Verfasser unterlassen hat, Grün­de für seine Behauptungen anzuführen – was ihm freilich schwer geworden sein würde, – so begnügen wir uns, obiges Räsonnement, das den Stempel der Beschränktheit an der Stirn trägt, unsern Lesern blos der Kuriosität wegen mitzutheilen; wir müßten das in früheren No. d. Bl. Gesagte nur wiederholen. Die sehr weise Schlussbemerkung, daß die Handelsfreiheit zwar sehr gut sei, </tei:seg>
@@ -631,35 +633,34 @@
         <tei:seg> ist davon auszunehmen, wahrscheinlich weil er ein Sortiments­buch­händler ist. Ein Verleger ist er nicht, sonst müßte er wissen, daß auch dieser mit Konkurrenz zu kämpfen hat, und konsequenterweise auch den Verlagsbuchhandel ausnehmen. Da aber der Buchhandel so daniederlegt, und er als Handelsmann berechtigt ist, jedes Geschäft zu treiben, so greift er vielleicht zum Spezereibedarf, und findet, daß sich das leibliche Bedürfniß von 50,000 Menschen, welche mit Zucker und Kaffee und andern Materialien zu ihrem Lebens­unterhalte versorgt sein wollen, mit weit mehr mathematischer Gewiß­heit anschätzen läßt, als das literarische, er trägt daher flugs darauf an, die Behörden sollten die Eröffnung neuer Spezereiläden unbedingt verweigern, da die gesunde Vernunft lehrt, daß schon mehr als zu viel da sind, und eine Vermehrung nur die Entwerthung des Zuckers und Kaffee’s zur Folge haben kann. Und so kommt er zu dem richtigen Schluß, daß die Handelsfreiheit für jedes Geschäft sehr gut ist, nur nicht für das, welches er selbst betreibt,– </tei:seg>
         <tei:hi style="letter-sparse">denn sie muß nur richtig verstanden werden ! –</tei:hi>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>3.2. Folien</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Carl Hoffmann: Das Frankfurter Manifest. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 10,  März 1838, S. 69-71.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon., vermutlich Carl Hoffmann:] Der Frankfurter Handel. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 184,Mai 1838, S. 134-137.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Carl Hoffmann: Die Frankfurter Korporation. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 27, 6. Juli 1838, S. 197-199.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon., vermutlich Carl Hoffmann:] Schneller Tod der frankfurter Korporazion. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 29, 20. Juli 1838, S. 241. </tei:seg>
       </tei:p>
-      <tei:p style="text-left"/>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon., vermutlich Carl Hoffmann:] Kukukseier. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 24, 15. Juni 1838, S. 179-180. (→ 3.1. Bezugstext von Text Nr. 2.)</tei:seg>
       </tei:p>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>[Anon., vermutlich Carl Hoffmann:] Abfertigung. In: Süddeutsche Buchhändler-Zeitung. Stuttgart. Nr. 34, 14. August 1838, S. 242-243.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der Ausleger der Handelsfreiheit im hamburger Telegraphen, mit dem wir uns in no. 24 d. Bl. beschäftigten, </tei:seg>
         <tei:hi style="letter-sparse"> versichert</tei:hi>
         <tei:seg>, daß er in der That im Stande sei, „</tei:seg>
@@ -676,22 +677,22 @@
         <tei:hi style="letter-sparse">Sortimentsbuchhändler</tei:hi>
         <tei:seg> halten, und aus­drück­lich hinzugefügt, daß wir dem Herausgeber des Telegraphen die Anmaßung nicht zutrauen. Sei er indessen Laie oder nicht – uns kann es gleichgültig sein. Die „prahlerische Vornehmheit“ überlassen wir ihm, möge er in seinem Dünkel sich wohl und glücklich fühlen!  </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Er – der die Handelsfreiheit richtig verstanden wissen will – sagt ferner: „der Vergleich der Bücher mit Zucker und Kaffee ist ganz thöricht.“ Untersuchen wir doch einmal, wem die Thorheit zur Last fällt. Als Vergleich an und für sich ist er es gewiß nicht, denn es lassen sich noch heterogenere Dinge miteinander vergleichen. Man kann z. B. recht gute einen aufgeblasenen mit einem bescheidenen Menschen ver­gleichen, indem man die Aehnlichkeiten und Verschiedenheiten beider aussucht, ohne daß dies thöricht genant werden darf. Thöricht wäre der Vergleich aber, wenn der Aufgeblasene dem bescheidenen gleich gesetzt würde. Unser Verfasser behauptet, daß sich das literarische Bedürfniß einer Stadt oder einer gewissen Seelenzahl ohne weiteres abschätzen lasse, und folgert daraus, daß die Behörden verpflichtet seien, die Zahl der Sortimentshandlungen hienach zu beschränken. Wir sagen dagegen, daß sich der Bedarf von Zucker und Kaffee mit weit mehr mathematischer Gewißheit abschätzen lasse, was wol keinem Widerspruch unterliegen dürfte, und kommen mit der nämlichen Folgerung zu dem Schluß, daß der Spezereihandel mit weit größerem Rechte, als der Sortimentsbuchhandel, der Beschränkung zu unter­werfen sei.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6.1. Globalkommentar </tei:seg>
       </tei:head>
-      <tei:p style="no-indent text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Mit Aufkommen eines neuen Unternehmertyps in der Verlagsbranche (→ Lexikon: Spekulativer Verleger), der dazu tendierte, auf der Basis herstellungstechnischer Innovationen Massenauflagen zu pub­lizieren und über den eigentlichen Bedarf des Käuferpublikums hin­aus zu produzieren, entstanden Auflagen mit einem nicht absetzbaren Anteil. Diese Druck­erzeugnisse wurden kurz- oder mittelfristig in größeren Partien zu einem gerin­gen Preis dem Antiquariatsbuchhandel zugeführt. Der Antiquar konnte sie dann deutlich verbilligt und für ihn meist profitabel an das Publikum weitergeben. Der Bezug großer Partien von Restauflagen unverkäuflicher Ware und Remittenden sowie umfangreichen Lagerbeständen durch Antiquare ist charakteristisch für die Entstehung und kontinuierliche Ausbreitung eines neuen Vertriebszweigs, des modernen Antiquariats, im 19. Jahrhundert. </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Als ein Zentrum des modernen Antiquariats kristallisierte sich schon früh Frankfurt am Main heraus, wo bekannte Firmen wie beispielsweise die Antiquariatsbuchhandlung von Joseph Baer ihren Sitz hatten. Die Sortimenter in Frankfurt sahen diese Entwicklung mit Besorgnis, da sie selbst mit den Preisen der Antiquare nicht konkurrieren konnten. Die Frankfurter schlossen sich gegen die ortsansässigen Antiquare – in erster Linie Baer und St. Goar – zur „Frankfurter Corporation“ zusammen. Anlass war das Geschäft zwischen dem Stuttgarter Verleger Carl Hoffmann und dem Antiquar Joseph Baer 1838, als Baer von Hoffmann die Restauflage von Poppes „Volksgewerbslehre“ (→ Erl. zu 164,27-28) übernahm und sie zur Hälfte des früheren Ladenpreises verkaufte. Daraufhin wehrten sich die Frankfurter Sortimenter mit der Anzeige, auch bei ihnen sei dieses Werk jetzt zu Billigpreisen  im Angebot, und kündigten dem Stuttgarter Verleger Hoffmann Ende Juni 1838 die Geschäftsverbindung.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Hoffmann seinerseits führte in seiner „Süddeutschen Buchhändler-Zeitung“ eine Kampagne gegen den Frankfurter Buchhandel mit seinen, wie er es sah, protektionistischen Tendenzen (→ 3.2. Folien) und betrachtete den Korporations-Zusammenschluss der Frankfurter Buchhändler als geschäftswidrig. Er veröffentlichte in Nr. 174 des „Frankfurter Journals“  (Juni 1838) eine Erklärung, „Poppe’s Volksgewerbslehre betreffend“:  „In Nro. 108 des Frankfurter Journals wurde von Herrn </tei:seg>
         <tei:hi style="letter-sparse">Joseph Baer</tei:hi>
         <tei:seg>, Buchhändler und Antiquar in Frankfurt, </tei:seg>
@@ -722,7 +723,7 @@
         <tei:hi style="letter-sparse">böswilligen Absicht der Ge­werbs­schmälerung</tei:hi>
         <tei:seg> erlassen, und sucht überdies auf hämische Weise des Werth des Buches herabzuwürdigen. Hierauf etwas zu erwiedern, ist freilich sehr überflüssig, da die Schriften des rühmlich bekannten Herrn Verfassers zu allgemeine Anerkennung gefunden haben, als daß der Neid und die Mißgunst einer Faktion ihnen nachtheilig seyn könnte.“</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Dass Hoffmann allerdings selbst mit der Wertminderung seiner Poppeschen „Volksgewerbslehre“ begonnen hatte, indem er sie als zu verschleudernden Restposten ins moderne Antiquariat gab, stellte Gutzkow in seinem Beitrag vom 1. August (Nr. 3 der hier edierten Texte) ausdrücklich fest: Durch seine </tei:seg>
         <tei:q>Parthieverkäufe und das daraus erfolgende Annulliren der festen Preise</tei:q>
         <tei:seg> seien nicht die von Hoffmann beschuldigten Frankfurter Korporationsbuchhändler, sondern er selbst für die Untergrabung </tei:seg>

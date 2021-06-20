@@ -46,14 +46,14 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="98"/>
         <tei:seg> Ueber deutsche Publicistik.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>I.</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Veranlassung zu den nachfolgenden Bemerkungen gaben dem Verfasser die bekannten Skizzen des Lord Brougham über die Staatsmänner aus der Regierungsepoche Georgs III und Georgs IV, eines vielangefeindeten, aber nach allen Seiten hin geistreich anregenden Werkes.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -91,15 +91,15 @@
         <tei:seg>, so können wir, in die Zeiten rückblickend, fragen was Deutschland auf diesem Gebiete der Litteratur geleistet hat? Eine Geschichte der deutschen Publicistik wäre eine dankenswerthe und belehrungsreiche Arbeit. Derjenige der sie übernähme, würde sich das Material etwa in folgende Gruppen theilen müssen:</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>I. Die juristische Periode der Schlözer und Pütter, wo sich auf den Universitäten das </tei:seg>
+        <tei:seg>I.    Die juristische Periode der Schlözer und Pütter, wo sich auf den Universitäten das </tei:seg>
         <tei:hi style="letter-sparse">Staatsrecht</tei:hi>
         <tei:seg> erlaubte die politischen Zustände Europa’s und Deutschlands zu beaufsichtigen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>II. Die Reaction der Bildung und des verfeinerten Geschmackes auf die Beurtheilung der hinter dem ästhetischen und nationalen Aufschwunge des Vaterlandes zurückbleibenden politischen Zustände. Hier kämen vorzugsweise C. F. v. Moser und Justus Möser in Betracht.</tei:seg>
+        <tei:seg>II.   Die Reaction der Bildung und des verfeinerten Geschmackes auf die Beurtheilung der hinter dem ästhetischen und nationalen Aufschwunge des Vaterlandes zurückbleibenden politischen Zustände. Hier kämen vorzugsweise C. F. v. Moser und Justus Möser in Betracht.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>III. Die durch die Zeitereignisse von der französischen Revolution bis zum Untergang des deutschen Reiches und von da bis zur Erhebung des Vaterlandes gegen Frankreich hervorgerufene, fast möcht’ ich sagen unfreiwillige, aber gerade dadurch ächt historisch und im höhern Sinne wahrhaft politische Publicistik, zu welcher Johannes v. Müller, Fichte, Gentz, Adam Müller, Arndt, Görres u. s. w. zu rechnen wären.</tei:seg>
+        <tei:seg>III.    Die durch die Zeitereignisse von der französischen Revolution bis zum Untergang des deutschen Reiches und von da bis zur Erhebung des Vaterlandes gegen Frankreich hervorgerufene, fast möcht’ ich sagen unfreiwillige, aber gerade dadurch ächt historisch und im höhern Sinne wahrhaft politische Publicistik, zu welcher Johannes v. Müller, Fichte, Gentz, Adam Müller, Arndt, Görres u. s. w. zu rechnen wären.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Erst mit der neuen Bundesverfassung, erst mit der Bildung constitutioneller Staaten und dem Zugeständniß eines in Einklang mit allen moralischen Kräften der Gesellschaft zu entwickelnden Staatslebens begänne dann jene </tei:seg>
@@ -207,7 +207,7 @@
         <tei:hi style="letter-sparse">ganzen Litteratur</tei:hi>
         <tei:seg> eine andere, eine weltbedeutendere werden. Worin liegt jetzt der kleinlichere Effect des deutschen Schriftstellers in Vergleich mit dem Auslande? In der von den Umständen gebotenen Unmöglichkeit den Thatsachen gegenüber seinen Geist, seine Bildung so geltend zu machen, wie wir doch sehen daß französische und englische Schriftsteller ihn geltend machen dürfen. Darüber zum Schluß noch einige Worte.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Man hört so oft daß die deutsche Litteratur der Gegenwart (die schöne und die philosophirende) hinter der classischen Periode des vorigen Jahrhunderts zurückbleibt, übersieht aber dabei die großartige Umgestaltung aller der Voraussetzungen, unter welchen sich jetzt noch das was man Litteratur nennt entwickelt. An die Stelle jener ästhetischen und moralischen Wahrheiten welche das verflossene Jahrhundert bewegten, sind in diesem historische und politische Wahrheiten getreten. Die Wirkung derselben in originellen Köpfen, die Offenbarung derselben in erwählten dichterischen und darstellenden Genien könnte jetzt, wie damals, dieselbe seyn wenn nicht eben dem Schriftsteller von heute versagt wäre seinen historisch-politischen Stoff in der ganzen individuellen Fülle in sich aufzunehmen, wie es die Schriftsteller von Damals mit ihrem unverfänglichen, ästhetisch-moralischen durften. Der deutsche </tei:seg>
         <tei:pb n="104"/>
         <tei:seg> Schriftsteller der Gegenwart hat das volle Gefühl seiner großen Aufgabe, erkennt die ganze Größe, den ganzen Umfang der Ansprüche die seine Mitwelt an ihn machen darf. Allein seine Bildung, sein Beruf, sein Ideal ist dasjenige nicht welches ihm unsere Nationalverhältnisse geltend zu machen erlauben. Im Auslande treten dem Schriftsteller diese Schwierigkeiten nirgends in den Weg. Der englische, der französische Publicist darf sich auf die Höhe nicht nur der abstracten, sondern auch der concreten Weltgeschichte stellen: wir Deutsche sind Kenner der fremden Litteraturen genug, um diese großartigen Entfaltungen zu beobachten, zu fühlen. Stellen wir nun die Vergleichung mit der Heimath an, so schrumpft alles was bei uns gleich, was bei uns identisch seyn sollte, zu einer nur ungefähren winzigen Aehnlichkeit zusammen. Man sagt wohl, wir hätten keine Talente wie z. B. Eugène Sue, aber die Wahrheit ist die, wir haben viel größere Talente, nur verbieten ihnen die Umstände sich zu so zeitgemäßen Interessen, wie jene, auszubeuten.</tei:seg>
@@ -225,22 +225,22 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -248,57 +248,60 @@
           <tei:seg>J Karl Gutzkow: Ueber deutsche Publicistik. In: Monatsblätter zur Ergänzung der Allgemeinen Zeitung. Augsburg. [Heft 3], März 1845, S. 98–104. (Rasch 3.45.03.2).</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">215,2</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>verallgemeinernde</tei:lem>
         <tei:seg> lies: </tei:seg>
-        <tei:sic>
-          <tei:hi style="letter-sparse">verallgemeinernde</tei:hi>
-        </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>verallgemeinernde</tei:sic>
+        </tei:hi>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">217,5</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Zacharia</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Zachariä</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">218,13</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Form</tei:lem>
         <tei:seg> lies: </tei:seg>
-        <tei:sic>
-          <tei:hi style="letter-sparse">Form</tei:hi>
-        </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>Form</tei:sic>
+        </tei:hi>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">227,27</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>unpopular</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>unpopulär</tei:sic>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

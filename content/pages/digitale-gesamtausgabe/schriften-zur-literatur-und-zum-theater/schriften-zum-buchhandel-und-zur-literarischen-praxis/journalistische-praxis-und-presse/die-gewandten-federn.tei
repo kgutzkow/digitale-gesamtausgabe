@@ -46,14 +46,14 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="33"/>
         <tei:seg> Die gewandten Federn.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:hi style="font-size-small">                                                                                 „Es ist zu bedauern, daß sich noch immer die rechten Köpfe nicht wollen finden lassen!“</tei:hi>
+      <tei:p margin-left="9.3" margin-right="0" margin-top="0.1" margin-bottom="0.2" first-line-indent="0" style="text-left" extract="">
+        <tei:hi style="font-size-small">„Es ist zu bedauern, daß sich noch immer die rechten Köpfe nicht wollen finden lassen!“</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Wilibald Alexis, dieser ehrliche Gefühlspublizist, knüpft in einer der neuesten Nummern des Stuttgarter </tei:seg>
         <tei:hi style="letter-sparse">Morgenblattes</tei:hi>
         <tei:seg> an einen vielbesprochenen Todesfall Betrachtungen, die, obgleich in ein ironisches Gewand gekleidet, doch von sehr ernster Natur sind. Die nachfolgenden Zeilen wollen sich diesen Betrachtungen anschließen und dabei weniger einen politischen, als einen allgemeinliterarischen Standpunkt im Auge behalten. Dem kundigen Zeitungsleser wird unser Thema nahe liegen; denn nahe genug ist es gerückt worden, hie und dort, in einer fast systematischen Aufeinanderfolge von Artikeln, die fast alle mit dem Refrain enden, daß wir keine „gewandten Federn“ hätten. Man wird sich dieser Aufsätze erinnern, man wird wissen, an welche Vorgänge sie sich anreihten, an welche Verlegenheiten einer bedeutenden norddeutschen Zeitung, an welche Mißgriffe in der Berufung von Männern, denen die Bestimmung, ewig in der Minorität zu bleiben, schon auf der beschränkten Denkerstirn geschrieben stand. </tei:seg>
@@ -135,7 +135,7 @@
         <tei:foreign>Separatvota</tei:foreign>
         <tei:seg> verloren hat auf der einen Seite, auf der andern in eine Politik, die die ganze Frage des Jahrhunderts nur nach den Grundsätzen eines willkürlich erdachten und in der Luft schwebenden „Staatsbürgerrechtes“ zu beurtheilen versteht.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Die wahre deutsche Publizistik, die sich aus diesen organisch verschmolzenen poetischen und juristischen Elementen gebildet hat und immer noch mehr bilden wird, kann allerdings nie eine Schule, nie eine Methode werden, sondern sie wird immer nur Blüthe des Talentes seyn. In dieser Art war Fichte ein ächter deutscher Publizist, war es 1815 Görres, war es Arndt und sind es hie und da noch manche „Köpfe,“ die wohl nur darum nicht die „rechten“ scheinen, weil das Wesen dieser einzigwahren deutschen Publizistik die innere Überzeugung ist. Diese Blüthe des Talentes ist eine Himmelsgunst. Diese Publizistik redet mit Feuerzungen, nicht im kühlen Tone gemachter Verständigkeit, sie ist leidenschaftlich in Liebe und Haß, nicht annähernd sich interessirend oder von sich weisend, sie ficht mit dem breiten Schwerte der Satyre, nicht mit dem kurzen Stoßdegen der Ironie. Die Publizisten von ächtem Schrot und Korn, wie sie nur wahrhaft auf die deutsche Nation zu wirken vermögen, sind freie, selbständige Charaktere, die „gewandten Federn“ nur schwache Pflanzen, die des Spaliers bedürfen, um sich halten zu können. Jene verschießen vielleicht mit einem einzigen Wort ihr ganzes Pulver, diese geizen mit ihrem kleinen Vorrath und mögen aus einem Hinterhalte wohl oft glücklicher treffen, als jene in ihrer blinden Ehrlichkeit. Die wahre, wirksame deutsche Publizistik wird aber nie ein bloßes Styltalent, nie ein bloßes Magazin von historischen, an sich achtbaren Kenntnissen seyn, sondern sie muß haben, was der Franzose </tei:seg>
         <tei:foreign>entrailles</tei:foreign>
         <tei:seg> nennt, Eingeweide, Herz und Nieren, den ungeduldigen Muth eines Rennpferdes, das da schnaubt und dampft und mit den Füßen scharrt und vor Verlangen, seine Kräfte zu messen, mit den Hufen die Planke einstampfen möchte, die ihn vom Schauplatz seines Ruhmes trennt. Wohl dann freilich jener Sache, die auf eine solche Natur verpfändet und verwettet ist! Ob ein Fürst oder ein Volk, sein Wohl wird gut berathen seyn. Ich sagte, wir hätten noch einige solcher Publizisten? Vielleicht viele, nur reden sie nicht; denn das ist auch ein Talent dieser wahren Publizisten, daß eine sehr tiefe, bedeutungsvolle Beredsamkeit in ihrem Schweigen liegt.</tei:seg>
@@ -145,71 +145,81 @@
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35; Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15)</tei:seg>
+          <tei:seg>J Karl Gutzkow: Die gewandten Federn. In: Telegraph für Deutschland. Hamburg. Nr. 9, [15.] Januar 1844, S. 33–35; Nr. 10, [17.] Januar 1844, S. 37–38. (Rasch 3.44.01.15)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">203,14</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Waffe</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Masse</tei:sic>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">206,28-29</tei:citedRange>
-        <tei:seg> </tei:seg>
-        <tei:seg>
-          </tei:seg>
+        <tei:seg>  </tei:seg>
+        <tei:foreign>
+          <tei:hi style="letter-sparse">
+            <tei:lem>rotten borough</tei:lem>
+          </tei:hi>
+        </tei:foreign>
+        <tei:lem>-Wesen</tei:lem>
         <tei:seg> lies: </tei:seg>
-        <tei:seg>
-          </tei:seg>
+        <tei:foreign>
+          <tei:sic>rotten borough</tei:sic>
+        </tei:foreign>
+        <tei:sic>-Wesen</tei:sic>
+        <tei:seg>            </tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">207,20</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Köpfe“,</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Köpfe,“</tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

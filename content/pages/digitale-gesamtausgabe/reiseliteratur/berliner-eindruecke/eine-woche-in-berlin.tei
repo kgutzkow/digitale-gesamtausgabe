@@ -34,19 +34,20 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-03" who="#WolfgangRasch">1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2020-10-02">1.1</tei:change>
+      <tei:change who="#WolfgangRasch" when="2020-10-02">1.1: Tei Auszeichnung </tei:change>
+      <tei:change when="2021-06-20" who="#WolfgangRasch">1.2: Kommentar ergaenzt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="396"/>
         <tei:seg> Eine Woche in Berlin.</tei:seg>
       </tei:head>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>I.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Berlin wächst an Straßen, mehrt sich an Menschen, aber man kann des Abends um neun Uhr doch im </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Anhaltischen Bahnhofe</tei:ref>
         <tei:seg> ankommen und wird, mit einer Droschke </tei:seg>
@@ -76,7 +77,7 @@
         <tei:ref type="esv" target="#annotation-10">seine alten Pappenheimer</tei:ref>
         <tei:seg> und läßt sich’s an ihnen genügen, wenn nur dafür die Ausbeute an geistiger Anregung desto belohnender zu werden verspricht.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Regen und Schnee, Sturm und Kälte lassen die großen Schmuzflächen der berliner Plätze und Straßen doppelt schauerlich erscheinen. Unabsehbar sind diese Wasserspiegel. Unter den Linden fegen die Straßenkehrer eine ganz eigenthümliche breiige Masse zusammen, ein fünftes Element, das bekanntlich auch nur in oder doch bei Berlin die Erfindung einer gewissen Plastik aus Straßenkoth möglich gemacht hat. Ob sich nicht auch aus der flüssigen und kaltgewordenen Lava, die </tei:seg>
         <tei:ref type="esv" target="#annotation-11">von Kranzler bis zum Victoriahôtel</tei:ref>
         <tei:seg> stündlich zusammengekehrt wird, wie aus Chausséestaub eine </tei:seg>
@@ -91,7 +92,7 @@
         <tei:ref type="esv" target="#annotation-15">Neuerung des Helms</tei:ref>
         <tei:seg> nicht zu weit sollen um sich greifen lassen. Von der Ehre, ihn tragen zu dürfen, hat man jetzt die Droschkenkutscher glücklicherweise wieder ausgeschlossen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Eine in die Augen springende Verschönerung der Stadt, die sie seit einigen Jahren gewonnen, sind die nun </tei:seg>
         <tei:ref type="esv" target="#annotation-17">endlich fertiggewordenen Standbilder</tei:ref>
         <tei:seg> auf den großen Granitwürfeln der </tei:seg>
@@ -126,7 +127,7 @@
         <tei:ref type="esv" target="#annotation-32">allzu natürliche Wiedergabe der Natur</tei:ref>
         <tei:seg> hat man sich mit Unrecht beklagt. Die jungen Grenadiere stehen so hoch, die Granitwürfel haben erst noch einen so ansehnlichen Ueberbau erhalten, daß eine junge Dame schon sehr neugierig sein muß, wenn sie, aus einer Predigt im Dom kommend, an dem modernen Griechenthum auf der Schloßbrücke ein Aergerniß nehmen will.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Wie praktisch sich unsere Zeit zum alten Griechenthum und sogar zu dem sonst so beliebten unverfälschten Mittelalter bewährt, zeigt die erste, wirklich zweckmäßig verbesserte gothische Kirche, die man hier kürzlich eröffnet hat. Die unglückliche, so oft vom Feuer zerstörte </tei:seg>
         <tei:ref type="esv" target="#annotation-33">Petrikirche</tei:ref>
         <tei:seg> hat in ihrem Neubau mit dem Feuer einen andern Vertrag geschlossen; sie wird geheizt. Der geschickte Baumeister </tei:seg>
@@ -135,7 +136,7 @@
         <tei:ref type="esv" target="#annotation-35">unsere Erwin von Steinbach</tei:ref>
         <tei:seg> vergessen hatten. Kirchen, für das Bedürfniß Italiens und Spaniens erbaut, hatte man Jahrhunderte lang auf deutschem Boden nachgeahmt zum Kummer aller Christen, die auch im Winter fromm sein wollen. Manchem Christabend von zwanzig Grad Réaumur unter Null mußte, um die andächtige Phantasie in eine Sternennacht von Palästina zu versetzen, der Kohlentopf nachhelfen. Jetzt aber ist in eine schnell emporgewachsene schöne gothische Kirche vom ehrwürdigsten augsburger und nürnberger Aussehen ein heißer Fußboden von Ziegelsteinen mit einer Art von Dampfdrainage (Röhren sind vom unterirdischen Kessel in tausendfacher Zahl durch das ganze Gewölbe verbreitet) gekommen und schon beeifern sich andere Kirchen, deren Geistliche auch im Winter Zuhörer haben wollen, die Gothik mit der amerikanischen Nützlichkeitstheorie zu verbinden. Der Architekt Dieckhoff soll jetzt schon einer Menge Kirchen warme Fußböden legen, eine zu beachtende Neuerung, die vielleicht auf die gesunde Vernunft nicht ohne vortheilhaften Einfluß ist. Denn kalte Füße treiben bekanntlich das Blut empor und erzeugen nicht selten Ansichten, die ein behaglicheres Gleichgewicht der Körperfunctionen berichtigen kann.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die Zunahme Berlins an Straßen, Häusern, Menschen, industriellen Unternehmungen aller Art ist außerordentlich. Auf Stellen, wo ich mich entsinne, mit Gespielen im Grase gelegen und an einer Drachenschnur gebändelt zu haben, sitzt man jetzt mit irgend einer Dame des Hauses, trinkt Thee und unterhält sich über eine wissenschaftliche Vorlesung aus der </tei:seg>
         <tei:ref type="esv" target="#annotation-16">Singakademie</tei:ref>
         <tei:seg>. Wo sonst die blaue Kornblume im Felde blühte, stehen jetzt großmächtige Häuser mit himmelhohen geschwärzten Schornsteinen. Die Fabrik- und Gewerbsthätigkeit Berlins ist unglaublich. Bewunderung erregt es z. B., einen von der Natur und vom Glück begünstigten Kopf, den Maschinenbauer </tei:seg>
@@ -144,7 +145,9 @@
         <tei:ref type="esv" target="#annotation-36">Quäkerhut</tei:ref>
         <tei:seg> in einer kleinen Droschke hin und her fahren zu sehen, um </tei:seg>
         <tei:ref type="esv" target="#annotation-37">seine drei großen, an entgegengesetzten Enden der Stadt liegenden Etablissements</tei:ref>
-        <tei:seg> zu gleicher Zeit zu regieren. Borsig beschäftigt 3000 Menschen in drei verschiedenen Anstalten, von denen das große Eisenwalzwerk bei Moabit eine Riesenwerkstatt des Vulcan zu sein scheint. Es kommen dort Walzen von 120 Pferdekraft vor. Borsig baut gegenwärtig an der </tei:seg>
+        <tei:seg> zu gleicher Zeit zu regieren. Borsig beschäftigt 3000 Menschen in drei verschiedenen Anstalten, von denen das große </tei:seg>
+        <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/bilder-aus-berlin.html#10">Eisenwalzwerk bei Moabit</tei:ref>
+        <tei:seg> eine Riesenwerkstatt des Vulcan zu sein scheint. Es kommen dort Walzen von 120 Pferdekraft vor. Borsig baut gegenwärtig an der </tei:seg>
         <tei:ref type="esv" target="#annotation-38">fünfhundertsten Locomotive</tei:ref>
         <tei:seg>. Man berechnet ein Capital von sechs Millionen Thalern, das allein durch Borsig’s Locomotivenbau in Umsatz gekommen ist. Es macht dem reichen Manne Ehre, daß er sich von den glücklichen Erfolgen seiner Unternehmungen auch zu derjenigen Förderung der Kunst gedrungen gefühlt hat, die im Geschmacke Berlins liegt und dem Könige in seinen artistischen Unternehmungen secundirt. Er hat sich eine </tei:seg>
         <tei:ref type="esv" target="#annotation-39">prächtige Villa</tei:ref>
@@ -154,7 +157,7 @@
         </tei:ref>
         <tei:seg> in ihm blühen zu sehen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Für gewisse industrielle Specialitäten gibt es in Berlin Betriebsformen, die wenig-</tei:seg>
         <tei:pb n="399"/>
         <tei:seg>stens auf dem Continente ihres Gleichen suchen. Vor dem </tei:seg>
@@ -171,30 +174,30 @@
         <tei:ref type="esv" target="#annotation-45">Goldschmidt und Dannenberger</tei:ref>
         <tei:seg> haben Kattunfabriken im Gange, die Tausende von Menschen, die Bevölkerung kleiner Stadtbezirke, beschäftigen, überdies ein pauperistisches Element enthalten, das eine umsichtige Behandlung erfordert.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Suchen wir nun in einigen weitern Artikeln die Eindrücke eines kurzen </tei:seg>
         <tei:ref type="esv" target="#annotation-46">Carnevalbesuchs</tei:ref>
         <tei:seg> in Berlin ausführlicher festzuhalten.</tei:seg>
       </tei:p>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="409"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Es gibt ein Wort, das man nur in Berlin versteht. Aber auch nur in Berlin finden sich Erscheinungen, die man damit bezeichnen muß. Es ist dies der Ausdruck: </tei:seg>
         <tei:ref type="esv" target="#annotation-47">
           <tei:hi style="letter-sparse">Quatsch</tei:hi>
         </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Quatsch ist der Anlauf zum Witz, der, auf dem halben Wege stehen bleibend, dann natürlich noch hinter dem halben Verstande zurückbleibt. Denn man kann eine halbwegs </tei:seg>
         <tei:pb n="410"/>
         <tei:seg> vernünftige Meinung, ein halbwegs ernstes Urtheil noch immer als eine leidliche Manifestation gesunder Vernunft gelten lassen. Der halbe Verstand gehört oft der Mystik an, die bis auf einen gewissen Punkt auch gewöhnlich eine Art Logik für sich hat. Der halbe Witz aber ist schrecklich. Er ist das absolut Leere. Er macht die Voraussetzung, etwas Apartes bringen zu wollen und bleibt in der Grimasse stecken. Er schneidet ein pfiffiges Gesicht und sagt eine Dummheit. Quatsch ist nicht etwa der Unsinn. Es lebe unter Umständen der Unsinn! Den Unsinn haben Aesthetiker göttlich genannt, den echten, wahren, natürlichen Unsinn, der die Hälfte z. B. des wiener Witzes ausmacht. </tei:seg>
         <tei:ref type="esv" target="#annotation-48">„Ein vollkommener Widerspruch fesselt Weise und Thoren“</tei:ref>
         <tei:seg>, sagt Goethe; aber der relative Widerspruch ist das ewig Gesuchte, das niemals Zutreffende, das herren- und ziellos Herumtaumelnde und Faselnde, mit einem Wort das Quatsche.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Berlin ist groß im Quatschen. Es kichert über jede Grimasse zum Witz, wenn auch der Witz ausbleibt. Irgend eine zwei mal wiederholte absonderliche Redensart findet unverzüglich ihr Publicum. Man findet hier Menschen, die für witzig gelten, weil sie keinen Satz enden wie andere Menschen, jedes Ding mit einem andern Namen nennen, Begriffe verwechseln und das Ernsteste im Tone der Ironie sagen. Es herrscht bei ihnen ein ewiges Vermeiden der geraden Linie, die andere Menschen gehen; sie fallen, sie stolpern über sich selbst; die Berliner nennen das Alles witzig, während ein Vernünftiger es quatsch nennen muß. Ich sah </tei:seg>
         <tei:ref type="esv" target="#annotation-49">„Müller und Schultze bei den Zuluh-Kaffern“</tei:ref>
         <tei:seg>. Der Gegensatz war burlesk genug. Die wilden Hottentotten mit ihrem rasenden Tanze, ihrem Kriegsgeschrei, ihrem gellenden Pfeifen, mit Geberden, die eine Hetze wahnsinniger Affen zu zeigen schienen und im Grunde Furcht und Entsetzen, Grauen und Mitleid, solches Gebahren menschlich nennen zu müssen, einflößte, und unter ihnen </tei:seg>
@@ -213,7 +216,7 @@
         <tei:foreign>Oh! Oh!</tei:foreign>
         <tei:seg> gehört haben bei jedem abblitzenden Einfall eines solchen Unsinn-Textes, um zu verstehen, wie die Franzosen auch bei solchen Veranlassungen witzig und geistreich sein können. Diese berliner Dramatisirung der Zuluh-Kaffern war aber so widerwärtig, als wenn man sich vorstellen wollte, der Naturgeist selbst erhübe einmal seine gewaltige Stimme, finge zu reden an und verwechselte dabei Mir und Mich.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das Quatsche ist doch wol in den Berliner dadurch gekommen, daß sein ursprünglich einfacher, sogar naiver und kindlicher Sinn den Anforderungen einer immer mehr anwachsenden und über seine geistige Kraft hinausgehenden Stadt nicht gleichkommt. Schon das </tei:seg>
         <tei:ref type="esv" target="#annotation-56">verdorbene Plattdeutsch, das den Volksjargon</tei:ref>
         <tei:seg> bildet, trägt den Stempel der Unzulänglichkeit an sich. Es ist die absolute Sprache der Unterordnung, der Beschränktheit; es ist die Sprache der Hausknechte, Hökerinnen, kleinen Rentiers, der Kinder, des in die Stadt versetzten Bauers. Die Sprechweise der Gebildeten trägt so sehr noch die Spuren vom Tonfall des Volksdialekts, daß es zu einer ganz freien Sprachbehandlung im Sinne des reinen Oberdeutschen hier nur bei sehr Wenigen kommt. Wird nun ein so beschränktes und in seiner Art doch wieder sehr scharf ausgeprägtes Sprachmaterial bestimmt, dem großen Ideenkreise einer Stadt, die eine </tei:seg>
@@ -234,7 +237,7 @@
         <tei:ref type="esv" target="#annotation-63">witzige Ausländer</tei:ref>
         <tei:seg>, die sich nur berlinischer Formen bedienen. Ohne die Schärfe dieses Blattes würden diese Formen, wie die Erfahrungen auf den neueröffneten hiesigen Bühnen zeigen, ganz ins Quatsche zurückfallen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die Art, wie hier in neuerer Zeit Bühnen eröffnet worden sind (um diese Fährte des Geschmacklosen weiter zu verfolgen), ist eine der unglaublichsten Inconsequenzen einer Regierung, die in allen andern geistigen Fächern so außerordentlich schwierig ist. Das </tei:seg>
         <tei:ref type="esv" target="#annotation-64">Ministerium Ladenberg</tei:ref>
         <tei:seg> ging auf eine so gewissenhafte </tei:seg>
@@ -271,7 +274,7 @@
         <tei:ref type="esv" target="#annotation-80">„Deborah“</tei:ref>
         <tei:seg> erschien zuerst auf der Josephstädter Bühne.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Das Repertoire des Königlichen Theaters fand ich im Schauspiel sehr wenig anziehend, </tei:seg>
         <tei:pb n="412"/>
         <tei:seg> </tei:seg>
@@ -282,7 +285,7 @@
         <tei:ref type="esv" target="#annotation-83">„Geheimer Agent“</tei:ref>
         <tei:seg> u. s. w. Es herrscht hier eine Unsitte, mit der sich kein noch so wohlmeinender ästhetischer Sinn vereinbaren läßt, nämlich die Befolgung der Specialbefehle, welche die einheimischen und fremden höchsten Herrschaften über die Stücke aussprechen dürfen, die sie zu sehen wünschen. Es ist dies eine Form des Royalismus, die in der That etwas auffallend Veraltetes hat und in dieser Form in keiner Monarchie der Welt vorkommt. Bald heißt es: „Auf höchstes Begehren“, bald: „Auf hohes Begehren“, bald: „Auf Allerhöchsten Befehl“, bald nur einfach: „Auf Befehl“, unter welcher bescheidenern und auch seltener vorkommenden Form sich die Wünsche des Königs zu erkennen geben. Was ist das aber für eine Unsitte, daß die Kammerherren auch jeder durchreisenden, prinzlichen Herrschaft die Stücke bestellen, welche diese zu sehen wünschen! Die geistigen Armuthszeugnisse, die sich Prinzen, Prinzessinnen, ab- und zureisende kleine Dynasten und Dynastinnen mit ihren Wünschen um dieses Ballet, um jene Oper, um eine kleine Posse geben dürfen, sind schon an sich kläglich und fallen ganz aus der Rolle, welche die Monarchie heutiges Tags zu spielen hat; aber der Gang der Geschäfte wird dadurch auch auf eine Art unterbrochen, unter welcher Kunst und Publicum leiden. Hat eine Prinzessin eine Empfehlung von auswärts bekommen, die ihr eine Schauspielerin oder Sängerin überbrachte, so bestellt sie die Stücke, in denen sie auftreten soll. Kommt der Hof aus Mecklenburg-Strelitz, so legt man ihm die Stücke vor, die gerade leicht anzurichten sind, er streicht sich einige an und man liest: „Auf höchstes Begehren: «Der geheime Agent»“, ein Stück, das jetzt auf jedem Liebhabertheater gesehen werden kann. Der König besitzt so viel Geist, daß ihm diese Manifestationen des Privatgeschmacks seiner Brüder oder Neffen oder Vettern ohne Zweifel viel Heiterkeit verursachen; er sollte aber einen Schritt weitergehen und diesen Misbrauch der von den Kammerherren veränderten Repertoires im Interesse der Kunst und des Publicums verbieten. Es macht sich dies öffentlich kundgegebene Denken und Mitreden der „Herrschaften“ in einem Staate, der ja doch wol ein constitutioneller sein soll, sehr wenig nach dem Geiste der in ihm allein anständigen Oeffentlichkeit.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Natürlich ergibt sich unter solchen Umständen, wo die Großen und Mächtigen öffentliche Fingerzeige über ihren eigenen Geschmack geben dürfen, die Förderung des Gedankenvollen und Nothwendigen an einer Bühne weit schwieriger. Wenn sich die Großen </tei:seg>
         <tei:ref type="esv" target="#annotation-84">„Satanella“</tei:ref>
         <tei:seg> oder </tei:seg>
@@ -303,7 +306,7 @@
         <tei:pb n="413"/>
         <tei:seg> In seiner Passivität liegt Poesie und da er nur die Contouren ausfüllt, die der Dichter ihm vorzeichnet, so nimmt er durch die Treue und Einfachheit, mit der er sich seinen Aufgaben unterzieht, überall für sich ein, wo einmal die Macht der Gewöhnung ein Publicum für ihn gewonnen hat, wie in Berlin, Frankfurt und Hamburg, wo er gewohnte Triumphe feiert.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Ich bedauerte, </tei:seg>
         <tei:ref type="esv" target="#annotation-92">Dessoir</tei:ref>
         <tei:seg> nicht beschäftigter zu finden. Dieser geistvolle Schauspieler leidet hier an der üblichen Abgrenzung unserer Rollenfächer. Der Begriff eines Charakterspielers, den er zu vertreten hat, ist so vieldeutig. Man kann Hamlet als Liebhaber spielen, man kann ihn aber auch, wie </tei:seg>
@@ -314,7 +317,7 @@
         <tei:ref type="esv" target="#annotation-95">Döring</tei:ref>
         <tei:seg>. Es spricht für die geistige Anregung, die Berlin bietet, für die Belohnung, die man im Beifall eines natürlich sich hingebenden Publicums findet, daß Dessoir darum doch seinen hiesigen, höchst ehrenvoll behaupteten Platz mit keinem andern vertauschen möchte.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Vom Schauspiel sagt man an der Verwaltungsstelle, es würde keineswegs vernachlässigt und es hat sich seit </tei:seg>
         <tei:ref type="esv" target="#annotation-96">Düringer’s Mitwirkung</tei:ref>
         <tei:seg> sehr gehoben; dennoch muß man bei dem Vergleiche der unverhältnißmäßigen Pracht, die das Opernhaus umgibt, wünschen, es würde doch endlich ganz von der Musik und dem Ballet getrennt, es verfolgte seine ernste und schwierige Aufgabe für sich allein. Das Schauspiel kann nur ein Stiefkind erscheinen gegen die Art, wie die Leistungen des Opernhauses nicht etwa von der Verwaltung geboten, sondern vom Publicum empfangen werden. Neun glänzende Prosceniumslogen ziehen fast ebenso viel Aufmerksamkeit auf sich wie die Leistungen der Scene. Das Opernhaus ist das Stelldichein der höhern und mittlern Gesellschaft, der stete Besuchsort der Fremden, die Sehnsucht der allgemeinen Schaulust und ein Tempel des Genusses. Nicht Paris und Wien finden im Ballet ihre speciellsten sinnlichen Bedürfnisse so befriedigt wie Berlin. „Satanella“ und „Aladin’s Wunderlampe“ sind die Ballete des Tags, die Jeder gesehen haben muß und die Derjenige, der die Mittel besitzt, nicht oft genug sehen kann. Welche Fülle von Licht, Farbe, Glanz aller Art, von Jugend, Schönheit und Gefallsucht! Die musikalischen Kräfte sind hier so groß, daß z. B. an Einem Abend im Opernhause der </tei:seg>
@@ -329,7 +332,7 @@
         <tei:ref type="esv" target="#annotation-99">Pantalons</tei:ref>
         <tei:seg> für Verschnittene macht. Hier fangen alle Schöpfungen immer wieder von vorn an. Kein Costümier und Decorateur ist an die Wiederaufstutzung alter Vorräthe gewiesen; hier regieren jene Waarenmagazine, wo es immer wieder neue Seide, neuen Sammet und für die geschmackvollsten Maler neue Leinwand gibt.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Ein Ballet in Berlin zu sehen wie „Satanella“ ist in vieler Hinsicht lehrreich. Dem Aesthetiker macht vielleicht die Grazie und herausfodernde Keckheit z. B. der jungen </tei:seg>
         <tei:ref type="esv" target="#annotation-100">Marie Taglioni</tei:ref>
         <tei:seg> eine besondere Freude, aber die Vorstellung im Großen und Ganzen mit Allem, was dazu auch von Seiten des Publicums gehört, ist culturgeschichtlich merkwürdig. Dieser Marie Taglioni sollte man eine Denktafel von Marmor mit goldenen Buchstaben und mitten in Berlin aufstellen. Sie tanzt die Hölle, aber sie ist der wahre Himmel des Publicums; sie tanzt die Lüge, aber sie verdient ein Standbild als Göttin der Wahrheit. Denn man denke sich nur dies junge, reizende, übermüthige Mädchen mit ihren beiden Teufelshörnchen an der Stirn, mit dem durchsichtigen Tricot, mit den allerliebsten behenden Füßchen, mit den tausend Schelmereien und Neckereien der Koketterie, wie nimmt sie sich unter den ehrwürdigen Thatsachen des gegenwärtigen Berlins aus! Dieser kleine Teufel da, im rosaseidenen, kurzen Flatterröckchen, ist sie etwa die in der Vorstadt tanzende </tei:seg>
@@ -360,7 +363,7 @@
         <tei:ref type="esv" target="#annotation-111">Frivolste aller Textbücher</tei:ref>
         <tei:seg> mühsam nachzustudiren, um die stumme Handlung der Scene zu verstehen. Welche Wahrheit deckst du doch auf, du echte berliner, in der Treibhauswärme der speciellsten, königlich preußischen Haus-Traditionen großgezogene Pflanze, Marie Taglioni geheißen! O so werft doch, ihr besternten Herren, eure Masken ab! Verrathet doch nur, daß euer Privatglaube nichts mehr liebt als die Götter Griechenlands und daß nicht etwa hier der Cultus des Schönen, sondern draußen euer officielles System eine Komödie ist!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Satanella verführt einen jungen Studenten, dem das Repetiren seiner Collegia bei </tei:seg>
         <tei:ref type="esv" target="#annotation-105">Stahl und Keller</tei:ref>
         <tei:seg> zu langweilig scheint. Er hat eine Verlobte, die vielleicht </tei:seg>
@@ -389,7 +392,7 @@
         <tei:ref type="esv" target="#annotation-121">Elisabeth Fry</tei:ref>
         <tei:seg> und Marie Taglioni, einen Mittelweg zwischen Bethanien und dem Opernhause, einen Mittelweg zwischen den Concerten des Domchors und Satanella geben? Diese berliner Balletabende wecken einen ebenso großen Abscheu vor der mätressenhaften Sinnlichkeit, die durch sie hindurchblickt, wie vor der Kasteiung des Fleisches in der neuen Lehre vom Gefangengeben der Vernunft und dem fashionablen Büßerthum, dessen neupreußische Früchte wir hinlänglich kennen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Beide Extreme gehen in Berlin auf eine erschreckende Art nebeneinander. Sie gehen nicht etwa getrennt nebeneinander, sondern im Durchschnitt in denselben Personen. Die Heuchelei und die Rücksicht auf Carriere miethet sich einen „Stuhl“ in der </tei:seg>
         <tei:ref type="esv" target="#annotation-122">Matthäuskirche</tei:ref>
         <tei:seg>, nur damit an dem Schilde desselben zu lesen ist: „Herr Assessor N. N.“ und die stille Sehnsucht des wahren innern Menschen ist hier doch allein - der </tei:seg>
@@ -400,7 +403,7 @@
         <tei:ref type="esv" target="#annotation-124">Boutiken</tei:ref>
         <tei:seg> die fabelhafteste Scheinfülle des Vorraths mit dem Geschmack der Anordnung zu wetteifern scheint, kann man gewiß sein, auf hundert Fälle bei neunzig nur eine Grundlage anzutreffen von eitel Luft und windiger Leere.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Es ist mannichfach schon eine Aufgabe der neuern Poesie, der socialen Romantik geworden, den Lebenswirren, die sich aus solchen Zuständen ergeben müssen, nachzuspüren. Der Todtenwagen rasselt still und ernst durch dies glänzende Gewühl. Rauschende Bälle, in der Faschingsnacht ein Wagendonner bis zum frühen Morgen und die Chronik der Verbrechen, die Statistik der Selbstmorde gibt dem heitern Gemälde doch eine dämonische Beleuchtung. Erschütternd war mir z. B. die Nachricht, daß der Philosoph </tei:seg>
         <tei:ref type="esv" target="#annotation-125">Beneke</tei:ref>
         <tei:seg> von der Universität plötzlich vermißt wurde und wahrscheinlich sich entleibt hat. Erst jetzt kam zur Sprache, daß dieser redliche Forscher, der sich in der Erfahrungsseelenkunde einen Namen erworben und besonders auf die neuere Pädagogik einen nützlichen Einfluß gehabt hat, seit länger als zwanzig Jahren nicht endlich ordentlicher Professor werden konnte und sich mit einem jährlichen Gehalte von 200 Thalern begnügen mußte! Zweihundert Thaler jährlich für einen Denker, während es hier Geistliche gibt, die es auf jährlich 5000 Thaler bringen! </tei:seg>
@@ -412,10 +415,10 @@
       </tei:p>
       <tei:l margin-left="5.9" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:hi style="font-size-small"> </tei:hi>
-        <tei:ref type="esv">
+        <tei:ref type="esv" target="#">
           <tei:hi style="font-size-small">- - Wer ertrüge</tei:hi>
         </tei:ref>
-        <tei:ref type="esv">  </tei:ref>
+        <tei:ref type="esv" target="#">  </tei:ref>
       </tei:l>
       <tei:l margin-left="1.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:ref type="esv" target="#annotation-128">
@@ -423,62 +426,154 @@
         </tei:ref>
       </tei:l>
       <tei:l margin-left="1.5" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
-        <tei:ref type="esv">
+        <tei:ref type="esv" target="#">
           <tei:hi style="font-size-small">Den Unwerth schweigendem Verdienst erweist!</tei:hi>
         </tei:ref>
       </tei:l>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.1" first-line-indent="0">
         <tei:pb n="442"/>
         <tei:seg> III.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Eine derjenigen Schöpfungen des Königs, in denen man unbehindert von irgend einer drückenden Nebenempfindung athmet, ist und bleibt das </tei:seg>
-        <tei:hi style="letter-sparse">Neue Museum</tei:hi>
-        <tei:seg>. Der Fremde wird es bei jedem Besuche wiederzusehen sich beeilen, er wird sich der Fortschritte freuen, die die Vollendung des Ganzen inzwischen gemacht hat, er wird sich in diesen Räumen aller lästigen Beziehungen auf locale Absichten und Einbildungen erwehrt fühlen und im Zusammenhange wissen nur mit jenen allgemeinen deutschen Kunstbestrebungen, die uns die Schönheit und Pracht von München, die Ausschmückung des königlichen Schlosses in Dresden, die neuen Pläne für Weimar und Eisenach, unsere neuen Denkmäler, Kunstausstellungen, Kunstvereine und den Aufschwung unserer Akademieen geschaffen haben. Das Neue Museum liegt in einem versteckten, zur Stunde noch beengten, unfreundlichen Winkel der Stadt, aber es ist die traulichste Stätte der Begrüßung, das heiterste Stelldichein des Geschmacks und der prüfenden, immer mehr wachsenden Neugier der Einheimischen und der Fremden, die sogleich hierher eilen. Es entwickelt sich langsam, aber reich und gefällig. Es entwickelt sich unter Auffassungen, die uns wahlverwandt sind. Wir sind in Italien und in München vorbereitet auf Das, was wir hier wiederfinden. Diese Räume hat mit den Eingebungen seines Genius vorzugsweise eine große, freie Künstlernatur zu beleben, ein Dichter mit dem Pinsel, ein Denker nach Voraussetzungen, die nicht aus dem märkischen Sande stammen. So stört uns denn auch hier kein beliebter byzantinischer Schwulst, keine russischen Pferdebändiger, oder Athleten oder Amazonen erfüllen uns, während wir an Athen denken wollen, mit lacedämonischen Vorstellungen; selbst die hier in Berlin überall aushängende Devise: „Nach einem Schinkel’schen Entwurf“, stört uns nicht. Man muß Schinkel einen erfindungsreichen und sinnigen Formendichter nennen, aber er schuf doch wahrlich zu viel auf dem Papiere, er zeichnete zu viel Abends bei der Lampe; es waren geniale Studien und Ideen, die er ersann von Palastentwürfen an bis zu Verzierungen von Feilner’schen Oefen; aber es fehlte ihm doch wol eine gewisse Kraft, Reinheit und Einfachheit des Stils.</tei:seg>
+        <tei:ref type="esv" target="#annotation-129">
+          <tei:hi style="letter-sparse">Neue Museum</tei:hi>
+        </tei:ref>
+        <tei:seg>. Der Fremde wird es bei jedem Besuche wiederzusehen sich beeilen, er wird sich der Fortschritte freuen, die die Vollendung des Ganzen inzwischen gemacht hat, er wird sich in diesen Räumen aller lästigen Beziehungen auf locale Absichten und Einbildungen erwehrt fühlen und im Zusammenhange wissen nur mit jenen allgemeinen deutschen Kunstbestrebungen, die uns die Schönheit und Pracht von München, die Ausschmückung des königlichen Schlosses in Dresden, die neuen Pläne für Weimar und Eisenach, unsere neuen Denkmäler, Kunstausstellungen, Kunstvereine und den Aufschwung unserer Akademieen geschaffen haben. Das Neue Museum liegt in einem versteckten, zur Stunde noch </tei:seg>
+        <tei:ref type="esv" target="#annotation-132">beengten, unfreundlichen Winkel</tei:ref>
+        <tei:seg> der Stadt, aber es ist die traulichste Stätte der Begrüßung, das heiterste Stelldichein des Geschmacks und der prüfenden, immer mehr wachsenden Neugier der Einheimischen und der Fremden, die sogleich hierher eilen. Es entwickelt sich langsam, aber reich und gefällig. Es entwickelt sich unter Auffassungen, die uns wahlverwandt sind. Wir sind in Italien und in München vorbereitet auf Das, was wir hier wiederfinden. Diese Räume hat mit den Eingebungen seines Genius vorzugsweise eine große, freie Künstlernatur zu beleben, ein Dichter mit dem Pinsel, ein Denker nach Voraussetzungen, die nicht aus dem märkischen Sande stammen. So stört uns denn auch hier kein beliebter byzantinischer Schwulst, keine </tei:seg>
+        <tei:ref type="esv" target="#annotation-130">russischen Pferdebändiger</tei:ref>
+        <tei:seg>, oder Athleten oder Amazonen erfüllen uns, während wir an Athen denken wollen, mit </tei:seg>
+        <tei:ref type="esv" target="#annotation-131">lacedämonischen</tei:ref>
+        <tei:seg> Vorstellungen; selbst die hier in Berlin überall aushängende Devise: „Nach einem Schinkel’schen Entwurf“, stört uns nicht. Man muß Schinkel einen erfindungsreichen und sinnigen Formendichter nennen, aber er schuf doch wahrlich zu viel auf dem Papiere, er zeichnete zu viel Abends bei der Lampe; es waren geniale Studien und Ideen, die er ersann von Palastentwürfen an bis zu Verzierungen von </tei:seg>
+        <tei:ref type="esv" target="#annotation-133">Feilner’schen Oefen</tei:ref>
+        <tei:seg>; aber es fehlte ihm doch wol eine gewisse Kraft, Reinheit und Einfachheit des Stils.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Es findet sich auch im Neuen Museum Manches, was so nicht sein sollte. Es hat eine ägyptische Abtheilung, die eine Spielerei geworden ist. Um ja den Charakter der alten Hieroglyphenzeit zu treffen, hat man die Wände mit Inschriften bedeckt, die Herr Lepsius erfand, hat man falsche Mumien unter die echten gemengt, Pyramideneingänge gebaut und ähnlichen Spaß getrieben, der eines Museums, das vor allen Dingen instructiv sein soll, nicht würdig ist. Man muß beim dritten der hier vorgeführten Symbole fragen: Ist dieser Gegenstand echt oder nachgeahmt? Schon die Malerei der Wände mußte in einem Stile gehalten sein, der dem aufgesammelten echten ägyptischen Vorrathe als Folie diente und nicht im mindesten die Aufmerksamkeit, die jenem gebührt, ablenkt und theilt. Es ist hier, wie wenn man Theaterdecorationen mit menschlichen Figuren bemalen wollte. Die Marmorsäle für die Plastik sind etwas gedrückt und beengt und kommen der traulichen Heiterkeit der unübertrefflichen Glyptothek in München nicht gleich. Aber das Treppenhaus söhnt mit Misständen aus, von denen mancher ohnehin noch bei weiterer Befreiung des Gebäudes </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Es findet sich auch im Neuen Museum Manches, was so nicht sein sollte. Es hat eine ägyptische Abtheilung, die eine Spielerei geworden ist. Um ja den Charakter der alten Hieroglyphenzeit zu treffen, hat man die Wände mit Inschriften bedeckt, die Herr </tei:seg>
+        <tei:ref type="esv" target="#annotation-134">Lepsius</tei:ref>
+        <tei:seg> erfand, hat man falsche Mumien unter die echten gemengt, Pyramideneingänge gebaut und ähnlichen Spaß getrieben, der eines Museums, das vor allen Dingen instructiv sein soll, nicht würdig ist. Man muß beim dritten der hier vorgeführten Symbole fragen: Ist dieser Gegenstand echt oder nachgeahmt? Schon die Malerei der Wände mußte in einem Stile gehalten sein, der dem aufgesammelten echten ägyptischen Vorrathe als Folie diente und nicht im mindesten die Aufmerksamkeit, die jenem gebührt, ablenkt und theilt. Es ist hier, wie wenn man Theaterdecorationen mit menschlichen Figuren bemalen wollte. Die Marmorsäle für die Plastik sind etwas gedrückt und beengt und kommen der traulichen Heiterkeit der unübertrefflichen Glyptothek in München nicht gleich. Aber das Treppenhaus söhnt mit Misständen aus, von denen mancher ohnehin noch bei weiterer Befreiung des Gebäudes </tei:seg>
         <tei:pb n="443"/>
-        <tei:seg> von seinen alten Nachbarschaften fallen wird. Bedauerlich wird unter allen Umständen die Schwierigkeit bleiben, mit Bequemlichkeit die Hauptzierde des Treppenhauses zu genießen, die Kaulbach’schen Wandgemälde. Früher auf den Gerüsten war das eine leichte Aufnahme der wachsenden Arbeit, jetzt aber hat das Auge gewaltige Distanzen zu überwinden und, was noch schlimmer ist, durch die Perspective rücken die großen Gemälde zu nahe aneinander. Die drei fertigen Hauptstücke der einen Wand scheiden sich zu wenig und „Die Blüte Griechenlands“, das dritte, seither enthüllte Bild leidet unter den dunkeln Tönen seiner beiden unruhigen Nachbarn. Die Völkerscheidung und die Zerstörung Jerusalems haben außerdem zu viel von ihrem Farbencharakter an die Griechenzeit abgegeben, die mit ihrem auf einem Kahne schwimmenden Sänger, ihren Schwänen und Wassernixen etwas Nordisches, an die Seejungfern, an die Rheinnixen und den Schwanenritter Erinnerndes hat. Wenn die große schlanke Gestalt mit der Leier Homer sein soll, so erinnert sie zu sehr an das übliche Modell der Kaulbach’schen Helden, an seine Christus, seinen Wittekind, an die Michel-Angelo-Gestalten, wie er sie liebt, Figuren, die zu lang und zu hager für den Sänger der „Iliade“ sind, der nichts von dem Reckenhaften des nordischen Wuchses gehabt haben kann. Die neben ihm sitzende Sibylle ist für Griechenland vollends fremdartig und Thetis erscheint in solcher Umgebung mehr wie die Helena aus dem zweiten Theile des „Faust“. Das ganze Bild ist etwas ungeordnet und einheitlos. Es erklärt sich nicht natürlich. Seine Vorgänge sind getheilt und die Gruppen haben, scheint es, nicht bequem Platz, so vortrefflich gedacht und nur bei Kaulbach’s Natürlichkeit wiederzufinden z. B. die Art ist, wie sein Achilles, wenn er es sein soll, sich’s im Sitzen bequem macht. Der Tanz um den Altar im Hintergrunde erinnert an ähnliche Kampfspiele und Balletkünste auf alten Bildern, Tapeten und Theatervorhängen und scheint uns mehr ein sinnloses Rasen um die oben dargestellte, wunderbar herrlich ausgeführte Göttergruppe auszudrücken als den entsprechenden reinen Cultus und am wenigstens das Wesen etwa der alten Waffenspiele und Ringkämpfe. Die Färbung des Bildes ist zu dämonisch innerlich und zu dunkel äußerlich. Es sollte seinem Gegenstande gemäß gegen seine beiden Nachbarn durch die lichtesten hellblauen, grünen, lichtgelben und Rosa-Farben abstechen und schon dadurch sogleich eine ganz andere Welt vergegenwärtigen als das Heiden- und Judenthum.</tei:seg>
+        <tei:seg> von seinen alten Nachbarschaften fallen wird. Bedauerlich wird unter allen Umständen die Schwierigkeit bleiben, mit Bequemlichkeit die Hauptzierde des Treppenhauses zu genießen, die </tei:seg>
+        <tei:ref type="esv" target="#annotation-135">Kaulbach’schen Wandgemälde</tei:ref>
+        <tei:seg>. Früher auf den Gerüsten war das eine leichte Aufnahme der wachsenden Arbeit, jetzt aber hat das Auge gewaltige Distanzen zu überwinden und, was noch schlimmer ist, durch die Perspective rücken die großen Gemälde zu nahe aneinander. Die drei fertigen Hauptstücke der einen Wand scheiden sich zu wenig und „Die Blüte Griechenlands“, das dritte, seither enthüllte Bild leidet unter den dunkeln Tönen seiner beiden unruhigen Nachbarn. Die Völkerscheidung und die Zerstörung Jerusalems haben außerdem zu viel von ihrem Farbencharakter an die Griechenzeit abgegeben, die mit ihrem auf einem Kahne schwimmenden Sänger, ihren Schwänen und Wassernixen etwas Nordisches, an die Seejungfern, an die Rheinnixen und den Schwanenritter Erinnerndes hat. Wenn die große schlanke Gestalt mit der Leier Homer sein soll, so erinnert sie zu sehr an das übliche Modell der Kaulbach’schen Helden, an seine </tei:seg>
+        <tei:ref type="esv" target="#annotation-136">Christus, seinen Wittekind, an die Michel-Angelo-Gestalten</tei:ref>
+        <tei:seg>, wie er sie liebt, Figuren, die zu lang und zu hager für den Sänger der „Iliade“ sind, der nichts von dem Reckenhaften des nordischen Wuchses gehabt haben kann. Die neben ihm sitzende Sibylle ist für Griechenland vollends fremdartig und </tei:seg>
+        <tei:ref type="esv" target="#annotation-137">Thetis</tei:ref>
+        <tei:seg> erscheint in solcher Umgebung mehr wie die </tei:seg>
+        <tei:ref type="esv" target="#annotation-138">Helena aus dem zweiten Theile</tei:ref>
+        <tei:seg> des „Faust“. Das ganze Bild ist etwas ungeordnet und einheitlos. Es erklärt sich nicht natürlich. Seine Vorgänge sind getheilt und die Gruppen haben, scheint es, nicht bequem Platz, so vortrefflich gedacht und nur bei Kaulbach’s Natürlichkeit wiederzufinden z. B. die Art ist, wie sein Achilles, wenn er es sein soll, sich’s im Sitzen bequem macht. Der Tanz um den Altar im Hintergrunde erinnert an ähnliche Kampfspiele und Balletkünste auf alten Bildern, Tapeten und Theatervorhängen und scheint uns mehr ein sinnloses Rasen um die oben dargestellte, wunderbar herrlich ausgeführte Göttergruppe auszudrücken als den entsprechenden reinen Cultus und am wenigstens das Wesen etwa der alten Waffenspiele und Ringkämpfe. Die Färbung des Bildes ist zu dämonisch innerlich und zu dunkel äußerlich. Es sollte seinem Gegenstande gemäß gegen seine beiden Nachbarn durch die lichtesten hellblauen, grünen, lichtgelben und Rosa-Farben abstechen und schon dadurch sogleich eine ganz andere Welt vergegenwärtigen als das Heiden- und Judenthum.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Weit mehr befriedigt wird man sich von den inzwischen aufgestellten Fortsetzungen der Cartons zu dem berühmten Fries finden. Diese Arabesken zur Geschichte sind hier ganz besonders beliebt und zufälligerweise auch in dem Geschmack gehalten, den die Berliner so gern haben. Es findet da Jeder seine Erinnerungen aus Becker’s „Weltgeschichte“ wieder und zwar in Form eines „Witzes“. Ich habe mich nie darüber freuen können, daß gewaltige Thatsachen der Geschichte hier von kleinen Kindern carikirt werden: eine Handlung wie die des Mucius Scävola ist zu ernst gewesen, als daß sie ein seine Hand ins Feuer steckender und vor Schmerz greinender Knabe persifliren könnte. Vieles kommt fast auf den Geist der „Jobsiade“ und der travestierten „Aeneïde“ von Blumauer heraus. Doch nur anstreifend berührt diese Sphäre der Humor der Malers. Er weiß sich immer wieder auf das reine Schönheitsgebiet zurückzuziehen, er weiß immer wieder einzulenken aus der Caricatur in die Grazie und sinnige Idealität. Die jetzt fertigen Momente des Mittelalters enthalten ganz ausgezeichnete Gedanken und die vollgültigsten Belege von ebenso viel Bildung im Wissen wie Freimuth in der Gesinnung dieses Künstlers. Es thut wohl, unendlich wohl, einen Künstler hier walten zu sehen, der sich losgerungen hat von den traditionellen Auffassungen unserer Künstlerwelt, von diesem nur akademischen Andeuten, diesem nichtssagenden und jede scharfe Sprache vermeidenden Allegorisiren. In diesem erfindungsreichen Kopfe nistet nichts Reactionäres, wie bei den meisten Künstlern, die ihn um seine Erfolge anfeinden und beneiden. Er wird die Würde der Tradition nicht opfern, er wird den Heiligenschein da </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Weit mehr befriedigt wird man sich von den inzwischen aufgestellten Fortsetzungen der Cartons zu dem </tei:seg>
+        <tei:ref type="esv" target="#annotation-139">berühmten Fries</tei:ref>
+        <tei:seg> finden. Diese Arabesken zur Geschichte sind hier ganz besonders beliebt und zufälligerweise auch in dem Geschmack gehalten, den die Berliner so gern haben. Es findet da Jeder seine Erinnerungen aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-140">Becker’s „Weltgeschichte“</tei:ref>
+        <tei:seg> wieder und zwar in Form eines „Witzes“. Ich habe mich nie darüber freuen können, daß gewaltige Thatsachen der Geschichte hier von kleinen Kindern carikirt werden: eine Handlung wie die des </tei:seg>
+        <tei:ref type="esv" target="#annotation-141">Mucius Scävola</tei:ref>
+        <tei:seg> ist zu ernst gewesen, als daß sie ein seine Hand ins Feuer steckender und vor Schmerz greinender Knabe persifliren könnte. Vieles kommt fast auf den Geist der </tei:seg>
+        <tei:ref type="esv" target="#annotation-142">„Jobsiade“</tei:ref>
+        <tei:seg> und der travestierten </tei:seg>
+        <tei:ref type="esv" target="#annotation-143">„Aeneïde“ von Blumauer</tei:ref>
+        <tei:seg> heraus. Doch nur anstreifend berührt diese Sphäre der Humor der Malers. Er weiß sich immer wieder auf das reine Schönheitsgebiet zurückzuziehen, er weiß immer wieder einzulenken aus der Caricatur in die Grazie und sinnige Idealität. Die jetzt fertigen Momente des Mittelalters enthalten ganz ausgezeichnete Gedanken und die vollgültigsten Belege von ebenso viel Bildung im Wissen wie Freimuth in der Gesinnung dieses Künstlers. Es thut wohl, unendlich wohl, einen Künstler hier walten zu sehen, der sich losgerungen hat von den traditionellen Auffassungen unserer Künstlerwelt, von diesem nur akademischen Andeuten, diesem nichtssagenden und jede scharfe Sprache vermeidenden Allegorisiren. In diesem erfindungsreichen Kopfe nistet nichts Reactionäres, wie bei den meisten Künstlern, die ihn um seine Erfolge anfeinden und beneiden. Er wird die Würde der Tradition nicht opfern, er wird den Heiligenschein da </tei:seg>
         <tei:pb n="444"/>
-        <tei:seg> nicht profaniren, wo er hingehört, er wird das Märchen, die Sage, die lyrische Empfindung ehren, aber er benutzt die schöne Vergangenheit nur als ein edles Hülfsmittel zum Aufbau der Zukunft. Gesättigt, gekräftigt von dem Marke der alten Kunstzustände führt er den Griffel des Zeichners mit einer seit Rubens nicht mehr dagewesenen Meisterschaft, nur um die vorurtheilsfreie Anschauung der Gegenwart, die er nicht, wie Overbeck, Cornelius, Schnorr u. s. w., haßt, sondern an die er glaubt, geltend zu machen. Er kann sich irren, er kann in dem Streben nach Charakteristik über die Schönheitsgesetze hinausgehen, wie er in einem Theile seiner münchener Fresken gethan hat, aber er schläft nicht mit unter dieser allgemeinen fürchterlichen Schlafmütze, die sich die neuere deutsche Kunst, als wenn es eine Elfenkrone wäre, über die Ohren gezogen hat. Man findet ihn auf der Seite des Lichts und der Vernunft und deshalb thut mir eigentlich leid, daß er in dem letzten Verlaufe seiner in den mittlern Partieen so trefflichen Arabesken das Zeitalter der modernen Wissenschaft wiederum etwas zu carikirt auffaßte. Ein Kaulbach soll an Kant, an Herschel, an Volta und Wollaston nicht die Perücken sehen, die sie zufällig trugen, er soll nicht verweilen an der komischen Unschönheit der galvanischen Batterieen, der Locomotiven oder auch nur des Tintenfasses und der nächtlichen Studierlampe; ein Kaulbach soll in allen diesen Apparaten nur die gewaltige Seele entdecken und diese Seele wie einen geflügelten Genius auch echter Schönheit darstellen, einen Genius von weltbezwingender Poesie, gegen den die Nymphen und Nixen des Baums und der Welle sich nur wie andächtige und staubgeborene Sterbliche zu verhalten haben. Solchen Genien des Gedankens nur die grüne Brille der Pedanterei aufsetzen, ist schwach und ziemt allenfalls einem jungen Maler aus Düsseldorf oder München zweiter oder dritter Studienclasse. Für Kaulbach muß Kant, der die Kritik der reinen Vernunft schrieb, etwas mehr als nur Homunculusse hervorgebracht haben. Zur Symbolik der Kant’schen „Kritik der reinen Vernunft“ gehört keine Retorte und kein Destillirkolben an einem aufgespaltenen Schädel angebracht, sondern ein flammendes Michaels-Schwert, bei dessen Streichen Throne beben und die Altäre zittern.</tei:seg>
+        <tei:seg> nicht profaniren, wo er hingehört, er wird das Märchen, die Sage, die lyrische Empfindung ehren, aber er benutzt die schöne Vergangenheit nur als ein edles Hülfsmittel zum Aufbau der Zukunft. Gesättigt, gekräftigt von dem Marke der alten Kunstzustände führt er den Griffel des Zeichners mit einer seit Rubens nicht mehr dagewesenen Meisterschaft, nur um die vorurtheilsfreie Anschauung der Gegenwart, die er nicht, wie </tei:seg>
+        <tei:ref type="esv" target="#annotation-144">Overbeck, Cornelius, Schnorr</tei:ref>
+        <tei:seg> u. s. w., haßt, sondern an die er glaubt, geltend zu machen. Er kann sich irren, er kann in dem Streben nach Charakteristik über die Schönheitsgesetze hinausgehen, wie er in einem Theile </tei:seg>
+        <tei:ref type="esv" target="#annotation-145">seiner münchener Fresken</tei:ref>
+        <tei:seg> gethan hat, aber er schläft nicht mit unter dieser allgemeinen fürchterlichen Schlafmütze, die sich die neuere deutsche Kunst, als wenn es eine Elfenkrone wäre, über die Ohren gezogen hat. Man findet ihn auf der Seite des Lichts und der Vernunft und deshalb thut mir eigentlich leid, daß er in dem letzten Verlaufe seiner in den mittlern Partieen so trefflichen Arabesken das Zeitalter der modernen Wissenschaft wiederum etwas zu carikirt auffaßte. Ein Kaulbach soll an </tei:seg>
+        <tei:ref type="esv" target="#annotation-146">Kant, an Herschel, an Volta und Wollaston</tei:ref>
+        <tei:seg> nicht die Perücken sehen, die sie zufällig trugen, er soll nicht verweilen an der komischen Unschönheit der </tei:seg>
+        <tei:ref type="esv" target="#annotation-147">galvanischen Batterieen</tei:ref>
+        <tei:seg>, der Locomotiven oder auch nur des Tintenfasses und der nächtlichen Studierlampe; ein Kaulbach soll in allen diesen Apparaten nur die gewaltige Seele entdecken und diese Seele wie einen geflügelten Genius auch echter Schönheit darstellen, einen Genius von weltbezwingender Poesie, gegen den die Nymphen und Nixen des Baums und der Welle sich nur wie andächtige und staubgeborene Sterbliche zu verhalten haben. Solchen Genien des Gedankens nur die grüne Brille der Pedanterei aufsetzen, ist schwach und ziemt allenfalls einem jungen Maler aus Düsseldorf oder München zweiter oder dritter Studienclasse. Für Kaulbach muß Kant, der die Kritik der reinen Vernunft schrieb, etwas mehr als nur Homunculusse hervorgebracht haben. Zur Symbolik der Kant’schen „Kritik der reinen Vernunft“ gehört keine Retorte und kein Destillirkolben an einem aufgespaltenen Schädel angebracht, sondern ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-148">flammendes Michaels-Schwert</tei:ref>
+        <tei:seg>, bei dessen Streichen Throne beben und die Altäre zittern.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Wie dem auch sei, man muß den Künstler verehren. Man verläßt das Neue Museum mit Gefühlen des Dankes, daß seine Ausschmückung gerade an ihn gekommen ist. Man wünscht sich in die Lage, sich das kostbare Werk aneignen zu können, das hier der Hofbuchhändler Alexander Duncker herausgibt, die im Stahlstich wiedergegebene ganze künstlerische Arbeit der Wände des Treppenhauses. Es wird dies ein Prachtwerk, wie nur England solche Unternehmungen aufzuweisen hat. Zwei Lieferungen, jede im Preise von etwa neun Thalern, sind erschienen und bringen die Anfänge des Frieses und die Zwischenbilder der Geschichte, des Solon, des Moses und die wunderbare, Kaulbach ganz eigenthümliche Gruppe der Sage, diese Nornengestalt mit den beiden, ihr das Grauenhafte und Unerhörte zuraunenden Raben, diese erhabene Versinnlichung von Juno’s und Chriemhildens Rache, vom Schmerz der Niobe und dem letzten Gericht durch das Schwert des alten Hildebrand. Die Stiche werden von den ersten Künstlern, Jacoby, Eichens, Thäter, ausgeführt. Manches davon wird sich in der Zeichnung vielleicht noch gefälliger machen als in der Farbe.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Wie dem auch sei, man muß den Künstler verehren. Man verläßt das Neue Museum mit Gefühlen des Dankes, daß seine Ausschmückung gerade an ihn gekommen ist. Man wünscht sich in die Lage, sich </tei:seg>
+        <tei:ref type="esv" target="#annotation-150">das kostbare Werk</tei:ref>
+        <tei:seg> aneignen zu können, das hier der Hofbuchhändler </tei:seg>
+        <tei:ref type="esv" target="#annotation-151">Alexander Duncker</tei:ref>
+        <tei:seg> herausgibt, die im Stahlstich wiedergegebene ganze künstlerische Arbeit der Wände des Treppenhauses. Es wird dies ein Prachtwerk, wie nur England solche Unternehmungen aufzuweisen hat. Zwei Lieferungen, jede im Preise von etwa neun Thalern, sind erschienen und bringen die Anfänge des Frieses und die Zwischenbilder der Geschichte, des Solon, des Moses und die wunderbare, Kaulbach ganz eigenthümliche Gruppe der Sage, diese Nornengestalt mit den beiden, ihr das Grauenhafte und Unerhörte zuraunenden Raben, diese erhabene Versinnlichung von </tei:seg>
+        <tei:ref type="esv" target="#annotation-152">Juno’s und Chriemhildens Rache</tei:ref>
+        <tei:seg>, vom </tei:seg>
+        <tei:ref type="esv" target="#annotation-153">Schmerz der Niobe</tei:ref>
+        <tei:seg> und dem letzten Gericht durch das Schwert des alten </tei:seg>
+        <tei:ref type="esv" target="#annotation-154">Hildebrand</tei:ref>
+        <tei:seg>. Die Stiche werden von den ersten Künstlern, </tei:seg>
+        <tei:ref type="esv" target="#annotation-155">Jacoby, Eichens, Thäter</tei:ref>
+        <tei:seg>, ausgeführt. Manches davon wird sich in der Zeichnung vielleicht noch gefälliger machen als in der Farbe.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Eine zweite große Schöpfung des Königs ist die </tei:seg>
-        <tei:hi style="letter-sparse">Kuppeldachkapelle des Schlosses</tei:hi>
-        <tei:seg>. Sie hat eine halbe Million gekostet und ist unstreitig eine Zierde des Schlosses nach dem ihm eigenthümlichen Geschmack, wenn auch eben keine Bereicherung der Kunst. Der Baumeister Schadow errichtete die gewaltige Wölbung auf einem Platze, der bisher im Schlosse unbeachtet gewesen war, verfallene Wasserwerke enthielt, altem Gerümpel, freilich aber auch den vortrefflichen Schlüter’schen Basreliefs, die jetzt die Treppe zieren, als Aufbewahrungsort diente. Die Spannung des mehr ovalen als runden Bogens ist meisterhaft ausgeführt. Einen überraschenden Eindruck wird der Eintritt in diesen Tempel Jedem gewähren, der sich erst im Weißen Saale an den schönen Formen der Rauch’schen Victoria geweidet hat und </tei:seg>
+        <tei:ref type="esv" target="#annotation-149">
+          <tei:hi style="letter-sparse">Kuppeldachkapelle des Schlosses</tei:hi>
+        </tei:ref>
+        <tei:seg>. Sie hat eine halbe Million gekostet und ist unstreitig eine Zierde des Schlosses nach dem ihm eigenthümlichen Geschmack, wenn auch eben keine Bereicherung der Kunst. Der Baumeister </tei:seg>
+        <tei:ref type="esv" target="#annotation-156">Schadow</tei:ref>
+        <tei:seg> errichtete die gewaltige Wölbung auf einem Platze, der bisher im Schlosse unbeachtet gewesen war, verfallene Wasserwerke enthielt, altem Gerümpel, freilich aber auch den vortrefflichen </tei:seg>
+        <tei:ref type="esv" target="#annotation-157">Schlüter’schen Basreliefs</tei:ref>
+        <tei:seg>, die jetzt die Treppe zieren, als Aufbewahrungsort diente. Die Spannung des mehr ovalen als runden Bogens ist meisterhaft ausgeführt. Einen überraschenden Eindruck wird der Eintritt in diesen Tempel Jedem gewähren, der sich erst im </tei:seg>
+        <tei:ref type="esv" target="#annotation-158">Weißen Saale</tei:ref>
+        <tei:seg> an den schönen Formen der </tei:seg>
+        <tei:ref type="esv" target="#annotation-159">Rauch’schen Victoria</tei:ref>
+        <tei:seg> geweidet hat und </tei:seg>
         <tei:pb n="445"/>
         <tei:seg> zu ihm dann auf Stiegen emporsteigt, die mit lebenden Blumen geschmückt sind und mit Kronleuchtern, die nur etwas zu salonmäßig durch Milchglasglocken ihre Flammen dämpfen sollen. Man erwartet in der Kapelle weder diese Größe noch diese Pracht. Bei längerer Betrachtung schwindet freilich der erste Eindruck. Das steinerne, mit Marmor und Bildern auf Goldgrund überladene Gebäude wird dem Auge kälter und kälter. Der Altar, wenn auch mit einem aus den kostbarsten Edelsteinen zusammengesetzten Kreuze geziert, die Kanzel, der Fußboden, Alles erscheint dann plötzlich so nur für die Schwüle der südlichen Luft berechnet, daß man das lebendige Wort Gottes hier weder recht innerlich vorgetragen noch recht innerlich empfangen sich denken kann. Das Auge ist zerstreut durch das Spiel aller hier zur Verzierung der Wände aufgebrachten Marmorarten. Da gibt es keine Farbe, keine Zeichnung des kostbarsten Bausteins, von der nicht eine Platte sich hier vorfände wie in einer mineralogischen Sammlung. Zu dieser durch die Steine hervorgerufenen Unruhe gesellt sich die Ungleichartigkeit der Bilder. Sie scheinen alle nach dem Gedanken zusammengestellt, die Förderer der Religion und des Christenthums zu feiern. Aber auch dies ist ein Galerie- oder Museumsgedanke, kein reiner Kirchengedanke. Huß, Luther, die Kurfürsten von Brandenburg stehen </tei:seg>
         <tei:foreign>vis-à-vis</tei:foreign>
         <tei:seg> den Patriarchen und den Evangelisten. Da muß es an der einigen Stimmung fehlen, die Andacht hebt sich nicht auf reinen Schwingen, man kann in einem solchen Salon nur einen conventionellen Gottesdienst halten. Ach, und dieser Fanatismus für das conventionell Religiöse sitzt ja wie Mehlthau auf all’ unsern Geistesblüten! Man denkt nicht mehr, man prüft nicht mehr, man übt Religion nur um der Religion willen. Man ehrt sie um ihre Ehrwürdigkeit, man ehrt sie wie man Aeltern ehrt, deren graues Haar unsere Kritik über die Schwächen, die sie besitzen, entwaffnen soll. Das ist der Standpunkt der Salon-Religion. Man will nicht prüfen, man will nicht forschen, man umrahmt mit Gold und Edelstein die Tradition, die man auf sich beruhen läßt. Man schlägt sein rauschendes Seidenkleid in künstlerische Falten, wenn man im Gebetstuhl niederkniet; man schlägt sein goldenes Gebetbuch auf, liest halb gedankenlos, was alte Zeiten dachten, denkt vielleicht mit Rührung dieser Zeiten, wo der Glaube von so vielem Blute mußte besiegelt werden, gesteht wol auch seine eigenen sündigen Einfälle und Neigungen ein, gibt sich den Klängen einer vom Chor einfallenden Musik mit einigen quillenden Thränen der Nervenschwäche und Rührung hin und verläßt die Stätte der Andacht mit dem Gefühl, doch dem Alten Rechnung getragen, doch eine Demonstration gegeben zu haben gegen die anstößige und in allen Stücken gefährliche neue Welt! Das ist die Religions-Mode des Tags. Für diese Richtung eines vornehmen Dilettirens auf Religion kann man sich keinen zweckentsprechendern Tempel denken als die neue berliner Schloßkapelle. Sie erleichtert vollkommen die manchmal auch wol lästig werdenden Rücksichten einer solchen Art von Pietät.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Weitentlegen vom Geräusch der Stadt und nur leider in einer zu kahlen, baumlosen Gegend liegt </tei:seg>
-        <tei:hi style="letter-sparse">Bethanien</tei:hi>
-        <tei:seg>, die seit einigen Jahren errichtete Diakonissenanstalt. Man fährt an einer neuen, im Bau begriffenen katholischen Kirche vorüber und bewundert die großartige Anlage dieses vielbesprochenen Krankenhauses, das sich bekanntlich hoher Protection zu erfreuen hat. Dennoch soll die Stiftung eine städtische sein und ab und zu wird man von Bitten in den Zeitungen überrascht, die Bethanien zu unterstützen auffodern, Bitten, die wiederum dies Institut fast wie ein privates hinstellen. Zweihundert Kranke ist die gewöhnliche Zahl, für welche die nöthigen Einrichtungen vorhanden sind. Dem fast zu luxuriös gespendeten Raume nach könnten noch einmal soviel untergebracht werden. Man hat hier ein Vorhaus, eine Kirche, einen Speisesaal, Wohnungen der Diakonissen und Corridore von einer Ausdehnung, die fast den Glauben erweckt, als wäre die nächste Bestimmung der Anstalt die, eine Art Pensionat, oder Stift oder Kloster zu sein, das sich </tei:seg>
+        <tei:ref type="esv" target="#annotation-160">
+          <tei:hi style="letter-sparse">Bethanien</tei:hi>
+        </tei:ref>
+        <tei:seg>, die seit einigen Jahren errichtete </tei:seg>
+        <tei:ref type="esv" target="#annotation-161">Diakonissenanstalt</tei:ref>
+        <tei:seg>. Man fährt an einer neuen, im Bau begriffenen </tei:seg>
+        <tei:ref type="esv" target="#annotation-162">katholischen Kirche</tei:ref>
+        <tei:seg> vorüber und bewundert die großartige Anlage dieses vielbesprochenen Krankenhauses, das sich bekanntlich </tei:seg>
+        <tei:ref type="esv" target="#annotation-163">hoher Protection</tei:ref>
+        <tei:seg> zu erfreuen hat. Dennoch soll die Stiftung eine städtische sein und ab und zu wird man von Bitten in den Zeitungen überrascht, die Bethanien zu unterstützen auffodern, Bitten, die wiederum dies Institut fast wie ein privates hinstellen. Zweihundert Kranke ist die gewöhnliche Zahl, für welche die nöthigen Einrichtungen vorhanden sind. Dem fast zu luxuriös gespendeten Raume nach könnten noch einmal soviel untergebracht werden. Man hat hier ein Vorhaus, eine Kirche, einen Speisesaal, Wohnungen der Diakonissen und Corridore von einer Ausdehnung, die fast den Glauben erweckt, als wäre die nächste Bestimmung der Anstalt die, eine Art Pensionat, oder Stift oder Kloster zu sein, das sich </tei:seg>
         <tei:hi style="letter-sparse">nebenbei</tei:hi>
         <tei:seg> mit Krankenpflege beschäftigt. Ohne Zweifel ist auch die Anlage des Unternehmens auf eine ähnliche Voraussetzung begründet. Bethanien soll eine Demonstration der </tei:seg>
         <tei:pb n="446"/>
         <tei:seg> werkthätigen christlichen Liebe sein; die Kranken, mag auch für sie noch so vortrefflich gesorgt werden, nehmen gewissermaßen die zweite Stelle ein.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Die Oberin der Diakonissen ist ein Fräulein von Rantzau. Unter ihr stehen etwa zwanzig „ordinirte“ Diakonissen und eine vielleicht gleiche Anzahl von Schwestern, die erst in der Vorbereitung sind. Einige der ordinirten sind auf Reisen begriffen, um auswärts ähnliche Anstalten begründen zu helfen. Die Tracht der größtentheils jungen und dem gebildeten Stande angehörigen Damen ist blau, mit einem Häubchen und einer weißen, über die Schulter gehenden Schürze. Wie gründliche Vorkenntnisse hier vorausgesetzt werden, ersah ich in der Apotheke, die von zwei Diakonissen allein bedient wird. Auch ein Lehrzimmer findet sich zu theoretischen Anleitungen. Die groben Arbeiten verrichten gemiethete Mägde, die im Souterrain an den höchst entsprechenden praktischen Waschhaus- und Küchenvorrichtungen beschäftigt sind. Auch Männer fehlen nicht. Die Diakonissen sind überhaupt mehr bei den weiblichen Kranken beschäftigt und müssen die schwerere Dienstleistung, die besonders im Heben und Umbetten der Kranken besteht, dem stärkern Geschlechte überlassen. Man bekommt auch hierdurch wieder die Vorstellung von einem gewissen Luxus, der im Charakter der ganzen Anstalt zu liegen scheint. Man kann den damit verbundenen Tendenzbeigeschmack nicht gut offen bekämpfen, da unfehlbar ein zwangloses Behagen in der Nähe von Kranken und Sterbenden die ganze Stimmung unsers Herzens für sich hat. Die Sauberkeit der Erhaltung, die reine Luft, das Gefühl von Comfort und Eleganz kommt doch auch den Kranken selbst zugute.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Oberin der Diakonissen ist ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-164">Fräulein von Rantzau</tei:ref>
+        <tei:seg>. Unter ihr stehen etwa zwanzig „ordinirte“ Diakonissen und eine vielleicht gleiche Anzahl von Schwestern, die erst in der Vorbereitung sind. Einige der ordinirten sind auf Reisen begriffen, um auswärts </tei:seg>
+        <tei:ref type="esv" target="#annotation-165">ähnliche Anstalten</tei:ref>
+        <tei:seg> begründen zu helfen. Die </tei:seg>
+        <tei:ref type="esv" target="#annotation-166">Tracht</tei:ref>
+        <tei:seg> der größtentheils jungen und dem gebildeten Stande angehörigen Damen ist blau, mit einem Häubchen und einer weißen, über die Schulter gehenden Schürze. Wie gründliche Vorkenntnisse hier vorausgesetzt werden, ersah ich in der Apotheke, die </tei:seg>
+        <tei:ref type="esv" target="#annotation-167">von zwei Diakonissen</tei:ref>
+        <tei:seg> allein bedient wird. Auch ein Lehrzimmer findet sich zu theoretischen Anleitungen. Die groben Arbeiten verrichten gemiethete Mägde, die im Souterrain an den höchst entsprechenden praktischen Waschhaus- und Küchenvorrichtungen beschäftigt sind. Auch Männer fehlen nicht. Die Diakonissen sind überhaupt mehr bei den weiblichen Kranken beschäftigt und müssen die schwerere Dienstleistung, die besonders im Heben und Umbetten der Kranken besteht, dem stärkern Geschlechte überlassen. Man bekommt auch hierdurch wieder die Vorstellung von einem gewissen Luxus, der im Charakter der ganzen Anstalt zu liegen scheint. Man kann den damit verbundenen Tendenzbeigeschmack nicht gut offen bekämpfen, da unfehlbar ein zwangloses Behagen in der Nähe von Kranken und Sterbenden die ganze Stimmung unsers Herzens für sich hat. Die Sauberkeit der Erhaltung, die reine Luft, das Gefühl von Comfort und Eleganz kommt doch auch den Kranken selbst zugute.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Einen Freund der Diakonissenanstalten frug ich: Aus welchem Geiste erklären diese Frauen und Mädchen sich bereit, den Leidenden mit ihrer Pflege beizustehen? Er erwiderte: Um der Liebe Gottes willen. Unstreitig bedarf der Mensch, um sich zu seltenen Thaten anzuspornen, des Hinblicks auf einen höhern sittlichen Zweck. Dennoch hätt’ ich lieber gehört: Diese Institution wäre von der Menschenliebe hervorgerufen. Ich glaube, der Ton würde inniger, die Haltung weniger kaltvornehm sein. Ein Zusammenhalt bei gemeinschaftlichem Wirken ist nötig, eine gleiche Stimmung muß Alle verbinden. Ob aber dazu eine Kirche, ob Gesang und Gebet beim Essen, ob das herrnhuter, in „Gnadau“ gedruckte Liederbuch, das ich auf dem Piano aufgeschlagen fand, dazu gehört, möcht’ ich bezweifeln. Ein Anderes ist der katholische Cultus von Barmherzigen Schwestern, die sich für Lebenszeit diesem Berufe hingeben und von der Welt für immer getrennt haben; ein Anderes diese vorübergehende Wirksamkeit einer Diakonissin, die nach vorhergegangener rechtzeitiger Anzeige ihren Beruf wieder aufgeben und immer noch eine Frau Professorin oder Assessorin werden kann. Für einen solchen Beruf reicht Herzensgüte, Menschenliebe und eine, durch äußere Umstände hervorgerufene Neigung, einen so schwierigen Platz anzutreten, vollkommen aus. Und sollte denn wirklich im 19. Jahrhundert die Bildung der Gesellschaft, die Humanität der Gesinnung, die Liebe zum Gemeinwohl, die Sorge für die gemeinschaftlichen Glieder Einer Stadt, Eines Staats und Einer Nation noch nicht so weit als werkthätiges </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Einen Freund der Diakonissenanstalten frug ich: Aus welchem Geiste erklären diese Frauen und Mädchen sich bereit, den Leidenden mit ihrer Pflege beizustehen? Er erwiderte: Um der Liebe Gottes willen. Unstreitig bedarf der Mensch, um sich zu seltenen Thaten anzuspornen, des Hinblicks auf einen höhern sittlichen Zweck. Dennoch hätt’ ich lieber gehört: Diese Institution wäre von der Menschenliebe hervorgerufen. Ich glaube, der Ton würde inniger, die Haltung weniger kaltvornehm sein. Ein Zusammenhalt bei gemeinschaftlichem Wirken ist nötig, eine gleiche Stimmung muß Alle verbinden. Ob aber dazu eine Kirche, ob Gesang und Gebet beim Essen, ob das </tei:seg>
+        <tei:ref type="esv" target="#annotation-168">herrnhuter</tei:ref>
+        <tei:seg>, in </tei:seg>
+        <tei:ref type="esv" target="#annotation-169">„Gnadau“ gedruckte Liederbuch</tei:ref>
+        <tei:seg>, das ich auf dem Piano aufgeschlagen fand, dazu gehört, möcht’ ich bezweifeln. Ein Anderes ist der katholische Cultus von </tei:seg>
+        <tei:ref type="esv" target="#annotation-170">Barmherzigen Schwestern</tei:ref>
+        <tei:seg>, die sich für Lebenszeit diesem Berufe hingeben und von der Welt für immer getrennt haben; ein Anderes diese vorübergehende </tei:seg>
+        <tei:ref type="esv" target="#annotation-171">Wirksamkeit einer Diakonissin</tei:ref>
+        <tei:seg>, die nach vorhergegangener rechtzeitiger Anzeige ihren Beruf wieder aufgeben und immer noch </tei:seg>
+        <tei:ref type="esv" target="#annotation-172">eine Frau Professorin oder Assessorin</tei:ref>
+        <tei:seg>28,29 eine Frau Professorin oder Assessorin] Vorausgesetzt, die ehemalige Diakonissin heiratete einen Professor oder Assessor. Der Titel oder die Berufsbezeichnung des Ehemannes wurde auf die Gattin übertragen. werden kann. Für einen solchen Beruf reicht Herzensgüte, Menschenliebe und eine, durch äußere Umstände hervorgerufene Neigung, einen so schwierigen Platz anzutreten, vollkommen aus. Und sollte denn wirklich im 19. Jahrhundert die Bildung der Gesellschaft, die Humanität der Gesinnung, die Liebe zum Gemeinwohl, die Sorge für die gemeinschaftlichen Glieder Einer Stadt, Eines Staats und Einer Nation noch nicht so weit als werkthätiges </tei:seg>
         <tei:hi style="letter-sparse">Princip</tei:hi>
         <tei:seg> durchgedrungen sein, daß man, um hier dreißig Frauen in einem Geiste der Hingebung und Liebe zu verbinden, nöthig hat, nach dem Gnadauer herrnhuter Gesangbuche zu greifen?</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Man wird ein jedes Krankenhaus mit Rührung verlassen. Auch in Bethanien sieht man des Wehmüthigen genug. Ich trat in ein Krankenzimmer von Kindern. Abgezehrte oder aufgedunsene kleine Gestalten lagen in ihren Bettchen und spielten auf einem vor ihnen aufgelegten Brete mit bleiernen Soldaten und hölzernen Häuserchen. Ein blasser Knabe, der an der Zehrung litt und vielleicht in einigen Wochen stirbt, reichte freundlich grüßend die Hand. Einen andern hatt’ ich gut auf den Sonnenschein, der lachend in die Fenster fiel, auf die Lerchen, die schon draußen wirbelten, auf ein baldiges freies Tummeln im erwachenden Frühling vertrösten, der Kleine litt am Rückenmark und wird nie wieder </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Man wird ein jedes Krankenhaus mit Rührung verlassen. Auch in Bethanien sieht man des Wehmüthigen genug. Ich trat in ein Krankenzimmer von Kindern. Abgezehrte oder aufgedunsene kleine Gestalten lagen in ihren Bettchen und spielten auf einem vor ihnen aufgelegten Brete mit bleiernen Soldaten und hölzernen Häuserchen. Ein blasser Knabe, der an der </tei:seg>
+        <tei:ref type="esv" target="#annotation-173">Zehrung</tei:ref>
+        <tei:seg> litt und vielleicht in einigen Wochen stirbt, reichte freundlich grüßend die Hand. Einen andern hatt’ ich gut auf den Sonnenschein, der lachend in die Fenster fiel, auf die Lerchen, die schon draußen wirbelten, auf ein baldiges freies Tummeln im erwachenden Frühling vertrösten, der Kleine litt am Rückenmark und wird nie wieder </tei:seg>
         <tei:pb n="447"/>
-        <tei:seg> gehen können. Ein Krankenhausbesuch ist eine Lehre, die nach „Satanella“ und Aladin’s „Wunderlampe“ sehr nützlich, sehr heilsam sein kann. Aber Bethanien verläßt man doch mit dem Gefühl, daß hier, wie in unserer Zeit überhaupt, noch mehr Menschen krank sind, als die da offen eingestehen, des Arztes bedürftig zu sein.</tei:seg>
+        <tei:seg> gehen können. Ein Krankenhausbesuch ist eine Lehre, die nach „Satanella“ und Aladin’s „Wunderlampe“ sehr nützlich, sehr heilsam sein kann. Aber Bethanien verläßt man doch mit dem Gefühl, daß hier, wie in unserer Zeit überhaupt, noch mehr Menschen krank sind, als die da offen eingestehen, </tei:seg>
+        <tei:ref type="esv" target="#annotation-174">des Arztes bedürftig</tei:ref>
+        <tei:seg> zu sein.</tei:seg>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -893,7 +988,9 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:seg>Der Unternehmer August Borsig (1804-1854) hatte 1837 in Berlin eine Maschinenbauanstalt gegründet, die sich in den 1840er Jahren als „Lokomotiv- und Maschinenfabrik A. Borsig“ zum führenden Unternehmen von Dampflokomotiven in Deutschland und Europa entwickelte. Die erste Dampflok lieferte Borsig 1841, die 500. konnte er 1854 fertigstellen.</tei:seg>
+          <tei:seg>Der Unternehmer August Borsig (1804-1854; → </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows.html#8">Bild</tei:ref>
+          <tei:seg>) hatte 1837 in Berlin eine Maschinenbauanstalt gegründet, die sich in den 1840er Jahren als „Lokomotiv- und Maschinenfabrik A. Borsig“ zum führenden Unternehmen von Dampflokomotiven in Deutschland und Europa entwickelte. Die erste Dampflok lieferte Borsig 1841, die 500. konnte er 1854 fertigstellen.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-36">
@@ -1200,7 +1297,7 @@
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Scherzhafte Bezeichnung für die Hauptmitarbeiter Ernst Dohm, David Kalisch, Rudolph Löwenstein und den Zeichner Wilhelm Scholz (→ </tei:seg>
-          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows.html#69">Bilder</tei:ref>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows.html#68">Bilder</tei:ref>
           <tei:seg>  Gutzkows Zeitgenossen).</tei:seg>
         </tei:p>
       </tei:interp>
@@ -1976,6 +2073,534 @@
           <tei:seg>Unvollständiges Zitat aus Shakespeares „Hamlet“ (3. Aufzug, 1. Szene), wo Hamlet in seinem berühmten, mit „Sein oder Nichtsein“ beginnenden Monolog sagt: „Denn wer ertrüg’ der Zeiten Spott und Geißel, / Des Mächt’gen Druck, des Stolzen Mißhandlungen, / Verschmähter Liebe Pein, des Rechtes Aufschub, / Den Uebermuth der Aemter, und die Schmach, / Die Unwerth schweigendem Verdienst erweist, / Wenn er sich selbst in Ruhstand setzen könnte / Mit einer Nadel bloß?“ (Shakespeare’s dramatische Werke. Übersetzt von August Wilhelm von Schlegel u. Ludwig Tieck. Bd. 4. Berlin: Reimer, 1854. S. 399.)</tei:seg>
           <tei:hi style="font-size-small"> </tei:hi>
         </tei:l>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-129">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">19,26</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Neue Museum</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Es wurde von 1843 bis 1855 nach Plänen von Friedrich August Stüler (1800-1865) gebaut. ▄ Weiteres in Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-132">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">20,4-5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">beengten, unfreundlichen Winkel</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-130">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">20,16-17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">russischen Pferdebändiger</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Anspielung auf die „Rossebändiger“, zwei kolossale Bronzeskulpturen des baltischen Bildhauers Baron Peter Clodt von Jürgensburg (1805–1867), die 1843 vor dem Berliner Schloss, an der dem Lustgarten gegenüber liegenden Front, aufgestellt wurden. Sie waren ein Geschenk von Zar Nikolaus an seinen Schwager König Friedrich Wilhelm IV. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-131">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">20,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">lacedämonischen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das nur selten vorkommende und in keinem einschlägigen zeitgenössischen Fremdwörterbuch nachgewiesene Adjektiv ist gleichbedeutend mit ›spartanisch‹, abgeleitet von Lakedaimon bzw. Lacedämon als alternative Bezeichnung für Sparta. Immermann verwendet es in seinem Roman „Münchhausen“ (1838/39), wo der Schulmeister im sechsten Kapitel des ersten Buches erklärt: „Nicht wahr, die alten Spartaner waren Kerle? Keine müßige Gelehrsamkeit, keine Quälerei mit Umlauten, Inlauten, Brustlauten! Alles auf Tatkraft, auf das wirkliche Leben berechnet, den Körper abgehärtet […]! Mich soll der Henker holen, wenn ich mir nicht alles in Zukunft lakedämonisch einrichte!“ (IW, Bd. 3, S. 82.) Und etwas später äußert er, er habe es für seine Pflicht gehalten, „die mir anvertraute Dorfjugend lakedämonisch zu bilden.“ (IW, Bd. 3, S. 84.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-133">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">20,25</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Feilner’schen Oefen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Keramiker, Ofen- und Porzellankachelfabrikant Tobias Christoph Feilner (1773-1839) erwarb sich bedeutende Verdienste bei der Verbesserung des Ofenbaus, entwickelte die weiße porzellanartige Glasur für Kachelöfen und „gilt als Vater des Berliner Kachelofens. […] Der Höhepunkt seines Schaffens war 1825 im Zusammenwirken mit Schinkel erreicht, seine Skulpturen und Reliefs waren eine Grundlage für den Erfolg Schinkels.“ (Volker Thurner-Meischen: Feilner, Tobias Christoph. In: Bodo Rollka, Volker Spiess, Bernhard Thieme (Hg.): Berliner Biographisches Lexikon. Berlin: Haude &amp; Spener, 1993. S. 116-117.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-134">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">20,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Lepsius</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Ägyptologe und Sprachforscher Karl Richard Lepsius (1810-1884) hatte von 1842 bis 1845 eine preußische Expedition durch Ägypten geleitet und dabei das Niltal bis in den Sudan erkundet. Von der Forschungsreise brachte er zahlreiche wertvolle antike Artefakte mit, die später in die ägyptische Abteilung des Neuen Museums kamen. „Nach seiner Rückkehr wurde er zum ordentlichen Professor in Berlin ernannt, 1850 zum Mitgliede der Akademie der Wissenschaften erwählt. Er wirkte auch bei der Einrichtung und Ausschmückung des Ägyptischen Museums in Berlin mit, zu dessen Mitdirektor er 1855 und Direktor 1865 ernannt wurde.“ (Meyer, Bd. 12, S. 431.) Lepsius war auch ein Spezialist auf dem Gebiet der ägyptischen Hieroglyphen, deren endgültige Entzifferung ihm gelang.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-135">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">21,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kaulbach’schen Wandgemälde</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> ▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-136">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">21,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Christus, seinen Wittekind, an die Michel-Angelo-Gestalten</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-137">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">21,34</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Thetis</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In der griechischen Mythologie eine Meergöttin oder Nereide (Tochter des Nereus), die sich als Unsterbliche mit einem Sterblichen, Peleus, verband. Aus dieser Beziehung ging Achilleus (lat. Achilles) hervor, der berühmteste Held der griechischen Heroenzeit, Anführer der Griechen vor Troja und zentrale Figur in Homers „Ilias“. Im zweiten Teil von Goethes „Faust“ (Vers 6025) wird Thetis als Angehörige einer Schar nahender Nereiden genannt (HA, Bd. 3, S. 186).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-138">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Helena aus dem zweiten Theile</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Helena, Tochter des Zeus und der Leda, der griechischen Mythologie zufolge eine der schönsten Frauen, ließ sich von Paris nach Troja entführen und wurde zum Anlass des trojanischen Krieges. Im zweiten Teil von Goethes „Faust“ erscheint sie dem Titelhelden zunächst als Phantom (Vers 6377-6565). Im dritten Akt tritt sie als vollendete Schönheit und Vertreterin der klassischen Antike auf, wird von Faust als dem Repräsentanten nordisch-mittelalterlicher Kultur heftig begehrt und vereint sich mit ihm. Gutzkow war der Stoff sehr vertraut. Er stellte 1849 zur Goethefeier im Dresdener Hoftheater einzelne Szenen aus dem zweiten Teil des „Faust“ zusammen und ließ die Bearbeitung unter dem Titel </tei:seg>
+          <tei:q>Der Raub der Helena</tei:q>
+          <tei:seg> aufführen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-139">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">berühmten Fries</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Über dem sechsteiligen Bilderzyklus zur Weltgeschichte konzipierte Kaulbach einen ›Kinderfries‹, auf dem er die Kulturgeschichte der Menschheit von den mythischen Anfängen bis zur Gegenwart mit humorvoll-verspielten, anspielungsreich-satirischen Kinderszenen illustrierte. Ebenso wie bei den Hauptbildern war davon bis Anfang 1854 nur ein Teil ausgeführt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-140">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Becker’s „Weltgeschichte“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Zuerst unter dem Titel „Weltgeschichte für Kinder und Kinderlehrer“ (9 Bände, Berlin 1801-1805) erschienenes Werk des Berliner Historikers und Pädagogen Karl Friedrich Becker (1777-1806). Von anderen Autoren jeweils bis auf die Gegenwart fortgesetzt, erschien es in immer neuen Auflagen als ›Beckers Weltgeschichte‹ bis ins frühe 20. Jahrhundert. Es war im 19. Jahrhundert außerordentlich weit verbreitet und prägte Generationen von Heranwachsenden, darunter auch den jungen Gutzkow, der im Haus seines Mentors Karl Friedrich Minter damit bekannt wurde. Er schreibt in seinem Erinnerungswerk </tei:seg>
+          <tei:q>Aus der Knabenzeit</tei:q>
+          <tei:seg> (1852): </tei:seg>
+          <tei:q>Die einzige Beschäftigung der Phantasie, die Herr Cleanth zuließ, war die mit der Geschichte, zu der seine Knaben durch Beckers damalige zehn Bände und dessen Erzählungen aus der alten Welt frühzeitig angeleitet wurden.</tei:q>
+          <tei:seg> (HU, Bd. 2, S. 1733.) Minter schenkte Gutzkow diese Ausgabe schließlich.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-141">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,27-28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Mucius Scävola</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Sagenumwobener römischer Held, der 507 v. u. Z. den Etruskerkönig Porsena bei dessen Belagerung Roms vergebens zu töten versuchte, um seine Vaterstadt zu retten. „Vor den König gebracht und mit Folter und Tod bedroht, streckte er zum Zeichen, daß ihn das nicht schrecke, seine rechte Hand in das Feuer eines nahen Altars und ließ sie unbewegten Gesichts verbrennen, worauf ihn Porsena aus Bewunderung seines Heldenmuts ungestraft entließ und […] Frieden mit Rom schloß.“ (Meyer, Bd. 14, S. 207.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-142">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Jobsiade“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„Die Jobsiade. Ein Komisches Heldengedicht in drei Theilen“ von Karl Arnold Kortum (1745-1824), eine mit Holzschnitten illustrierte, in Knittelversen verfasste und oft nachgedruckte und vielgelesene Satire. Erschien zuerst 1784 unter dem Titel: „Leben, Meinungen und Thaten von Hieronymus Jobs dem Kandidaten, und wie er sich weiland viel Ruhm erwarb, auch endlich als Nachtwächter zu Sulzburg starb“. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-143">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">22,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Aeneïde“ von Blumauer</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die „Abentheuer des frommen Helden Aeneas, oder Virgils Aeneis travestirt“, ein zwischen 1782 und 1788 entstandenes Versepos des österreichischen Schriftstellers Aloys Blumauer (1755-1789), gehörte wie Kortums „Jobsiade“ im 18. und 19. Jahrhundert zu den beliebtesten Werken komischer Literatur in Deutschland.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-144">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">23,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Overbeck, Cornelius, Schnorr</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Maler Friedrich Overbeck (1789-1869), Peter von Cornelius (1783-1867) und Julius Schnorr von Carolsfeld (1794-1872) waren Vertreter der nazarenischen Kunstrichtung, die einem romantisch-religiösen, schwärmerischen Ideal huldigte und ihre Vorbilder in der altdeutschen und altitalienischen Malerei suchte. Overbeck lebte seit 1810 in Rom, wo sich auch Cornelius und Schnorr von Carolsfeld zeitweilig aufhielten. Cornelius, der zwischen 1819 und 1824 Direktor der Kunstakademie in Düsseldorf war, gehörte hier zu den Lehrern Kaulbachs.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-145">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">23,22-23</tei:citedRange>
+          <tei:seg> seiner münchener Fresken] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Von 1846 bis 1853 wurde in München die Neue Pinakothek gebaut, deren Außenwände durch einen monumentalen Freskenzyklus Wilhelm von Kaulbachs geschmückt wurden. Kaulbachs Bilder, eine Auftragsarbeit für König Ludwig I., waren umstritten. Dem Wunsche Ludwigs I. entsprechend, hatte Kaulbach als Thema „den neuen Aufschwung der deutschen Kunst und speziell der jungen Münchener Schule zum Gegenstand“ der Freskobilder gemacht, darin aber in sarkastisch-allegorischer Weise, an einigen Stellen maliziös-karikierend alles abgeladen, „was er an persönlichem Groll gegen die Kollegen, was er an tieferer Erkenntnis in bezug auf jenen ganzen ‚Aufschwung der deutschen Kunst’ auf dem Herzen hatte.“ Gegen diese „mokanten Glossen zur Kunstgeschichte“ erhob sich ein „Sturm der Entrüstung“. (Fritz von Ostini: Wilhelm von Kaulbach. Bielefeld u. Leipzig: Velhagen &amp; Klasing, 1906. S. 113.) Zu Kaulbachs entschiedensten Gegnern in diesem Bilderstreit gehörte Schnorr von Carolsfeld. Gutzkow nahm 1853 die Monumentalgemälde in Augenschein und verteidigte sie in einem Beitrag </tei:seg>
+          <tei:q>Kaulbachs Fresken an der neuen Pinakothek in München</tei:q>
+          <tei:seg> (Rasch 3.53.10.08.1). Die Freskenbilder wurden schon im Laufe des 19. Jahrhunderts durch Witterungseinflüsse zerstört und nicht mehr erneuert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-146">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">23,30-31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kant, an Herschel, an Volta und Wollaston</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Aufzählung bedeutender Gelehrter und Wissenschaftler des 18. Jahrhunderts: Der Königsberger Philosoph und Aufklärer Immanuel Kant (1724-1804), der deutsch-britische Astronom Wilhelm Herschel (1738-1822), der italienische Physiker Allessandro Volta (1745-1827) und der englische Physiker und Chemiker William Hyde Wollaston (1766-1826).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-147">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">23,33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">galvanischen Batterieen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> ▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-148">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,13-14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">flammendes Michaels-Schwert</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Erzengel Michael, der der biblischen Überlieferung zufolge im Kampf mit Luzifer diesen in die Hölle stürzte, wird oft mit einem (wellig gezackten) ›feurigen‹ oder ›flammenden‹ Schwert dargestellt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-150">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">das kostbare Werk</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>„Wilhelm von Kaulbach’s Wandgemaelde im Treppenhause des Neuen Museums zu Berlin. Mit Genehmigung der General-Direction der Kœniglichen Museen hrsg. u. verlegt von Alexander Duncker.“ Das Ansichts- und Tafelwerk im Groß- und Querformat erschien zwischen 1853 und 1871 in 12 Lieferungen in Berlin. Die einzelnen Lieferungen waren sehr teuer und kosteten anfangs jeweils zwischen 9 und 14 Gulden. Gutzkow lagen die beiden ersten vor: „1. Der Fries. 1stes, 2tes Bruchstück. Gestochen von Ed. Eichens. 2. Die Geschichte. Gestochen von L. Jacoby. 3. Moses. Gestochen von A. Hoffmann“ (1853), Lieferung 2: „4. Der Fries. 3tes, 4tes Bruchstück. Gestochen von Ed. Eichens. 5. Die Sage. Gestochen von L. Jacoby. 6. Solon. Gestochen von A. Hoffmann“ (1854).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-151">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Alexander Duncker</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Berliner Verleger und Buchhändler Alexander Duncker (1813-1897) durfte sich seit 1841 „königlicher Hofbuchhändler“ nennen. Er stand dem preußischen Hof nahe, zu König Friedrich Wilhelm IV. pflegte er engen Kontakt. Neben einem breiten belletristischen Verlagsprogramm – zu seinen Autoren gehörten um 1850 Emanuel Geibel, Christian Friedrich Scherenberg, Gustav zu Putlitz, Ida Gräfin Hahn-Hahn, Fanny Lewald, Paul Heyse oder Theodor Storm – kaprizierte sich Duncker auf die Herausgabe künstlerisch und drucktechnisch hochwertiger Ansichtswerke. Während Gutzkows Anwesenheit in Berlin schickte Duncker ihm die ersten beiden Lieferungen des Prachtwerks von Kaulbachs Wandgemälden mit der Bitte um eine Besprechung. Dieser dankt am 7. März 1854 Duncker für </tei:seg>
+          <tei:q>die überreiche Sendung:</tei:q>
+          <tei:seg> </tei:seg>
+          <tei:q>Da ich längst zu Kaulbachs u Menzels Bewunderern gehöre, wird es mit leicht werden, Ihren Wünschen zu entsprechen u. in meinem kleinen Kreise für diese kostspieligen Unternehmungen zu wirken.</tei:q>
+          <tei:seg> Eine Einladung in Dunckers Haus für Donnerstag den 9. März muss er aus Termingründen jedoch absagen: </tei:seg>
+          <tei:q>Da ich Donnerstag schon wieder im Kreise der Meinen erwartet bin, so bedaur’ ich ausserordentlich, dss ich mir das Vergnügen versagen muss, Ihrer freundlichen Einladung Folge zu leisten.</tei:q>
+          <tei:seg> (UBFM, Nachlass Karl Gutzkow, A 2 I, Nr. 54,67 maschA.) Gutzkow versprach, bei seinem nächsten Aufenthalt in Berlin einen Besuch nachzuholen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-152">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,29-30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Juno’s und Chriemhildens Rache</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-153">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,30</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schmerz der Niobe</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg> ▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-154">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Hildebrand</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-155">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">24,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Jacoby, Eichens, Thäter</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Zeichner, Kupferstecher und Reproduktionsgraphiker Louis Jacoby (1828-1918), Eduard Eichens (1804-1877) und Julius Thaeter (1804-1870). Thaeter war an diesem Werk allerdings nicht beteiligt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-149">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">25,1-2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Kuppeldachkapelle des Schlosses</tei:hi>
+          </tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-156">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">25,5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schadow</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-157">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">25,8-9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schlüter’schen Basreliefs</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-158">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">25,12-13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Weißen Saale</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der größte Festsaal im Berliner Schloss, dessen Wände mit weißem, feingäderten Stuckmarmor ausgestattet waren. Er lag im Nordwesttrakt des zweiten Obergeschosses, war 1728 errichtet worden und wurde seit Mitte der 1840er Jahre mit dem Bau der benachbarten Schlosskapelle umgestaltet, erweitert und teilweise neu ausgestattet. Mit zahlreichen kunstvollen Schmuckelementen, Säulenreihen, Statuen, Wandmalereien gehörte er zu den prächtigsten Repräsentativräumen des Schlosses und wurde zu besonders festlichen Anlässen genutzt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-159">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">25,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Rauch’schen Victoria</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die in Marmor ausgeführte, sitzende, geflügelte Siegesgöttin von Christian Daniel Rauch (1777-1857), einem Schüler Schadows und bedeutendem Vertreter des Berliner Klassizismus, gehörte zu den Prachtstücken des neu gestalteten Weißen Saales.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-160">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">26,32</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Bethanien</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Krankenhaus Bethanien (→ </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/bilder-aus-berlin.html#9">Bild</tei:ref>
+          <tei:seg>), eine Klinik und Ausbildungsstätte für Diakonissen, wurde zwischen 1845 und 1847 nach Plänen des Architekten Ludwig Persius in der Luisenstadt (heute Berliner Bezirk Mitte, Kreuzberg) erbaut. Es lag am Rand des Köpenicker Feldes, das mit zahlreichen Gärten, Feldern und öden Brachen noch einen ländlichen Charakter hatte. Das Haupthaus, ein Mittelbau mit zwei langen Seitenflügeln, beherbergte neben dem Erdgeschoss in zwei weiteren Etagen die Wohnungen der Oberin, der Diakonissen und der männlichen Verwaltungsleute, eine Apotheke, Küche, Büros, Waschräume, eine Kirche und die Krankenstationen, in der bis zu 350 Patienten aufgenommen werden konnten. Der Name des Hauses nahm Bezug auf das biblische Dorf Bethania in Palästina, wo Jesus der biblischen Legende nach Lazarus von den Toten auferweckt haben soll. Die Krankenheilstätte war Teil des protestantische Projekts der inneren Mission, d. h. die Kranken sollten nicht nur von ihren körperlichen Leiden genesen, sondern auch ›wiedererweckt‹, bekehrt, zum ›wahren Glauben‹ zurückgeführt werden. Damit stieß das Krankenhaus auf Widerstand in der Bevölkerung und geriet in den folgenden Jahrzehnten immer wieder in den kritischen Fokus der liberalen Presse. Mit dem pietistischen Bekehrungseifer verband sich ein politisch streng konservativer, antirevolutionärer und antidemokratischer Geist. Theodor Fontane berichtet, dass Bethanien 1848 und in den folgenden Jahren ein Treffpunkt hochkarätiger reaktionärer Politiker und Journalisten gewesen sei, vor allem von „führenden Kreuzzeitungs-Leute[n]“. (GBA, Das autobiographische Werk, Bd. 3, S. 280; vgl. auch S. 407 und den Kommentar von Wolfgang Rasch dazu.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-161">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>26,33 Diakonissenanstalt] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diakonissenanstalten waren noch neu. 1836 war in Kaiserswerth von Pfarrer Theodor Fliedner die erste Diakonissenanstalt zur Ausbildung von Krankenpflegerinnen gegründet worden. Damit nahm das Diakonissenwesen einen bedeutenden Aufschwung und zahlreiche Neugründungen von Diakonissenhäusern folgten. Wurde der Begriff der „Diakonissa od. Diakonissin“ in Heyses „Fremdwörterbuch“ 1848 noch als rein historische Erscheinung aus der „ältesten christl. Kirche“ für „bejahrte weibliche Personen, welche die Armen- und Krankenpflege besorgten und die Aufsicht über die weibl. Gemeindeglieder hatten“ (Heyse 1848, 10. Aufl., S. 232) erklärt, so erhielt der Ausdruck in der folgenden Auflage 1853 zusätzlich eine aktualisierte Bedeutung: „jetzt in der evangel. Kirche: Kranken- und Kinderpflegerinnen.“ (Heyse 1853, 11. Aufl., S. 251.) Die Diakonissinnen der Neuzeit blieben unverheiratet und ordneten sich gehorsam unter: „Die ‚Schwestern‘ werden nach einer je nach Charakter und Vorbildung längern oder kürzern Probezeit kirchlich eingesegnet (Ordination); Gelübde finden nicht statt. Die Verbindung mit der Familie bleibt frei, ebenso Besitz und Verwaltung des Privatvermögens; doch hängen die Schwestern in fast militärischer Weise vom Mutterhaus ab, das über ihre Stellung und Sendung verfügt und sie dafür in Krankheit und Alter versorgt. Wollen sie in die Ehe treten, so müssen sie aus dem Mutterhaus ausscheiden“ (Meyer, Bd. 4, S. 862). Zu ihren Aufgaben gehörte die Arbeit in der Gemeinde, in Kleinkinderschulen, Waisen- und Erziehungshäusern und in der Krankenpflege. Neben dem karitativen Engagement stand die Bekehrung oder Wiedererweckung zum ›wahren‹ Christentum im Zentrum ihrer Arbeit.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-162">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">26,34</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">katholischen Kirche</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Sankt-Michael-Kirche, 1851 bis 1856 gebaut, ausgeführt im romanischen Rundbogenstil aus naturfarbenen Backsteinen. Vollendet wurde das Gotteshaus, das auch als katholische Garnisonskirche in Berlin diente, erst 1860/61.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-163">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">27,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">hoher Protection</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Offiziell stand die Anstalt unter dem Protektorat der preußischen Königin. Vor allem aber ihr Mann, König Friedrich Wilhelm IV., der den Baugrund für das Haus Bethanien zur Verfügung gestellt hatte, verwendete sich für Bethanien. Er setzte sich nachdrücklich für die Gründung des Hauses ein und förderte es nach Kräften. In der Gründungsurkunde, die der König im Juli 1845 ausstellte, heißt es: „Wir Friedrich Wilhelm von Gottes Gnaden, König von Preußen, haben Uns bewogen gefunden, in Unserer Residenzstadt Berlin ein Institut zur Ausbildung von Krankenpflegerinnen zu errichten, mit welchem, zum Vorbilde für ähnliche Anstalten, eine eigene Kranken-Anstalt verbunden werden soll. Diese Stiftung, welche Wir der Pflege des von Uns erneuerten Schwanenordens zu überweisen beabsichtigen, wird, so hoffen Wir, Anregung dazu geben, daß nach Art der Diaconissinnen in den apostolischen Gemeinden, auch in der evangelischen Kirche, Jungfrauen und Wittwen dem geordneten Dienste der Kranken und Nothleidenden sich widmen, im freiwilligen Berufe helfender Liebe und Barmherzigkeit. […] Für die Kranken und Pflegerinnen wird täglicher Gottesdienst in dem Hause gehalten werden. In der Anstalt sollen 350 Kranke Raum finden; für 100 derselben werden Wir die Mittel zur Unterhaltung mit 10,500 Thlr. jährlich aus Staatsfonds anweisen.“ (Zitiert nach Th. Stein: Das Krankenhaus der Diakonissen-Anstalt Bethanien zu Berlin. Mit 16 Tafeln. Berlin: Reimarus, 1850. S. 1.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-164">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">27,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Fräulein von Rantzau</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Marianne Gräfin Rantzau (1811-1855), Tochter eines Großherzoglich-Mecklenburgischen Oberforstmeisters, trat 1845 als Diakonisse in die von Pfarrer Fliedner geleitete Diakonissenanstalt Kaiserswerth. Auf Empfehlung Fliedners war sie schon 1846 von König Friedrich Wilhelm IV. zur Oberin des Diakonissenhauses Bethanien berufen worden, dem sie bis zu ihrem Tod vorstand. In dieser Funktion gehörte Marianne von Rantzau zur Minorität von Frauen im 19. Jahrhundert, die selbstverantwortlich einen Beruf ausübten und eine Leitungsfunktion inne hatten: Ein Weiblichkeitsentwurf, der in kirchlich-konservativen aber auch in bürgerlich-liberalen Kreisen nicht unumstritten war. (Vgl. Ursula Röper: Marianne von Rantzau und die Kunst der Demut. Frömmigkeitsbewegung und Frauenpolitik in Preußen unter Friedrich Wilhelm IV. Stuttgart, Weimar: Metzler, 1997.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-165">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">27,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ähnliche Anstalten</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die in Bethanien ausgebildeten Diakonissen übernahmen Pflegedienste und Leitungsaufgaben in Filialanstalten des Mutterhauses und anderen Krankenhäusern Preußens. So wurde schon 1850 das Mariannenstift in Schlesien von zwei Diakonissen aus Bethanien verwaltet und mit einem Krankenhaus 1852 eine Filialanstalt Bethaniens in Polzin (Pommern) gegründet.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-166">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">27,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Tracht</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die Diakonissen trugen „bei der Arbeit ein blaugestreiftes Nesselkleid, sonst ein Kleid von schwarzem Wollstoff. Als Haube war […] die Kaiserswerther Rüschenhaube im Gebrauch“ ([G. Schulze:] Bethanien. Die ersten fünfzig Jahre und der gegenwärtige Stand des Diakonissenhauses Bethanien zu Berlin. Berlin: Diakonissenhaus, 1897. S. 190).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-167">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">27,28-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">von zwei Diakonissen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Diese beiden Diakonissen, Emmy Dankwerts (1812-1865) und Aurelie Platen (1824-1904), hatte der approbierte Apotheker Theodor Fontane zwischen Oktober 1848 und September 1849 in Bethanien pharmazeutisch ausgebildet. (Vgl. das Kapitel „Zwei Diakonissinnen“ in Theodor Fontanes „Von Zwanzig bis Dreißig. Autobiographische“, GBA, Das autobiographische Werk, Bd. 3, S. 419-423.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-168">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">28,21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">herrnhuter</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die Evangelische Brüdergemeinde der Herrnhuter ist eine nach dem Ort Herrnhut (Oberlausitz) benannte, im frühen 18. Jahrhundert entstandene, stark pietistisch geprägte Erweckungs-, Frömmigkeits- und Missionsgesellschaft. Ihre Mitglieder verstehen sich als „Gemeinschaft erweckter Seelen“. Sie wurde von Nikolaus Ludwig Graf von Zinzendorf (1700-1766) ins Leben gerufen worden, der 1722 den aus Mähren vertriebenen evangelischen Brüdern erlaubte, sich in unmittelbarer Nähe seines Gutes Mittelberthelsdorf niederzulassen, wo schließlich die Siedlung Herrnhut gegründet wurde. Zinzendorf hat sich auch als Dichter vieler Kirchenlieder einen Namen gemacht hat.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-169">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">28,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Gnadau“ gedruckte Liederbuch</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Zu den Orten, die von Herrnhuter Kolonisten im 18. Jahrhundert gegründet worden waren, gehörte „Gnadau, Marktflecken u. Herrnhutercolonie […] im Kreise Kalbe des preußischen Regierungsbezirks Magdeburg“ (Pierer 1857-65, Bd. 7, S. 427), wo neben frommen Traktaten, Missionsschriften usw. in der Unitätsbuchdruckerei das Herrnhuter Gesangbuch hergestellt wurde. Vermutlich handelte es sich hier um die Ausgabe „Gesangbuch, zum Gebrauch der evangelischen Brüder-Gemeinen“ (Gnadau: Verlag der Buchhandlung der evangelischen Brüder-Unität bei H. L. Menz, so wie in allen Brüder-Gemeinen, 1850).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-170">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">28,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Barmherzigen Schwestern</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Unter diesem Namen existierten schon seit dem 17. Jahrhundert in der katholischen Kirche zahlreiche weibliche Ordensgemeinschaften, die sich vor allem der Krankenpflege, aber auch der Armutsbekämpfung widmeten. Wegen ihrer Kleidung wurden sie auch „Graue Schwestern“ genannt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-171">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">28,27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Wirksamkeit einer Diakonissin</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Dieses Thema behandelte Gutzkow 1852 in seinem Schauspiel </tei:seg>
+          <tei:q>Die Diakonissi</tei:q>
+          <tei:seg>n (vgl. Rasch 6.52.1 und 6.52.2), das er 1854 zu dem gleichnamigen kleinen Roman umarbeitete (</tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/die-diakonissin.html">
+            <tei:q>Die Diakonissin. Ein Lebensbild</tei:q>
+          </tei:ref>
+          <tei:q>.</tei:q>
+          <tei:seg> GWB I, Bd. 10.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-172">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">28,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">eine Frau Professorin oder Assessorin</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Vorausgesetzt, die ehemalige Diakonissin heiratete einen Professor oder Assessor. Der Titel oder die Berufsbezeichnung des Ehemannes wurde auf die Gattin übertragen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-173">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">29,11-12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Zehrung</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Alternative Bezeichnung für ›Auszehrung‹, im 19. Jahrhundert ein Sammelbegriff für die krankhafte „Abzehrung des Körpers bis zu dem Grade, wo, unter immer steigendem Mißverhältniß des Abganges von zum Leben nöthigen Stoffen u. des Wiederersatzes derselben das Leben selbst nicht lange mehr bestehen kann. Man rechnet, daß wenigstens 1/5 Menschen an auszehrenden Krankheiten stirbt. Sie sind, wo sie entschieden hervortreten, immer mit chronischem Fieberzustand (auszehrendem Fieber) verbunden.“ (Pierer 1857-65, Bd. 2, S. 84.) Dazu zählten Lungenschwindsucht und Tuberkulose, deren bakterielle Verursacher lange nicht bekannt waren und die daher auch nicht gezielt bekämpft werden konnten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-174">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">29,22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">des Arztes bedürftig</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Möglicherweise Anspielung auf Matthäus 9, 11-12: „Da das die Pharisäer sahen, sprachen sie zu seinen Jüngern: Warum isset euer Meister mit den Zöllnern und Sündern? Da das Jesus hörete, sprach er zu ihnen: Die Starken bedürfen des Arztes nicht, sondern die Kranken.“ Der letzte Satz gehörte im 19. Jahrhundert zu den geflügelten Worten (vgl. Büchmann 1879, S. 28).</tei:seg>
+        </tei:p>
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">

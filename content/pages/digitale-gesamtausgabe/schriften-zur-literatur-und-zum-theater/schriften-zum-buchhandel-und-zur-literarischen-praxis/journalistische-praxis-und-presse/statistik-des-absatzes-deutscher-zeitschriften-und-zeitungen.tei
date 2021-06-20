@@ -42,11 +42,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="21"/>
         <tei:seg> Statistik des Absatzes deutscher Zeitschriften und Zeitungen.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Der Buchhändler </tei:seg>
         <tei:hi style="letter-sparse">J. J. Weber</tei:hi>
         <tei:seg> in Leipzig hat in seiner von </tei:seg>
@@ -59,7 +59,7 @@
         <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
         <tei:seg> ausgegeben wird. Den diesmaligen Inhalt bilden gesammelte gesetzliche Verfügungen über die deutsche Presse, ein vollständig geordnetes Buchhändlerverzeichniß, ein Bücherkatalog und ein Verzeichniß sämmtlicher deutscher Zeitschriften, wissenschaftlicher und politischer, allgemeiner und lokaler.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>An diesem Zeitungskataloge sind die </tei:seg>
         <tei:hi style="letter-sparse">Angaben der Auflage</tei:hi>
         <tei:seg> sehr interessant. Interessant in doppelter Hinsicht. Die Besitzer und Herausgeber der Zeitschriften haben </tei:seg>
@@ -70,17 +70,17 @@
         <tei:hi style="letter-sparse">Auflage</tei:hi>
         <tei:seg>, nicht unsern Absatz an. Aber welche Zeitschrift druckt Jahr ein Jahr aus Makulatur? Wer wird Papier und Druck verschwenden, ohne Hoffnung auf Absatz? Man sieht in diesem Verzeichniß Blätter mit 1000 Exemplaren Auflage prunken, die notorisch nicht 200 absetzen. Dieser Mangel an Ehrlichkeit ist nicht schön. Er verwirrt die Kenntniß des deutschen Preßwesens.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Bei (politischen) Zeitungen gehen wir sicherer. Der </tei:seg>
         <tei:hi style="letter-sparse">Zeitungsstempel</tei:hi>
         <tei:seg> ist eine Controle, die uns über den wirklichen Absatz einer Zeitung sogleich aufklären kann. Die Regierung würde eine übertriebene Angabe sogleich dadurch strafen, daß sie für das Plus derselben die Stempelvergütung forderte. Und doch sieht man in dem Verzeichniß auch einige gestempelte Zeitungen, die sich nicht scheuen, ihre Auflage um zwei Drittheile zu hoch anzugeben!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Von der nachfolgenden Zusammenstellung sind alle die Zeitungen und wissenschaftlichen Blätter ausgeschlossen, von denen 1) im bibliopolischen Jahrbuch überhaupt keine Absatzanzeige gemacht wurde und 2) alle die, deren Angaben uns entschieden </tei:seg>
         <tei:hi style="letter-sparse">unrichtig</tei:hi>
         <tei:seg> erschienen sind. Wir würden uns viele Feindschaft zuziehen, wollten wir diejenigen Blätter, deren Angaben offenbar nur renommiren, hier namentlich aufführen. Außerdem ließen wir die Blätter von weniger allgemeinem Interesse und Rufe fort.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="22"/>
         <tei:seg> I. Wissenschaftlich-artistische Zeitschriften.</tei:seg>
       </tei:head>
@@ -156,7 +156,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Sächsische Vaterlandsblätter                    "                500                     "</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>II. Zeitungen.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
@@ -322,39 +322,42 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Christine Haug, München; Ute Schneider, Mainz</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. [Karl] G[utzkow]: Statistik des Absatzes deutscher Zeitschriften und Zeitungen. In: Telegraph für Deutschland. Hamburg. Nr. 6, [9.] Januar 1843, S. 21–22. (Rasch 3.43.01.09)</tei:seg>
+          <tei:seg>J [Karl] G[utzkow]: Statistik des Absatzes deutscher Zeitschriften und Zeitungen. In: Telegraph für Deutschland. Hamburg. Nr. 6, [9.] Januar 1843, S. 21–22. (Rasch 3.43.01.09)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Schriften zum Buchhandel und zur literarischen Praxis. Hg. von Christine Haug u. Ute Schneider. Münster: Oktober Verlag, 2013. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 7.)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die tabellarische Übersicht der Auflagen von Zeitungen und Zeitschriften in J (GWB IV, Bd. 7, S. 195-197) setzt bei 196,31: </tei:seg>
         <tei:q>Dorfzeitung</tei:q>
         <tei:seg> mit einer neuen Kolumne ein, deren Kopfzeile die Begriffe </tei:seg>
@@ -362,25 +365,16 @@
         <tei:seg> und </tei:seg>
         <tei:q>Exempl.</tei:q>
         <tei:seg> enthält, analog zu 195,11: </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Burk’s</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Burk’s</tei:q>
+        </tei:hi>
         <tei:q> Christenbote</tei:q>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
-        <tei:seg>Errata</tei:seg>
-      </tei:head>
-      <tei:p style="text-left">
-        <tei:seg>Zur Buchausgabe (GWB IV, Bd. 7) ist folgende Textkorrektur zu vermerken:</tei:seg>
-      </tei:p>
-      <tei:p style="text-left">
-        <tei:seg>Zwischen 195,9 und 195,10 fehlt rechtsbündig die Signaturkürzel Gutzkows: G.</tei:seg>
-      </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentierung</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
