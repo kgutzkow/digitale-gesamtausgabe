@@ -60,7 +60,7 @@
         <tei:hi style="letter-sparse">Erste Scene</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left" extract="true">
         <tei:stage type="setting">Das Vermählungsfest des greisen Dogen und der jugendlichen Luzia. Erleuchteter Saal, verlängert im Hintergrunde. Musik, die im Verlauf der Scene allmälig verhallt. Gäste, erst herumwandelnd, dann um die Hauptpersonen sich gruppirend. Der Doge tritt beschleunigten Fußes, Luzia am Arm, in den Vorgrund.</tei:stage>
       </tei:p>
       <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0">
@@ -1641,7 +1641,7 @@
           <tei:speaker>Marino.</tei:speaker>
         </tei:p>
         <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0">
-          <tei:l margin-left="7.6" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l margin-left="7.8" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
             <tei:seg>Ja,</tei:seg>
           </tei:l>
           <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
@@ -1764,27 +1764,27 @@
         <tei:hi style="letter-sparse">auf die Länge</tei:hi>
         <tei:seg> zu verschmähen nicht mehr die Kraft zu haben fürchtet. Vielleicht, daß diesem ersten Akte noch einmal die vier andern nachfolgen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="12.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="15" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg> G.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>Bearbeitung: Cornelia Hobritz, Stuttgart; Susanne Schütz, Halle</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -1795,10 +1795,10 @@
           <tei:seg>E Marino Falieri. In: Skizzenbuch. Von Karl Gutzkow. Cassel und Leipzig: Krieger, 1839. S. 24-54. (Rasch 2.19.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -1810,11 +1810,11 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Dramas im Band: Dramatische Werke. Hg. von Anne Friedrich und Susanne Schütz. Münster: Oktober Verlag, 2009. (= Gutzkows Werke und Briefe. Abt. II: Dramatische Werke, Bd. 1.)</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">3,V.18</tei:citedRange>
+        <tei:citedRange>3,V.18</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Traum ist,</tei:lem>
         <tei:seg> </tei:seg>
@@ -1822,7 +1822,7 @@
         <tei:seg> berichtigt nach J</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">7,V.110</tei:citedRange>
+        <tei:citedRange>7,V.110</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>umfangen</tei:lem>
         <tei:seg> </tei:seg>
@@ -1830,7 +1830,7 @@
         <tei:seg> berichtigt nach J</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">8,V.138-139</tei:citedRange>
+        <tei:citedRange>8,V.138-139</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>in diesem / Moment</tei:lem>
         <tei:seg> </tei:seg>
@@ -1838,14 +1838,14 @@
         <tei:seg> berichtigt nach J</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">11, nach V.225</tei:citedRange>
+        <tei:citedRange>11, nach V.225</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Gratiano</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Gartiano</tei:sic>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">13,V.271</tei:citedRange>
+        <tei:citedRange>13,V.271</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Feste.</tei:lem>
         <tei:seg> </tei:seg>
@@ -1853,39 +1853,39 @@
         <tei:seg> ausgefallene Letter am Zeilenende</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">22,1</tei:citedRange>
+        <tei:citedRange>22,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Falieri</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Faliari</tei:sic>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">22,10</tei:citedRange>
+        <tei:citedRange>22,10</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Falieri</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Faliari</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Errata</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB II, Bd. 1) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">7,V.110</tei:citedRange>
+        <tei:citedRange>7,V.110</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>umpfangen</tei:lem>
         <tei:seg> Hier hätte ein Eingriff erfolgen müssen; siehe Liste unter 2.1.1.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:citedRange type="page-line-ref">16,18</tei:citedRange>
+        <tei:citedRange>16,18</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>wie</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>wir</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
