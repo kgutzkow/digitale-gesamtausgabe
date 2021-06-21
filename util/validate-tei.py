@@ -157,7 +157,9 @@ def check_readings(doc, errors):
         elif not rdg.attrib['wit'].startswith('#'):
             errors.append('Witness does not specify an identifier')
         else:
-            doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]), namespaces=ns)
+            source = doc.xpath("//tei:list[@type='sources']/tei:item[@data-source-id='{0}']".format(rdg.attrib['wit'][1:]), namespaces=ns)
+            if len(source) == 0:
+                errors.append('Witness refering to a missing source ({0})'.format(rdg.attrib['wit'][1:]))
 
 
 def check_editor_transition(doc, errors):
