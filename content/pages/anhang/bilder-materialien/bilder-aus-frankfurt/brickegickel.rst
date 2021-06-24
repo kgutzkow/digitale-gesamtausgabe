@@ -4,7 +4,7 @@
 :slug: brickegickel
 :order: 1
 
-“Brickegickel”, 1912. Unbekannter Fotograf.
+“Brickegickel”, ca. 1912. Unbekannter Fotograf.
 
 .. class:: source
 
