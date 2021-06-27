@@ -1,10 +1,10 @@
-"Zum Weidenbusch"
+Gasthof „Weidenbusch“
 =================
 
 :slug: zum-weidenbusch
 :order: 2
 
-Gasthof "Zum Weidenbusch", Steinweg, um 1840.
+Gasthof „Weidenbusch“, Steinweg, um 1840. Gezeichnet von J.H. Ehemant, gestochen von J.H. Martens.
 
 .. class:: source
 
