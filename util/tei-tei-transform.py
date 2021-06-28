@@ -34,9 +34,9 @@ def process_block_element(node: etree.Element, parent: etree.Element, tag: str) 
     """Process a block element, creating the required structure."""
     if node.text or len(node) > 0:
         block = etree.Element(tag)
-        if node.text:
+        if node.text and node.text.strip():
             seg = etree.Element('{http://www.tei-c.org/ns/1.0}seg')
-            seg.text = node.text.replace('\n', ' ')
+            seg.text = re.sub(r'\s+', ' ', node.text)
             block.append(seg)
         for child in node:
             process_body(child, block)
@@ -54,25 +54,40 @@ def process_inline_element(node: etree.Element, parent: etree.Element, tag: str)
     if node.text:
         inline = etree.Element(tag)
         if node.text:
-            inline.text = node.text.replace('\n', ' ')
+            inline.text = re.sub(r'\s+', ' ', node.text)
+        tail = None
+        if node.tail:
+            tail = etree.Element('{http://www.tei-c.org/ns/1.0}seg')
+            tail.text = re.sub(r'\s+', ' ', node.tail)
         if parent.tag in ['{http://www.tei-c.org/ns/1.0}p', '{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}l']:
             parent.append(inline)
+            if tail is not None:
+                parent.append(tail)
         else:
-            if parent.tag == '{http://www.tei-c.org/ns/1.0}body':
-                p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-                p.append(inline)
-                parent.append(p)
-            elif parent.tag == '{http://www.tei-c.org/ns/1.0}stage':
-                p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-                p.append(inline)
-                parent.append(p)
-            elif parent.tag == '{http://www.tei-c.org/ns/1.0}sp':
-                p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
-                p.append(inline)
-                parent.append(p)
-            else:
-                print('Parent:', parent.tag)
+            p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+            p.append(inline)
+            if tail is not None:
+                p.append(tail)
+            parent.append(p)
         return inline
+    elif len(node) > 0:
+        nodes = []
+        for child in node:
+            tmp = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+            process_body(child, tmp)
+            for result in tmp:
+                inline = etree.Element(tag)
+                if result.tag == '{http://www.tei-c.org/ns/1.0}seg':
+                    inline.text = result.text
+                else:
+                    inline.append(result)
+                nodes.append(inline)
+        if parent.tag in ['{http://www.tei-c.org/ns/1.0}p', '{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}l']:
+            parent.extend(nodes)
+        else:
+            p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+            p.extend(nodes)
+            parent.append(p)
 
 
 def process_body(node: etree.Element, parent: etree.Element):
@@ -94,13 +109,15 @@ def process_body(node: etree.Element, parent: etree.Element):
     elif node.tag == '{http://www.tei-c.org/ns/1.0}sp':
         process_block_element(node, parent, '{http://www.tei-c.org/ns/1.0}sp')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}speaker':
-        process_block_element(node, parent, '{http://www.tei-c.org/ns/1.0}speaker')
+        process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}speaker')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}lg':
         process_block_element(node, parent, '{http://www.tei-c.org/ns/1.0}lg')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}l':
         process_block_element(node, parent, '{http://www.tei-c.org/ns/1.0}l')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}p':
         process_block_element(node, parent, '{http://www.tei-c.org/ns/1.0}p')
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}foreign':
+        process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}foreign')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}emph':
         hi = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}hi')
         if hi is not None:
@@ -114,7 +131,12 @@ def process_body(node: etree.Element, parent: etree.Element):
                 if pb.text.endswith(' '):
                     seg = etree.Element('{http://www.tei-c.org/ns/1.0}seg')
                     seg.text = ' '
-                    parent.append(seg)
+                    if parent.tag in ['{http://www.tei-c.org/ns/1.0}p', '{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}l']:
+                        parent.append(seg)
+                    else:
+                        p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+                        p.append(seg)
+                        parent.append(p)
                 pb.text = None
             else:
                 pb.tag = '{http://www.tei-c.org/ns/1.0}seg'
@@ -123,6 +145,7 @@ def process_body(node: etree.Element, parent: etree.Element):
         pass
     else:
         print(node.tag)
+
 
 def create_body(source: etree.ElementTree, target: etree.ElementTree):
     """Create the body structure."""
