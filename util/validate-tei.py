@@ -204,11 +204,14 @@ def check_stage_instructions(doc, errors):
         if 'type' not in stage.attrib:
             errors.append('Stage instruction missing type')
         elif stage.attrib['type'] not in ['setting', 'entrance', 'exit', 'business', 'novelistic', 'delivery', 'modifier', 'location', 'mixed']:
-            errors.append('Stage instruction with invalid type {0} ({1}...)'.format(stage.attrib['type'], ''.join(stage.itertext())[:20]))
+            if len(''.join(stage.itertext())) > 20:
+                errors.append('Stage instruction with invalid type {0} ({1}...)'.format(stage.attrib['type'], ''.join(stage.itertext())[:20]))
+            else:
+                errors.append('Stage instruction with invalid type {0} ({1})'.format(stage.attrib['type'], ''.join(stage.itertext())))
 
 
 def check_speaker(doc, errors):
-    for speaker in doc.xpath('//tei:speaker', namespaces=ns):
+    for speaker in doc.xpath('//tei:body//tei:speaker', namespaces=ns):
         found = False
         for ancestor in get_ancestors(speaker):
             if ancestor.tag == '{http://www.tei-c.org/ns/1.0}sp':
