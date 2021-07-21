@@ -1,5 +1,5 @@
 Gasthof „Weidenbusch“
-=================
+=====================
 
 :slug: zum-weidenbusch
 :order: 2
