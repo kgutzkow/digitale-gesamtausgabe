@@ -874,6 +874,14 @@
                                 "text": "text()"
                             },
                             {
+                                "selector": "tei:speaker",
+                                "text": "text()"
+                            },
+                            {
+                                "selector": "tei:stage",
+                                "text": "text()"
+                            },
+                            {
                                 "selector": "tei:citedRange",
                                 "text": "text()"
                             },
@@ -922,6 +930,20 @@
                                 "parser": {
                                     "selector": "substring(@target, 2)"
                                 }
+                            }
+                        }
+                    },
+                    {
+                        "name": "pageBegin",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:pb",
+                            "text": "@n"
+                        },
+                        "serialiser": {
+                            "tag": "tei:pb",
+                            "text": {
+                                "attr": "n"
                             }
                         }
                     },
@@ -978,6 +1000,38 @@
                                 "default": "",
                                 "parser": {
                                     "selector": "substring(@wit, 2)"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "speaker",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "self::tei:speaker"
+                        },
+                        "serialiser": {
+                            "tag": "tei:speaker"
+                        }
+                    },
+                    {
+                        "name": "staging",
+                        "type": "mark",
+                        "parser": {
+                            "selector": "self::tei:stage"
+                        },
+                        "serialiser": {
+                            "tag": "tei:stage"
+                        },
+                        "attrs": {
+                            "type": {
+                                "default": "business",
+                                "parser": {
+                                    "selector": "@type"
+                                },
+                                "serialiser": {
+                                    "attr": "type",
+                                    "value": "{value}"
                                 }
                             }
                         }
