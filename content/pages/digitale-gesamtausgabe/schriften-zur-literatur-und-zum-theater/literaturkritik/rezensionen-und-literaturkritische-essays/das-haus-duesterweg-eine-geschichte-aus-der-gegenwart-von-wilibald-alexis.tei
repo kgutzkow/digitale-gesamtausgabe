@@ -22,7 +22,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 599-600. (Rasch 3.35.06.27.3).</tei:bibl>
+      <tei:bibl>[Anon.:] Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 599-600. (Rasch 3.35.06.27.3)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -34,12 +34,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-12" who="#WolfgangRasch">1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2019-11-30">1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2019-11-30">1.1</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="599"/>
         <tei:seg> 80) </tei:seg>
         <tei:hi style="letter-sparse">Das Haus Düsterweg</tei:hi>
@@ -47,40 +47,40 @@
         <tei:hi style="letter-sparse">Alexis</tei:hi>
         <tei:seg>. Zwei Bände. Leipzig, Brockhaus. 1835.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Wenn man die Überwindung hat, sich hier durch fünfzig Bogen einer ganz nackten Erfindung, durch Briefe voller Räsonnement und Allegorie, durch einen Styl, der auf keinem Beine recht geht, und nun einmal um jeden Preis darauf pikirt ist, den Berliner Straßenjargon zu kopiren, hindurchzuarbeiten, so wird dem Leser immer noch ein Gefühl zurückbleiben, für welches ihm schwer sein wird, Worte zu finden. Es ist nicht die Verwandtschaft dieses Buches mit einigen Schriften von Mundt, welche uns unmuthig macht, nicht die Vergleichung hohler Räsonnements mit eben so unzusammenhängenden aber tiefer begründeten Ideen, wie sie Mundt gibt, sondern die heillose, larmoyante Weltansicht, welche uns an diesem Autor zur Verzweiflung bringen kann. Den Schmerz eines Aristokraten, der sich thränenden Auges an Hallers Restauration der Staatswissenschaften anklammert, können wir verstehen: den Schmerz eines Constitutionellen, der ein zu kleines Vaterland für sein großes Talent hat, den Schmerz des Republikaners, den Schmerz eines Greisen, der mit Göthe lebte, den Schmerz eines jungen Dichters, der mit seinen Idealen früh dem Grabe zureift - das alles können wir verstehen: welche Empfindung bleibt uns aber übrig für eine Stimmung, in welcher alle diese Unbehaglichkeiten zusammen auftreten, für ein Malheur, das aus allen diesen desperaten Ingredienzien zusammengesetzt ist? Wäre die Welt so elend, wie sie hier zum Vorschein kömmt, was lebst du noch in ihr?</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Man klagt die neuere Richtung der Literatur an, daß sie zerrissen wäre, diese Anklage ist falsch. Die neue Literatur ist sehr im Reinen über ihre Zwecke und Bestrebungen: sie ist heitern Sinnes und arbeitet singend im Dienste Gottes und der Natur. Die Zerrissenen sind nur jene Schwächlinge, die wie Schatten zwischen den Partheien hin- und herwanken. Die Zerrissenen sind nur diejenigen, welche die Freiheit beschimpfen, und von ihren Gegnern dafür nicht anerkannt werden. Die Zerrissenen sind nur jene göthischen Bücklingsmenschen, die überall sich neigen und überall anstoßen. An all dem Jammer, der sich in diesem Romane mit einer grausamen Redseligkeit ausspricht, ist nur ein einziger Zug reell, die Klage des Verfassers, daß das Publikum lau wäre. Und dies ist Alles! Und wenn es gelten kann, so gilt es entweder ganz persönlich für den Autor, der gerade diesen Roman geschrieben hat, oder es dürfte niemals ausgesprochen werden, dürfte nicht auf jeder Seite, in jedem Buchstaben durchschimmern; denn es ist gänzlich unwürdig und veranlaßt die Protestation der Autoren, die sich über die Theilnahmslosigkeit des Publikums durchaus nicht zu beklagen haben.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Es ist wahr, man kann manches in diesem Buche liberal nennen. Aber warum müssen wir so unglücklich sein, das anzuhören, was vielleicht nöthig ist, um einige Gutsbesitzer in der Ukermark und Pommern für den Liberalismus zu gewinnen! Warum müssen diese Parthien so unvollständig und die Frage durchaus nicht erschöpfend sein! Es finden sich tausend Abschweifungen auf Büreaukratie, Adelsvorurtheile, Hofetikette; ja, man weiß nicht, wie sie hierher kommen. Der Verfasser zergert und nergert damit nur die Regierungen, und compromittirt den Liberalismus, ohne ihm irgend einen anderweitigen Dienst zu leisten. Der Verfasser schildert eine Revolution, die in Deutschland ausgebrochen wäre. Wo ist sie, wo? Gott, wir sind begierig sie zu sehen! Aber es ist aus den Fingern gesogen; blinder Lärm, der vorwitzig den Teufel an die Wand malt, als wenn er nicht auch so kommen könnte. Die liberale Maschinerie dieses Romans schwebt theoretisch und praktisch in der Luft. Sie schadet dem Autor sowohl, wie der Sache.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:pb n="600"/>
-        <tei:seg> Von allen Seiten wird man zur Versöhnlichkeit aufgefordert: man solle dem Indifferentismus der Menge keine Augenweide geben. Wäre dies die Sprache eines gefallenen Königs; wohlan! Aber es ist die Sprache des Bettlers. Ich gestehe, sehnsüchtig auf ein Buch von W. Alexis gewartet zu haben, von einem Manne, dessen Unmännlichkeit mir im Grunde der Seele zuwider ist, der aber das Gefühl seiner Schwäche hat, der an seiner Situation krank ist, und sich, wie man hoffen konnte, vielleicht emporarbeitet. Ich hätte ihm gern, uneingedenk der Angriffe, welche ich von ihm zu erfahren habe, den kleinen Finger meiner Hand gereicht; aber was läßt sich thun? Ein Buch erscheint, das uns zwingt, fortwährend an den Kopf zu greifen, ob wir ihn noch haben, ob wir nicht durch das Gerede eines Wahnsinnigen selber thöricht geworden sind; ein Buch, worin Allegorie, Zerrissenheit, Redseligkeit die geflickteste Rolle von der Welt spielen, ein Buch, worin es Gedanken gibt, z. B. "Es ist im Grunde einerlei, nach einer Krone greifen, oder nach einer Kasse," Gedanken, die einem Schlafenden im Traume aus dem Munde zu fallen scheinen, so leer und schlottericht sind sie. Möchte man nicht glauben, nur noch die Franzosen könnten Bücher schreiben! Ich fühle dieses Urtheil schmerzlicher, als der Autor. Denn geboren bin ich, alle Welt zu lieben. Noch verzweifl' ich nicht. W. Alexis ist geboren, alle Tage zu sterben, und immer wieder aufzustehen. Er hat es mit Scott, Hoffmann und Tieck versucht, mit der Genremalerei, mit allem, er hat es jetzt mit Mundt versucht, zu dessen modernen Lebenswirren er ein Seitenstück schreiben wollte. Alles mißlungen. Vielleicht glückt es noch. Die Episode: eine Nacht in Hamburg: ist das einzig Leserliche im ganzen Buche und beweist, daß W. Alexis sich nicht versahe, als er den Entschluß faßte, die Feder zu führen. Möchte doch irgendwo ein Pharus leuchten, der ihm zeigte, wie er in's rechte Fahrwasser seines Talentes käme!</tei:seg>
+        <tei:seg> Von allen Seiten wird man zur Versöhnlichkeit aufgefordert: man solle dem Indifferentismus der Menge keine Augenweide geben. Wäre dies die Sprache eines gefallenen Königs; wohlan! Aber es ist die Sprache des Bettlers. Ich gestehe, sehnsüchtig auf ein Buch von W. Alexis gewartet zu haben, von einem Manne, dessen Unmännlichkeit mir im Grunde der Seele zuwider ist, der aber das Gefühl seiner Schwäche hat, der an seiner Situation krank ist, und sich, wie man hoffen konnte, vielleicht emporarbeitet. Ich hätte ihm gern, uneingedenk der Angriffe, welche ich von ihm zu erfahren habe, den kleinen Finger meiner Hand gereicht; aber was läßt sich thun? Ein Buch erscheint, das uns zwingt, fortwährend an den Kopf zu greifen, ob wir ihn noch haben, ob wir nicht durch das Gerede eines Wahnsinnigen selber thöricht geworden sind; ein Buch, worin Allegorie, Zerrissenheit, Redseligkeit die geflickteste Rolle von der Welt spielen, ein Buch, worin es Gedanken gibt, z. B. „Es ist im Grunde einerlei, nach einer Krone greifen, oder nach einer Kasse,“ Gedanken, die einem Schlafenden im Traume aus dem Munde zu fallen scheinen, so leer und schlottericht sind sie. Möchte man nicht glauben, nur noch die Franzosen könnten Bücher schreiben! Ich fühle dieses Urtheil schmerzlicher, als der Autor. Denn geboren bin ich, alle Welt zu lieben. Noch verzweifl’ ich nicht. W. Alexis ist geboren, alle Tage zu sterben, und immer wieder aufzustehen. Er hat es mit Scott, Hoffmann und Tieck versucht, mit der Genremalerei, mit allem, er hat es jetzt mit Mundt versucht, zu dessen modernen Lebenswirren er ein Seitenstück schreiben wollte. Alles mißlungen. Vielleicht glückt es noch. Die Episode: eine Nacht in Hamburg: ist das einzig Leserliche im ganzen Buche und beweist, daß W. Alexis sich nicht versahe, als er den Entschluß faßte, die Feder zu führen. Möchte doch irgendwo ein Pharus leuchten, der ihm zeigte, wie er in’s rechte Fahrwasser seines Talentes käme!</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkows Rezension von Alexis' Roman "Das Haus Düsterweg" wurde zuerst 1835 im "Literaur-Blatt" zum "Phönix" veröffentlicht. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
         <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg>, wo er den Text gekürzt und ohne Überschrift in den Abschnitt </tei:seg>
@@ -89,51 +89,51 @@
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. [Anon.:] Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 599-600. (Rasch 3.35.06.27.3) </tei:seg>
+          <tei:seg>J [Anon.:] Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 25, 27. Juni 1835, S. 599-600. (Rasch 3.35.06.27.3) </tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>E. Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 241-242. (Rasch 2.13.1.7)</tei:seg>
+          <tei:seg>E Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 241-242. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von dem Herausgeber berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
         <tei:lem> darauf pikirt ist, den</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>darauf pikirt ist den</tei:sic>
         <tei:seg> ausgefallenes Satzzeichen</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>der Staatswissenschaften</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>den Staatswissenschaften </tei:sic>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">2,24</tei:citedRange>
         <tei:lem> compromittirt</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>compromitirt </tei:sic>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

@@ -22,7 +22,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>[Anon.:] Madonna. Unterhaltungen mit einer Heiligen. Von Th. Mundt. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 18, 8. Mai 1835, S. 429-430. (Rasch 3.35.05.08.1).</tei:bibl>
+      <tei:bibl>[Anon.:] Madonna. Unterhaltungen mit einer Heiligen. Von Th. Mundt. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 18, 8. Mai 1835, S. 429-430. (Rasch 3.35.05.08.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -34,12 +34,12 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2008-12" who="#WolfgangRasch">1.0</tei:change>
-      <tei:change who="#WolfgangRasch" when="2019-11-30">1.0</tei:change>
+      <tei:change who="#WolfgangRasch" when="2019-11-30">1.1</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="429"/>
         <tei:seg> 50) </tei:seg>
         <tei:hi style="letter-sparse">Madonna</tei:hi>
@@ -47,43 +47,43 @@
         <tei:hi style="letter-sparse">Mundt</tei:hi>
         <tei:seg>. Leipzig, Reichenbach. 1835.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Man weiß nicht recht, ob in diesem Buche der Roman zum Vehikel einer Reisebeschreibung, oder die Reisebeschreibung als Teppich eines Romans dienen soll. Aber dieser ist so wenig wie jene vollendet, wofür der Vf. Rath weiß; denn er nennt sein Buch ein Buch der Bewegung. Über diese Mundt'sche Bewegung war schon vor mehren Wochen in diesem Blatte ein Urtheil zu lesen, auf das ich nur verweisen will. Madonna zeichnet dem, was werden und kommen soll, Riesenkonturen vor, statt daß sie Einzelnes prägnant ausdrücken konnte und Einiges ihrer Ahnungen wenigstens ästhetisch verwirklichen, indem das Neue und Geahnte die Energie und der Stamm der Erfindung geworden wäre. Nur üppiges Laubwerk sind des Verf. Träume, Laub, das unwesentlich um sein Gebild herumraschelt. Konnte die Heldin selbst nicht überwiegender und lebendiger in die Scene des Buches gesetzt werden?</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:seg>Man weiß nicht recht, ob in diesem Buche der Roman zum Vehikel einer Reisebeschreibung, oder die Reisebeschreibung als Teppich eines Romans dienen soll. Aber dieser ist so wenig wie jene vollendet, wofür der Vf. Rath weiß; denn er nennt sein Buch ein Buch der Bewegung. Über diese Mundt’sche Bewegung war schon vor mehren Wochen in diesem Blatte ein Urtheil zu lesen, auf das ich nur verweisen will. Madonna zeichnet dem, was werden und kommen soll, Riesenkonturen vor, statt daß sie Einzelnes prägnant ausdrücken konnte und Einiges ihrer Ahnungen wenigstens ästhetisch verwirklichen, indem das Neue und Geahnte die Energie und der Stamm der Erfindung geworden wäre. Nur üppiges Laubwerk sind des Verf. Träume, Laub, das unwesentlich um sein Gebild herumraschelt. Konnte die Heldin selbst nicht überwiegender und lebendiger in die Scene des Buches gesetzt werden?</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Der Vf. reist aus der Schönhäuserstraße in Berlin nach Böhmen, und lernt bei Teplitz ein Mädchen kennen, die er selbst Madonna tauft, da sie eigentlich nur Maria heißt. Maria wurde in Dresden erzogen und erhielt zum Behuf künftiger Mätressenschaft bei einem Grafen eine ausgezeichnete Bildung. Sie sprengte aber früh diese Fesseln, noch ehe sie niedergeworfen war, und kehrt in das Dorf ihres Vaters zurück. Ihr Geist und ihre Kenntnisse, noch mehr aber die Zweifel am Katholicismus machen sie fähig, all' die transcendentalen Phantasien Mundt's zu verstehen, die er ihr nacheinander aus Teplitz, Prag und Wien über Cultur, Legitimität, Hegel'sche Philosophie u. s. w. mittheilt. Endlich erfahren wir, daß Madonna inzwischen nach München gereist und dort in der vom Vf. ganz mit Unrecht erhobenen protestantischen Kirche (die die prosaischste Bauart von der Welt hat) zur Augsburgischen Confession übergetreten ist. Wie das kam und gerade im katholischen München kommen mußte, bleibt ungesagt; denn der Vf. bricht sein Buch ab.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Der Vf. reist aus der Schönhäuserstraße in Berlin nach Böhmen, und lernt bei Teplitz ein Mädchen kennen, die er selbst Madonna tauft, da sie eigentlich nur Maria heißt. Maria wurde in Dresden erzogen und erhielt zum Behuf künftiger Mätressenschaft bei einem Grafen eine ausgezeichnete Bildung. Sie sprengte aber früh diese Fesseln, noch ehe sie niedergeworfen war, und kehrt in das Dorf ihres Vaters zurück. Ihr Geist und ihre Kenntnisse, noch mehr aber die Zweifel am Katholicismus machen sie fähig, all’ die transcendentalen Phantasien Mundt’s zu verstehen, die er ihr nacheinander aus Teplitz, Prag und Wien über Cultur, Legitimität, Hegel’sche Philosophie u. s. w. mittheilt. Endlich erfahren wir, daß Madonna inzwischen nach München gereist und dort in der vom Vf. ganz mit Unrecht erhobenen protestantischen Kirche (die die prosaischste Bauart von der Welt hat) zur Augsburgischen Confession übergetreten ist. Wie das kam und gerade im katholischen München kommen mußte, bleibt ungesagt; denn der Vf. bricht sein Buch ab.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Alles, was Mundt in Beziehung auf seine Heldin erfindet, ist genial und hinreißend schön dargestellt, und läßt uns aller Wege wünschen, daß er mehr von seinem heillosen Räsonnement hätte Fleisch und Blut werden lassen. Der Spiritualismus Madonna's bezaubert, ihre Bekenntnisse wird man mit Entzücken lesen. Hier wird selbst das Detail, die Scene mit ihrem Genre meisterhaft. Wie launig wird der alte Schulmeister mit Casanova düpirt, den er für einen Heiligen hält! Welche satte Pinselstriche sind in dem schönen Gemälde von Madonna's Versuchung, wo des Mädchens Ergriffenwerden von einer ihr selbst verhaßten Wollust, ihr halber Kampf, die Stummheit des Ringens mit bewußter Kunst wiedergegeben wird! Das Gespräch mit Madonna, wie unwirklich es ist und wie unmöglich, so ist es doch durch und durch wahrhaftig, nach jenem </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Alles, was Mundt in Beziehung auf seine Heldin erfindet, ist genial und hinreißend schön dargestellt, und läßt uns aller Wege wünschen, daß er mehr von seinem heillosen Räsonnement hätte Fleisch und Blut werden lassen. Der Spiritualismus Madonna’s bezaubert, ihre Bekenntnisse wird man mit Entzücken lesen. Hier wird selbst das Detail, die Scene mit ihrem Genre meisterhaft. Wie launig wird der alte Schulmeister mit Casanova düpirt, den er für einen Heiligen hält! Welche satte Pinselstriche sind in dem schönen Gemälde von Madonna’s Versuchung, wo des Mädchens Ergriffenwerden von einer ihr selbst verhaßten Wollust, ihr halber Kampf, die Stummheit des Ringens mit bewußter Kunst wiedergegeben wird! Das Gespräch mit Madonna, wie unwirklich es ist und wie unmöglich, so ist es doch durch und durch wahrhaftig, nach jenem </tei:seg>
         <tei:pb n="430"/>
         <tei:seg> höhern Maaßstabe, der an den erfindenden, nicht kopirenden Dichter gelegt werden muß.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Die Räsonnements des Buches betreffend, so wollen wir nicht von allen sagen, daß sie ermüdend sind. Mehre Charakteristiken zeichnen sich aus; die Parallele zwischen den beiden Jean Jacques, zwischen Don Juan und Faust ist klassisch. Aber das Meiste daran thut weh: der Verfasser ringt sich gewaltsam etwas ab, was im Grunde Niemand von ihm verlangt. Nicht nur, daß Allgemeinheiten wenig nützen, daß Mundt's im vorigen Jahr erschienener "moderner Lebenszwirn" kein faktisches Loch zugenäht hat, so kränkt uns die sonderbare Art, von der sich der Vf. fast willenlos rütteln und schütteln läßt. Wer sonstige Ressourcen seines Talents hat, soll die Genialität nicht forciren. Mundt wird als Denker und Stylist niemals genial, er mag sich kopfübern wie er will. Es paßt die Überschwänglichkeit nicht für seinen durchaus kritischen Geist. Es ist eine ganz unnatürliche Grimasse, mit der sich Mundt seinen Bewegungsjubel </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Die Räsonnements des Buches betreffend, so wollen wir nicht von allen sagen, daß sie ermüdend sind. Mehre Charakteristiken zeichnen sich aus; die Parallele zwischen den beiden Jean Jacques, zwischen Don Juan und Faust ist klassisch. Aber das Meiste daran thut weh: der Verfasser ringt sich gewaltsam etwas ab, was im Grunde Niemand von ihm verlangt. Nicht nur, daß Allgemeinheiten wenig nützen, daß Mundt’s im vorigen Jahr erschienener „moderner Lebenszwirn“ kein faktisches Loch zugenäht hat, so kränkt uns die sonderbare Art, von der sich der Vf. fast willenlos rütteln und schütteln läßt. Wer sonstige Ressourcen seines Talents hat, soll die Genialität nicht forciren. Mundt wird als Denker und Stylist niemals genial, er mag sich kopfübern wie er will. Es paßt die Überschwänglichkeit nicht für seinen durchaus kritischen Geist. Es ist eine ganz unnatürliche Grimasse, mit der sich Mundt seinen Bewegungsjubel </tei:seg>
         <tei:hi style="letter-sparse">abtrotzt</tei:hi>
-        <tei:seg>. Mundt ist ein durchaus reflektiver, vermittelnder Kopf, der niemals an das glauben sollte, was ihm gerade einfällt. Aber es scheint, als legt' er es darauf an, das Unmittelbare, das, was seinem Geschmacke selbst widerstrebt, für das Nöthige zu halten: es scheint, als begleite ihn, indem er schreibt, der parallele Gedanke: du läßt es eben laufen! Wie glücklich sind die Menschen und Dinge, die einer solchen Desperation in den Weg kommen. Ich möchte von Mundt nicht gelobt sein; denn morgen müßt' ich gewärtigen, daß er es wiederriefe. Er rennt Alles um, je nachdem ihm die Laune steht oder je nachdem ihm seine innere literarische Unruhe, eine Art von Gewissen, wieder aufschreckt und ihm zuflüstert, es gucke ihm schon wieder das Muttersöhnchen und das Genie der Dachstube aus dem Ärmel. Die Mundt'sche Bewegung ist die Zeit im Tretrade: während die rechte Bewegung gesetzt vorwärtsschreitet, mit bestimmten Zwecken im Auge, und sicher, fest in jeder ihrer Tendenzen ist. Mundt ist ein weit besserer Poet, als Philosoph; kein Offenbarungspoet, aber eine gesättigte, kritische, durch Literaturgeschichte reife Phantasie, die über ihrem Gegenstande steht, und sich einen gewissen bescheidenen Instinkt als wirkliche Mitgabe der Natur, trotz aller gelehrten Verhältnisse, erhalten hat. Ich glaube, daß er in dieser Art ganz positive Gebilde schaffen kann.</tei:seg>
+        <tei:seg>. Mundt ist ein durchaus reflektiver, vermittelnder Kopf, der niemals an das glauben sollte, was ihm gerade einfällt. Aber es scheint, als legt’ er es darauf an, das Unmittelbare, das, was seinem Geschmacke selbst widerstrebt, für das Nöthige zu halten: es scheint, als begleite ihn, indem er schreibt, der parallele Gedanke: du läßt es eben laufen! Wie glücklich sind die Menschen und Dinge, die einer solchen Desperation in den Weg kommen. Ich möchte von Mundt nicht gelobt sein; denn morgen müßt’ ich gewärtigen, daß er es wiederriefe. Er rennt Alles um, je nachdem ihm die Laune steht oder je nachdem ihm seine innere literarische Unruhe, eine Art von Gewissen, wieder aufschreckt und ihm zuflüstert, es gucke ihm schon wieder das Muttersöhnchen und das Genie der Dachstube aus dem Ärmel. Die Mundt’sche Bewegung ist die Zeit im Tretrade: während die rechte Bewegung gesetzt vorwärtsschreitet, mit bestimmten Zwecken im Auge, und sicher, fest in jeder ihrer Tendenzen ist. Mundt ist ein weit besserer Poet, als Philosoph; kein Offenbarungspoet, aber eine gesättigte, kritische, durch Literaturgeschichte reife Phantasie, die über ihrem Gegenstande steht, und sich einen gewissen bescheidenen Instinkt als wirkliche Mitgabe der Natur, trotz aller gelehrten Verhältnisse, erhalten hat. Ich glaube, daß er in dieser Art ganz positive Gebilde schaffen kann.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
         <tei:seg>Gutzkows Rezension von Mundts Roman "Madonna" wurde zuerst 1835 im "Literaur-Blatt" zum "Phönix" veröffentlicht. Die Rezension verwendete Gutzkow ein Jahr später in seinen </tei:seg>
         <tei:q>Beiträgen zur Geschichte der neuesten Literatur</tei:q>
         <tei:seg>, wo er den Text stark gekürzt und ohne Überschrift in den Abschnitt </tei:seg>
@@ -92,25 +92,25 @@
       </tei:p>
       <tei:list type="sources">
         <tei:item data-source-id="J">
-          <tei:seg>J. [Anon.:] Madonna. Unterhaltungen mit einer Heiligen. Von Th. Mundt. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 18, 8. Mai 1835, S. 429-430. (Rasch 3.35.05.08.1) </tei:seg>
+          <tei:seg>J [Anon.:] Madonna. Unterhaltungen mit einer Heiligen. Von Th. Mundt. In: Phönix. Literatur-Blatt. Frankfurt/M. Nr. 18, 8. Mai 1835, S. 429-430. (Rasch 3.35.05.08.1) </tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
-          <tei:seg>E. Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 351-353. (Rasch 2.13.1.7)</tei:seg>
+          <tei:seg>E Roman. In: Karl Gutzkow: Beiträge zur Geschichte der neuesten Literatur. Stuttgart: Balz, 1836. Bd. 1, S. 351-353. (Rasch 2.13.1.7)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>

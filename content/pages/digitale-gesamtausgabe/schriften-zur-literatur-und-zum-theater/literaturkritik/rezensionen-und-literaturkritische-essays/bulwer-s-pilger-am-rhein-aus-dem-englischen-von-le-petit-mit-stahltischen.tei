@@ -38,7 +38,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="335"/>
         <tei:seg> 37) Bulwer’s </tei:seg>
         <tei:ref type="esv" target="#annotation-1">
@@ -52,7 +52,7 @@
         <tei:ref type="esv" target="#annotation-3">Mit Stahlstichen</tei:ref>
         <tei:seg>. Quedlinburg, Hanewald. 1834.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Obgleich es schon zu spät ist, von diesem Bulwerschen Romane zu sagen, daß er, im strengsten Sinne des Worts, auf </tei:seg>
         <tei:ref type="esv" target="#annotation-4">schwindsüchtige Motive</tei:ref>
         <tei:seg> gebaut ist und außerdem viele Erwartungen getäuscht hat, so kann ich doch davon diese </tei:seg>
@@ -64,13 +64,13 @@
         <tei:seg> in Deutschland zu beschämen.</tei:seg>
       </tei:p>
       <tei:interp type="esv" xml:id="annotation-1">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,1</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Pilger am Rhein]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Edward Lytton Bulwers Roman „The Pilgrims of the Rhine“ (→ Lexikon: Bulwer: Bulwer und Deutschland) erschien 1834 bei Saunders &amp; Otley in London und bietet ein Musterbeispiel für die damalige Übersetzungsindustrie (→ Gutzkows Kritik </tei:seg>
           <tei:q>Die Deutschen Uebersetzungsfabriken</tei:q>
           <tei:seg>) sowie für den beginnenden Absatz an illustrierter Literatur. Der Roman erlebte bereits im Jahr seines Erscheinens mehrere englischsprachige Ausgaben im Ausland (New York: Harper; Paris: Baudry; Leipzig: Fleischer; Frankfurt/M.: Jügel) sowie eine Übersetzung ins Französische (von J. Cohen unter dem Titel „Les pèlerins au bord du Rhin“, Paris: Fournier) und nicht weniger als vier Übersetzungen ins Deutsche. Drei davon wurden für die parallel laufenden deutschen Bulwer-Gesamtausgaben angefertigt (Aachen: Mayer; Übs. Louis Lax; Zwickau: Schumann; Übs. nicht ermittelt, und Stuttgart: Metzler; Übs. Friedrich Notter; zu diesen deutschen Bulwer-Ausgaben → </tei:seg>
@@ -79,92 +79,92 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-2">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">le Petit]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Friedrich (Frederik) Carl Petit (1809-1854) stammte aus Kopenhagen und war mit Hans Christian Andersen befreundet. Es ist nicht bekannt, wann und wo er Gutzkow begegnete; vielleicht bei dessen Aufenthalt in Hamburg im Sommer 1834. Gutzkow selbst macht folgende Angaben über Le Petit: </tei:seg>
           <tei:q>Er gehört durch Geburt jenem norddeutschen Gränzlande an, welchem wir Rapssaat, leichte Friedrichsd’ore, Oehlenschläger, und Anderes verdanken. Das Schicksal verschlug ihn in alle Gegenden der Windrose, er sah England, Frankreich, Italien, und dies Alles, um in Quedlinburg, in der Nähe Basse’s [Gottfried Basse, Verleger u. a. von historischen Kolportage-Romanen] und seiner Aranzes und Marmorinos, seiner Gerillos und Guavannis sein gestrandetes Lebensschiff wieder zu kalfatern und zusammenzulesen.</tei:q>
           <tei:seg> (Vorrede in „Dr. Le Petits ausführliche Erklärung der Hogarthischen Kupferstiche“, S. III; → Erl. zu 1,9-10.) - Zu Le Petits Werken zählen Übersetzungen aus dem Englischen und Französischen: außer der hier besprochenen Bulwer-Übersetzung z. B. eine der erweiterten zweiten Auflage (1837) von John Lang Dunmore: „An Historical and Statistical Account of New South Wales“, unter dem Titel „Neu-Süd-Wales: als Strafansiedlung und britische Colonie historisch und statistisch dargestellt“ (Quedlinburg, Leipzig: Basse, 1840). Für denselben Verlag übersetzte Le Petit auch die Memoiren Mirabeaus (4 Bde., 1835-36) sowie die Geschichte der Pariser Salons von der Duchesse d’Abrantès: „Die Salons von Paris: Gemälde und Portraits aus der großen Welt unter Ludwig XVI., dem Directorium, dem Consulat und dem Kaiserreich, unter der Restauration und der Regierung Ludwig Philipp’s I.“ (6 Bde., 1838-40). An eigenständigen Arbeiten lieferte er ethnographisch-soziologische Skizzen: „Sittengallerie der Nationen. Das Buch der Völker in Bildern und Vignetten“ (Mannheim: Hoff, 1836), und trug auf diese Weise zu der genrebildlichen Literatur der 1830er Jahre bei, die visuelle Paradigmen für eine unterhaltsam-analytische Gegenwartsschilderung fruchtbar machte (→ Lexikon: Paris, ou Le Livre des Cent-et-un). Es scheint bezeichnend, dass Le Petit sich für eine illustrierte Übersetzung von Bulwers „Pilgrims of the Rhine“ engagieren ließ, denn sein Interesse galt ganz offensichtlich dem Zusammenspiel von Bild und Text, das ab den 1830er Jahren durch Entwicklung neuer Reproduktionstechniken hoch im Kurs stand (→ Lexikon: Illustrierte Periodika). Vgl. auch sein „Luther und Faust in Vignetten zu deutschen Dichtern. Ein literarisches Fibelbuch“ (Leipzig: Hartmann, 1834) und seinen Hogarth-Kommentar (→ Erl. zu 1,9-10).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-3">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Mit Stahlstichen]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Im 19. Jahrhundert wurde der Kupferstich durch den billigeren und für hohe Auflagen besser geeigneten Stahlstich verdrängt. „Charakteristisch“ für diesen ist „das feinlinierte, helllichtig-spröde, oft etwas trocken wirkende Strichbild. Die Auflagenhöhe bewegt sich zwischen 20 000 und 100 000 Blatt. Geeignet war der S[tahlstich] für Reproduktionswerke, insbesondere für wissenschaftliche Buchillustrationen, Landkarten und Veduten [...]. Für Briefköpfe und Briefmarkendruck wird der S[tahlstich] noch bis ans Ende des 20. Jahrhunderts verwendet. Erfunden wurde die Technik von den Amerikanern Perkens und Fairman um 1817. Sie wurde dann in Europa für den englischen Kupferstecher Charles Heath (1820) patentiert. In Deutschland hat sie erstmals Ludwig Frommel um 1825 ausgeübt. Zwischen 1830 und 1860 war der S[tahlstich] nach der Lithografie und neben dem Holzstich eines der dominierenden gebrauchsgrafischen Medien“ (Art. ,Stahlstich, Siderografie‛. In: Ernst Rebel: Druckgrafik. Geschichte. Fachbegriffe. Mit 55 Abbildungen und Risszeichnungen. Stuttgart: Reclam, 2003. S. 249).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-4">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,5-6</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">schwindsüchtige Motive]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die weibliche Hauptfigur von Bulwers Romanze stirbt an Tuberkulose.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-5">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,7-8</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">vortreffliche Übersetzung]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Die so positive Beurteilung Le Petits als Übersetzer erklärt sich auch aus der Tatsache, dass Gutzkow mit diesem Literatur- und Bilderkenner in einem anderen bibliophilen Unternehmen liiert war: in der Fortsetzung des Lichtenbergschen Kommentars zu Hogarths Kupferstichen. Im Jahr dieser Rezension, 1835, erschien bei Dieterich in Göttingen „Dr. le Petits ausführliche Erklärung der Hogarthischen Kupferstiche mit verkleinerten aber vollständigen Copien derselben von E. Riepenhausen herausgegeben von Karl Gutzkow“. Gutzkows → Vorrede (→ Erl. zu 1,3) datiert vom Dezember 1834. In einer knappen Rezension dieses Werkes rühmt Gutzkow wiederum Le Petits </tei:seg>
           <tei:q>farbensatten Styl, seinen Witz und die Kraft seiner Phantasie</tei:q>
           <tei:seg> (Phönix. Frankfurt/M. Literatur-Blatt. Nr. 28, 18. Juli 1835, S. 672, Sp. 1. [Rasch 3.35.07.18.2]).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-6">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,9-10</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die Zeichnung zu der Mehrzahl der neun beigefügten Stahlstiche]</tei:citedRange>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg> </tei:seg>
           <tei:metamark function="missing"> Zu ermitteln: vermutlich nach den Zeichnungen der Londoner Originalausgabe. </tei:metamark>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-7">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:citedRange type="page-line-ref">1,14-15</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">den alten Schlendrian packleinerner Bücherausstattung]</tei:citedRange>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>In der Buchgestaltung waren deutsche Verlage des ersten Jahrhundertdrittels gegenüber denen Englands und Frankreichs im Hintertreffen. Das lag unter anderem an der verspäteten Entwicklung einer Infrastruktur für Holzstichillustrationen. Als einer der ersten kümmerte sich J. J. Weber in Leipzig, Verleger der „Illustrirten Zeitung“, um bibliophil ausgestattete Bände (→ Lexikon: Weber).</tei:seg>
         </tei:p>
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -172,11 +172,17 @@
           <tei:seg>J [Anon.:] Bulwer’s Pilger am Rhein. Aus dem Englischen von le Petit. Mit Stahlstichen. Quedlinburg, Hanewald. 1834. In: Phönix. Frankfurt/M. Literatur-Blatt. Nr. 14, 8. April 1835, S. 335. (Rasch 3.35.04.08.3)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p style="text-left">
-        <tei:seg> J. Der Text folgt in Orthographie und Interpunktion unverändert dem Journaldruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Journaldruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
   </tei:text>
