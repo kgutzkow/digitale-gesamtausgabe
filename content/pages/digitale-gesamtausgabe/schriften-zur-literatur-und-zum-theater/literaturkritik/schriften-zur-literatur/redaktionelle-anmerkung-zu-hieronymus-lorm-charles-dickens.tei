@@ -38,7 +38,7 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="270"/>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">[Redaktionelle Anmerkung zu Hieronymus Lorm: </tei:hi>
@@ -47,7 +47,7 @@
         <tei:seg>“</tei:seg>
         <tei:hi style="font-style-italic">]</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
         <tei:seg>So sehr wir mit dem Herrn Verfasser über die Belohnungen einverstanden sind, welche der das Leben verschönernden Phantasie der Dichter gebühren, so müssen wir doch in Betracht des </tei:seg>
         <tei:ref type="esv" target="#annotation-1">Romans „Bleakhouse“</tei:ref>
         <tei:seg> von Dickens hinzufügen, daß sein Werth nicht nach </tei:seg>
@@ -122,22 +122,22 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4">
+      <tei:head type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -145,19 +145,19 @@
           <tei:seg>J D[er] Her[ausgeber]: [Redaktionelle Anmerkung zu Hieronymus Lorm: Charles Dickens]. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 2. Nr. 17, [21. Januar] 1854, S. 270. (Rasch 3.54.01.21.1)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.5" first-line-indent="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -165,9 +165,9 @@
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Lorms Kritik und Gutzkows Anmerkung sind im Kontext der Auseinandersetzung mit Englands avanciertem ‚Materialismus‛ zu sehen, wobei dieser Begriff sowohl für die Formen der literarischen Darstellung als auch für die Methoden der Vermarktung von Literatur gilt. Bereits 1839 hatte sich Gutzkow als Redakteur des „Telegraph für Deutschland“ veranlasst gesehen, eine Dickens-Rezension (in diesem Fall von Levin Schücking) durch eine Anmerkung zu modifizieren (→ Redaktionelle Anmerkung zu Levin Schücking: Neu-Englischer Humor). Schückings Kritik galt Dickens’ Humor, der mit der Drastik seines Realismus nicht im Einklang stehe, und Gutzkow pointierte diese Kritik noch durch den polemischen Hinweis auf die </tei:seg>
-        <tei:q>
-          <tei:hi style="letter-sparse">Häßlichkeit</tei:hi>
-        </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Häßlichkeit</tei:q>
+        </tei:hi>
         <tei:seg> von Boz’ Schöpfungen sowie die </tei:seg>
         <tei:q>stinkige, ordinäre Unfläterei der pseudo-humoristischen Romane</tei:q>
         <tei:seg> Englands mit ihrem </tei:seg>
