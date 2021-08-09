@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -36,12 +35,11 @@
     <tei:revisionDesc>
       <tei:change when="2003-09" who="#MartinaLauster">1.0</tei:change>
       <tei:change when="2008-12" who="#MartinaLauster">1.0</tei:change>
-
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="193"/>
         <tei:seg> </tei:seg>
         <tei:ref type="esv" target="#annotation-2">Naturgeschichte</tei:ref>
@@ -49,14 +47,14 @@
         <tei:ref type="esv" target="#annotation-3">deutschen Kameele</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:head>
-      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:hi style="font-size-small">(Vorgetragen im </tei:hi>
         <tei:ref type="esv" target="#annotation-4">
           <tei:hi style="font-size-small">Frankfurter Museum</tei:hi>
         </tei:ref>
         <tei:hi style="font-size-small">.)</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Ich weiß nicht, ob es der </tei:seg>
         <tei:ref type="esv" target="#annotation-5">Geologie</tei:ref>
         <tei:seg> ebenso geht, wie der </tei:seg>
@@ -71,7 +69,7 @@
         <tei:ref type="esv" target="#annotation-9">nicht ausgestorben</tei:ref>
         <tei:seg>, sondern gedeiht noch immer vortrefflich in Deutschland; das sind die Kameele.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Glückliche Zeit, </tei:seg>
         <tei:ref type="esv" target="#annotation-10">wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen</tei:ref>
         <tei:seg>, keine Oper in Mannheim versäumten und uns an </tei:seg>
@@ -106,7 +104,7 @@
         <tei:ref type="esv" target="#annotation-18">der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde</tei:ref>
         <tei:seg> bei lebendigem Leibe an naturwissenschaftliche Museumsvorsteher und sonstige Liebhaber, da hat gewiß manches Kameel von Professor still bei sich gedacht: ob das wohl auch ein ächter Elephant wäre! Wahrlich, dieser Zweifel charakterisirt vollkommen die erste Klasse, welche wir vorzugsweise Dromedare genannt haben.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Auch von der zweiten Race, von der moralischen, muß ich zugeben, daß sie sich mehr dem </tei:seg>
         <tei:ref type="esv" target="#annotation-19">amerikanischen Kameele</tei:ref>
         <tei:seg> nähert, dem Lama. Denn es ist Mitleid, was man für sie empfindet. Alles, was penible und prüde Grundsätze hat, gehört hierher; z. B. diejenigen, welche glauben, man habe den Kopf nicht zum Denken, sondern zum Hängenlassen. Alle diese </tei:seg>
@@ -117,7 +115,7 @@
         <tei:ref type="esv" target="#annotation-22">in der Bibel heißt, daß sie durch ein Nadelöhr gehen</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Nun aber seh’ ich endlich dich, gesellschaftliche Gattung, die du sein solltest ein leichtes, gazellenartiges Geschlecht, und schwerfällig auftrittst mit Bedenklichkeiten, Einwendungen, verdrießlichen Mienen, mit der man keine Parthie arrangiren kann, der es hier zu heiß, dort zu kalt, da nichts links, hier nichts recht ist. Das sind die wahren Umgangskameele, die unausstehlichsten von allen. Besucht man sie, so kommt man nicht zu rechter Zeit; die Gardinen sind gerad’ in der Wäsche, und ihr ewiger Refrain scheint zu sein: Gott, ich bin so beschäftigt, ich will ja heute über vierzehn Tage verreisen! Gleichsam, als wenn </tei:seg>
         <tei:hi style="letter-sparse">sie</tei:hi>
         <tei:seg> uns nicht Langeweile machten. Man betrachte nur ein solches Kameel, wenn es ausgehen will, und sich nicht entschließen kann, ob es den Regenschirm mitnehmen soll. Dann wird gesehen nach Himmel und Erde, die Hand zum Fenster hinausgestreckt, wieder ein andrer Rock angezogen, dann ist das </tei:seg>
@@ -126,14 +124,14 @@
         <tei:pb n="195"/>
         <tei:seg> wieder einmal losgegangen, dann wird der Kalender nachgeschlagen; kurz, es ist nicht zum Aushalten!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Wann wird diese Thiergattung aussterben? Sie ist lästig in der Liebe, in der Freundschaft, in der Ehe, in der Erziehung, in allen Berührungen, wo man heitre Laune, wenn nicht besitzen kann, doch immer sich schaffen soll. Wie unglücklich das Mädchen, in welches sich ein solcher Umstandsprinz verliebt! Sie tanzt ihm zu viel; und sie tanzt doch nur mit ihm. Sie spricht zu freundlich mit den Leuten; und sie thut es doch nur, um zu zeigen, daß er ihr keine böse Laune macht! Ein solches verliebtes Kameel ist eine Plage der Menschheit. Es verspricht seiner Braut die abscheulichsten Dinge: ein eignes Familienbegräbniß, eine Aktie in der </tei:seg>
         <tei:ref type="esv" target="#annotation-24">Gothaer Lebensversicherungs-Anstalt</tei:ref>
         <tei:seg>; kurz, man kann sich denken, was erst kommen wird nach der Hochzeit. Ich kenne das nicht, aber man behauptet, die verheiratheten Kameele wären unerträglich. Sie sollen lebendige Rechnungsmaschinen sein, an den Fingern zählen und den ganzen Tag etwas vor sich hinmurmeln, was kein Mensch versteht. </tei:seg>
         <tei:ref type="esv" target="#annotation-25">Er liebt Oberrad, sie liebt Niederrad</tei:ref>
         <tei:seg>. Er will nach dem Melibokus, sie nach dem Taunus.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Und in der Erziehung ist es auch so. Ich sage nichts von den Lehrern, die oft noch von der Universität her ganz horrende Kameele sind, und bei denen die Langeweile zum Handwerk gehört; aber im Hause selbst, man hört das ja, ist ewige Plage mit der Ausbildung des Geistes und der Erweckung des Nachdenkens. Der Sohn soll einmal in’s Geschäft, und frägt der Vater, was er lernt, so sind’s lateinische Vocabeln. Vergebens, daß die Mutter spricht, es wäre doch abscheulich, wenn der Junge </tei:seg>
         <tei:hi style="letter-sparse">A</tei:hi>
         <tei:seg>then statt At</tei:seg>
@@ -150,7 +148,7 @@
         <tei:ref type="esv" target="#annotation-28">nach der Zahlmethode 1, 3, 5, 8</tei:ref>
         <tei:seg>, und was denn das wäre, neulich hätte das Kind verlangt, der Vater solle sogar auf das neue Journal abonniren. Mit einem Worte, ich glaube, das gesellschaftliche Kameel gezeichnet zu haben, wie es ißt und trinkt, in seiner ganzen afrikanischen Wildheit, wie es nur jemals durch die vaterländische Wüste gallopirt ist.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Und so schließ’ ich diese </tei:seg>
         <tei:ref type="esv" target="#annotation-29">Monographie</tei:ref>
         <tei:seg>, welche ich für einen wesentlichen Beitrag zu </tei:seg>
@@ -161,7 +159,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,1</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Naturgeschichte]</tei:seg>
+          <tei:seg>Naturgeschichte</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -178,7 +177,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,1</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>deutschen Kameele]</tei:seg>
+          <tei:seg>deutschen Kameele</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -191,7 +191,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,2</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Frankfurter Museum]</tei:seg>
+          <tei:seg>Frankfurter Museum</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -228,7 +229,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,10-11</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>die Naturforscher auf deutschen Gebirgen]</tei:seg>
+          <tei:seg>die Naturforscher auf deutschen Gebirgen</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -239,7 +241,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,14</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Mammuths]</tei:seg>
+          <tei:seg>Mammuths</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -250,7 +253,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,15-16</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>auf dem Taunus oder der Schwäbischen Alb]</tei:seg>
+          <tei:seg>auf dem Taunus oder der Schwäbischen Alb</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -261,7 +265,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,20</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>nicht ausgestorben]</tei:seg>
+          <tei:seg>nicht ausgestorben</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -278,7 +283,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,22-23</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen]</tei:seg>
+          <tei:seg>wo wir an dem rauschenden Neckar die Weihe der Wissenschaft empfingen</tei:seg>
+          <tei:seg>]</tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>Gutzkow, bereits mit dem Doktortitel der Universität Jena versehen, hatte von Herbst 1832 bis Frühjahr 1833 in Heidelberg Jura-Vorlesungen besucht. In den </tei:seg>
@@ -311,7 +317,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,26-27</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>in dem Strome dieser Welt bildeten sich unsere Charaktere]</tei:seg>
+          <tei:seg>in dem Strome dieser Welt bildeten sich unsere Charaktere</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -322,7 +329,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>1,29-30</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>von dem Charakter unserer Freunde Federn zu lesen]</tei:seg>
+          <tei:seg>von dem Charakter unserer Freunde Federn zu lesen</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -333,7 +341,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>2,8</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Kameel]</tei:seg>
+          <tei:seg>Kameel</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -344,7 +353,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>2,24</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Büffon’s]</tei:seg>
+          <tei:seg>Büffon’s</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -355,7 +365,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>2,25-26</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>diese Race überhaupt in drei Gattungen einzutheilen]</tei:seg>
+          <tei:seg>diese Race überhaupt in drei Gattungen einzutheilen</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -366,7 +377,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>3,9</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Quincaillerien]</tei:seg>
+          <tei:seg>Quincaillerien</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -374,23 +386,25 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-18">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>3,28-29</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde]</tei:seg>
+          <tei:seg>der Elephant der Mad. Tourniaire in Zeitungen ausgeboten wurde</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:seg>Philippine Tourniaire, geb. Rödinger (1780-1850), war ursprünglich Kunstreiterin und führte zuerst mit ihrem Mann Jacques, später selbständig, eine Wandermenagerie. Diese enthielt zu ihren Glanzzeiten 35 Tiere, darunter ein Nashorn und einen Elefanten. Madame Tourniaire verkaufte die Menagerie 1824, behielt aber das Nashorn und den Elefanten. Vgl. Art. ,Jacques Tourniaire‛, https://de.wikipedia.org/wiki/Jacques_Tourniaire, Zugang 14.°Juni 2021). Der sonst zahme Elefant wurde bei einem Aufenthalt in Bayreuth Anfang 1835 unbändig und wurde zum Kauf </tei:seg>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Philippine Tourniaire, geb. Rödinger (1780-1850), war ursprünglich Kunstreiterin und führte zuerst mit ihrem Mann Jacques, später selbständig, eine Wandermenagerie. Diese enthielt zu ihren Glanzzeiten 35 Tiere, darunter ein Nashorn und einen Elefanten. Madame Tourniaire verkaufte die Menagerie 1824, behielt aber das Nashorn und den Elefanten. Vgl. Art. ,Jacques Tourniaire‛, https://de.wikipedia.org/wiki/Jacques_Tourniaire, Zugang 14. Juni 2021). Der sonst zahme Elefant wurde bei einem Aufenthalt in Bayreuth Anfang 1835 unbändig und wurde zum Kauf </tei:seg>
           <tei:q>ausgeboten</tei:q>
-          <tei:seg>: „Der Elephant hat im Ankauf 30,000°Frks, also etwa 14,000°fl. gekostet, und jetzt will ihn Mad. Tourniaire um 4,000°fl. verkaufen. Etwaige Kaufliebhaber wollen sich an die Redaktion dieses Blattes wenden.“ (Allgemeine Zeitung von und für Bayern. Nürnberg. Nr.°23, 23.°Januar 1835, S.°93). Der Elefant erlitt bei einem Aufenthalt in Warschau 1837 schließlich einen qualvollen Vergiftungstod, sein Kadaver wurde in ein naturhistorisches Kabinett geschleppt und soll seiner Besitzerin „3000 poln. Gulden (ungefähr 1700-1800°Frks)“ Entschädigung erbracht haben (Der bayerische Eilbote. München. Nr.°30, 11.°März 1837, S.°122).</tei:seg>
+          <tei:seg>: „Der Elephant hat im Ankauf 30,000 Frks, also etwa 14,000 fl. gekostet, und jetzt will ihn Mad. Tourniaire um 4,000 fl. verkaufen. Etwaige Kaufliebhaber wollen sich an die Redaktion dieses Blattes wenden.“ (Allgemeine Zeitung von und für Bayern. Nürnberg. Nr. 23, 23. Januar 1835, S. 93). Der Elefant erlitt bei einem Aufenthalt in Warschau 1837 schließlich einen qualvollen Vergiftungstod; sein Kadaver wurde in ein naturhistorisches Kabinett geschleppt und soll seiner Besitzerin „3000 poln. Gulden (ungefähr 1700-1800 Frks)“ Entschädigung erbracht haben (Der bayerische Eilbote. München. Nr. 30, 11. März 1837, S. 122).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-19">
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>4,2</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>amerikanischen Kameele]</tei:seg>
+          <tei:seg>amerikanischen Kameele</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -401,7 +415,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>4,6</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Jammergestalten]</tei:seg>
+          <tei:seg>Jammergestalten</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -416,7 +431,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>4,9-10</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>lesen Göthe nicht, weil sie glauben, er werde ihre Sitten verderben]</tei:seg>
+          <tei:seg>lesen Göthe nicht, weil sie glauben, er werde ihre Sitten verderben</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -427,18 +443,20 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>4,29</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>in der Bibel heißt, daß sie durch ein Nadelöhr gehen]</tei:seg>
+          <tei:seg>in der Bibel heißt, daß sie durch ein Nadelöhr gehen</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-          <tei:seg>Die Worte Jesu, dass eher ein Kamel durch ein Nadelöhr gehe als ein Reicher in Himmel komme, sind in den Evangelien überliefert (Mt 19,24, Mk 10,25, Lk 18,25).</tei:seg>
+          <tei:seg>Die Worte Jesu, dass eher ein Kamel durch ein Nadelöhr gehe als ein Reicher in den Himmel komme, sind in den Evangelien überliefert (Mt 19,24; Mk 10,25; Lk 18,25).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-23">
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>5,11</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Fischbein]</tei:seg>
+          <tei:seg>Fischbein</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -449,7 +467,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>5,23-24</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Gothaer Lebensversicherungs-Anstalt]</tei:seg>
+          <tei:seg>Gothaer Lebensversicherungs-Anstalt</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -460,7 +479,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>5,29</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Er liebt Oberrad, sie liebt Niederrad]</tei:seg>
+          <tei:seg>Er liebt Oberrad, sie liebt Niederrad</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -471,7 +491,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>6,7</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Kamisol]</tei:seg>
+          <tei:seg>Kamisol</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -482,7 +503,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>6,7</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Regula de Tri]</tei:seg>
+          <tei:seg>Regula de Tri</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -493,7 +515,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>6,11</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>nach der Zahlmethode 1, 3, 5, 8]</tei:seg>
+          <tei:seg>nach der Zahlmethode 1, 3, 5, 8</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -506,7 +529,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>6,17</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Monographie]</tei:seg>
+          <tei:seg>Monographie</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -517,7 +541,8 @@
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
           <tei:seg>6,18</tei:seg>
           <tei:seg> </tei:seg>
-          <tei:seg>Okens Naturgeschichte]</tei:seg>
+          <tei:seg>Okens Naturgeschichte</tei:seg>
+          <tei:seg>]</tei:seg>
           <tei:seg> </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -528,22 +553,22 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -557,10 +582,10 @@
           <tei:seg>E. Naturgeschichte der deutschen Kameele. In: Soireen. Von Karl Gutzkow. Theil 2, Frankfurt/M.: Sauerländer, 1835. S. 175-190. (Rasch 2.9.2.5)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -568,17 +593,75 @@
           <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-1">
-        <tei:seg>Kommentierung</tei:seg>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.2. Varianten</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Für die Buchfassung als Teil der Sammlung Soireen änderte Gutzkow den Text der Journalfassung nur geringfügig. Er reduzierte die Absatzgliederung (5,13-14 und 5,30-31) und stellte dadurch die Gattung des ,gesellschaftlichen Kamels‘ in durchgängigem Text dar, ohne die Übergänge und Pausen des ursprünglichen Vortrags durch Einschnitte sinnfällig zu machen. Eine weitere größere Änderung gegenüber der Journalfassung besteht darin, dass in E die Sage, die am Anfang von J erwähnt wird (1,3), ihre Aufschlüsselung als Heine’sche Erzählung erfährt (→ Erl. zu </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">1,3</tei:ref>
+        <tei:seg>).</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Abgesehen von wenigen kleinen Änderungen in der Orthographie sind die übrigen Varianten:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>1,2</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vorgetragen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">Vorgelesen</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>2,31-32</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>ist es ja vorzüglich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">ist es vorzüglich</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>3,1</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>sind hier aber kühl</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">sind dabei kühl</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>3,2</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>belästigen sie, oder sind ihnen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">belästigen sie, oder sie sind ihnen</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>3,8-9</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:lem>von Geburt aus</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">von Natur aus</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>6,11 </tei:seg>
+        <tei:lem>Zahlmethode</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:rdg wit="#E">Zahlenmethode</tei:rdg>
+        <tei:seg> E</tei:seg>
+      </tei:p>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Die folgenden Angaben treffen auch auf Gutzkows ebenso vor dem Frankfurter „Museum“ vorgetragene humoristische Gesellschaftskritiken → </tei:seg>
-        <tei:ref type="external" target="">
+        <tei:ref type="external">
           <tei:q>Ueber Pudel, Jokey’s und Nachtigallen </tei:q>
         </tei:ref>
         <tei:q>oder über die kleinen Freuden des Lebens</tei:q>
         <tei:seg> und → </tei:seg>
-        <tei:ref type="external" target="">
+        <tei:ref type="external">
           <tei:q>Ueber die Natur der Kometen</tei:q>
         </tei:ref>
         <tei:seg> zu:</tei:seg>
@@ -597,10 +680,10 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Frankfurt als ,Bürgerstadt‘ und ‚Kulturstadt‘ zugleich (Heimatstadt Börnes und Goethes), an deren Potential zu einer liberalen Hauptstadt Deutschlands Gutzkows Satire appelliert</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4. Entstehungs- und Auftrittsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.4" first-line-indent="0">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
@@ -615,7 +698,7 @@
       <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Ein so kleines und doch bedeutsames Terrain erschien wie ein Glashaus, wo das von oben hereinfallende Licht jeder Physiognomie eine schärfere Zeichnung giebt. Immer streiften hier Menschen aus den verschiedensten Gegenden oder Thätigkeitsgebieten dicht aneinander. Der Beobachter konnte in diesem Verkehr nur lernen. Das Entgegenkommen, das ich fand, war von allen Seiten das wohlwollendste. Hatte ich doch die Gunst der Stadt rasch gewonnen durch einen Vortrag in der erwähnten Museumsgesellschaft. Weit entfernt zu glauben, daß hier eine ernste Abhandlung am Platze gewesen wäre, hatte ich dem Publikum der „Museumsabende“, welchem Musik über alles zu gehen und hinter dieser jeder Vortrag über Goethe oder Schiller, über Posa oder Hamlet langweilig vorzukommen schien, eine „Naturgeschichte der deutschen Kameele“ vorgelesen. War es die Rückkehr des Doctor Rüppell aus Abyssinien oder worin sonst die Anregung gelegen hatte, meine Schilderung des deutschen Philisters, des „Kameels“, fand eine solche Zustimmung bei Männern sowohl wie Frauen und erregte ein solches Ausschütten der Lachlust, einen solchen Sturm von Beifall, daß ich meine Stellung in Frankfurt, den Bundestag und die mit diesem kokettirende Sphäre des Adels und der großen Bankiers ausgenommen, für mehr als leidlich begründet halten konnte.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0.1" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>4.2. Entstehungs- und Auftrittsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -631,7 +714,7 @@
         <tei:seg>Die „Museumsgesellschaft“, auf deren Erwartungen Gutzkow sich einstellte und vor der er 1835 noch zwei weitere Male vortrug, widmete sich der Unterhaltung und Belehrung ihrer Mitglieder durch ein integriertes Programm an musikalischen, künstlerischen und wissenschaftlichen Darbietungen. Beeindruckend ist, dass das „Museum“ in einer Stadt von unter 50.000 Einwohnern auf eine kulturelle Infrastruktur zurückgreifen konnte, die es ermöglichte, alle 14 Tage ein umfassendes, die Kapazitäten des Publikums fast überforderndes Programm zu bieten (vgl. auch die Beschreibung einer „Production im Museum“ durch Ludwig Bechstein, der Gutzkows zweitem Vortrag beiwohnte: </tei:seg>
         <tei:q>Ueber Pudel, Jokey’s und Nachtigallen oder über die kleinen Freuden des Lebens</tei:q>
         <tei:seg>, Dokumente zur Rezeptionsgeschichte, → </tei:seg>
-        <tei:ref type="external" target="">Nr. 1</tei:ref>
+        <tei:ref type="external">Nr. 1</tei:ref>
         <tei:seg>). Gutzkows erster Vortrag </tei:seg>
         <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
         <tei:seg> fand am 13. Februar 1835 statt und war in folgendes Ensemble an Darbietungen eingegliedert:</tei:seg>
@@ -716,13 +799,13 @@
         <tei:ref target="#global" data-heading-id="Dokumente zur Entstehungsgesch., Nr. 1, Stelle: War es die Rückkehr des Doctor Rüppell">Nr. 1</tei:ref>
         <tei:seg>), die Rückkehr des international renommierten Frankfurter Forschungsreisenden Eduard Rüppell (1794-1884) von seiner zweiten großen Expedition nach Nordafrika und Arabien (1830-33) gewesen sein, die im Oktober 1834 durch einen Festakt der Stadt begangen worden war. Rüppell „trug [...] reiche zoologische Sammlungen zusammen (Landwirbeltiere, Fische u. maritime[ ] Wirbellose aus d. Roten Meer). Durch seine wissenschaftlichen Aufsammlungen und Auswertungen wurde das Frankfurter Senckenberg Museum innerhalb weniger Jahre zu einem der bedeutendsten Forschungsmuseen. [...] R[üppell] beschrieb 30 neue Gattungen und knapp 450 neue Arten.“ (Wolfgang Klausewitz: Rüppell,  Wilhelm Peter Simon Eduard. In: Neue Deutsche Biographie. Bd. 22. Berlin: Duncker &amp; Humblot, 2005. S. 227).</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>1. [Bericht über Gutzkows Vortrag </tei:seg>
         <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
         <tei:seg> im „Museum“]. In: Didaskalia. Frankfurt/M. Nr. 47, 16. Februar 1835. Zitiert nach Houben, Zff. d. Jg. Dtl. 2. Tl., Sp. 79.</tei:seg>
@@ -774,7 +857,7 @@
       <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Hr. Dr. Gutzkow hat uns eine so naturgetreue Schilderung der deutschen Kameele geliefert, dass wir nicht anstehen, ihn den ersten Naturhistorikern Deutschlands, wie einem Oken, Goldfuss, Schubert usw. an die Seite zu setzen, und uns nicht wundern würden, wenn derselbe heute oder morgen einen Ruf als Professor publicus ordinarius nach irgend einer benachbarten Universität in dieser Branche erhalten sollte. Er besitzt einen wahrhaft populären Vortrag und weiss das trockene Studium der Naturgeschichte durch seinen lebendigen und frischen Humor, durch sprudelnden Witz, durch sarkastische Wendungen und, was uns das liebste ist, durch seine liberalen Ansichten recht interessant und angenehm zu machen. Es wäre nur zu wünschen, dass er uns auf ähnliche Weise recht bald eine Naturgeschichte aller Säugethiere, namentlich der Esel, Schafe, Böcke, Löwen, Wölfe, Füchse und Bären lieferte. – Sollte er, wie es von einem so bedeutenden Zoologen zu erwarten ist, sich ebenso speziell mit der Ornithologie befasst haben, so sehen wir auch von seiner Hand einer genaueren Naturgeschichte der deutschen Gänse entgegen.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.5" margin-bottom="0" first-line-indent="0">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -789,9 +872,9 @@
         <tei:seg> folgte (</tei:seg>
         <tei:q>Ueber Pudel, Jokey’s und Nachtigallen oder über die kleinen Freuden des Lebens</tei:q>
         <tei:seg>, Dokumente zur Rezeptionsgeschichte, → </tei:seg>
-        <tei:ref type="external" target="">Nr. 1</tei:ref>
+        <tei:ref type="external">Nr. 1</tei:ref>
         <tei:seg> und → </tei:seg>
-        <tei:ref type="external" target="">Nr. 2</tei:ref>
+        <tei:ref type="external">Nr. 2</tei:ref>
         <tei:seg>), dass die Feinheiten seiner Sozialsatire wohl eher durch das gedruckte Medium als durch das gesprochene Wort vermittelt werden konnten.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -806,10 +889,10 @@
         <tei:q>Soireen</tei:q>
         <tei:seg> (1835). </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0">
         <tei:seg>6. Kommentierung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.2" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.4" first-line-indent="0">
         <tei:seg>6.1. Globalkommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
