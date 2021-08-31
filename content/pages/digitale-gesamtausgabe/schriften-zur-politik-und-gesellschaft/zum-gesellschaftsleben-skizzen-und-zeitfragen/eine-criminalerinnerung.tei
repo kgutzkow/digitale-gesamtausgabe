@@ -6,22 +6,17 @@
         <tei:title>Eine Criminalerinnerung</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="KatharinaBick">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Katharina Bick</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="SonjaHeseding">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Sonja Heseding</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="GertVonhoff">
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Gert Vonhoff</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="MartinaLauster">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Martina Lauster</tei:name>
-        </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -35,11 +30,11 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Eine Criminalerinnerung. Von K. Gutzkow. In: Beurmann's Telegraph. Neuste Folge. Nr. 30, [22.] November 1837, S. 233-238. (Rasch 3.37.11.22). </tei:bibl>
+      <tei:bibl>Eine Criminalerinnerung. Von K. Gutzkow. In: Beurmann's Telegraph. Neuste Folge. Nr. 30, [22.] November 1837, S. 233-238. (Rasch 3.37.11.22) </tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1837-11">November 1837</tei:date>
+        <tei:date when="1837-11-22">22. November 1837</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#schriften-zur-politik-und-gesellschaft #zum-gesellschaftsleben-skizzen-und-zeitfragen #eine-criminalerinnerung"/>
@@ -52,10 +47,138 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:pb n="233"/>
+        <tei:seg> Eine Criminalerinnerung.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Das Mannheimer Kaufhaus ist ein Gebäude, welches man, seiner vortrefflichen Bauart wegen, jeder Stadt wünschen möchte. Ein großes Quadrat, zeichnet es sich an allen Seiten durch Arkaden aus, in welchen man vor Sturm und Regen Schutz findet, ja wo man selbst Spaziergänge und Modenmusterungen anzustellen pflegt. Das Dach dieses großen Gebäudes ist gleichförmig, aber im Innern trennen den unmittelbaren Zusammenhang mehre Höfe, die theils Privaten, theils der Stadt angehören. In einem dieser Höfe wird Mehl verkauft, ein andrer gehört zur Polizei.</tei:seg>
       </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der letztre ist gar klein und den Gefängnissen angemessen, aus denen man auf ihn herabsehen kann. Ein Waarenschauer trennt ihn von Privathöfen, die aber alle zu dem großen Ganzen des mächtigen Kaufhauses gehören. Die Gefängnisse, welche die Polizei hier unterhält, sind eigentlich nur provisorische Absteigequartiere. Sie werden nur von solchen bevölkert, </tei:seg>
+        <tei:pb n="234"/>
+        <tei:seg> die in Untersuchung sind; für überführte Verbrecher gibt es eine andere, hoffentlich nach modernen Erleichterungstheorien gebaute Strafanstalt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Diese Mannheimer Polizeigefängnisse lassen eine ganze eigenthümliche und spannende Darstellung zu. Durch sie ist ein großer Theil der politischen Aufregung hindurch gegangen, die wir vor und nach dem </tei:seg>
+        <tei:hi style="letter-sparse">Freisinnigen</tei:hi>
+        <tei:seg> in Baden erlebt haben. Die Frau des Polizeidieners, die den hiesigen Gefangenen mancherlei Handreichungen leistet, weiß uns in schnellen und anekdotischen Zügen die ganze Geschichte Badens von 1831 bis 1834 von ihrer criminellen Seite darzustellen. Sie weiß, wie Strohmayer, der Herausgeber des Wächters am Rhein, es einer Knallerbse verdankt, daß man ihn in der Stadt entdeckte und festsetzte.</tei:seg>
+        <tei:ref type="footnote" target="#footnote-1">*)</tei:ref>
+        <tei:seg> Sie erzählte mir, daß in demselben Raume, wo wir uns, (unwillkürlich) befanden, Venedey gehaust und sich eines Tages mit einem Spiegel geholfen hätte, um zu erfahren, wer über ihm in Gewahrsam wäre. Die Eisenstäbe, sagte sie, verhinderten, daß Venedey den Kopf hinaussteckte. Der Zufall führte ein Stück von einem zerbrochnen Spiegel herbei, das er zum Fenster hinaushielt und damit die Physiognomie des oben durch Eisenstäbe nicht gehinderten Gefangenen auffing. So gelang es Venedey sich mit seinem Leidensgefährten zu unterhalten. Derselbe war der bekannte Studiosus Kähler aus Holstein. Geschnittene Mienen mußten die Stelle von Worten vertreten. Endlich erhielt ich einen interessanten Bericht über die mißlungene Flucht, die Venedey eines Abends versuchte. Er ließ sich nämlich, als es dunkel geworden war, von dem Wärter einen Abendtrunk holen und stellte sich so, daß er, bei der Rückkehr des Mannes, ihm sein Licht ausblasen und ihn von der Thür verdrängen konnte. Dies gelang vollkommen. Der Wärter war eingeschlossen, da der entspringende Flüchtling schnell den Riegel vorgeschoben hatte. Venedey stürzte hinunter und fand die Thür des Hauses - verschlossen. Inzwischen brüllte der Wärter aus dem Fenster oben alles heraus, was sich Lebendiges auf dem Amte noch vorfand.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:pb n="235"/>
+        <tei:seg> Der Flüchtling stürzt in den kleinen Hof zurück und versucht es mit Hülfe eines Brunnens über das Dach des Waarenschauers zu steigen. Er setzt an, kömmt einige Fuß in die Höhe; da bricht eine Latte und Venedey, der bekehrte Demagoge, der jetzt in Havre de Grace wohnt und über die Sagen und Geschichten der Normandie träumt, stürzt in die Arme seiner Verfolger zurück, die ihn nicht unsanft wieder an den Ort seiner nächsten Bestimmung heimführen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Psychologisch merkwürdig war es mir, die verschiedenen Arten kennen zu lernen, wie die Gefangenen ihr Schicksal aufzunehmen pflegen. Die gute Frau erzählte von einem Schiffer, der wegen Widersetzlichkeiten hier eine Zwangswohnung beziehen mußte, erst ganz ruhig war und dann wie ein wildes Thier sich auf dem Boden des Zimmers gewälzt hätte. Die Langeweile machte ihn rasend. Solche Menschen sind nicht gewohnt, sich </tei:seg>
+        <tei:foreign>vis-à-vis</tei:foreign>
+        <tei:seg> von sich selbst zu sehen. Sie leben in steter Entäußerung, haben entweder etwas zu sprechen oder zu thun; </tei:seg>
+        <tei:hi style="letter-sparse">Sie selbst</tei:hi>
+        <tei:seg> sind sich das Unheimlichste. So erschrack dieser Mann vor sich selbst, wie vor einem Gespenste, und half sich durch Schreien und Toben, um nicht genöthigt zu sein, in sein Inneres einzukehren.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Lebhaft aber zog mich die Erzählung eines Vorfalls an, der sich, wie die schönste Novelle, in sich abrundete, und wohl verdient, wieder erzählt zu werden. Ich will die Frau nicht selber sprechen lassen, ob sie gleich in ihrem pfälzischen Dialekte lebhafter schilderte, als ihr der hochdeutsche Stelzenausdruck es wird nachthun können.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Ein junger Franzose war arretirt. Er konnte kein Wort deutsch und kam überhaupt in diese Lage nur, weil es ihm sowohl an Legitimation, wie an irgend dem Verlangen fehlte, sich über seine Person, seine Herkunft deutlich zu machen. Er war blutjung und über die Beschreibung anziehend. Man wußte nicht, wo er hergekommen und konnte der Polizei nicht verdenken, daß sie sich seiner versicherte.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Er kam in dasselbe Zimmer, wo mir seine Geschichte erzählt wurde. Früher war aber eine Thür nicht verschlossen gewesen, die in ein Nebenzimmer führte, in welchem ein Kamin angebracht war. Seit jenem Franzosen ist diese Thür verschlossen. Der junge Mann schien sich wenig um sein Schicksal zu kümmern. Auf alle Fragen gab er ausweichende Antworten. Man wurde bei ihm recht lebhaft daran erinnert, wie der Franzose </tei:seg>
+        <tei:pb n="236"/>
+        <tei:seg> Frankreich für die Welt hält, und in das Ausland wie in eine wilde Barbarei hineinstarrt. Der junge Mann schien Maler zu sein. Sein erstes Geschäft in dem Gefängnisse bestand darin, aus seinem Koffer ein Gemälde zu holen und dies so aufzustellen, daß das wenige Licht, welches der dunkle Hof gestattete, darauf fiel. Das Bild stellte ein junges weibliches Wesen vor, welches von ausnehmender Schönheit strahlte. Trunken in den Anblick versunken, und wie geistesabwesend stand der junge Maler (denn mit Stolz deutete er an, er hätte dies Bild selbst gemalt) vor seiner Schöpfung und verrieth, daß diese Züge nicht seiner Phantasie, sondern der Wirklichkeit angehörten.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>In den Verhören jede Auskunft über sich verweigernd, nur eilend, wieder zur Anschauung seines Bildes zurückzukehren, hielt ihn der Untersuchungsrichter für einen unschuldigen stillen Wahnsinnigen und würde ihn bald freigegeben haben, wenn sich der Gefangene nicht auf eine schlaue und beispiellos kühne Weise selbst befreit hätte. Noch ist es ein Räthsel, wie er es anstellte, davon zu kommen; aber mancherlei zusammentreffende Umstände lassen folgende Art als ganz gewiß annehmen:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Seit einiger Zeit stellte sich der junge Mann krank. Der Wärter ermunterte ihn, wenigstens so lange aufzustehen, bis er ihm sein Bett würde gemacht haben. Dies gab er aber nie zu, sondern blieb Tag und Nacht in derselben Lage, ohne eine Veränderung zu leiden. Da das Bett ein gemiethetes war, so konnte der Wärter nicht einsprechen. Drei Tage vergingen in dieser Art: der Arrestant blieb beharrlich im Bett. Am vierten Tag kömmt der Wärter und findet den Franzosen aufgestanden. Er wird im andern Zimmer sein, denkt er, geht hinein, findet das Kamin geöffnet und eine Partie russiger Kleider auf dem Heerde liegen. Der Vogel war ausgeflogen. Der erschrockene Wärter geht in das vordere Zimmer zurück, untersucht das Bett und findet alle Laken und Ueberzüge in Stücke geschnitten und den größten Theil davon mit fortgenommen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Dem Wärter ließ sich kein Vorwurf machen, da es seine Schuld nicht war, daß im zweiten Zimmer das Kamin zugänglich war. Und das Polizeyamt konnte wieder sagen: wer wird auf diesem gefahrvollen Wege die Flucht nehmen? Und doch hatte der Flüchtling diese Gefahr nicht gescheut. Es war ein außerordentliches Wagstück. Zuvörderst mußte der Gefangene mit seiner Strickleiter von Linnenzeug und einem zweiten Anzuge be-</tei:seg>
+        <tei:pb n="237"/>
+        <tei:seg>lastet, den Kamin hinaufkriechen. An der Mündung des Schornsteins angelangt, zog er die russig gewordenen Kleider aus und warf sie hinunter. Nun schwebte er zwischen Himmel und Erde. Rings in den dunklen Straßen unten herrschte nächtliche Stille. Hie und da eine Patrouille, ein bellender Hofhund. Da sich eine zerbrochene Scheibe und ein dadurch geöffnetes Dachfenster an einem entgegengesetzten Ende des Kaufhauses später vorfand, so mußte er an der blechernen Regenrinne eine große Strecke entlang geklettert und zuletzt durch das Dachfenster und das Innere eines Hauses, wo er entweder bis zum Morgen wartete oder sonst ein Mittel fand, das Haus zu öffnen, entkommen sein.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Es vergingen einige Wochen, ehe man von dem „Franzos“, wie die Erzählerin sagte, etwas erfuhr. Sein Koffer war zurück geblieben, an dessen Inhalt sich zum Theil die Bettvermietherin pfändete. Auch seine Gemälde hatte der Flüchtling mitgenommen. Da erschien nach einem halben Jahre ein ältlicher Herr in Mannheim, und erkundigte sich in allen Gasthäusern nach einem jungen Mann, dessen Beschreibung ganz auf den Flüchtling paßte. Die Spuren, die er antraf, führten ihn in das Polizeihaus, und hier kam es dann zu Erklärungen, die folgenden Zusammenhang ergeben:</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der alte Herr war der Vater des jungen Mannes. Er suchte ihn nicht mehr; denn durch den Tod hatte er ihn für immer verloren. Er wollte nur noch den Trost haben, die Fußtapfen aufzusuchen, die sein Sohn in der Fremde zurück gelassen. Der junge Mann war Maler und faßte eine bis zur Raserei gehende Leidenschaft für eine verheirathete Dame, die ihm gesessen hatte. Mancherlei Anzeichen ließen ihn vermuthen, daß seine Neigung nicht unerwiedert bleiben würde; der Gatte der Dame mischte sich aber ein, es kam zu Zerwürfnissen, zu einem Duell. Der junge Mann hatte das Unglück, seinen Gegner zu erschießen. Die strengen Gesetze Genfs - von hier waren die handelnden Personen des Dramas gebürtig - zwangen ihn zur Flucht. Ohne Hülfsmittel, ohne Kenntniß fremder Sitten kam er nach Deutschland, verlebte in Mannheim seine Aufhebung. Nach der Flucht aus dem Gefängniße kehrte der Sohn des Alten wieder auf den Schauplatz seines Verbrechens, nach Genf zurück. Er versuchte, sich der Dame zu nähern. Sie wies ihn mit Entschiedenheit als einen Mörder und Ge-</tei:seg>
+        <tei:pb n="238"/>
+        <tei:seg>ächteten zurück und der Unglückliche stürzte sich in einer hellen Mondnacht, dicht bei dem Landhause seiner Geliebten, in die Fluthen des Genfersees.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der alte Herr reiste nun durch die Schweiz und Deutschland, um überall nachzufragen, wo sein Sohn gewesen wäre. Wer ihn gesehen und gesprochen hatte, konnte den guten Mann glücklich machen. Die heldenmüthige Flucht aus dem Mannheimer Gefängniße tröstete ihn fast bei seinem Verluste, und es charakterisirt vollkommen die ehrsamen loyalen Genfer Bürger, daß er, nachdem er hier und dort Trinkgelder vertheilt hatte, zum Schluß noch bemerkte: Es freue ihn nur, daß sein Sohn durch diese Flucht keinen der angestellten Herren Beamten ins Unglück gebracht hätte! Er wäre nicht so obenhin, sondern mit Anstand und einer gewissen Delikatesse geflohen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der gute Herr nahm den Koffer seines unglücklichen Sohnes und reiste betrübt nach dem Leichenhügel zurück, unter dem er begraben lag.</tei:seg>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>*) Beim Untersuchen eines Hauses wurde die Polizei durch Kinder, die mit Pulver spielten, auf die Vermuthung gebracht, der jetzt in der Schweiz lebende Flüchtling möchte hier verborgen sein.</tei:seg>
+        </tei:p>
+      </tei:note>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Bearbeitung: Katharina Bick, Sonja Heseding; Exeter, Münster</tei:seg>
+      </tei:head>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J K[arl] Gutzkow: Eine Criminalerinnerung. In: Beurmann's Telegraph. Neuste Folge. Nr. 30, [22.] November 1837, S. 233-238. (Rasch 3.37.11.22) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E Eine Criminalerinnerung. In: Skizzenbuch. Von Karl Gutzkow. Cassel und Leipzig: Krieger, 1839, S. 143-153. (Rasch 2.19.7)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die vom Herausgeber berichtigten Druckfehler.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">4,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>den</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>der</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">5,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>geöffnetes</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>geöffentes</tei:sic>
+      </tei:p>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>

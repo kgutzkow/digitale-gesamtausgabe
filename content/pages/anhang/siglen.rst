@@ -314,431 +314,6 @@ UhH D.F.
     | [Siehe oben]. Dritte Folge. 2 Bde. 1861-62.
     | Rasch 5.8
 
-1.7. Zeitschriftenpublikationen Gutzkows, sofern bisher vom Editionsprojekt herausgegeben
------------------------------------------------------------------------------------------
-
-*Auf genaue bibliographische Angaben wird hier verzichtet. Sie befinden sich unter der Rubrik "Drucke" jeweils am Anfang des kritischen Apparates zu dem Text.*
-
-.. class:: siglen-list
-
-AnmLor
-    | [Redaktionelle Anmerkung zu Hieronymus Lorm, "Charles Dickens"]
-    | Rasch 3.54.01.21.1
-APrBu
-    | [Allgemeines Pressgesetz des Bundestages]
-    | Rasch \*3.32.07.06
-ArnAff
-    | Zur Arnim-Affaire.
-    | Rasch 3.74.10.12
-Augias
-    | Literarischer Augiasstall. Der Schriftsetzer J. Mendelsson in Hamburg.
-    | Rasch 3.41.11.17
-BaGrav
-    | Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein "Plagiat" an ihrer Lebensbeschreibung.
-    | Rasch 3.60.04.28
-BeAuDo
-    | Berthold Auerbach's neueste Dorfgeschichten.
-    | Rasch 3.52.12.03.4
-BerZen
-    | [Berliner Zensur streicht Namen jungdeutscher Autoren in Journalen].
-    | Rasch 3.38.04.13
-BeSch
-    | [Beschimpfung des Schriftstellerstandes].
-    | Rasch 3.43.06.10
-BesuBe
-    | Ein Besuch bei Bettina.
-    | Rasch 3.40.01.20
-Bettin
-    | Diese Kritik gehört Bettinen.
-    | Rasch 3.43.10.14
-BiPfei
-    | Der Birch-Pfeiffer-Auerbach'sche Handel.
-    | Rasch 3.48.01.29
-BoeHei
-    | Börne gegen Heine.
-    | Rasch 3.35.06.27.1
-BroLys
-    | H. Brockhaus, P. Lyser und die kritischen Zahlen um Leipzig.
-    | Rasch 3.35.03.04.1
-BueDan
-    | Danton's Tod, von Georg Büchner.
-    | Rasch 3.35.07.11.1
-BueTi
-    | Vom Berliner Büchertisch.
-    | Rasch 3.73.10.21; 3.73.10.23; 3.73.11.09
-BuKrit
-    | Buchhandel und Kritik.
-    | Rasch 3.61.0704.3
-BulDra
-    | [Über Dramen Edward Lytton Bulwers]
-    | Rasch 3.38.11.28; 3.39.10.02; 3.40.04.17.1; 3.41.02.27
-BulPil
-    | Bulwer's Pilger am Rhein. Aus dem Englischen von le Petit. Mit Stahlstichen.
-    | Rasch 3.35.04.08.3
-Bumes
-    | Die Buchhändlermesse.
-    | Rasch 3.49.05.18
-Crimi
-    | Eine Criminalerinnerung.
-    | Rasch 3.37.11.22
-DedEiS
-    | [Deduktion des Eigentumsrechts der Schriftsteller].
-    | Rasch 3.38.07.18
-DDtUebe
-    | Die Deutschen Uebersetzungsfabriken.
-    | Rasch 3.39.01.11
-DeHolz
-    | Deutsche Holzschnitte.
-    | Rasch \*3.53.04.08.2
-DeuBu
-    | Der deutsche Buchhandel.
-    | Rasch 3.54.06.30.3
-DeuCla
-    | Deutsche Classiker-Philologie.
-    | Rasch 3.76.04.06
-DonQuix
-    | Der neue Don-Quixote mit Holzschnitten.
-    | Rasch 3.37.06.02
-DrGra
-    | Zwei neue Dramen von Grabbe.
-    | Rasch 3.35.08.18
-DtDile
-    | Ein deutsches Dichterleben.
-    | Rasch 3.53.08.27
-DtPubl
-    | Ueber deutsche Publicistik.
-    | Rasch 3.45.03.2
-DtRom
-    | Der deutsche Roman.
-    | Rasch 3.35.03.25.1
-DuBNov
-    | Die neuen Dorf- und Bauern-Novellen.
-    | Rasch 3.43.12.23.1
-EEiBib
-    | Eine Eisenbahn-Bibliothek.
-    | Rasch 3.55.04.14.4
-EhrCen
-    | Der Ehrgeiz als Censor und eine Erziehung der Geister.
-    | Rasch 3.53.01.21.3
-EichDi
-    | Dichter und ihre Gesellen. Novelle von Jos. Freih. von Eichendorff.
-    | Rasch 3.35.01.14.1
-EigDra
-    | [Eigentumsrecht an Dramen].
-    | Rasch 3.43.05.12
-Eindr
-    | Berliner Eindrücke.
-    | Rasch 3.44.04.13
-Einneu
-    | Ein neuer Roman von Wilibald Alexis.
-    | Rasch 3.52.05.18
-EisBib
-    | Eisenbahn-Bibliotheken.
-    | Rasch \*3.55.09.22.1
-FaBue
-    | Die Familie Büchner.
-    | Rasch \*3.68.12.20
-Feuill
-    | Das Feuilleton.
-    | Rasch 3.78.08.12
-FlCott
-    | [Konflikt zwischen den Verlegern Friedrich Fleischer und Baron von Cotta].
-    | Rasch 3.42.10.31
-FleCot
-    | [Fleischer und Cotta].
-    | Rasch 3.43.04.10.1
-FraLi
-    | [Franz Liszt in Hamburg].
-    | Rasch 3.40.11.16
-FrZerr
-    | Die Freiheit der Zerrbilder.
-    | Rasch 3.43.01.30
-FuPres
-    | Die Furcht vor der Preßfreiheit.
-    | Rasch 3.43.03.03
-GaeK
-    | Der deutsche Gänsekiel.
-    | Rasch 3.54.08.12.1
-GeiEig
-    | Das geistige Eigenthum.
-    | Rasch 3.53.06.03.3
-GeiOrt
-    | Der Geist des Ortes.
-    | Rasch 3.43.12.19
-GewFed
-    | Die gewandten Federn.
-    | Rasch 3.44.01.15
-GgwLit
-    | Unsere gegenwärtige Literatur.
-    | Rasch 3.53.03.18
-GulSav
-    | Bedenken gegen ein Gutachten des leipziger Sachverständigenvereins.
-    | Rasch 3.45.02.18
-GuZen
-    | [Gutzkows Schriften und Dramatische Werke von Berlins Zensurbehörde abgewiesen].
-    | Rasch 3.43.04.28
-HauDue
-    | Das Haus Düsterweg. Eine Geschichte aus der Gegenwart. Von Wilibald Alexis.
-    | Rasch 3.35.06.27.3
-HeiDen
-    | H. Heine über den Denunzianten.
-    | Rasch 3.37.08.04
-HeiSal
-    | Der Salon von H. Heine. Zweiter Theil.
-    | Rasch 3.35.03.11.1
-HeiSch
-    | Herr Heine und sein Schwabenspiegel.
-    | Rasch 3.39.05.10
-Hitzig
-    | Hitzig über die Existenz der Schriftsteller.
-    | Rasch 3.38.07.13
-HitzPZ
-    | [Eduard Hitzig und die "Preßzeitung"].
-    | Rasch 3.38.09.10.2
-HofTie
-    | Der Hofrath Tieck.
-    | Rasch 3.35.01.21.1
-HolVie
-    | Vierzig Jahre von Karl Holtei.
-    | Rasch 3.44.01.08
-HstRom
-    | Der historische Roman.
-    | Rasch 3.35.04.08.6
-IllVdm
-    | Illustration und Volksverdummung.
-    | Rasch 3.60.10.01
-IntAV
-    | Internationales Autor- und Verlagsrecht.
-    | Rasch \*3.61.07.11.2
-JouHam
-    | Die Journale Hamburgs.
-    | Rasch \*3.39.04.24.1
-KagNa
-    | [Kampf gegen den Nachdruck].
-    | Rasch 3.38.06.16
-KagSch
-    | [Kampf gegen die schlechte Schriftstellerei].
-    | Rasch 3.38.04.11.2
-KatVo
-    | [Katalog des Verlags B. F. Voigt].
-    | Rasch 3.40.07.1
-KauBue
-    | Das Kaufen von Büchern.
-    | Rasch 3.54.06.10.1
-Keller
-    | Die Leute von Seldwyla.
-    | Rasch 3.56.06.14.1
-KrBJJ
-    | [Krise der französischen Belletristik und Jules Janin].
-    | Rasch 3.40.04.17.2
-KsaeG
-    | Das königl. sächsische Gesetz zur Sicherstellung des literarischen und artistischen Eigenthums.
-    | Rasch 3.43.01.11.2
-LauLie
-    | Liebesbriefe. Novelle von Heinrich Laube.
-    | Rasch 3.35.06.27.2
-LauRei
-    | Laubes neue Reisenovellen.
-    | Rasch 3.37.09.25
-LFuPre
-    | [Leipziger Literaturpöbel gegen Gutzkows Furcht vor der Preßfreiheit].
-    | Rasch 3.43.04.29.1
-LitBlV
-    | [Vorwort zum "Literatur-Blatt" des "Phönix"].
-    | Rasch 3.35.01.07
-LudTie
-    | Ludwig Tieck.
-    | Rasch 3.53.05.20.1
-MaeHa
-    | Eine männliche Gräfin Hahn-Hahn.
-    | Rasch 3.71.05.25.2
-MunAle
-    | Theodor Mundt, Willibald Alexis und die Pommersche Dichterschule, oder über einige literar-historische Symptome.
-    | Rasch 3.35.04.01.1
-MunMad
-    | Madonna. Unterhaltungen mit einer Heiligen. Von Th. Mundt.
-    | Rasch 3.35.05.08.1
-MuSchr
-    | Schriften in bunter Reihe. Herausgegeben von Theodor Mundt.
-    | Rasch 3.35.01.14.2
-NaAuBu
-    | [Nachdruck unter den Augen des Bundestages].
-    | Rasch 3.42.01.31
-Nachdr
-    | In Sachen des Nachdrucks.
-    | Rasch 3.38.04.20
-NatKam
-    | Naturgeschichte der deutschen Kameele.
-    | Rasch 3.35.02.26
-NDrGra
-    | Zwei neue Dramen von Grabbe.
-    | Rasch 3.35.08.18
-Neglige
-    | Studien über das Negligé.
-    | Rasch 3.33.01.05
-NPrgBe
-    | [Neues Pressgesetz in Berlin].
-    | Rasch 3.40.11.21.
-NUn
-    | Eine nächtliche Unterkunft.
-    | Rasch 3.70.03.09
-OeZen
-    | [Österreichische Zensur].
-    | Rasch 3.40.04.10
-OnkSpe
-    | Onkel Spener.
-    | Rasch 3.74.11.11
-OriBib
-    | Eine neue deutsche Original-Roman-Bibliothek.
-    | Rasch 3.53.11.12.2
-Pap
-    | Der Papierkorb.
-    | Rasch 3.70.04.01
-Parn
-    | Vom deutschen Parnaß.
-    | Rasch 3.53.12.10.1, 3.53.12.24.2, 3.54.01.28.1
-PguPf
-    | [Pressgesetz und Pressefreiheit].
-    | Rasch 3.41.05.21
-PreuRo
-    | Ein preußischer Roman.
-    | Rasch 3.49.08.09
-PubZsn
-    | Das Publicum und die Zeitschriften.
-    | Rasch 3.57.10.03
-PudJok
-    | Ueber Pudel, Jokey's und Nachtigallen oder über die kleinen Freuden des Lebens.
-    | Rasch 3.35.03.16
-Quar
-    | Eine Quarantäne im Irrenhause, von F.G. Kühne.
-    | Rasch 3.35.08.15
-Rank
-    | Josef Rank.
-    | Rasch 3.44.01.19
-ReaErz
-    | Die "realistischen" Erzähler.
-    | Rasch 3.57.01.24
-ReaIde
-    | Realismus und Idealismus.
-    | Rasch 3.57.02.14
-RefBuch
-    | Ueber eine Reform des deutschen Buchhandels.
-    | Rasch 3.37.06.19
-Reschr
-    | Zur deutschen Rechtschreibung.
-    | Rasch 3.75.12.12
-RiWaMu
-    | Richard Wagner'sche Musik.
-    | Rasch 3.52.11.18.2
-RomArb
-    | Der Roman und die Arbeit.
-    | Rasch 3.55.08.04.2
-RueV
-    | Rückblicke auf mein Leben.
-    | Rasch 3.74.07.04
-SaEig
-    | In Sachen des geistigen Eigenthums.
-    | Rasch 3.70.03.1
-SollHa
-    | Ein neuer Roman ["Soll und Haben"].
-    | Rasch 3.55.05.31.1
-StatZs
-    | Statistik des Absatzes deutscher Zeitschriften und Zeitungen.
-    | Rasch 3.43.01.09
-TagesC
-    | Der Tages-Cours unserer Classiker.
-    | Rasch 3.44.02.24
-TauEN
-    | [Neue Prachtausgabe des "Don Quixote" und von "Tausend und Einer Nacht"].
-    | Rasch \*3.37.02.24
-TenPoe
-    | Tendenzpoesie.
-    | Rasch 3.55.06.09.1
-Theakr
-    | Soll sich die Theaterkritik bestechen lassen?
-    | Rasch 3.39.11.22
-TheRo1
-    | Theater-Roman. Von August Lewald. Erster und zweiter Band.
-    | Rasch 3.41.08.30
-TheRo2
-    | Theater-Roman. Von August Lewald. Dritter, vierter und fünfter Band.
-    | Rasch 3.42.02.02.1
-ThMu
-    | Theodor Mundt.
-    | Rasch 3.61.12.12.3
-UeGP
-    | Ueber die Gesetzgebung der Presse.
-    | Rasch 3.37.07.21
-UePriBu
-    | Ueber Preisherabsetzungen im Buchhandel.
-    | Rasch 3.38.12.07
-UnsBue
-    | Unsere Bücherfabrikation.
-    | Rasch 3.54.01.07.3
-VerfBu
-    | [Verfall des deutschen Buchhandels].
-    | Rasch 3.39.10.16
-VHoCa
-    | [Verbot der Verlagserzeugnisse von Hoffmann und Campe in Preußen].
-    | Rasch 3.42.03.01
-VJuLit
-    | [Verbot von Jungs "Literaturblatt"].
-    | Rasch 3.42.10.29.2
-VLAZtg
-    | [Verbot der Leipziger Allgemeinen Zeitung].
-    | Rasch \*3.43.02.10.2
-VoPub
-    | Volk und Publicum.
-    | Rasch 3.55.01.06.1
-VoWei
-    | Der B. F. Voigt'sche Verlag in Weimar.
-    | Rasch \*3.62.12.24.1
-Wassoll
-    | Was sollen wir lesen?
-    | Rasch 3.43.11.29.1
-Weltbe
-    | Weltberühmt oder gar nicht.
-    | Rasch 3.44.03.02
-WHae
-    | Zum Gedächtniß Wilhelm Härings.
-    | Rasch 3.72.01.20
-WieLit
-    | Zur neuesten Literatur, von L. Wienbarg.
-    | Rasch 3.35.08.08.1
-Winke
-    | Winke für die Lesewelt.
-    | Rasch 3.44.04.29
-Woche
-    | Eine Woche in Berlin.
-    | Rasch 3.54.03.18
-WodtBu
-    | Wovon leben die deutschen Buchhändler?
-    | Rasch \*3.61.05.09.5
-WoM
-    | Wolfgang Menzel und das "junge Deutschland".
-    | Rasch 3.73.06.04
-ZenFfm
-    | [Zensur in Frankfurt am Main].
-    | Rasch 3.38.10.29.2
-ZooGae
-    | Die zoologischen Gärten.
-    | Rasch 3.61.07.04 N
-ZtgeW
-    | An die löbliche Zeitung für die elegante Welt.
-    | Rasch 3.43.04.26
-Ztlueg
-    | Zeitungslügen.
-    | Rasch 3.43.04.29.2
-
-1.8. Beiträge Gutzkows in Almanachen, Jahrbüchern, Anthologien, Reihen und in Werken anderer Autoren
-----------------------------------------------------------------------------------------------------
-
-.. class:: siglen-list
-
-VerGeg
-    | Vergangenheit und Gegenwart. 1830-1838
-    | Rasch 4.39.1
-
 1.9. Briefwechsel Gutzkows
 --------------------------
 
@@ -829,7 +404,7 @@ BrLaub2
     | Rasch 7.1911.03.06
 BrMenz
     | Briefe an Wolfgang Menzel. Für die Litteraturarchiv-Gesellschaft hg. von Heinrich Meisner und Erich Schmidt. Mit einer Einleitung von Richard M[oritz] Meyer. Berlin: Verlag der Litteraturarchiv-Gesellschaft, 1908. S. 69-83.
-Anmerkung: Diese Ausgabe ist zuverlässiger als die Edition Houbens (vgl. Rasch 7.1901.1), dem nur Abschriften vorlagen.
+    | Anmerkung: Diese Ausgabe ist zuverlässiger als die Edition Houbens (vgl. Rasch 7.1901.1), dem nur Abschriften vorlagen.
     | Rasch Nachträge 7.1908.1
 BrOpp
     | Gerhard Friesen: Four previously unpublished letters of Karl Gutzkow to Heinrich Albert Oppermann. In: Modern Language Notes. New York. Bd. 83, 1968, S. 445-454.
@@ -990,11 +565,11 @@ Obenaus, Zff. 2
 Proelß
     Johannes Proelß: Das junge Deutschland. Ein Buch deutscher Geistesgeschichte. Stuttgart: Cotta, 1892.
 Promies
-    | Ute Promies: Karl Gutzkow - Romanautor und kritischer Pädagoge. Bielefeld: Aisthesis, 2003.
-    | Rasch, Gutzkow-Doku.
-    | Karl Gutzkow. Erinnerungen, Berichte und Urteile seiner Zeitgenossen. Eine Dokumentation. Hg. von Wolfgang Rasch. Berlin, New York: De Gruyter, 2011.
-    | Rasch, Rachebund
-    | Wolfgang Rasch: Karl Gutzkow und der "Rachebund von Berlin". Eine unbekannte Episode aus Gutzkows Leben geschöpft aus ungedruckten Briefen des Dichters. Bargfeld: Luttertaler Händedruck, 1993.
+    Ute Promies: Karl Gutzkow - Romanautor und kritischer Pädagoge. Bielefeld: Aisthesis, 2003.
+Rasch, Gutzkow-Doku.
+    Karl Gutzkow. Erinnerungen, Berichte und Urteile seiner Zeitgenossen. Eine Dokumentation. Hg. von Wolfgang Rasch. Berlin, New York: De Gruyter, 2011.
+Rasch, Rachebund
+    Wolfgang Rasch: Karl Gutzkow und der "Rachebund von Berlin". Eine unbekannte Episode aus Gutzkows Leben geschöpft aus ungedruckten Briefen des Dichters. Bargfeld: Luttertaler Händedruck, 1993.
 Sammons
     Jeffrey L. Sammons: Six Essays on the Young German Novel. Chapel Hill: University of North Carolina, 1972; 2. Aufl. 1975.
 Sengle
@@ -1095,8 +670,6 @@ Grimm/Akademie
     Deutsches Wörterbuch von Jacob und Wilhelm Grimm. Neu bearbeitet, herausgegeben von der Akademie der Wissenschaften der DDR [ab Bd. 8: von der Berlin-Brandenburgischen Akademie der Wissenschaften] in Zusammenarbeit mit der Akademie der Wissenschaften zu Göttingen. Bd. 1 ff. Leipzig [jetzt Stuttgart]: Hirzel, 1965 ff.
 HDA
     Handwörterbuch des deutschen Aberglaubens. Hg. von Hanns Bächtold-Stäubli unter Mitwirkung von Eduard Hoffmann-Krayer. 9 Bde. und 1 Bd. Register. Berlin: De Gruyter, 1927-1942.
-HdE
-    Handbuch der Editionen. Deutschsprachige Schriftsteller Ausgang des 15. Jahrhunderts bis zur Gegenwart. Bearbeitet von Waltraud Hagen. Berlin: Volk und Wissen, 1979. 2. unveränderte Auflage. München: Beck, 1981.
 Heyse 1848
     Johann Christian August Heyse: Allgemeines verdeutschendes und erklärendes Fremdwörterbuch. Neu bearbeitet von K. W. L. Heyse. Zehnte, rechtmäßige, vermehrte und durchgesehene Ausgabe. Hannover: Hahn, 1848.
 Heyse 1859
@@ -1169,6 +742,8 @@ Ritter/Gründer
     Historisches Wörterbuch der Philosophie. Unter Mitwirkung von mehr als 1200 Fachgelehrten [...] hg. von Joachim Ritter u. Karlfried Gründer. Bd. 1 ff. Basel, Darmstadt: Wissenschaftliche Buchgesellschaft, 1971 ff.
 Rotteck/Welcker
     Staats-Lexikon oder Encyklopädie der Staatswissenschaften in Verbindung mit vielen der angesehensten Publicisten Deutschlands. Hg. von Carl von Rotteck und Carl Welcker. Zweite Auflage. [Recte offenbar: Nachdruck der 1. Aufl.] 15 Bde. Altona: Hammerich, 1835-43.
+Sanders
+    Daniel Sanders: Wörterbuch der Deutschen Sprache. Mit Belegen von Luther bis auf die Gegenwart. 2 Bde. (Bd. 2 in 2 Hälften). Leipzig: Wigand, 1860-65. (2. unveränderte Aufl. 1876.) 
 Sanders 1871
     Daniel Sanders: Fremdwörterbuch. 2 Bde. Leipzig: Wigand, 1871. (Titelaufl. 1891).
 Vollmer
@@ -1179,8 +754,6 @@ WBB
     Wolfenbütteler Bibliographie zur Geschichte des Buchwesens im deutschen Sprachgebiet 1840-1980. Bearbeitet von Erdmann Weyrauch unter Mitarbeit von Cornelia Fricke. Bd. 1 ff. München usw.: Saur, 1990 ff.
 Weber
     Georg Weber: Lehrbuch der Weltgeschichte mit besonderer Rücksicht auf Cultur, Literatur und Religionswesen. 2 Bde. 14., vielfach umgearb. u. bis auf die Gegenwart fortgeführte Aufl. Leipzig: Engelmann, 1870. 
-Wilpert/Gühring
-    Gero von Wilpert / Adolf Gühring: Erstausgaben deutscher Dichtung. Eine Bibliographie zur deutschen Literatur 1600-1990. Zweite, vollständig überarbeitete Auflage; wissenschaftliche Beratung: Harro Kieser, Redaktion: Beate Mnich. Stuttgart: Kröner, 1992.
 Zedlitz
     Neustes Conversations-Handbuch für Berlin und Potsdam zum täglichen Gebrauch der Einheimischen und Fremden aller Stände, enthaltend: die Beschreibung oder Nachweisung alles Wissenswerthen der Oertlichkeit, mit besonderer Berücksichtigung der Beziehungen der Hauptstadt zu den Provinzen. Herausgegeben durch einen Verein von Freunden der Ortskunde; unter dem Vorstande des L. Freiherrn von Zedlitz. Berlin: Eifersdorff, 1834.
 Zoozmann 1910
@@ -1222,7 +795,7 @@ UBFM
 A\ :sup:`1`
     Karl Gutzkow: Gesammelte Werke. 13 Bde. Frankfurt/M.: Literarische Anstalt, 1845-1852.
 A\ :sup:`2`
-    Karl Gutzkow: Gesammelte Werke. Ertse vollständige Gesammt-Ausgabe. 12 Bde. Jena: Costenoble, [1873-1876].
+    Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. 12 Bde. Jena: Costenoble, [1873-1876].
 B\ :sup:`1`
     Karl Gutzkow: Dramatische Werke. 9 Bde. Leipzig: (Bd. 1-3) Weber; (Bd. 4-6) Lorck; (Bd. 7-9.1) Brockhaus, 1842-1857.
 B\ :sup:`2`
