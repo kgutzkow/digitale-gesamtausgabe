@@ -84,14 +84,14 @@ TAXONOMY = (
         ))
     )),
     ('II. Dramatische Werke', 'dramatische-werke', (
-        ('1. Marino Falieri', 'marino-falieri', ()),
-		('1. Hamlet in Wittenberg', 'hamlet-in-wittenberg', ()),
-		('1. Nero', 'nero', ()),
-		('1. König Saul', 'koenig-saul', ()),
-		('2. Richard Savage. Oder: Der Sohn einer Mutter', 'richard-savage', ()),
-		('2. Werner. Oder: Herz und Welt', 'werner', ()),
-		('2. Die Gräfin Esther', 'die-graefin-esther', ()),
-		('2. Patkul', 'patkul', ())
+        ('Marino Falieri', 'marino-falieri', ()),
+		('Hamlet in Wittenberg', 'hamlet-in-wittenberg', ()),
+		('Nero', 'nero', ()),
+		('König Saul', 'koenig-saul', ()),
+		('Richard Savage. Oder: Der Sohn einer Mutter', 'richard-savage', ()),
+		('Werner. Oder: Herz und Welt', 'werner', ()),
+		('Die Gräfin Esther', 'die-graefin-esther', ()),
+		('Patkul', 'patkul', ())
     )),
     ('III. Schriften zur Politik und Gesellschaft', 'schriften-zur-politik-und-gesellschaft', (
         ('3. Die Zeitgenossen', 'die-zeitgenossen', (
