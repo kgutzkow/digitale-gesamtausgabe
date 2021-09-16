@@ -1,5 +1,5 @@
-Werke und Ausgaben
-==================
+Wolfgang Rasch: Werke und Ausgaben
+==================================
 
 :order: 2
 :author: Wolfgang Rasch
@@ -27,18 +27,21 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1833
+----
 
 * | Maha Guru. Geschichte eines Gottes. Von Carl Gutzkow. Theil 1-2.
   | Stuttgart u. Tübingen: Cotta, 1833. 216; 182 S. 8°
 
 
 1834
+----
 
 * | Novellen. Von Karl Gutzkow. Bd. 1-2.
   | Hamburg: Hoffmann & Campe, 1834. XXII, 234; 256 S. 8°
 
 
 1835
+----
 
 * | Phönix. Frühlingszeitung für Deutschland. Hg. von Eduard Duller. Mit einem Literatur-Blatt von Karl Gutzkow.
   | Frankfurt a.M.: Sauerländer, 1835. 1236 S. 4°
@@ -62,6 +65,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1836
+----
 
 * | Zur Philosophie der Geschichte. Von Karl Gutzkow.
   | Hamburg: Hoffmann & Campe, 1836. XII, 305 S.
@@ -75,6 +79,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1837
+----
 
 * | (Hrsg.) Frankfurter Telegraph. Blätter für Leben, Kunst und Wissenschaft. Redigirt von Eduard Beurmann.
   | Frankfurt a.M.: Wilmanns (ab Nr. 22:) Verlags-Expedition, 1837. [unpaginiert.] 4°
@@ -93,6 +98,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1838
+----
 
 * | (Hrsg.) Telegraph für Deutschland. (Redigirt unter Verantwortlichkeit der Verlagshandlung; ab 1841, Nr. 164: Redaktion: Karl Gutzkow.)
   | Hamburg: Hoffmann & Campe (ab 1842: Campe), 1838-1843.
@@ -106,6 +112,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1839
+----
 
 * | Skizzenbuch. Von Karl Gutzkow.
   | Cassel u. Leipzig: Krieger, 1839. X, 353 S. Kl.8
@@ -114,6 +121,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1840
+----
 
 * | Börnes Leben. Von Karl Gutzkow. Mit Börnes Bildnis in Stahl gestochen und einem Facsimile.
   | Hamburg: Hoffmann & Campe, 1840. XXXVI, 310 S. Kl. 8°
@@ -121,6 +129,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1841
+----
 
 * | [Anon.:] Schiller und Göthe. Ein psychologisches Fragment.
   | Hamburg: Hoffmann & Campe, 1841. 46 S. 8°
@@ -128,6 +137,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1842
+----
 
 * | Vermischte Schriften von Karl Gutzkow. Bd. 1-4.
   | Leipzig: Weber; (4:) Brockhaus, 1842-1850. VII, 254; II, 283; VI, 279; 223 S. 8°
@@ -153,6 +163,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1844
+----
 
 * | Aus der Zeit und dem Leben. Von Karl Gutzkow.
   | Leipzig: Brockhaus, 1844. 482 S. 8°
@@ -163,6 +174,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1845
+----
 
 * | Gesammelte Werke von Karl Gutzkow. Vollständig umgearb. Ausgabe [Bd. 11 ohne diesen Zusatz]. Bd. 1-13.
   | Frankfurt a.M.: Literarische Anstalt, 1845-1852.
@@ -184,12 +196,14 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1847
+----
 
 * | (Bearb.) Coriolanus. Historisches Trauerspiel in fünf Akten von Shakespeare. Nach der Schlegel-Tieckschen Übersetzung für die deutsche Bühne bearbeitet von Karl Gutzkow. <Als Manuscript gedruckt.>
   | (Dresden [1847]: Teubner.) 68 S. 8°
 
 
 1848
+----
 
 * | (Bearb.) Der Pilger. Schauspiel in drei Aufzügen. Nach dem Portugiesischen des Almeida-Garrett für die deutsche Bühne bearbeitet von Karl Gutzkow. <Als Manuscript gedruckt.>
   | (Dresden [1848]: Teubner.) 41 S. 8°
@@ -207,24 +221,28 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1849
+----
 
 * | Neue Novellen von Karl Gutzkow. I. Imagina Unruh.
   | Leipzig: Brockhaus, 1849. 159 S. 8°
 
 
 1850
+----
 
 * | Die Ritter vom Geiste. Roman in neun Büchern von Karl Gutzkow. Bd. 1-9.
   | Leipzig: Brockhaus, 1850-1851. 433; 409; 466; 458; 537; 449; 491; 485; 548 S. 8°
 
 
 1851
+----
 
 * | Die Adjutanten. Eine politische Komödie in fünf Aufzügen von Karl Gutzkow. Als Manuscript gedruckt.
   | Dresden [1851]: Teubner. 1 Bl., 76 S. 8°
 
 
 1852
+----
 
 * | Die Diakonissin. Schauspiel in fünf Aufzügen von Karl Gutzkow. <Als Manuscript gedruckt.>
   | Dresden 1852: Teubner. 1 Bl. 79 S. 8°.
@@ -233,6 +251,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1853
+----
 
 * | (Hrsg.) Unterhaltungen am häuslichen Herd. Bd. 1-3.
   | Leipzig: Brockhaus, 1853-1855. VIII, 832; VIII, 832; VIII, 832 S. Gr.8°
@@ -245,6 +264,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1855
+----
 
 * | Die Diakonissin. Ein Lebensbild. Von Karl Gutzkow.
   | Frankfurt a.M.: Literarische Anstalt, 1855. 223 S. 8°
@@ -254,18 +274,21 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1856
+----
 
 * | Die kleine Narrenwelt. Von Karl Gutzkow. Theil 1-3.
   | Frankfurt a.M.: Literarische Anstalt, 1856-1857. IX, 216; 240; 312 S. Kl. 8°
 
 
 1858
+----
 
 * | Der Zauberer von Rom. Roman in neun Büchern von Karl Gutzkow. Bd. 1-9.
   | Leipzig: Brockhaus, 1858-1861. IX, 371; 351; 396; 376; 376; 367; 379; 378; 506 S. 8°
 
 
 1862
+----
 
 * | Dramatische Werke von Karl Gutzkow. Vollständige neu umgearbeitete Ausgabe. Bändchen 1-20.
   | Leipzig: Brockhaus, 1862-1863. Kl. 8°
@@ -291,6 +314,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1864
+----
 
 * | Die Curstauben. Novelle von Karl Gutzkow.
   | Leipzig: Brockhaus, 1864. 63 S. 16°
@@ -299,18 +323,21 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1865
+----
 
 * | Prolog von Karl Gutzkow. Zur Wiedereröffnung des St. Gilgenberger Theaters gesprochen von des Dichters Töchterchen Selma am 30 September 1865. (Als Manuscript für Freunde gedruckt bei Wilhelm Küchler. Frankfurt a.M.)
   | (Frankfurt a.M.) 1865 (: Küchler). 7 S. Kl. 8°
 
 
 1867
+----
 
 * | Hohenschwangau. Roman und Geschichte. 1536-1567. Von Karl Gutzkow. Bd. 1-5.
   | Leipzig: Brockhaus, 1867-1868. 330; 362; 362; 373; 463 S. 8°
 
 
 1868
+----
 
 * | Vom Baum der Erkenntniß. Denksprüche von Karl Gutzkow.
   | Stuttgart: Cotta, 1868. 230 S. 8°
@@ -319,12 +346,14 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1869
+----
 
 * | Die schöneren Stunden. Rückblicke von Karl Gutzkow.
   | Stuttgart: Hallberger, 1869. X, 339 S. 8°
 
 
 1870
+----
 
 * | Lebensbilder. Von Karl Gutzkow. Bd. 1-3.
   | Stuttgart: Hallberger, 1870-1872. 318; 364; 325 S. 8°
@@ -340,6 +369,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1871
+----
 
 * | Der Wärwolf. Historische Erzählung von Karl Gutzkow.
   | Wien: Dittmarsch, 1871. 152 S. Kl. 8°
@@ -367,6 +397,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1872
+----
 
 * | Fritz Ellrodt. Roman von Karl Gutzkow. Bd. 1-3.
   | Jena: Costenoble, 1872. 356; 390; 306 S. 8°
@@ -376,6 +407,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1873
+----
 
 * | Gesammelte Werke von Karl Gutzkow. Erste vollständige Gesammt-Ausgabe. Erste Serie. [Ab Bd. 3 mit dem Zusatz:] Zweite vermehrte und verbesserte Auflage. Bd. 1-12.
   | Jena: Costenoble, [1873-1876]. 8°
@@ -393,6 +425,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1875
+----
 
 * | Rückblicke auf mein Leben. Von Karl Gutzkow.
   | Berlin: Hofmann, 1875. VIII, 358 S. 8°
@@ -400,6 +433,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1876
+----
 
 * | Dschingiskhan. Lustspiel in einem Aufzug von Karl Gutzkow.
   | Wien: Wallishausser, 1876. 43 S. Kl. 8°
@@ -407,12 +441,14 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1877
+----
 
 * | Die neuen Serapionsbrüder. Roman in drei Bänden von Karl Gutzkow. Bd. 1-3.
   | Breslau: Schottlaender, 1877. 276; 297; 309 S. 8°
 
 
 1878
+----
 
 * | In bunter Reihe. Briefe, Skizzen, Novellen von Karl Gutzkow.
   | Breslau: Schottlaender, 1878. 322 S. 8°
@@ -421,18 +457,21 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1902
+----
 
 * | Die Deutsche Revue von Karl Gutzkow und Ludolf Wienbarg. (1835). Hg. von J[oseph] Dresch.
   | Berlin: Behr, 1902. XLIII, 39 S. Kl. 8°
 
 
 1905
+----
 
 * | Karl Gutzkow: Wally die Zweiflerin. Roman. Nebst e. Folge von Streitschriften. Kritische Folge von E[ugen] Wolff.
   | Jena: Costenoble, 1905. XLIX, 288 S. Kl. 8°
 
 
 1908
+----
 
 * | Karl Gutzkows ausgewählte Werke in zwölf Bänden. Hg. von Heinrich Hubert Houben. Mit drei Bildn. u. e. Briefe als Handschriftenprobe. Bd. 1-12.
   | Leipzig: Hesse, [1908]. (Hesses Klassiker-Ausg.)
@@ -451,6 +490,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1910
+----
 
 * | Gutzkows Werke. Auswahl in zwölf Teilen. Hrsg., mit Einleitung u. Anmerkungen versehen von Reinhold Gensel. Teil 1-12.
   | Berlin, Leipzig, Wien, Stuttgart: Bong, [1910].
@@ -471,6 +511,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1911
+----
 
 * | Gutzkows Werke. Hg. von Peter Müller. Kritisch durchges. u. erl. Ausgabe. Bd. 1-4.
   | Leipzig u. Wien: Bibliographisches Institut [1911].
@@ -484,6 +525,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1912
+----
 
 * | Die Ritter vom Geiste. Roman in neun Büchern von Karl Gutzkow. In drei Teilen hg. mit Einl. u. Anm. vers. von Reinhold Gensel. Mit e. Faksimilebeilage.
   | Berlin, Leipzig, Wien, Stuttgart: Bong, [1912.] 569, 529, 636 S. 8°
@@ -491,18 +533,21 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1959
+----
 
 * | Karl Gutzkow: Unter dem schwarzen Bären. Autobiographische Aufzeichnungen, Bilder und Erinnerungen. Mit 9 Bildnissen. Auswahl u. Einleitung: Fritz Böttger.
   | Berlin: Verl. d. Nation, 1959. 478 S. 8°
 
 
 1960
+----
 
 * | Karl Gutzkow: Berliner Erinnerungen und Erlebnisse. Hg. von Paul Friedländer.
   | Berlin: Das Neue Berlin, 1960. 519 S. 8°
 
 
 1965
+----
 
 * | Karl Gutzkow: Wally, die Zweiflerin. Roman. Faksimiledruck nach d. 1. Aufl. von 1835, mit der Vorrede und dem Anhang zur 2. Aufl. von 1852. Mit e. Nachw. von Jost Schillemeit.
   | Göttingen: Vandenhoeck & Ruprecht, 1965. 327, 84* S. 8°
@@ -510,6 +555,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1969
+----
 
 * | Karl Gutzkow: Deutschland am Vorabend seines Falles oder seiner Größe. Hg. von Walter Boehlich.
   | Frankfurt a.M.: Insel Verl., 1969. 146 S. 8°
@@ -517,6 +563,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1971
+----
 
 * | Therese von Bacheracht und Karl Gutzkow. Unveröffentlichte Briefe <1842-1849>. (Hg. von Werner Vordtriede.)
   | München: Kösel, (1971). 255 S. 8°
@@ -527,6 +574,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1974
+----
 
 * | Karl Gutzkow: Liberale Energie. Eine Sammlung seiner kritischen Schriften. Ausgewählt u. eingel. von Peter Demetz.
   | Frankfurt/M, Berlin, Wien: Ullstein, 1974. 426 S. 8°
@@ -534,6 +582,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1983
+----
 
 * | Karl Gutzkow: Wally, die Zweiflerin. Roman. Studienausgabe mit Dokumenten zum zeitgenössischen Literaturstreit hg. von Günter Heintz. Durchgesehene u. erg. Ausg.
   | Stuttgart: Reclam, 1983.476 S. Kl. 8°
@@ -541,6 +590,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1995
+----
 
 * | Karl Gutzkow: Berlin - Panorama einer Residenzstadt. Hg. u. mit e. Nachw. von Wolfgang Rasch.
   | Berlin: Morgenbuch Verl., 1995. 258 S. 8°
@@ -548,6 +598,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1998
+----
 
 * | Der Briefwechsel zwischen Karl Gutzkow und Levin Schücking. Herausgegeben, eingel. u. kommentiert von Wolfgang Rasch.
   | Bielefeld: Aisthesis, 1998. 278 S. 8°
@@ -564,6 +615,7 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 1999
+----
 
 * | Karl Gutzkow: Über Goethe im Wendepunkte zweier Jahrhunderte. <1836.> Eine kritische Verteidigung. Hg. von Olaf Kramer.
   | Tübingen: Klöpfer & Meyer, 1999. 136 S. 8°
@@ -571,48 +623,56 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 2001
+----
 
 * | Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe. Eröffnungsband. Hg. von Gert Vonhoff und Martina Lauster.
   | Münster: Oktober Verl., 2001. 32, 11, 18, 14, 22, 90, 77, 50, 119 S.; 1 CD. 8°
 
 
 2002
+----
 
 * | Die neuen Serapionsbrüder. Roman. Hg. von Kurt Jauslin.
   | Münster: Oktober Verl., 2002. 628 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 17.)
 
 
 2003
+----
 
 * | Briefe eines Narren an eine Närrin. Hg. von R. J. Kavanagh.
   | Münster: Oktober Verl., 2003. 218 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 1.)
 
 
 2004
+----
 
 * | Börne’s Leben. Hg. von Martina Lauster u. Catherine Minter.
   | Münster: Oktober Verl., 2004. 260 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Schriften zur Literatur und zum Theater. Bd. 5.)
 
 
 2006
+----
 
 * | Rückblicke auf mein Leben. Hg. von Peter Hasubek.
   | Münster: Oktober Verl., 2006. 475 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Autobiographische Schriften. Bd. 2.)
 
 
 2007
+----
 
 * | Der Zauberer von Rom. Roman in neun Büchern. 3 Bde. Hg. von Kurt Jauslin, Stephan Landshuter u. Wolfgang Rasch.
   | Münster: Oktober Verl., 2007. 2920 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 11/1-3.)
 
 
 2008
+----
 
 * | Briefe und Skizzen aus Berlin (1832-1834). Hg., kommentiert u. mit e. Nachw. von Wolfgang Rasch.
   | Bielefeld: Aisthesis, 2008. 210 S. 8°
 
 
 2009
+----
 
 * | Dramatische Werke. Bd. 1: Marino Falieri. Hamlet in Wittenberg. Nero. König Saul. Hg. von Anne Friedrich und Susanne Schütz, mit einem Nachwort von Diana Kainz und Hans Krah.
   | Münster: Oktober Verl., 2009. 326 S.; 1 CD. 8° (Gutzkows Werke und Briefe. Dramatische Werke. Bd. 1.)
@@ -623,12 +683,14 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 2010
+----
 
 * | Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere. Herausgegeben von Martina Lauster.
   | Münster: Oktober Verl., 2010. 756 S. (Gutzkows Werke und Briefe. Schriften zur Politik und Gesellschaft. Bd. 3.)
 
 
 2013
+----
 
 * | Schriften zum Buchhandel und zur literarischen Praxis. Herausgegeben von Christine Haug und Ute Schneider.
   | Münster: Oktober Verl., 2013. 300 S. (Gutzkows Werke und Briefe. Schriften zur Literatur und zum Theater. Bd. 7.)
@@ -639,6 +701,49 @@ Wesentlich vollständiger und detaillierter für den zeitgenössischen Gutzkow i
 
 
 2014
+----
 
 * | Die Diakonissin. Ein Lebensbild. Herausgegeben von Stephan Landshuter.
   | Münster: Oktober Verl., 2014. 199 S. (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 10.)
+
+
+2015
+----
+
+* | Die neuen Serapionsbrüder. Kommentarband. Hg. von Kurt Jauslin in Zusammenarbeit mit Martina Lauster.
+  | Münster: Oktober Verl., 2015. 348 S. (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 17. Kommentarband.)
+
+
+2017
+----
+
+* | Novellen. Hg. von Gert Vonhoff.
+  | Münster: Oktober Verl., 2017. 326 S. (Gutzkows Werke und Briefe. Erzählerische Werke. Bd. 3.)
+
+
+2018
+----
+
+* | Kleine autobiographische Schriften und Memorabilien. Hg. von Wolfgang Rasch.
+  | Münster: Oktober Verl., 2018. 400 S. (Gutzkows Werke und Briefe. Autobiographische Schriften. Bd. 3.)
+
+
+2019
+----
+
+* | Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im 19. Jahrhundert. Hg. von Madleen Podewski.
+  | Münster: Oktober Verl., 2019. 273 S. (Gutzkows Werke und Briefe. Abt. IV. Schriften zur Literatur und zum Theater. Bd. 3.)
+
+
+2020
+----
+
+* | Maha Guru. Geschichte eines Gottes. Hg. von Richard J. Kavanagh.
+  | Münster: Oktober Verl., 2020. 367 S. (Gutzkows Werke und Briefe. Abt. I. Erzählerische Werke. Bd. 2.)
+
+
+2021
+----
+
+* | Kleine Erzählerische Werke. Bd. 2. Hg. von Dirk Göttsche unter Mitarb. von Joanna Neilly.
+  | Münster: Oktober Verl., 2021. (Gutzkows Werke und Briefe. Abt. I. Erzählerische Werke. Bd. 9.) 

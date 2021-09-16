@@ -5,9 +5,9 @@ Siglen für Texte Gutzkows und die Bibliographie
 :slug: siglen
 :order: 3
 
-*Großbuchstaben werden für Werkausgaben, die zu Gutzkows Lebzeiten erschienen, sowie für von anderen herausgegebene Werkausgaben oder Sammlungen verwendet (z. B. GW = Gesammelte Werke; HOU = die von Houben edierte Werkausgabe; DE = die von Demetz herausgegebene Sammlung kritischer Schriften). Siglen mit fortführenden oder eingestreuten Kleinbuchstaben bezeichnen Einzelwerke, die von Gutzkow selbst oder posthum publiziert wurden, z. B. Wa = Wally, die Zweiflerin; WaH = derselbe Text, herausgegeben von Heintz. Auch für die von Gutzkow redigierten Zeitschriften werden solche Siglen benutzt, z. B. TfD = Telegraph für Deutschland.*
+*Großbuchstaben werden für Werkausgaben, die zu Gutzkows Lebzeiten erschienen, sowie für von anderen herausgegebene Werkausgaben oder Sammlungen verwendet (z. B. GW = Gesammelte Werke; HOU = die von Houben edierte Werkausgabe; DE = die von Demetz herausgegebene Sammlung kritischer Schriften). Siglen mit fortführenden oder eingestreuten Kleinbuchstaben bezeichnen Einzelwerke, die posthum publiziert wurden, z. B. WaH = Wally, die Zweiflerin, herausgegeben von Heintz. Auch für die von Gutzkow redigierten Zeitschriften werden solche Siglen benutzt, z. B. TfD = Telegraph für Deutschland.*
 
-1.1. Gutzkow-Bibliographie
+1.1 Gutzkow-Bibliographie
 --------------------------
 
 .. class:: siglen-list
@@ -17,7 +17,7 @@ Rasch
     *Verweisungen auf die Bibliographie erfolgen mit der Kennziffer, die Rasch für jeden einzelnen Titel vergeben hat (z. B. Rasch 3.37.12.08).
     Nachträge zur Bibliographie erhalten die Zusatzsigle N, z. B. Die zoologischen Gärten. Rasch 3.61.07.04.4 N.*
 
-1.2. Werkausgaben zu Lebzeiten
+1.2 Werkausgaben zu Lebzeiten
 ------------------------------
 
 .. class:: siglen-list
@@ -38,7 +38,7 @@ GWII
     | Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. [Ab Bd. 3 mit dem Zusatz:] Zweite vermehrte und verbesserte Auflage. 12 Bde. Jena: Costenoble, [1873-76].
     | Rasch 1.5
 
-1.3. Posthume Werkausgaben
+1.3 Posthume Werkausgaben
 --------------------------
 
 .. class:: siglen-list
@@ -62,188 +62,8 @@ HOU
 MUE
     Gutzkows Werke. Kritisch durchgesehene und erläuterte Ausgabe. Hg. von Peter Müller. 4 Bde. Leipzig, Wien: Bibliographisches Institut, [1911].
 
-1.4. Einzelwerke und von Gutzkow zusammengestellte Sammlungen seiner Texte
---------------------------------------------------------------------------
-
-.. class:: siglen-list
-
-AadV
-    | Ansprache an das Volk. Berlin: Springer, 1848.
-    | Rasch 2.26
-AdK
-    | Aus der Knabenzeit. Frankfurt/M.: Literarische Anstalt, 1852.
-    | Rasch 2.30
-Ap
-    | Appellation an den gesunden Menschenverstand. Letztes Wort in einer literarischen Streitfrage. Frankfurt/M.: Streng, 1835.
-    | Rasch 2.10
-BaP
-    | Briefe aus Paris. 2 Bde. Leipzig: Brockhaus, 1842.
-    | Rasch 2.24
-BdE
-    | Vom Baum der Erkenntnis. Stuttgart: Cotta, 1868.
-    | Rasch 2.38
-Bla
-    | Blasedow und seine Söhne. 3 Bde. Stuttgart: Verlag der Classiker, 1838.
-    | Rasch 2.18
-BnL
-    | Beiträge zur Geschichte der neuesten Literatur. 2 Bde. Stuttgart: Balz, 1836.
-    | Rasch 2.13
-BoeL
-    | Börne's Leben. Hamburg: Hoffmann und Campe, 1840.
-    | Rasch 2.21
-BrN
-    | Briefe eines Narren an eine Närrin. Hamburg: Hoffmann und Campe, 1832.
-    | Rasch 2.1
-BuR
-    | In bunter Reihe. Breslau: Schottlaender, 1878.
-    | Rasch 2.49
-Cu
-    | Die Curstauben. Leipzig: Brockhaus, 1864.
-    | Rasch 2.35
-DaV
-    | Deutschland am Vorabend seines Falles oder seiner Größe. Frankfurt/M.: Literarische Anstalt, 1848.
-    | Rasch 2.27
-DaVB
-    Karl Gutzkow: Deutschland am Vorabend seines Falles oder seiner Größe. Hg. von Walter Boehlich. Frankfurt/M.: Insel, 1969. (sammlung insel 36).
-Di
-    | Divination auf den nächsten württembergischen Landtag. Hanau: König, 1832.
-    | Rasch 2.2
-Dia
-    | Die Diakonissin. Ein Lebensbild. Frankfurt/M.: Literarische Anstalt, 1855.
-    | Rasch 2.31
-DioL
-    | Dionysius Longinus. Oder: Ueber den ästhetischen Schwulst in der neuern deutschen Literatur. Stuttgart: Gutzkow, 1878.
-    | Rasch 2.50
-Dsch
-    | Dschingiskhan. Wien: Wallishauser, 1876.
-    | Rasch 2.47
-DwE
-    | Das Duell wegen Ems. Gedanken über den Frieden. Berlin: Puttkammer & Mühlbrecht, 1870.
-    | Rasch 2.42
-FrE
-    | Fritz Ellrodt. 3 Bde. Jena: Costenoble, 1872.
-    | Rasch 2.44
-GoeHD
-    | Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche. Hamburg: Hoffmann und Campe, 1838.
-    | Rasch 2.17
-GoeW
-    | Über Göthe im Wendepunkte zweier Jahrhunderte. Berlin: Plahn, 1836.
-    | Rasch 2.12
-Ho
-    | Hohenschwangau. Roman und Geschichte. 1536-1567. 5 Bde. Leipzig: Brockhaus, 1867-68.
-    | Rasch 2.37
-Holl
-    | Ein Hollandgang. Jena: Costenoble, 1872.
-    | Rasch 2.45
-ImU
-    | Imagina Unruh. Leipzig: Brockhaus, 1849. (Neue Novellen von Karl Gutzkow. Bd. 1).
-    | Rasch 2.28
-Ka
-    | Das Kastanienwäldchen bei Berlin. In: Lebensbilder. 3 Bde. Bd. 2: Novellen und Skizzen. Stuttgart: Hallberger, 1870. S. 45-126.
-    | Rasch 2.40.2.2
-KlReiseb
-    | [Anon.:] Kleine Reisebilder. Naumburg. - Weißenfels. - Merseburg. - Halle. - Magdeburg. In: Telegraph für Deutschland. Hamburg. Nr. 161, [7.] Oktober 1839, S. 1281-1284; Nr. 163, [11.] Oktober 1839, S. 1302-1303; Nr. 164, [12.] Oktober 1839, 1305-1308.
-    | Rasch 3.39.10.07
-KlNw
-    | Die kleine Narrenwelt. 3 Bde. Frankfurt/M.: Literarische Anstalt, 1856-57.
-    | Rasch 2.33
-Le
-    | Lebensbilder. 3 Bde. Stuttgart: Hallberger, 1870-72.
-    | Rasch 2.40
-MaeV
-    | Ein Mädchen aus dem Volke. Bilder der Wirklichkeit. Prag: Gerzabek, Leipzig: Hübner, 1855.
-    | Rasch 2.32
-MaGu
-    | Maha Guru. Geschichte eines Gottes. 2 Bde. Stuttgart, Tübingen: Cotta, 1833.
-    | Rasch 2.3
-Ne
-    | Nero. Stuttgart, Tübingen: Cotta, 1835.
-    | Rasch 2.7
-No
-    | Novellen. 2 Bde. Hamburg: Hoffmann & Campe, 1834.
-    | Rasch 2.4
-NSer
-    | Die neuen Serapionsbrüder. 3 Bde. Breslau: Schottlaender, 1877.
-    | Rasch 2.48
-OeCh
-    | Oeffentliche Charaktere. Hamburg: Hoffmann und Campe, 1835.
-    | Rasch 2.5
-PhG
-    | Zur Philosophie der Geschichte. Hamburg: Hoffmann und Campe, 1836.
-    | Rasch 2.11
-PvH
-    | Die Paumgärtner von Hohenschwangau. 3 Bde. Breslau: Schottlaender, 1880.
-    | Rasch 2.37a
-RoMue
-    | Die rothe Mütze und die Kapuze. Zum Verständniß des Görres'schen Athanasius. Hamburg: Hoffmann und Campe, 1838.
-    | Rasch 2.16
-Rue
-    | Rückblicke auf mein Leben. Berlin: Hofmann, 1875.
-    | Rasch 2.46
-RvGI
-    | Die Ritter vom Geiste. Roman in neun Büchern. 9 Bde. Leipzig: Brockhaus, 1850-51.
-    | Rasch 2.29
-RvGII
-    Zweite Auflage (Rasch 2.29a)
-RvGIII
-    | Dritte Auflage (Rasch 2.29b)
-    | usw.
-RvGN
-    Die Ritter vom Geiste. Roman in neun Büchern. Hg. von Thomas Neumann. 3 Bände und ein Materialienband. Frankfurt/M.: Zweitausendeins, 1998.
-SaeI
-    | Säkularbilder. Theil 1-2. In: Gesammelte Werke. Vollständig umgearbeitete Ausgabe. Bd. 9-10. Frankfurt/M.: Literarische Anstalt, 1846.
-    | Rasch 1.2.9-10
-SaeII
-    | Säkularbilder. Anfänge und Ziele des Jahrhunderts. In: Gesammelte Werke. Zweite vermehrte und verbesserte Auflage. Bd. 8. Jena: Costenoble, [1875].
-    | Rasch 1.5.8
-SchGoe
-    | Schiller und Göthe. Ein psychologisches Fragment. Hamburg: Hoffmann und Campe, 1841.
-    | Rasch 2.22
-SchS
-    | Die schöneren Stunden. Stuttgart: Hallberger, 1869.
-    | Rasch 2.39
-Se
-    | Seraphine. Hamburg: Hoffmann und Campe, 1837.
-    | Rasch 2.15
-Sk
-    | Skizzenbuch. Kassel, Leipzig: Krieger, 1839.
-    | Rasch 2.19
-SoeP
-    | Die Söhne Pestalozzis. 3 Bde. Berlin: Janke, 1870.
-    | Rasch 2.41
-Soi
-    | Soireen. 2 Bde. Frankfurt/M.: Sauerländer, 1835.
-    | Rasch 2.9
-VgM
-    | Vertheidigung gegen Menzel und Berichtigung einiger Urtheile im Publikum. Mannheim: Löwenthal, 1835.
-    | Rasch 2.8
-VSch
-    | Vermischte Schriften. 4 Bde. Leipzig: Weber (Bd. 4: Brockhaus), 1842-50.
-    | Rasch 2.23
-Wa
-    | Wally, die Zweiflerin. Mannheim: Löwenthal, 1835.
-    | Rasch 2.6
-WaH
-    Karl Gutzkow: Wally, die Zweiflerin. Studienausgabe mit Dokumenten zum zeitgenössischen Literaturstreit. Hg. von Günter Heintz. Stuttgart: Reclam, 1983.
-Waer
-    | Der Wärwolf. Wien: Dittmarsch, 1871.
-    | Rasch 2.43
-Zg
-    | Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere. Aus dem Englischen des E.L. Bulwer. 2 Bde. Stuttgart: Verlag der Classiker, 1837.
-    | Rasch 2.14
-ZLe
-    | Aus der Zeit und dem Leben. Leipzig: Brockhaus, 1844.
-    | Rasch 2.25
-ZvRI
-    | Der Zauberer von Rom. Roman in neun Büchern. 9 Bde. Leipzig: Brockhaus, 1858-61.
-    | Rasch 2.34
-ZvRII
-    | Zweite Auflage
-    | Rasch 2.34a
-    | usw.
-
-1.5. Posthume Textsammlungen
-----------------------------
+1.4 Posthume Werke und Textsammlungen
+-------------------------------------
 
 .. class:: siglen-list
 
@@ -259,10 +79,14 @@ RAB
     Karl Gutzkow: Berlin - Panorama einer Residenzstadt. Hg. von Wolfgang Rasch. Berlin: Morgenbuch, 1995.
 RABS
     Karl Gutzkow: Briefe und Skizzen aus Berlin (1832-1834). Hg. von Wolfgang Rasch. Bielefeld: Aisthesis, 2008.
+RvGN
+    Die Ritter vom Geiste. Roman in neun Büchern. Hg. von Thomas Neumann. 3 Bände und ein Materialienband. Frankfurt/M.: Zweitausendeins, 1998.
 USB
     Karl Gutzkow: Unter dem schwarzen Bären. Erlebtes 1811-1848. Hg. von Fritz Böttger. Berlin: Verlag der Nation, 1971.
+WaH
+    Karl Gutzkow: Wally, die Zweiflerin. Studienausgabe mit Dokumenten zum zeitgenössischen Literaturstreit. Hg. von Günter Heintz. Stuttgart: Reclam, 1983.
 
-1.6. Von Gutzkow redigierte Zeitschriften
+1.5 Von Gutzkow redigierte Zeitschriften
 -----------------------------------------
 
 *Die Zeitschriftennummer wird durch "Nr." nach der Sigle angegeben; es folgt die Jahresangabe, dann die Seitenzahl(en): FrT, Nr. 14, 1837, S. 2-4. Neue, neueste und Dritte Folgen werden mit Spatium zur Sigle angegeben: FrT N.F., Nr. 3, 1837, S. 17. Wenn das genaue Erscheinungsdatum feststeht, wird der Monat ausgeschrieben. Ist der Erscheinungstag ermittelt, aber nicht in der Zeitschrift angegeben, werden eckige Klammern benutzt: FrT N.F., Nr. 1, [1.] April 1837, S. 1-5.
@@ -314,7 +138,7 @@ UhH D.F.
     | [Siehe oben]. Dritte Folge. 2 Bde. 1861-62.
     | Rasch 5.8
 
-1.9. Briefwechsel Gutzkows
+1.6 Briefwechsel Gutzkows
 --------------------------
 
 *Die Siglen erfassen die wichtigsten gedruckten Sammlungen von Briefen von und an Gutzkow. Aufgenommen und mit Sigle versehen werden in der Regel Briefeditionen mit mehr als 8 Briefen. "Rasch Nachträge" bezieht sich auf die noch ungedruckte Fortsetzung der "Bibliographie Karl Gutzkow".*
@@ -723,7 +547,7 @@ OED 1971
 PC
     The Penny Cyclopædia of the Society for the Diffusion of Useful Knowledge. 27 Bde. London: Charles Knight, 1833-43.
 Petri
-    P. E. Petri: Handbuch für Fremdwörter in der deutschen Schrift- und Umgangssprache. 13. Auflage, neu bearbeitet und vielfach vermehrt von E. Samosti. Gera: Griesbach, 1888.
+    Friedrich Erdmann Petri: Handbuch der Fremdwörter in der deutschen Schrift- und Umgangssprache. 13. Auflage, neu bearbeitet und vielfach vermehrt von Emanuel Samostz. Leipzig: Arnoldi, 1886.
 Pierer 1824-36
     Encyclopädisches Wörterbuch der Wissenschaften, Künste und Gewerbe. Bearbeitet von mehreren Gelehrten. Hg. von A. Binzer (A bis Aoz), fortgesetzt von H. A. Pierer. 26 Bde. Altenburg: Pierer, 1824-36.
 Pierer 1840-46

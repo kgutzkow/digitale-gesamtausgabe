@@ -3,27 +3,13 @@ Kontakt
 
 :order: 4
 
-| Professor Martina Lauster
-| K.Gutzkow@ex.ac.uk
-| Department of Modern Languages - German
-| University of Exeter
-| Queen's Building
-| The Queen's Drive
-| Exeter EX4 4QH
-| GROSSBRITANNIEN
+Generelle Koordination: Prof. Dr. Martina Lauster (m.lauster26@gmail.com)
 
-| Professor Gert Vonhoff
-| G.Vonhoff@ex.ac.uk
-| Department of Modern Languages - German
-| University of Exeter
-| Queen's Building
-| The Queen's Drive
-| Exeter EX4 4QH
-| GROSSBRITANNIEN
-| Tel. +44 (0)1392 264333
+Ansprechpartner für Textkoordination / Gliederung der Ausgabe: Dr. Wolfgang Rasch (dr.rasch@gmx.net)
 
-Generelle Koordination: Martina Lauster (K.Gutzkow@ex.ac.uk) und Gert Vonhoff (G.Vonhoff@ex.ac.uk)
+Ansprechpartner für textkritische Fragen: Stephan Landshuter (ste.landshuter@t-online.de) und Dr. Wolfgang Rasch (dr.rasch@gmx.net)
 
-Dramen-Edition: Susanne Schütz (susanne.schuetz@romanistik.uni-halle.de)
+Ansprechpartner für Bandgestaltung (Buchausgabe): Stephan Landshuter (ste.landshuter@t-online.de) und Dr. Jörg Ritter (joerg.ritter@informatik.uni-halle.de)
 
-Textkoordination: Wolfgang Rasch (dr.rasch@gmx.net)
+Ansprechpartner für die Gestaltung der Internetseiten: Prof. Dr. Mark Hall (mark.hall@open.ac.uk)
+

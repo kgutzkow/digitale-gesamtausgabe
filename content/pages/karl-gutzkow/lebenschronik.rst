@@ -1,5 +1,5 @@
-Lebenschronik
-=============
+Wolfgang Rasch: Lebenschronik
+=============================
 
 :menu_title: Lebenschronik
 :order: 1
@@ -33,7 +33,7 @@ Lebenschronik
 1830
 ----
 
-* 3. August: Gutzkows akademische Preisarbeit "De diis fatalibus" wird von der Berliner Universität prämiert, Gutzkow erhält aus den Händen Hegels eine Auszeichnung. Die am selben Tage eintreffenden Nachrichten von der Julirevolution in Paris erschüttern und politisieren Gutzkow in hohem Maße
+* | 3. August: Gutzkows akademische Preisarbeit "De diis fatalibus" wird von der Berliner Universität prämiert, Gutzkow erhält aus den Händen Hegels eine Auszeichnung. Die am selben Tage eintreffenden Nachrichten von der Julirevolution in Paris erschüttern und politisieren Gutzkow in hohem Maße
 
 1831
 ----
@@ -49,7 +49,7 @@ Lebenschronik
 1832
 ----
 
-* 1. Pfingsttag: Gutzkow macht nochmals einen Predigtversuch in der Berliner Dreifaltigkeitskirche.
+* | 10. Juni (1. Pfingsttag): Gutzkow macht nochmals einen Predigtversuch in der Berliner Dreifaltigkeitskirche.
 * August: Anonym erscheint Gutzkows erstes Werk "Briefe eines Narren an eine Närrin" bei Hoffmann & Campe in Hamburg und wird in Preußen Oktober 1832 verboten, von Ludwig Börne in seinen "Pariser Briefen" dagegen sehr gelobt.
 * September: Zum Wintersemester 1832/33 geht Gutzkow an die Universität in Heidelberg und immatrikuliert sich hier an der juristischen Fakultät.
 
@@ -76,18 +76,18 @@ Lebenschronik
 * Februar: Gutzkow und Georg Büchner treten in Briefkontakt, Gutzkow verhilft Büchner zur Publikation von "Dantons Tod", fordert ihn zur Mitarbeit am Phönix auf und preist als erster Büchners Genie in einer richtungsweisenden Besprechung von "Dantons Tod" im Phönix.
 * April: Gutzkows Vorwort zu Friedrich Schleiermachers "Vertraute Briefe über Schlegels Lucinde" erregt Aufsehen und bringt in Berlin besonders die dortige Allianz von „Thron und Altar" gegen Gutzkow auf; das Buch wird in Preußen verboten.
 * August: Gutzkow und Wienbarg planen, eine Zeitschrift Deutsche Revue herauszugeben.
-* 12. August: Der Roman "Wally die Zweiflerin", erscheint, der am 24. September zuerst in Preußen verboten und Anlaß zu den Maßnahmen des Deutschen Bundestages gegen das "Junge Deutschland" wird.
-* 11. September: Wolfgang Menzels Verriß des Romans "Wally" läutet den publizistischen Feldzug gegen Gutzkow, die "unmoralische Literatur" des Jungen Deutschlands, ein. Eine bald erfolgte Duellforderung Gutzkows lehnt Menzel ab.
+* | 12. August: Der Roman "Wally die Zweiflerin", erscheint, der am 24. September zuerst in Preußen verboten und Anlaß zu den Maßnahmen des Deutschen Bundestages gegen das "Junge Deutschland" wird.
+* | 11. September: Wolfgang Menzels Verriß des Romans "Wally" läutet den publizistischen Feldzug gegen Gutzkow, die "unmoralische Literatur" des Jungen Deutschlands, ein. Eine bald erfolgte Duellforderung Gutzkows lehnt Menzel ab.
 * November: Sowohl die von Gutzkow und Ludolf Wienbarg herausgegebene Deutsche Revue als auch die allein von Gutzkow herausgegebenen Deutschen Blätter werden noch vor ihrem ersten Erscheinen verboten und beschlagnahmt.
-* 14. November: Verbot aller erschienenen und aller künftig erscheinenden Schriften von Gutzkow, Wienbarg, Laube und Mundt in Preußen.
-* 16. November: Gegen Gutzkow als Verfasser der "Wally" wird ein Verfahren eröffnet.
-* 30. November: Gutzkow wird vor dem Mannheimer Stadtgericht verhört und am selben Tag dort in Haft genommen.
-* 10. Dezember: Bundestagsbeschluß gegen das "Junge Deutschland"(Gutzkow, Heine, Laube, Mundt, Wienbarg).
+* | 14. November: Verbot aller erschienenen und aller künftig erscheinenden Schriften von Gutzkow, Wienbarg, Laube und Mundt in Preußen.
+* | 16. November: Gegen Gutzkow als Verfasser der "Wally" wird ein Verfahren eröffnet.
+* | 30. November: Gutzkow wird vor dem Mannheimer Stadtgericht verhört und am selben Tag dort in Haft genommen.
+* | 10. Dezember: Bundestagsbeschluß gegen das "Junge Deutschland"(Gutzkow, Heine, Laube, Mundt, Wienbarg).
 
 1836
 ----
 
-* 13. Januar: Urteilsverkündung: Gutzkow wird wegen "verächtlicher Darstellung des Glaubens der christlichen Religionsgemeinschaft" zu einem Monat Gefängnis ohne Anrechnung der Untersuchungshaft verurteilt.
+* | 13. Januar: Urteilsverkündung: Gutzkow wird wegen "verächtlicher Darstellung des Glaubens der christlichen Religionsgemeinschaft" zu einem Monat Gefängnis ohne Anrechnung der Untersuchungshaft verurteilt.
 * 10. Februar: Gutzkow wird aus dem Gefängnis entlassen und aus Baden abgeschoben.
 * 15. Juli: Eheschließung mit Amalie Klönne (geb. 15. Juni 1817, gest. 1848) in Frankfurt a.M.; dieser Ehe entstammen drei Söhne: Hermann Gutzkow (1837-1909), Fritz Gutzkow (1839-?), Emil Gutzkow (1842-1920).
 * Juli-November: Gutzkow schreibt für Lewalds Europa "Literarische Übersichten".
@@ -181,7 +181,7 @@ Lebenschronik
 * Ende März: Gutzkows Flugschrift "Ansprache an das Volk" erscheint in Berlin.
 * 22. April: Tod der Gattin Amalie in Berlin; Gutzkow zieht sich für einige Zeit nach Warmbrunn zurück.
 * November: Zwischen Therese von Bacheracht und Gutzkow kommt es in Dresden zum Bruch; Therese heiratet 1849 einen Vetter, geht mit diesem nach Java, wo sie 1852 stirbt.
-* "Deutschland am Vorabend seines Falles oder seiner Größe" erscheint
+* November: "Deutschland am Vorabend seines Falles oder seiner Größe" erscheint
 
 1849
 ----

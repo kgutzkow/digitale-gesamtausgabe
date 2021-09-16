@@ -1,20 +1,20 @@
-Stimmen zu Person und Werk
-==========================
+Wolfgang Rasch: Stimmen zu Person und Werk
+==========================================
 
 :order: 4
 :author: Wolfgang Rasch
 
-Ludwig Börne 1832 über "Briefe eines Narren an eine Närrin"
+*Ludwig Börne 1832 über "Briefe eines Narren an eine Närrin"*
+-------------------------------------------------------------
+* | Ein herrliches deutsches Buch habe ich hier gelesen; schicken Sie gleich hin, es holen zu lassen. Briefe eines Narren an eine Närrin. Auch in Hamburg bei Campe erschienen, der seine Freude daran hat, die Briefe aller Narren an alle Närrinnen drucken zu lassen. Es ist so schnell abwechselnd erhaben und tief, daß Sie vielleicht müde werden, es zu lesen; ich bin es selbst geworden und bin doch ein besserer Kopfgänger als Sie. Aber es ist der Anstrengung wert.
 
-Ein herrliches deutsches Buch habe ich hier gelesen; schicken Sie gleich hin, es holen zu lassen. Briefe eines Narren an eine Närrin. Auch in Hamburg bei Campe erschienen, der seine Freude daran hat, die Briefe aller Narren an alle Närrinnen drucken zu lassen. Es ist so schnell abwechselnd erhaben und tief, daß Sie vielleicht müde werden, es zu lesen; ich bin es selbst geworden und bin doch ein besserer Kopfgänger als Sie. Aber es ist der Anstrengung wert.
+*"Frankfurter Konversationsblatt", 1835*
+----------------------------------------
+* | Es gehört zu den Lieblingsredensarten der Feinde der aufkeimenden literarischen Generation, daß diese keine Tiefe, keine Gründlichkeit besitze. Von Gutzkow muß dieser einseitige Vorwurf abprallen. Er verbindet den kritischen Scharfsinn Lessings mit dem Feuer und der Kühnheit Börnes, er besitzt Kraft und Fülle und das tiefe, reiche Gefühl Jean Pauls; er ist voll philosophischer Tiefe und lebensfroher Poesie, voll raschen, jugendlichen Geistes und edlen, hingebenden Gemüthes.
 
-"Frankfurter Konversationsblatt", 1835
-
-Es gehört zu den Lieblingsredensarten der Feinde der aufkeimenden literarischen Generation, daß diese keine Tiefe, keine Gründlichkeit besitze. Von Gutzkow muß dieser einseitige Vorwurf abprallen. Er verbindet den kritischen Scharfsinn Lessings mit dem Feuer und der Kühnheit Börnes, er besitzt Kraft und Fülle und das tiefe, reiche Gefühl Jean Pauls; er ist voll philosophischer Tiefe und lebensfroher Poesie, voll raschen, jugendlichen Geistes und edlen, hingebenden Gemüthes.
-
-Wolfgang Menzel, 1835
-
-Bei alledem maßt sich Herr Gutzkow an, das Haupt des "jungen Deutschland" zu seyn und im Kampf der Zeit eine große Rolle zu spielen. Auf einem kranken Bock reitend, glaubt er sein Ritterthum im Kampf der Zeit zu bewähren. Mit Unzucht will er die Welt verbessern. Eine schändliche Krankheit bietet er ihr als Heilmittel an.
+*Wolfgang Menzel, 1835*
+-----------------------
+* | Bei alledem maßt sich Herr Gutzkow an, das Haupt des "jungen Deutschland" zu seyn und im Kampf der Zeit eine große Rolle zu spielen. Auf einem kranken Bock reitend, glaubt er sein Ritterthum im Kampf der Zeit zu bewähren. Mit Unzucht will er die Welt verbessern. Eine schändliche Krankheit bietet er ihr als Heilmittel an.
 
 Evangelische Kirchenzeitung, 1835
 
