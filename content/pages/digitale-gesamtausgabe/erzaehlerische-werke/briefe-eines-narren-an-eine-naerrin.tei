@@ -13972,17 +13972,29 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">119,29</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>die Marseillaise</tei:lem>
+        <tei:lem>die </tei:lem>
+        <tei:hi style="letter-sparse">
+          <tei:lem>Marseillaise</tei:lem>
+        </tei:hi>
         <tei:seg> </tei:seg>
-        <tei:sic>dir Marseillaise</tei:sic>
+        <tei:sic>dir </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>Marseillaise</tei:sic>
+        </tei:hi>
         <tei:seg> </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">119,34</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>„Man hat: noch ist Polen nicht verloren gesungen“!</tei:lem>
+        <tei:hi style="letter-sparse">
+          <tei:lem>nicht verloren</tei:lem>
+        </tei:hi>
+        <tei:lem> gesungen“!</tei:lem>
         <tei:seg> </tei:seg>
-        <tei:sic>„Man hat: noch ist Polen nicht verloren“ gesungen!</tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>nicht verloren</tei:sic>
+        </tei:hi>
+        <tei:sic>“ gesungen!</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -14149,8 +14161,8 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">40,11-12</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>das Hohenzollern - das Wittelsbacherthum</tei:lem>
-        <tei:seg> lies: </tei:seg>
+        <tei:q>das Hohenzollern – das Wittelsbacherthum</tei:q>
+        <tei:seg> ] lies: </tei:seg>
         <tei:sic>das Hohenzollern- das Wittelsbacherthum</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
@@ -15347,9 +15359,12 @@
       <tei:head data-heading-id="5. Rezeptions- und Wirkungsgeschichte" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>5. Rezeptions- und Wirkungsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="5.1. Dokumente zur Rezeptionsgeschichte" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head data-heading-id="5.1. Dokumente zur Rezeptionsgeschichte" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
+        <tei:seg>Die (auszugsweise) Textwiedergabe folgt zeichen- und buchstabengetreu der Vorlage; Druckfehler wurden stillschweigend berichtigt, ausgefallene Lettern in eckigen Klammern ergänzt.</tei:seg>
+      </tei:p>
       <tei:head data-heading-id="5.1.1. Rezensionen" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>5.1.1. Rezensionen</tei:seg>
       </tei:head>
