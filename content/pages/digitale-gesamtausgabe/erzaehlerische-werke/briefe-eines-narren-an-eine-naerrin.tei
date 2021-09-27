@@ -54,7 +54,7 @@
       <tei:change when="2017-03" who="#MartinaLauster">1.5: Zusätze in Entstehungsgeschichte, Rezeptionsdokumente</tei:change>
       <tei:change when="2018-01" who="#MartinaLauster #KurtJauslin">1.6: Zusätze in Stellenerläuterungen</tei:change>
       <tei:change when="2019-01" who="#MartinaLauster">1.7: Zusätze in Stellenerläuterungen</tei:change>
-      <tei:change when="2021-02" who="#MartinaLauster">1.8: TEI-Transfer Text u. Kommentar, Zusätze Stellenerläuterungenen</tei:change>
+      <tei:change when="2021-02" who="#MartinaLauster">1.8: TEI-Transfer Text u. Kommentar, Zusätze Stellenerläuterungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -13744,22 +13744,22 @@
       </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0">
         <tei:seg>Bearbeitung:  Richard J.  Kavanagh, Cork;  Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -14110,9 +14110,12 @@
         <tei:citedRange type="page-line-ref">7,28</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>G-Saite</tei:lem>
-        <tei:seg> lies: (G serifenlos) </tei:seg>
-        <tei:sic>G</tei:sic>
-        <tei:sic>-Saite</tei:sic>
+        <tei:seg> lies: </tei:seg>
+        <tei:q>G-Saite</tei:q>
+        <tei:sic> </tei:sic>
+        <tei:seg>(</tei:seg>
+        <tei:foreign>G</tei:foreign>
+        <tei:seg> als fremdsprachiger Text, serifenloser Satz)</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:citedRange type="page-line-ref">110,14</tei:citedRange>
@@ -16137,41 +16140,41 @@
       <tei:head data-heading-id="6. Globalkommentar" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>6. Globalkommentar</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Restauration </tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Zensur</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Frühlingsmetapher</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Cholera</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Der Nord-Süd-Diskurs</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Ideenschmuggel</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Republikanismus</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Die </tei:seg>
         <tei:q>Macht der kleinen Umstände</tei:q>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Nebeneinander: Telegraphistik, Synchronistik, Palimpsest</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Metamorphosen</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Gender </tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Erziehung</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
