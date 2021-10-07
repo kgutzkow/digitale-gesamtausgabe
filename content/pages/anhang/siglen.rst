@@ -628,8 +628,6 @@ B\ :sup:`3`
     Karl Gutzkow: Dramatische Werke. 20 Bdchen. Jena: Costenoble, 1871-1872.
 E
     Einzeldruck
-e
-    elektronische Ausgabe (in unserer Ausgabe kombiniert mit einer Einzeltextsigle)
 eGWB
     elektronische Ausgabe (Internetausgabe) von Gutzkows Werken und Briefen
 GWB
