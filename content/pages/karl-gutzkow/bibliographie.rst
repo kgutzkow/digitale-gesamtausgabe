@@ -3,6 +3,8 @@ Wolfgang Rasch: Werke und Ausgaben
 
 :order: 2
 :author: Wolfgang Rasch
+:slug: werke-und-ausgaben
+:menu_title: Werke und Ausgaben
 
 Die Bibliographie bringt eine chronologische Übersicht der selbständig erschienenen Sammelausgaben, der Werke, der nur als Manuskriptdruck erschienenen Dramen, der von Gutzkow herausgegebenen Zeitschriften und der von Gutzkow bevorworteten Werke anderer.
 Außerdem enthält sie alle wichtigen nach Gutzkows Tod herausgekommenen Werkausgaben, Einzelwerke und selbständig erschienenen Briefeditionen bis heute.

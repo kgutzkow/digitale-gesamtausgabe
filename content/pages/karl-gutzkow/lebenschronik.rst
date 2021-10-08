@@ -4,6 +4,7 @@ Wolfgang Rasch: Lebenschronik
 :menu_title: Lebenschronik
 :order: 1
 :author: Wolfgang Rasch
+:slug: lebenschronik
 
 1811
 ----
