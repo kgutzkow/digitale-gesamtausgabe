@@ -187,7 +187,7 @@ Stimmen zu Person und Werk
 *Arno Schmidt, 1965*
 
 * Und nun : wie heißt die ‹eigentlich Leistung› : das ‹Bleibende›? 
-| Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
+  | Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
 
 *Walter Boehlich, 1969*
 
@@ -204,3 +204,4 @@ Stimmen zu Person und Werk
 *Rolf Vollmann, 1997*
 
 * Aber Gutzkow ist eben auch, gerade in diesen großen Werken (aber denken Sie auch an ein Buch wie die „Seraphine“ mit ihren Experimenten!), so ungeheuer viel besser als sein Ruf, daß man, wenn man das richtig ins Auge gefaßt hat, das Jahrhundert gar nicht mehr richtig wiedererkennt, wie es einem ohne einen solchen Romancier bisher immer im Kopf gesessen hat.
+
