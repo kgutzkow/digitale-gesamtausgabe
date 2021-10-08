@@ -1,5 +1,5 @@
 Diorama der Gebrüder Gropius
-==========================
+============================
 
 :slug: FDiorama1
 :order: 11
