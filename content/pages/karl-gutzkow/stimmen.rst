@@ -88,7 +88,7 @@ Stimmen zu Person und Werk
 
 * Nun kommen wir aber auf einen ernsteren Punkt. Gutzkow hat es gewagt, seinen Roman dem deutschen Volke zu widmen: er soll "beitragen helfen, die vaterländische Einheit zu fördern." [...] Wie nun die beiden Helden Lucinde und Klingsohr beschaffen sind, haben wir gesehen; die anderen Personen sind entweder Narren und Schurken oder ganz unbedeutend, nicht ein einziger Charakter, der uns mit dem Leben und diesen Zuständen versöhnt. Überall eine wüste Unordnung, ein Gemisch von unreifem Hochmuth und Verschrobenheit. Wir glauben, es kann dem deutschen Volk nicht gleichgiltig sein, so geschildert zu werden, um so weniger, da die Schilderungen nicht wahr sind, ja es würde eine nicht geringe Kunst dazu gehören, in Deutschland eine solche Fülle von Zerrbildern aufzutreiben, als dieser Roman sie aufweist.
 
-*„Augsburger Postzeitung“ über den „Zauberer von Rom“,, 1859*
+*„Augsburger Postzeitung“ über den „Zauberer von Rom“, 1859*
 
 * Hoffentlich wird kein Katholik, der etwas auf sich und seinen Glauben hält, für dieses Schandwerk auch nur einen Kreuzer Geld ausgeben oder ausgegeben haben.
 
@@ -148,6 +148,10 @@ Stimmen zu Person und Werk
 
 * Will man eine Persönlichkeit bezeichnen, in der sich der neue Geist dieser Neunzehnten-Jahrhunderts-Dichtung zum erstenmale rein und deutlich und klar bewusst offenbart, so muss man ehestens Karl Gutzkow nennen. Seine poetischen Schöpfungen finden allerdings schon heute keinen rechten Anklang mehr und nur wenige von ihnen sind in lebendiger Erinnerung geblieben. In nicht allzu ferner Zeit werden sie wohl wesentlich nur noch ein Gegenstand des gelehrten, litterargeschichtlichen Studiums sein. Aber die Persönlichkeit Karl Gutzkows selber wird trotz alledem immer einen Markstein in der Kulturbewegung dieses Jahrhunderts bilden, und seine Gestalt kann nicht wie seine Einzelwerke vergessen werden. Er ist in Deutschland der erste Bahnbrecher einer neuen rein realistischen Kunst, die den klassischen und romantischen Idealen gegenüber das „Princip der Moderne“ aufstellt und alle Vergangenheitsschwärmerei mit der Bewunderung des Gegenwärtigen beantwortet.
 
+*Heinrich Hubert Houben, 1901*
+
+* In der Litteraturgeschichte des neunzehnten Jahrhunderts klafft eine große Lücke. Sie wartet darauf, ausgefüllt zu werden durch eine Biographie  K a r l  G u t z k o w s. [...] G u t z k o w s  W e r k e  s i n d  e i n  T a g e b u c h  d e r  G e s c h i c h t e  s e i n e r  Z e i t. Es giebt kaum eine Frage, der er nicht nahe getreten ist, kaum eine litterarische Persönlichkeit von einiger Bedeutung, zu der er keine Beziehung hatte, sei es persönliche, briefliche oder kritische. Gutzkows Biographie läßt sich daher nicht schreiben, ohne eine übersichtliche Kenntnis aller geistigen Strömungen seines Jahrhunderts [...]. Man ist versucht, eine Teilung dieser Arbeit unter die Spezialforscher vorzuschlagen.
+
 *Franz Muncker, 1908*
 
 * Am 16. Dezember 1908 werden dreißig Jahre seit Gutzkows Tode vergangen sein. Seine Werke sind also von diesem Tage an nicht mehr durch das Urheberrecht geschützt, sie werden „f r e i“ und können ohne weiteres nachgedruckt werden. Wird nun in ihnen der Dichter von den Toten auferstehen, wird er vielleicht, wie es Hebbel vom gleichen Zeitpunkt an beschieden war, erst recht lebendig werden? Das ist schwerlich zu hoffen. […] Zu ihnen, deren voller Ruhm und Erfolg meistens ihr Leben nur wenig überdauert, gehört Gutzkow. Darum sollte er aber doch nicht allzu schnell undankbarer Vergessenheit anheim fallen. Was er in unserer Literatur anregte und ins Leben rief, sichert ihm einen hervorragenden Platz in ihrer Geschichte; aber auch unmittelbar den heutigen Lesern könnte manches in seinen Dichtungen noch die lebhafteste Teilnahme abgewinnen, hohen geistig-künstlerischen Genuß bereiten.
@@ -178,7 +182,7 @@ Stimmen zu Person und Werk
 
 *Victor Klemperer, Dresden, 1947*
 
-* Am Georgplatz stand eine Gutzkow-Statuette in der Grünanlage, jetzt ist nur noch der Sockel in dem zerfurchten Erdstreifen vorhanden; zu dieser Büste hatte ich ein besonderes Freundschaftsverhältnis. Wer kennt heute noch die "Ritter vom Geist"? Ich habe zu meiner Doktordissertation alle neun Bände mit Vergnügen gelesen, und viel früher einmal hat mir die Mutter erzählt, wie sie als junges Mädchen den Roman als modernste und eigentlich verbotene Lektüre in sich hineingeschlungen habe. Aber nicht an die "Ritter vom Geist" denke ich zuerst, wenn ich die Gutzkowbüste passiere. Sondern an den "Uriel Akosta", den ich als Sechzehnjähriger bei Kroll sah. Er war damals schon fast ganz aus dem regulären Spielplan verschwunden, und für jeden Kritiker war es durchaus Pflicht, das Stück schlecht zu finden und einzig auf seine Schwächen hinzuweisen. Mich aber erschütterte es, und ein Satz daraus hat mich durchs Leben begleitet. Ein paarmal beim Zusammenstoß mit irgendwelch antisemitischen Regungen glaubte ich ihn besonders lebhaft nachempfinden zu können, aber wirklich in mein Leben eingegangen ist er erst an jenem 19. September [seit dem 19.09.1941 mußte der Judenstern getragen werden]. Er lautet: "Ins Allgemeine möcht’ ich gerne tauchen und mit dem großen Strom des Lebens gehn!" Gewiß, vom Allgemeinen abgeschnitten war ich schon seit 1933, und auch ganz Deutschland war seitdem davon abgeschnitten; aber trotzdem: sobald ich die Wohnung hinter mir hatte und die Straße, in der man mich kannte, war es doch ein Untertauchen im großen allgemeinen Strom, ein angstvolles zwar, denn in jedem Augenblick konnte mich ja ein Böswilliger erkennen und belästigen, doch immerhin ein Untertauchen; nun aber war ich in jedem Augenblick für jeden kenntlich und durch die Kennzeichnung isoliert und vogelfrei ...
+* Am Georgplatz stand eine Gutzkow-Statuette in der Grünanlage, jetzt ist nur noch der Sockel in dem zerfurchten Erdstreifen vorhanden; zu dieser Büste hatte ich ein besonderes Freundschaftsverhältnis. Wer kennt heute noch die „Ritter vom Geist“? Ich habe zu meiner Doktordissertation alle neun Bände mit Vergnügen gelesen, und viel früher einmal hat mir die Mutter erzählt, wie sie als junges Mädchen den Roman als modernste und eigentlich verbotene Lektüre in sich hineingeschlungen habe. Aber nicht an die „Ritter vom Geist“ denke ich zuerst, wenn ich die Gutzkowbüste passiere. Sondern an den „Uriel Akosta“, den ich als Sechzehnjähriger bei Kroll sah. Er war damals schon fast ganz aus dem regulären Spielplan verschwunden, und für jeden Kritiker war es durchaus Pflicht, das Stück schlecht zu finden und einzig auf seine Schwächen hinzuweisen. Mich aber erschütterte es, und ein Satz daraus hat mich durchs Leben begleitet. Ein paarmal beim Zusammenstoß mit irgendwelch antisemitischen Regungen glaubte ich ihn besonders lebhaft nachempfinden zu können, aber wirklich in mein Leben eingegangen ist er erst an jenem 19. September [seit dem 19.09.1941 mußte der Judenstern getragen werden]. Er lautet: „Ins Allgemeine möcht’ ich gerne tauchen und mit dem großen Strom des Lebens gehn!“ Gewiß, vom Allgemeinen abgeschnitten war ich schon seit 1933, und auch ganz Deutschland war seitdem davon abgeschnitten; aber trotzdem: sobald ich die Wohnung hinter mir hatte und die Straße, in der man mich kannte, war es doch ein Untertauchen im großen allgemeinen Strom, ein angstvolles zwar, denn in jedem Augenblick konnte mich ja ein Böswilliger erkennen und belästigen, doch immerhin ein Untertauchen; nun aber war ich in jedem Augenblick für jeden kenntlich und durch die Kennzeichnung isoliert und vogelfrei ...
 
 *Walter Höllerer, 1958*
 
@@ -186,8 +190,9 @@ Stimmen zu Person und Werk
 
 *Arno Schmidt, 1965*
 
-* Und nun : wie heißt die ‹eigentlich Leistung› : das ‹Bleibende›? 
-  | Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
+* Und nun : wie heißt die ‹eigentlich Leistung› : das ‹Bleibende›?
+
+| Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
 
 *Walter Boehlich, 1969*
 
