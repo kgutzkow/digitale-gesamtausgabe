@@ -9,7 +9,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -35,26 +38,27 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2007-08" who="#MartinaLauster">1.0</tei:change>
+      <tei:change when="2021-10" who="#WolfgangRasch #MartinaLauster">1.1</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="V"/>
         <tei:seg> Vorwort.</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Vom Jahre 1836 an hatte unter dem Preußischen Ministerium von </tei:seg>
         <tei:hi style="letter-sparse">Rocho</tei:hi>
         <tei:seg>w der Geheimerath </tei:seg>
         <tei:hi style="letter-sparse">Tzschopp</tei:hi>
         <tei:seg>e die Lenkseile der Censurmaaßregeln so schroff angezogen, daß einigen Schriftstellern die Fortsetzung ihrer bisherigen Wirksamkeit, die Uebung ihres Lebensberufes, durchaus unmöglich gemacht wurde. Eine Anzahl Autoren wurde so gestellt, daß keine ihrer im Preußischen Ausland gedruckten Schriften ohne </tei:seg>
         <tei:hi style="letter-sparse">Recensu</tei:hi>
-        <tei:seg>r auf einem Gebiet zugelassen wurde, das zu umfassend ist, als daß es von ihnen umgangen werden konnte. Wie diese Recensur beschaffen war, kann man sich nach dem Geiste, der sich in den letzten Regierungsjahren Friedrich Wilhelms III. allein in Preußen verlautbaren durfte, vorstellen. Jeder neuere Begriff war verpönt. Das Wort "Zeitgeist" ebenso unzulässig und verdächtig, wie die Vorstellung davon. "Man will das hier nicht!" "Man mag das nicht!" So lauteten die Bescheide einer Büreaukratie, die mit wahrhaft übermü-</tei:seg>
+        <tei:seg>r auf einem Gebiet zugelassen wurde, das zu umfassend ist, als daß es von ihnen umgangen werden konnte. Wie diese Recensur beschaffen war, kann man sich nach dem Geiste, der sich in den letzten Regierungsjahren Friedrich Wilhelms III. allein in Preußen verlautbaren durfte, vorstellen. Jeder neuere Begriff war verpönt. Das Wort „Zeitgeist“ ebenso unzulässig und verdächtig, wie die Vorstellung davon. „Man will das hier nicht!“ „Man mag das nicht!“ So lauteten die Bescheide einer Büreaukratie, die mit wahrhaft übermü-</tei:seg>
         <tei:pb n="VI"/>
         <tei:seg>thiger Selbstgenügsamkeit jedes Symptom neuzeitiger Entwickelung von sich wies oder gar verfolgte. Wenn jene verpönten Schriftsteller ein auswärts gedrucktes Werk zur Recensur einreichten, so wurde schon für unangemessen gehalten, daß man überhaupt in Stuttgart, Leipzig, Frankfurt oder Hamburg drucken ließ, auf Gebieten, die bei der undeutschen Richtung der vorigen Regierung für verdächtig und gefährlich angesehen wurden. Fand sich auch nur eine Stelle, die dem Geheimerath Tzschoppe und seinem Unterpersonal misfiel, so wurde dafür ein ganzes Werk in drei Bänden für unzulässig erklärt und in den Index der Amtsblätter zur Nachahmung für die Gensdarmen gesetzt.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Der Verfasser trug sich mehre Jahre mit der Idee eines Werkes, das den Versuch machen sollte, ein Gesammtbild unseres Jahrhunderts nach seinen vorzüglichsten Lebensäußerungen und Gedankenrichtungen zu geben. Anfangs 1837 hielt er sich für befähigt, endlich an diese schwere Aufgabe zu gehen. Mit seinem Namen begleitet würde jedoch eine solche, grade mit der Zeit und ihren Tendenzen sich beschäftigende Schrift, ohnehin bei seiner ihm zur andern Natur gewordenen liberalen Auffassung der Verhältnisse, in ganz Preußen verboten worden sein und diejenigen deutschen Regierungen, welche gewohnt sind, alles Preußische nachzuahmen, würden dies Verbot auch für die Kreise </tei:seg>
         <tei:hi style="letter-sparse">ihre</tei:hi>
         <tei:seg>r Botmäßig-</tei:seg>
@@ -65,41 +69,41 @@
         <tei:hi style="letter-sparse">Bulwers Zeitgenosse</tei:hi>
         <tei:seg>n.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Die schützende Devise eines ausländischen Schriftstellers durfte freilich kein bloßes Aushängeschild sein. Die Verfolger würden ein Titelblatt leicht durchschaut haben. Ich mußte bedacht sein, dem Buche, das in zwölf Heften ausgegeben wurde, auch wirklich eine englische Färbung zu leihen, wobei ich mir Bulwers "England und die Engländer" zum Muster nahm. Von dem Vorwurfe, daß ich das Publikum hätte täuschen wollen, glaub' ich mich durch diese wahrheitgemäße Erzählung gerechtfertigt zu haben.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die schützende Devise eines ausländischen Schriftstellers durfte freilich kein bloßes Aushängeschild sein. Die Verfolger würden ein Titelblatt leicht durchschaut haben. Ich mußte bedacht sein, dem Buche, das in zwölf Heften ausgegeben wurde, auch wirklich eine englische Färbung zu leihen, wobei ich mir Bulwers „England und die Engländer“ zum Muster nahm. Von dem Vorwurfe, daß ich das Publikum hätte täuschen wollen, glaub' ich mich durch diese wahrheitgemäße Erzählung gerechtfertigt zu haben.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>In der vorliegenden neuen Ausgabe und vollständigen Ueberarbeitung hab' ich das englische Gewand abzustreifen gesucht. Diese Aufgabe war nicht leicht. Ich habe versucht, für die beispielsweisen englischen Charaktere, die ich zur Belebung des Räsonnements erfand, deutsche hinzustellen, habe aber den Vorsprung, den ich für die Charakteristik bei einem so originellen und wunderlichen Volke hatte, wie die Engländer sind, in der Uebertragung auf deutsche Verhältnisse oft schmerzlich vermißt. Auch die bevorzugte Anknüpfung der Erörterungen an England ließ sich nicht ganz unterdrücken; </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>In der vorliegenden neuen Ausgabe und vollständigen Ueberarbeitung hab’ ich das englische Gewand abzustreifen gesucht. Diese Aufgabe war nicht leicht. Ich habe versucht, für die beispielsweisen englischen Charaktere, die ich zur Belebung des Räsonnements erfand, deutsche hinzustellen, habe aber den Vorsprung, den ich für die Charakteristik bei einem so originellen und wunderlichen Volke hatte, wie die Engländer sind, in der Uebertragung auf deutsche Verhältnisse oft schmerzlich vermißt. Auch die bevorzugte Anknüpfung der Erörterungen an England ließ sich nicht ganz unterdrücken; </tei:seg>
         <tei:pb n="VIII"/>
         <tei:seg> wodurch ich mich indessen weniger beunruhigt fühle; denn Englands gesellschaftliche und politische Zustände sind der Art, daß Deutschland immer gut thut, seine eignen Bestrebungen vorzugsweise mit der Form, die Aehnliches in England hat, zu vergleichen.</tei:seg>
       </tei:p>
-      <tei:p>
-        <tei:seg>Natürlich hab' ich auch Sorge getragen, daß alle bedeutenden Erscheinungen, welche seit 1837 zur Charakteristik unseres Jahrhunderts aufgetaucht sind, nachgetragen und zweckmäßig in den Text verwebt wurden. Einiges Unhaltbare und durch die Umstände seither Widerlegte ließ ich fort. Anderes, was sich inzwischen klarer und übersichtlicher gestaltet hat, mußte auch in der Auffassung deutlicher hervortreten. Und so will ich wünschen, daß diese mit Liebe unternommene Arbeit auch in ihrer neuen Gestalt Leser finden möge, die sich von ihr erheiternd anregen lassen.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Natürlich hab’ ich auch Sorge getragen, daß alle bedeutenden Erscheinungen, welche seit 1837 zur Charakteristik unseres Jahrhunderts aufgetaucht sind, nachgetragen und zweckmäßig in den Text verwebt wurden. Einiges Unhaltbare und durch die Umstände seither Widerlegte ließ ich fort. Anderes, was sich inzwischen klarer und übersichtlicher gestaltet hat, mußte auch in der Auffassung deutlicher hervortreten. Und so will ich wünschen, daß diese mit Liebe unternommene Arbeit auch in ihrer neuen Gestalt Leser finden möge, die sich von ihr erheiternd anregen lassen.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>       Im Januar 1846.</tei:seg>
       </tei:p>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>                                                                                        G.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="global" xml:id="global">
-      <tei:head data-heading-id="" type="level-1">
-        <tei:seg>Bearbeitung des Kommentars: Martina Lauster, Exeter</tei:seg>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.6" first-line-indent="0">
+        <tei:seg>Bearbeitung: Martina Lauster, Exeter</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="1. Textüberlieferung" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -117,31 +121,232 @@
           <tei:seg>. Säkularbilder. Anfänge und Ziele des Jahrhunderts. In: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Zweite vermehrte und verbesserte Auflage. Bd. 8. Jena: Costenoble, [1875]. (Rasch 1.5.8)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="2. Textdarbietung" type="level-2" margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:seg> A1. Der Text folgt in Orthographie und Interpunktion unverändert der zweiten Auflage. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
+        <tei:seg>A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert der zweiten Auflage. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>2.1.1. Texteingriffe im Vorwort</tei:seg>
+      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p>
-        <tei:hi style="font-weight-bold">1,4</tei:hi>
-        <tei:seg> einigen Schriftstellern] einigen Schriftsteller</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:seg>Kommentierung</tei:seg>
-      </tei:head>
-      <tei:p>
-        <tei:seg>Bisher ist von der Auflage von 1846 nur das </tei:seg>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Bisher ist von der Auflage der </tei:seg>
+        <tei:q>Säkularbilder</tei:q>
+        <tei:seg> von 1846 nur das </tei:seg>
         <tei:q>Vorwort</tei:q>
-        <tei:seg> erfasst. Mit der Texterfassung dieser Auflage wird auch der wissenschaftliche Apparat als work in progress in der Internet-Version der Gesamtausgabe auf der Web-Seite des Gutzkow-Editionsprojektes unter www.gutzkow.de veröffentlicht.</tei:seg>
+        <tei:seg> textkritisch bearbeitet. </tei:seg>
       </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:hi style="font-weight-bold">1,4</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:lem>einigen Schriftstellern</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>einigen Schriftsteller</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
+      <tei:head data-heading-id="5. Rezeptionsgeschichte" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>5. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="5.1. Rezensionen" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0">
+        <tei:seg>5.1. Rezensionen</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="1. Wilhelm Heinrich Riehl, 6. Mai 1846" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Wilhelm Heinrich Riehl, 6. Mai 1846</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
+        <tei:seg>[Wilhelm Heinrich] R[iehl]: Gutzkow’s Säkularbilder. In: Frankfurter Konversationsblatt. Nr. 124, 5. Mai 1846, S. 494-495; Nr. 125, 6. Mai 1846, S. 498-499; Nr. 126, 7. Mai 1846, S. 502-503. (Rasch xxxxx) </tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>[494] Der soeben erschienene neunte und zehnte Band der gesammelten Werke Gutzkow’s enthält die Umarbeitung des ehemals aus Rücksichten gegen die preußische Censur von 1837 unter der pseudonymen Firma „</tei:seg>
+        <tei:hi style="letter-sparse">Bulwer’s Zeitgenosse</tei:hi>
+        <tei:seg>n“ erschienenen Buches. Viel Neues, welches eine Epoche von beinahe zehn Jahren in unserer Entwickelung hervorgerufen, mußte eingeschaltet werden, das Aeltere ist vervollständigt und verbessert worden, das damals klug gewählte englische Gewand ward abgestreift, so entstanden die „</tei:seg>
+        <tei:hi style="letter-sparse">Säkularbilde</tei:hi>
+        <tei:seg>r“.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Wir möchten diese Schrift unbedingt für einen der bedeutendsten Theile der Gutzkow’schen Gesammtwerke erkläre[n]. Der encyklopädische, aber in einer originellen Persönlichkeit gezeitigte und organisirte Universalismus Gutzkow’s konnte sich nicht leicht ein glänzenderes und dankbareres Thema wählen, als dies: „ein Gesammtbild unseres Jahrhunderts nach seinen vorzüglichsten Lebensäußerungen und Gedankenrichtungen zu entwerfen“. Was die Aufgabe der ächten und wahren Journalistik in tausend zersplitterten Einzelstrebungen ist, den Commentar zur Gegenwart zu schreiben, das wird hier zu einem großen, übersichtlichen wohlgegliederten Ganzen zusammengefaßt. Der außerordentliche Reichthum und das Interesse des Stoffes läßt uns einzelne Lücken, einzelne schwächere Parthieen der Bearbeitung übersehen, die bei einer so umfassenden Aufgabe für Jeden unvermeidlich sein werden. So wie es uns nun nicht nur zur Freude, sondern auch zur wahren Belehrung und Förderung gereichte, diese Bilder des Jahrhunderts vor unserm Auge vorüberziehen zu lassen, so halten wir es nicht nur für das beste, weil das gerechtfertigste, Lob des Buches, seinen Inhalt in ein paar großen Zügen und wo möglich mit den Schlagworten des Verfassers selber darzustellen, sondern wir glauben auch, daß dadurch zumeist der Eine oder der Andere zu dem gewiß nicht fruchtlosen Studium des Werkes dürfte angeregt werden.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Nachdem Gutzkow in der Einleitung geschildert, wie er durch den Drang nach Realität zur Ausarbeitung des vorliegenden Stoffes getrieben worden sei, und angezeigt, was er als Tendenz und Bedeutung der Arbeit erkannt wissen wolle, beginnt er in dem ersten Kapitel mit dem „Menschen des neunzehnten Jahrhunderts.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der Mensch des neunzehnten Jahrhunderts wird dem des achtzehnten gegenübergestellt. Das Jahrhundert, in welchem Hume und Voltaire lebten, setzte das Individuum höher, als unsere Zeit, die durch Napoleon die Kraft nur in den Massen finden lernte. So ist der Enthusiasmus des neunzehnten Jahrhunderts auf </tei:seg>
+        <tei:hi style="letter-sparse">Idee</tei:hi>
+        <tei:seg>n gerichtet, der Enthusiasmus des achtzehnten war </tei:seg>
+        <tei:hi style="letter-sparse">egoistische</tei:hi>
+        <tei:seg>r. Es wird täglich schwerer, Individuen zu schildern. Selbst die Ehen, meint Gutzkow, würden deßhalb gegenwärtig weit mehr kompromittirt als ehedem, weil sich in ihnen auch wieder das Individuum der Masse und der Idee gegenüber geltend macht. Das moderne Prinzip zwingt den Mann, seiner Frau zuzurufen: „Weib, was hab’ ich mit dir zu schaffen, ich gehöre dem Jahrhundert an! Ich bin Nationalgardist!“ Daher sind wir klein in allen positiven Tugenden des Subjekts, groß in der Opposition, in der Polemik, die aus der Idee quillt. Es zeigt sich ein Enthusiasmus der Ueberzeugung, der willig den Scheiterhaufen besteigen würde um eines Märtyrthums des Trotzes und der Verneinung willen, und es geschah im neunzehnten Jahrhundert, daß Pepin, der Mitschuldige Fieschis, weinte, da er vor dem Pairshofe stand, auf’s Schaffot hinausfahrend aber gemüthlich seine Pfeife rauchte.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die französische Revolution war die Erfüllung alles dessen, worauf das achtzehnte Jahrhundert hinwies, sie war die Blüthe desselben. Unsere Zeit emancipirt sich nich</tei:seg>
+        <tei:hi style="letter-sparse">t zur</tei:hi>
+        <tei:seg> Revolution, sonder</tei:seg>
+        <tei:hi style="letter-sparse">n aus</tei:hi>
+        <tei:seg> der Revolution. Selbst unsre zerstörerischen Gedanken sind nur da u</tei:seg>
+        <tei:hi style="letter-sparse">m</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">aufzubaue</tei:hi>
+        <tei:seg>n. „Wenn noch eine Revolution kommen wird“, ruft Gutzkow aus, „so wird es nicht mehr ausschließlich di</tei:seg>
+        <tei:hi style="letter-sparse">e der Staaten</tei:hi>
+        <tei:seg> sein, sondern all Euer Denken und Trachten, all Euer Meinen und Fühlen, all Eure Existenz, [495] all Eure Kunst und Wissenschaft wird in sie hineingerissen werden. Und dies Alles möchte sich nicht einmal durch eine Vorbereitung oder durch irgend eine wie veranstaltete Propaganda ereignen, sondern der Zwiespalt wird das Unbehagen erzeugen, das Unbehagen wird aus euerm eigenen Herzen kommen, und euer Herz wird, indem es am meisten stürmt, auch am meisten gefoltert sein! Ich spreche vom Dualismus. Welchen meine ich? Ich meine den Dualismus unserer Bildung und unseres Lebens</tei:seg>
+        <tei:hi style="letter-sparse">;</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">den Zwiespalt desse</tei:hi>
+        <tei:seg>n</tei:seg>
+        <tei:hi style="letter-sparse">,</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">was wir sind und was wir wisse</tei:hi>
+        <tei:seg>n; die Entgegensetzung unsers künstlichen, höchst gesteigerten Idealismus und der Materie, deren Wegleugnung sie zum Trotz und zur Rache entflammen wird</tei:seg>
+        <tei:hi style="letter-sparse">. Wissen und Leben ist nicht ausgegliche</tei:hi>
+        <tei:seg>n.“ Unsre Politik, unser äußres Leben strebt dahin, die Individuen in die Massen zurückzuschleudern</tei:seg>
+        <tei:hi style="letter-sparse">, die Bildun</tei:hi>
+        <tei:seg>g, das Wissen zieht sie aber wieder hervor</tei:seg>
+        <tei:hi style="letter-sparse">. Der Constitutionalismus</tei:hi>
+        <tei:seg> beruht auf diesem großen Gegensatze. Das Individuum rafft sich in ihm so viel Kraft zusammen, als es braucht, um sich in dem Strome der Verallgemeinerung sein isolirtes Interesse zu erhalten und irgend einen Standpunkt, den es selbst gerne einnehmen möchte, als dauernd zu fixiren.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Dem Europa des neunzehnten Jahrhunderts steht Amerika schroff gegenüber. Wir halten es für sehr taktvoll, daß Gutzkow der neuen Welt ein eigenes Kapitel gewidmet hat und jenen Standpunkt der Nationaleitelkeit abweis’t, der in ihr nur einen untergeordneten Appendix der alten erkennt. Amerika hat keine Geschichte; Europa muß Altes umstoßen, wenn es Neues gründen will, Amerika braucht nicht zu revoltiren, es hat keine mittelalterlichen Privilegien, es kann sein Ziel auf dem Wege der nüchtern gesetzmäßigen Konstitution erreichen. Nordamerika hat keine auswärtige Politik, dafür aber hat es in den umgebenden Wüsteneien und Urwäldern ein Abzugsterrain moralischer und politischer Intentionen, sowohl was den Ehrgeiz des Individuums, als das Elend der zu europäischer Uebervölkerung heranwuchernden Massen betrifft. Auch die Religion des Nordamerikaners ist specifisch verschieden von der europäischen</tei:seg>
+        <tei:hi style="letter-sparse">. Welches wird der spätere weltgeschichtliche Einfluß Amerika’s auf Europa sein</tei:hi>
+        <tei:seg>? Wird es uns als das Vorbild neuer Epochen voranleuchten können? – Gutzko</tei:seg>
+        <tei:hi style="letter-sparse">w</tei:hi>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">verneint</tei:hi>
+        <tei:seg> dies. Er findet Nordamerikas Mission vorerst darin, klare politische und religiöse Begriffe, wie es bereits begonnen, nach Südamerika zu verbreiten. Kann sich auch das geistig und wissenschaftlich so tief bewegte Europa angespornt fühlen, dem materialistischen Amerika nachzueifern, wo selbst die Imponderabilien, wo selbst die reine Wissenschaft ein Gewicht hat und sich mit der Krämerelle ausmessen läßt? „Wir sehnen uns nach einer anderen Zukunft; aber diese Zukunft ist an Erwartungen geknüpft, für welche Nordamerika nicht die geringste Voraussetzung hat. Wir sehnen uns nach der Auflösung zahlloser Fragen, die jenseits des Ozeans kaum verstanden würden. Was ist nicht von scharfsinnigen und leidenschaftlichen Köpfen, von Philosophen und Dichtern unter uns angeregt worden! Welche Ideen durchkreuzen sich nicht in dem Denkvermögen unserer Jugend, die die Erhabenheit des Alterthumes, die Poesie des Mittelalters und die Empirie der neueren Zeit in sich vereinigen und durcharbeiten möchte! Sind dies Alles Berührungspunkte für das Land der Comptoire und der Sklaven? Weder die Religion, noch irgend eine Frage der Kunst und Wissenschaft scheint in Nordamerika enträthselt werden zu können. Amerika hat weder Kunst noch Philosophie, es hat nur eine Literatur, die aus ein paar nach Schiffstheer riechenden Romanen besteht.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>[498] An den Begriff der massenhaften Bestrebungen unserer Zeit knüpft Gutzkow den schwer definirbaren des „</tei:seg>
+        <tei:hi style="letter-sparse">Moderne</tei:hi>
+        <tei:seg>n“. Es entspricht dem konstitutionellen Charakter der Gegenwart. Das Wesen des Modernen, das auf alle Aeußerungen desselben, literarische, künstlerische, sittliche, religiöse, seine Anwendung hat, ist das, </tei:seg>
+        <tei:hi style="letter-sparse">sich nicht genirt zu fühle</tei:hi>
+        <tei:seg>n. Man sucht selbst bei der Unruhe der Zeit seine Ruhe als Individuum zu behaupten. Was heute Meinung ist, war vor zehn Jahren Philosophie! Und in der Mitte dieses Abstandes, fünf Jahre nach der Philosophie und fünf Jahre vor der Meinung steckt gerade das Moderne mitten inne. Es ist nicht tief und praktisch genug, um sich für das Ganze zu entscheiden und hält sich demnach an die Hälfte.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Von hier aus geht Gutzkow auf eine wichtige – vielleicht auf eine fürchterliche – moderne Frage über – „</tei:seg>
+        <tei:hi style="letter-sparse">von der Existen</tei:hi>
+        <tei:seg>z.“ Er spricht von der Uebervölkerung, von dem Verhältniß der Ernährung zu derselben, von der ungeheuren Complication der Existenzmittel, von dem Schwindelgeist, der sich zur Befriedigung der zahllosen modernen künstlichen Nothwendigkeiten, in der einfachen Existenzfrage geltend gemacht hat, von der Unzulänglichkeit aller Vorschläge, das von dieser Seite her der Zukunft drohende Gespenst zu beschwören. In der letzten Hälfte des Kapitels wird dann das vielleicht interessanteste politisch-sociale Thema unserer Zeit erörtert</tei:seg>
+        <tei:hi style="letter-sparse">, die idealistischen Ausgleichungsversuche des furchtbaren Zwiespaltes zwischen Besitzenden und Nichtbesitzenden</tei:hi>
+        <tei:seg> von der Lehre St. Simons an bis auf die neueste[n] Phasen des Communismus. Zieht man alles Lächerliche von dem St. Simonismus ab, das Dogma vom freien Weibe, von der Intervention des Priesterthums bei der Ehe, die Lehre von der Wiedereinsetzung des Fleisches u. dgl., wie es durch den thörigten Ehrgeiz Enfantin’s der Lehre St. Simon’s eingefügt worden ist, so bleibt als Kern der Sache zurück, daß die Individuen nicht anderen Individuen, sondern blos der Gesammtheit verpflichtet sein sollen. Es ist der schöne, aber unausführbare, unpraktische, idealistische Traum, daß jeder Schuhmacher Staatsschuhmacher sei, daß Alles nur im Staat für den Staat geschieht, daß der Staat und nicht der Einzelne den Arbeiter bezahlt und zwar dadurch, daß er ihm seine Existenz sichert. „Was ich arbeite,“ ruft Gutzkow, den St. Simonismus interpretirend, aus, „arbeite ich nicht dir, Meister Schurzfell, ich, der Geselle Knieriem, sondern ich arbeit’ es mir selbst, meinem moralischen Menschen, meiner socialen Stellung, meinen Ansprüchen auf die große universelle Bundeskasse, auf welche ich meine Wechsel ausstelle. Diese Stiefeln bezahlen Sie nicht mir, ich mag kein Geld, das in Ihrer Tasche warm geworden ist, zahlen Sie’s in die Bundeskasse, dort hab’ ich mein Soll und Haben, dort erhält ein Jeder nach seinen Fähigkeiten und jede Fähigkeit nach ihren Werken!“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Von diesem Satze schlägt sich die Brücke zum </tei:seg>
+        <tei:hi style="letter-sparse">Communismu</tei:hi>
+        <tei:seg>s. Er hat die Theorie nur ausgebeutet, konsequenter, kaltblütiger und trotziger durchgeführt, er hat den Begriff des Privateigenthums systematischer zu zerstören getrachtet. Das Wahre und das Verkehrte im Communismus hat Gutzkow ganz trefflich gegeneinandergestellt. Der </tei:seg>
+        <tei:hi style="letter-sparse">polemisch</tei:hi>
+        <tei:seg>e Theil des Communismus ist seine starke, der positive, der aufbauende Theil seine schwache Seite. Seine Prämissen sind ergreifend wahr, seine Folgerungen aber fürchterlich falsch. So lange e</tei:seg>
+        <tei:hi style="letter-sparse">r ans Herz</tei:hi>
+        <tei:seg> appellirt, hat er Recht, sobald er dem </tei:seg>
+        <tei:hi style="letter-sparse">Verstan</tei:hi>
+        <tei:seg>d gegenübertritt, Unrecht. Auf der einen Seite steht der grausame Egoismus einer herzlosen Civilisation, auf der andern – eine Humanitäts-Caserne! Der Communismus wird nie praktisch werden. Er ist eine Phantasmagorie der Seele, die man zerstört, wenn man sie mit den Händen anfassen, – d. h. wenn man sie praktisch machen will. „Die Communauté ist eine Fata Morgana des Gedankens, eine Vorstellung der Vernunft und des Herzens, die wir in unsre Politik, unsre Nationalökonomie so aufnehmen sollen, wie dem Heilkünstler ein möglich unsterblicher Leib vorschwebt und die Idee einer ewigen Gesundheit. Das Kind greift nach dem Regenbogen und glaubt, er berühre an seinen Enden die Erde. Es ist verbrecherisch, den arbeitenden Klasse</tei:seg>
+        <tei:hi style="letter-sparse">n den Traum</tei:hi>
+        <tei:seg> vorzuspiegeln</tei:seg>
+        <tei:hi style="letter-sparse">, daß ein solcher communistischer Urstaat mehr sein könne, als ein theoretisches Idea</tei:hi>
+        <tei:seg>l.“ Der Communismus enthält allerdings den Keim großer </tei:seg>
+        <tei:hi style="letter-sparse">prinzipielle</tei:hi>
+        <tei:seg>r Fortschritte, einer Weiterbildung der Staatswissenschaft, allein die Wahrheit in ihm ist ein blos ideelles, kein reelles Kapital, und jenes auszubeuten, kommt der Wissenschaft, nicht aber der unmittelbaren Praxis des Lebens zu.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Aus der Verwirrung und der Trübsal der inneren socialen Verhältnisse heraus drängt der Geist eines jeden Jahrhunderts in seiner Weise nach der Ergründung eines Geheimnisses, das ihn mit einem Schlage emporheben [499] könnte über alle Misère, die in dem Kampfe um die Existenz liegt. Wir suchen de</tei:seg>
+        <tei:hi style="letter-sparse">n Stein der Weisen</tei:hi>
+        <tei:seg> so gut wie das Mittelalter, nur in einer anderen Art. Sei</tei:seg>
+        <tei:hi style="letter-sparse">t Adam Smith</tei:hi>
+        <tei:seg> das große Geheimniß entdeckt hat, daß das Geld nur Tauschmittel und keine Waare ist, wurde es überflüssig, sich um die Kunst des Geldmachens abzumühen. Entdeckungen aller Art, Erfindungen in der Mechanik, in der rationellen Landwirthschaft sind die modernen alchymistischen Bestrebungen</tei:seg>
+        <tei:hi style="letter-sparse">. Der Stein der Weisen ist die Vereinfachung und Benutzung der Natu</tei:hi>
+        <tei:seg>r</tei:seg>
+        <tei:hi style="letter-sparse">.</tei:hi>
+        <tei:seg> Hier ist dem Phantasiemenschen zum Entdecken, dem Verstandesmenschen zum Erfinden ein unendlicher Raum gegeben. Eine ganz neue Weltanschauung hat sich auf diese Weise entwickelt. Der Entdeckungsgeist hat uns in die Urwälder Amerika’s getrieben, er hat uns den Weg gezeigt jene gewaltigen fabelhafte[n] Ströme hinauf durch mannshohe Schilfwälder, um die bunten Phantasiegebilde zuerst in nüchterne, verständige Beobachtung umzuwandeln und aus dieser wieder die großartige moderne </tei:seg>
+        <tei:hi style="letter-sparse">Kosmographi</tei:hi>
+        <tei:seg>e zu erzeugen, daß sich in de</tei:seg>
+        <tei:hi style="letter-sparse">m Universalismus des geistigen Blickes</tei:hi>
+        <tei:seg> keine Vergangenheit mit unserer Gegenwart messen kann. Die modernen Entdeckungen haben nicht bloß, wie sonst, vorzugsweise physikalisch, sondern auch </tei:seg>
+        <tei:hi style="letter-sparse">moralisc</tei:hi>
+        <tei:seg>h auf Europa zurückgewirkt. Darf man also unser Jahrhundert so schlechthin des Materialismus zeihen? Die alten Spanier und Holländer trachteten fast nur Gold und Silber aus den fernen Welttheilen zu holen, während wir uns von daher eine neue imposante Wissenschaft nach Hause mitgebracht haben. Es charakterisirt den Geist unserer Entdeckungen schlagend, daß als wir uns in der Ergründung der Geheimnisse der entlegenen Ferne fast erschöpft hatten, wir, wie dort hauptsächlich auf das Innere, so auch in der Heimath auf di</tei:seg>
+        <tei:hi style="letter-sparse">e inneren Mysterien</tei:hi>
+        <tei:seg> den Blick warfen. Unbekannte Regionen unseres sozialen Lebens wurden in phantastischer und doch oft gar schneidend verständiger Weise durchforscht, und jene seltsame Literatur der Mysterien, die auch für die moderne Kosmographie ihre Folgen haben wird, ist noch lange nicht bis auf den Grund ausgebeutet. – Physik, Chemie, Technologie in ihren Riesenfortschritten reihen sich jenen Entdeckungen an, oder vielmehr sie waren die Basis der modernen Weltanschauung. – Aber wird auf diesem Wege, wo jeder romantische Schleier zerreißt, nicht schließlich Alles Maschine, Mechanismus werden? Gutzkow beantwortet die vielfach aufgeworfene Frage mit Recht verneinend, und mir däucht, gerade die grandiose Poesie der Weltanschauung, die von immer höherem und freierem Standpunkt in die Totalität als einen Organismus blickt, bürgt uns dafür. Das eng-begrenzte, heimlich-trauliche mag unserm Gemüth, unserer Phantasie ferner gerückt werden, aber die stolze Weite des Horizontes, der dafür vor unserm Geiste sich ausbreitet, wird dann in Zukunft das Herz des stolzeren und freieren Menschen um so kühner und großartiger begeistern können. Vielleicht ist uns so noch eine Kunst vorbehalten, deren mächtige Bedeutung gerade darin liegt, daß sie di</tei:seg>
+        <tei:hi style="letter-sparse">e bewußte Herrschaft des Menschen über die Natur</tei:hi>
+        <tei:seg> in jedem Zuge auf’s erschütterndste ahnen läßt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>[502] Von hier geht Gutzkow zu de</tei:seg>
+        <tei:hi style="letter-sparse">m Leben im Staat</tei:hi>
+        <tei:seg>e, als der engeren Begränzung des modernen Lebens über. Wir können uns dem Staate nicht mehr entziehen, alle unsere Vorstellungen sind durch den Staat, welcher ungefesselt hält, </tei:seg>
+        <tei:hi style="letter-sparse">relati</tei:hi>
+        <tei:seg>v geworden. Unsre Ideen beginnen immer mehr  politischer Natur zu werden. Allein das Centrum, um welches sich alle politische Bewegung dreht, ward zugleich ein neues. „Nicht Revolution, nicht Reaktion, Whiggismus oder Toryismus, linke oder rechte Seite, oder was man sonst für Ausdrücke hat, um die Richtung der Gemüther und Tendenzen unsrer Zeit zu bezeichnen, entscheiden die Bestimmung dieser Zeit, sondern nur die beiden Gesichtspunkte</tei:seg>
+        <tei:hi style="letter-sparse">: Soll die politische Frage auf eine rein juristische beschränkt oder auf eine allgemein menschliche ausgedehnt werden</tei:hi>
+        <tei:seg>?“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Der moderne Begriff des Bürgers und Unterthanen und namentlich des Bürgers im konstitutionellen Staate leitet zu dem des </tei:seg>
+        <tei:hi style="letter-sparse">Beamte</tei:hi>
+        <tei:seg>n über. Diese sind etwas unserer Zeit ausschließlich Eigenes. Denn durch die Revolution, die Napoleonische Periode und die Restauration hat der Beamtenstand allmählich eine Gestalt gewonnen, die ihn mit dem früheren Beamtenwesen außer Vergleichung setzt. Die Beamten bedürfen jetzt des Publikums nicht mehr, nach dessen Gunst sie früher geizten. „Ehemals kam der Rathsschreiber zu mir auf’s Zimmer, jetzt werde ich vor ihn citirt.“ Daß man den Beamten eine vollkommene Existenz sicherte und ihnen eine höhere sociale Stellung gab, hat eben so gut Nachtheile als Vortheile im Gefolge geführt. Dies bedingte gerade den Gegensatz des deutschen Beamten zum nordamerikanischen, der die Stellung unsers Beamtenstandes am anschaulichsten macht. In Nordamerika sind die Beamten Diener des Publikums und werden selbst in den höheren Chargen doch nur gleichsam als Commis in dem großen Staatskomptoire angesehen. Der Beamtenstand ist dort keineswegs eine angenehme und gesuchte Art der Existenz. Das Geschlossene fehlt ihm gänzlich, während die deutschen Beamten nachgerade ihre Kinder fast nur untereinander verheirathen, exclusiven Umgang unter sich und eigne Casino’s haben.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Was nun das innere politische Leben der Gegenwart betrifft, so dreht es sich fast nur um die Frage: Was kann der Unterthan der Regierung entgegensetzen? Dieser Gegensatz schließt eigentlich etwas Verkehrtes in sich, da ja die Regierung selbst unter den Bürge[r]n</tei:seg>
+        <tei:hi style="letter-sparse">, im</tei:hi>
+        <tei:seg> Staate, nicht </tei:seg>
+        <tei:hi style="letter-sparse">außerhal</tei:hi>
+        <tei:seg>b desselben ist und die Behörden doch auch wieder Staatsbürger sind. Allein auf dem Fließenden des Gegensatzes beruht eben der ganze Begriff des modernen Constitutionalismus, der selbst etwas Schwebendes ist. Der Hauptfehler aller neueren Constitutionen liegt darin, daß man die Schroffheit jenes Gegensatzes immer nur mäßigen will, daß bei den auf dem Continent eingeführten Verfassungen nur die Verantwortlichkeit so viel als möglic</tei:seg>
+        <tei:hi style="letter-sparse">h abgewälz</tei:hi>
+        <tei:seg>t</tei:seg>
+        <tei:hi style="letter-sparse">, d. h. auf Viele vertheilt</tei:hi>
+        <tei:seg> werden soll. „Wo aber die Kammern nur dazu dienen sollen, das was am Regierungswesen unpopulär ist, auf sich zu nehmen, werden sie nie im Volke Anklang finden.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Nachdem Gutzkow auch der Entwicklun</tei:seg>
+        <tei:hi style="letter-sparse">g der äußeren Politik</tei:hi>
+        <tei:seg> einen Abschnit[t] gewidmet, geht er auf das Thema der </tei:seg>
+        <tei:hi style="letter-sparse">Erziehun</tei:hi>
+        <tei:seg>g über. Die Persönlichkeit des Erziehers liegt gegenwärtig als ein so schweres Gewicht in der Wagschale, und doch ist hier gerade der wundeste Fleck unsers Erziehungswesens zu suchen. Welche Gestalten sind das – die deutschen Dorfschullehrer mit ihrer Runkelrüben-Blasirtheit auf der einen Seite, und die Lehrer der gelehrten Anstalten, an der trocknen Kruste des todten Philologenthums nagend, auf der andern! Wie selten lebendige Wechselwirkung zwischen Erziehung und Unterricht! Di</tei:seg>
+        <tei:hi style="letter-sparse">e moralische Haltun</tei:hi>
+        <tei:seg>g, aus dem sittlichen Stolze quellend, gebricht unserer Zeit, statt ihrer halten wir uns polizeilich gerecht der Sittlichkeit gegenüber. Wurzelt dieser Mangel nicht tief in unserer Erziehung, die nur negativ zu wirken sucht, gemeiniglich blos unterrichtend die </tei:seg>
+        <tei:hi style="letter-sparse">Vorstellun</tei:hi>
+        <tei:seg>g des Guten wirkt, statt, wahrhaft erziehend, die </tei:seg>
+        <tei:hi style="letter-sparse">Uebun</tei:hi>
+        <tei:seg>g des Guten zu veranlassen? Unsre Erziehung entbehrt des</tei:seg>
+        <tei:hi style="letter-sparse"> öffentlichen Charakter</tei:hi>
+        <tei:seg>s, wir werden nicht für die Oeffentlichkeit, nicht Einer zur Ehre des Andern, sondern nur für den eigenen Egoismus erzogen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Ueber die deutschen </tei:seg>
+        <tei:hi style="letter-sparse">Universitäte</tei:hi>
+        <tei:seg>n, die das wahre Steckenpferd des nationalen Eigenlobes geworden sind, spricht sich der Verfasser scharf aber wahr aus: „Es ist eine Thatsache, daß wir durch unsre Universitäten ärmer als reicher sind, langsamer als schneller fortschreiten, verworrener als klarer denken. Die akademische Freiheit der Studenten absorbirt drei Jahre lang die Poesie der Jugend und liefert später in die praktische Carriere neben vielen wirklich gereiften Jünglingen eben so viele ausgelebte und verwelkte Charaktere, die sich vom Freiheitsrausche in den Katzenjammer der Stellenjägerei und des nur noch auf Beförderung gerichteten Egoismus stürzen, unsere künftigen Beamten, die sich schon auf der Universität bei dem meist hündischen Servilismus des „Philisters“ in Universitätsstädten, der sich stoßen und schinden läßt, nur um Geld zu verdienen, jene Achtung vor dem Volke, dem Bürger, dem gemeinen Manne methodisch erworben haben, die sie künftig als Richter und Räthe an den Tag legen werden!“ – „Die Erlaubniß, einen Staat im Staate [503] zu bilden, beförderte eine Abstraktion vom Allgemeinen, die es in Deutschland sogar zu einer vornehmen und Geistreichigkeit verrathenden Sache gemacht hat, über jedes Ding seine eigene apparte Meinung zu haben und sich in kühler, lächelnder Indifferenz von dem Allgemeinen auszuschließen.“ Allein auch hier drängt es jetzt mächtig nach Reform. – „Nicht die Freiheit, die nun einmal auf Universitäten da ist, sollte man einschränken, wohl aber sie an einem höheren Dritten zu einer höheren Wahrheit werden lassen, sie mit einem größeren Bau, der kolossaler als sie selber ist, überwölben: sie solchen Institutionen unterordnen, die als ein großes politisches und nationales Ganzes die Universitäten von selbst in eine abhängige und dem Gesammtzweck dienende Stellung einweisen müssen. Es ist auch dies ein großer Vorzug der konstitutionellen Regierungsform, daß sie den Universitäten noch überall ihre Staat im Staate machende Bedeutung genommen hat.“ –</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Diese Andeutungen über den Entwicklungsgang der Ideen i</tei:seg>
+        <tei:hi style="letter-sparse">m ersten Bande</tei:hi>
+        <tei:seg> der Gutzkow’schen Säkularbilder, dürften wohl hinreichen, einen ungefähren Begriff von der Fassung und Haltung des Ganzen zu geben. Der zweite Band handelt ebenso wichtige, wenn nicht noch wichtigere Gegenstände ab: – </tei:seg>
+        <tei:hi style="letter-sparse">Sitte und Sitte</tei:hi>
+        <tei:seg>n; – </tei:seg>
+        <tei:hi style="letter-sparse">Religion und Christenthu</tei:hi>
+        <tei:seg>m; – </tei:seg>
+        <tei:hi style="letter-sparse">Kunst und Literatu</tei:hi>
+        <tei:seg>r; – </tei:seg>
+        <tei:hi style="letter-sparse">Wissenschaft und Literatu</tei:hi>
+        <tei:seg>r.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0.5" style="text-left">
+        <tei:seg>Es liegt ein eigenthümlicher Drang in unserer Zeit, der früheren Jahrhunderten fremder war, über die Gegenwart zu reflektiren, uns selber bewußt zu machen, was wir sind, wie wir’s geworden, was wir werden wollen. Unsre ganze Literatur, namentlich die periodische, hat durch dieses Streben eine charakteristische Färbung angenommen. Wenn es aber gewiß ein gutes Zeichen ist, daß wir solcher Weise nicht nur im Detail, sondern auch im großen Ganzen zur Selbsterkenntniß zu kommen trachten, dann muß man auch ein Werk, das wie das vorliegende, die verschiedenen einzelnen Gesichtspunkte zusammenfaßt, und in höchst anziehender Weise statt der üblichen aphoristischen Zeitschilderungen ein wohlgeordnetes </tei:seg>
+        <tei:hi style="letter-sparse">Totalbil</tei:hi>
+        <tei:seg>d entwirft, mit gebührender Achtung und Anerkennung begrüßen.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2. Wilhelm Heinrich Riehl, 11. September 1850" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg> 2. Wilhelm Heinrich Riehl, 11. September 1850</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
+        <tei:seg>Wilhelm Heinrich Riehl: Kritische Skizzen. I. Die Ritter vom Geiste. In: Kölnische Zeitung. Nr. 218, 11. September 1850, [S. 1-2]. (Rasch 14/29.50.09.11)</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>[Darin über die Säkularbilder:] Diese Idee [einer „poetische[n]  Encyclopädie aller Tendenzen der Zeit“] gemahnt an ein früheres Gutzkow’sches Werk: die Säcular-Bilder. Freilich eine viel ärmere, unpoetischere Zeit; das, was man in den dreißiger Jahren das neunzehnte Jahrhundert nannte, ist dort in allen Entfaltungen ihres Einzellebens aus einander gelegt, und diese Encyclopädie ist mehr eine journalistische als eine poetische. Aber der Ansatz zum Roman Charaktere, zur Belebung des Raisonnements erfunden, bricht auch in den Säcular-Bildern durch. In den Rittern vom Geist soll, wie es den Anschein hat, umgekehrt das Raisonnement zur Belebung der Charaktere dienen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0"/>
     </tei:interpGrp>
-    <tei:interpGrp type="individual"/>
   </tei:text>
 </tei:TEI>
