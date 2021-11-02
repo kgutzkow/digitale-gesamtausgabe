@@ -36,15 +36,16 @@
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
       <tei:change when="2021-05-09" who="#MadleenPodewski">2.0</tei:change>
       <tei:change when="2021-05-12" who="#MadleenPodewski">2.1: Korrektur</tei:change>
+      <tei:change when="2021-06-15" who="#MadleenPodewski">2.2: Korrektur Absatzformatierung, Apparat</tei:change>
+      <tei:change when="2021-06-30" who="#MadleenPodewski">2.3: Korrektur Apparat</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="79"/>
         <tei:seg> Eine Anklage gegen Schiller und Goethe.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Der gegenwärtig so mächtig erwachte vaterländische Sinn, der Deutschland einig, stark und groß zu machen bestrebt ist, bewegt sich schon wieder, wie dies </tei:seg>
         <tei:pb n="80"/>
@@ -56,45 +57,49 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Echte Gothaer Tendenzkritik! Wie kann man vergangene Literaturzustände verantwortlich machen für Anschauungen, die nur unserer Zeit angehören! So hoch man auch den Einfluß der Literatur auf das Leben einer Nation anschlagen mag, zuerst wird die Literatur immer ihre Impulse aus dem Leben selbst empfangen müssen, ehe sie wieder eine Rückwirkung üben kann. Wäre zur Zeit Schiller’s und Goethe’s die Nation in einer vaterländischen Bewegung gewesen wie gegenwärtig, so hätte wol auch die Poesie – soweit es überhaupt sich mit den Gesetzen der Poesie verträgt, zu politisiren – dem Einflusse derselben sich nicht entziehen können. Uebrigens trifft der ausgesprochene Tadel überwiegend doch nur Goethe, nicht Schiller.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Wenngleich Schiller, wie jeder große Dichter, für die Menschheit und nicht blos für eine Nation gedichtet hat, so hat er doch durch seine Dichtungen mächtig auch auf den vaterländischen Sinn der Deutschen eingewirkt, hat diesen geweckt und belebt. Die Freiheitsbegeisterung des Dichters des „Wallenstein“ und „Tell“ war keine abstract kosmopolitische. Doch freilich war sie auch nicht eine so eingeschränkt politische, daß sie über den Bürger den Menschen übersehen hätte. Würde nicht die classische Literatur den Weltbürger und Menschen betont haben, so hätte uns wieder die Befähigung gemangelt, das Nationale in seiner höhern Bedeutung zu begreifen. Es ist gerade wie in der Literatur selbst. Ohne die vorhergegangene Schwärmerei für Homer hätte es keine Schwärmerei für die Nibelungen geben können.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J [Anon.; Verf. unges.:] Eine Anklage gegen Schiller und Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 5, Nr. 5, [29. Oktober] 1859, S. 79-80. (Rasch *3.59.10.29)</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.; Verf. unges.:] Eine Anklage gegen Schiller und Goethe. In: Unterhaltungen am häuslichen Herd. Leipzig. N. F. Bd. 5, Nr. 5, [29. Oktober] 1859, S. 79-80. (Rasch *3.59.10.29)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im 19. Jahrhundert hg. von Madleen Podewski. Münster: Oktober Verlag, 2019. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Seiten- und Zeilenangaben im Apparat und in den Stellenerläuterungen des edierten Textes beziehen sich auf folgenden Druckband der Edition: Karl Gutzkow: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im neunzehnten Jahrhundert herausgegeben von Madleen Podewski, GWB  IV, Bd. 3.</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -104,7 +109,7 @@
         <tei:seg> </tei:seg>
         <tei:sic>Natiouale</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">

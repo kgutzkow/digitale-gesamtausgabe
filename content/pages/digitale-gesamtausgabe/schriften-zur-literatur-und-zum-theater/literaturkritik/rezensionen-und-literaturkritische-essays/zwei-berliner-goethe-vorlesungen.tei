@@ -35,71 +35,76 @@
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
       <tei:change when="2021-05-12" who="#MadleenPodewski">1.1: Korrektur</tei:change>
+      <tei:change when="2021-06-15" who="#MadleenPodewski">1.2: Korrektur Formatierung, Apparat</tei:change>
+      <tei:change when="2021-06-30" who="#MadleenPodewski">1.3: Korrektur Apparat</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2">
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="55"/>
         <tei:seg> Zwei berliner Goethe-Vorlesungen.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
         <tei:seg>Unter dem Titel: „Goethe und die Erzählungskunst“, ließ </tei:seg>
         <tei:hi style="letter-sparse">Berthold Auerbach</tei:hi>
         <tei:seg> einen Vortrag erscheinen (Stuttgart, Cotta, 1861), der im verflossenen Winter von ihm in Berlin gehalten wurde.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Wir hätten wol von einem an dem Werth und der Bedeutung der neuern Literatur vorzugsweise interessirten Autor vorausgesetzt, daß sich seine Selbständigkeit nicht den Extremen des fast maniakal gewordenen Goethe- und Schiller-Cultus angeschlossen oder dem ästhetischen Berlinerthum seine eigene Lebenswahrheit geopfert hätte. Gerade Auerbach, einem ersten Vertreter der Erzählungskunst, würde es angestanden haben, offen zu bekennen, daß bei unsern Classikern, vielleicht Wieland ausgenommen, von Kunst der Darstellung im höchsten Grade, von eigentlicher </tei:seg>
         <tei:hi style="letter-sparse">Erzählungskunst</tei:hi>
         <tei:seg> aber wenig die Rede sein könne. Diese neuaufgefundene alte Kunst des Homer, Virgil, der orientalischen Literatur gehört der neuern und neuesten Zeit an. Goethe erzählte anschaulich und fesselnd, meist aber doch nur, wenn er seine eigenen Erlebnisse wiedergab, wie in den Partieen des „Wilhelm Meister“, die Reproductionen seiner eigenen Lebenserfahrung sind. Sobald der stofflich interessante Inhalt bei ihm aufhörte, reichte seine „Erzählungskunst“ nicht immer aus, auf alle Fälle zu unterhalten. „Achillëis“, „Wanderjahre“, der zweite Theil des „Faust“ beweisen keine besondere Pflege der Erzählungskunst. Die Kunst der Erzählung ist so erst durch unsere spätern Entwickelungen, so mit den Romantikern und deren Nachfolgern wieder aufgekommen, daß man bedauern muß, den berühmten Redner mühsam Beweise aufsuchen zu sehen für eine Behauptung, in welcher seine erste freudige Wallung, einen Redestoff für Berlin wie es ist gefunden zu haben, sich in einem Irrthum befand, den er bereits im Lauf seines Vortrags erkannt zu haben scheint; denn seine Beweisführung schöpft keineswegs aus dem Vollen, sondern nestelt eine kleine Beobachtung an die andere. Der Eindruck ist um so peinlicher, je weniger sich der naive und immer wohlmeinende Sinn des Redners verleugnet.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Mit desto größerer Berechtigung behandelt </tei:seg>
         <tei:hi style="letter-sparse">Rudolf Virchow</tei:hi>
         <tei:seg> in einer ebenfalls zu Berlin gehaltenen Rede sein Thema: „Goethe als Naturforscher“ (Berlin, Springer, 1861). Die bekannte frische Lebendigkeit und vielseitige Bildung des berühmten Anatomen verbreitet sich über sein Thema in einer Weise, die nichts Gezwungenes hat, wenn ihr auch ein eigentlicher Höhepunkt fehlt und das Ganze selt-</tei:seg>
         <tei:pb n="56"/>
         <tei:seg>sam abbricht. Die Zugeständnisse, die hier ein Naturforscher Goethe’s Beschäftigungen mit der Natur macht, sind außerordentlich; wir hätten gewünscht, der Verfasser hätte gelegentlich auch gesagt, Goethe trieb in gewissem Sinne mehr ideale Naturbeschreibung als Naturforschung; wenigstens kann man seine Definition der Urpflanze, seine Nachconstruction physiologischer, zoo- und geologischer Processe nicht lesen, ohne zu bekennen, daß dabei kaum mehr vorliegt als eine mit dem stärksten Dogmatismus ausgesprochene Beschreibung und Wiedererzählung aprioristischer Phantasieen. Virchow hat freilich selbst eine solche Theorie, die von der Zellenbildung.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
         <tei:seg>Die Noten zu der, wie gesagt, aus interessanten Einzelheiten zusammengesetzten Rede sind besonders werthvoll. Sie verrathen eine seltene Belesenheit und versetzen den Leser mitten in die hellste Beleuchtung, die Goethe’s Verdienste um die Naturwissenschaften gerade durch die neuesten Forschungen erhalten.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J [Anon.; Verf. unges.:] Zwei berliner Goethe-Vorlesungen. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 2, Nr. 3, [16. Januar] 1862, S. 55-56. (Rasch *3.62.01.16.1)</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.; Verf. unges.:] Zwei berliner Goethe-Vorlesungen. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 2, Nr. 3, [16. Januar] 1862, S. 55-56. (Rasch *3.62.01.16.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im 19. Jahrhundert hg. von Madleen Podewski. Münster: Oktober Verlag, 2019. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left">
-        <tei:seg>Seiten- und Zeilenangaben im Apparat und in den Stellenerläuterungen des edierten Textes beziehen sich auf folgenden Druckband der Edition: Karl Gutzkow: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im neunzehnten Jahrhundert herausgegeben von Madleen Podewski, GWB  IV, Bd. 3.</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">

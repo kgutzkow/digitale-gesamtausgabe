@@ -36,15 +36,16 @@
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
       <tei:change when="2021-05-09" who="#MadleenPodewski">2.0</tei:change>
       <tei:change when="2021-05-12" who="#MadleenPodewski">2.1</tei:change>
+      <tei:change when="2021-06-15" who="#MadleenPodewski">2.2: Korrektur Absatzformatierung, Apparat</tei:change>
+      <tei:change when="2021-06-30" who="#MadleenPodewski">2.3: Korrektur Apparat</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:pb n="50"/>
         <tei:seg> Die Feier der Enthüllung des Goethe-Denkmals in Frankfurt a. M.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es ist eine merkwürdige Erscheinung, daß zuweilen im Culturleben der Völker Momente auftauchen, welche irgend einen Begriff, irgend eine Richtung, ja irgend eine Mode zu einer fast fieberhaften Geltung bringen, und dann ebenso schnell wieder verschwinden.</tei:seg>
       </tei:p>
@@ -54,7 +55,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Was damals rasch und thatkräftig angefaßt wurde, das ist auch glücklich zu Stande gekommen. Selbst für einen völlig mythischen Begriff, wie der der einstigen Befreiung Deutschlands von den Römern durch Arminius, fanden sich so viel bereitwillige Spenden, daß man über den Gemeingeist unsers Volkes, wenn er nur zur passenden Stunde angeschürt wird, erstaunen mußte. Später ließ freilich die Spannung nach. Manche halbvollendete Denkmalbestrebungen sind in Stocken gerathen, andre, zu denen erst der Entwurf fertig war, mußten schon wieder im Keime sterben, woran zum großen Theil auch die förmlich ins Kolossale organisirte Idee des kölner Domausbaues Schuld sein mag. Für jenen Dom fließen durch regelmäßige und nunmehr fast Zwangsanlehen gewordene Beiträge viele Tausende zusammen, während Lessing in Braunschweig noch immer zu keinem Denkmale kommen kann.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Als das Standbild Friedrich Schillers sich in Stuttgart erhob, mußte keine Stadt mehr als Frankfurt a. M. fühlen, welche Verpflichtung sie Johann Wolfgang Goethe abzutragen hatte. Hier war der große Dichter den 28. August 1749 geboren. Schon zu Goethe’s Lebzeiten regten sich hie und da Wünsche für eine monumentale Erinnerung an ihn, aber nach mancherlei selbst gehässigem Streit über diesen Plan mußte dem Takt des Lebenden eine solche dem Tode gehörende Huldigung unpassend erscheinen. Um so auffallender ist es, daß fast fünf Jahre verstrichen, ehe nach Goethe’s im Jahre 1832 wirklich erfolgtem Tode der früher fast vorschnelle Gedanke wieder aufgenommen wurde. Die politische Aufregung, welche nach der Julirevolution eintrat, mag davon die meiste Schuld getragen haben. Mehr als je wurde Goethe’s Verhältniß zu dem öffentlichen Leben seine Volks grade damals erörtert und in mißliebiger Weise dargestellt. Während die Gelehrten sich beeiferten, ihn durch Buch auf Buch, Commentar auf Commentar zu erläutern, blieb auffallenderweise der Massengeist hinter dieser Stimmung zurück und folgte sogar dem Urtheil einiger zelotischer Goethefeinde, die den Gedanken, Goethe wäre ein Aristokrat gewesen, in trivialer und fanatisch übertreibender Weise breit schlugen. Darüber kamen aber allmälig ruhigere Zeiten herauf, die politische Literatur fing an, sich mit den ästhetischen Ueberlieferungen zu vermitteln und mit dem Jahre 1837 trat endlich der Gedanke, auch Goethe ein Standbild zu errichten, siegreich ins Leben.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -102,7 +103,9 @@
         <tei:seg>Um den festlichen Augenblick der Einweihung und Enthüllung des Standbildes nicht durch den Zudrang des Volkes zu stören, hatte eine geschlossene Tribüne gezimmert werden müssen. Noch verhüllte ein weißer Mantel geheimnißvoll das eherne Standbild. Inzwischen kam mit leidlich günstiger Witterung der erste Tag des Festes, der 21. October, heran. Die späte Jahreszeit machte einen großen Zufluß von Fremden unmöglich, doch kam der Kanzler von Müller aus Weimar, vieljähriger Freund Goethe’s und gleichsam der persönliche Vertreter jener Erinnerungen, die man zu ehren gedachte. Die Enkel Goethe’s waren zu kommen verhindert durch die Trauer um ihre eben verstorbene Schwester Alma. Riemer dankte für die erhaltene Einladung entschuldigend. Eckermann erhielt den nach Weimar gesandten Brief erst verspätet in Hannover. Bettina von Arnim beklagte den „Mangel einer nach Frankfurt führenden Eisenbahn“ und gab von Berlin aus nachträglich einige Winke für die Festtage, die, ihren Zartsinn bekundend, befolgt worden sind.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Zur Vorfeier hatte die Direction des Stadttheaters eine Vorstellung von Goetz von Berlichingen veranstaltet, keine glückliche Wahl, da der Sinn unserer Zeit sich von der Rohheit jener verendenden Faustrechtsepoche oft abgestoßen fühlen mußte, und die künstlerische Anlage dieses Erstlingswerkes die künftige Unsterblichkeit des Autors nicht zu verbürgen scheint. Man hätte nur Tasso oder Iphigenia geben sollen. Die Gelegenheit, mit Tasso und Iphigenia volle Häuser zu machen, kommt so selten, daß sie hier mit freudiger Hand hätte ergriffen werden sollen. Das Publicum hatte sich in weihevoller Stimmung versammelt. Ein Prolog von Dr. Weismann verfaßt, und von Herrn Reger vorgetragen, hatte den feierlichen Ernst dieser Stimmung erhöht. Eine Vorstellung des Tasso oder der Iphigenia würde den Abend zu einem entsprechenden Ende geführt haben.</tei:seg>
+        <tei:seg>Zur Vorfeier hatte die Direction des Stadttheaters eine Vorstellung von Goetz von Berlichingen veranstaltet, keine glückliche Wahl, da der Sinn unserer Zeit sich von der Rohheit jener verendenden Faustrechtsepoche oft abgestoßen fühlen mußte, und die künstlerische Anlage dieses Erstlingswerkes die künftige Unsterblichkeit des Autors nicht zu verbürgen scheint. Man hätte nur Tasso oder Iphigenia geben sollen. Die Gelegenheit, mit Tasso und Iphigenia volle Häuser zu machen, kommt so selten, daß sie hier mit freudiger Hand hätte ergriffen werden sollen. Das Publicum hatte sich in weihevoller Stimmung versammelt. Ein Prolog von </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. Weismann verfaßt, und von Herrn Reger vorgetragen, hatte den feierlichen Ernst dieser Stimmung erhöht. Eine Vorstellung des Tasso oder der Iphigenia würde den Abend zu einem entsprechenden Ende geführt haben.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Am folgenden Morgen zeigte sich am Geburtshause Goethe’s auf dem Hirschgraben über der Thür eine neu eingerahmte weiße Marmortafel, die nun in goldenen Buchstaben jedem Fremden das Haus zeigt, in welchem er vorsprechen kann, wenn er geneigt ist, die Räume zu sehen, wo Goethe seine Knaben- und Jünglingsjahre verlebte.</tei:seg>
@@ -129,7 +132,9 @@
         <tei:foreign>Dr.</tei:foreign>
         <tei:seg> Müller riß auch durch den Vortrag hin; dem Hörer wurde wohl bei den sanften Moll-Accorden, mit denen er Frankfurts Ruhm und Ehre pries. Einem mehr in Dur gesetzten Toast des Unterzeichneten auf Weimar (s. Nr. 72 d. Bl.) folgte eine gleiche Aufregung. Die Gefühle waren einmal im Ausströmen begriffen; nun kam es nur darauf an, ihnen das rechte Uferbett abzustecken. Leider waren des Kanzlers von Müller Entgegnungsworte nur einem Theile hörbar, doch fühlte Jeder, wie bedeutungsvoll der Mund war, der in diesem Augenblicke sprach. </tei:seg>
         <tei:foreign>Dr.</tei:foreign>
-        <tei:seg> Weismann ließ die Fremden, Inspector Passavant die Künstler leben, die das Erzbild geschaffen hatten. Dann folgte in bunter Reihe manche überraschende Spende, witzige von den Doctoren Stiebel, Hoffmann, Wihl, von dem Theaterdirector Malß eine Vertheidigung der frankfurter Bürgerlichkeit Goethe’s in frankfurter Mundart, an der Goethe selbst um so mehr seine Freude gehabt hätte, als er von dem Talente dieses Schriftstellers, dem wir den „Frankfurter Bürgercapitän“ verdanken, mit großer Anerkennung in seinen Schriften geurtheilt hat. Auch noch eine ernste Andeutung von einem Bruder des Dr. Weismann wurde verlesen; doch machte sich gegen das Ende des Banketts freilich der Geist des Genusses geltend und protestirte mit dem Glase in der Hand gegen fernere nur noch geistige Libationen.</tei:seg>
+        <tei:seg> Weismann ließ die Fremden, Inspector Passavant die Künstler leben, die das Erzbild geschaffen hatten. Dann folgte in bunter Reihe manche überraschende Spende, witzige von den Doctoren Stiebel, Hoffmann, Wihl, von dem Theaterdirector Malß eine Vertheidigung der frankfurter Bürgerlichkeit Goethe’s in frankfurter Mundart, an der Goethe selbst um so mehr seine Freude gehabt hätte, als er von dem Talente dieses Schriftstellers, dem wir den „Frankfurter Bürgercapitän“ verdanken, mit großer Anerkennung in seinen Schriften geurtheilt hat. Auch noch eine ernste Andeutung von einem Bruder des </tei:seg>
+        <tei:foreign>Dr.</tei:foreign>
+        <tei:seg> Weismann wurde verlesen; doch machte sich gegen das Ende des Banketts freilich der Geist des Genusses geltend und protestirte mit dem Glase in der Hand gegen fernere nur noch geistige Libationen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Auch lockte es, die Straßen zu schauen im wogenden Gedränge. Die Liederkränze brachten dem erleuchteten Standbilde Serenaden und hielten frohe Versammlung im Saal des Weidenbusches. Einen kleinen chinesischen Laternenzug kann man als eine Humoreske ansehen. Aber prächtig erleuchtet war Goethe’s Geburtshaus und die aufgeregte jüngere Bewohnerschaft Frankfurts ließ sich dort vom Festtaumel zu Huldigungen in Form der Walpurgisnacht auf dem Brocken hinreißen. Die Polizei hat später einigen allzu mephistophelisch aufgetretenen Goetheverehrern Prügel austheilen lassen; ein bitterer Nachklang zu einem Feste, bei dem man auch Blocksbergscenen letztlich hätte als zum Parnaß gehörig immerhin ausnahmsweise ansehen sollen. Stiller und friedlicher verklang eine entfernte Nebenfeier, die sich vorm Thore in der Mainlust angesiedelt hatte. Die Gesellschaft Iris brachte in kleinerem Kreise fast dieselben Begriffe und Erinnerungen zu froher Geltung, welche schon im Börsensaale ausgesprochen waren. Die Redner, die hier auftraten, die Herren Creizenach, Sattler, Rau, Mai, Weil, fanden für ihre rednerischen und poetischen Darbringungen die einstimmige, oft rauschende Anerkennung einer aus ungefähr 70 Personen bestehenden Versammlung.</tei:seg>
@@ -138,50 +143,56 @@
         <tei:seg>Am Mittwoch Abend, nach der Vorstellung des Egmont im Theater, vereinigte der Saal des Weidenbusches noch einmal die zerstreuten Theilnehmer des Festes. Donnerstag Abend veranstaltete die in humoristischen Formen bestehende indische Gesellschaft oder der Ganges eine von mehren angesehenen Fremden, z. B. Dingelstedt besuchte Nachfeier im augsburger Hofe. Das Lokal war mit Blumen geschmückt. Der zeitige Präsident, der Unterzeichnete, eröffnete die Sitzung mit einer aus Ernst und Scherz gemischten kleinen Abhandlung über das „Indische in Goethe“, und vertheilte bei dieser Gelegenheit eine Anzahl kleiner hölzerner Reliquien, die aus dem bei Goethe’s Geburt von seinem Großvater gepflanzten und mit Goethe’s Tod abgestorbenen Birnbaume – S. Goethe’s Briefwechsel mit einem Kinde II. S. 254 – waren angefertigt worden. Eine freundliche Beschützerin alles Guten und Schönen, Mad. Belli-Gontard, hatte diese sinnige Idee ausgeführt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Freitag hielt zum Beschluß die große Museumsgesellschaft ihre erste Wintersitzung, ausschließlich zu Goethe’s Ehren. Dr. Clemens leitete diese Feier, die leider von einem Unfall, dem Abbröckeln eines kleinen Theils der Saaldecke, unterbrochen wurde, mit einem Vortrage über die Principien der Beurtheilung Goethe’s ein. Sonst waren alle Vorträge, alle Gesänge dieses Concert-Abends gleichfalls dem Zwecke dieser ganzen, nun ablaufenden Festwoche gewidmet.</tei:seg>
+        <tei:seg>Freitag hielt zum Beschluß die große Museumsgesellschaft ihre erste Wintersitzung, ausschließlich zu Goethe’s Ehren. </tei:seg>
+        <tei:foreign>Dr.</tei:foreign>
+        <tei:seg> Clemens leitete diese Feier, die leider von einem Unfall, dem Abbröckeln eines kleinen Theils der Saaldecke, unterbrochen wurde, mit einem Vortrage über die Principien der Beurtheilung Goethe’s ein. Sonst waren alle Vorträge, alle Gesänge dieses Concert-Abends gleichfalls dem Zwecke dieser ganzen, nun ablaufenden Festwoche gewidmet.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Wir sind zu Ende. Man hat gesagt, die schönste Erinnerung an diese Tage und die bleibendste wäre das Denkmal selbst. Möchte auch der Geist sich nicht zu schnell verflüchtigen, der wenigstens einen Theil unserer Stadt während jener Augenblicke beseelte. Und mögen Die, welche hinter ihren Mitbürgern an Begeisterungsfähigkeit, Aufopferung und bescheidener Unterordnung der Person unter eine Idee zurückblieben, sich heranbilden zu freieren Auffassungen für eine Zukunft, die in ihrem Schooße noch oft Gelegenheit bergen kann, wo der Einzelne sich, wie in jenen Goethe-Tagen, vor der Macht des Geistes anerkennend zu beugen hat!</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:signed>Frankfurt am Main.                                                                                                                                                                      K. G.</tei:signed>
+      <tei:p margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Frankfurt am Main.                           K. G.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J K[arl] G[utzkow]: Die Feier der Enthüllung des Goethe-Denkmals in Frankfurt a. M. In: Illustrirte Zeitung. Leipzig. Bd. 4, Nr. 82, 25. Januar 1845, S. 50-53. (Rasch 3.45.01.25)</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J K[arl] G[utzkow]: Die Feier der Enthüllung des Goethe-Denkmals in Frankfurt a. M. In: Illustrirte Zeitung. Leipzig. Bd. 4, Nr. 82, 25. Januar 1845, S. 50-53. (Rasch 3.45.01.25)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im 19. Jahrhundert hg. von Madleen Podewski. Münster: Oktober Verlag, 2019. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.0" style="text-left">
-        <tei:seg>Seiten- und Zeilenangaben im Apparat und in den Stellenerläuterungen des edierten Textes beziehen sich auf folgenden Druckband der Edition: Karl Gutzkow: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im neunzehnten Jahrhundert herausgegeben von Madleen Podewski, GWB  IV, Bd. 3.</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -190,9 +201,9 @@
         <tei:lem>sich.</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>sich</tei:sic>
-        <tei:seg> ausgefallenes SatzzeichenKommentar</tei:seg>
+        <tei:seg> ausgefallenes Satzzeichen</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">

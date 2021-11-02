@@ -35,27 +35,28 @@
     <tei:revisionDesc>
       <tei:change who="#MadleenPodewski" when="2021-01-10">1.0</tei:change>
       <tei:change when="2021-05-12" who="#MadleenPodewski">1.1: Korrektur</tei:change>
+      <tei:change when="2021-06-15" who="#MadleenPodewski">1.2: Korrektur Absatzformatierung, Apparat</tei:change>
+      <tei:change when="2021-06-30" who="#MadleenPodewski">1.3: Korrektur Apparat</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:pb n="46"/>
         <tei:seg> Schiller und Goethe.</tei:seg>
       </tei:head>
-      <tei:head type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
         <tei:seg>Einleitung zu literarischen Unterhaltungen. </tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Schiller und Goethe – sind gewesen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Die Möglichkeit, daß noch einmal wieder Dichter auftauchen, die wenn auch nur auf einige Zeit in Deutschland so ergreifen und beschäftigen wie Schiller und Goethe oder wie noch jetzt etwa Humboldt die Naturwissenschaften, Liebig die Unterscheidung der Stoffe, Jakob Grimm die Sprachforschung beherrscht, eine solche Möglichkeit kann kein Deutscher, der die großen Entwickelungen seines Volkes und die Kraft der Schultern kennt, mit denen Einzelne unsers Stammes oft ganze Epochen trugen, in Abrede stellen wollen. Für den Augenblick aber stehen die goldenen </tei:seg>
         <tei:hi style="letter-sparse">großen</tei:hi>
         <tei:seg> olympischen Stühle leer.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
         <tei:seg>Einige ältere Dichter leben noch. Immergrüne Kränze schmücken ihre greisen Schläfe. </tei:seg>
         <tei:hi style="letter-sparse">Arndt</tei:hi>
         <tei:seg> wirft noch manches kräftige, </tei:seg>
@@ -81,7 +82,7 @@
         <tei:hi style="letter-sparse">Richtung</tei:hi>
         <tei:seg>, die romantische Schule, die nirgends Anklang fand, die überall verspottet, überall zurückgewiesen, nicht gelesen wurde; diese konnte sich, um zu Anerkennung zu kommen, nicht anders helfen, als daß sie den seit dem anfangs wenig gewürdigten „Tasso“, seit der an Einfachheit oft überreichen „Iphigenie“ und Versen wie:</tei:seg>
       </tei:p>
-      <tei:lg>
+      <tei:lg margin-left="1.5" margin-right="0" margin-top="0.1" margin-bottom="0.1">
         <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
           <tei:hi style="font-size-small">Seid überzeugt, der Wunsch, euch zu gefallen,</tei:hi>
         </tei:l>
@@ -104,7 +105,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.1" style="text-left">
         <tei:seg>Oder:</tei:seg>
       </tei:p>
-      <tei:lg>
+      <tei:lg margin-left="1.5" margin-right="0" margin-top="0.1" margin-bottom="0.1">
         <tei:l margin-left="0.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
           <tei:hi style="font-size-small">Alles geht natürlich,</tei:hi>
         </tei:l>
@@ -146,50 +147,54 @@
       </tei:note>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Madleen Podewski, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
         <tei:seg>Nach der ungezeichneten Publikation in den „Unterhaltungen am häuslichen Herd“ fügte Gutzkow den Beitrag fünf Jahre später dem dritten Teil der </tei:seg>
         <tei:q>Kleinen Narrenwelt</tei:q>
         <tei:seg> ein, und zwar in Abschnitt V: </tei:seg>
         <tei:q>Wirren des Geschmacks</tei:q>
         <tei:seg>. Am Wortlaut änderte er dafür nichts, aber er untergliederte den Text mit deutlich mehr Absätzen. Die auffallendste Varianz besteht in der Änderung des Titels.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J [Anon.:] Schiller und Goethe. Einleitung zu literarischen Unterhaltungen. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 3, [14. Oktober] 1852, S. 46-48. (Rasch 3.52.10.14.2) </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>E Die Epigonen. In: Karl Gutzkow: Die kleine Narrenwelt. Theil 3. Frankfurt/M.: Literarische Anstalt, 1857. S. 231-237. (Rasch 2.33.3.5.3)</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-2">
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Schiller und Goethe. Einleitung zu literarischen Unterhaltungen. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 3, [14. Oktober] 1852, S. 46-48. (Rasch 3.52.10.14.2) </tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E Die Epigonen. In: Karl Gutzkow: Die kleine Narrenwelt. Theil 3. Frankfurt/M.: Literarische Anstalt, 1857. S. 231-237. (Rasch 2.33.3.5.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im 19. Jahrhundert hg. von Madleen Podewski. Münster: Oktober Verlag, 2019. (= Gutzkows Werke und Briefe. Abt. IV: Schriften zur Literatur und zum Theater, Bd. 3.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Seiten- und Zeilenangaben im Apparat und in den Stellenerläuterungen des edierten Textes beziehen sich auf folgenden Druckband der Edition: Karl Gutzkow: Ueber Göthe im Wendepunkte zweier Jahrhunderte. Mit weiteren Texten Gutzkows zur Goethe-Rezeption im neunzehnten Jahrhundert herausgegeben von Madleen Podewski, GWB  IV, Bd. 3.</tei:seg>
-      </tei:p>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
