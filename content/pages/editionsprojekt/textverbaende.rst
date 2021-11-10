@@ -1,7 +1,7 @@
 Textbände im Oktober Verlag
 ===========================
 
-:order: 5
+:order: 6
 :menu_title: Textbände
 
 Die Kommentierte digitale Gesamtausgabe ist als 'Hybrid'-Ausgabe konzipiert. Sie erscheint im Internet (http://www.gutzkow.de) und in regelmäßigen Abständen in gedruckten Textbänden mit Nachworten der Herausgeber.
