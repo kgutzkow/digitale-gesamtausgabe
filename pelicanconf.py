@@ -305,6 +305,9 @@ TAXONOMY = (
     ('VI. Reiseliteratur', 'reiseliteratur', (
         ('1. Briefe aus Paris', 'briefe-aus-paris', ()),
         ('3. Berliner Eindruecke', 'berliner-eindruecke', (
+            ('Der Berliner Journalist', 'der-berliner-journalist', ()),
+            ('Korrespondenz-Nachrichten', 'korrespondenz-nachrichten', ()),
+            ('Tagebuch aus Berlin. I.-XIX.', 'tagebuch-aus-berlin-i-xix', ()),
             ('Berliner Eindrücke', 'berliner-eindruecke', ()),
 			('Eine Woche in Berlin', 'eine-woche-in-berlin', ()),
 			('Eine nächtliche Unterkunft', 'eine-naechtliche-unterkunft', ())

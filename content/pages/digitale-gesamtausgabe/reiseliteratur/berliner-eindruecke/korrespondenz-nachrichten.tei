@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Korrespondenz-Nachrichten. Berlin, November. Ein Beitrag zu Kants Metaphysik der Sitten</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Morgenblatt für gebildete Stände. Stuttgart u. Tübingen. Nr. 284, 27. November 1833, S. 1136; Nr. 285, 28. November 1833, S. 1140. (Rasch 3.33.11.27)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1833-11-27">27. November 1833</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#reiseliteratur #berliner-eindruecke #korrespondenz-nachrichten"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2021-10-21" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+        <tei:pb n="1136"/>
+        <tei:seg> Korrespondenz-Nachrichten.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="12" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0.5" style="text-left" extract="">
+        <tei:hi style="font-size-small letter-sparse">Berli</tei:hi>
+        <tei:hi style="font-size-small">n, November.</tei:hi>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg>Ein Beitrag zu Kants Metaphysik der Sitten.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
+        <tei:seg>Berlin ist eine viel zu junge Hauptstadt, als daß sich ihre Physiognomie nicht noch mannigfach ausprägen und ändern sollte. Man irrt sich, wenn man hierin schon überall feste Typen entdeckt haben will. Berlin hat verhältnißmäßig gegen jede andere Hauptstadt eines größern Reichs weniger Begünstigungen in den Ereignissen gefunden, seine Entwickelung geschah langsam, und jede kriegerische Chance sezt es noch heute allen Zufällen weit mehr aus, als Wien, Petersburg, Paris und London. Friedrichs des Großen Vater ging in Folge seines Ersparungssystems absichtlich darauf aus, seiner Hauptstadt jeden großstädtischen Charakter zu nehmen; er wußte, wie viel Summen seinen Vater die Eitelkeit gekostet hatte, aus seinen Umgebungen eine Kopie des französischen glanzvollen und verschwenderischen Hofes zu machen. Auch Friedrichs II. Regierung war nicht dazu gemacht, Berlin einen besondern Glanz zu verleihen. Den Plünderungen der feindlichen Heere ausgesezt, konnte die Hauptstadt nicht zu jener ruhigen, genießenden Wohlhabenheit gelangen, welche immer die breite Unterlage für jedes großstädtische, charakteristische Gepräge bildet. Der Frieden brachte nur dem Lieblingsaufenthalte des Königs, Potsdam, Früchte und Vortheile.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
+        <tei:seg>Wenn es wahr ist, daß in den Bewohnern unserer Hauptstadt sich eine gewisse traditionelle Eigenthümlichkeit erhalten hat, so wird man, wenn man von ihr die rechte Vorstellung besizt, die Mitte des vorigen Jahrhunderts als die Zeit annehmen müssen, in welcher die Elemente derselben zum ersten Male zusammenstießen. Welche kann ich meinen? – Berlin ist eine sehr bürgerliche Stadt; selbst die grenzenlose Masse von Staatsbeamten, die von den niedersten bis zu den höchsten Stufen jezt in der Residenz wohnen, haben ihr diesen Charakter nicht nehmen können. Der bei uns dominirende Bürger ist aber kein Großbürger, sondern ein Philister, ein Kleinstädter, welcher auf dem schönsten Platze Europas, im ehemaligen Lustgarten, stehen kann und niemals seine Vorstadt, seinen sogenannten Kietz, vergessen wird. Friedrich der Große beschäftigte durch die Lieferungen für seine Heere eine große Anzahl Bürger, man gab ihnen Vorschüsse, wenn sie arm waren, lieferte den Posamentirern Wolle, kurz, es waren weniger großartige Unternehmer, welche in Befriedigung der militärischen Bedürfnisse ihre Rechnung fanden, als eine zahlreiche Menge kleiner Arbeiter, welche theils in die Stadt gezogen waren, um sie zu bevölkern, theils sie nicht verlassen wollten, weil sie anderswo nicht das Privilegium der Kantonsfreiheit fanden. Nichtsdestoweniger hat diese bedeutende Anzahl von Handwerkern, diese ganze Kleinbürgerschaft, seit dem siebenjährigen Kriege bis auf die unglücklichen Zeiten von 1807 und 1808 immer sehr gute Ueberschläge gemacht, sie wurde reich; denn in jeder Zeit hat man, wie es in Berlin heißt, „etwas geschafft.“</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:pb n="1140"/>
+        <tei:seg> Diese Kleinbürger waren es, welche seither immer die breite Grundlage für die Bewohner Berlins bildeten. Die großen Ereignisse der Zeit, die mächtigen Fortschritte des preußischen Staates waren für sie Ueberraschungen, an welche sie sich bald gewöhnten, und die sie sogleich in den Kreis ihres philisterhaften Daseyns herunterzogen. Es fehlte in dieser Sphäre an dem rechten Sinn, der solchen erhabenen Thatsachen entgegen kommen muß, der Enthusiasmus regte sich schwer auf, ja viele Dinge wurden für unbedeutend gehalten, da man nicht die Einsicht besaß, sie im rechten Lichte zu sehen. Dieß ist der Ursprung jenes grenzenlosen Gleichmuthes, der noch heute den Berliner von der ächten, unverdorbenen Race charakterisirt; dieß ist aber auch ebenso die Grundlage jenes naiven Sarkasmus, welchen man an meinen Landsleuten so oft belacht hat. Für Nichts entschieden, von Nichts ergriffen, ohne irgend etwas in der Welt genau zu kennen, als etwa die Gegend vor dem schlesischen Thore, und durch seine Stellung, als Bürger der Haupt- und Residenzstadt Berlin, doch nicht ohne Beruf, seine Stimme abzugeben, urtheilt der Windbeutel in den Tag hinein, und läßt sich auf Urtheilen ertappen, welche oft so ganz in der Luft hängen, daß man sie für witzig halten und herzlich darüber lachen muß. In neuerer Zeit ist über die Berliner Straßenspäße so viel gesprochen worden, daß es nicht uninteressant ist, die Anlagen der Berliner kennen zu lernen, welche ihnen zu jenen dienen. Der Wiener lacht über den Schein der Albernheit, der Berliner über den Schein des Ernstes. Es ist für unsern Sand angemessen, daß bei uns der trockene Spaß zu Hause ist. Man findet in unsern niedern Ständen die sogenannten „Träumerigen,“ welche es hinter den Ohren haben, hundertfach; sie sind beliebt bis in die dritten und vierten Glieder ihrer Familie, und werden immer gern gesehen. In diesem schalkhaften Ernste sieht man die Folgen der norddeutschen Kultur, des Protestantismus, der eingezogenen Lebensweise. Die Jovialität wollte niemals bei uns gedeihen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Alle diese Bemerkungen sind nicht neu, und ich wiederhole sie nur, um jezt zu sagen, daß sie bald unwahr seyn werden. Berlin ist in einer Krisis begriffen, die mit einer merklichen Aenderung seines bisherigen Charakters enden wird. Für Vieles, was bisher an dem Berliner eigenthümlich war und oft Lachen erregte, scheint die lezte Stunde geschlagen zu haben. Es konnte auch nicht anders seyn. Die große Reiselust meiner Landsleute, welche gegen die frühere Festbürgerung sehr absticht, muß sie in mannichfache neue Berührungen führen; sie lernen den Werth des Auslandes schätzen, und entheben sich allmählig jenen alten Vorurtheilen, in welchen man sie noch vor einigen Jahren gefangen überraschen konnte. Dazu kommen einige Erscheinungen innerhalb der Mauern selbst. Jene Witzjägerei, der Sarkasmus der Gleichgültigkeit hat sich verloren, seitdem die Eckensteher und die Höckerinnen zu den Repräsentanten derselben gemacht worden sind. Man schämt sich, diese Dinge in den Mund zu nehmen, welche auf dem Theater, auf hundert Bildern und in mehr als einem Dutzend Brochüren von den niedrigsten Pöbelklassen gesagt werden. Es macht einen widrigen Eindruck, diese Abgeschmacktheiten gedruckt zu sehen, und wie viel auch davon gelesen wurde, wie zahlreich das Publikum der Eckensteher ist, so hat dieser ganzen spaßhaften Tendenz doch die Einführung in die Literatur geschadet, und es ist schon lange keine Rede mehr davon. Meine Landsleute werden wärmer, theilnehmender werden, sie werden sich für die Dinge interessiren und auf Kosten einer traurigen Spaßmacherei genießen und sich hingeben lernen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Die Volksbelustigungen geben für die Krisis, welche ich bemerkt haben will, einen recht sichern Maßstab. Wer hätte uns je solche Surrogate des Vergnügens bieten dürfen, als sie im verflossenen Oktober der erfinderische Besitzer des Tivoli combinirte? Ein Volksfest, ein Weinfest, ein Hohenzollerntag, ein Jagdfest; man sollte die Programme dieser Spektakel lesen und würde sich nach Wien versezt glauben. Luftballons, Feuerwerk, Sackläufer, Policinells, ein menschlicher Bär, eine ambulante Bacchusstatue von Pappe, eine öffentlich ausgestellte Batterie von Weinflaschen, eine lebensgroße Kopie der Burg Hohenzollern auf Leinwand, welche frei in die Aussicht des Lokals aufgepflanzt ist, das sind Unterhaltungsvehikel, welche man früher unter uns nicht kannte, die dem Wiener ganz willkommen wären und dießmal auch unter uns die günstigste Aufnahme fanden. Dem Spott schienen alle seine Spitzen abgebogen, man fand die handgreiflichen Abgeschmacktheiten der Festordner nicht einmal lächerlich, sondern ließ sich höchstens verleiten, über die servirten Weine einige Späße zu machen. Diese konnten für den Spottpreis, um welchen sie verabfolgt wurden, nur höchst schlecht seyn, und es sagte Jemand nicht mit Unrecht, auf den verschuldeten Zustand des Tivoli hindeutend: „Dadurch, daß wir bei diesen Weinen herunter kommen, will das Tivoli wieder herauf kommen.“ Allein das sind matte Entgegnungen auf die barocken Erfindungen des Herrn Gerike, welcher die Spottlust der Berliner besiegt hat. Wie lange wird es noch währen, so fangen die Berliner an, an öffentlichen Orten nicht immer zu sehen, wie sich der Andere amüsirt, sondern sich selbst zu amüsiren. Das wäre der größte Fortschritt, den wir machen könnten, und würde unserm öffentlichen Leben eine ganz andere Färbung geben.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Soll ich noch von der italienischen Oper unter diesem heutigen Gesichtspunkte sprechen? Nein, davon hören Sie nächstens; hieher gehören nur noch ausschließlich die vergrößerten Speisezettel in den Trattorien. Alle Welt weiß, daß man bis jezt in Berlin schlecht gegessen hat. Die Gasthöfe sind verrufen und die Restaurationen nur für ein Mittagessen von höchstens einem Drittelsthaler eingerichtet. Wie sehr hat sich dieß seit Jahr und Tag verändert! Sie finden nach Wiener Art lange, unglaubliche, fabelhafte Speisekarten, welche nach den neuesten Grundsätzen der Kochkunst rubricirt und in verschiedene Fächer eingetheilt sind, welche alle die elegantesten und duftendsten Namen tragen. Man spricht jezt in den Speisehäusern von Salami, von Fricandeaus, man macht den bei uns bisher völlig unbeachteten Unterschied zwischen Backen und Braten, und lernt kleinen Nebenspeisen, welche der Italiener unter dem Namen Friture zusammenfaßt, eine verdiente Aufmerksamkeit schenken. Ich ließ diesen auffallenden Thatsachen meine frühern Bemerkungen vorangehen, um zu zeigen, daß sie nicht einzeln stehen. Es bereiten sich außerordentliche Dinge bei uns vor, und ich behaupte, wenn irgend ein äußerer Anstoß, z. B. die Anlage eines neuen Theaters, hinzukäme, wir würden eine denkwürdige Revolution unserer Sitten erleben.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Korrespondenz-Nachrichten. Berlin, November. Ein Beitrag zu Kants Metaphysik der Sitten. In: Morgenblatt für gebildete Stände. Stuttgart u. Tübingen. Nr. 284, 27. November 1833, S. 1136; Nr. 285, 28. November 1833, S. 1140. (Rasch 3.33.11.27)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:citedRange type="page-line-ref">5,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>neuesten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ueuesten</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

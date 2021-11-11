@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Berliner Journalist</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Morgenblatt für gebildete Stände. Stuttgart u. Tübingen, Nr. 261, 31. Oktober 1833, S. 1041-1043. (Rasch 3.33.10.31)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1833-10-31">31. Oktober 1833</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#reiseliteratur #berliner-eindruecke #der-berliner-journalist"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2021-10-19" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+        <tei:seg> </tei:seg>
+        <tei:pb n="1041"/>
+        <tei:seg> Der Berliner Journalist.</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
+        <tei:seg>Man weiß, wie die Redaktoren des Pariser </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">
+          <tei:foreign>Corsaire</tei:foreign>
+        </tei:ref>
+        <tei:seg> essen, trinken, schlafen, wie sie sich kleiden, wie viel Schulden sie haben, wer sie liebt und wer ihre Minus bezahlen kann. Man weiß in Paris, um welche Stunde </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">Armand Carrel</tei:ref>
+        <tei:seg>, der Redakteur des </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">
+          <tei:foreign>National</tei:foreign>
+        </tei:ref>
+        <tei:seg>, aufsteht, bis wie lange er die Morgenzeitungen excerpirt, daß ihm seine Frau mit der Scheere beisteht und die von ihm mit Röthel angestrichenen Artikel herausschneidet; kurz, die kleinsten Details in dem Leben dieser öffentlichen Charaktere sind beobachtet und verrathen worden. Hören Sie, wie der Hauptredakteur eines Berliner Blattes seinen Tag verlebt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>In der Frühe findet man ihn am Arbeitstisch, damit beschäftigt, alle gestrigen Einfälle leserlich aufs Papier zu bringen, oder fremde Aufsätze zu durchlaufen, oder die mannichfaltig vor ihm aufgethürmten Zeitungsblätter zu excerpiren. Die Manuscripte werden gegen Mittag mit Sorgfalt berechnet, ob sie die Spalten des nächsten Blattes auch füllen werden, ob es nöthig ist, sie mit Lückenbüßern zu unterstützen, oder ob wohl gar noch Reste für die spätere Lieferung übrig bleiben. Verlegenheit tritt hier nie ein; denn zahllos sind bei uns die schriftstellerischen Versuche junger Leute, mit welchen die Zeitungsredaktoren bestürmt werden. Alles will sich gedruckt sehen, und unsere Blätter sind gar nicht streng gegen diese Anfänger. Bald nach eilf Uhr wird es lebhafter bei unserm Mann. Schauspieler, welche auf seine Empfehlung rechnen, lassen sich anmelden, </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">Equilibristen</tei:ref>
+        <tei:seg>, Taschenspieler wagen, ihn um drei Zeilen Lob zu bitten, Mode- und Galanteriehändler suchen ihm einige gedruckte Worte abzugewinnen, wenn es sich um einen neuen Schmuck, den sie in Kommission haben, oder um einen Apparat, den sie selbst erfunden, handelt. Diese Besuche sind die lästigsten; denn wie wenige Menschen verstehen, bescheiden zu bitten! Vielleicht sind die, welche auf ihre Verdienste pochen, selten; aber allzuhäufig sind jene Zudringlichen, welche bei ihren Bitten in der Tasche klappern, die nach den Gegenständen des Zimmers greifen, und ehe sie ihr Gesuch geendet haben, schon versprechen, hier eine Reparatur, dort ein ganz neues, schöneres Exemplar zu liefern, jene Zudringlichen, welche immer gleich Alles erstatten wollen, und deren erstes und leztes Wort darauf hinauskömmt, daß sie nichts umsonst verlangen. Der Journalist ist froh, wenn der lezte dieser Bittsteller seiner Thür den Rücken wendet.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>Es ist zwölf Uhr, und hohe Zeit, sich in die Kleider zu werfen. Was läßt sich von zwölf bis zwei Uhr nicht Alles bestreiten! So wenig aber dem Redakteur jezt seine Hände gebunden sind, so gibt es doch Einiges, das um diese Zeit seiner Erledigung harrt. Man nimmt die neu </tei:seg>
+        <tei:pb n="1042"/>
+        <tei:seg> aufgestellten optischen Panoramen in Augenschein, man besucht </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">Gropius</tei:ref>
+        <tei:seg> und macht </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">auf dem Rheine die Fahrt von Mainz bis St. Goar</tei:ref>
+        <tei:seg>, oder wirft bei </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">Satler</tei:ref>
+        <tei:seg> einen Blick von der Salzburger Festungswarte über die Stadt und die Salzach in die bayrische Ebene oder ins Gebirge. Unser Journalist hält sich ein Reitpferd, und er reitet </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">die Linden</tei:ref>
+        <tei:seg> einigemal auf und ab, oder muß er noch zu Fuß gehen, wie ein Arzt, der wenig Praxis hat, so macht er die Promenade auf dem belebten Trottoir, das sich vom Schloß bis zum </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">Hotel des russischen Gesandten</tei:ref>
+        <tei:seg> hinzieht. Auf alle Fälle besizt er aber eine Freundin, eine ungeduldig harrende, die Adolph nicht glücklicher machen kann, als wenn er noch vor dem Mittagstisch ihrer Toilette und ihrer Liebe einige Aufmerksamkeit schenkt. Er wird zu ihr gehen; es ist nach der </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Behrenstraße</tei:ref>
+        <tei:seg> nicht weit. Oder auch nicht; denn ein Redakteur, der sich auf der Straße sehen läßt, wächst wie der Schneeball zur Lawine an. Alle Welt kennt ihn; die Polizei kennt ihn, das ganze Theater kennt ihn, die Schriftstellerwelt kennt ihn, und von den leztern hat er wenigstens ein Drittel zu Freunden. Ein Kranz von Bekannten umgibt ihn; Alles erwartet von ihm Neuigkeiten, und er gibt ihnen die, welche sie selbst ihm erst bringen. Bald ist beim Ballet ein Skandal vorgefallen, oder die Aktionäre des Königstädter Theaters haben mit dem Unternehmer einen Auftritt gehabt, oder die neueste Nummer einer Zeitung ist angekommen, mit Dolchstichen für diesen oder jenen bekannten Namen. Kurz, es fehlt nie an interessanten Nachrichten, und der Redakteur ist froh, endlich zu seinem Traiteur einzutreten, wo er das Wichtigste in seinem Portefeuille anmerken kann. Die Spalten einer täglich erscheinenden Zeitung zwingt ein Einziger nicht, sondern es müssen ihm viele in die Hände arbeiten, ehe er sie füllt. Es ist eine enge Freundschaft zwischen dem Redakteur und seinen Mitarbeitern. Diese waren in den Vormittagsstunden mit ihren eigenen Produktionen überreich beschäftigt; von jezt an leben sie aber nur für den, von dem sie selbst vielleicht leben. In einer sehr eleganten Trattorie besizt die ganze Redaktion ihren eigenen Tisch, dem nahe zu kommen, der eifrigste Wunsch der übrigen Gäste ist. Man weiß, daß von diesem Tische die wohlschmeckendsten Brosamen fallen, denn Witz und Laune ist keinem der Speisenden abzusprechen. Hier reicht sich nun die </tei:seg>
+        <tei:foreign>jeune Allemagne</tei:foreign>
+        <tei:seg> abwechselnd </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Fricandeaus</tei:ref>
+        <tei:seg>, </tei:seg>
+        <tei:ref type="esv" target="#">Nachtstücke </tei:ref>
+        <tei:ref type="esv" target="#">
+          <tei:foreign>à la</tei:foreign>
+        </tei:ref>
+        <tei:ref type="esv" target="#annotation-14"> Hoffmann</tei:ref>
+        <tei:seg>, Coteletts, Novelletten, gespickte Ochsenzungen, Beiträge zur Kritik, </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">Leipziger Lerchen</tei:ref>
+        <tei:seg>, Revuen der Almanache, </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">Krebse</tei:ref>
+        <tei:seg>, Betrachtungen über den deutschen Buchhandel, Zwischenspeisen und kleine Lückenbüßer über den Tisch. Das ganze Redaktionsgeschäft macht sich hier lachend, essend und trinkend, und man wird darin nur gestört, wenn plötzlich hinter den Stühlen Junker Voland mit der Hahnenfeder, der Buchhändler, welcher das Blatt verlegt, erscheint, und lächelnd dem Hauptredakteur eine Note des Censurkollegiums überreicht, worin sehr nachdrücklich, sehr ernst, sehr väterlich vor den überhandnehmenden Preßausschweifungen gewarnt wird. Dieser läßt sich vielleicht einschüchtern? Nein, mit der ruhigsten Miene fordert er vom Kellner einen Zahnstocher, die Uebrigen lachen, und nur der Verleger schleicht mit bedenklicher Miene, kopfschüttelnd von dannen.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:seg>In den Stunden von drei bis vier wird man einen jungen Autor, der in Berlin lebt, nur bei Stehely finden. Das ist schon oft gesagt und eine so unbestrittene Wahrheit, daß ich mich schäme, sie hier zu wiederholen. Aber ich folge dem Tageslaufe eines Journalisten, und muß da seyn, wohin er geht. Bei Stehely ist er mit seinem Anhange nicht so allein, wie kurz vorher, als er zu Mittag aß. Stehely ist das Asyl aller Partheien. Vom Leser der </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">
+          <tei:foreign>Gazette de France</tei:foreign>
+        </tei:ref>
+        <tei:ref type="esv" target="#"/>
+        <tei:seg> bis zu jenem verdorbenen Genie, das mit Bleistift für den </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">Beobachter an der Spree</tei:ref>
+        <tei:seg> aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Pappes Lesefrüchten</tei:ref>
+        <tei:seg> excerpirt, haben alle hier ein gleiches Recht. Die Mittelalterlichen, die Enthusiasten der Düsseldorfer Malerschule, die Freunde des </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">Wadzeckschen Wochenblatts</tei:ref>
+        <tei:seg>, keinem darf sein marmorner Tisch verweigert werden. Das ist freilich für die Parthei nicht recht bequem, und unser Redakteur beeilt sich daher, die neuesten Blätter zu durchfliegen, sieht nach der Uhr und findet, daß die Stunde der Korrektur des morgenden Blattes geschlagen. Sein Weg geht jezt spornstreichs in die Druckerei. Der Faktor trägt ihm die eingetauchte Feder entgegen. In einer halben Stunde ist die Durchsicht des morgenden Blatts vollendet, mit einigen Worten wird dem Setzer die Anordnung des nächsten verständlich gemacht, und der Journalist findet, daß er noch einige Zeit bis zum Anfang des Theaters zu verwenden hat. Er besucht den Buchladen seines Verlegers. Sind Briefe für mich da? Sind neue Bestellungen eingelaufen? Was brachte das Leipziger Bücherpaket? Neue Taschenbücher? Prospekte neuer Zeitungen? Kein Kuriosum, dem man einige Seiten (der Journalist meint Druckseiten) abgewinnen könnte? Nichts über </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">die rothen Nasen der Damen</tei:ref>
+        <tei:seg>, oder über die Allheilkraft der Seife? Keine </tei:seg>
+        <tei:ref type="esv" target="#annotation-20">Streitschrift, etwa von Kähne</tei:ref>
+        <tei:seg>, worin Raupach und Häring als die Endpunkte aller Kunstbildung aus der Weltordnung herauskonstruirt werden? Solche Erscheinungen kommen dem Lacher immer erwünscht. – Um dreiviertel auf sechs Uhr darf man sich in unsern Theatern schon sehen lassen, ohne für einen fremden Kleinstädter zu gelten. Doch die Rezensenten, diese unerläßlichen Theaterrequisite, treten erst mit dem Schlage sechs ein. Vorher kann man einen großen Theil derselben schon im Vestibül wahrnehmen; sie lassen die Besucher die Revue passiren, und namentlich steht unser Redakteur dem Büreau des Kassirers sehr nahe, der sein bester Freund ist, und mit jedem ausgegebenen Billet ihm eine neueste Anekdote aus der Koulissenwelt </tei:seg>
+        <tei:pb n="1043"/>
+        <tei:seg> verabfolgt. Dieser gute Freund und Kassirer ist noch zu andern Gefälligkeiten bereit. Denn warum stehen sie da so erwartungsvoll, diese jungen Leute, welche heute mit dem Redakteur zu Mittag aßen, seine Mitarbeiter? Sie wollen vielleicht auch den Tempel Thaliens betreten, sind aber mit keinen Freibilletten versehen, und lieben ihre Thaler viel zu sehr, als daß sie sie für Vorstellungen ausgeben sollten, die sie hernach doch schlecht finden. Hier hilft der gute Freund und Kassirer aus. Es läßt sich ja Alles machen. Die jungen Leute finden noch alle ihren Sitz im Parterre. – Im Grunde steht die Berliner Theaterkritik ziemlich tief. Die Kotterie macht schwarz aus weiß; die Rezensenten gehen niemals entschieden übelgelaunt aus dem Theater; denn weil sie Vieles sehen, was in der That gut ist, so verliert sich das scharfe Auge für das mancherlei Schlechte, das sich hinter jenem versteckt. Man sammelt keine Galle und kann ohne Besorgniß an eine reichbesezte Abendtafel gehen, welche unsere sämmtliche Mitarbeiterschaft an einen und denselben Ort wieder zusammenbringt. Hier wird jezt sinnlicher, hingebender, ausschweifender gelebt, als zu Mittag. Man verzehrt nicht so viel, aber nimmt sich zu dem Wenigen mehr Muße und spricht dem belebenden Weine zu. Die Kritik über das Theater wird fast von Allen zu gleicher Zeit gefertigt und braucht morgen früh vom Redakteur nur in fließende Worte gebracht zu werden. Die Ideen zu den Aufsätzen, welche morgen Mittag fertig sind, werden jezt ausgetauscht, gebilligt oder verworfen. Man räsonnirt sich in ein literärisches Gespräch hinein, oder zergliedert novellistische Stoffe, oder sucht ein gegebenes Thema satirisch zu behandeln. Kann man besser meditiren? brauchen die Autoren immer nur Einsamkeit und Gartenstille? Nein, hier werden die artigsten Dinge ersonnen, die ansprechendsten Gemälde entworfen, und dabei klappern die Teller und die Billardkugeln stoßen zusammen, und die Kellner rufen die Speisen aus, und eine mächtige Gasflamme siedet und kocht mit monotonem Gemurmel dazwischen. Der Wächter aber hat schon zweimal angerufen und die Freunde zerstreuen sich.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Corsaire</tei:foreign>
+          </tei:citedRange>
+          <tei:seg> ]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Pariser Tageszeitung hieß vollständig „Le Corsair, Journal des spectacles, de la littérature, des arts, mœurs et modes und erschien von 1822 bis 1852.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,5</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Armand Carrel</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Journalist und Publizist Armand Carrel (1800-1836), ein überzeugter Republikaner und Führer der republikanischen Partei. Er war Mitherausgeber und zeitweiliger Chefredakteur der politisch einflußreichen Tageszeitung "Le National". Gutzkow porträtiert ihn ausführlich 1835 in seinen </tei:seg>
+          <tei:q>Öffentlichen Charakteren</tei:q>
+          <tei:seg> (Hamburg: Hoffmann u. Campe, 1835, S. 215-238).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,5-6</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>National</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die französische Tageszeitung „Le National. Feuille politique et littéraire“ wurde von Adolphe Thiers, François-Auguste Mignet und Armand Carrel 1830 in Paris als Oppositionsblatt gegen das Ministerium Polignac ins Leben gerufen. Vom Büro des „National“ waren die Vorbereitungen zur Julirevolution 1830 ausgegangen. Nachdem Thiers und Mignet in die aktive Politik gegangen waren, leitete Carrel die Zeitung als Sprachrohr der antidynastischen Opposition. In Berlin  war zu Beginn der 1830er Jahre </tei:seg>
+          <tei:q>der "National"</tei:q>
+          <tei:seg> [...] </tei:seg>
+          <tei:q>verboten</tei:q>
+          <tei:seg>, wie sich Gutzkow in seinen </tei:seg>
+          <tei:q>Rückblicken auf mein Leben</tei:q>
+          <tei:seg> erinnert (GWB VII, Bd. 3, S. 85). </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,25</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Equilibristen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Recte: Äquilibristen, „Gleichgewichtler“, „Schwebekünstler“,  „Seiltänzer und andere Luftspringer“ (Heyse 1848, S. 59).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,13</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Gropius</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Theater- und Dekorationsmalers Carl Gropius (1793-1870) hatte 1827 in der Georgenstraße 12 an der Ecke zur Universitätsstraße ein Diorama eröffnet. Anders als ein vergleichsweise starr wirkendes Panoramagemälde arbeitete das Diorama mit Auflicht- und Durchlichteffekten und erzeugte so die Illusion von Bewegung im Bild. „Es zeigt uns in einem brillant eingerichteten Lokale Oelgemälde von 2500 Quadratfuß Flächeninhalt, welche Flachgemälde von natürlicher Größe sind und nur eine Ansicht gewähren. Sie erhalten Wahrheit und Leben durch den Wechsel der Beleuchtung, welche durch eine genial erfundene Einrichtung jene Farben-Nüancen schafft, die uns Sonnenblicke, Abendröthe und alle übrigen Erscheinungen des hellern und trübern Lichtes zu zaubern verstehen. Auf diese Weise ist dem Berliner Publikum schon seit dem Entstehen der Anstalt eine lange Reihe höchst interessanter Ansichten vorgeführt worden […].“ (Zedlitz, S. 147-148.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">2,13-14</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">auf dem Rheine [...] bis St. Goar</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Ein besonderer Clou des Dioramas von Gropuis war das „Pleorama“, das dem Besucher eine Fahrt auf dem Wasser vorspiegelte. „Eine sinnreiche Abwechselung, die uns einen neuen Kunstgenuß verschaffte, ist das in dem Diorama in den Jahren 1832 und 1833 aufgestellte Pleorama, wo sich die Zuschauer auf einer Barke befinden, und als Vorüberfahrende die auf beiden Seiten sich ihnen zeigenden Ufer zu betrachten Gelegenheit haben. Das Pleorama wurde im Jahre 1832 mit einer Fahrt auf dem Golf von Neapel eröffnet, und im Jahre 1833 folgten ihr die Rheinfahrt auf der Strecke zwischen Mainz bis St. Goar; jede Fahrt dauert eine Stunde, und man erlegt dafür 20 Sgr.“ (Zedlitz, S. 148.) Zum Pleorama von Gropius vgl. auch Stephan Oettermann: Das Panorama. Die Geschichte eines Massenmediums. Frankfurt/M.: Syndikat, 1980, S. 168-170.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,14</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Satler</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der österreichische Maler Johann Michael Satler (1786-1847) hatte gemeinsam mit zwei weiteren Künstlern ein„Panorama von Salzburg nebst einer optischen Zimmer-Reise, mahlerischen Ansichten aus der Stadt und dem Herzogthume Salzburg, aus Berchtesgaden und dem Salzkammergute“ angefertigt und damit innerhalb von vier Jahren ein 1800 Quadratfuß großes Ölgemälde auf Leinwand von Salzburg geschaffen. Es wurde zuerst 1829 in Salzburg ausgestellt. Mit diesem Panoramabild ging Satler auf Reisen, zeigte es in vielen Städten und kam damit im Juni 1833 auch nach Berlin, wo das Panorama in einer eigens dafür gezimmerten Rotunde auf dem Gendarmenmarkt zu sehen war. (Vgl. Stephan Oettermann: Das Panorama. Die Geschichte eines Massenmediums. Frankfurt/M.: Syndikat, 1980, S. 230-234. Als Leporello 6 ist das „Panorama von Salzburg“ beigegeben.) Für Gutzkow dürfte dieses Panorama besonders attraktiv gewesen sein, da er ein paar Monate zuvor (im Sommer 1833) auf einer Reise durch Österreich und Norditalien Salzburg besucht und kennengelernt hatte.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,17</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">die Linden</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Berlins Prachtstraße Unter den Linden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Hotel des russischen Gesandten</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>›Hotel‹ hier in der Bedeutung von „Palast, großes Wohnhaus“ (Heyse 1848, S. 373). Der russische Gesandte wohnte seit Anfang der 1830er Jahre im Palais der Prinzessin Dorothea von Kurland, Unter den Linden 7, am südwestlichen Ende der Straße. Das Palais wurde 1837 an den russischen Zaren verkauft, der dort ein neues, repräsentatives Gebäude für die „Kaiserlich Russische Botschaft“ errichten ließ.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,24</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Behrenstraße</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Sie ist die nächste, südlich gelegene Parallelstraße zu Unter den Linden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,15</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Fricandeaus</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Gespickte und gedämpfte Kalbfleischstücke (vgl. Heyse 1848, S. 325).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">3,15-16</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Nachtstücke [...] Hoffmann</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>In seinen „Nachtstücken“ (2 Bde., 1817) behandelt E.T.A. Hoffmann erzählerisch die Nachtseiten des Lebens (Verbrechen, Greueltaten, Wahnsinn, pathologische Seelenvorgänge, übernatürliche und furchterregende Ereignisse). Die Bezeichnung findet sich als Titelzusatz oder in Titeln öfter bei zeitgenössischen Autoren.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,17</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Leipziger Lerchen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Lerchen wurden früher in großer Zahl gefangen und als Leckerbissen – in Mitteldeutschland als „Leipziger Lerchen“ – auf den Markt gebracht.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,18</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Krebse</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In diesem Begriff drückt sich die von Gutzkow humorig beschriebene Verquickung kulinarischer Genüsse mit journalistisch-publizistischem Gesprächsstoff besonders treffend aus: Krebse sind nicht nur eßbare Krustentiere, sondern bezeichnen im Buchhandel auch die unverkauften, an den Verleger zurückgehenden Bücher.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,4</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Gazette de France</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die Pariser Tageszeitung „Gazette de France“ erschien von 1762 bis 1848 und war zur Zeit der Restauration und Julimonarchie das Hauptorgan der royalistischen Partei. Als „Gazette“ kam das Blatt wöchentlich schon seit 1631 heraus und gilt als älteste Zeitung Europas. Gutzkow spannt hier den Bogen von der vornehmen „Gazette de France“ bis zum trivialen Volksblatt „Beobachter an der Spree“, um die Bandbreite des Publikums bei Stehely anzudeuten.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,5</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Beobachter an der Spree</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>„Der Beobachter an der Spree“, ein Berliner Lokalblatt, das vor allem von unteren Schichten gelesen wurde; erschien von 1802 bis 1868.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,5-6</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Pappes Lesefrüchten</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Die „Lesefrüchte vom Felde der neuesten Literatur“, begründet und bis 1839 herausgegeben von Johann Joseph Christian Pappe, erschienen von 1816 bis 1874 in Hamburg. Die Zeitschrift brachte keine Originalbeiträge, sondern nur Nachdrucke aus Zeitschriften und Büchern.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,8</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Wadzeckschen Wochenblatts</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Das von Franz Daniel Friedrich Wadzeck 1809 begründete „Nützliche und Unterhaltende Berlinische Wochenblatt für den gebildeten Bürger und denkenden Landmann“ erschien von 1830 bis 1850 unter dem Titel „Neues Berlinisches Wochenblatt zur Belehrung und Unterhaltung. Hg. zum Besten der Wadzeck-Anstalt“. Wadzeck (1762-1823), Professor der Literatur, Physik und Naturgeschichte, 1819 in den Ruhestand versetzt, gründete 1819 in Berlin die Wadzeckanstalt, eine Erziehungsanstalt für Waisen und Kinder armer Eltern.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">rothen Nasen der Damen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>Anspielung auf eine anonym erschienene Broschüre des Mediziners, Schriftstellers und Journalisten Ignatz Julius Lasker (1811-1876), „Ueber die rothen Nasen der Damen, deren Verhütung und Heilung. Eine medizinische Humoreske von einem humoristischen Mediciner. Ein Büchlein, das auf keiner Toilette fehlen darf“ (Berlin, Bechthold und Hartje, 1833).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:citedRange type="page-line-ref">4,25</tei:citedRange>
+          <tei:seg>	</tei:seg>
+          <tei:citedRange type="word-range">Streitschrift, etwa von Kähne</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+          <tei:seg>C. W. Kähne, bekennender Hegelianer, stellt in seiner Schrift „Raupach und Häring. Oder: Einiges über die Stellung von Preußens Dichtern zu Süddeutschland und Europa“ (Berlin: Mittler, 1833) Raupach mit seinen Hohenstaufendramen über Sophokles und Shakespeare (S. 28) und betrachtet Härings (Willibald Alexis’) Roman „Cabanis“ als „ein Kunstwerk […] wie die europäische Literatur seines Gleichen in dieser Art nicht aufzuweisen hat.“ (S. 45.) Beide Dichter „erheben damit Preußen auch in der Kunst auf diejenige Stufe, worauf es in der Wissenschaft und Religion schon gestanden; sie zeigen dem Preußen die Ursache seines Selbstgefühls und erwecken seine Vaterlandsliebe. So sind sie selbst von europäischer Bedeutung.“ (S. 47)</tei:seg>
+        </tei:p>
+      </tei:interp>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J [Anon.:] Der Berliner Journalist. In: Morgenblatt für gebildete Stände. Stuttgart u. Tübingen. Nr. 261, 31. Oktober 1833, S. 1041-1043. (Rasch 3.33.10.31)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+        <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>
