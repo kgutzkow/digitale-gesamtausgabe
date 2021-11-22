@@ -941,6 +941,41 @@
                         ]
                     },
                     {
+                        "name": "footnote",
+                        "type": "nested",
+                        "parser": {
+                            "selector": "tei:note[@type=\"footnote\"]"
+                        },
+                        "attrs": {
+                            "id": {
+                                "parser": {
+                                    "selector": "@xml:id"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "footnoteMarker",
+                        "type": "inline",
+                        "parser": {
+                            "selector": "tei:ref[@type=\"footnote\"]",
+                            "text": "text()"
+                        },
+                        "attrs": {
+                            "target": {
+                                "default": "",
+                                "parser": {
+                                    "selector": "substring(@target, 2)"
+                                }
+                            }
+                        },
+                        "reference": {
+                            "type": "footnote",
+                            "attr": "target",
+                            "display": "footnote"
+                        }
+                    },
+                    {
                         "name": "annotationGlobal",
                         "type": "inline",
                         "parser": {
