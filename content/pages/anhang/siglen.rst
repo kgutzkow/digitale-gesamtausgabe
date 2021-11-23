@@ -558,6 +558,8 @@ Raabe/Ruppelt
     Paul Raabe / Georg Ruppelt: Quellenrepertorium zur neueren deutschen Literaturgeschichte. Dritte, vollständig neu bearbeitete Auflage. Stuttgart: Metzler, 1981.
 RGG3
     Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie und Religionswissenschaft. 3., völlig neu bearbeitete Auflage. In Gemeinschaft mit Hans Frhr. v. Campenhausen, Erich Dinkler, Gerhard Gloege und Knud E. Løgstrup hg. von Kurt Galling. Tübingen: Mohr (Paul Siebeck), 1957-1965.
+Ribbe
+    Geschichte Berlins. 2 Bde. Hg. von Wolfgang Ribbe. München: Beck, 1987. Bd. 1: Von der Frühgeschichte bis zur Industrialisierung. Mit Beitr. von Eberhard Bohm, Winfried Schich, Knut Schulz, Felix Escher, Ilja Mieck. - Bd. 2: Von der Märzrevolution bis zur Gegenwart. Mit Beitr. von Günter Richter, Michael Erbe, Henning Köhler, Christian Engeli u. Wolfgang Ribbe. 
 Rinsum, Lex. dt.
     Annemarie und Wolfgang van Rinsum: Lexikon literarischer Gestalten. Deutschsprachige Literatur. Stuttgart: Kröner, 1988.
 Rinsum, Lex. fr.

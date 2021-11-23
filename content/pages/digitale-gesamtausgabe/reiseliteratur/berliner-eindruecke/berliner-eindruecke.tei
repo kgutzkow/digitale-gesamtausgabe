@@ -35,6 +35,7 @@
     <tei:revisionDesc>
       <tei:change when="2008-03" who="#WolfgangRasch">1.0</tei:change>
       <tei:change who="#WolfgangRasch" when="2019-11-27">1.1</tei:change>
+      <tei:change when="2021-11-23" who="#WolfgangRasch">1.2: Stellenkommentar hinzugefuegt</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -43,48 +44,142 @@
         <tei:seg>Berliner Eindrücke.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="true">
-        <tei:seg>Berlin ist eine Weltstadt geworden. Früher war Berlin nur eine große Stadt. Berlin hat an Bewohnerzahl und Umfang unglaublich zugenommen, aber in dieser äußern Vergrößerung liegt der auffallende Fortschritt nicht allein. Er liegt im erweiterten Anschauungs-Horizont, im Durchbruch nicht allein von Straßen und neuen Thoren, sondern im Durchbruch alter Vorurtheile und Gewohnheiten, im vermehrten geistigen Betriebscapital, in der Zunahme eines Selbstbewußtseins, das sich mit einem großen sittlichen Nationalleben in Zusammenhang zu setzen verstanden hat. Es ist überraschend, wie sich die schlummernden Kräfte allmählich entwickelt haben. Von unten fängt das an und hört oben, in idealster Höhe, auf. Der Eisenbahnverkehr hat Berlin endlich in jenen unmittelbaren Zusammenhang mit andern großen Städte-Entwickelungen gebracht, der ihm früher fehlte. Früher bezogen sich nur Potsdam, Brandenburg, Treuenbrietzen, Bernau auf Berlin, jetzt Leipzig, Magdeburg, die Ostsee und bald Hamburg und Schlesien. Der frühere kleinstädtische Geist ist gewichen, große Gasthöfe sind entstanden, die Basis aller gemeinschaftlichen Unternehmungen beruht auf breiteren Dimensionen. Man sieht das, bewundert es, oder muß wenigstens seine Freude daran haben.</tei:seg>
+        <tei:seg>Berlin ist eine </tei:seg>
+        <tei:ref type="esv" target="#annotation-1">Weltstadt</tei:ref>
+        <tei:seg> geworden. Früher war Berlin nur eine große Stadt. Berlin hat </tei:seg>
+        <tei:ref type="esv" target="#annotation-2">an Bewohnerzahl und Umfang unglaublich zugenommen</tei:ref>
+        <tei:seg>, aber in dieser äußern Vergrößerung liegt der auffallende Fortschritt nicht allein. Er liegt im erweiterten Anschauungs-Horizont, im Durchbruch nicht allein von Straßen und </tei:seg>
+        <tei:ref type="esv" target="#annotation-3">neuen Thoren</tei:ref>
+        <tei:seg>, sondern im Durchbruch alter Vorurtheile und Gewohnheiten, im vermehrten geistigen Betriebscapital, in der Zunahme eines Selbstbewußtseins, das sich mit einem großen sittlichen </tei:seg>
+        <tei:ref type="esv" target="#annotation-4">Nationalleben</tei:ref>
+        <tei:seg> in Zusammenhang zu setzen verstanden hat. Es ist überraschend, wie sich die schlummernden Kräfte allmählich entwickelt haben. Von unten fängt das an und hört oben, in idealster Höhe, auf. Der </tei:seg>
+        <tei:ref type="esv" target="#annotation-5">Eisenbahnverkehr</tei:ref>
+        <tei:seg> hat Berlin endlich in jenen unmittelbaren Zusammenhang mit andern großen Städte-Entwickelungen gebracht, der ihm früher fehlte. Früher bezogen sich nur Potsdam, Brandenburg, Treuenbrietzen, Bernau auf Berlin, jetzt </tei:seg>
+        <tei:ref type="esv" target="#annotation-6">Leipzig, Magdeburg, die Ostsee</tei:ref>
+        <tei:seg> und </tei:seg>
+        <tei:ref type="esv" target="#annotation-7">bald Hamburg und Schlesien</tei:ref>
+        <tei:seg>. Der </tei:seg>
+        <tei:ref type="esv" target="#annotation-8">frühere kleinstädtische Geist</tei:ref>
+        <tei:seg> ist gewichen, große Gasthöfe sind entstanden, die Basis aller gemeinschaftlichen Unternehmungen beruht auf breiteren Dimensionen. Man sieht das, bewundert es, oder muß wenigstens seine Freude daran haben.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Was man in auswärtigen Zeitungen als die laufende Tagesordnung von Berlin besprochen findet, das ist alles keineswegs Erfindung, sondern Thatsache, durchgesprochene, lebendige Thatsache. Es stehen sich hier wirklich Parteien und Parteien, Menschen und Menschen gegenüber. Es hat sich hier wirklich ein Geist der Oeffentlichkeit entwickelt, dem bis zur Stunde zwar edle und würdige sowohl, wie dauernde und belebende Organe fehlen, ich meine die Organe factischer Institutionen, dessen Ringen und Drängen aber so mächtig ist, daß es Augenblicke geben kann, wo wir uns im Anschauen dieser Strebungen nach Paris versetzt glauben. So wie jetzt in Berlin muß es zur Zeit der Restauration in Paris gewesen sein. Der Katheder ist die vorläufige Volkstribune, die Wissenschaft die vorläufige Politik. Wie das wogt und treibt! Keine Meinung will mehr allein stehen, eine Bestrebung lehnt sich an die andere. In Berlin wohnen und nichts wirken, nichts vorstellen, nichts vertreten, ist der geistige Tod, ist Nullität, heißt wenigstens Nullität, und Jeder fürchtet sie. Man hat angefangen, die Bedeutung eines öffentlichen Charakters zu fühlen. Die ruhmvollsten Namen aus der alten Schule sieht man im Verkehr mit den erst sich machenden aus der jungen. Unpopulär zu sein, wagt Niemand. Jeder muß einen Kreis von Gleichgesinnten um sich haben, er muß sich nach Anlehnungen umsehen. Kann er nicht selbst einen Mittelpunct bilden, so ordnet er sich unter und wird Stammgast im Salon eines Andern. Berlin hat seine Salons, in der That Salons im französischen Wortsinne. Ich muß sogar so weit gehen, zu behaupten, daß es mit Geldkosten verknüpft ist, in Berlin eine eigene Meinung zu haben. Man muß seinen offenen Mittwoch, seinen offenen Freitag, seinen Dinstag haben, um hier ein durchgreifender, öffentlicher Charakter zu sein. Das ist kostspielig, hier mit Tieck, mit den Grimms, mit Herrn von Savigny zu rivalisiren. Man muß wünschen, daß sich diesen Gasströmungen von Ehrgeiz, Tendenz, Zorn, Begeisterung, Rache, ehe es eine Explosion gibt, bald ein luftreiner Cylinder darbieten möchte, ein Abzug ins öffentliche, große Volksleben, durch irgend eine Thatsache, durch irgend ein Ereigniß, durch irgend einen Schritt weiter auf der betretenen Bahn besonders des Ausbaues der ständischen Institutionen. Dies oder irgend etwas Anderes muß erfunden werden, um diesem Wettkampf von Meinungen und Leidenschaften eine schöne höhere Wahrheit zu geben und solchen Zerrüttungen vorzubeugen, wie sie z. B. jetzt in Folge der traurigen grimm’schen Erklärung, durch welche sich zwei berühmte Namen um alte Liebe und Hingebung gebracht haben, schon eingetreten sind. - Einige der auf der Reise empfangenen Eindrücke mögen in bunter Reihe hier wiedergegeben werden.</tei:seg>
+        <tei:seg>Was man in auswärtigen Zeitungen als die laufende Tagesordnung von Berlin besprochen findet, das ist alles keineswegs Erfindung, sondern Thatsache, durchgesprochene, lebendige Thatsache. Es stehen sich hier wirklich Parteien und Parteien, Menschen und Menschen gegenüber. Es hat sich hier wirklich ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-9">Geist der Oeffentlichkeit</tei:ref>
+        <tei:seg> entwickelt, dem bis zur Stunde zwar edle und würdige sowohl, wie dauernde und belebende Organe fehlen, ich meine die Organe factischer Institutionen, dessen Ringen und Drängen aber so mächtig ist, daß es Augenblicke geben kann, wo wir uns im Anschauen dieser Strebungen nach Paris versetzt glauben. So wie jetzt in Berlin muß es zur </tei:seg>
+        <tei:ref type="esv" target="#annotation-10">Zeit der Restauration in Paris</tei:ref>
+        <tei:seg> gewesen sein. </tei:seg>
+        <tei:ref type="esv" target="#annotation-11">Der Katheder</tei:ref>
+        <tei:seg> ist die vorläufige Volkstribune, die Wissenschaft die vorläufige Politik. Wie das wogt und treibt! Keine Meinung will mehr allein stehen, eine Bestrebung lehnt sich an die andere. In Berlin wohnen und nichts wirken, nichts vorstellen, nichts vertreten, ist der geistige Tod, ist Nullität, heißt wenigstens Nullität, und Jeder fürchtet sie. Man hat angefangen, die Bedeutung eines </tei:seg>
+        <tei:ref type="esv" target="#annotation-12">öffentlichen Charakters</tei:ref>
+        <tei:seg> zu fühlen. Die ruhmvollsten Namen aus der </tei:seg>
+        <tei:ref type="esv" target="#annotation-14">alten Schule</tei:ref>
+        <tei:seg> sieht man im Verkehr mit den erst sich machenden aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-15">der jungen</tei:ref>
+        <tei:seg>. Unpopulär zu sein, wagt Niemand. Jeder muß einen Kreis von Gleichgesinnten um sich haben, er muß sich nach Anlehnungen umsehen. Kann er nicht selbst einen Mittelpunct bilden, so ordnet er sich unter und wird Stammgast im </tei:seg>
+        <tei:ref type="esv" target="#annotation-16">Salon</tei:ref>
+        <tei:seg> eines Andern. Berlin hat seine Salons, in der That </tei:seg>
+        <tei:ref type="esv" target="#annotation-17">Salons im französischen Wortsinne</tei:ref>
+        <tei:seg>. Ich muß sogar so weit gehen, zu behaupten, daß es mit Geldkosten verknüpft ist, in Berlin eine eigene Meinung zu haben. Man muß seinen offenen Mittwoch, seinen offenen Freitag, seinen </tei:seg>
+        <tei:ref type="esv" target="#annotation-13">Dinstag</tei:ref>
+        <tei:seg> haben, um hier ein durchgreifender, öffentlicher Charakter zu sein. Das ist kostspielig, hier mit Tieck, mit den Grimms, mit Herrn </tei:seg>
+        <tei:ref type="esv" target="#annotation-18">von Savigny</tei:ref>
+        <tei:seg> zu rivalisiren. Man muß wünschen, daß sich diesen Gasströmungen von Ehrgeiz, Tendenz, Zorn, Begeisterung, Rache, ehe es eine Explosion gibt, bald ein luftreiner Cylinder darbieten möchte, ein Abzug ins öffentliche, große Volksleben, durch irgend eine Thatsache, durch irgend ein Ereigniß, durch irgend einen Schritt weiter auf der betretenen Bahn besonders des Ausbaues der ständischen Institutionen. Dies oder irgend etwas Anderes muß erfunden werden, um diesem Wettkampf von Meinungen und Leidenschaften eine schöne höhere Wahrheit zu geben und solchen Zerrüttungen vorzubeugen, wie sie z. B. jetzt in Folge der traurigen </tei:seg>
+        <tei:ref type="esv" target="#annotation-19">grimm’schen Erklärung</tei:ref>
+        <tei:seg>, durch welche sich zwei berühmte Namen um alte Liebe und Hingebung gebracht haben, schon eingetreten sind. - Einige der auf der Reise empfangenen Eindrücke mögen in bunter Reihe hier wiedergegeben werden.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Am 29. März beschloß </tei:seg>
-        <tei:foreign>D.</tei:foreign>
-        <tei:seg> Mundt seine vor einem gemischten Publicum gehaltenen Vorlesungen über die Gesellschaftsfrage unserer Zeit. Es war fünf Uhr. Im Saale des jagor’schen Hauses, unter den Linden, versammelte sich so ziemlich der größte Theil des ästhetisch-productiven Berlins, Dichter, Gelehrte, Musiker, Gläubige und Prüfende, Hingegebene und Zweifelnde, wie dies um so mehr bei einem Gegenstande der Fall sein mußte, dessen öffentliche Behandlung in gewissen Regionen bedenklich erschienen war. Als sich etwa 150 Personen eingefunden hatten, erschien der Redner. Ich fühlte mich an die Vorträge von Edgar Quinet im College de France erinnert. Nur Schade, daß sich Mundt zu sehr auf sein Heft verließ und einen Gegenstand, der so tief in Herz und Nieren greift, nicht mit freier Rede um so überzeugender darstellte. Die Wärme der Begeisterung fehlte dem Redner nicht, eine jeweilige Handbewegung verrieth selbst seine Absicht, das, was er vorlas, als entquollen seinem innersten Gefühle darzustellen; doch kann ich die Bemerkung nicht unterdrücken, daß ein selbst ungeregelter Vortrag mit Anakoluthen, Wiederholungen und allen Klippen eines ungewohnten oratorischen Versuches dennoch eindringlicher spricht, als ein geschriebenes Heft.</tei:seg>
+        <tei:ref type="esv" target="#annotation-20">
+          <tei:foreign>D.</tei:foreign>
+        </tei:ref>
+        <tei:seg> </tei:seg>
+        <tei:ref type="esv" target="#annotation-21">
+          <tei:hi style="letter-sparse">Mundt</tei:hi>
+        </tei:ref>
+        <tei:seg> seine vor einem gemischten Publicum gehaltenen </tei:seg>
+        <tei:ref type="esv" target="#annotation-22">Vorlesungen über die Gesellschaftsfrage unserer Zeit</tei:ref>
+        <tei:seg>. Es war fünf Uhr. Im Saale des </tei:seg>
+        <tei:ref type="esv" target="#annotation-23">jagor’schen Hauses</tei:ref>
+        <tei:seg>, unter den Linden, versammelte sich so ziemlich der größte Theil des ästhetisch-productiven Berlins, Dichter, Gelehrte, Musiker, Gläubige und Prüfende, Hingegebene und Zweifelnde, wie dies um so mehr bei einem Gegenstande der Fall sein mußte, dessen öffentliche Behandlung in gewissen Regionen bedenklich erschienen war. Als sich etwa 150 Personen eingefunden hatten, erschien der Redner. Ich fühlte mich an die </tei:seg>
+        <tei:ref type="esv" target="#annotation-24">Vorträge von Edgar Quinet</tei:ref>
+        <tei:seg> im </tei:seg>
+        <tei:ref type="esv" target="#annotation-25">College de France</tei:ref>
+        <tei:seg> erinnert. Nur Schade, daß sich Mundt zu sehr auf sein Heft verließ und einen Gegenstand, der so tief in Herz und Nieren greift, nicht mit freier Rede um so überzeugender darstellte. Die Wärme der Begeisterung fehlte dem Redner nicht, eine jeweilige Handbewegung verrieth selbst seine Absicht, das, was er vorlas, als entquollen seinem innersten Gefühle darzustellen; doch kann ich die Bemerkung nicht unterdrücken, daß ein selbst ungeregelter Vortrag mit </tei:seg>
+        <tei:ref type="esv" target="#annotation-26">Anakoluthen</tei:ref>
+        <tei:seg>, Wiederholungen und allen Klippen eines ungewohnten oratorischen Versuches dennoch eindringlicher spricht, als ein geschriebenes Heft.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Der Inhalt der Rede erweckte die wärmste Theilnahme. Bot ihr Anfang demjenigen, der sich mit der Socialwissenschaft unserer Tage beschäftigt hat, auch nichts Neues, so erhob sie sich doch in ihrem weitern Verlauf zu einem höheren Aufschwunge, in welchem sich zum ernsten Denker der sinnige Dichter gesellte. Der Redner sprach von den Rechten der Armen und den Pflichten der Reichen. Er behandelte jenen ergreifenden Gegenstand des Pauperismus, der jetzt nur noch alle Federn, bald aber auch hoffentlich alle Herzen in Bewegung setzen wird. Jene rührende Humanität, welche sich in den Schriften derjenigen Franzosen findet, die sich mit socialistischen Fragen beschäftigten, hatte, man sah es, in des Redners Herzen ein Echo gefunden. Er sprach mild und sanft von den Proletariern der Gesellschaft, und ein gewisses kaltes Phlegma, eine gewisse doctrinäre Selbstzufriedenheit hinderte doch nicht, daß in einigen weihevollen Momenten ein schöner Abglanz von Gemüth und Wehmuth auf seinen Gesichtszügen hervorbrach. Besonders war die Bemerkung, daß jetzt bei den Fortschritten der Volksbildung der Vater beschämt von seinem aus der Schule heimkehrenden unterrichteteren Kinde lernen könne, eben so geistreich aufgegriffen, wie zart und innig durchgeführt.</tei:seg>
+        <tei:seg>Der Inhalt der Rede erweckte die wärmste Theilnahme. Bot ihr Anfang demjenigen, der sich mit der Socialwissenschaft unserer Tage beschäftigt hat, auch nichts Neues, so erhob sie sich doch in ihrem weitern Verlauf zu einem höheren Aufschwunge, in welchem sich zum ernsten Denker der sinnige Dichter gesellte. Der Redner sprach von den Rechten der Armen und den Pflichten der Reichen. Er behandelte jenen ergreifenden Gegenstand des </tei:seg>
+        <tei:ref type="esv" target="#annotation-27">Pauperismus</tei:ref>
+        <tei:seg>, der jetzt nur noch alle Federn, bald aber auch hoffentlich alle Herzen in Bewegung setzen wird. Jene rührende Humanität, welche sich in den Schriften derjenigen Franzosen findet, die sich mit socialistischen Fragen beschäftigten, hatte, man sah es, in des Redners Herzen ein Echo gefunden. Er sprach mild und sanft von den Proletariern der Gesellschaft, und ein gewisses kaltes Phlegma, eine gewisse doctrinäre Selbstzufriedenheit hinderte doch nicht, daß in einigen weihevollen Momenten ein schöner Abglanz von Gemüth und Wehmuth auf seinen Gesichtszügen hervorbrach. Besonders war die Bemerkung, daß jetzt bei den Fortschritten der Volksbildung der Vater beschämt von seinem aus der Schule heimkehrenden unterrichteteren Kinde lernen könne, eben so geistreich aufgegriffen, wie zart und innig durchgeführt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Ueber Manches theile ich nicht des Redners Meinung. Er sprach von Owen und würdigte ihn nicht genug, trotzdem, daß er mit Achtung von ihm sprach. Er kam zu oft auf den Mangel an Poesie in Owen’s System zurück. Poesie ist in der Socialfrage ein gefährliches Wort. Braucht man es zu oft, so kann man dahin kommen, daß am Ende nichts poetischer als die Armuth ist, und der Armuth soll doch abgeholfen werden. Wer vom Leben zu viel bunten Effect verlangt, dem wird freilich das Ziel einer allgemeinen Glückseligkeit unpoetisch erscheinen. So manches Andere in des ehrenwerthen Redners Aeußerungen ließ mich fast besorgen, er hätte das Thema der materiellen Gesellschaftsfrage nur zum Canevas von allerhand auf anderm Gebiet spielenden Anmerkungen gemacht, von Anmerkungen, die ich sehr treffend, sehr zeitgemäß, ja, sehr freimüthig und gegebenen Umständen gegenüber kühn fand, die aber doch nur mehr dem idealen Gebiet angehörten und die Ansicht vorauszusetzen schienen, man könne Hungernde mit Sonnenlicht sättigen und Dürstende mit den Farben der Blumen tränken. Der Redner kannte die praktischen Schäden, wollte sie heilen und wich wiederum dem praktischen materiellen Gebiete aus. Doch abgesehen von diesem Einwurf, der ohnehin auf einem Mißverständniß beruhen kann, hat sich Mundt ein großes Verdienst erworben, daß er in jener unmittelbaren Form, in der Form der Rede, einen Gegenstand zur Sprache brachte, der immer mehr in den Vordergrund der Debatten treten und jene welt- und gottweise Philosophie beschämen wird, die im Webstuhl ihrer Abstractionen nur Leichentücher für das Leben spinnt.</tei:seg>
+        <tei:seg>Ueber Manches theile ich nicht des Redners Meinung. Er sprach von </tei:seg>
+        <tei:ref type="esv" target="#annotation-28">Owen</tei:ref>
+        <tei:seg> und würdigte ihn nicht genug, trotzdem, daß er mit Achtung von ihm sprach. Er kam zu oft auf den Mangel an Poesie in Owen’s System zurück. Poesie ist in der Socialfrage ein gefährliches Wort. Braucht man es zu oft, so kann man dahin kommen, daß am Ende nichts poetischer als die Armuth ist, und der Armuth soll doch abgeholfen werden. Wer vom Leben zu viel bunten Effect verlangt, dem wird freilich das Ziel einer allgemeinen Glückseligkeit unpoetisch erscheinen. So manches Andere in des ehrenwerthen Redners Aeußerungen ließ mich fast besorgen, er hätte das Thema der materiellen Gesellschaftsfrage nur zum </tei:seg>
+        <tei:ref type="esv" target="#annotation-29">Canevas</tei:ref>
+        <tei:seg> von allerhand auf anderm Gebiet spielenden Anmerkungen gemacht, von Anmerkungen, die ich sehr treffend, sehr zeitgemäß, ja, sehr freimüthig und gegebenen Umständen gegenüber kühn fand, die aber doch nur mehr dem idealen Gebiet angehörten und die Ansicht vorauszusetzen schienen, man könne Hungernde mit Sonnenlicht sättigen und Dürstende mit den Farben der Blumen tränken. Der Redner kannte die praktischen Schäden, wollte sie heilen und wich wiederum dem praktischen materiellen Gebiete aus. Doch abgesehen von diesem Einwurf, der ohnehin auf einem Mißverständniß beruhen kann, hat sich Mundt ein großes Verdienst erworben, daß er in jener unmittelbaren Form, in der Form der Rede, einen Gegenstand zur Sprache brachte, der immer mehr in den Vordergrund der Debatten treten und </tei:seg>
+        <tei:ref type="esv" target="#annotation-30">jene welt- und gottweise Philosophie</tei:ref>
+        <tei:seg> beschämen wird, die im Webstuhl ihrer Abstractionen nur Leichentücher für das Leben spinnt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>In die Vorstellungen der königlichen Hofbühne zieht mich das Gastspiel </tei:seg>
-        <tei:hi style="letter-sparse">Theodor Döring</tei:hi>
-        <tei:seg>’s. Dieser ausgezeichnete Schauspieler ist veranlaßt worden, drei Monate lang in Berlin zu spielen. Ein Beweis, wie viel Theilnahme er bei seinem vorjährigen kürzeren Auftreten geweckt hat.</tei:seg>
+        <tei:ref type="esv" target="#annotation-31">
+          <tei:hi style="letter-sparse">Theodor Döring’s</tei:hi>
+        </tei:ref>
+        <tei:seg>. Dieser ausgezeichnete Schauspieler ist veranlaßt worden, drei Monate lang in Berlin zu spielen. Ein Beweis, wie viel Theilnahme er bei seinem vorjährigen kürzeren Auftreten geweckt hat.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Die günstigen Voraussagungen, die schon vor Jahren das Talent dieses Künstlers in engeren Kreisen begleiteten, haben sich seither in größeren bestätigt. Döring ist ein Schauspieler von seltener Begabung. Er wurde für seinen Beruf geboren, er konnte nichts Anderes werden, als Schauspieler. Schon früh entschied sich seine Neigung, nachzuahmen und fremde Eigenthümlichkeiten wiederzugeben; den Drang zur Bühne konnte die Wahl eines anderen Lebensberufes, den er bald verließ, nicht zurückhalten: Döring wurde Schauspieler und widmete sich sogleich dem Charakterfach. Die großen Erfolge, die er schon früh bei kleinen Bühnen in komischen Rollen ärntete, mochten ihn zu lange bei grotesken Figuren, Chargen und niedrig komischen Charakteren aufgehalten haben; erst vor zehn Jahren in Mannheim erweiterte sich ihm das Feld seiner Bestrebungen, er vertiefte sich in ideale Charaktere und gab in Mannheim, Hamburg, Stuttgart neben den ihm nie versagenden und genial dastehenden komischen und gemüthlichen Charakteren auch Figuren aus dem tragischen Kreise und dem Kreise der höheren Conversation. In dieser letzten Sphäre ist sein großes schauspielerisches Genie noch in der Entwickelung begriffen. Es kann ihm da, wo er sich nicht komischer und gemüthvoller Aufgaben allein zu entledigen hat, noch manche Leistung versagen, es kann seinen immer groß gedachten und originel angelegten tragischen Charakteren noch in der Durchführung an Consequenz und einer auch in dieser Sphäre nie versagenden, ganz sichern Virtuosität fehlen, aber nach einigen Jahren ist Döring auch auf diesem Gebiet derselbe große Meister, wie im Fache der Komik.</tei:seg>
+        <tei:seg>Die günstigen Voraussagungen, die schon vor Jahren das Talent dieses Künstlers in engeren Kreisen begleiteten, haben sich seither in größeren bestätigt. Döring ist ein Schauspieler von seltener Begabung. Er wurde für seinen Beruf geboren, er konnte nichts Anderes werden, als Schauspieler. Schon früh entschied sich seine Neigung, nachzuahmen und fremde Eigenthümlichkeiten wiederzugeben; den Drang zur Bühne konnte die Wahl eines anderen Lebensberufes, den er bald verließ, nicht zurückhalten: Döring wurde Schauspieler und widmete sich sogleich dem Charakterfach. Die großen Erfolge, die er schon früh bei kleinen Bühnen in komischen Rollen ärntete, mochten ihn zu lange bei grotesken Figuren, Chargen und niedrig komischen Charakteren aufgehalten haben; erst vor zehn Jahren </tei:seg>
+        <tei:ref type="esv" target="#annotation-32">in Mannheim</tei:ref>
+        <tei:seg> erweiterte sich ihm das Feld seiner Bestrebungen, er vertiefte sich in ideale Charaktere und gab in Mannheim, Hamburg, Stuttgart neben den ihm nie versagenden und genial dastehenden komischen und gemüthlichen Charakteren auch Figuren aus dem tragischen Kreise und dem Kreise der höheren Conversation. In dieser letzten Sphäre ist sein großes schauspielerisches Genie noch in der Entwickelung begriffen. Es kann ihm da, wo er sich nicht komischer und gemüthvoller Aufgaben allein zu entledigen hat, noch manche Leistung versagen, es kann seinen immer groß gedachten und originel angelegten tragischen Charakteren noch in der Durchführung an Consequenz und einer auch in dieser Sphäre nie versagenden, ganz sichern Virtuosität fehlen, aber nach einigen Jahren ist Döring auch auf diesem Gebiet derselbe große Meister, wie im Fache der Komik.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Die Grundlage, auf welche Döring seine Gebilde baut, ist das Verwandlungstalent. Er besitzt dies Urmaterial der Schauspielkunst in einem Grade, der eine Klippe seiner Correctheit werden könnte, wenn die Phantasie nicht als regelnde Vermittlerin einträte. Döring ist ein Intuitions-Schauspieler, wie es L. Devrient war. Er denkt mit der Phantasie. Der Verstand trägt der Phantasie bei ihm nicht die Fackel voran, sondern nur das Schleppkleid der Phantasie hinten nach. In einer so verstandeskühlen Stadt wie Berlin ist darum sein Stand schwieriger als anderswo. Das sinnige Vertheilen der Kräfte, der harmonische Ausbau einer Rolle nach ihrem Fundament und ihren Stockwerken war bei Seydelmann frappanter und befriedigender; denn der Verstand will immer eher bei kalten Naturen befriedigt sein, als die Phantasie. Wie die Kenner bei Seydelmann oftmals jene Ursprünglichkeit der schauspielerischen Individualität vermissen wollten, so vermissen sie bei Döring einen Theil jener Vorzüge, durch welche Seydelmann aus der Fülle seiner geistreichen Verständigkeit seine theilweisen Mängel zu ersetzen wußte. Allein gerade nach der Seite hin, wo Döring zur Zeit noch nicht völlig genügen mag, ist reifere Ausbildung mit den Jahren eher möglich, als nach jener Seite des ursprünglichen Berufes hin, wo es Lücken geben kann, die sich nie ersetzen, Lücken, die sich bei Döring nicht finden.</tei:seg>
+        <tei:seg>Die Grundlage, auf welche Döring seine Gebilde baut, ist das Verwandlungstalent. Er besitzt dies Urmaterial der Schauspielkunst in einem Grade, der eine Klippe seiner Correctheit werden könnte, wenn die Phantasie nicht als regelnde Vermittlerin einträte. Döring ist ein Intuitions-Schauspieler, wie es </tei:seg>
+        <tei:ref type="esv" target="#annotation-33">L. Devrient</tei:ref>
+        <tei:seg> war. Er denkt mit der Phantasie. Der Verstand trägt der Phantasie bei ihm nicht die Fackel voran, sondern nur das Schleppkleid der Phantasie hinten nach. In einer so verstandeskühlen Stadt wie Berlin ist darum sein Stand schwieriger als anderswo. Das sinnige Vertheilen der Kräfte, der harmonische Ausbau einer Rolle nach ihrem Fundament und ihren Stockwerken war bei </tei:seg>
+        <tei:ref type="esv" target="#annotation-34">Seydelmann</tei:ref>
+        <tei:seg> frappanter und befriedigender; denn der Verstand will immer eher bei kalten Naturen befriedigt sein, als die Phantasie. Wie die Kenner bei Seydelmann oftmals jene Ursprünglichkeit der schauspielerischen Individualität vermissen wollten, so vermissen sie bei Döring einen Theil jener Vorzüge, durch welche Seydelmann aus der Fülle seiner geistreichen Verständigkeit seine theilweisen Mängel zu ersetzen wußte. Allein gerade nach der Seite hin, wo Döring zur Zeit noch nicht völlig genügen mag, ist reifere Ausbildung mit den Jahren eher möglich, als nach jener Seite des ursprünglichen Berufes hin, wo es Lücken geben kann, die sich nie ersetzen, Lücken, die sich bei Döring nicht finden.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Durch keine Kritik in der Welt kann diesem Schauspieler genommen werden, daß er ein gebornes Bühnengenie ist. Ein überwiegender Theil seiner Rollen, insonders die komischen und bürgerlich gemüthlichen, steht vollendet da. Diejenigen Charaktere, in welchen er noch nicht zu völliger Sicherheit gelangt ist, verläugnen dennoch niemals ihren edlen Ursprung; sie mögen nicht immer ganz befriedigen, aber sie hören darum nie auf, interessant zu erscheinen. Frisch und frei ist alles, was Döring spielt. Inspiration fehlt ihm für keine Rolle, nur muß er sich freilich hüten, in seinem Streben nach </tei:seg>
         <tei:hi style="letter-sparse">Charakteristik</tei:hi>
-        <tei:seg> zu weit zu gehen. Er muß seinen unaufhaltsamen Drang, in Gehen, Stehen, Sprechen, Mienenspiel einen Charakter bis auf die Neige zu erschöpfen, nicht so weit treiben, daß darüber aus dem Charakter ein Daguerreotyp-Bild wird, wo uns auch jedes Muttermal auf der Wange sichtbar wird. Das Streben nach Charakteristik muß durch Geschmack und Schönheitssinn geregelt werden; denn sonst kommen wir auf Hogarth’s Theorie, der den Heiland nicht anders malen wollte, als mit Schwielen an den Füßen, die Apostel nicht anders, als mit Schwielen an den Händen; denn allerdings, Christus wanderte viel, und die Apostel arbeiteten. Ueber das Geschmackvolle und Ideale darf die Charakteristik in keiner Kunst hinausgehen. Hogarth wollte Charon malen, der die Todten über den Acheron fährt. Sein in die Caricatur führendes Streben nach Charakteristik verleitete ihn, diesem Charon dünne Beine zu malen; denn, sagte er, es ist eine Beobachtung, die ich an Fährleuten gemacht habe, daß sie durch ihr immerwährendes Stehen dünne Beine bekommen. In diesem Sinne soll nie ein Schauspieler charakteristisch werden. Ist nur die Contour und der Grundton seiner Zeichnung richtig, dann muß die Phantasie des Zuschauers das Uebrige hinzudichten; denn sonst bleibt ihm in der Fülle der Details, die er einen ganzen Abend hindurch festzuhalten hat, keine Zeit und Kraft mehr übrig, nebenbei den ganzen rhetorischen und idealen Theil seiner Rolle wiederzugeben.</tei:seg>
+        <tei:seg> zu weit zu gehen. Er muß seinen unaufhaltsamen Drang, in Gehen, Stehen, Sprechen, Mienenspiel einen Charakter bis auf die Neige zu erschöpfen, nicht so weit treiben, daß darüber aus dem Charakter ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-35">Daguerreotyp-Bild</tei:ref>
+        <tei:seg> wird, wo uns auch jedes Muttermal auf der Wange sichtbar wird. Das Streben nach Charakteristik muß durch Geschmack und Schönheitssinn geregelt werden; denn sonst kommen wir auf </tei:seg>
+        <tei:ref type="esv" target="#annotation-36">Hogarth’s Theorie</tei:ref>
+        <tei:seg>, der </tei:seg>
+        <tei:ref type="esv" target="#annotation-44">den Heiland nicht anders malen</tei:ref>
+        <tei:seg> wollte, als mit Schwielen an den Füßen, die Apostel nicht anders, als mit Schwielen an den Händen; denn allerdings, Christus wanderte viel, und die Apostel arbeiteten. Ueber das Geschmackvolle und Ideale darf die Charakteristik in keiner Kunst hinausgehen. Hogarth wollte </tei:seg>
+        <tei:ref type="esv" target="#annotation-37">Charon</tei:ref>
+        <tei:seg> malen, der die Todten über den </tei:seg>
+        <tei:ref type="esv" target="#annotation-38">Acheron</tei:ref>
+        <tei:seg> fährt. Sein in die Caricatur führendes Streben nach Charakteristik verleitete ihn, diesem Charon </tei:seg>
+        <tei:ref type="esv" target="#annotation-39">dünne Beine</tei:ref>
+        <tei:seg> zu malen; denn, sagte er, es ist eine Beobachtung, die ich an Fährleuten gemacht habe, daß sie durch ihr immerwährendes Stehen dünne Beine bekommen. In diesem Sinne soll nie ein Schauspieler charakteristisch werden. Ist nur die Contour und der Grundton seiner Zeichnung richtig, dann muß die Phantasie des Zuschauers das Uebrige hinzudichten; denn sonst bleibt ihm in der Fülle der Details, die er einen ganzen Abend hindurch festzuhalten hat, keine Zeit und Kraft mehr übrig, nebenbei den ganzen rhetorischen und idealen Theil seiner Rolle wiederzugeben.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Es ist das Eigene bei bedeutenden Erscheinungen, daß man in ihrer Erörterung kein Ende finden kann. Döring könnte Veranlassung zu einer Reihe von Abhandlungen geben, denn jede seiner Rollen ist anregend und zieht uns in die Weite der Betrachtungen. Man würde sich in Hannover ein großes Verdienst um die deutsche Schaubühne erwerben, wenn man Döring seiner dortigen Verpflichtung entbände und ihn dauernd einer Bühne angehören ließe, wo seine großen Gaben Sporn und Stachel genug fänden, sich immer umfassender auszubilden und einer Reife nachzustreben, die dem Künstler nicht mit in die Wiege gelegt wird, sondern die er sich selbst erwerben muß. Döring befindet sich jetzt in seiner vollsten Mannesblüthe. Jetzt, in dieser Periode seines noch ruhelosen Ehrgeizes, in diesem Drange nach allseitiger Vollendung, in diesem unverwüstlichen Verlangen, mit jeder neuen Rolle das Urtheil der deutschen Intelligenz-Hauptstadt kühn herauszufordern, jetzt gerade müßte er hieher verpflanzt werden. Vielleicht bringt Hannover das Opfer und tritt den seltenen Künstler an Berlin und das Interesse der deutschen Schaubühne ab.</tei:seg>
+        <tei:seg>Es ist das Eigene bei bedeutenden Erscheinungen, daß man in ihrer Erörterung kein Ende finden kann. Döring könnte Veranlassung zu einer Reihe von Abhandlungen geben, denn jede seiner Rollen ist anregend und zieht uns in die Weite der Betrachtungen. Man würde sich in Hannover ein großes Verdienst um die deutsche Schaubühne erwerben, wenn man Döring seiner dortigen Verpflichtung entbände und ihn dauernd einer Bühne angehören ließe, wo seine großen Gaben Sporn und Stachel genug fänden, sich immer umfassender auszubilden und einer Reife nachzustreben, die dem Künstler nicht mit in die Wiege gelegt wird, sondern die er sich selbst erwerben muß. Döring befindet sich jetzt in seiner vollsten Mannesblüthe. Jetzt, in dieser Periode seines noch ruhelosen Ehrgeizes, in diesem Drange nach allseitiger Vollendung, in diesem unverwüstlichen Verlangen, mit jeder neuen Rolle das Urtheil der </tei:seg>
+        <tei:ref type="esv" target="#annotation-40">deutschen Intelligenz-Hauptstadt</tei:ref>
+        <tei:seg> kühn herauszufordern, jetzt gerade müßte er hieher verpflanzt werden. Vielleicht bringt Hannover das Opfer und tritt den seltenen Künstler an Berlin und das Interesse der deutschen Schaubühne ab.</tei:seg>
       </tei:p>
       <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>II.</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Das ist gewiß charakteristisch! Mein erster Blick auf eine der hiesigen Zeitungen fiel auf den Vorschlag eines </tei:seg>
-        <tei:hi style="letter-sparse">Frühgottesdienstes für Droschkenfuhrleute</tei:hi>
-        <tei:seg>. Wahrlich, dieser Vorschlag verläugnet seinen Ursprung nicht! Zwar ist derjenige, der ihn zunächst machte, ein Jude (der Besitzer der Haupt-Droschkenanstalt), aber auch das ist bezeichnend; die speculativen Juden, die Juden, die den Geist der Zeit verstehen, bestreben sich hier, dem Ueberchristenthum in die Hände zu arbeiten. Ein Frühgottesdienst für Droschkenfuhrleute! Man mache sich recht klar, was darunter zu verstehen ist. Man hat nämlich gefunden, daß die Droschkenführer von früh bis Mitternacht ihrem Herrn und Lohngeber dienen müssen. Auch den Sonntag heiligen sie nicht. Um sie nun der Kirche nicht gänzlich verloren zu geben, läßt man ihnen jetzt Morgens, wenn sie ihre Wagen reinigen, wenn sie ihre Pferde anschirren, rasch von einem eigens bestellten „Droschkenprediger“ eine kurze geistliche Rede halten. Man glaubt, wenn man so etwas erfährt, in England oder Pennsylvanien zu sein. Diesem Frühgottesdienst für Droschkenfuhrleute müssen, wenn man consequent sein will, noch diese zwei Einrichtungen folgen:</tei:seg>
+        <tei:ref type="esv" target="#annotation-41">
+          <tei:hi style="letter-sparse">Frühgottesdienstes für Droschkenfuhrleute</tei:hi>
+        </tei:ref>
+        <tei:seg>. Wahrlich, dieser Vorschlag verläugnet seinen Ursprung nicht! Zwar ist derjenige, der ihn zunächst machte, ein Jude (der </tei:seg>
+        <tei:ref type="esv" target="#annotation-42">Besitzer der Haupt-Droschkenanstalt</tei:ref>
+        <tei:seg>), aber auch das ist bezeichnend; die speculativen Juden, die Juden, die den Geist der Zeit verstehen, bestreben sich hier, dem </tei:seg>
+        <tei:ref type="esv" target="#annotation-43">Ueberchristenthum</tei:ref>
+        <tei:seg> in die Hände zu arbeiten. Ein Frühgottesdienst für Droschkenfuhrleute! Man mache sich recht klar, was darunter zu verstehen ist. Man hat nämlich gefunden, daß die Droschkenführer von früh bis Mitternacht ihrem Herrn und Lohngeber dienen müssen. Auch </tei:seg>
+        <tei:ref type="esv" target="#annotation-45">den Sonntag heiligen sie nicht</tei:ref>
+        <tei:seg>. Um sie nun der Kirche nicht gänzlich verloren zu geben, läßt man ihnen jetzt Morgens, wenn sie ihre Wagen reinigen, wenn sie ihre Pferde anschirren, rasch von einem eigens bestellten „Droschkenprediger“ eine kurze geistliche Rede halten. Man glaubt, wenn man so etwas erfährt, </tei:seg>
+        <tei:ref type="esv" target="#annotation-46">in England oder Pennsylvanien</tei:ref>
+        <tei:seg> zu sein. Diesem Frühgottesdienst für Droschkenfuhrleute müssen, wenn man consequent sein will, noch diese zwei Einrichtungen folgen:</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>1) Ein Frühgottesdienst für Briefträger.</tei:seg>
@@ -93,66 +188,947 @@
         <tei:seg>2) Ein Nachmittagsgottesdienst für Milchkarrenschieber; denn auch diese Fuhrleute bringen ja jeden Sonntag die Milch zur Stadt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Gut, ich glaube, daß es wünschenswerth ist, auch die Droschkenfuhrleute an die Kirche zu gewöhnen; aber hätte die gesunde Vernunft und die Billigkeit jenes überchristlichen Juden, wahrscheinlich eines Commercienrathes, nicht einen andern Ausweg finden können? Wie nun, wenn man bei den Droschkenställen keinen Gottesdienst errichtet, wohl aber jedem Droschkenführer es möglich gemacht hätte, alle vierzehn Tage oder wenigstens alle vier Wochen einen halben Sonntag frei zu haben, einen halben Sonntag, wo er die Kirche besuchen kann? Erlaubte das die Dividende des Commercienrathes nicht? Ihr habt ein so großes Mitleid mit der Seele des Droschkenfuhrmanns und sorgt für seinen Kirchgang, schenkt ihr ihm denn auch, dem geplagten, an seine Karre gebundenen Menschen, einen Erholungstag? Spannt ihr ihn einmal aus seinem Joche aus und errichtet einen Actienverein zu einer Mittagsfreude, zu einer Nachmittags-Belustigung? Statt daß also die hiesigen Ueberchristen den Commercienrath zwingen sollten, jedem Droschkenfuhrmann alle vierzehn Tage oder alle drei Wochen, die Reihe herum, einen freien Sonntag zu geben, den er als freier Mensch, Christ und Staatsbürger anwenden kann, wie er will, schlüpfen sie über den Mißbrauch des privilegirten Droschkenregenten hinweg, sanctioniren die Thatsache, daß kein Droschkenfuhrmann einen freien Sonntag hat, und sorgen nur einzig </tei:seg>
+        <tei:seg>Gut, ich glaube, daß es wünschenswerth ist, auch die Droschkenfuhrleute an die Kirche zu gewöhnen; aber hätte die gesunde Vernunft und die Billigkeit jenes überchristlichen Juden, wahrscheinlich </tei:seg>
+        <tei:ref type="esv" target="#annotation-47">eines Commercienrathes</tei:ref>
+        <tei:seg>, nicht einen andern Ausweg finden können? Wie nun, wenn man bei den Droschkenställen keinen Gottesdienst errichtet, wohl aber jedem Droschkenführer es möglich gemacht hätte, alle vierzehn Tage oder wenigstens alle vier Wochen einen halben Sonntag frei zu haben, einen halben Sonntag, wo er die Kirche besuchen kann? Erlaubte das die Dividende des Commercienrathes nicht? Ihr habt ein so großes Mitleid mit der Seele des Droschkenfuhrmanns und sorgt für seinen Kirchgang, schenkt ihr ihm denn auch, dem geplagten, an seine Karre gebundenen Menschen, einen Erholungstag? Spannt ihr ihn einmal aus seinem Joche aus und errichtet einen Actienverein zu einer Mittagsfreude, zu einer Nachmittags-Belustigung? Statt daß also die hiesigen Ueberchristen den Commercienrath zwingen sollten, jedem Droschkenfuhrmann alle vierzehn Tage oder alle drei Wochen, die Reihe herum, einen freien Sonntag zu geben, den er als freier Mensch, Christ und Staatsbürger anwenden kann, wie er will, schlüpfen sie über den Mißbrauch des privilegirten Droschkenregenten hinweg, sanctioniren die Thatsache, daß kein Droschkenfuhrmann einen freien Sonntag hat, und sorgen nur einzig </tei:seg>
         <tei:hi style="letter-sparse">dafür</tei:hi>
         <tei:seg>, daß ihm Morgens vor Ausfahren aus dem Stall das Evangelium gepredigt wird! O über den frommen Commercienrath!</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Wenn dem religiösen Fanatismus keine Gränzen gesteckt werden, so erleben wir noch die krankhaftesten Erscheinungen. Die übertriebene Heiligung des Sonntags kann förmlich alttestamentarisch werden. Wenn sich z. B. Jemand in den Gedanken vertieft, daß die Eisenbahnen auf Sonntagen befahren werden und das Bahnpersonal und die Locomotivführer deßhalb nicht die Kirche besuchen können, würde man einem solchen Gemüth nicht zurufen müssen: Behüte dich der Himmel vor Wahnsinn! Der religiöse Fanatismus, der sich ferner der Armen und Kranken annimmt, hat Ansprüche auf unsere vollkommenste Hochachtung, er steht den Geboten der reinen Humanität so nahe, daß man nicht untersuchen mag, welches die Quelle seiner Hingebung, Aufopferung und Liebe ist; wenn aber die Pflege der Armen strafend, die Wartung der Kranken lästig und beängstigend wird, dann muß man selbst gegen so an sich ehrenwerthe Aeußerungen des überchristlichen Sinnes kalt werden. Strafend aber ist die Armenpflege, welche nur dem gibt, den sie als rechten Glaubens erkennt; lästig und beängstigend ist die Krankenwartung, die uns zwischen den Schmerzen des Körpers von der Verworfenheit unserer Seele redet.</tei:seg>
+        <tei:seg>Wenn dem religiösen Fanatismus keine Gränzen gesteckt werden, so erleben wir noch die krankhaftesten Erscheinungen. Die übertriebene Heiligung des Sonntags kann förmlich alttestamentarisch werden. Wenn sich z. B. Jemand in den Gedanken vertieft, daß die Eisenbahnen auf Sonntagen befahren werden und das Bahnpersonal und die Locomotivführer deßhalb nicht die Kirche besuchen können, würde man einem solchen Gemüth nicht zurufen müssen: Behüte dich der Himmel vor Wahnsinn! Der religiöse Fanatismus, der sich ferner der Armen und Kranken annimmt, hat Ansprüche auf unsere vollkommenste Hochachtung, er steht den Geboten der reinen Humanität so nahe, daß man nicht untersuchen mag, welches die Quelle seiner Hingebung, Aufopferung und Liebe ist; wenn aber die Pflege der Armen strafend, die Wartung der Kranken lästig und beängstigend wird, </tei:seg>
+        <tei:ref type="esv" target="#annotation-67">dann muß man selbst gegen so an sich ehrenwerthe Aeußerungen des überchristlichen Sinnes kalt werden</tei:ref>
+        <tei:seg>. Strafend aber ist die Armenpflege, welche nur dem gibt, den sie als rechten Glaubens erkennt; lästig und beängstigend ist die Krankenwartung, die uns zwischen den Schmerzen des Körpers von der Verworfenheit unserer Seele redet.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Es bereitet sich hier eine Menge praktischer Anwendungen des mildthätigen Christenthums vor. Die meisten davon stehen noch auf dem Papiere, einige sind schon ins Leben getreten, z. B. ein Magdalenenstift zur Rettung gefallener Mädchen. Was man von letzterem hört, läßt auf eine gesunde und thatkräftige Ausführung dieser an sich löblichen Absicht nicht schließen. Schon daß diese unglücklichen Personen durch eine eigene Tracht kenntlich gemacht werden, ist einer jener finstern Nebengedanken, die wir </tei:seg>
+        <tei:seg>Es bereitet sich hier eine Menge praktischer Anwendungen des mildthätigen Christenthums vor. Die meisten davon stehen noch auf dem Papiere, einige sind schon ins Leben getreten, z. B. ein </tei:seg>
+        <tei:ref type="esv" target="#annotation-48">Magdalenenstift zur Rettung gefallener Mädchen</tei:ref>
+        <tei:seg>. Was man von letzterem hört, läßt auf eine gesunde und thatkräftige Ausführung dieser an sich löblichen Absicht nicht schließen. Schon daß diese unglücklichen Personen durch eine eigene Tracht kenntlich gemacht werden, ist einer jener finstern Nebengedanken, die wir </tei:seg>
         <tei:hi style="letter-sparse">strafende</tei:hi>
-        <tei:seg> Armenpflege nannten. Wenn es einen Weg geben kann, um solche Personen einer sichern Besserung entgegen zu führen, so kann es nur der sein, sie auf eine möglichst geräuschlose, stillschweigend liebevolle Weise der Gesellschaft wiederzugeben. Eine schwarze Tracht mag allerdings bewirken, daß der, der sich dem Magdalenenstift in die Arme wirft, gleichsam die Thür hinter sich auf immer zuwirft und eine fast carthäuserartige Resignation zeigen muß, aber wie wenig Gemüther werden einer solchen Abtödtung des letzten Restes von Stolz fähig sein! Gerade das, was Ihr zuerst brechen wollt, diesen letzten Rest von Stolz, gerade das ist nur das Samenkorn, aus dem sich eine neue Blüthe des sittlichen Menschen erheben kann. Was wird das Ende dieses Beginnens sein? Daß eine solche Anstalt hinter ihrer guten Absicht zurückbleibt und, statt gebesserter, dem Leben wieder gewonnener Verirrten, Heuchlerinnen erzeugt, die, wie es der Fall ist, beim geringsten verführenden Anlaß wieder in ihre alten Lasterwege zurückfallen.</tei:seg>
+        <tei:seg> Armenpflege nannten. Wenn es einen Weg geben kann, um solche Personen einer sichern Besserung entgegen zu führen, so kann es nur der sein, sie auf eine möglichst geräuschlose, stillschweigend liebevolle Weise der Gesellschaft wiederzugeben. Eine schwarze Tracht mag allerdings bewirken, daß der, der sich dem Magdalenenstift in die Arme wirft, gleichsam die Thür hinter sich auf immer zuwirft und eine fast </tei:seg>
+        <tei:ref type="esv" target="#annotation-49">carthäuserartige</tei:ref>
+        <tei:seg> Resignation zeigen muß, aber wie wenig Gemüther werden einer solchen Abtödtung des letzten Restes von Stolz fähig sein! Gerade das, was Ihr zuerst brechen wollt, diesen letzten Rest von Stolz, gerade das ist nur das Samenkorn, aus dem sich eine neue Blüthe des sittlichen Menschen erheben kann. Was wird das Ende dieses Beginnens sein? Daß eine solche Anstalt hinter ihrer guten Absicht zurückbleibt und, statt gebesserter, dem Leben wieder gewonnener Verirrten, Heuchlerinnen erzeugt, die, wie es der Fall ist, beim geringsten verführenden Anlaß wieder in ihre alten Lasterwege zurückfallen.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Nach allem, was sich hier beobachten läßt, sieht man, daß man die Uebel, an welchen die heutige Gesellschaft krankt, hier mehr als irgendwo erkannt hat. Man hat sie erkannt, weil man sie fühlt, weil sie sich zu unabweislich von selbst aufdrängen. Aber in den Mitteln, den gesellschaftlichen Schäden abzuhelfen, vergreift man sich. Man will den Schäden unmittelbar begegnen, statt daß sie nur da wahrhaft zu heilen sind, wo man ihrem ersten Grunde auf die Spur gekommen ist. Die Wurzel muß man entdecken und den Wurm tödten, der an der Wurzel nagt. Das Begießen des welken Blattes an dem verkrüppelten Stamme fristet ihm eine Weile das frische Ansehen des Lebens, dann aber fällt es ersterbend ab, weil der aus der Wurzel quellende Balsam des Lebens, der Saft der Gesundheit ihm stärkend nicht zuströmt.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Theodor Mundt sprach in seiner kürzlich erwähnten Vorlesung von dem durchgreifenden Streben unserer Zeit nach „Glückseligkeit und Vergnügen“. Ich erschrak, wie er diese Thatsache so ohne Weiteres als einen feststehenden Satz, wahrscheinlich als die Prämisse seiner frühern Entwickelungen, einwerfen und voraussetzen konnte. Und doch stellt sich diesem Satze, um ihn zu widerlegen, wenig gegenüber. Er ist wahr, er ist bewiesen; bewiesen nicht nur durch den Luxus der Reichen, sondern auch durch die brennende Sehnsucht und Entsagungsunfähigkeit der Armen. Am unersättlichsten aber in Zerstreuungen ist der Mittelstand. Glückseligkeit und Vergnügen ist mehr denn je die Devise des Berliners geworden. Die öffentlichen und Privatgelegenheiten zu Erholungen aller Art haben sich reißend vermehrt. Die Straßenecken sind täglich mit mehr als einem Dutzend Zettel beklebt, um zu Zerstreuungen einzuladen. Dabei ist der Zudrang zu solchen Nahrungszweigen, welche wenig Anstrengung erfordern, unverhältnißmäßig. Wer früher nicht wußte, welches Gewerbe er treiben sollte, eröffnete einen Tabakshandel. Jetzt haben sich dazu Anlagen von Kaffeehäusern, Vergnügungsgärten, Conditoreien gesellt, die mit derselben Schnelligkeit aufschießen, wie hier Mode-, Schnittwaaren-, Kleiderhandlungen und Gewerbeläden von solchen eröffnet werden, die diese Gewerbe nicht selber treiben, sondern nur von Andern treiben lassen. Und mitten in diesem Sausen und Brausen von Vergnügungen dann jene Zustände der Noth und des Elends, die Bettina jenen menschenfreundlichen Schweizer im Anhange ihres Königsbuches hat schildern lassen - der Gegensatz ist schneidend.</tei:seg>
+        <tei:seg>Theodor Mundt sprach in seiner kürzlich erwähnten Vorlesung von dem durchgreifenden </tei:seg>
+        <tei:ref type="esv" target="#annotation-50">Streben unserer Zeit nach „Glückseligkeit und Vergnügen“</tei:ref>
+        <tei:seg>. Ich erschrak, wie er diese Thatsache so ohne Weiteres als einen feststehenden Satz, wahrscheinlich als die Prämisse seiner frühern Entwickelungen, einwerfen und voraussetzen konnte. Und doch stellt sich diesem Satze, um ihn zu widerlegen, wenig gegenüber. Er ist wahr, er ist bewiesen; bewiesen nicht nur durch den Luxus der Reichen, sondern auch durch die brennende Sehnsucht und Entsagungsunfähigkeit der Armen. Am unersättlichsten aber in Zerstreuungen ist der Mittelstand. Glückseligkeit und Vergnügen ist mehr denn je die Devise des Berliners geworden. Die öffentlichen und Privatgelegenheiten zu Erholungen aller Art haben sich reißend vermehrt. Die Straßenecken sind täglich mit mehr als einem Dutzend </tei:seg>
+        <tei:ref type="esv" target="#annotation-51">Zettel beklebt</tei:ref>
+        <tei:seg>, um zu Zerstreuungen einzuladen. Dabei ist der Zudrang zu solchen Nahrungszweigen, welche wenig Anstrengung erfordern, unverhältnißmäßig. Wer früher nicht wußte, welches Gewerbe er treiben sollte, eröffnete einen Tabakshandel. Jetzt haben sich dazu Anlagen von Kaffeehäusern, Vergnügungsgärten, Conditoreien gesellt, die mit derselben Schnelligkeit aufschießen, wie hier Mode-, Schnittwaaren-, Kleiderhandlungen und Gewerbeläden von solchen eröffnet werden, die diese Gewerbe nicht selber treiben, sondern nur von Andern treiben lassen. Und mitten in diesem Sausen und Brausen von Vergnügungen dann jene Zustände der Noth und des Elends, die Bettina jenen menschenfreundlichen Schweizer </tei:seg>
+        <tei:ref type="esv" target="#annotation-52">im Anhange ihres Königsbuches</tei:ref>
+        <tei:seg> hat schildern lassen - der Gegensatz ist schneidend.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Auswärts fühlt man diesen Gegensatz fast noch mehr als hier. Auswärts hat man sich verwundert, wie mitten in diesen Thatsachen des dringendsten Bedürfens, mitten in diesen beredten Schilderungen der hiesigen Verarmung plötzlich das </tei:seg>
-        <tei:hi style="letter-sparse">kroll</tei:hi>
-        <tei:seg>’</tei:seg>
-        <tei:hi style="letter-sparse">sche Etablissement</tei:hi>
+        <tei:ref type="esv">
+          <tei:hi style="letter-sparse">kroll</tei:hi>
+        </tei:ref>
+        <tei:ref type="esv">’</tei:ref>
+        <tei:ref type="esv" target="#annotation-53">
+          <tei:hi style="letter-sparse">sche Etablissement</tei:hi>
+        </tei:ref>
         <tei:seg> hat auftauchen können. Ich gestehe, als ich diesen von allen Zeitungen für einen Feenpalast ausgegebenen Ort besuchte, konnte ich den störenden Gedanken, daß diese Schöpfung sehr </tei:seg>
-        <tei:foreign>mal à propos</tei:foreign>
+        <tei:ref type="esv" target="#annotation-54">
+          <tei:foreign>mal à propos</tei:foreign>
+        </tei:ref>
         <tei:seg> gekommen, nicht unterdrücken. Zum Glück bleibt auch dieser „Feenpalast“ hinter seinem Rufe zurück. Schon in der Ferne, wenn man durch Staubwolken durchzudringen vermag, sieht das Ganze wie eine große Ziegelhütte aus. Man sieht ein Conglomerat von Schornsteinen und hervorspringenden Hausecken und fühlt sich durch den ersten Eindruck eher abgestoßen als angezogen. Dabei ärgert man sich über die Idee, ein solches von allen Fremden zu besuchendes Local auf die Achillesferse Berlins, die Sandwüste Sahara, auf den </tei:seg>
-        <tei:hi style="letter-sparse">Exercirplatz</tei:hi>
-        <tei:seg> zu bauen. Der berliner Staub, vergessen gemacht durch die freundlichen Anlagen des Thiergartens, tritt wieder beizend, augenverderbend, unausstehlich in den Vordergrund; denn recht in den Mutterschooß dieses Staubes ist das neue Gebäude gelegt worden. Man betritt es. Alles erscheint daran lückenhaft, hölzern, durchsichtig, leichte Waare, berechnet auf einen kurzen Effect. Mit Einem Blick übersieht man die gewaltige Reitbahn des Vergnügens. Keine Abwechselung, kein lauschiger Versteck, keine Möglichkeit des Alleinseins. Die nackten weißen Holzwände, mit Goldleisten zwar verziert und hier und da bemalt, aber keine Draperieen, keine Vorhänge, das ganze Local auf Einen Blick in die flache Hand gegeben. Das Unterhaltende an den Maskenbällen in der großen Oper zu Paris ist nicht der große Tanzraum, sondern das bunte Gewühl auf den Treppen, Corridoren, in den Foyers, in Einrichtungen, die hier, bis auf einige wenige Logen, nicht getroffen sind. Man kann allerdings sagen, Paris besitzt ein solches Etablissement nicht; aber man muß hinzufügen: wenn man in Paris so oberflächlich wäre, zum bloßen Dasitzen, Gaffen und Begafftwerden eine solche Unterhaltungsanstalt zu begründen, so würde sie großartiger, geschmackvoller, charakteristischer sein. Im Kellergeschoß dieses Tempels der Langenweile befindet sich ein so genannter „Tunnel“ , eine Localität zum Rauchen, wie sie finsterer, schmutziger, erstickender kaum in London gefunden werden kann. Man glaubt, daß die </tei:seg>
-        <tei:foreign>Mystères de Paris</tei:foreign>
+        <tei:ref type="esv" target="#annotation-55">
+          <tei:hi style="letter-sparse">Exercirplatz</tei:hi>
+        </tei:ref>
+        <tei:seg> zu bauen. Der berliner Staub, vergessen gemacht durch die freundlichen Anlagen des Thiergartens, tritt wieder beizend, augenverderbend, unausstehlich in den Vordergrund; denn recht in den Mutterschooß dieses Staubes ist das neue Gebäude gelegt worden. Man betritt es. Alles erscheint daran lückenhaft, hölzern, durchsichtig, leichte Waare, berechnet auf einen kurzen Effect. Mit Einem Blick übersieht man die gewaltige Reitbahn des Vergnügens. Keine Abwechselung, kein lauschiger Versteck, keine Möglichkeit des Alleinseins. Die nackten weißen Holzwände, mit Goldleisten zwar verziert und hier und da bemalt, aber keine </tei:seg>
+        <tei:ref type="esv" target="#annotation-56">Draperieen</tei:ref>
+        <tei:seg>, keine Vorhänge, das ganze Local auf Einen Blick in die flache Hand gegeben. Das Unterhaltende an den Maskenbällen in der großen Oper zu Paris ist nicht der große Tanzraum, sondern das bunte Gewühl auf den Treppen, Corridoren, in den Foyers, in Einrichtungen, die hier, bis auf einige wenige Logen, nicht getroffen sind. Man kann allerdings sagen, Paris besitzt ein solches Etablissement nicht; aber man muß hinzufügen: wenn man in Paris so oberflächlich wäre, zum bloßen Dasitzen, Gaffen und Begafftwerden eine solche Unterhaltungsanstalt zu begründen, so würde sie großartiger, geschmackvoller, charakteristischer sein. Im Kellergeschoß dieses Tempels der Langenweile befindet sich ein so genannter </tei:seg>
+        <tei:ref type="esv" target="#annotation-57">„Tunnel“</tei:ref>
+        <tei:seg> , eine Localität zum Rauchen, wie sie finsterer, schmutziger, erstickender kaum in London gefunden werden kann. Man glaubt, daß die </tei:seg>
+        <tei:ref type="esv" target="#annotation-58">
+          <tei:foreign>Mystères de Paris</tei:foreign>
+        </tei:ref>
         <tei:seg> hier ihren Anfang hätten nehmen können. Man glaubt den </tei:seg>
-        <tei:foreign>Tapis Franc</tei:foreign>
+        <tei:ref type="esv" target="#annotation-59">
+          <tei:foreign>Tapis Franc</tei:foreign>
+        </tei:ref>
         <tei:seg> zu betreten, und sieht sich unwillkürlich nach der Ogresse um.</tei:seg>
       </tei:p>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Aber auch die </tei:seg>
         <tei:foreign>Mystères de Berlin</tei:foreign>
-        <tei:seg> könnten hier anfangen. Gibt es solche? Gedruckt schon eine große Anzahl, und die zuerst kamen, von Schubar, schon in dritter Auflage. Doch sollen es nur Criminal-Geschichten sein, zusammengesetzt aus Merker’s Beiträgen zum Gelingen der praktischen Policei und Thiele’s Schlüsseln zum Verständnis des jüdischen Gaunerwesens. Schade, daß sich originelle Köpfe nicht leicht entschließen werden, in die Fußstapfen eines Andern zu treten; wohl aber bliebe es wünschenswerth, daß sich Jemand der deutschen Zustände so bemächtigen könnte, wie Eugene Sue der französischen. Hat nicht am Ende auch Sue dem Boz nachgeahmt, und Boz wieder die alten humoristischen Romane der vorigen Jahrhunderte? Mysterien von Berlin müßten grelle Schlaglichter auf Deutschlands sittliche, gesellschaftliche und intellectuelle Zustände fallen lassen, müßten die Fackel der Aufklärung nicht nur in die Kellergewölbe der Armuth und des Verbrechens tragen, sondern auch in die trübe Dämmersphäre der Schein- und Ueberbildung, der Lüge und der Heuchelei. Gehört nicht jener Heuchler, der kürzlich um die Erlaubniß, eine Zeitschrift herausgeben zu dürfen, einkam und zur Bescheinigung seiner guten Gesinnung das Attest eines Predigers beibrachte, daß er drei Jahre das Abendmahl genossen, gehört dieser edle Charakter nicht in die </tei:seg>
+        <tei:seg> könnten hier anfangen. Gibt es solche? </tei:seg>
+        <tei:ref type="esv" target="#annotation-60">Gedruckt schon eine große Anzahl</tei:ref>
+        <tei:seg>, und die zuerst kamen, von </tei:seg>
+        <tei:ref type="esv" target="#annotation-61">Schubar</tei:ref>
+        <tei:seg>, schon in dritter Auflage. Doch sollen es nur Criminal-Geschichten sein, zusammengesetzt aus </tei:seg>
+        <tei:ref type="esv" target="#annotation-62">Merker’s Beiträgen</tei:ref>
+        <tei:seg> zum Gelingen der praktischen Policei und </tei:seg>
+        <tei:ref type="esv" target="#annotation-63">Thiele’s Schlüsseln</tei:ref>
+        <tei:seg> zum Verständnis des jüdischen Gaunerwesens. Schade, daß sich originelle Köpfe nicht leicht entschließen werden, in die Fußstapfen eines Andern zu treten; wohl aber bliebe es wünschenswerth, daß sich Jemand der deutschen Zustände so bemächtigen könnte, wie Eugene Sue der französischen. Hat nicht am Ende auch </tei:seg>
+        <tei:ref type="esv" target="#annotation-64">Sue dem Boz nachgeahmt</tei:ref>
+        <tei:seg>, und Boz wieder die alten humoristischen Romane der vorigen Jahrhunderte? Mysterien von Berlin müßten grelle Schlaglichter auf Deutschlands sittliche, gesellschaftliche und intellectuelle Zustände fallen lassen, müßten die Fackel der Aufklärung nicht nur in die Kellergewölbe der Armuth und des Verbrechens tragen, sondern auch in die trübe Dämmersphäre der Schein- und Ueberbildung, der Lüge und der Heuchelei. Gehört nicht </tei:seg>
+        <tei:ref type="esv" target="#annotation-65">jener Heuchler</tei:ref>
+        <tei:seg>, der kürzlich um die Erlaubniß, eine Zeitschrift herausgeben zu dürfen, einkam und zur Bescheinigung seiner guten Gesinnung das Attest eines Predigers beibrachte, daß er drei Jahre das Abendmahl genossen, gehört dieser edle Charakter nicht in die </tei:seg>
         <tei:foreign>Mystères de Berlin</tei:foreign>
         <tei:seg>? Gehört unser jüdischer Commercienrath, der den christlichen Frühgottesdienst für Droschkenfuhrleute errichtete, nicht in die </tei:seg>
         <tei:foreign>Mystères de Berlin</tei:foreign>
-        <tei:seg>? Auf diesem Felde kann man trotz Eugene Sue noch sehr neu und selbstständig sein. Vielleicht macht sich ein talentvoller Kopf an eine Aufgabe, die schwer, aber dankbar ist.</tei:seg>
+        <tei:seg>? Auf diesem Felde kann man trotz Eugene Sue noch </tei:seg>
+        <tei:ref type="esv" target="#annotation-66">sehr neu und selbstständig</tei:ref>
+        <tei:seg> sein. Vielleicht macht sich ein talentvoller Kopf an eine Aufgabe, die schwer, aber dankbar ist.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Weltstadt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diese Bezeichnung ist im Vormärz noch unüblich für Berlin. Gutzkow stellt die preußische Residenzstadt damit neben die großen Metropolen Paris und London. Das macht deutlich, mit wie viel Enthusiasmus er den kulturellen, politischen und wirtschaftlichen Fortschritt seiner Vaterstadt begrüßt. Als Weltstädte galten zu dieser Zeit London mit fast 1,9 Millionen Einwohnern und Paris mit etwa 1,1 Millionen Einwohnern, Hauptstädte, die zudem blühende Industrie- und Handelsmetropolen waren. Davon war Berlin 1844 noch weit entfernt. Erst in den sechziger Jahren des 19. Jahrhunderts wird der Begriff „Weltstadt“ für Berlin immer häufiger bemüht, bleibt aber unter den Berlinern höchst umstritten. Adolf Streckfuß betitelt seine Geschichte Berlins fortschrittsbewusst 1863 mit „Vom Fischerdorf zur Weltstadt. Berlin seit 500 Jahren“ (4 Bde., Berlin, 1863-1865); Robert Springer veröffentlicht 1868 ›Kulturbilder‹ unter dem Titel „Berlin wird Weltstadt“ und David Kalisch schreibt schon 1866 eine viel gespielte Posse unter dem Titel „Haussegen, oder: Berlin wird Weltstadt“. Der angebliche „Weltstadtcharakter“ Berlins wurde zu dieser Zeit jedoch eher belacht. So erinnert sich Johannes Trojan: „Berlin war damals noch lange nicht die Weltstadt, die es heute ist, es wurde nur erst scherzweise so genannt.“ (Johannes Trojan: Erinnerungen. Berlin: Verl. d. Vereins d. Bücherfreunde, 1912, S. 20.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,3-4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">an Bewohnerzahl und Umfang unglaublich zugenommen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Berlins Bevölkerungszahl war von etwa 250.000 Einwohnern im Jahr 1830 auf über 320.000 Einwohner im Jahr 1840 gestiegen; bis 1850 wuchs ihre Zahl auf über 400.000. Damit nahm die Wohnungsnot zu, der man mit dem Ausbau ganz neuer Stadtteile (etwa der Luisenstadt im Süden Berlins) begegnen wollte.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">neuen Thoren</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Dazu gehörte das 1835/36 errichtete Neue Tor an der Invalidenstraße zur Belebung der Friedrich-Wilhelmstadt, eines neueren Stadtviertels im Nordwesten Berlins, sowie das 1840 eröffnete Anhalter Tor am Anhalter Bahnhof. Die Berliner Akzisemauer verlor erst 1860 ihre offizielle Funktion und wurde danach abgetragen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Nationalleben</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Damit assoziiert Gutzkow auch die Vorstellung, Berlin könne eine führende, zentrale Rolle in Deutschland übernehmen und eigne sich zur künftigen Hauptstadt einer geeinten (klein-)deutschen Nation.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Eisenbahnverkehr</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die erste Eisenbahnverbindung in Preußen war im Oktober 1838 zwischen Berlin und Potsdam in Betrieb genommen worden. Von da an entwickelte sich der Ausbau neuer Strecken durch private Eisenbahngesellschaften rasant. Die Bahnhöfe – ausnahmslos Kopfbahnhöfe – lagen fast alle außerhalb der Berliner Stadtmauer: Der Potsdamer Bahnhof (eröffnet 1838) vor dem Potsdamer Tor, der Anhalter (eröffnet 1841) vor dem Anhalter Tor, der Stettiner Bahnhof (eröffnet 1842) zwischen Oranienburger und Hamburger Tor. Nur der Frankfurter Bahnhof (nach Frankfurt/Oder, eröffnet 1842, später in Schlesischer Bahnhof umbenannt) lag im Südosten Berlins innerhalb der Stadtmauern; die Frankfurter Eisenbahn wurde nördlich des Stralower Tors durch die Stadtmauer geführt. Parallel zum Ausbau der Eisenbahnlinien nahm die Berliner Maschinenindustrie einen ungeahnten Aufschwung. Borsig machte sich 1837 in Berlin selbstständig, fertigte 1841 die erste Lokomotive und war bald führend in der Entwicklung und Herstellung von Lokomotiven. Bis 1846 hatte er in seiner Fabrik vor dem Oranienburger Tor schon 100 Lokomotiven bauen lassen. 1844 existierten in Berlin bereits 11 Maschinenfakriken mit knapp über 1000 Maschinenarbeitern. (Vgl.: Berlins Aufstieg zur Weltstadt. Ein Gedenkbuch hg. vom Verein Berliner Kaufleute und Industrieller. Berlin: Hobing, 1929. S. 325-328.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Leipzig, Magdeburg, die Ostsee</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Im September 1841 wurde die Berlin-Anhalter Bahn bis Köthen fertiggestellt. Köthen war der erste Eisenbahnknotenpunkt Deutschlands. Hier konnte man in die Magdeburg-Leipziger Eisenbahn umsteigen und so nach Magdeburg oder Leipzig gelangen. 1842 wurde die Strecke nach Frankfurt/Oder eröffnet, 1843 die nach Stettin und damit bis zur Ostsee.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">bald Hamburg und Schlesien</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Im September 1846 wurde der Betrieb der Schlesischen Bahn über Frankfurt/Oder bis nach Breslau, im Dezember 1846 der zwischen Berlin und Hamburg aufgenommen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">frühere kleinstädtische Geist</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diesen charakterisiert und entwickelt Gutzkow historisch elf Jahre zuvor in einer </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/korrespondenz-nachrichten.html">Korrespondenz</tei:ref>
+          <tei:seg> aus Berlin für das „Morgenblatt für gebildete Stände“ (abgedruckt auch in RABS, S. 78-82).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">1,27-28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Geist der Oeffentlichkeit</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Den Mangel an Öffentlichkeit, eine ungenügende Informationspolitik und sture Geheimniskrämerei des absolutistischen Staates gegenüber seinen Bürgern, hat Gutzkow (vor allem als Zeitungskorrespondent) früher mehrfach beklagt, so etwa in einem Brief an Cotta vom 25. Januar 1834: </tei:seg>
+          <tei:q>Berlin ist kein konstitutioneller Ort, wir haben in Verwaltungen und höherer Politik keine Oeffentlichkeit</tei:q>
+          <tei:seg> […]. (Proelß, S. 361).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,1-2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Zeit der Restauration in Paris</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Als Restaurationsepoche wird in Frankreich die Zeitspanne zwischen 1814 und 1830 bezeichnet, als nach dem Sturz Napoleons mit Ludwig XVIII. (1755-1824) die Herrschaft des Bourbonenhauses wiederhergestellt wurde. Die Julirevolution 1830 beendete die Regentschaft der Bourbonen. Gutzkow vergleicht damit Berlin und Preußen ausdrücklich nicht mit dem gegenwärtigen Frankreich unter dem ›Bürgerkönig‹ Louis Philippe, sondern mit dem absolutistischen Regime unter Ludwig XVIII. und seinem jüngeren Bruder Karl X. (1757-1836).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Der Katheder</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die maskuline Form ist im 19. Jahrhundert geläufig, das Wort vom gr. kathédra (Sitz, Stuhl) für Lehr- oder Rednerstuhl (Heyse 1848, S. 441) wird laut Grimm „bei uns […] mit allen drei geschlechtern gebraucht“ (Grimm, Bd. 11, Sp. 277). Bei Sanders werden nur die Genera Maskulinum und Neutrum angeführt (Sanders, Bd. 1, S. 877, Sp. 2). </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">öffentlichen Charakters</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Persönlichkeiten, die eine einflussreiche Stellung in der Gesellschaft einnehmen, und die so im Fokus des öffentlichen Interesses steht. Unter dem Titel </tei:seg>
+          <tei:q>Oeffentliche Charaktere</tei:q>
+          <tei:seg> präsentierte Gutzkow 1835 eine Gallerie bedeutender Zeitgenossen und popularisierte damit diesen Begriff. Er verwendet ihn erstmals wohl 1833 für berühmte Pariser Journalisten in seinem Beitrag </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/der-berliner-journalist.html">
+            <tei:q>Der Berliner Journalist</tei:q>
+          </tei:ref>
+          <tei:seg> (vgl. Anm. zu 1,9).  </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">alten Schule</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">der jungen</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ In Arbeit. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Salon</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der mit großen Erwartungen verbundene Thronwechsel in Preußen 1840 hatte das politische und kulturelle Leben Berlins stark verändert. Davon profitierten auch die Berliner bürgerliche Salonkultur, wie Petra Wilhelmy feststellt: „Nach dem ‚Tief‘ der Salons in der Mitte der 1830er Jahre gab es 1840 bereits wieder elf Salons in Berlin; 1845 waren es sogar schon vierzehn große Salons – mehr als doppelt so viele wie zehn Jahre zuvor. Es handelt sich um einen Höhepunkt der Salondichte in Berlin.“ (Petra Wilhelmy: Der Berliner Salon im 19. Jahrhundert (1780-1914). Berlin, New York: de Gruyter, 1989. S. 166-167.) Als „in politischer Hinsicht ‚liberal‘ ausgerichtete Salons“ (S. 152) nennt Wilhelmy diejenigen von Henriette Solmar, Bettina von Arnim, Clara Mundt-Mühlbach (hier verkehrte auch Gutzkow) sowie Elisa Gräfin von Ahlefeld.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Salons im französischen Wortsinne</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Plural „salons“ bedeutet im Französischen die ›vornehme Welt‹, die ›feine Gesellschaft‹. Um die ›feine Gesellschaft‹ in einem Salon zu binden und zu unterhalten, war ein nicht unerheblicher Aufwand an äußerer Eleganz und Luxus nötig. Der Berliner Salon in seiner klassischen Zeit (etwa 1800 bis 1830) hatte sich dagegen durch Schlichtheit und bescheidene Behaglichkeit ausgezeichnet. Er war berühmt für seine dünnen Tees und die dazu gereichten Butterbrote. Möglicherweise denkt Gutzkow aber auch an die politischen Salons, die es in Paris gegeben hatte und gab, während ein Salon in Deutschland vornehmlich als ein literarisch-künstlerisch ambitionierter Kreis verstanden wurde.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Dinstag</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diese Schreibung kommt, soweit sich das überblicken lässt, bei Gutzkow nicht vor, ist im 19. Jahrhundert aber noch geläufig. 1876 wird sie von August Schmits, dem Chefredakteur der „Kölnischen Zeitung“, ausdrücklich verteidigt. Schmits argumentiert etymologisch und auf phonetischer Grundlage (Aussprache mit kurzem i) und fügt hinzu: „Nun hat unsere Schreibung </tei:seg>
+          <tei:hi style="letter-sparse">Dinstag</tei:hi>
+          <tei:seg> ausser ihrer Richtigkeit auch den Vortheil, dass sie die erwähnte, so gefährlich nahe-liegende Irrdeutung als Dienst-tag, gleich Frohntag, ausschliesst“ (August Schmits: Ueber Rechtschreibung und Druckschrift. Köln: DuMont-Schauberg, 1876, S. 55-57; Zitat S. 56).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">von Savigny</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Friedrich Carl von Savigny (1779-1861), konservativer Jurist, Professor an der Berliner Universität und Begründer der Historischen Rechtsschule, war von März 1842 bis März 1848 preußischer Justizminister („Minister für Revision der Gesetzgebung“). Savigny war mit Kunigunde Brentano verheiratet, der Schwester Bettina von Arnims.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">2,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">grimm’schen Erklärung</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Am 24. Februar 1844 hatten Berliner Studenten während eines Fackelzuges für die Brüder Grimm auch Hochrufe auf den zufällig dort anwesenden Hoffmann von Fallersleben ausgebracht. Dieser wurde daraufhin aus Berlin ausgewiesen. Am 6. März 1844 distanzierten sich in der „Allgemeinen Preußischen Zeitung“ Jakob und Wilhelm Grimm von den Hochrufen auf ihren mit Berufsverbot belegten Breslauer Kollegen. Der Vorfall erregte in der Öffentlichkeit erhebliches Aufsehen. (Vgl. [Heinrich] Hoffmann von Fallersleben: Mein Leben. Aufzeichnungen und Erinnerungen. Hannover: Rümpler, 1868. Bd. 4, S. 118-138; hier ist auf S. 125-126 auch die Erklärung der Grimms nachgedruckt.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:foreign>D.</tei:foreign>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Abkürzung für den Doktortitel</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Mundt</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Theodor Mundt (→ Lexikon) hatte seinen ursprünglichen Berufswunsch, Professor an einer preußischen Universität zu werden, nicht realisieren können. 1835 gehörte er als ›Jungdeutscher‹ zu den vom Deutschen Bundestag offiziell Verfemten, sein Habilitationsverfahren war schon im Frühjahr 1835 wegen der Herausgabe seines Romans „Madonna“ abgebrochen worden. Nachdem 1842 in Preußen die Sonderzensur gegen die Mitglieder des Jungen Deutschlands aufgehoben worden war, bekam Mundt, vermittelt durch Gönner wie Schelling und nachdem er beteuert hatte, sich künftig loyal zu verhalten, eine Privatdozentur an der Berliner Universität. Zusätzlich bestritt er in Berlin öffentliche Vorlesungsreihen zu kulturellen, historischen und sozialen Fragen der Gegenwart.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,2-3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Vorlesungen über die Gesellschaftsfrage unserer Zeit</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die Vorlesung fand am 29. März 1844 statt und war die letzte eines Zyklus von zwölf Vorträgen Mundts über das Wesen und die historische Entwicklung der modernen Gesellschaft. Sie trug den Titel: „Schlußbetrachtung der englischen, französischen und deutschen Gesellschaft“ (Ankündigung der Vorlesung in: Königlich privilegirte Berlinische Zeitung von Staats- und gelehrten Sachen. Berlin. Nr. 75, 28. März 1844, 1. Beilage). Mundt verarbeitete die Vorlesungen 1844 zu seinem Buch „Die Geschichte der Gesellschaft in ihren neueren Entwickelungen und Problemen“ (Berlin: Simion, 1844). Gutzkows Interesse galt sowohl dem Gegenstand des Vortrags als auch dem Vortragenden selbst. Nach heftigen publizistischen Scharmützeln mit Mundt Ende der dreißiger Jahre hatte er sich mit diesem wieder versöhnt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">jagor’schen Hauses</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das nach seinem Eigentümer, dem ›Königlichen Hoftraiteur‹ Johann Jagor benannte Haus befand sich Unter den Linden 23 und beherbergte eines der vornehmsten Restaurants Berlin. Für die Vorlesungen wurde ein größerer Gesellschaftssaal im Haus genutzt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Vorträge von Edgar Quinet</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der französische Schriftsteller und Historiker Edgar Quinet (1803-1875) lehrte am Collège de France und war hier vornehmlich für südeuropäische Literaturen zuständig. Im April 1842 besuchte Gutzkow eine seiner Vorlesungen und schrieb ausführlich über Quinet in seinen </tei:seg>
+          <tei:q>Briefen aus Paris</tei:q>
+          <tei:seg> (Leipzig: Brockhaus, 1842. Bd. 2, S. 149-152). Über dessen Vortragsstil heißt es hier: </tei:seg>
+          <tei:q>Er docirte auf Effekt. Er bereitete seine Applause wie ein Schauspieler vor, und wenn sie, wie der deutsche Schauspieler sagt, „gefallen“ waren, trank er ruhig sein Zuckerwasser, wie ein Deputirter.</tei:q>
+          <tei:seg> […] </tei:seg>
+          <tei:q>An Quinet’s Vortrag ist das falsche Pathos sehr störend. Er redet nicht, er predigt.</tei:q>
+          <tei:seg> […] </tei:seg>
+          <tei:q>Die großen oratorischen Manieren beim jedesmaligen verlegenen Räuspern und Steckenbleiben im Fluß der Worte bildeten einen komischen Contrast. Zuweilen hebt er seine Hand in die Luft, holt mit einem ungeheuren Redegestus aus und kann das Wort nicht finden, das dieser Gestus erhöhen sollte.</tei:q>
+          <tei:seg> (Bd. 2, S. 150-151).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">College de France</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Collège de France wurde 1529 unabhängig von der Pariser Universität als „Institut für philologische Studien (Collegium trium linguarum) in Paris“ (Meyer, Bd. 4, S. 225) gegründet und besteht als prestigeträchtige wissenschaftliche Einrichtung Frankreichs noch heute. Gutzkow hörte dort im Frühjahr 1842 auch eine Vorlesung des französischen Literaturkritikers und Journalisten Philarète Chasles. Diese Paris-Assoziationen (Quinet, Collège de France) unterstreichen Gutzkows optimistisches Bild von einer </tei:seg>
+          <tei:q>Weltstadt</tei:q>
+          <tei:seg> Berlin.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Anakoluthen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Grammatikalisch unkorrekte, folgewidrige Satzkonstruktion, wie sie vor allem in der freien Rede vorkommen kann. Das Anakoluth (gr. Satzbruch) „gilt als grammatisch-rhetorischer Terminus technicus für eine sprachliche ‚Konstruktionsentgleisung‘ oder, wenn man die darin enthaltene Negativwertung vermeiden will, für ‚inkonsequenten Satzbau‘.“ (W. Sanders: Anakoluth. In: HWRh, Bd. 1, Sp. 485-495, Zitat Sp. 485.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">3,29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pauperismus</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Die starke Landflucht und beginnende Industrialisierung in den Städten hatten Ende des 18. bzw. zu Beginn des 19. Jahrhunderts bis dahin nicht gekannte, krasse Auswüchse von Ausbeutung und Massenverelendung, Überbevölkerung, chronischer Arbeitslosigkeit und Wohnungsnot herbeigeführt. Bislang hatte es das Armenwesen der Städte und Gemeinden mit „einzelnen Arme(n)“ zu tun, „die durch Zufälligkeiten ihre Erwerbsmittel verloren“. Nun traten „Arme in Massen“ auf, „die durch äußere Zeitverhältnisse gehindert werden, ihren Unterhalt, wie sie wollen, zu verdienen. […] Die neure polit. Oekonomie beschäftigt sich mit Recht viel mit ihnen u. hat ein eignes Wort, Pauperismus (Dürftigkeit in Masse), erfunden, um den Zustand dieser Armen zu bezeichnen.“ (Pierer 1840-46, Bd. 2, S. 365, Stichwort ›Armenwesen‹.) Heyses Fremdwörterbuch bemerkt bei dem Begriff, es handele sich „um ein neugemachtes Wort französischer Erfindung“ (Heyse 1848, S. 593), Otto Ladendorf zufolge kommt das Wort „Anfang der vierziger Jahre des 19. Jahrhunderts“ auf (Ladendorf, 237). Bei Gutzkow findet es sich schon 1838 in seinem Roman </tei:seg>
+          <tei:q>Blasedow und seine Söhne</tei:q>
+          <tei:seg>, wo ein als Projectenmacher (Bd. 1, S. 254) charakterisierter Graf auch Pläne zur Armutsbekämpfung entwickelt: </tei:seg>
+          <tei:q>Diese Armencolonien sind das einzige Mittel, den einreißenden Pauperismus zu heben und eine ungefähre Gleichheit im Volke herzustellen.</tei:q>
+          <tei:seg> (Karl Gutzkow: Blasedow und seine Söhne. Bd. 1. Stuttgart: Verl. der Classiker, 1838, S. 258.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Owen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Robert Owen (1771-1858), brit. Baumwollfabrikant, Sozialreformer, verbesserte die soziale Lage seiner Arbeiter u.a. durch Schaffung von musterhaften Wohnsiedlungen, Verringerung der Arbeitszeit, gerechtere Entlohnung, Verbot der Beschäftigung von Kindern unter zehn Jahren, Verkauf von Lebensmitteln zum Selbstkostenpreis usw., um damit die Produktion effizienter zu gestalten; entwickelte sich später zum Vertreter frühkommunistischer Ideen, für die er unermüdlich warb. Mundt behandelt Owen auch am Schluss seiner „Geschichte der Gesellschaft in ihren neueren Entwickelungen und Problemen“ (Berlin: Simion, 1844. S. 419-425). </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Canevas</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Hier in der Bedeutung von Grundriss, Plan, erster Entwurf eines Werkes (Heyse 1848, S. 123).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-30">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">4,32-33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">jene welt- und gottweise Philosophie</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Anspielung auf die (in Berlin noch maßgebliche) Philosophie Hegels sowie seiner junghegelianischen Jünger, mit denen Gutzkow entzweit war.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-31">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">5,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Theodor Döring’s</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Theodor Döring (1803-1878; → </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/doering.html">Lexikon</tei:ref>
+          <tei:seg>) war seit 1843 am Hoftheater in Hannover tätig. Sein innigster Wunsch, an das Königliche Schauspielhaus nach Berlin berufen zu werden, wurde von Gutzkow nachdrücklich unterstützt. Diesem Ziel diente auch das Berliner Gastspiel Dörings im Frühjahr 1844, das er mit Bravour und großem Beifall absolvierte. 1845 wurde er als Nachfolger Seydelmanns am Berliner Hoftheater angestellt </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-32">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">5,18-19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in Mannheim</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Döring war von 1833 bis Anfang 1836 am Mannheimer Nationaltheater engagiert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-33">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">6,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">L. Devrient</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Berliner Schauspieler Ludwig Devrient (1784-1832), von 1815 bis zu seinem Tod am Berliner Schauspielhaus engagiert, einer der bedeutendsten und erfolgreichsten Mimen des 19. Jahrhunderts.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-34">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">6,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Seydelmann</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Karl Seydelmann (1793-1843), mit Gutzkow seit gemeinsamen Stuttgarter Zeiten befreundet, wurde 1839 Mitglied der königlichen Bühne in Berlin; der gefeierte Schauspieler war am 17. März 1843 hier gestorben. (→ Lexikon)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-35">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Daguerreotyp-Bild</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der französische Maler Louis Daguerre (1787-1851) entwickelte in den 1830er Jahren erstmals ein Verfahren, Lichtbilder herzustellen und seriell zu reproduzieren. 1839 trat er damit an die Öffentlichkeit. Diese frühen Photographien wurden nach ihrem Entdecker und seinem technischen Verfahren ›Daguerreotypien‹ genannt. Die Entdeckung hatte weitreichende Folgen für die Kultur und das künstlerische Selbstverständnis. Eine derart ›ungefilterte‹, bloße Wiedergabe der Wirklichkeit durch Daguerreotypien galt vielen Zeitgenossen als ›unkünstlerisch‹.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-36">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Hogarth’s Theorie</tei:citedRange>
+          <tei:seg>]  </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der englische Kupferstecher und Maler William Hogarth (1697-1764), berühmt geworden durch seine realistischen Zeichnungen aus dem sozialen Leben („moral subjects“, Sittenbilder), Schöpfer der englischen Karikatur, legte seine theoretischen Anschauungen in einem Buch „The Analysis of Beauty“ (1753) nieder. In der </tei:seg>
+          <tei:q>Vorrede</tei:q>
+          <tei:seg> zu Le Petits „Ausführliche Erklärung der Hogarthischen Kupferstiche“ (Göttingen: Dieterich, 1835; Rasch 4.35.2) geht Gutzkow ausführlicher auf das Werk und Hogarths ästhetische Anschauungen ein.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-44">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,4-5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">den Heiland nicht anders malen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In Hogarths „The Analysis of Beauty“ findet sich diese Äußerung nicht. Näheres nicht ermittelt..</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-37">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Charon</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In der griechischen Mythologie der Fährmann der Unterwelt, ein alter, mürrischer Diener des Pluto (Gott der Totenwelt), der am Höllenfluß Wache hält und gegen ein Geldstück (obolus)  die Seelen der Verstorbenen in die Unterwelt übersetzt.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-38">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Acheron</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In der griechischen Mythologie einer der fünf Flüsse der Unterwelt, in den die anderen vier Flüsse münden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-39">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">7,11-12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">dünne Beine</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow bezieht sich auf eine Stelle, die im Original lautet: „Watermen [...] are of a distinct cast, or character, whose legs are no less remarkable for their smallness: for as there is naturally the greatest call for nutriment to the parts that are most exercised, so of course these that lie so much stretched out, are apt to dwindle, or not to grow to their full size. There is scarcely a waterman that rows upon the Thames, whose figure doth not confirm this observation. Therefore were I to paint the character of a Charon, I would thus distinguish his make from that of a common man’s; and, in spite of the word low, venture to give him a broad pair of shoulders, and spindle shanks, whether I had the authority of an antique statue, or basso-relievo, for it or not.“ (William Hogarth: The Analysis of Beauty. Written with a View of Fixing the Fluctuating Ideas of Taste. London: Scholey, 1810. (unpaginiert) [S. 65-66]. Auch in seiner </tei:seg>
+          <tei:q>Vorrede</tei:q>
+          <tei:seg> zu Le Petits „Ausführliche Erklärung der Hogarthischen Kupferstiche“ (Göttingen: Dieterich, 1835, S. XIII) erwähnt Gutzkow dieses Beispiel.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-40">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,1-2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">deutschen Intelligenz-Hauptstadt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Zum Topos von Berlin als einer ›Hauptstadt der Intelligenz‹ → </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/eine-woche-in-berlin.html">Eine Woche in Berlin</tei:ref>
+          <tei:seg> (1854), Erl. zu </tei:seg>
+          <tei:hi style="font-weight-bold">1,20</tei:hi>
+          <tei:seg>.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-41">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,8-9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Frühgottesdienstes für Droschkenfuhrleute</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow bezieht sich vermutlich auf eine Meldung in der „Königlich privilegirten Berlinischen Zeitung von Staats- und gelehrten Sachen“ (Vossische Zeitung), die am Tag seiner Ankunft in Berlin zu lesen war. In einer Korrespondenz aus „Berlin, den 24. März“ heißt es: „Noch in der Schwebe sind die Verhandlungen über Einrichtung eines Frühgottesdienstes für die hiesigen </tei:seg>
+          <tei:hi style="letter-sparse">Droschkenkutsche</tei:hi>
+          <tei:seg>r, zu welcher der Unternehmer einer der bestehenden Droschken-Anstalten bereitwillig die Hand geboten hat.“ (Königlich privilegirte Berlinische Zeitung von Staats- und gelehrten Sachen. Berlin. Nr. 76, 29. März 1844.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-42">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,11-12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Besitzer der Haupt-Droschkenanstalt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Bankier und ehemalige Heereslieferant Israel Moses Henoch (1770-1844, bis 1820: Henochsohn). Henoch hatte um 1815 mit dem jüdischen Pferdehändler Alexi Mortgen (später: Mortier) in Berlin eine Droschkenanstalt gegründet. „Die Henochsche Anstalt […] stand 1840 mit etwa 200 Droschken an der Spitze der Berliner Nahverkehrsbetriebe.“ (Ribbe, Bd. 1, S. 514.) Henoch, im Berlin Volksmund „Droschken-Henoch“ genannt, gilt auch als Stifter der ersten Omnibuslinie durch Berlin: „1839 erwirkte er die Erlaubnis, vor dem Potsdamer Bahnhof drei geräumige Wagen aufzustellen, mit denen sich die ankommenden Passagiere für zwei Silbergroschen zum Alexanderplatz befördern lassen konnten. Man wird diese Gefährte als die ersten ‚Omnibusse‘ Berlins ansehen dürfen, weil sie fahrplanorientiert und billiger als alle anderen Fahrzeuge waren.“ (Ribbe, Bd. 1, S. 514.) Henoch war sehr wohlhabend, kaufte ein Rittergut in Gleißen (Neumark, heute (poln.) Glisno), ließ dort eine Seidenfabrik einrichten und nach Plänen Karl Friedrich Schinkels eine christliche Kirche bauen. (Vgl. dazu die Notiz in der „Kleinen Chronik“ des „Telegraph für Deutschland“, Nr. 101, Juni 1838, S. 808.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-43">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ueberchristenthum</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Ausdruck für eine besonders strenge Auslegung und Praxis christlicher Religionsausübung. In diesem Sinne findet sich der Begriff schon bei Jean Paul, der in seinem Spätwerk „an einer Streitschrift mit dem Titel ‚Überchristentum. Gegen Kanne‘ [arbeitete], die – wie Eduard Berend festhält – als eine Reaktion auf die ‚Übertreibungen eines engherzig-dogmatischen ‚Überchristentums‘‘ zu verstehen ist.“ (Jadwiga Kita-Huber: Jean Paul und das Buch der Bücher – Zur Poetisierung biblischer Metaphern, Texte und Kontexte. Hildesheim, Zürich. New York: Olms, 2015. S. 85.) Sanders nennt in seinem Wörterbuch den Ausdruck „Überchristen“ für Personen „mit äußerlicher, übertriebener Frömmigkeit“ (Sanders, Bd. 1, S. 255, Sp. 1).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-45">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">den Sonntag heiligen sie nicht</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das bezog sich freilich nicht nur auf die Droschkenkutscher. In der jüdisch-christlichen Tradition sind Sabbat bzw. Sonntag heilig. Die Heilighaltung des Sonntags und das Arbeitsverbot an diesem Tag werden in den zehn Geboten festgeschrieben (vgl. 2. Mose, 20, 8-10). Mit der fortschreitenden Industrialisierung und wachsenden Mobilität im 19. Jahrhundert wurde diese traditionelle Alltagsordnung immer stärker aufgeweicht. Kirche und Staat versuchten dem entgegenzusteuern. Unter dem Schutz Friedrich Wilhelms IV. machten sich seit Beginn der 1840er Jahre in Berlin religiöse Eiferer für die Einhaltung der Sonntagsruhe stark. „Auch eine strenge Sonntagsfeier nach englischem Muster suchten die frommen Geistlichen in Berlin zur Durchführung zu bringen […]. Alle Verkaufsläden und Vergnügungslokale sollten Sonntags nicht nur während der Predigt, sondern während des ganzen Tages geschlossen sein, damit der Tag des Herrn nur der beschaulichen Muße, dem Gottesdienste und Gebet gewidmet werden könne.“ (Adolf Streckfuß: 500 Jahre Berliner Geschichte. Vom Fischerdorf zur Weltstadt. 3. Aufl. Berlin: Brigl, 1880, Bd. 2, S. 902.) Zur Durchsetzung dieser Ziele bildete sich 1841 ein „Hauptverein zur Beförderung einer würdigen Sonntagsfeier“. Allerdings stießen die staatlichen Bemühungen, den Forderungen orthodoxer Kirchenkreise gerecht zu werden, auf Grenzen; „die längst bestehenden Vorschriften über die Sonntagsfeier, das Verbot, die Verkaufs-Lokalitäten während des Gottesdienstes offen zu halten, wurden zwar auf’s Neue eingeschärft und mit größerer Strenge als bisher durchgeführt, weiter aber wagte die Regierung doch nicht zu gehen, denn sie fühlte, daß sie sonst bei dem gesammten Volk, selbst bei ihren eigenen Beamten auf Widerstand stoßen würde.“ (Streckfuß, Bd. 2, S. 902.) .) Der Kampf um die ›Sonntagsfeier‹ blieb in Berlin ein Dauerbrenner, vgl. auch den Stellenkommentar zu </tei:seg>
+          <tei:hi style="font-weight-bold">15,25</tei:hi>
+          <tei:seg> von </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/eine-woche-in-berlin.html">
+            <tei:q>Eine Woche in Berlin</tei:q>
+          </tei:ref>
+          <tei:seg>.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-46">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">8,23-24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in England oder Pennsylvanien</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Länder mit starkem Einfluss fundamentalistischer christlicher Glaubensgruppen auf das gesellschaftliche Leben. In England waren es die antianglikanischen, sogenannten nonkonformistischen Sekten (Presbyterianer, Baptisten, Methodisten, Congregationalisten, Quäker, Unitarier u. a.), in Pennsylvania, einem im 17. Jahrhundert von Quäkern gegründeten Staat im Nordosten der USA, neben Quäkern u. a. Baptisten, Methodisten, Deutschreformierte und Episkopale.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-47">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">9,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">eines Commercienrathes</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Henoch war 1836 amtlicherseits der Ehrentitel eines ‚Geheimen Kommerzienrates‘ verliehen worden (Ribbe, Bd. 1, S. 514).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-67">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">10,3-4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">dann muß man selbst gegen so an sich ehrenwerthe Aeußerungen des überchristlichen Sinnes kalt werden</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Diese Gedanken entwickelt Gutzkow einige Jahre später in seinem kritischen Essay </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/verstreute-schriften-zur-geschichte-und-politik/ueber-innere-mission.html">
+            <tei:q>Ueber Innere Mission</tei:q>
+          </tei:ref>
+          <tei:seg> (1850) weiter. Der Terminus ›Innere Mission‹ war 1844 noch nicht geläufig. Vgl. auch den Stellenkommentar zu </tei:seg>
+          <tei:hi style="font-weight-bold">15,26</tei:hi>
+          <tei:seg> von </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/eine-woche-in-berlin.html">
+            <tei:q>Eine Woche in Berlin</tei:q>
+          </tei:ref>
+          <tei:seg>.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-48">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">10,12</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Magdalenenstift zur Rettung gefallener Mädchen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das Magdalenenstift, benannt nach der ›Sünderin‹ Maria Magdalena im Neuen Testament, die sich zu Jesus bekennt, war eine 1841 gegründete kirchliche Erziehungsanstalt für ›gefallene Mädchen‹ und befand sich seit 1843 außerhalb der Stadt, in einem Haus in Alt-Moabit. Die Anregung zu einer ›Besserungsanstalt‹ für straffällig gewordene Frauen, Mädchen und Prostituierte war 1840 von zwei Vertreterinnen der Oberschicht, der stark pietistisch beeinflußten Prinzessin Marianne von Preußen (1785-1846) und der Gräfin Karoline von Bohlen (1798-1858), ausgegangen. (Vgl. Friedrich Gustav Lisco: Das wohlthätige Berlin. Geschichtlich-statistische Nachrichten ueber die Wohlthätigkeits-Uebung Berlin’s. Berlin: G. W. F. Müller, 1846. S. 36-38.) </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-49">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">10,24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">carthäuserartige</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Kartäuser sind Angehörige eines katholischen kontemplativen Einsiedlerordens, der 1084 von Bruno von Köln bei Grenoble gegründet wurde. Sie leben innerhalb von Klöstern in kleinen Einzelhäusern und unterliegen einem strengen Schweigeverbot.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-50">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">11,15-16</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Streben unserer Zeit nach „Glückseligkeit und Vergnügen“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Im 34. Kapitel von Mundts Buch über die „Geschichte der Gesellschaft“ heißt es im Zusammenhang mit dem arbeitsfreien Sonntag: „Der Drang nach Vergnügen, welcher das heutige Volksleben allerdings immer stärker durchzieht, er ist in seinem Innersten nichts als der Drang nach Glück, der Drang, die höchste Bestimmung der menschlichen Natur zu erreichen.“ (Theodor Mundt: Die Geschichte der Gesellschaft in ihren neueren Entwickelungen und Problemen. Berlin: Simion, 1844. S. 413.) Diese Sentenz findet sich fast wörtlich auch in Mundts Roman „Carmela oder die Wiedertaufe“ (Hannover: Kius, 1844. S. 218).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-51">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">11,28</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Zettel beklebt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Das exzessive wilde Plakatieren an Mauern und Hauswänden wurde von vielen Berlinern als Stadtverschandelung empfunden und führte 1855 zum Aufstellen von zunächst 150 „Annoncir-Säulen“, die nach ihrem ›Erfinder‹, dem Berliner Buchdrucker Ernst Litfaß, Litfaßsäulen genannt wurden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-52">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">12,5-6</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">im Anhange ihres Königsbuches</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>In ihrem 1843 erschienenen Werk „Dies Buch gehört dem König“ hatte Bettina von Arnim scharfe Kritik an den politischen und sozialen Verhältnissen der Gegenwart geäußert. Der Schweizer Student und spätere Pädagoge Heinrich Grunholzer (1819-1873) hatte im Auftrag Bettina von Arnims im Vogtland, einem verrufenen Armenviertel vor den Toren Berlins, recherchiert und seine Erfahrungen und Erlebnisse in den Elendsquartieren protokolliert. Diese lebensnahe und bewegende Sozialreportage erschien unter dem Titel „Erfahrungen eines jungen Schweizers im Vogtland“ als Anhang in „Dies Buch gehört dem König“ und erregte beim Lesepublikum großes Aufsehen. Auch Gutzkow geht 1843 in seiner Rezension des Buches (</tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/rezensionen-und-literaturkritische-essays/diese-kritik-gehoert-bettinen.html">
+            <tei:q>Diese Kritik gehört Bettinen</tei:q>
+          </tei:ref>
+          <tei:seg>) näher darauf ein. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-53">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">12,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">kroll’sche Etablissement</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Breslauer Gastronom Joseph Kroll (1797-1848) ließ 1843 im Berliner Tiergarten einen Vergnügungspalast errichten, der an Eleganz, Größe und Ausstattung alle bisherigen Amüsierstätten Berlins weit übertraf (→ Lexikon  </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kroll.html">Krolls Etablissement</tei:ref>
+          <tei:seg>.) Am 15. Februar 1844, also nur einige Wochen vor Gutzkows Berlin-Besuch, hatte die festliche Eröffnung des Hauses stattgefunden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-54">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">12,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>mal à propos</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Frz.: zur Unzeit, ungelegen (Heyse 1848, S. 660, Stichwort ›proponiren‹).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-55">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">12,23</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Exercirplatz</tei:hi>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Am nordöstlichen Rand des Tiergartens, unweit des Brandenburger Tors, war um 1730 vom ›Soldatenkönig‹ Friedrich Wilhelm I. ein großer Exerzierplatz angelegt worden. Er bildete eine öde Sandfläche, die von den Berlinern spöttisch als </tei:seg>
+          <tei:q>Sandwüste Sahara</tei:q>
+          <tei:seg> (12,22) bezeichnet wurde. König Friedrich Wilhelm IV. forcierte seit Beginn seiner Regentschaft die Umwandlung des versandeten, bei Regen schlammigen Areals in eine gepflegte Grünanlage. Schon im März 1842 hatte er dem Grafen Athanasius Raczynski einen Baugrund am östlichen Rand des Platzes zur Verfügung gestellt, wo der Graf zwischen 1842 und 1844 ein geräumiges Palais für seine große Kunstsammlung errichten ließ; es musste später dem Bau des Reichstagsgebäudes weichen. Gegenüber, am westlichen Rand des Platzes, war 1843 der Krollsche Vergnügungspalast entstanden. Gutzkow trifft im März oder April 1844 noch nicht auf die verschönerte Anlage, sondern auf einen Ort, der offensichtlich noch ganz von der Großbaustelle geprägt ist. (1865 wurde der Exerzierplatz in Königsplatz umbenannt, 1926 in Platz der Republik.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-56">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">12,33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Draperieen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Kunstvoll gefaltete, herabhängende Stoffe, abgeleitet von ›drap‹ (frz.), Tuch, gewebter Stoff (Heyse 1859, S. 286).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-57">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„Tunnel“</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der „Tunnel-Saal“ im Krollschen Etablissement lag unter dem Haupt- bzw. Königssaal. „Diesem Tunnel schlossen sich weitere Restaurationpartien an, in denen allein (!!) zu rauchen und Bier zu trinken erlaubt war.“ (Hans J. Reichardt: … bei Kroll 1844 bis 1957. Etablissement, Ausstellungen, Theater, Konzerte, Oper, Reichstag, Gartenlokal. Berlin: Transit Buchverl., 1988, S. 12.) Der „Tunnel“ ist Schauplatz einzelner Szenen im Roman </tei:seg>
+          <tei:q>Die Ritter vom Geiste</tei:q>
+          <tei:seg> (4. Buch, 9. Kapitel), wird hier von zweifelhaften Elementen frequentiert und von Polizeispitzeln überwacht (vgl. RvGN, S. 1313ff.) (→ Lexikon  </tei:seg>
+          <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kroll.html">Krolls Etablissement</tei:ref>
+          <tei:seg>.) </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-58">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,13</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Mystères de Paris</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der gleichnamige Roman von Eugène Sue , von Juni 1842 bis Oktober 1843 fortsetzungsweise in der Pariser Tageszeitung „Le Journal des Débats“ erschienen, hatte ungeheures Aufsehen erregt und wurde ein literarischer Welterfolg. In Deutschland erschien er sofort in mehreren Parallelübersetzungen und rief eine Flut von Nachahmern hervor, die ihrerseits Mysterien bzw. Geheimnisse von Berlin, Wien, Hamburg, Altenburg, Königsberg usw. verfassten. Sues Einfluß auf die Entwicklung des sozialen Romans in Deutschland war enorm. Auch Fontane rechnet noch 1889 Sues Romane „Die Geheimnisse von Paris“ zu den besten Büchern überhaupt (NFA, Bd. 21/1, S. 497). Über Sues Wirkung und seinen Einfluß auf den sozialen Roman im Vormärz vgl. Erich Edlers gründliche Studie „Die Anfänge des sozialen Romans und der sozialen Novelle in Deutschland“ (Frankfurt/M.: Klostermann, 1977).</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-59">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,14</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Tapis Franc</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Sues Roman beginnt mit einem Kapitel „Die Freischenke“, einer Kaschemme in der schmutzigen und verrufenen Altstadt von Paris. In einer zeitgenössischen Übertragung heißt es: „</tei:seg>
+          <tei:hi style="letter-sparse">Penn</tei:hi>
+          <tei:seg>e, </tei:seg>
+          <tei:hi style="letter-sparse">Freischenke</tei:hi>
+          <tei:seg> – </tei:seg>
+          <tei:foreign>Tapis-franc</tei:foreign>
+          <tei:seg> – heißt im Rothwelsch der französischen Gauner und Spitzbuben ein Wirthshaus oder Kneipe der niedrigsten Art. Ein entlassener Sträfling, in jener Sprache der Verworfenheit gemeinhin </tei:seg>
+          <tei:foreign>Ogre</tei:foreign>
+          <tei:seg> – Menschenfresser, Ungeheuer – genannt, oder ein Weibsbild von derselben sittlichen Stufe, die Ogresse, stehen gewöhnlich einer solchen Taverne vor […].“ (Eugen Sue: Pariser Mysterien. Ein Sittengemälde aus der neuesten Zeit. Deutsch bearb. von Erwin von Moosthal. Stuttgart: Franckh, 1843, 1.-3. Theil, S. 5.) Gutzkow las Sues Roman vollständig erst im August 1844 während einer Sommerreise, wie er an seinen Verleger J. J. Weber am 4. September 1844 schreibt: </tei:seg>
+          <tei:q>Auf der Reise haben mich die Mystères de Paris, die ich erst jetzt gelesen habe, sehr angeregt. Könnte man sich</tei:q>
+          <tei:seg> […] </tei:seg>
+          <tei:q>eine so grosse Entschädigung der Mühe träumen, wie Sue sie gefunden,</tei:q>
+          <tei:seg> […] </tei:seg>
+          <tei:q>schriebe</tei:q>
+          <tei:seg> [ich] </tei:seg>
+          <tei:q>etwas wie Deutsche Mysterien.</tei:q>
+          <tei:seg> (Universitätsbibliothek Johann Christian Senckenberg Frankfurt/M., Nachlass Gutzkow, Sign. A.2.I/44,244, maschA.)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-60">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Gedruckt schon eine große Anzahl</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>1844 erschienen in Berlin drei Romane, die Sues „Geheimnisse von Paris“ auf Berliner Verhältnisse übertrugen und sich eng an ihr Vorbild anlehnten: „Die Mysterien von Berlin“ (5 Bde., 1844) von August Braß, „Die Geheimnisse von Berlin. Aus den Papieren eines Berliner Kriminalbeamten“ (anon., 6 Bde., 1844 ) und die „Mysterien von Berlin“ von (12 Bde., 1844-45) von L. Schubar.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-61">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,18</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schubar</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Rudolf Lubarsch (1807-1883), ein produktiver Romancier und Journalist, schrieb unter dem Pseudonym L. Schubar und lebte von 1839 bis 1872 in Berlin; ein zweiter, unveränderter Abdruck der „Mysterien von Berlin“ erschien offenbar sogleich im Anschluß an die erste Ausgabe 1844/45; eine dritte Auflage lässt sich bibliographisch nicht nachweisen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-62">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,19-20</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Merker’s Beiträgen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Der Berliner Polizeirat Johann Friedrich Carl Merker (1775-1842) gab seit 1823 die Zeitschrift „Beiträge zur Erleichterung des Gelingens der praktischen Polizei“ heraus, die bis 1846 erschien und dann als „Berliner Polizei- und Criminal-Zeitung“ bis 1848 fortgesetzt wurde. Sie enthält u.a. die Schilderung zahlreicher Kriminalfälle.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-63">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,20-21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Thiele’s Schlüsseln</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Werk des preußischen Justizbeamten A. F. Thiele: Die jüdischen Gauner in Deutschland, ihre Taktik, ihre Eigenthümlichkeiten und ihre Sprache, nebst ausführlichen Nachrichten über die in Deutschland und an dessen Grenzen sich aufhaltenden berüchtigsten jüdischen Gauner. 2 Bde. Berlin: Selbstverl., 1841-1843.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-64">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,26</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Sue dem Boz nachgeahmt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Gutzkow dürfte dabei vor allem an den Roman „Oliver Twist“ (1837/38) von Charles Dickens (Pseudonym: Boz) denken, in dem am Beispiel der Geschichte eines Waisenkindes Armut und Ausbeutung, soziales Elend und Verwahrlosung, Brutalität und Verbrechen, Gaunerspelunken und Elendsquartiere im frühindustrialisierten England mit großer realistischer Treue geschildert werden.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-65">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">13,33</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">jener Heuchler</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>▄ Nicht ermittelt. ▀</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-66">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:citedRange type="page-line-ref">14,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">sehr neu und selbstständig</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+          <tei:seg>Einen innovativen Beitrag lieferte Gutzkow selbst 1850/51 in seinem Roman </tei:seg>
+          <tei:q>Die Ritter vom Geiste</tei:q>
+          <tei:seg>, der in seiner vielschichtigen und polyperspektivischen Darstellung der Großstadt-Partien das erfüllt, was Gutzkow hier im Ansatz unter wirklichen ›Berliner Mysterien‹ versteht. </tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Bearbeitung: Wolfgang Rasch, Berlin</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -160,10 +1136,10 @@
           <tei:seg>J Karl Gutzkow: Berliner Eindrücke. [I.]-II. In: Kölnische Zeitung. Köln. Nr. 104, 13. April 1844; Nr. 111, 20. April 1844. (Rasch 3.44.04.13)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -172,7 +1148,7 @@
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -189,16 +1165,16 @@
         <tei:sic> inwerfen</tei:sic>
         <tei:seg> ausgefallene Letter</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4. Entstehung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
         <tei:seg>Es sind keine Dokumente zur Entstehungsgeschichte bekannt. </tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
@@ -212,7 +1188,7 @@
         <tei:q>Berliner Eindrücke</tei:q>
         <tei:seg> in Berlin geschrieben, denn dieser erschien schon am 13. April 1844 in der "Kölnischen Zeitung", vermutlich auch der zweite, die eine Woche später am 20. April herauskam.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
       <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
