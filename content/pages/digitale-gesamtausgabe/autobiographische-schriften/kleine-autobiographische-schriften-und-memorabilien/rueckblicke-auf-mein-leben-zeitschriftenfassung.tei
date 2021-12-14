@@ -524,13 +524,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-12">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">1,23-24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">der badische und Reichstagsdeputirte „Waldfried“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Gemeint ist Berthold Auerbachs (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/auerba.html">Lexikon</tei:ref>
           <tei:seg>) Ich-Roman „Waldfried. Eine vaterländische Familiengeschichte in sechs Büchern“ (3 Bde. Stuttgart: Cotta, 1874). In dem Roman wird u. a. die liberale Einheits- und Freiheitsbewegung der letzten Jahrzehnte dargestellt und auf aktuelle Vorgänge (Krieg gegen Frankreich, Annexion Elsass-Lothringens, Reichseinheit) Bezug genommen. Waldfried, der 1848/49 schon in der Paulskirche gesessen hatte, wird zum Schluss Mitglied des Deutschen Reichstages. Am 12. Juli 1874 schrieb Auerbach an seinen „Freund“ (Neffen) Jakob Auerbach über Gutzkows Angriff: „Apropos! Hast du gelesen, wie Gutzkow mich in der letzten Nummer der ‚Gegenwart‘ anrempelt? Er war immer so. Als er noch seine Trompeter in den Zeitungen blasen ließ, war’s ihm nie genug gelobt zu werden, ich mußte daneben meinen Treff haben. O, wie recht hatte ich, daß ich mich in Berlin absolut fern von ihm hielt. Ich konnte ihm die Wahrheit nicht sagen, ohne ihn zu kränken, und heucheln oder auch nur verschweigen darf und kann ich nicht. Es war trotz alledem und ist noch ein Wahrheitsstreben in Gutzkow, aber ihm fehlt die Liebe.“ (Berthold Auerbach: Briefe an seinen Freund Jakob Auerbach. Ein biographisches Denkmal. Frankfurt/M.: Literarische Anstalt, 1884, Bd. 2, S. 213.) Ungefähr ein Jahr später, am 8. Mai 1875, bezieht sich Gutzkow in einem Brief an einen Rezensenten noch einmal auf seine Äußerungen über Auerbach in den Rückblicken: </tei:seg>
@@ -554,7 +554,10 @@
           <tei:citedRange type="page-line-ref">2,8-9</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>„das Leben </tei:seg>
+            <tei:hi style="letter-sparse">ist</tei:hi>
+            <tei:seg> ein Traum!“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -603,14 +606,17 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-14">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>Gustav Kühnes „</tei:seg>
+            <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
+            <tei:seg>“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Männer der Zeit. Biographisches Lexikon der Gegenwart. Mit Supplement: Frauen der Zeit. Leipzig: Lorck, 1862. Der Artikel über Gutzkow: Sp. 429-432.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -619,7 +625,10 @@
           <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>Gustav Kühnes „</tei:seg>
+            <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
+            <tei:seg>“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -656,27 +665,30 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-22">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">3,13-14</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>„</tei:seg>
+            <tei:hi style="letter-sparse">Das junge Deutschland wollte nicht blos lebe</tei:hi>
+            <tei:seg>n“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Gustav Kühne (1806-1888; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kuehne.html">Lexikon</tei:ref>
           <tei:seg>) folgte im September 1846 August Lewald als Herausgeber der Zeitschrift „Europa. Chronik der gebildeten Welt“. In der Vorrede erklärt Kühne, der Zeitschrift künftig ein stärker literarisches Gepräge geben zu wollen, nachdem bisher die politischen und religiösen Auseinandersetzungen dominierten. In der Folgezeit beobachtet man ein wiederholtes Pendeln der Zielsetzungen zwischen literarischen und politischen Ansprüchen. Insgesamt zeichnet sich jedoch unter Kühnes Redaktion eine Tendenz zur literarischen Ausrichtung hin ab. Im Februar 1859 übergibt Kühne die Redaktion an Karl B. Lorck (vgl. Kurt Haß: Gustav Kühne als Herausgeber der „Europa“. Wiesbaden: Humanitas Verl., 1973, S. 14ff.). – Das betreffende Zitat findet sich in dem Artikel über Gutzkow in den „Männern der Zeit“ nicht. Hingegen hatte Kühne in Nr. 7, 1859 der „Europa“ in dem Beitrag „Vier Männer des weiland ‚jungen Deutschlands‘„ in dem Abschnitt über Gutzkow geschrieben: „[...] das junge Deutschland, mit Gewalt zur berühmten und berüchtigten Person geworden, mußte und wollte auch glänzend leben und füllte den deutschen Büchermarkt mit einem Geschäftseifer, als gälte es damit das Vaterland zu retten“ (S. 247). In Nr. 11 des Jahrgangs 1859 druckte Lorck als neuer Redakteur folgende Entschuldigung Kühnes: „In Betreff des in Nr. 7 der Europa befindlichen biographischen Artikels über Herrn Dr. Karl Gutzkow erhalte ich aus zuverlässiger Quelle folgende thatsächliche Berichtigungen zum Abdruck. Ich erkläre zugleich, daß bei der gedrängten Kürze der Artikel eine Färbung erhielt, die ich nicht beabsichtigte, und die zu Mißverständnissen in Bezug auf des Geschilderten Charakter führte, die ich nicht bezweckte. F. G. Kühne.“ (S. 399)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-23">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">3,18-19</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">in der Allgemeinen Zeitung sogar Berthold Auerbach</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>In der (Augsburger) „Allgemeinen Zeitung“ erschien im April/Mai 1874 eine Artikelserie von Julian Schmidt über Auerbachs Werk und seine literarische Entwicklung (wieder abgedruckt in Julian Schmidt: Characterbilder aus der zeitgenössischen Literatur. Leipzig: Duncker u. Humblot, 1875, S. 37-149 (= zit. Text). Schmidt machte nur allgemeine Andeutungen über Auerbachs mögliche Zugehörigkeit zum Jungen Deutschland. Über die frühe literarische Entwicklung Auerbachs verlautet: „Diese Periode wird als die jungdeutsche bezeichnet. Man gebraucht in der Regel den Ausdruck nur von einer bestimmten Schule, in der That paßt er auf die ganze Zeit.“ (S. 45) Nach kurzen Bemerkungen über David Friedrich Strauß und Arnold Ruge heißt es: „in solcher Gemüthstimmung wuchs Auerbach auf“ (S. 46). Am 12. Mai 1874 äußert sich Auerbach seinem „Freund“ Jakob Auerbach gegenüber zu dem Artikel von Julian Schmidt, der Auerbach und sein Werk sehr schätzte: „Ich denke Du liesest die Studie, die Julian Schmidt in der Allgemeinen Zeitung (bis jetzt sechs Artikel) über mich [veröffentlicht]. Ich besuche ihn nicht, bis ich die ganze Arbeit kenne, und nach der Anlage werden es wohl noch weitere sechs Artikel. Wenn ich mich so betrachtet sehe, denke ich oft an die Holländerin, die mir im vorigen Sommer in Gernsbach sagte: ‚Was? Sie leben noch? Ich glaubte, Sie wären schon längst todt.‘ Ich stehe der Darlegung Julian Schmidts oft ganz verwundert gegenüber. Also das bin ich und so abgethan? Ich bin oft erstaunt von der stricten Consequenz, die er in meinem Schaffen und Reflectiren aufzeigt, ich habe mich nie so gesehen; ich lese namentlich, was ich theoretisch gesagt habe, oft als ein ganz Neues, und wenn ich auch manchen seiner Ausführungen widersprechen muß, besonders wo er vom Einflusse Jean Pauls etc. spricht, wer kann sagen, ob nicht ein Anderer freier und klarer sieht als man selber vermag?“ (Berthold Auerbach: Briefe an seinen Freund Jakob Auerbach. Ein biographisches Denkmal. Frankfurt/M.: Literarische Anstalt, 1884, Bd. 2, S. 210.)</tei:seg>
         </tei:p>
       </tei:interp>
@@ -714,13 +726,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-28">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">3,28</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die preußischen Verbote meiner Bücher</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Am 10. Dezember 1835 verfügte der Deutsche Bundestag in Frankfurt, veranlasst durch die Denunziation Gutzkows durch Wolfgang Menzel, wegen der ‚Unsittlichkeiten‘ in Gutzkows Roman </tei:seg>
           <tei:q>Wally, die Zweiflerin</tei:q>
           <tei:seg> (1835) ein allgemeines Verbot der Schriften des sog. Jungen Deutschland (→ </tei:seg>
@@ -753,13 +765,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-31">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">4,4</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Uebersetzung aus dem Englischen des Bulwer</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere. Aus dem Englischen des E. L. Bulwer. Bd. 1-2. Stuttgart: Verlag der Classiker, 1837 (Rasch 2.14). Die Ausführungen (3,32-4,14) stellen einen interessanten Hinweis auf die schwierige Arbeitssituation sowie die Arbeitsweise Gutzkows in diesen Jahren dar und erläutern die Entstehungsweise der Zeitgenossen. (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/die-zeitgenossen/erster-band.html">Zeitgenossen</tei:ref>
           <tei:seg>, Entstehungsgeschichte)</tei:seg>
@@ -788,13 +800,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-34">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">4,14</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Beiblatt „Telegraph“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Drei- bzw. viermal wöchentlich erscheinende, von Wilhelm Speyer (bis Nr. 12. Januar 1837) und Eduard Beurmann (ab Nr. 13) herausgegebene Zeitschrift, bei der Gutzkow wiederum der ‚eigentliche‘ Redakteur war (Rasch 5.6). Ab 1841 trug die Zeitschrift den Namen „Telegraph für Deutschland“. (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/teledeu.html">Lexikon</tei:ref>
           <tei:seg>) Gutzkow durfte erst 1841 (bis Dezember 1843) als Redakteur öffentlich genannt werden (Rasch 5.7).</tei:seg>
@@ -805,7 +817,9 @@
           <tei:citedRange type="page-line-ref">4,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>Buchhändler </tei:seg>
+            <tei:hi style="letter-sparse">Streng</tei:hi>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -894,26 +908,26 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-41">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">5,29-30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Burschenschaftsschwärmereien</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/bursch.html">Lexikon</tei:ref>
           <tei:seg>: Burschenschaft. – Mit dem Zusatz -schwärmereien will Gutzkow das Unrealistische dieser Bewegung treffen, die politisch unwirksam und in ihren Methoden verfehlt war. Gutzkow grenzt hier die Bestrebungen der Burschenschaften von den Absichten und Zielen der Julirevolution 1830 ab (vgl. Proelß, Das junge Deutschland, S. 244-246).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-42">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">5,30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Juni- und Julitagen des denkwürdigen Jahres 1830</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Die Julirevolution → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/julirev.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -968,13 +982,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-47">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,4</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Fürst Polignac</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Jules Armand Marie (erst Graf, dann) Fürst von Polignac (1780-1847; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/poligna.html">Lexikon</tei:ref>
           <tei:seg>); als Leiter des Auswärtigen und des neuen Kabinetts betrieb und unterzeichnete er die „Ordonnanzen“ vom 25. Juli 1830, die die Julirevolution auslösten. Polignac wurde im Dezember 1830 von dem neuen Regime zu ewigem Gefängnis und bürgerlichem Tod verurteilt, kam 1836 durch Amnestie wieder frei und lebte anschließend im Exil in England.</tei:seg>
@@ -992,14 +1006,17 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-49">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,11</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>Kotzebue’schen „</tei:seg>
+            <tei:foreign>Vielouissêer</tei:foreign>
+            <tei:seg>“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>August von Kotzebue: Der Vielwisser. Lustspiel in fünf Aufzügen. Leipzig: Kummer, 1817. – Kotzebue (1761-1819; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/kotzebu.html">Lexikon</tei:ref>
           <tei:seg>) war neben August Wilhelm Iffland einer der erfolgreichsten Bühnenautoren seiner Zeit. Er verfasste etwa 200 Melodramen und Lustspiele, hinter denen seine Erzählungen und Geschichtsstudien zurücktreten. – Neben seiner Tätigkeit als Literat spielte Kotzebue auch in der Politik seiner Zeit eine Rolle. Seit 1780 war er Advokat am Hof von Weimar. Anschließend trat er in den russischen Staatsdienst ein (1781-1790) und lebte zwischen 1797 und 1799 als Bühnenautor in Wien. Nachdem er nach Russland zurückgekehrt war, musste Kotzebue 1800 aufgrund eines seiner Dramen kurzzeitig nach Sibirien in die Verbannung, wurde jedoch später rehabilitiert und zum Leiter des Deutschen Theaters in Petersburg ernannt. 1813 kehrte er als Generalkonsul ins preußische Königsberg zurück. Ab 1816 wieder in Petersburg, bereiste Kotzebue 1817 im Dienst Zar Alexanders I. Deutschland. Seine 1818 von ihm selbst gegründeten „Literarischen Wochenblatt“ geäußerten reaktionären Vorbehalte gegen die deutschen Burschenschafter sowie seine politischen Aktivitäten führten 1819 in Mannheim zu seiner Ermordung durch den Burschenschafter Karl Ludwig Sand.</tei:seg>
@@ -1028,13 +1045,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-52">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,17</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Thiers</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Adolphe Thiers (1797-1873; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/thiers.html">Lexikon</tei:ref>
           <tei:seg>), frz. Politiker und Historiker, unter Louis Philippe 1836 und 1840 Ministerpräsident und Außenminister. Als gemäßigter Republikaner bekämpfte er später das Kaiserreich Napoleons III.; seit 1871 Präsident der Dritten Republik, 1873 zurückgetreten. (→ Erläuterung zu 6,3-4.)</tei:seg>
@@ -1063,13 +1080,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-55">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Ordonnanzen</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Die von Karl X. (1824-1830) am 25. Juli 1830 erlassenen sog. Juliordonnanzen waren der Auslöser der Revolution von 1830 (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/julirev.html">Lexikon</tei:ref>
           <tei:seg>: Julirevolution). Sie bezogen sich 1. auf die Wiederherstellung der Zensur, 2. auf die Auflösung der Abgeordnetenkammer und 3. auf die Bekanntmachung einer neuen Wahlordnung, die die bisherigen Rechte wesentlich einschränkte.</tei:seg>
@@ -1087,13 +1104,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-57">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Louis Philippe</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Louis Philippe (1773-1850; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/louisph.html">Lexikon</tei:ref>
           <tei:seg>), Sohn des Herzogs Philipp von Orleans, wurde 1793 nach der Hinrichtung des Vaters Herzog von Orleans. Während der Restauration sympathisierte er mit der liberalen Opposition und wurde nach der Julirevolution durch Kammerbeschluss vom 7. August 1830 zum König der Franzosen („Bürgerkönig“) gemacht. Er regierte, gestützt auf das liberale Großbürgertum, im Geist des ‚Juste-Milieu‘ (→ </tei:seg>
@@ -1124,13 +1141,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-60">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">6,30</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">gegen die Demagogie</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>(‚demagoge‘: [griech.] ‚Volksführer‘) während der Restaurationszeit verwendetes Schlagwort für die Anhänger liberaler und nationaler Strömungen. Die „Karlsbader Beschlüsse“ (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/karlbe.html">Lexikon</tei:ref>
           <tei:seg>) von 1819 erließen Maßnahmen gegen diese Bewegungen. Seit 1824 bestand in Mainz die „Zentraluntersuchungskommission“ gegen ‚revolutionäre Umtriebe‘, deren Tätigkeit zur Verurteilung und Inhaftierung zahlreicher ‚Demagogen‘ führte (→ Lexikon: </tei:seg>
@@ -1173,9 +1190,9 @@
           <tei:seg> beschrieben (vgl. eGWB IV, Bd. 6.2, pdf 1.0, S. 3,6-4,14). Im </tei:seg>
           <tei:q>Kastanienwäldchen in Berlin</tei:q>
           <tei:seg> nennt er den Titel </tei:seg>
-          <tei:foreign>
-            <tei:q>De Diis fatalibus</tei:q>
-          </tei:foreign>
+          <tei:q>
+            <tei:foreign>De Diis fatalibus</tei:foreign>
+          </tei:q>
           <tei:seg> (GWB VII, Bd. 3, S. 92,34-93,2, offenbar in verkürzter Form). In der Universitäts- und Stadtbibliothek Frankfurt befindet sich eine Abschrift der Arbeit von fremder Hand. Ein Auszug aus der Dissertation nach dem Teildruck in Beurmann’s Telegraph von 1837 (Rasch 3.37.07.26) in HU, Bd. 1, S. 505-517: </tei:seg>
           <tei:q>‹De diis fatalibus› </tei:q>
           <tei:seg>1830. </tei:seg>
@@ -1183,13 +1200,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-64">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">7,12</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">die anbrechende große Zeit</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Anspielung auf die Zeit nach der Julirevolution in Deutschland. Gutzkow schreibt über die Wirkung der Revolution auf ihn selbst und die Zeitgenossen: </tei:seg>
           <tei:q>Der Kronprinz lächelte; aber Alle, die Zeitungen lasen, wußten, daß in Frankreich eben ein König vom Thron gestoßen wurde. Der Kanonendonner zwischen den Barrikaden von Paris dröhnte bis in die Aula nach. Böckh sprach von den schönen Künsten, aber Niemand achtete diesmal seiner gedankenreichen Wendungen und classischen Sprache </tei:q>
           <tei:seg> [...] </tei:seg>
@@ -1202,7 +1219,10 @@
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/stehely.html">Lexikon</tei:ref>
           <tei:seg>] </tei:seg>
           <tei:q>
-            </tei:q>
+            <tei:seg>und nahm </tei:seg>
+            <tei:hi style="letter-sparse">zum ersten Male</tei:hi>
+            <tei:seg> eine Zeitung vor’s Gesicht;</tei:seg>
+          </tei:q>
           <tei:seg> [...] </tei:seg>
           <tei:q>ich wollte nur wissen, wie viel Todte und Verwundete es in Paris gegeben, ob die Barricaden noch ständen, ob noch die Lunten brennten, der Pallast des Erzbischofs rauchte, ob Karl seinen Thron beweine, ob Lafayette eine Monarchie oder Republik machen würde. Die Wissenschaft lag hinter, die Geschichte vor mir.</tei:q>
           <tei:seg> [...] </tei:seg>
@@ -1265,26 +1285,26 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-69">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">7,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Schiller-Goethe-Verleger Cotta</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Johann Friedrich Cotta von Cottendorf (1764-1832; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/cotta.html">Lexikon</tei:ref>
           <tei:seg>), Verleger und Buchhändler in Stuttgart, publizierte zahlreiche Schriften klassischer Autoren, bes. Goethes und Schillers, und stand deshalb als Verleger in hohem Ansehen. 1832 übernahm sein Sohn Johann Georg (1796-1863) den Verlag.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-70">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">7,24</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Wolfgang Menzel</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Wolfgang Menzel (1798-1873), Kritiker, Redakteur, Literaturhistoriker u. Politiker in Stuttgart → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/menzel.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1304,13 +1324,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-72">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">7,27-2</tei:citedRange>
           <tei:seg>8 </tei:seg>
           <tei:citedRange type="word-range">„Literaturblatt“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Das „Literaturblatt“ zum „Morgenblatt für gebildete Stände“; → Lexikon: </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/litblat.html">Literaturblatt</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1365,7 +1385,10 @@
           <tei:citedRange type="page-line-ref">8,8-9</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">
-            </tei:citedRange>
+            <tei:seg>Schüler vom </tei:seg>
+            <tei:hi style="letter-sparse">zweiten</tei:hi>
+            <tei:seg> Theil des „Faust“</tei:seg>
+          </tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
@@ -1384,13 +1407,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-79">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">8,15-16</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Menzel als Goetheverächter und rücksichtsloser Verurtheiler der damaligen Modebelletristik</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/menzel.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1408,39 +1431,39 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-81">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">8,26</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">Heinrich Laube</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>. Sein (sich wandelndes) Verhältnis zu Gutzkow hat er in zahlreichen Äußerungen und Kritiken niedergelegt. Vgl. LauGW, Bd. 50 (Personenregister).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-82">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">8,29</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">neben der Turnerei</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Friedrich Ludwig Jahn („Turnvater Jahn“, 1778-1852; → </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/jahn.html">Lexikon</tei:ref>
           <tei:seg>), war der Gründer der deutschen Turnbewegung zu Beginn des 19. Jahrhunderts. Neben der Entwicklung des Turnens allgemein (Fechten, Schwimmen, Laufen, Spiel, Tanz usw. mit volkstümlicher Tendenz) hatte die Bewegung eine politische Bedeutung, die in der Stärkung der physischen und moralischen Kraft des deutschen Volkes gegen die Herrschaft Napoleons bestehen sollte. Der erste Turnplatz Deutschlands war die „Hasenheide“ bei Berlin (1811). Darüber hinaus war Jahn 1815 Mitbegründer der Burschenschaft. Ein Prozess wegen politischer Betätigung endete 1825 mit dem Freispruch Jahns. Mit dem Prozess im Zusammenhang stand die weit gehende Schließung der Turnplätze in Deutschland.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-83">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">8,31</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">carlsbader Beschlüsse</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/karlbe.html">Lexikon</tei:ref>
           <tei:seg>: Karlsbader Beschlüsse.</tei:seg>
@@ -1469,16 +1492,16 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-86">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">9,8</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">„Zeitung für die elegante Welt“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Literarisch-kulturelle Zeitschrift, erschien in Leipzig von 1801 bis 1859.</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/elegant.html">Lexikon</tei:ref>
           <tei:seg>.</tei:seg>
@@ -1496,13 +1519,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-98">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">9,8-10</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">der sächsischen Hofrathsbelletristik abgewonnene Laube’sche Terrain</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Hier sind die in der von Theodor Hell (d. i. Karl Gottlieb Theodor Winkler) und Friedrich Kind herausgegebenen Dresdener „Abendzeitung“ erschienenen Beiträge belletristischer Natur gemeint. Laube (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>) übernahm 1833 die „Zeitung für die elegante Welt“ (→ </tei:seg>
@@ -1511,13 +1534,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-89">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">9,11</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">im Stil desultorischen Artikel</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Welche Artikel Gutzkow meint, ist schwer nachzuvollziehen. Möglicherweise handelt es sich um die unter der von Laube geschaffenen Rubrik der „laufenden Geschichte“ publizierten Beiträge in der „Zeitung für die elegante Welt“ (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/elegant.html">Lexikon</tei:ref>
           <tei:seg> ).</tei:seg>
@@ -1535,13 +1558,13 @@
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-92">
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:citedRange type="page-line-ref">9,22</tei:citedRange>
           <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">des schönen Gardasee</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
           <tei:seg>Gutzkows Reise durch Österreich und Oberitalien mit Laube (→ </tei:seg>
           <tei:ref type="external" target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/laube.html">Lexikon</tei:ref>
           <tei:seg>) und einem weiteren Reisebegleiter begann am 4. August 1833 in München und endete mit der Rückkehr Gutzkows nach Berlin am 14. September 1833. Gutzkow und Laube haben diese Reise mehrfach beschrieben. Zunächst lieferte Gutzkow darüber eine Artikelserie mit dem Titel </tei:seg>
