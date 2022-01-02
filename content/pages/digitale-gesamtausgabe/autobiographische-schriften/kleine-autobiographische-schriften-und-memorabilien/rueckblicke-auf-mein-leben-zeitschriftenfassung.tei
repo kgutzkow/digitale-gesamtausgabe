@@ -62,7 +62,7 @@
         <tei:foreign>
           <tei:ref target="#annotation-2" type="esv">Mon mêtier c’est vivre</tei:ref>
         </tei:foreign>
-        <tei:ref target="#{value()}" type="esv">.</tei:ref>
+        <tei:ref target="#annotation-2" type="esv">.</tei:ref>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Der scharfsinnige Franzose wird in der Hauptsache unter seinem „Leben als Lebenskunst“ kaum etwas Andres verstanden haben, als was </tei:seg>
@@ -96,7 +96,11 @@
         <tei:seg>Mit Glockengeläut und Choral kann Referent von seinem Leben nicht sprechen. Er lügt sich nicht den Ruhm an, als wäre er mit einem feierlichen, fertigen, in seiner letzten Lebensstunde bis auf den richtigen </tei:seg>
         <tei:ref target="#annotation-13" type="esv">Schlußparagraphen gelösten Programm auf die Welt gekommen</tei:ref>
         <tei:seg>. Er ist nie vor sich selbst auf die Kniee gesunken und hat den Gott in seinem Busen als ein ihm persönlich höchst Merkwürdiges angebetet. Höchstens einmal im Zorn konnte er mit Emphase von seinem Wollen oder Wirken sprechen. Redliche Absichten, hohe Ziele hat es gewiß auch für ihn gegeben. Aber mit in den Kauf gingen Unüberlegtheiten, unbewußte Instincthandlungen, Zuckungen und Reflexhandlungen, wie wir deren nur im Traume zu machen pflegen. Und </tei:seg>
-        <tei:ref target="#annotation-91" type="esv">„das Leben ist ein Traum!“</tei:ref>
+        <tei:ref target="#annotation-91" type="esv">„das Leben </tei:ref>
+        <tei:hi style="letter-sparse">
+          <tei:ref target="#annotation-91" type="esv">ist</tei:ref>
+        </tei:hi>
+        <tei:ref target="#annotation-91" type="esv"> ein Traum!“</tei:ref>
         <tei:seg> Wer fühlt es nicht in seinen sechziger Jahren! Und wie oft war es ein böser Traum! Böse, wie ein Alp drückend, und drückend durch unsere Schuld! Wenigstens unter Schriftstellern oder Künstlern suche man doch nicht vollkommene Menschen! Selbst Goethe fühlte die Unmöglichkeit, immer von sich mit Choral zu sprechen. Er schob </tei:seg>
         <tei:ref target="#annotation-16" type="esv">bei seiner Selbstbiographie</tei:ref>
         <tei:seg> der „Wahrheit“, die sein Gewissen drückte, die „Dichtung“ unter. Vollkommne Menschen können nur die Männer gewerbmäßiger Berufsart, die hohen politischen Streber des Tages, die Geheimen Ober-Regierungsräthe, die Besitzer einer Brust voll Orden sein, die Börsenmillionäre, alle, die in der Welt nicht rechts, nicht links gesehen haben, sondern immer nur schnurstracks losgingen auf ein und dasselbe Ziel. </tei:seg>
@@ -111,24 +115,24 @@
         <tei:hi style="letter-sparse">
           <tei:ref target="#annotation-19" type="esv">Männer der Zeit</tei:ref>
         </tei:hi>
-        <tei:ref target="#{value()}" type="esv">“</tei:ref>
+        <tei:ref target="#annotation-14" type="esv">“</tei:ref>
         <tei:seg> hervorsuchen und daraus ein zeitgemäßes Excerpt für sein reichhaltiges Feuilleton zusammenstellen. Aber wie trocken sind doch da die Büchertitel neben einander aufgezählt! Wie unwahr ist so vieles, was sich, mit der unerschütterlichen Sicherheit eines Lehrers der Literaturgeschichte für höhere Töchterschulen, als ganz besonders charakterisirendes Kennzeichen, ankündigt! Wie unvermittelt stehen die Notizen neben einander! Der wahre Mensch, der noch unverleumundete, das gesunde Fleisch, eben </tei:seg>
         <tei:ref target="#annotation-20" type="esv">Montaignes </tei:ref>
         <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">Mêtier</tei:ref>
+          <tei:ref target="#annotation-20" type="esv">Mêtier</tei:ref>
         </tei:foreign>
-        <tei:ref target="#{value()}" type="esv"> oder </tei:ref>
+        <tei:ref target="#annotation-20" type="esv"> oder </tei:ref>
         <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">Mestier</tei:ref>
+          <tei:ref target="#annotation-20" type="esv">Mestier</tei:ref>
         </tei:foreign>
         <tei:seg>, wie </tei:seg>
         <tei:ref target="#annotation-21" type="esv">Rabelais’ jüngerer Zeitgenosse</tei:ref>
         <tei:seg> noch schrieb, das Leben zu dem todten Gerippe von Namen und Jahreszahlen ist nicht einmal zwischen den Zeilen zu lesen. </tei:seg>
-        <tei:ref target="#{value()}" type="esv">„</tei:ref>
+        <tei:ref target="#annotation-22" type="esv">„</tei:ref>
         <tei:hi style="letter-sparse">
           <tei:ref target="#annotation-22" type="esv">Das junge Deutschland wollte nicht blos lebe</tei:ref>
         </tei:hi>
-        <tei:ref target="#{value()}" type="esv">n“</tei:ref>
+        <tei:ref target="#annotation-22" type="esv">n“</tei:ref>
         <tei:seg> heißt es z. B. bei Gustav Kühne in seinem beliebten Nekrologslieferanten, den eben citirten „Männern der Zeit“, „</tei:seg>
         <tei:hi style="letter-sparse">sondern auch gut leben</tei:hi>
         <tei:seg>“. Du edler, großherziger Kamerad, der du dich nicht nur selbst zum „Jungen Deutschland“ rechnetest, sondern auch mehr zu ihm gehörtest, als jetzt </tei:seg>
@@ -196,9 +200,9 @@
         <tei:seg> wenn nicht in der pariser Kammer, doch in der öffentlichen Meinung Frankreichs den Sieg davontrug, ob es zur Auflösung der Legislative kam, das allein waren die täglichen Fragen, denen sich der junge französische Publicist hingab und die im komischsten Contraste standen zu unserer Lectüre des </tei:seg>
         <tei:ref target="#annotation-49" type="esv">Kotzebue’schen „</tei:ref>
         <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">Vielouissêer</tei:ref>
+          <tei:ref target="#annotation-49" type="esv">Vielouissêer</tei:ref>
         </tei:foreign>
-        <tei:ref target="#{value()}" type="esv">“</tei:ref>
+        <tei:ref target="#annotation-49" type="esv">“</tei:ref>
         <tei:seg> („Vielwisser“), den der ältere Schüler als Grundlage unserer Conversationen im </tei:seg>
         <tei:ref target="#annotation-50" type="esv">Hotel de Rome</tei:ref>
         <tei:seg> „Unter den Linden“ dem Vorschlage des jüngern Lehrers, Schiller oder Goethe zu wählen, vorzog. Wunder nimmt mich, daß das von mir in etwa 20 Stunden erlernte Deutsch nicht beim </tei:seg>
@@ -262,9 +266,9 @@
         <tei:seg>. Jetzt haben wir in solchen Fällen erster Entwicklung schriftstellerisch aufkeimender Triebe nur noch die </tei:seg>
         <tei:ref target="#annotation-77" type="esv">Schüler vom </tei:ref>
         <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">zweiten</tei:ref>
+          <tei:ref target="#annotation-77" type="esv">zweiten</tei:ref>
         </tei:hi>
-        <tei:ref target="#{value()}" type="esv"> Theil des „Faust“</tei:ref>
+        <tei:ref target="#annotation-77" type="esv"> Theil des „Faust“</tei:ref>
         <tei:seg>, wo diejenigen, denen sie ihre unreifen Producte erst mit der Widmung: „der Schüler dem Meister“ verehrt haben, nur zu bald, ihrer Untreue, Undankbarkeit, Arroganz wegen, ihrem Abfall mit Goethe nachrufen möchten: </tei:seg>
         <tei:ref target="#annotation-78" type="esv">„Fahr hin, Originalgenie, in deiner Pracht!“</tei:ref>
         <tei:seg> Daß ich das Dienen bei Menzel, das Lesen und Recensiren der ihm zugesandten Bücherstöße, das Ansammeln aller Unpopularität, die </tei:seg>
@@ -552,10 +556,12 @@
       <tei:interp type="esv" xml:id="annotation-14">
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">3,1</tei:citedRange>
-          <tei:seg> </tei:seg>
+          <tei:seg>  </tei:seg>
+          <tei:citedRange type="word-range">Gustav Kühnes „</tei:citedRange>
           <tei:citedRange type="word-range">
-            <tei:hi style="letter-sparse">“</tei:hi>
+            <tei:hi style="letter-sparse">Männer der Zeit</tei:hi>
           </tei:citedRange>
+          <tei:citedRange type="word-range">“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -660,9 +666,11 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">3,13-14</tei:citedRange>
           <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„</tei:citedRange>
           <tei:citedRange type="word-range">
-            <tei:hi style="letter-sparse">n“</tei:hi>
+            <tei:hi style="letter-sparse">Das junge Deutschland wollte nicht blos leben</tei:hi>
           </tei:citedRange>
+          <tei:citedRange type="word-range">“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -821,6 +829,7 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">4,22</tei:citedRange>
           <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Buchhändler </tei:citedRange>
           <tei:citedRange type="word-range">
             <tei:hi style="letter-sparse">Streng</tei:hi>
           </tei:citedRange>
@@ -987,9 +996,11 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">6,11</tei:citedRange>
           <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kotzebue’schen „</tei:citedRange>
           <tei:citedRange type="word-range">
-            <tei:foreign>“</tei:foreign>
+            <tei:foreign>Vielouissêer</tei:foreign>
           </tei:citedRange>
+          <tei:citedRange type="word-range">“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1358,9 +1369,11 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">8,8-9</tei:citedRange>
           <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Schüler vom </tei:citedRange>
           <tei:citedRange type="word-range">
-            <tei:hi style="letter-sparse"> Theil des „Faust“</tei:hi>
+            <tei:hi style="letter-sparse">zweiten</tei:hi>
           </tei:citedRange>
+          <tei:citedRange type="word-range"> Theil des „Faust“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1483,7 +1496,11 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">9,8-10</tei:citedRange>
           <tei:seg> </tei:seg>
-          <tei:citedRange type="word-range">der sächsischen Hofrathsbelletristik abgewonnene Laube’sche Terrain</tei:citedRange>
+          <tei:citedRange type="word-range">Kotzebue’schen „</tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Vielouissêer</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1517,11 +1534,13 @@
       <tei:interp type="esv" xml:id="annotation-91">
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">2,8-9</tei:citedRange>
-          <tei:seg> </tei:seg>
+          <tei:seg>  </tei:seg>
+          <tei:citedRange type="word-range">„das Leben </tei:citedRange>
           <tei:citedRange type="word-range">
-            <tei:hi style="letter-sparse"> ein Traum!“</tei:hi>
+            <tei:hi style="letter-sparse">ist</tei:hi>
           </tei:citedRange>
-          <tei:seg>] </tei:seg>
+          <tei:citedRange type="word-range"> ein Traum!“</tei:citedRange>
+          <tei:seg>]</tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Anspielung auf Calderóns (1600-1681) Versdrama in drei Akten „La vida es sueño“ („Das Leben ist ein Traum“, 1636).</tei:seg>
