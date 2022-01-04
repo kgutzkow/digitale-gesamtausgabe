@@ -3,7 +3,7 @@ Vorstellung des Projekts
 
 :slug: editionsprojekt
 :order: 1
-:author: Gert Vonhoff
+:author: Martina Lauster
 
 Einführung in das Projekt
 -------------------------
