@@ -3,6 +3,7 @@
 
 :slug: FLitbl
 :order: 4
+:template: slideshow
 
 "Literatur-Blatt", März 1832
 

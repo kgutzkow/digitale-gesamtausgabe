@@ -3,6 +3,7 @@ Otto Wigand
 
 :slug: FWigand1
 :order: 133
+:template: slideshow
 
 Otto Wigand. (Illustrirte Zeitung, 16. Februar 1867). Holzstich.
 

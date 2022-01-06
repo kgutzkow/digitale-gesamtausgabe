@@ -3,6 +3,7 @@ Korrekturbogen zu "Das Kastanienwäldchen in Berlin", S. 263. GSA 81/IV,7,10.
 
 :slug: FKasta263
 :order: 34
+:template: slideshow
 
 Korrekturbogen zu "Das Kastanienwäldchen in Berlin", S. 263. GSA 81/IV,7,10.
 

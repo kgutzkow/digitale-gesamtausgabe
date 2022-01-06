@@ -3,6 +3,7 @@ Wilhelm Zimmermann
 
 :slug: FZimm1
 :order: 135
+:template: slideshow
 
 Wilhelm Zimmermann, 1807-1878
 

@@ -3,6 +3,7 @@ Richard Savage aus "Richard Savage"
 
 :slug: FSav2
 :order: 3
+:template: slideshow
 
 Richard Savage. Handkollorierter Holzstich zu "Richard Savage", 1841
 

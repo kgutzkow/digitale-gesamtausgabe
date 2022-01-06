@@ -3,6 +3,7 @@
 
 :slug: FRvG
 :order: 28
+:template: slideshow
 
 Titelblatt des Ersten Bandes von Gutzkows Roman "Die Ritter vom Geiste", 1850.
 

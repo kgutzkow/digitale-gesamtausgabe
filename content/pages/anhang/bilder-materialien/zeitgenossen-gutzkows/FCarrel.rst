@@ -3,6 +3,7 @@ Armand Carrel
 
 :slug: FCarrel
 :order: 16
+:template: slideshow
 
 Armand Carrel, 1800-1836.
 

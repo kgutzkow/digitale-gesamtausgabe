@@ -3,6 +3,7 @@ Demagoge und Barbier
 
 :slug: DemuBa
 :order: 17
+:template: slideshow
 
 Demagoge und Barbier.
 

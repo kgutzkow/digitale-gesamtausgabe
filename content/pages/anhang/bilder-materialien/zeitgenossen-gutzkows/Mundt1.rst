@@ -3,6 +3,7 @@ Theodor Mundt
 
 :slug: Mundt1
 :order: 88
+:template: slideshow
 
 Theodor Mundt, 1808-1861
 

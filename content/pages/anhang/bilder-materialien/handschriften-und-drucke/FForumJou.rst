@@ -3,6 +3,7 @@
 
 :slug: FForumJou
 :order: 2
+:template: slideshow
 
 Forum der Journal-Literatur. Eine antikritische Quartalschrift, Nr. 13, 26. September 1831.
 

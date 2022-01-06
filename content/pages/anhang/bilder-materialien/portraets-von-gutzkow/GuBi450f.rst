@@ -3,6 +3,7 @@ Marmormedaillon des Grabmals in Frankfurt/M. von Ernst Rietschel
 
 :slug: GuBi450f
 :order: 32
+:template: slideshow
 
 Marmormedaillon des Grabmals in Frankfurt/M. von Ernst Rietschel
 

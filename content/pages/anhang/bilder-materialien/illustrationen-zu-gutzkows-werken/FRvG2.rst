@@ -3,6 +3,7 @@ Olga aus "Die Ritter vom Geiste"
 
 :slug: FRvG2
 :order: 10
+:template: slideshow
 
 Olga, die eine weiße Rose herabwirft, in "Die Ritter vom Geiste". Zeichnung von Friedrich Pecht. Holzstich, 1851
 

@@ -3,6 +3,7 @@ Karl Theodor von Küstner
 
 :slug: FKuest1
 :order: 70
+:template: slideshow
 
 Karl Theodor von Küstner, 1784-1864
 

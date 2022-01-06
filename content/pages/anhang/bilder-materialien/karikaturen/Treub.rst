@@ -3,6 +3,7 @@ Der Treubund 1849
 
 :slug: Treub
 :order: 16
+:template: slideshow
 
 Eine Aufnahme in den Treubund, 1849.
 

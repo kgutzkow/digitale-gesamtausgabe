@@ -3,6 +3,7 @@ Herrenmode: der Elegante
 
 :slug: FMode3
 :order: 3
+:template: slideshow
 
 Herrenmode: der Elegante.
 

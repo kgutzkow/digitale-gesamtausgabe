@@ -3,6 +3,7 @@ Theodor Hosemann
 
 :slug: FHosem1
 :order: 55
+:template: slideshow
 
 Theodor Hosemann, 1807-1875
 

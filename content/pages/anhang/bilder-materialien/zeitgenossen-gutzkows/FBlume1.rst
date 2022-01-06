@@ -3,6 +3,7 @@ Wilhelm Blumenhagen
 
 :slug: FBlume1
 :order: 8
+:template: slideshow
 
 Wilhelm Blumenhagen, 1781-1839
 

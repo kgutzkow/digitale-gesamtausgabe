@@ -3,6 +3,7 @@ Robert Prutz
 
 :slug: FPrutz1
 :order: 91
+:template: slideshow
 
 Robert Prutz, 1816-1872
 

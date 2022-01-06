@@ -3,6 +3,7 @@ Novellen-Zeitung": "Die stille Familie", Nov. 1845
 
 :slug: FNovzei45
 :order: 20
+:template: slideshow
 
 Novellen-Zeitung. Nr. 72, 12. November 1845.
 

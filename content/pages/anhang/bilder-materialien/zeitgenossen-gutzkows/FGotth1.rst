@@ -3,6 +3,7 @@ Jeremias Gotthelf
 
 :slug: FGotth1
 :order: 38
+:template: slideshow
 
 Jeremias Gotthelf (d.i. Albert Bitziu)s, 1797-1854
 

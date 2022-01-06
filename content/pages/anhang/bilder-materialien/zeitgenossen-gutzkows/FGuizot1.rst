@@ -3,6 +3,7 @@ François Guizot
 
 :slug: FGuizot1
 :order: 41
+:template: slideshow
 
 François Guizot, 1787-1874.
 

@@ -3,6 +3,7 @@ Ernst Raupach, Werke 1829
 
 :slug: FRaup1
 :order: 95
+:template: slideshow
 
 Ernst Raupach, 1784-1852
 

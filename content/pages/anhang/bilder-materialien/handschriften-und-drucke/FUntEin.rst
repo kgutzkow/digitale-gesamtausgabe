@@ -3,6 +3,7 @@
 
 :slug: FUntEin
 :order: 30
+:template: slideshow
 
 Einleitung "Was wir bringen" in den "Unterhaltungen am häuslichen Herd", Nr. 1, September 1852.
 

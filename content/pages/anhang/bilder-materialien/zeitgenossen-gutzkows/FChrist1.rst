@@ -3,6 +3,7 @@ Ada Christen
 
 :slug: FChrist1
 :order: 17
+:template: slideshow
 
 Ada Christen, 1839-1901.
 

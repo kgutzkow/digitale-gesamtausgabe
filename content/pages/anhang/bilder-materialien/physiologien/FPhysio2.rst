@@ -3,6 +3,7 @@ Titelblatt mit Illustration
 
 :slug: FPhysio2
 :order: 3
+:template: slideshow
 
 Titelblatt der "Physiologie de la Presse", Paris 1841.
 

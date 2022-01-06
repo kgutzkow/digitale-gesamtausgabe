@@ -3,6 +3,7 @@ Gutzkow als "Karl Trutzkopf", anon. Karikatur 1848
 
 :slug: GuBi48_2
 :order: 9
+:template: slideshow
 
 Gutzkow sitzt im Mannheimer Gefängnis 1836.
 

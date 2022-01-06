@@ -3,6 +3,7 @@ von Lindenschmit, "Ruhmeshalle"
 
 :slug: FRuhmesh
 :order: 99
+:template: slideshow
 
 Wilhelm von Lindenschmit, 1829-1895, "Ruhmeshalle der deutschen Literatur. 1841-1865", vermutlich um 1875.
 

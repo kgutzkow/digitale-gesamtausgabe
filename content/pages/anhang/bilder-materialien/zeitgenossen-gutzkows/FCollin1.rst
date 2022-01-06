@@ -3,6 +3,7 @@ Wilkie Collins
 
 :slug: FCollin1
 :order: 19
+:template: slideshow
 
 Wilkie Collins, 1824-1889
 

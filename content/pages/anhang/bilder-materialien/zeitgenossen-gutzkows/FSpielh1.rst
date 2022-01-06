@@ -3,6 +3,7 @@ Friedrich Spielhagen
 
 :slug: FSpielh1
 :order: 115
+:template: slideshow
 
 Friedrich Spielhagen, 1829-1911
 

@@ -3,6 +3,7 @@ Berliner Zeitungsschau 1850 (II)
 
 :slug: ZeiSch2
 :order: 21
+:template: slideshow
 
 Berliner Zeitungsschau 1850 - Demokratische Zeitung und Kladderadatsch.
 

@@ -3,6 +3,7 @@ Jean Paul
 
 :slug: FJeanP1
 :order: 62
+:template: slideshow
 
 Jean Paul Friedrich Richter, 1763-1825
 

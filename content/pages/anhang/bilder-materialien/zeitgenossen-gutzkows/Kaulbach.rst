@@ -3,6 +3,7 @@ Wilhelm von Kaulbach
 
 :slug: Kaulbach
 :order: 63
+:template: slideshow
 
 Wilhelm von Kaulbach, 1805-1874
 

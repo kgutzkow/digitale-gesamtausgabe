@@ -3,6 +3,7 @@ Préliminaires, S.8-9
 
 :slug: FPhysio73
 :order: 9
+:template: slideshow
 
 Préliminaires, S.8-9
 

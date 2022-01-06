@@ -3,6 +3,7 @@ Gutzkow um 1877, Photo
 
 :slug: GuBi448n
 :order: 29
+:template: slideshow
 
 Gutzkow um 1877, Photo
 

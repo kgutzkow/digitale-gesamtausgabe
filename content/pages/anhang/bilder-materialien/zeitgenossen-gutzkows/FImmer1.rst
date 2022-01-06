@@ -3,6 +3,7 @@ Karl Immermann, [Werkauszüge, um 1855]
 
 :slug: FImmer1
 :order: 60
+:template: slideshow
 
 Karl Immermann, 1796-1840
 

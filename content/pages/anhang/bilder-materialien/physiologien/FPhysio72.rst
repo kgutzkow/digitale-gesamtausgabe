@@ -3,6 +3,7 @@ Préliminaires, S. 6-7
 
 :slug: FPhysio72
 :order: 8
+:template: slideshow
 
 Préliminaires, S. 6-7
 

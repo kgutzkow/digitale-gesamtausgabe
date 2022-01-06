@@ -3,6 +3,7 @@ Gutzkow 1857, Stahlstich von Alexander Alboth Leipzig
 
 :slug: GuBi571
 :order: 15
+:template: slideshow
 
 Gutzkow 1857, Stahlstich von Alexander Alboth Leipzig
 

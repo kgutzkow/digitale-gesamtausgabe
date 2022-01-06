@@ -3,6 +3,7 @@
 
 :slug: FZopf2
 :order: 6
+:template: slideshow
 
 Das Tabakscollegium. Szene aus "Zopf und Schwert", V,2. Anon. Holzstich, 1844
 

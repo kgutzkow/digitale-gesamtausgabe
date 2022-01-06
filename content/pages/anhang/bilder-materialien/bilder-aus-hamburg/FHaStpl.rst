@@ -3,6 +3,7 @@ Stadtplan Hamburgs von 1836 (Ausschnitt)
 
 :slug: FHaStpl
 :order: 1
+:template: slideshow
 
 Stadtplan Hamburgs von 1836 (Ausschnitt)
 

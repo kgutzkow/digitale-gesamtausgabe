@@ -3,6 +3,7 @@ Louis in der Hölle
 
 :slug: LouHoe
 :order: 25
+:template: slideshow
 
 Louis in der Hölle.
 

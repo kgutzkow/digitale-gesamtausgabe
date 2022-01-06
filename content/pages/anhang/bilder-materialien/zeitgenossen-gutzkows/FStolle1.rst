@@ -3,6 +3,7 @@ Ferdinand Stolle
 
 :slug: FStolle1
 :order: 118
+:template: slideshow
 
 Ferdinand Stolle (d.i. Ludwig Ferdinand Anders), 1806-1872
 

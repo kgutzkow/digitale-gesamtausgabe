@@ -3,6 +3,7 @@ Jenny Lind
 
 :slug: FLind
 :order: 78
+:template: slideshow
 
 Jenny Lind (seit 1852 verh. Goldschmidt), 1820-1887.
 

@@ -3,6 +3,7 @@ Heinrich Laube
 
 :slug: FLaube3
 :order: 73
+:template: slideshow
 
 Heinrich Laube, 1798-1873, als "Heinrich Lobe". Dargestellt wird, wie er in Karlsbad einige Slawen verzehrt
 

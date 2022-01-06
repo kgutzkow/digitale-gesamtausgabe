@@ -3,6 +3,7 @@ Gutzkow zieht "Lenz und Söhne" zurück, anon. Karikatur von 1855
 
 :slug: GuBiBue
 :order: 13
+:template: slideshow
 
 Gutzkow zieht "Lenz und Söhne" zurück, anon. Karikatur von 1855.
 

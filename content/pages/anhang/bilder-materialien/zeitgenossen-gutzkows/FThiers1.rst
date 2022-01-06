@@ -3,6 +3,7 @@ Louis-Adolphe Thiers
 
 :slug: FThiers1
 :order: 124
+:template: slideshow
 
 Louis-Adolphe Thiers, 1797-1877.
 

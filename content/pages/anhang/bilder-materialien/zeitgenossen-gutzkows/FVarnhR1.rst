@@ -3,6 +3,7 @@ Rahel Varnhagen von Ense
 
 :slug: FVarnhR1
 :order: 127
+:template: slideshow
 
 Rahel Varnhagen von Ense, 1771-1833
 

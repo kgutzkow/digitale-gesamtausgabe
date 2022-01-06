@@ -3,6 +3,7 @@ Charles Dickens
 
 :slug: FDicke1
 :order: 23
+:template: slideshow
 
 Charles Dickens, 1812-1870
 

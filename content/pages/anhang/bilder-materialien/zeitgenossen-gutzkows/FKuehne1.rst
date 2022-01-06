@@ -3,6 +3,7 @@ Ferdinand Gustav Kühne
 
 :slug: FKuehne1
 :order: 69
+:template: slideshow
 
 Ferdinand Gustav Kühne, 1806-1888.
 

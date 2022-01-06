@@ -3,6 +3,7 @@ Eckensteher Nante
 
 :slug: Nante
 :order: 13
+:template: slideshow
 
 Eckensteher Nante
 

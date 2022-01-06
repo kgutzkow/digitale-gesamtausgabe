@@ -3,6 +3,7 @@ Michels Bartpolitik
 
 :slug: MiBart
 :order: 18
+:template: slideshow
 
 Michels Bartpolitik (Michels Hut- und Bart-Politik).
 

@@ -3,6 +3,7 @@ Karl Seydelmann
 
 :slug: FSeyde1
 :order: 114
+:template: slideshow
 
 .. class:: source
 

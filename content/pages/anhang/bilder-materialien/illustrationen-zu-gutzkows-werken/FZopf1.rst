@@ -3,6 +3,7 @@
 
 :slug: FZopf1
 :order: 5
+:template: slideshow
 
 Die Überraschung beim Tanze. Szene aus "Zopf und Schwert", III,2. Anon. Holzstich, 1844
 

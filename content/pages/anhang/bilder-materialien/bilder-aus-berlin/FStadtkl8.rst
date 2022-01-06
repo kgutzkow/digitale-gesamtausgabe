@@ -3,6 +3,7 @@ Berliner Stadtklatsch (Berliner Börsen)
 
 :slug: FStadtkl8
 :order: 8
+:template: slideshow
 
 Berliner Stadtklatsch (Berliner Börsen)
 

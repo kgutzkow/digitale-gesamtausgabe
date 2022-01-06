@@ -3,6 +3,7 @@ Der Zeitungsmarkt
 
 :slug: ZeiMa
 :order: 10
+:template: slideshow
 
 Der Zeitungs-Markt, 1848.
 

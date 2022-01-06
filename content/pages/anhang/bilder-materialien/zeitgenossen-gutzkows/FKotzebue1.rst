@@ -3,6 +3,7 @@ August von Kotzebue
 
 :slug: FKotzebue1
 :order: 68
+:template: slideshow
 
 August von Kotzebue, 1761-1819
 

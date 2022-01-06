@@ -3,6 +3,7 @@ Eduard von Hartmann
 
 :slug: FHartm1
 :order: 45
+:template: slideshow
 
 Eduard von Hartmann, 1842-1906
 

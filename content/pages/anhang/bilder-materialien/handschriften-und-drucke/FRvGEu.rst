@@ -3,6 +3,7 @@
 
 :slug: FRvGEu
 :order: 29
+:template: slideshow
 
 "Das Bündniß der Ritter vom Geiste". Erste Seite einer Rezension in der von Gustav Kühne herausgegebenen Zeitschrift "Europa".
 

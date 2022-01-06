@@ -3,6 +3,7 @@ Heinrich Heine 1839
 
 :slug: FHeine2
 :order: 48
+:template: slideshow
 
 Heinrich Heine
 

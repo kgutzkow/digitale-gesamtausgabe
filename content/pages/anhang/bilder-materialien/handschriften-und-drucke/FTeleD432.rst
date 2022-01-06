@@ -3,6 +3,7 @@
 
 :slug: FTeleD432
 :order: 18
+:template: slideshow
 
 Karl Gutzkow: "Über Parthei und Partheifähigkeit der Deutschen". In: Telegraph für Deutschland, No. 2, Januar 1843, S. 5-7 (hier S. 5).
 

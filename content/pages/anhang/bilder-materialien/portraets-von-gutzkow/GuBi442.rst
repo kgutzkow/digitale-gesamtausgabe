@@ -3,6 +3,7 @@ Gutzkow um 1844, Lithographie von Valentin Schertle
 
 :slug: GuBi442
 :order: 4
+:template: slideshow
 
 Es ist nicht ganz sicher, wann Valentin Schertle (1809-1885) das Bild anfertigte und wo die Lithographie zuerst veröffentlicht wurde. Möglicherweise schon 1840.
 

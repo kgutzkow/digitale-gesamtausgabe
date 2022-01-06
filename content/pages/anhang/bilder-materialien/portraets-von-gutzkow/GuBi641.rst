@@ -3,6 +3,7 @@ Gutzkow 1864, Zeichnung von Herbert König
 
 :slug: GuBi641
 :order: 20
+:template: slideshow
 
 Gutzkow 1864, Zeichnung von Herbert König
 

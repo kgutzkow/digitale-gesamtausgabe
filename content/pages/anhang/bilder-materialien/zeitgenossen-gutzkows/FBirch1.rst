@@ -3,6 +3,7 @@ Charlotte Birch-Pfeiffer als Leda
 
 :slug: FBirch1
 :order: 7
+:template: slideshow
 
 Charlotte Birch-Pfeiffer als Leda, brütet unermüdlich Eier aus. Karikatur von Alexander von Ungern-Sternberg (1848)
 

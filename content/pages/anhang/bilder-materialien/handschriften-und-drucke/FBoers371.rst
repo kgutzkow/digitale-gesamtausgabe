@@ -3,6 +3,7 @@
 
 :slug: FBoers371
 :order: 12
+:template: slideshow
 
 Frankfurter Börsen-Zeitung. Probeblatt, Januar 1837.
 

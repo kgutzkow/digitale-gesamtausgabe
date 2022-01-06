@@ -3,6 +3,7 @@ Giacomo Meyerbeer
 
 :slug: FMeyerb
 :order: 85
+:template: slideshow
 
 Giacomo Meyerbeer, 1791-1864.
 

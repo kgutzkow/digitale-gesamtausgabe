@@ -3,6 +3,7 @@
 
 :slug: FPuga1
 :order: 7
+:template: slideshow
 
 "Pugatscheff", letzte Szene aus Akt III. Anon. Holzstich, 1845
 

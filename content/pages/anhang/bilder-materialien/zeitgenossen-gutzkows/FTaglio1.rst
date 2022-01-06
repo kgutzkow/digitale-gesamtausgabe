@@ -3,6 +3,7 @@ Maria Taglioni
 
 :slug: FTaglio1
 :order: 122
+:template: slideshow
 
 Maria Taglioni, 1804-1884
 

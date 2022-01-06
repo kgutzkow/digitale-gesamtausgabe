@@ -3,6 +3,7 @@ Emil Adolph Roßmäßler
 
 :slug: FRossm1
 :order: 98
+:template: slideshow
 
 Emil Adolph Roßmäßler, 1806-1867
 

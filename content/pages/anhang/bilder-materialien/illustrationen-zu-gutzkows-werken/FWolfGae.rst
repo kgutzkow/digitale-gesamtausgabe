@@ -3,6 +3,7 @@ Wo der Wolf den Gänsen predigt
 
 :slug: FWolfGae
 :order: 1
+:template: slideshow
 
 Wo der Wolf den Gänsen predigt. Radierung von Emil Hütter, 1817.
 

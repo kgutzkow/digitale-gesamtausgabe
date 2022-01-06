@@ -3,6 +3,7 @@ Ludwig Seeger
 
 :slug: FSeeg1
 :order: 113
+:template: slideshow
 
 Ludwig Seeger, 1810-1864
 

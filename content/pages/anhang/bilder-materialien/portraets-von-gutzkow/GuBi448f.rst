@@ -3,6 +3,7 @@ Gutzkow 1878, Radierung von Doris Raab
 
 :slug: GuBi448f
 :order: 30
+:template: slideshow
 
 Gutzkow 1878, Radierung von Doris Raab
 

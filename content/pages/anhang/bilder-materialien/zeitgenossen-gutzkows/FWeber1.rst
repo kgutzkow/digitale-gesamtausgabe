@@ -3,6 +3,7 @@ Johann Jakob Weber
 
 :slug: FWeber1
 :order: 131
+:template: slideshow
 
 Johann Jakob Weber, 1803-1880. Fotografie, um 1860. (Deutsches Buch- und Schriftmuseum der Deutschen Bücherei Leipzig).
 

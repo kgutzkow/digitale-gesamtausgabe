@@ -3,6 +3,7 @@ Jules-Gabriel Janin
 
 :slug: FJanin1
 :order: 61
+:template: slideshow
 
 Jules-Gabriel Janin, 1804-1874.
 

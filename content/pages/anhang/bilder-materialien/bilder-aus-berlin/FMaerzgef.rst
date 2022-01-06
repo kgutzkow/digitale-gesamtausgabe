@@ -3,6 +3,7 @@ Gedenkblatt für die Berliner Märzgefallenen
 
 :slug: FMaerzgef
 :order: 16
+:template: slideshow
 
 Gedenkblatt für die Berliner Märzgefallenen aus dem Jahre 1848.
 

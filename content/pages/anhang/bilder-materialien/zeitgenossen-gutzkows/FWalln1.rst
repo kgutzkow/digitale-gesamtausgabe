@@ -3,6 +3,7 @@ Franz Wallner
 
 :slug: FWalln1
 :order: 130
+:template: slideshow
 
 Franz Wallner (d.i. Fr. Leidesdorf), 1810-1876
 

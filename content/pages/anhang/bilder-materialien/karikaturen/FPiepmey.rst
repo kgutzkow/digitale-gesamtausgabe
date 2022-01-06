@@ -3,6 +3,7 @@ Hr. Piepmeyer, zum ersten Male in der Paulskirche
 
 :slug: FPiepmey
 :order: 6
+:template: slideshow
 
 Hr. Piepmeyer, zum ersten Male in der Paulskirche, ist ungewiß, ob er auf der Rechten oder Linken Platz nehmen soll. / Er macht die Bekanntschaft eines Journalisten, der ihn über Manches ins Klare bringt.
 

@@ -3,6 +3,7 @@ Fanny Elsler
 
 :slug: FElsler1
 :order: 26
+:template: slideshow
 
 Fanny Elsler, 1810-1884
 

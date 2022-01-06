@@ -3,6 +3,7 @@ Borsigs Fabrik und Villa in Moabit 1867
 
 :slug: Borsig-Moabit
 :order: 10
+:template: slideshow
 
 Borsigs Fabrik und Villa in Moabit 1867
 

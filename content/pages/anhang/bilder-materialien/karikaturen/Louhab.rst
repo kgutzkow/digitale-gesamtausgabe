@@ -3,6 +3,7 @@ Louin haben wir nu
 
 :slug: Louhab
 :order: 24
+:template: slideshow
 
 Louin haben wir nu.
 

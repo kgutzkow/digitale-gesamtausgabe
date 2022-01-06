@@ -3,6 +3,7 @@ Julius Eduard Hitzig
 
 :slug: FHitzi1
 :order: 52
+:template: slideshow
 
 Julius Eduard Hitzig, 1780-1849
 

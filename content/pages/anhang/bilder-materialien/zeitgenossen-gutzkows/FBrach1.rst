@@ -3,6 +3,7 @@ Albert Emil Brachvogel
 
 :slug: FBrach1
 :order: 10
+:template: slideshow
 
 Albert Emil Brachvogel, 1824-1878
 

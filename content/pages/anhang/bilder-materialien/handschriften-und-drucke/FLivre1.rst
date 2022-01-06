@@ -3,6 +3,7 @@
 
 :slug: FLivre1
 :order: 3
+:template: slideshow
 
 "Paris, ou Le Livre des Cent-et-un", Serientitel, 1831-34, 15 Bde, Paris.
 

@@ -3,6 +3,7 @@ Gutzkow 1841, Lithographie von Heinemann
 
 :slug: GuBi411
 :order: 2
+:template: slideshow
 
 Gutzkow 1841, Lithographie von Heinemann
 

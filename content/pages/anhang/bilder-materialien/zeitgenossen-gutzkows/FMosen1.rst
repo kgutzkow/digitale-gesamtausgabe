@@ -3,6 +3,7 @@ Julius Mosen
 
 :slug: FMosen1
 :order: 87
+:template: slideshow
 
 Julius Mosen, 1803-1867
 

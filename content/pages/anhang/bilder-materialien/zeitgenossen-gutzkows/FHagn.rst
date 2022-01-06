@@ -3,6 +3,7 @@ Charlotte von Hagn
 
 :slug: FHagn
 :order: 43
+:template: slideshow
 
 Charlotte von Hagn, 1809-1891.
 

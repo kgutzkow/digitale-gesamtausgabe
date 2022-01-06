@@ -3,6 +3,7 @@ Ida Gräfin Hahn-Hahn
 
 :slug: FHahnh1
 :order: 44
+:template: slideshow
 
 Ida Gräfin Hahn-Hahn, 1805-1880
 

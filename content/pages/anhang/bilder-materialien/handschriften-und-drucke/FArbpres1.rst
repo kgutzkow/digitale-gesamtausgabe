@@ -3,6 +3,7 @@ Arbeiterzeitung 1848/49
 
 :slug: FArbpres1
 :order: 24
+:template: slideshow
 
 Arbeiterzeitungen aus der Revolution 1848/49.
 

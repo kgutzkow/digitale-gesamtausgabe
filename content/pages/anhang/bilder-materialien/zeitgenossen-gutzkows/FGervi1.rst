@@ -3,6 +3,7 @@ Georg Gottfried Gervinus
 
 :slug: FGervi1
 :order: 36
+:template: slideshow
 
 Georg Gottfried Gervinus, 1805-1871
 

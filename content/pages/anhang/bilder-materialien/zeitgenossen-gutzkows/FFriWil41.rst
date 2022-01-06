@@ -3,6 +3,7 @@ Friedrich Wilhelm IV., König von Preußen
 
 :slug: FFriWil41
 :order: 33
+:template: slideshow
 
 .. class:: source
 

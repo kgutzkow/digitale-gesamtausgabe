@@ -3,6 +3,7 @@ Christian Dietrich Grabbe, Taschenbuch 1838
 
 :slug: FGrabb2
 :order: 39
+:template: slideshow
 
 Christian Dietrich Grabbe, 1801-1836
 

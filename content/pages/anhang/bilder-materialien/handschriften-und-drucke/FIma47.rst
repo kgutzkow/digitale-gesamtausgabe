@@ -3,6 +3,7 @@ Karl Gutzkow: Imagina, 1847. Titelseite.
 
 :slug: FIma47
 :order: 23
+:template: slideshow
 
 Karl Gutzkow: Imagina. Titelseite.
 

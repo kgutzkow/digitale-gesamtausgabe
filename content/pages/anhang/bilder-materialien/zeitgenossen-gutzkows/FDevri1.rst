@@ -3,6 +3,7 @@ Emil Devrient
 
 :slug: FDevri1
 :order: 22
+:template: slideshow
 
 .. class:: source
 

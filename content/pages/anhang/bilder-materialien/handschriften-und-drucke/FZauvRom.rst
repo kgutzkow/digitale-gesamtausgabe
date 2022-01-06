@@ -3,6 +3,7 @@
 
 :slug: FZauvRom
 :order: 41
+:template: slideshow
 
 Titelblatt des Zweiten Bandes der 4. Aufl. von Karl Gutzkows Roman "Der Zauberer von Rom" (Berlin 1878).
 

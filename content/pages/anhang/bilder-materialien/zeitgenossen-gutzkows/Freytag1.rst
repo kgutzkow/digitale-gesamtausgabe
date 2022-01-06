@@ -3,6 +3,7 @@ Gustav Freytag
 
 :slug: Freytag1
 :order: 31
+:template: slideshow
 
 Gustav Freytag, 1816-1895
 

@@ -3,6 +3,7 @@ Modell der neuerfundenen Mausfalle, 1849
 
 :slug: Mause1
 :order: 12
+:template: slideshow
 
 "Modell der neuerfundenen Mausfalle, worin die Herren von Gottes Gnaden die Demokraten fangen."
 

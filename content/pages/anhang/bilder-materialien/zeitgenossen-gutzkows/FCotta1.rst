@@ -3,6 +3,7 @@ Johann Friedrich Cotta
 
 :slug: FCotta1
 :order: 20
+:template: slideshow
 
 Johann Friedrich Cotta, 1764-1832
 

@@ -3,6 +3,7 @@ Paalzow, Hahn-Hahn und Bettina von Arnim
 
 :slug: FPaalHa1
 :order: 89
+:template: slideshow
 
 Ida Gräfin Hahn-Hahn, Henriette Paalzow und Bettina von Arnim, das "Kind", das hier ironischerweise greisenhaft dargestellt ist.
 

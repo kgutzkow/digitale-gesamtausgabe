@@ -3,6 +3,7 @@ Julian Schmidt
 
 :slug: Schmidt1
 :order: 108
+:template: slideshow
 
 Julian Schmidt, 1818-1886
 

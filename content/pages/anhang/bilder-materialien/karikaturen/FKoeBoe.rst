@@ -3,6 +3,7 @@ Der Königsberger Böttcher
 
 :slug: FKoeBoe
 :order: 3
+:template: slideshow
 
 Der Königsberger Böttcher.
 

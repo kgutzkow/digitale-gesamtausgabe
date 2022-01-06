@@ -3,6 +3,7 @@ Christian Dietrich Grabbe, Sämmtliche Werke 1874
 
 :slug: FGrabb1
 :order: 40
+:template: slideshow
 
 Christian Dietrich Grabbe, 1801-1836
 

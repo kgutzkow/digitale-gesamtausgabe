@@ -3,6 +3,7 @@ Die Schlossbrücke in Berlin um 1860
 
 :slug: Schlossbruecke
 :order: 10
+:template: slideshow
 
 Die Schlossbrücke in Berlin um 1860
 

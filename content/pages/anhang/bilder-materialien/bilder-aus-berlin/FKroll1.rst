@@ -3,6 +3,7 @@ Krolls Etablissement (Außenansicht)
 
 :slug: FKroll1
 :order: 13
+:template: slideshow
 
 Krolls Etablissement (Außenansicht)
 

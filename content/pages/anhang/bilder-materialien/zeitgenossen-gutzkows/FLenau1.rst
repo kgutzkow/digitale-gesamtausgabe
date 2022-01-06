@@ -3,6 +3,7 @@ Nicolaus Lenau
 
 :slug: FLenau1
 :order: 75
+:template: slideshow
 
 Nicolaus Lenau, 1802-1850
 

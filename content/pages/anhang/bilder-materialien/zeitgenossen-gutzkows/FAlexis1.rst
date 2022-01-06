@@ -3,6 +3,7 @@ Willibald Alexis
 
 :slug: FAlexis1
 :order: 1
+:template: slideshow
 
 Willibald Alexis (d.i. Georg Wilhelm Heinrich Häring), 1798-1871,
 

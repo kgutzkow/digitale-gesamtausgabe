@@ -3,6 +3,7 @@ Stadtplan Berlins von 1830
 
 :slug: FBeStpl
 :order: 1
+:template: slideshow
 
 Gutzkow schickt seine Leser auf den Weg durch die grosse Stadt ...
 

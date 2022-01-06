@@ -3,6 +3,7 @@ Titelblatt mit Illustration
 
 :slug: FPhysio7
 :order: 6
+:template: slideshow
 
 Titelblatt mit Illustration
 

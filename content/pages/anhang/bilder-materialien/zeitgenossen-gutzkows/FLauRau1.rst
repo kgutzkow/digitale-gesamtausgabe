@@ -3,6 +3,7 @@ Laube, Raupach, Birch
 
 :slug: FLauRau1
 :order: 74
+:template: slideshow
 
 Charlotte Birch-Pfeiffer (als Fischersfrau), Heinrich Laube (als verschreckter Angler) und Ernst Raupach mit einer Kiepe, in der sich dicke Fische befinden (einer trägt die Aufschrift "Hohenstaufen", Anspielung auf Raupachs zahlreiche Hohenstaufendramen). Das Erschrecken Laubes erklärt sich durch den Schriftzug "Friedrich II." auf seinem Fisch, Hinweis auf die Zensurvorschrift, keinen Hohenzollern auf die Bühne bringen zu dürfen. Karikatur von Alexander von Ungern-Sternberg
 

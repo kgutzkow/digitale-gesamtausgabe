@@ -3,6 +3,7 @@ Gottfried Keller
 
 :slug: FKelle1
 :order: 64
+:template: slideshow
 
 Gottfried Keller, 1819-1890
 

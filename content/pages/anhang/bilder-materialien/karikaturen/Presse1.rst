@@ -3,6 +3,7 @@ Politisch-satirische Journale in Berlin, 1848/49
 
 :slug: Presse1
 :order: 8
+:template: slideshow
 
 In Berlin verbreitete politisch-satirische Journale aus der Zeit der Revolution 1848/49.
 

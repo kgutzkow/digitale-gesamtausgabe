@@ -3,6 +3,7 @@ Louis' Verbannung
 
 :slug: LouVer
 :order: 26
+:template: slideshow
 
 Louis' Verbannung.
 

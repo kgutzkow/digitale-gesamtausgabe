@@ -3,6 +3,7 @@
 
 :slug: FRheinZei
 :order: 26
+:template: slideshow
 
 "Neue Rheinische Zeitung" vom 19. Mai 1849
 

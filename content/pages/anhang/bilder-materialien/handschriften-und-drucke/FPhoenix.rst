@@ -3,6 +3,7 @@
 
 :slug: FPhoenix
 :order: 8
+:template: slideshow
 
 "Phoenix", Titelvignette, 1. Jan. 1835
 

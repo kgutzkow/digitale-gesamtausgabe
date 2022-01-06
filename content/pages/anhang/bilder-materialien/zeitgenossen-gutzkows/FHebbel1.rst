@@ -3,6 +3,7 @@ Friedrich Hebbel
 
 :slug: FHebbel1
 :order: 46
+:template: slideshow
 
 Friedrich Hebbel, 1813-1863
 

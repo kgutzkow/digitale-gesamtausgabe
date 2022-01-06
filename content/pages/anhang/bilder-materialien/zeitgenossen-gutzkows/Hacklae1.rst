@@ -3,6 +3,7 @@ Friedrich Wilhelm Hackländer
 
 :slug: Hacklae1
 :order: 42
+:template: slideshow
 
 Friedrich Wilhelm Hackländer, 1816-1877
 

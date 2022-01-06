@@ -3,6 +3,7 @@ Verlagsankündigung
 
 :slug: FPhysio6
 :order: 13
+:template: slideshow
 
 Verlagsankündigung
 

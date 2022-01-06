@@ -3,6 +3,7 @@ Berliner Zeitungsschau 1850 (I)
 
 :slug: ZeiSch1
 :order: 20
+:template: slideshow
 
 Berliner Zeitungsschau 1850 - Tante Voß u. Onkel Spener.
 

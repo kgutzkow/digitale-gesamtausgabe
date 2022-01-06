@@ -3,6 +3,7 @@ Heinrich Heine, "Ideen. Das Buch Le Grand", Capitel XII/XIII, 1827
 
 :slug: FBuLegr
 :order: 1
+:template: slideshow
 
 Heinrich Heine: Reisebilder. Theil 2: Ideen. Das Buch Le Grand. Hamburg: Hoffmann & Campe, 1827. Capitel XII. / Capitel XIII.
 

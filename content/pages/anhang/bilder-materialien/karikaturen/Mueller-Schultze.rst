@@ -3,6 +3,7 @@ Müller und Schultze
 
 :slug: Mueller-Schultze
 :order: 13
+:template: slideshow
 
 Müller und Schultze, das Berliner Spießbürgerpaar des „Kladderadatsch“.
 

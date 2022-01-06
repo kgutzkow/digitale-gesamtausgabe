@@ -3,6 +3,7 @@ Gutzkow um 1875, Photo der Photograf. Gesellschaft Berlin
 
 :slug: GuBi453
 :order: 26
+:template: slideshow
 
 Gutzkow um 1875, Photo der Photograf. Gesellschaft Berlin
 

@@ -3,6 +3,7 @@ Therese von Bacheracht
 
 :slug: FBacher1
 :order: 3
+:template: slideshow
 
 Therese von Bacheracht, 1804-1852.
 

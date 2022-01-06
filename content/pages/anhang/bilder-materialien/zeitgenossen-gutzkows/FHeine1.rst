@@ -3,6 +3,7 @@ Heinrich Heine
 
 :slug: FHeine1
 :order: 47
+:template: slideshow
 
 Heinrich Heine, 1797-1856
 

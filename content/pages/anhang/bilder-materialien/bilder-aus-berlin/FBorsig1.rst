@@ -3,6 +3,7 @@ Borsigs Werkstätten
 
 :slug: FBorsig1
 :order: 2
+:template: slideshow
 
 Borsigs Werkstätten
 

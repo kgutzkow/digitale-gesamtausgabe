@@ -3,6 +3,7 @@ Jakob Venedey
 
 :slug: FVened1
 :order: 128
+:template: slideshow
 
 Jakob Venedey, 1805-1871
 

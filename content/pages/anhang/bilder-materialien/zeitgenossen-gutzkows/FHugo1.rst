@@ -3,6 +3,7 @@ Victor Hugo
 
 :slug: FHugo1
 :order: 57
+:template: slideshow
 
 Victor Hugo, 1802-1885
 

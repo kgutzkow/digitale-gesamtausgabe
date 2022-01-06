@@ -3,6 +3,7 @@ Russenhülfe 1849
 
 :slug: RussHi
 :order: 15
+:template: slideshow
 
 Russenhülfe 1849.
 

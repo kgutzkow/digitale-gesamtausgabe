@@ -3,6 +3,7 @@ Karl Baun-Wiesbaden
 
 :slug: FBraun1
 :order: 11
+:template: slideshow
 
 Karl Braun-Wiesbaden
 

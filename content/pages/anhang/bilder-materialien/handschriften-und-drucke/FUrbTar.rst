@@ -3,6 +3,7 @@
 
 :slug: FUrbTar
 :order: 19
+:template: slideshow
 
 Illustration zu einer "Scene aus dem 1. Act" vom Drama "Das Urbild des Tartüffe".
 

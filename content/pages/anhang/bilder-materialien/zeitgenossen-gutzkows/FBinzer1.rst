@@ -3,6 +3,7 @@ August Daniel Freiherr von Binzer
 
 :slug: FBinzer1
 :order: 5
+:template: slideshow
 
 August Daniel Freiherr von Binzer, 1793-1868
 

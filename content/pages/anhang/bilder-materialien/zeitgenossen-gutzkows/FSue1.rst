@@ -3,6 +3,7 @@ Eugène Sue
 
 :slug: FSue1
 :order: 121
+:template: slideshow
 
 Eugène Sue, 1804-1857
 

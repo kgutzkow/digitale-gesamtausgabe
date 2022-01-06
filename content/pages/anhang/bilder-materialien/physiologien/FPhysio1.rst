@@ -3,6 +3,7 @@
 
 :slug: FPhysio1
 :order: 2
+:template: slideshow
 
 "Physiologie du Théatre", 1841, Titelblatt und Illustration
 

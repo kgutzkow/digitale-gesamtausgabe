@@ -3,6 +3,7 @@
 
 :slug: FWaerwo
 :order: 37
+:template: slideshow
 
 Titelillustration (Holzschnitttafel) und Titelblatt von Karl Gutzkows historischer Erzählung "Der Wärwolf" (Wien: Verlag der liter.-artist. Anstalt von C. Dittmarsch, 1871).
 

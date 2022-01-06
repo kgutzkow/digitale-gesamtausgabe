@@ -3,6 +3,7 @@ Karl Herloßsohn
 
 :slug: FHerlos
 :order: 49
+:template: slideshow
 
 Karl Herloßsohn, 1804-1849.
 

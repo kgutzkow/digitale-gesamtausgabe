@@ -3,6 +3,7 @@
 
 :slug: FTeleD401
 :order: 14
+:template: slideshow
 
 Telegraph für Deutschland, No. 1, Januar 1840.
 

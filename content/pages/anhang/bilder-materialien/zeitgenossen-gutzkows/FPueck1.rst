@@ -3,6 +3,7 @@ Fürst von Pückler-Muskau
 
 :slug: FPueck1
 :order: 92
+:template: slideshow
 
 Hermann Ludwig Heinrich Fürst von Pückler-Muskau, 1785-1871
 

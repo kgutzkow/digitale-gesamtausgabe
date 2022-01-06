@@ -3,6 +3,7 @@ Alexander von Humboldt
 
 :slug: FAHumb1
 :order: 58
+:template: slideshow
 
 Alexander von Humboldt, 1769-1859.
 

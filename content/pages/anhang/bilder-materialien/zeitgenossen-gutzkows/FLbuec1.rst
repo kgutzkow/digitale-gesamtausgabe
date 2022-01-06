@@ -3,6 +3,7 @@ Ludwig Büchner
 
 :slug: FLbuec1
 :order: 13
+:template: slideshow
 
 Ludwig Büchner, 1824-1899
 

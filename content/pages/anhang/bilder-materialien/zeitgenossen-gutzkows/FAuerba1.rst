@@ -3,6 +3,7 @@ Berthold Auerbach
 
 :slug: FAuerba1
 :order: 2
+:template: slideshow
 
 Berthold Auerbach, 1812-1882
 

@@ -3,6 +3,7 @@ Gustav Adolf Wislicenus
 
 :slug: FWislic1
 :order: 134
+:template: slideshow
 
 Gustav Adolph Wislicenus, 1803-1875
 

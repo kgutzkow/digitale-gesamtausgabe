@@ -3,6 +3,7 @@
 
 :slug: brickegickel
 :order: 1
+:template: slideshow
 
 „Brickegickel“, ca. 1912. Unbekannter Fotograf.
 

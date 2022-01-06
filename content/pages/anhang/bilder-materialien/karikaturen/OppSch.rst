@@ -3,6 +3,7 @@ Oppositionsschule 1850
 
 :slug: OppSch
 :order: 14
+:template: slideshow
 
 Oppositionsschule 1849 [recte: 1850!].
 

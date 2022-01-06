@@ -3,6 +3,7 @@
 
 :slug: FNBEleg
 :order: 6
+:template: slideshow
 
 Rezension von Gutzkows "Briefen eines Narren an eine Närrin" in Laubes "Zeitung für die elegante Welt", 28. Februar 1833.
 

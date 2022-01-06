@@ -3,6 +3,7 @@ Préliminaires, S. 5
 
 :slug: FPhysio71
 :order: 7
+:template: slideshow
 
 Préliminaires, S. 5
 

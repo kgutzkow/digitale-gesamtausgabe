@@ -3,6 +3,7 @@ Victor-Marie Hugo
 
 :slug: FHugo2
 :order: 56
+:template: slideshow
 
 Victor-Marie Hugo, 1802-1885.
 

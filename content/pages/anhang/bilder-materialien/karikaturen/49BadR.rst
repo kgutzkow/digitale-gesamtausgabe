@@ -3,6 +3,7 @@
 
 :slug: 49BadR
 :order: 13
+:template: slideshow
 
 1849 Badische Revolution.
 

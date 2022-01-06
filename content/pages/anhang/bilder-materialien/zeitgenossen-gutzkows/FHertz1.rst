@@ -3,6 +3,7 @@ Henriette Hertz
 
 :slug: FHertz1
 :order: 50
+:template: slideshow
 
 Henriette Hertz, 1764-1847
 

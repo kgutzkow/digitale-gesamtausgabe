@@ -3,6 +3,7 @@
 
 :slug: FPatk1
 :order: 4
+:template: slideshow
 
 Szene aus dem III. Akt von "Patkul". Anon. Holzstich, 1844
 

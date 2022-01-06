@@ -3,6 +3,7 @@ Auguste Schmidt und Louise Otto Peters
 
 :slug: FSchmPe1
 :order: 107
+:template: slideshow
 
 Auguste Schmidt, 1833-1902, und Louise Otto Peters, 1819-1895
 

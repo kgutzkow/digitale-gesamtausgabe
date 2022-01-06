@@ -3,6 +3,7 @@ William Makepeace Thackeray
 
 :slug: FThack1
 :order: 123
+:template: slideshow
 
 William Makepeace Thackeray, 1811-1863
 

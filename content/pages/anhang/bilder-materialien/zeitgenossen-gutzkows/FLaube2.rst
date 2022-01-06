@@ -3,6 +3,7 @@ Heinrich Laube
 
 :slug: FLaube2
 :order: 72
+:template: slideshow
 
 Heinrich Laube, 1798-1873
 

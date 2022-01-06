@@ -3,6 +3,7 @@ Louis' Verbannung
 
 :slug: LouZuk
 :order: 27
+:template: slideshow
 
 Louis' Zukunft.
 

@@ -3,6 +3,7 @@ Levin Schücking
 
 :slug: FSchueck1
 :order: 109
+:template: slideshow
 
 Levin Schücking, 1814-1883
 

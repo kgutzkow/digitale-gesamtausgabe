@@ -3,6 +3,7 @@ Borsigs Maschinenbauanstalt (Zusammensetzungssaal)
 
 :slug: FBorsig3
 :order: 6
+:template: slideshow
 
 Borsigs Maschinenbauanstalt (Zusammensetzungssaal)
 

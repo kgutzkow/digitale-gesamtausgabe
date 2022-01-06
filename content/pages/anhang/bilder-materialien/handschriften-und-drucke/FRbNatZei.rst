@@ -3,6 +3,7 @@ Besprechung der "Rückblicke"
 
 :slug: FRbNatZei
 :order: 40
+:template: slideshow
 
 Besprechung der "Rückblicke"
 

@@ -3,6 +3,7 @@ Gutzkow um 1847, Stahlstich des Bibliographischen Instituts Hildburghausen
 
 :slug: GuBi444f
 :order: 8
+:template: slideshow
 
 Gutzkow um 1847, Stahlstich des Bibliographischen Instituts Hildburghausen
 

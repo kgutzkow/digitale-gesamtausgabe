@@ -3,6 +3,7 @@ Franz von Gaudy
 
 :slug: FGaudy1
 :order: 34
+:template: slideshow
 
 Franz von Gaudy, 1800-1840
 

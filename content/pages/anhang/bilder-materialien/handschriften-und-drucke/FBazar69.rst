@@ -3,6 +3,7 @@
 
 :slug: FBazar69
 :order: 35
+:template: slideshow
 
 Der Bazar. Illustrirte Damen-Zeitung. 15. Jg., Nr. 6, 8. Februar 1869.
 

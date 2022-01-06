@@ -3,6 +3,7 @@ Moritz Gottlieb Saphir
 
 :slug: FSaphi1
 :order: 104
+:template: slideshow
 
 Moritz Gottlieb Saphir, 1795-1858
 

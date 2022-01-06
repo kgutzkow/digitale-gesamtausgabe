@@ -3,6 +3,7 @@ Clara Schumann
 
 :slug: FSchum1
 :order: 111
+:template: slideshow
 
 Clara Schumann, 1819-1896
 

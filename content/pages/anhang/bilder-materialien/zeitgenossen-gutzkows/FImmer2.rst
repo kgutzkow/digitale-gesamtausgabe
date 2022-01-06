@@ -3,6 +3,7 @@ Karl Immermann, 1838
 
 :slug: FImmer2
 :order: 59
+:template: slideshow
 
 Karl Immermann, 1796-1840
 

@@ -3,6 +3,7 @@ George Sand
 
 :slug: FSand2
 :order: 103
+:template: slideshow
 
 George Sand,1804-1876
 

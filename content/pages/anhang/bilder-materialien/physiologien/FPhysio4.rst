@@ -3,6 +3,7 @@ Inhaltsverzeichnis, 2. Seite
 
 :slug: FPhysio4
 :order: 5
+:template: slideshow
 
 Inhaltsverzeichnis der "Physiologie de la Presse", Paris 1841 / Vorsatzblatt der "Physiologie de l'Ecolier", Paris.
 

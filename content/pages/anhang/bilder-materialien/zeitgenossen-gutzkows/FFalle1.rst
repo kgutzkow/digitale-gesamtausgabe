@@ -3,6 +3,7 @@ Hoffmann von Fallersleben
 
 :slug: FFalle1
 :order: 53
+:template: slideshow
 
 Hoffmann von Fallersleben, 1798-1874
 

@@ -3,6 +3,7 @@ Theodor Fontane
 
 :slug: FFonta1
 :order: 27
+:template: slideshow
 
 Theodor Fontane, 1819-1898
 

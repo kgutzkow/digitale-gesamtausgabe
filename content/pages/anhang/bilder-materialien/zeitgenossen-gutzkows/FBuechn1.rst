@@ -3,6 +3,7 @@ Georg Büchner
 
 :slug: FBuechn1
 :order: 12
+:template: slideshow
 
 Georg Büchner
 

@@ -3,6 +3,7 @@ Gutzkows Fahnenkorrektur des Brockhaus (2. S.)
 
 :slug: FBrocFa
 :order: 32
+:template: slideshow
 
 Gutzkows Fahnenkorrektur des Eintrags "Gutzkow" im Conversationslexikons von Brockhaus, 2. Seite.
 

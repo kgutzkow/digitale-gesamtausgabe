@@ -3,6 +3,7 @@
 
 :slug: FDeut
 :order: 45
+:template: slideshow
 
 Schutzumschlag der 1969 in der "sammlung insel" erschienenen Ausgabe von Karl Gutzkows "Deutschland am Vorabend seines Falles oder seiner Größe".
 

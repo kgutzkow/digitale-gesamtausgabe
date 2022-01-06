@@ -3,6 +3,7 @@ Leser (Welche interessante Lektüre)
 
 :slug: Leser36
 :order: 1
+:template: slideshow
 
 Leser (Welche interessante Lektüre).
 

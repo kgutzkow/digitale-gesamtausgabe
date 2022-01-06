@@ -3,6 +3,7 @@ Ludwig Storch
 
 :slug: FStorch1
 :order: 119
+:template: slideshow
 
 Ludwig Storch, 1803-1881
 

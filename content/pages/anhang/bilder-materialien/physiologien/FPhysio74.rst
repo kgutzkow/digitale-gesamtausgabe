@@ -3,6 +3,7 @@ Préliminaires, S. 10-11
 
 :slug: FPhysio74
 :order: 10
+:template: slideshow
 
 Préliminaires, S. 10-11
 

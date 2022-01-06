@@ -3,6 +3,7 @@ Wolfgang Menzel, Photographie
 
 :slug: FMenzel2
 :order: 84
+:template: slideshow
 
 Wolfgang Menzel, 1798-1873
 

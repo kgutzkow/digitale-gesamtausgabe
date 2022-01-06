@@ -3,6 +3,7 @@ Theodor Döring
 
 :slug: FDoer1
 :order: 24
+:template: slideshow
 
 Theodor Döring, 1803-1878.
 

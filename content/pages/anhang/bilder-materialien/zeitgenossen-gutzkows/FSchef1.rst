@@ -3,6 +3,7 @@ Leopold Schefer
 
 :slug: FSchef1
 :order: 105
+:template: slideshow
 
 Leopold Schefer, 1784-1862
 

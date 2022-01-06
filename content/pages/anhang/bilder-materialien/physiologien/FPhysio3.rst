@@ -3,6 +3,7 @@ Inhaltsverzeichnis, 1. Seite
 
 :slug: FPhysio3
 :order: 4
+:template: slideshow
 
 Inhaltsverzeichnis der "Physiologie de la Presse", Paris 1841.
 

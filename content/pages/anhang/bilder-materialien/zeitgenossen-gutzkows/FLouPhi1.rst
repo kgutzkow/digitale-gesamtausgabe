@@ -3,6 +3,7 @@ Louis Philippe
 
 :slug: FLouPhi1
 :order: 79
+:template: slideshow
 
 Louis Philippe, duc dOrléans, 1773-1850.
 

@@ -3,6 +3,7 @@ Friedrich von Sallet
 
 :slug: FSalle1
 :order: 101
+:template: slideshow
 
 Friedrich von Sallet, 1812-1843
 

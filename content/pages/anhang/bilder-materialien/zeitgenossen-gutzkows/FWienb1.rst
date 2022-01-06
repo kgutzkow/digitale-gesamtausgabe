@@ -3,6 +3,7 @@ Ludwig Wienbarg
 
 :slug: FWienb1
 :order: 132
+:template: slideshow
 
 Ludolf Wienbarg, 1802-1872, als "Windpark".
 

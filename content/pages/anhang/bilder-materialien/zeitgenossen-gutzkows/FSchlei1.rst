@@ -3,6 +3,7 @@ Friedrich Schleiermacher
 
 :slug: FSchlei1
 :order: 106
+:template: slideshow
 
 Friedrich Schleiermacher, 1768-1834
 

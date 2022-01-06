@@ -3,6 +3,7 @@ Heinrich Eberhard Gottlob Paulus
 
 :slug: FPaulus1
 :order: 90
+:template: slideshow
 
 Heinrich Eberhard Gottlob Paulus, 1761-1851.
 

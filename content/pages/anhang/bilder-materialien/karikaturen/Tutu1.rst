@@ -3,6 +3,7 @@ Gutzkow raucht Therese von Bacheracht. Karikatur 1846
 
 :slug: Tutu1
 :order: 4
+:template: slideshow
 
 Gutzkow raucht Therese von Bacheracht. Gez. und gest. von Alexander von Ungern-Sternberg, Karikatur 1846.
 

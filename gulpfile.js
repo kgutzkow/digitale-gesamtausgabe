@@ -1,5 +1,6 @@
 var autoprefixer = require('gulp-autoprefixer'),
     concat = require('gulp-concat'),
+    clean = require('gulp-clean'),
     gulp = require('gulp'),
     pump = require('pump'),
     fs = require('fs'),
@@ -25,6 +26,15 @@ function getHash(dirname, basename, ext) {
     }
 }
 
+gulp.task('css:clean', function(cb) {
+    pump([
+        gulp.src([
+            'theme/static/css/*.css'
+        ]),
+        clean()
+    ], cb);
+});
+
 gulp.task('theme:patch', function(cb) {
     const cssAppHash = getHash('theme/static/css', 'app', 'css');
     const cssFontsHash = getHash('theme/static/css', 'fonts', 'css');
@@ -47,7 +57,7 @@ gulp.task('theme:patch', function(cb) {
     ], cb);
 });
 
-gulp.task('css:theme', function(cb) {
+gulp.task('css:theme', gulp.series('css:clean', function(cb) {
     pump([
         gulp.src([
             'theme/src/fonts.scss',
@@ -60,7 +70,7 @@ gulp.task('css:theme', function(cb) {
         hash({format: '{name}.{hash}{ext}'}),
         gulp.dest('theme/static/css')
     ], cb);
-});
+}));
 
 gulp.task('css', gulp.series('css:theme'));
 
@@ -87,7 +97,16 @@ gulp.task('js:libs', function(cb) {
     ], cb);
 });
 
-gulp.task('js:theme', function(cb) {
+gulp.task('js:theme:clean', function(cb) {
+    pump([
+        gulp.src([
+            'theme/static/js/theme.*.js',
+        ]),
+        clean(),
+    ], cb);
+});
+
+gulp.task('js:theme', gulp.series('js:theme:clean', function(cb) {
     pump([
         gulp.src([
             'theme/scripts/*.js',
@@ -96,7 +115,7 @@ gulp.task('js:theme', function(cb) {
         hash({format: '{name}.{hash}{ext}'}),
         gulp.dest('theme/static/js')
     ], cb);
-});
+}));
 
 gulp.task('js', gulp.parallel('js:libs', 'js:theme'));
 

@@ -3,6 +3,7 @@
 
 :slug: FGirard
 :order: 37
+:template: slideshow
 
 Émile de Girardin, 1806-1881.
 

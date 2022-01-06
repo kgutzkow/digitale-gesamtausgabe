@@ -3,6 +3,7 @@ Georg Herwegh
 
 :slug: FHerwe1
 :order: 51
+:template: slideshow
 
 Georg Herwegh, 1817-1875
 

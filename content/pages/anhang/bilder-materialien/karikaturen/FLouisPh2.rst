@@ -3,6 +3,7 @@ Metamorphosen zur Birne: Louis Philippe
 
 :slug: FLouisPh2
 :order: 2
+:template: slideshow
 
 Karikatur von Louis Philippe Artikel
 

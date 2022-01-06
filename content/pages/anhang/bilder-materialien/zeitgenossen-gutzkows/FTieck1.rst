@@ -3,6 +3,7 @@ Ludwig Tieck
 
 :slug: FTieck1
 :order: 125
+:template: slideshow
 
 Ludwig Tieck, 1773-1853
 

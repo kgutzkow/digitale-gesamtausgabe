@@ -3,6 +3,7 @@
 
 :slug: FDeuRom
 :order: 36
+:template: slideshow
 
 Deutsche Roman-Zeitung, Nr. 13, 1870.
 

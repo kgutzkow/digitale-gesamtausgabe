@@ -3,6 +3,7 @@ Gutzkow als Ritter vom Geist, Karikatur von Herbert König 1853
 
 :slug: GuBiRvG
 :order: 11
+:template: slideshow
 
 Gutzkow als Ritter vom Geist, Karikatur von Herbert König 1853
 

@@ -3,6 +3,7 @@ Roderich Benedix
 
 :slug: FBened1
 :order: 4
+:template: slideshow
 
 Roderich Benedix, 1811-1873
 

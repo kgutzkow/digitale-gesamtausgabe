@@ -3,6 +3,7 @@ Wilhelm Raabe
 
 :slug: FRaabe1
 :order: 93
+:template: slideshow
 
 Wilhelm Raabe, 1831-1910
 

@@ -3,6 +3,7 @@ Friedrich Wilhelm IV. 1848
 
 :slug: FrWi4K
 :order: 11
+:template: slideshow
 
 Friedrich Wilhelm IV. 1848.
 

@@ -3,6 +3,7 @@ Johannes Minckwitz
 
 :slug: FMinck1
 :order: 86
+:template: slideshow
 
 Johannes Minckwitz, 1812-1885
 

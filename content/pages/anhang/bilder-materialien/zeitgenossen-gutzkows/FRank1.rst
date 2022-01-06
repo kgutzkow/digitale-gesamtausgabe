@@ -3,6 +3,7 @@ Josef Rank
 
 :slug: FRank1
 :order: 94
+:template: slideshow
 
 Josef Rank, 1816-1896
 

@@ -3,6 +3,7 @@ Joseph Freiherr von Eichendorff
 
 :slug: FEichen1
 :order: 25
+:template: slideshow
 
 Joseph Freiherr von Eichendorff, 1788-1857
 

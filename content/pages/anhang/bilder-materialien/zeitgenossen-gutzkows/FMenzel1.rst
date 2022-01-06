@@ -3,6 +3,7 @@ Wolfgang Menzel, Titelkupfer 1877
 
 :slug: FMenzel1
 :order: 83
+:template: slideshow
 
 Wolfgang Menzel, 1798-1873
 

@@ -3,6 +3,7 @@
 
 :slug: FIllu1864
 :order: 33
+:template: slideshow
 
 "Zu Karl Gutzkow's 25jährigem Jubiläum. Originalzeichnung von Herbert König."
 

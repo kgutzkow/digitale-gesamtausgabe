@@ -3,6 +3,7 @@ Karl Frenzel
 
 :slug: FFrenz1
 :order: 30
+:template: slideshow
 
 Karl Frenzel, 1827-1914
 

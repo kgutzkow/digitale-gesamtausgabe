@@ -3,6 +3,7 @@ Hamburger Zensoren, 1874
 
 :slug: FZensurHH
 :order: 5
+:template: slideshow
 
 "Hamburger Zensoren".
 

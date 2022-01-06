@@ -3,6 +3,7 @@ Bogumil Dawison
 
 :slug: FDawis1
 :order: 21
+:template: slideshow
 
 Bogumil Dawison, 1818-1872
 

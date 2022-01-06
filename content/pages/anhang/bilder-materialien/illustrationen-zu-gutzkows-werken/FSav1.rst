@@ -3,6 +3,7 @@ Lady Macclesfield aus "Richard Savage"
 
 :slug: FSav1
 :order: 2
+:template: slideshow
 
 Lady Macclesfield. Handkollorierter Holzstich zu "Richard Savage", 1841
 

@@ -3,6 +3,7 @@ Gutzkow 1844, Holzstich von John Allanson
 
 :slug: GuBi441
 :order: 3
+:template: slideshow
 
 Gutzkow 1844, Holzstich von John Allanson
 
