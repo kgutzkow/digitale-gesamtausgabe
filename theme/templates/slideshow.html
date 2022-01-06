@@ -18,11 +18,11 @@
         <ul class="menu vertical">
           {% if page.children %}
             {% for images in page.children %}
-              <li><a href="{{ SITEURL }}/pages/{{ images.slug }}">{{ images.title }}</a></li>
+              <li><a href="{{ SITEURL }}/pages/{{ images.slug }}.html">{{ images.title }}</a></li>
             {% endfor %}
           {% else %}
             {% for images in page.parent.children %}
-              <li><a href="{{ SITEURL }}/pages/{{ images.slug }}">{{ images.title }}</a></li>
+              <li><a href="{{ SITEURL }}/pages/{{ images.slug }}.html">{{ images.title }}</a></li>
             {% endfor %}
           {% endif %}
         </ul>
