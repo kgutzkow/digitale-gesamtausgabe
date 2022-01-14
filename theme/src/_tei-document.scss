@@ -1,0 +1,87 @@
+.text-extract {
+    h2 {
+        font-size: rem-calc(14);
+        font-weight: normal;
+        font-variant: small-caps;
+    }
+
+    div.extract {
+        font-size: rem-calc(13);
+    }
+
+    div.buttons {
+        text-align: right;
+    }
+}
+
+/**
+ * Reader formatting
+ */
+.reader-overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffffaa;
+    z-index: 1000;
+    transition: 0.5s background-color;
+
+    &.hidden {
+        display: block;
+        visibility: hidden;
+        background-color: #ffffff00;
+        z-index: -1;
+    }
+
+    .reader-wrapper {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        max-width: 64rem;
+        height: 100vh;
+        background: #ffffff;
+        border: 1px solid $light-gray;
+        box-shadow: 0 0 10px $dark-gray;
+
+        @include breakpoint(large) {
+            height: 90vh;
+            margin: 0 auto;
+        }
+
+        > .reader-close {
+            position: absolute;
+            display: block;
+            top: 0;
+            right: 0;
+            padding: 0.2rem 0.3rem;
+            color: $white;
+            z-index: 10;
+            cursor: pointer;
+
+            svg {
+                width: 1.8rem;
+                height: 1.8rem;
+                display: block;
+            }
+
+            @include breakpoint(large) {
+                transform: translate(50%, -50%);
+                background: $white;
+                padding: 0.2rem;
+                border: 1px solid $light-gray;
+                border-radius: 9999px;
+                box-shadow: 0 0 5px $light-gray;
+                cursor: pointer;
+                color: $primary-color;
+
+                svg {
+                    width: 2rem;
+                    height: 2rem;
+                }
+            }
+        }
+    }
+}

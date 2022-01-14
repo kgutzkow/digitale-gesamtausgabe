@@ -1,0 +1,47 @@
+{
+    "sections": [
+        {
+            "name": "haupttext",
+            "type": "text",
+            "label": "Haupttext",
+            "links": [
+                {
+                    "name": "externalLink",
+                    "attr": "target"
+                }
+            ],
+            "footnotes": [
+                {
+                    "name": "annotationMarker",
+                    "targetName": "annotation",
+                    "attr": "nestedtarget"
+                },
+                {
+                    "name": "footnoteMarker",
+                    "targetName": "footnote",
+                    "attr": "nestedtarget"
+                }
+            ],
+			"headings": [
+                {
+                    "name": "heading",
+                    "titleAttr": "headingId",
+                    "levelAttr": "type"
+                }
+			]
+        },
+        {
+            "name": "apparat",
+            "type": "text",
+            "label": "Apparat"
+        },
+		{
+			"name": "stellenerlaeuterungen",
+			"type": "nestedList",
+            "label": "Stellenerläuterungen",
+            "sectionName": "haupttext",
+            "nestedName": "annotation",
+            "sort": "page-line"
+		}
+	]
+}

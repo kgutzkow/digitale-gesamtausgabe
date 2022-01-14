@@ -6,6 +6,7 @@ var autoprefixer = require('gulp-autoprefixer'),
     fs = require('fs'),
     replace = require('gulp-replace'),
     hash = require('gulp-hash-filename'),
+    rename = require('gulp-rename'),
     sass = require('gulp-dart-sass');
 
 
@@ -39,9 +40,8 @@ gulp.task('theme:patch', function(cb) {
     const cssAppHash = getHash('theme/static/css', 'app', 'css');
     const cssFontsHash = getHash('theme/static/css', 'fonts', 'css');
     const jsThemeHash = getHash('theme/static/js', 'theme', 'js');
-    const readerCssHash = getHash('theme/static/reader', 'app', 'css');
-    const readerJsHash = getHash('theme/static/reader', 'app', 'js');
-    const readerVendorsHash = getHash('theme/static/reader', 'chunk-vendors', 'js');
+    const readerCssHash = getHash('theme/static/css', 'reader', 'css');
+    const readerJsHash = getHash('theme/static/js', 'reader', 'js');
     pump([
         gulp.src([
             'theme/templates/base.html',
@@ -49,10 +49,9 @@ gulp.task('theme:patch', function(cb) {
         ]),
         replace(/css\/app(\.[a-zA-Z0-9]*)?\.css/, 'css/app.' + cssAppHash + '.css'),
         replace(/css\/fonts(\.[a-zA-Z0-9]*)?\.css/, 'css/fonts.' + cssFontsHash + '.css'),
+        replace(/css\/reader(\.[a-zA-Z0-9]*)?\.css/, 'css/reader.' + readerCssHash + '.css'),
         replace(/js\/theme(\.[a-zA-Z0-9]*)?\.js/, 'js/theme.' + jsThemeHash + '.js'),
-        replace(/reader\/app(\.[a-zA-Z0-9]*)?\.js/, 'reader/app.' + readerJsHash + '.js'),
-        replace(/reader\/app(\.[a-zA-Z0-9]*)?\.css/, 'reader/app.' + readerCssHash + '.css'),
-        replace(/reader\/chunk-vendors(\.[a-zA-Z0-9]*)?\.js/, 'reader/chunk-vendors.' + readerVendorsHash + '.js'),
+        replace(/js\/reader(\.[a-zA-Z0-9]*)?\.js/, 'js/reader.' + readerJsHash + '.js'),
         gulp.dest('theme/templates')
     ], cb);
 });
@@ -61,7 +60,8 @@ gulp.task('css:theme', gulp.series('css:clean', function(cb) {
     pump([
         gulp.src([
             'theme/src/fonts.scss',
-            'theme/src/app.scss'
+            'theme/src/app.scss',
+            'theme/src/reader.scss',
         ]),
         sass({
             includePaths: ['node_modules/foundation-sites/scss']
@@ -77,25 +77,35 @@ gulp.task('css', gulp.series('css:theme'));
 gulp.task('reader', function(cb) {
     pump([
         gulp.src([
-            'node_modules/tei-reader/dist/js/*.*',
-            'node_modules/tei-reader/dist/css/*.*',
+            'node_modules/tei-reader/public/build/*.js',
         ]),
+        rename('reader.js'),
         hash({format: '{name}.{hash}{ext}'}),
-        gulp.dest('theme/static/reader')
+        gulp.dest('theme/static/js')
     ], cb);
 });
 
-gulp.task('js:libs', function(cb) {
+gulp.task('js:libs:clean', function(cb) {
+    pump([
+        gulp.src([
+            'theme/static/js/reader.*.js',
+        ]),
+        clean(),
+    ], cb);
+});
+
+
+gulp.task('js:libs', gulp.series('js:libs:clean', function(cb) {
     pump([
         gulp.src([
             'node_modules/foundation-sites/dist/js/foundation.min.js',
             'node_modules/jquery/dist/jquery.min.js',
             'node_modules/what-input/dist/what-input.min.js',
-            'node_modules/femtotween//dist/femtoTween.umd.js',
+            'node_modules/femtotween/dist/femtoTween.umd.js',
         ]),
         gulp.dest('theme/static/js')
     ], cb);
-});
+}));
 
 gulp.task('js:theme:clean', function(cb) {
     pump([

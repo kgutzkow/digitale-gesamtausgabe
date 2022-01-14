@@ -1,0 +1,686 @@
+{
+	"sections": [
+		{
+			"name": "metadata",
+			"type": "metadata"
+		},
+		{
+			"name": "haupttext",
+			"type": "text",
+			"parse": {
+				"rule": "tei:text/tei:body"
+			},
+			"serialise": {
+				"element": "tei:text/tei:body"
+			}
+		},
+		{
+			"name": "apparat",
+			"type": "text",
+			"parse": {
+				"rule": "tei:text/tei:interpGrp[@type=\"global\"]"
+			},
+			"serialise": {
+				"element": "tei:text/tei:interpGrp[@type=\"global\"]"
+			}
+		}
+	],
+	"elements": [
+		{
+			"name": "doc",
+			"parse": {
+				"rule": [
+					"tei:body",
+					"tei:interpGrp[@type=\"global\"]"
+				]
+			}
+		},
+		{
+			"name": "paragraph",
+			"parse": {
+				"rule": "tei:p"
+			},
+			"serialise": {
+				"element": "tei:p"
+			},
+			"attrs": [
+				"textAlign",
+				"marginLeft",
+				"marginRight",
+				"marginTop",
+				"marginBottom",
+				"firstLineIndent",
+				"extract"
+			]
+		},
+		{
+			"name": "heading",
+			"parse": {
+				"rule": "tei:head"
+			},
+			"serialise": {
+				"element": "tei:head"
+			},
+			"attrs": [
+				"type",
+				"headingId",
+				"marginLeft",
+				"marginRight",
+				"marginTop",
+				"marginBottom",
+				"firstLineIndent"
+			]
+		},
+		{
+			"name": "lineGroup",
+			"parse": {
+				"rule": "tei:lg"
+			},
+			"serialise": {
+				"element": "tei:lg"
+			},
+			"content": "line*",
+			"attrs": [
+				"marginLeft",
+				"marginRight",
+				"marginTop",
+				"marginBottom",
+				"extract"
+			]
+		},
+		{
+			"name": "line",
+			"parse": {
+				"rule": "tei:l"
+			},
+			"serialise": {
+				"element": "tei:l"
+			},
+			"attrs": [
+				"marginLeft",
+				"marginRight",
+				"marginTop",
+				"marginBottom",
+				"firstLineIndent"
+			]
+		},
+		{
+			"name": "speech",
+			"parse": {
+				"rule": "tei:sp"
+			},
+			"serialise": {
+				"element": "tei:sp"
+			},
+			"content": "block+",
+			"attrs": [
+				"marginLeft",
+				"marginRight",
+				"marginTop",
+				"marginBottom",
+				"extract"
+			]
+		},
+		{
+			"name": "sourceList",
+			"parse": {
+				"rule": "tei:list[@type=\"sources\"]"
+			},
+			"serialise": {
+				"element": "tei:list[@type=\"sources\"]"
+			},
+			"content": "sourceItems+"
+		},
+		{
+			"name": "sourceItem",
+			"group": "sourceItems",
+			"parse": {
+				"rule": "tei:item[@data-source-id]"
+			},
+			"serialise": {
+				"element": "tei:item"
+			},
+			"attrs": [
+				"sourceId"
+			]
+		},
+		{
+			"name": "text",
+			"type": "text",
+			"parse": {
+				"rule": "tei:seg",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:seg",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "pageBegin",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:pb",
+				"text": "@n"
+			},
+			"serialise": {
+				"element": "tei:pb[@n=\"{text()}\"]"
+			}
+		},
+		{
+			"name": "wordRange",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:citedRange[@type=\"word-range\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:citedRange[@type=\"word-range\"]",
+				"text": "text()",
+				"weight": 0
+			}
+		},
+		{
+			"name": "lemma",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:lem",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:lem",
+				"text": "text()",
+				"weight": 0
+			}
+		},
+		{
+			"name": "annotationMarker",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:ref[@type=\"esv\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:ref[@type=\"esv\"]",
+				"text": "text()",
+				"weight": 0
+			},
+			"attrs": [
+				"nestedTarget"
+			]
+		},
+		{
+			"name": "footnoteMarker",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:ref[@type=\"footnote\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:ref[@type=\"footnote\"]",
+				"text": "text()",
+				"weight": 0
+			},
+			"attrs": [
+				"nestedTarget"
+			]
+		},
+		{
+			"name": "annotationGlobal",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:ref[@type=\"global\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:ref[@type=\"global\"]",
+				"text": "text()",
+				"weight": 0
+			},
+			"attrs": [
+				"headingId"
+			]
+		},
+		{
+			"name": "externalLink",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:ref[@type=\"external\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:ref[@type=\"external\"]",
+				"text": "text()",
+				"weight": 0
+			},
+			"attrs": [
+				"target"
+			]
+		},
+		{
+			"name": "foreign",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:foreign",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:foreign",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "letterSparse",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:hi[contains(@style, \"letter-sparse\")]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:hi[@style=\"letter-sparse\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "fontSize",
+			"type": "mark",
+			"parse": {
+				"rule": [
+					"tei:hi[contains(@style, \"font-size-small\")]",
+					"tei:hi[contains(@style, \"font-size-normal\")]",
+					"tei:hi[contains(@style, \"font-size-medium\")]",
+					"tei:hi[contains(@style, \"font-size-large\")]"
+				],
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:hi",
+				"text": "text()"
+			},
+			"attrs": [
+				"fontSize"
+			]
+		},
+		{
+			"name": "fontWeight",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:hi[contains(@style, \"font-weight-bold\")]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:hi[@style=\"font-weight-bold\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "fontStyle",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:hi[contains(@style, \"font-style-italic\")]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:hi[@style=\"font-style-italic\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "annotation",
+			"type": "nested",
+			"parse": {
+				"rule": "tei:interp[@type=\"esv\"]"
+			},
+			"serialise": {
+				"element": "tei:interp[@type=\"esv\"]",
+				"text": "text()"
+			},
+			"attrs": [
+				"xmlid"
+			]
+		},
+		{
+			"name": "footnote",
+			"type": "nested",
+			"parse": {
+				"rule": "tei:note[@type=\"footnote\"]"
+			},
+			"serialise": {
+				"element": "tei:note[@type=\"footnote\"]",
+				"text": "text()"
+			},
+			"attrs": [
+				"xmlid"
+			]
+		},
+		{
+			"name": "sup",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:hi[contains(@style, \"sup\")]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:hi[@style=\"sup\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "quotation",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:q",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:q",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "stage",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:stage",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:stage",
+				"text": "text()"
+			},
+			"attrs": [
+				"type"
+			]
+		},
+		{
+			"name": "speaker",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:speaker",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:speaker",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "signed",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:signed",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:signed",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "missing",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:metamark[@type=\"missing\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:metamark[@type=\"missing\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "pageLineRef",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:citedRange[@type=\"page-line-ref\"]",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:citedRange[@type=\"page-line-ref\"]",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "sic",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:sic",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:sic",
+				"text": "text()"
+			}
+		},
+		{
+			"name": "reading",
+			"type": "mark",
+			"parse": {
+				"rule": "tei:rdg",
+				"text": "text()"
+			},
+			"serialise": {
+				"element": "tei:rdg",
+				"text": "text()"
+			},
+			"attrs": [
+				"witness"
+			]
+		}
+	],
+	"attributes": [
+		{
+			"name": "textAlign",
+			"parse": [
+				{
+					"rule": "contains(@style, \"text-left\")",
+					"value": "\"left\""
+				},
+				{
+					"rule": "contains(@style, \"text-right\")",
+					"value": "\"right\""
+				},
+				{
+					"rule": "contains(@style, \"text-center\")",
+					"value": "\"center\""
+				},
+				{
+					"rule": "contains(@style, \"text-justify\")",
+					"value": "\"justify\""
+				}
+			],
+			"serialise": {
+				"attribute": "style",
+				"values": {
+					"left": "text-left",
+					"right": "text-right",
+					"center": "text-center",
+					"justify": "text-justify"
+				}
+			},
+			"default": "left"
+		},
+		{
+			"name": "headingId",
+			"parse": {
+				"rule": "@data-heading-id",
+				"value": "@data-heading-id"
+			},
+			"serialise": {
+				"attribute": "data-heading-id",
+				"value": "value()"
+			},
+			"default": ""
+		},
+		{
+			"name": "marginLeft",
+			"parse": {
+				"rule": "@margin-left",
+				"value": "@margin-left"
+			},
+			"serialise": {
+				"attribute": "margin-left",
+				"value": "value()"
+			},
+			"default": "0"
+		},
+		{
+			"name": "marginRight",
+			"parse": {
+				"rule": "@margin-right",
+				"value": "@margin-right"
+			},
+			"serialise": {
+				"attribute": "margin-right",
+				"value": "value()"
+			},
+			"default": "0"
+		},
+		{
+			"name": "marginTop",
+			"parse": {
+				"rule": "@margin-top",
+				"value": "@margin-top"
+			},
+			"serialise": {
+				"attribute": "margin-top",
+				"value": "value()"
+			},
+			"default": "0"
+		},
+		{
+			"name": "marginBottom",
+			"parse": {
+				"rule": "@margin-bottom",
+				"value": "@margin-bottom"
+			},
+			"serialise": {
+				"attribute": "margin-bottom",
+				"value": "value()"
+			},
+			"default": "0"
+		},
+		{
+			"name": "firstLineIndent",
+			"parse": {
+				"rule": "@first-line-indent",
+				"value": "@first-line-indent"
+			},
+			"serialise": {
+				"attribute": "first-line-indent",
+				"value": "value()"
+			},
+			"default": "0"
+		},
+		{
+			"name": "type",
+			"parse": {
+				"rule": "@type",
+				"value": "@type"
+			},
+			"serialise": {
+				"attribute": "type",
+				"value": "value()"
+			}
+		},
+		{
+			"name": "fontSize",
+			"parse": [
+				{
+					"rule": "contains(@style, \"font-size-small\")",
+					"value": "\"small\""
+				},
+				{
+					"rule": "contains(@style, \"font-size-normal\")",
+					"value": "\"normal\""
+				},
+				{
+					"rule": "contains(@style, \"font-size-medium\")",
+					"value": "\"medium\""
+				},
+				{
+					"rule": "contains(@style, \"font-size-large\")",
+					"value": "\"large\""
+				}
+			],
+			"serialise": {
+				"attribute": "style",
+				"values": {
+					"small": "font-size-small",
+					"medium": "font-size-medium",
+					"large": "font-size-large"
+				}
+			},
+			"default": "normal"
+		},
+		{
+			"name": "extract",
+			"parse": {
+				"rule": "@extract",
+				"value": "@extract"
+			},
+			"serialise": {
+				"attribute": "extract",
+				"value": "value()"
+			}
+		},
+		{
+			"name": "sourceId",
+			"parse": {
+				"rule": "@data-source-id",
+				"value": "@data-source-id"
+			},
+			"serialise": {
+				"attribute": "data-source-id",
+				"value": "value()"
+			}
+		},
+		{
+			"name": "target",
+			"parse": {
+				"rule": "@target",
+				"value": "@target"
+			},
+			"serialise": {
+				"attribute": "target",
+				"value": "value()"
+			},
+			"default": ""
+		},
+		{
+			"name": "witness",
+			"parse": {
+				"rule": "@wit",
+				"value": "substring(@wit, 2)"
+			},
+			"serialise": {
+				"attribute": "type",
+				"value": "#{value()}"
+			},
+			"default": ""
+		},
+		{
+			"name": "xmlid",
+			"parse": {
+				"rule": "@xml:id",
+				"value": "@xml:id"
+			},
+			"serialise": {
+				"attribute": "xml:id",
+				"value": "value()"
+			},
+			"default": ""
+		},
+		{
+			"name": "nestedTarget",
+			"parse": {
+				"rule": "@target",
+				"value": "substring(@target, 2)"
+			},
+			"serialise": {
+				"attribute": "target",
+				"value": "#{value()}"
+			}
+		}
+	]
+}
