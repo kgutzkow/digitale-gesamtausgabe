@@ -30,7 +30,7 @@ DEFAULT_PAGINATION = 6
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
-PLUGIN_PATHS = ['./']
+PLUGIN_PATHS = ['./ext']
 PLUGINS = ['tei_reader',
            'pelican_page_order',
            'pelican_page_hierarchy',
