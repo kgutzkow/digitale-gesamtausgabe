@@ -6,7 +6,7 @@
 
 * `Node.js <https://nodejs.org>`_
 * `poetry <https://python-poetry.org>`_
-* `Yarn <https://classic.yarnpkg.com>`_
+* `NPM <https://www.npmjs.com/>`_
 
 ## Data Preprocessing
 
