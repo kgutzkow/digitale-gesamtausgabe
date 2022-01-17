@@ -17,7 +17,6 @@
         initViewer(viewers[idx]);
     }
 })();
-
 (function() {
     function randomImageOrder() {
         let ids = [];

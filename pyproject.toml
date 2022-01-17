@@ -16,6 +16,7 @@ pelican-page-order = {git = "https://github.com/scmmmh/pelican-page-order.git"}
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.5.0"
+doit = "^0.34.1"
 
 [build-system]
 requires = ["poetry>=0.12"]
