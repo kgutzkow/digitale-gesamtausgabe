@@ -90,9 +90,9 @@
         <tei:seg> abwechselnd </tei:seg>
         <tei:ref target="#annotation-13" type="esv">Fricandeaus</tei:ref>
         <tei:seg>, </tei:seg>
-        <tei:ref target="#annotation-29" type="esv">Nachtstücke </tei:ref>
+        <tei:ref target="#annotation-14" type="esv">Nachtstücke </tei:ref>
         <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">à la</tei:ref>
+          <tei:ref target="#annotation-14" type="esv">à la</tei:ref>
         </tei:foreign>
         <tei:ref target="#annotation-14" type="esv"> Hoffmann</tei:ref>
         <tei:seg>, Coteletts, Novelletten, gespickte Ochsenzungen, Beiträge zur Kritik, </tei:seg>
@@ -473,23 +473,6 @@
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>In der künstlerischen bzw. literarischen Darstellung Accessoire des Teufels. Als „edler Junker“ erscheint Mephisto in Goethes „Faust“: „In rotem, goldverbrämten Kleide, / Das Mäntelchen von starrer Seide, / Die Hahnenfeder auf dem Hut“ (Vers 1535ff., HA, Bd. 3, S. 52.)</tei:seg>
-        </tei:p>
-      </tei:interp>
-      <tei:interp type="esv" xml:id="annotation-29">
-        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:citedRange type="page-line-ref">3,15-16</tei:citedRange>
-          <tei:seg>	</tei:seg>
-          <tei:citedRange type="word-range">Nachtstücke </tei:citedRange>
-          <tei:citedRange type="word-range">
-            <tei:foreign>à la</tei:foreign>
-          </tei:citedRange>
-          <tei:citedRange type="word-range"> Hoffmann</tei:citedRange>
-          <tei:seg>] </tei:seg>
-        </tei:p>
-        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>In seinen „Nachtstücken“ (2 Bde., 1817) behandelt E.T.A. Hoffmann erzählerisch die Nachtseiten des Lebens (Verbrechen, Greueltaten, Wahnsinn, pathologische Seelenvorgänge, übernatürliche und furchterregende Ereignisse). Die Bezeichnung </tei:seg>
-          <tei:q>Nachtstücke</tei:q>
-          <tei:seg> findet sich als Titelzusatz oder in Titeln öfter bei Werken zeitgenössischer Autoren.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-30">
