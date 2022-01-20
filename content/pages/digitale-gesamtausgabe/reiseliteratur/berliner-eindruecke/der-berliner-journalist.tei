@@ -155,7 +155,9 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Der Journalist und Publizist Armand Carrel (1800-1836), ein überzeugter Republikaner und Führer der republikanischen Partei. Er war Mitherausgeber und zeitweiliger Chefredakteur der politisch einflußreichen Tageszeitung &quot;Le National&quot;. Gutzkow porträtiert ihn ausführlich 1835 in seinen </tei:seg>
+          <tei:seg>Der Journalist und Publizist Armand Carrel (1800-1836, → </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/FCarrel.html" type="external">Bild</tei:ref>
+          <tei:seg>), ein überzeugter Republikaner und Führer der republikanischen Partei. Er war Mitherausgeber und zeitweiliger Chefredakteur der politisch einflußreichen Tageszeitung &quot;Le National&quot;. Gutzkow porträtiert ihn ausführlich 1835 in seinen </tei:seg>
           <tei:q>Öffentlichen Charakteren</tei:q>
           <tei:seg> (Hamburg: Hoffmann u. Campe, 1835, S. 215-238).</tei:seg>
         </tei:p>
@@ -198,7 +200,9 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Der Theater- und Dekorationsmalers Carl Gropius (1793-1870) hatte 1827 in der Georgenstraße 12 an der Ecke zur Universitätsstraße ein Diorama eröffnet. Anders als ein vergleichsweise starr wirkendes Panoramagemälde arbeitete das Diorama mit Auflicht- und Durchlichteffekten und erzeugte so die Illusion von Bewegung im Bild. „Es zeigt uns in einem brillant eingerichteten Lokale Oelgemälde von 2500 Quadratfuß Flächeninhalt, welche Flachgemälde von natürlicher Größe sind und nur eine Ansicht gewähren. Sie erhalten Wahrheit und Leben durch den Wechsel der Beleuchtung, welche durch eine genial erfundene Einrichtung jene Farben-Nüancen schafft, die uns Sonnenblicke, Abendröthe und alle übrigen Erscheinungen des hellern und trübern Lichtes zu zaubern verstehen. Auf diese Weise ist dem Berliner Publikum schon seit dem Entstehen der Anstalt eine lange Reihe höchst interessanter Ansichten vorgeführt worden […].“ (Zedlitz, S. 147-148.)</tei:seg>
+          <tei:seg>Der Theater- und Dekorationsmalers Carl Gropius (1793-1870) hatte 1827 in der Georgenstraße 12 an der Ecke zur Universitätsstraße ein Diorama (→ </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/bilder-aus-berlin/FDiorama1.html" type="external">Bild</tei:ref>
+          <tei:seg>) eröffnet. Anders als ein vergleichsweise starr wirkendes Panoramagemälde arbeitete das Diorama mit Auflicht- und Durchlichteffekten und erzeugte so die Illusion von Bewegung im Bild. „Es zeigt uns in einem brillant eingerichteten Lokale Oelgemälde von 2500 Quadratfuß Flächeninhalt, welche Flachgemälde von natürlicher Größe sind und nur eine Ansicht gewähren. Sie erhalten Wahrheit und Leben durch den Wechsel der Beleuchtung, welche durch eine genial erfundene Einrichtung jene Farben-Nüancen schafft, die uns Sonnenblicke, Abendröthe und alle übrigen Erscheinungen des hellern und trübern Lichtes zu zaubern verstehen. Auf diese Weise ist dem Berliner Publikum schon seit dem Entstehen der Anstalt eine lange Reihe höchst interessanter Ansichten vorgeführt worden […].“ (Zedlitz, S. 147-148.)</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-6">
@@ -294,11 +298,17 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">3,15-16</tei:citedRange>
           <tei:seg>	</tei:seg>
-          <tei:citedRange type="word-range">Nachtstücke [...] Hoffmann</tei:citedRange>
+          <tei:citedRange type="word-range">Nachtstücke </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>à la</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> Hoffmann</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>In seinen „Nachtstücken“ (2 Bde., 1817) behandelt E. T. A. Hoffmann erzählerisch die Nachtseiten des Lebens (Verbrechen, Greueltaten, Wahnsinn, pathologische Seelenvorgänge, übernatürliche und furchterregende Ereignisse). Die Bezeichnung findet sich als Titelzusatz oder in Titeln öfter bei zeitgenössischen Autoren.</tei:seg>
+          <tei:seg>In seinen „Nachtstücken“ (2 Bde., 1817) behandelt E. T. A. Hoffmann erzählerisch die Nachtseiten des Lebens (Verbrechen, Greueltaten, Wahnsinn, pathologische Seelenvorgänge, übernatürliche und furchterregende Ereignisse). Die Bezeichnung </tei:seg>
+          <tei:q>Nachtstücke</tei:q>
+          <tei:seg> findet sich in Titeln oder als Titelzusatz öfter bei zeitgenössischen Autoren.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-15">
