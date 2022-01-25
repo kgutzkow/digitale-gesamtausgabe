@@ -41,7 +41,32 @@
             "label": "Stellenerläuterungen",
             "sectionName": "haupttext",
             "nestedName": "annotation",
-            "sort": "page-line"
+            "sort": "page-line",
+            "links": [
+                {
+                    "name": "externalLink",
+                    "attr": "target"
+                }
+            ],
+            "footnotes": [
+                {
+                    "name": "annotationMarker",
+                    "targetName": "annotation",
+                    "attr": "nestedtarget"
+                },
+                {
+                    "name": "footnoteMarker",
+                    "targetName": "footnote",
+                    "attr": "nestedtarget"
+                }
+            ],
+			"headings": [
+                {
+                    "name": "heading",
+                    "titleAttr": "headingId",
+                    "levelAttr": "type"
+                }
+			]
 		}
 	]
 }
