@@ -10,5 +10,3 @@ In diesem Bereich finden sie kontextuelle Inhalte in den Bereichen:
 * `Lexikon <anhang/lexikon.html>`_
 * `Siglen <anhang/siglen.html>`_
 * `Abkürzungen <anhang/abkuerzungen.html>`_
-* `Linksammlung <anhang/linksammlung.html>`_
-* `Nachschlagwerke <anhang/nachschlagewerke.html>`_
