@@ -2,7 +2,7 @@ Borsigs Werkstätten
 ===================
 
 :slug: FBorsig1
-:order: 2
+:order: 9
 :template: slideshow
 
 Borsigs Werkstätten

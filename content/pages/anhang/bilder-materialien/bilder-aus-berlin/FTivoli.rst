@@ -2,7 +2,7 @@ Blick vom Tivoli auf die Stadt
 ==============================
 
 :slug: FTivoli
-:order: 5
+:order: 27
 :template: slideshow
 
 "Blick vom Kreuzberg auf die Stadt Berlin: Ölgemälde von Heinrich Hintze, 1829."

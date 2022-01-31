@@ -2,7 +2,7 @@ Menzel, "Die Eisenbahn"
 =======================
 
 :slug: FMenzEise
-:order: 18
+:order: 28
 :template: slideshow
 
 Adolph Menzel: "Die Berlin Potsdamer Bahn", 1847.

@@ -2,7 +2,7 @@ Berliner Stadtklatsch (Vom Brandenburger Thor bis zu Kroll)
 ===========================================================
 
 :slug: FStadtkl4
-:order: 17
+:order: 30
 :template: slideshow
 
 Berliner Stadtklatsch (Vom Brandenburger Thor bis zu Kroll)

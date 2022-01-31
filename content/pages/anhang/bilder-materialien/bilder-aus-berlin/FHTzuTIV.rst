@@ -2,7 +2,7 @@ Stadtplan: Hallesches Tor bis Kreuzberg
 =======================================
 
 :slug: FHTzuTIV
-:order: 7
+:order: 3
 :template: slideshow
 
 Stadtplan: Hallesches Tor bis Kreuzberg

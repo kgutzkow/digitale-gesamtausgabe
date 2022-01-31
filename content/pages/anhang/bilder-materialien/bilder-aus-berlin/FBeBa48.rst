@@ -2,7 +2,7 @@ Berliner Barrikaden 1848
 ========================
 
 :slug: FBeBa48
-:order: 10
+:order: 22
 :template: slideshow
 
 Plan von Berlin. Barrikadenbezeichnung mit roten Markierungen.

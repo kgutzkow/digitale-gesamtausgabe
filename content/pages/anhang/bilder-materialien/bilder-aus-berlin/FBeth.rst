@@ -2,7 +2,7 @@ St. Bethlehemskirche
 ====================
 
 :slug: FBeth
-:order: 9
+:order: 5
 :template: slideshow
 
 "Böhmische Kirche, Mauer- Ecke Krausenstraße, 1735/37 von Friedrich Wilhelm Dieterichs. Seit 1912 Bethlehemskirche genannt. Staatliche Bildstelle, Berlin"

@@ -2,7 +2,7 @@ Detail: Böhmische Kirche bis Kammergericht
 ==========================================
 
 :slug: FBeStplDe
-:order: 3
+:order: 2
 :template: slideshow
 
 Noch ein scheinbar unmotivierter Umweg macht Sinn ...

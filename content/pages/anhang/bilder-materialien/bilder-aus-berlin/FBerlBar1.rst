@@ -2,7 +2,7 @@ Revolution in Berlin 1848 (1)
 =============================
 
 :slug: FBerlBar1
-:order: 12
+:order: 20
 :template: slideshow
 
 Revolution in Berlin 1848 (1)

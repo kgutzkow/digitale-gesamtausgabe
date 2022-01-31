@@ -2,7 +2,7 @@ Das Krankenhaus Bethanien um 1850
 =================================
 
 :slug: Bethanien
-:order: 10
+:order: 6
 :template: slideshow
 
 Das Krankenhaus Bethanien um 1850
