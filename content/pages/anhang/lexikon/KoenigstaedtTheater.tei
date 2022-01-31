@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Königstädtisches Theater (Berlin)</tei:title>
+        <tei:author>Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2022-01-31">31. Januar 2022</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #koenigstaedtisches"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-01-31" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>Königstädtisches Theater (Berlin)</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>auch Königstädter Theater, 1824 eröffnetes Schauspielhaus am Berliner Alexanderplatz, das bis 1851 bestand und bis 1848 das einzige privat finanzierte und neben den Königlichen Bühnen zugelassene Theater in Berlin war. Es pflegte als Volkstheater die leichte Muse. Benannt wurde es nach dem jenseits der Spree gelegenen Berliner Stadtviertel, der Königstadt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> →  </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/bilder-aus-berlin/Koenigstaedtisches-Theater.html" type="external">Bilder</tei:ref>
+        <tei:seg> aus Berlin: Das Königstädtische Theater am Alexanderplatz um 1840</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Allgemeines</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der frühere Pferdehändler und Armeelieferant Karl Friedrich Cerf (1782-1845) erhielt am 13. Mai 1822 überraschend vom preußischen König „die Konzession zur ‚Errichtung eines Volkstheaters jenseits der Spree in der Königstadt‘“ (Wahnrau, S. 335). Überrascht war die Öffentlichkeit, weil frühere Anläufe, neben den Königlichen Bühnen in Berlin auch ein Privattheater zu etablieren, stets abgelehnt worden waren. Verblüfft aber auch, da Cerf bislang nichts mit Theater und Schauspiel zu tun gehabt hatte und auch kein besonderes Interesse an künstlerischen oder kulturellen Fragen zeigte. Über seine Bildungslücken und geistige Schlichtheit kursierten in Berlin später zahlreiche Anekdoten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Cerf war jedoch ein gewiefter und erfolgreicher Geschäftsmann, hatte von 1801 bis 1811 in Dessau als Pferdehändler sein Geld verdient, von 1813 bis 1815 in russischen Diensten als Oberkriegscommissär unter dem Kommando des Generals Ludwig Adolf Peter zu Sayn-Wittgenstein gestanden und sich die Gunst des russischen Zaren sowie des preußischen Königs Friedrich Wilhelm III. erworben. 1816 ließ er sich in Berlin nieder, kaufte Immobilien, bekam das Bürgerrecht und lebte dort als wohlhabender Rentier. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Konzession war auf 99 Jahre ausgestellt und konnte von Cerf auf einen leiblichen Erben übertragen werden. Allerdings setzte sie dem Spielplan des Theaters enge Schranken, um jede Konkurrenz mit den Königlichen Bühnen zu vermeiden: Erlaubt wurde nur die Aufführung kleiner Lustspiele und Possen, von Vaudevilles, Melodramen, Singspielen, der komischen Oper. Nicht zugelassen war die Darstellung großer oder ernster Schauspiele, von Tragödien, der heroischen Oper, des Ballets. Außerdem durfte kein Stück gebracht werden, das in den letzten zwei Jahren auf dem Spielplan der Königlichen Bühnen stand. Die Einhaltung dieser Regel wurde von der Administration der Königlichen Bühnen streng überwacht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Trotz dieser Repertoirefesseln löste die Aussicht auf ein neues Theater unter den Berliner Bühnenfreunden eine ungeheure Euphorie aus. Die Begeisterung schwappte schnell auf die gesamte Bevölkerung über, die Erwartungen an diese erste Privatbühne der Stadt waren immens. Für Berlin bahnte sich ein Ereignis an.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da Cerf die Mittel für den Bau und die Ausstattung eines Theater fehlten, wurde 1822 ein Aktienverein gegründet, dem Cerf seine Konzession gegen eine Gebühr von 3.000 Talern jährlich verpachtete. „Das für die Gründung des Theaters erforderliche Kapital von 120 000 Talern hatte der Verein zu beschaffen. Zu diesem Zwecke wurde die Vergabe von Aktien gestattet, deren Anzahl auf 400 begrenzt war. […] Zu den Aktienkäufern gehörten sowohl Vertreter des Großbürgertums als auch der mittleren Schichten, der Handwerksmeister, Händler und Hausbesitzer.“ (Freydank 1988, S. 225.) </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aus den Reihen der Aktionäre bildete sich ein Leitungsgremium, das aus sechs Berliner Bankiers und einem Justizrat bestand: Jacob Herz Beer (Vater des Komponisten Giacomo Meyerbeer), Wilhelm Christian Benecke, Martin Ebers, Joseph Maximilian Fränckel, Joseph Mendelsohn und Johann David Müller. Der siebte im Bunde war als Syndikus des Aktienvereins der preußische Justizrat Georg Carl Friedrich Kunowski, dem die geschäftliche Leitung des Theater übertragen wurde. Kunowski wurde auch Vorsitzender des Regie-Komitees und hatte de fakto bis 1827 die Leitung des Theaters inne. Baron Ferdinand von Biedenfeld wurde ihm als Sekretär zugeteilt, eine Position, die 1825 Karl von Holtei übernahm. Mit den Regieaufgaben wurden neben Louis Angely die Schauspieler Wilhelm Ehlers, Heinrich Schmelka und Franz Nagel betraut, zum Musikdirektor Carl Wilhelm Henning ernannt, für das Bühnenbild und die Dekoration der Maler Carl Blechen engagiert.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach Plänen des Architekten und Schinkel-Schülers Carl Theodor Ottmer wurde innerhalb eines Jahres (am 21. August 1823 war die Grundsteinlegung erfolgt) am Alexanderplatz das Königstädtische Theater hochgezogen, das mit 1.573 Plätzen ebenso groß war wie das Schauspielhaus am Gendarmenmarkt – für ein Vorstadttheater damit (wie die Zukunft zeigen sollte) deutlich überdimensioniert. Der König hatte eine eigene Loge. Am 4. August 1824 fand die feierliche Eröffnung des Hauses unter lebhafter Beteiligung der Berliner Bevölkerung und in Gegenwart des Königs statt. Dieser festliche Auftakt machte deutlich, wie sehr man sich dem Vorbild des Wiener Volkstheaters verpflichtet fühlte. Die junge Schauspielerin Caroline Bauer sprach zur Eröffnung einen Prolog, es folgte als „Fest-Symphonie“ Beethovens Ouvertüre „Zur Weihe des Hauses“ (1822 zur Eröffnung des Josephstädter Theaters in Wien komponiert), das Lustspiel „Der Freund in der Noth“ von Adolf Bäuerle sowie das Singspiel „Die Ochsenmenuet“ des Wiener Theaterdichters Georg Edler von Hofmann (Musik von Haydn). </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der anfänglichen Begeisterung folgte bald eine Phase der Ernüchterung. Der Zustrom von Zuschauern nahm ab, der Reiz des Neuen war verflogen. Die Direktion des Hauses versuchte dem Publikumsschwund entgegenzuwirken und setzte bevorzugt italienische komische Opern auf den Spielplan. Ein großer Coup gelang ihr im Sommer 1825 mit dem Engagement einer neunzehnjährigen Sängerin, die nicht nur vorzüglich sang, sondern auch als überaus graziöse und gut aussehende Bühnenerscheinung die Zuschauer bezauberte: Henriette Sontag. Für die beachtliche Jahresgage von 8000 Talern wurde sie (mit Mutter Franziska und Schwester Nina) für zwei Jahre engagiert. Neben der Gage verpflichtete sich das Theater zu erheblichen Zusatzkosten für „Kostüme, Garderoben-Personal, die Wohnung mit dem Hauspersonal, die Equipage“ der Diva (Wahnrau 1957, S. 351). Am 3. August 1825 stand sie in Rossinis Oper „Die Italienerin in Algier“ erstmals auf der Bühne des Königstädtischen Theaters. Berlin wurde vom ›Sontag-Fieber‹ ergriffen, und ein bis dahin nicht gekannter Starkult um die ›göttliche Jette‹ brach sich Bahn. Einer der wenigen Kritiker dieser Ekstase war der unlängst nach Berlin gekommene Journalist Moritz Gottlieb Saphir, dessen „Berliner Schnellpost für Literatur, Theater und Geselligkeit“ das Königstädtische Theater und seine Primadonna satirisch-kritisch aufs Korn nahm. Die Sängerin beschwerte sich im März 1826 beim König und Saphir wurde vom preußischen Innenminister streng ermahnt, sich in Zukunft zurückzuhalten (vgl. Stümcke 1913, S. 52-57). Schlimmer erging es Ludwig Rellstab, der unter dem Pseudonym Freimund Zuschauer im März 1826 einen Schlüsselroman unter dem Titel „Henriette oder die schöne Sängerin“ veröffentlichte, in dem er ziemlich unverhüllt zahlreiche Berliner Zelebritäten und den exzessiven Begeisterungstaumel um Henriette Sontag verspottet. Nachdem er als Urheber ermittelt worden war, wurde er zu sechs Monaten Festung verurteilt (vgl. Stümcke 1913, S. 57-66). Die knapp zweijährige Sontag-Euphorie war ohne Zweifel die Glanzzeit des Königstädtischen Theaters. Sie endete am 29. Mai 1827 mit dem letzten Auftritt der Primadonna, der nochmals zahlreiche Huldigungen gebracht wurden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Trotz der vollen Häuser, für die Henriette Sontag gesorgt hatte, war durch krasse Misswirtschaft das Theater in wirtschaftliche Nöte geraten. Es wurden durchgehend zu hohe Ausgaben getätigt, die durch die Einnahmen nicht gedeckt waren. Schon 1826/27 hatte ein Mitglied des Theaters, Abraham Moses Henoch, den geradezu verschwenderischen Aufwand der Direktion für üppige Geschenke an Schauspieler öffentlich angeprangert. Eine Sanierungskommission konnte die wirtschaftliche Schieflage des Hauses nicht korrigieren. Der Abgang von Henriette Sontag beschleunigte seinen ökonomischen Niedergang. Die Bankiers zogen sich aus dem Aktienverein zurück und verkauften ihre Anteile. Auf der letzten Hauptversammlung des Aktienvereins am 19. Mai 1829 wurde dessen Auflösung und die Schließung des Theaters verkündet. Es war bankrott. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nun trat erneut Friedrich Cerf auf den Plan. Nach den Bestimmungen des Pachtvertrags mit dem Aktienverein aus dem Jahr 1822 war ihm „im Falle der Liquidation des Vereins […] das Vorkaufsrecht“ eingeräumt worden, „mit dem gleichnamigen Zugeständnis, das Theater 20 Prozent unter dem offiziellen Taxwert erwerben zu dürfen.“ (Freydank 1988, S. 225). Außerdem erhielt er kostenlos seine Konzession zurück. Cerf übernahm unter diesen günstigen Bedingungen das Königstädtische Theater noch im Mai 1829 und beglich zügig die Schulden. Was die Öffentlichkeit damals nicht wußte: Cerf agierte als Strohmann der preußischen Krone, mit Geld aus der königlichen Schatulle. Über Cerf „hatte man sich von Anfang an den direkten Einfluss auf die an dieser Bühne betriebene Politik zu sichern gewußt. […] So offenbart sich die Geschichte des Königsstädtischen Theaters als die Legende vom ersten Privattheater Berlins. Mit einem raffinierten Schachzug hatte der preußische Hof dieses Unternehmen seinen Zwecken dienstbar zu machen verstanden, während sich alle demokratisch gesinnten Kräfte in der Illusion wiegten, hier ein eigenes Theater und damit endlich ein kulturelles Forum zu besitzen, auf dem sie den Ton angaben. Die Teilhaberschaft der Krone macht verständlich, warum das Unternehmen nach seinem Bankrott nicht einfach fallengelassen werden konnte.“ (Freydank 1988, S. 231-232.) </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Cerf leitete von 1829 bis zu seinem Tod im November 1845 die Bühne. Doch auch unter seiner Ägide „schloß das Theater jährlich mit einem erheblichen Defizit. Es wurde stillschweigend von der Krone beglichen.“ (Freydank 1988, S. 232.) Eine Änderung trat 1840 nach dem Tod Friedrich Wilhelms III. ein. Sein Nachfolger Friedrich Wilhelm IV. hatte kein Interesse am Königstädtischen Theater. Finanzielle Unterstützungen blieben von nun an aus. Cerf gelang es jedoch in den kommenden Jahren, mit dem Engagement italienischer Opernensembles Gewinne zu erzielen. Nach seinem Tod übernahmen seine Witwe Henriette (gest. 1856), Tochter Emma sowie ihr Ehemann Dr. Eduard Freyberg das Haus, konnten es aber nicht mehr erfolgreich weiterführen. Am 30. Juni 1851 fand die letzte Vorstellung statt, das Theater wurde geschlossen. Dabei wurde vermutlich von Seiten des preußischen Hofes Druck ausgeübt, dem die Bühne lästig geworden war. „Die Cerfschen Erben erhielten eine Abfindung von 17500 Talern. Die zu diesem Zeitpunkt auf dem Theater lastenden Schulden von rund 51000 Talern wurden schenkungsweise erlassen.“ (Freydank 1988, S. 232.) Das Theatergebäude fiel an die preußische Krone, wurde zu einem Wollmagazin umgestaltet, später zu einem Mietshaus ausgebaut und erst in den 1920er Jahren abgerissen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zur Geschichte des Königstädtischen Theaters gehört ein ruhmloses Nachspiel: Rudolf Cerf (1811-1873), Sohn von Friedrich Cerf, hatte einige Jahre in Südamerika gelebt, war 1848 nach Berlin zurückgekehrt und bemühte sich erfolglos um die Direktion des Königstädtischen Theaters. Immerhin erreichte er 1852, dass die alte Theaterkonzession seines Vaters auf ihn übertragen wurde. Mehr noch: Er war mit seinem Theater nicht mehr an den Spielort der Königsstadt gebunden. Am 14. Oktober 1852 eröffnete er in der Charlottenstraße 90 das Neue Königstädtische Theater, reüssierte hier jedoch nicht. Am 4. Mai 1854 fand die letzte Vorstellung statt. Für den Misserfolg des Unternehmens war vermutlich auch die Spielstätte verantwortlich, denn das Theatergebäude bestand nur aus einer großen Bretterbude, die 1850 für den Zirkus Renz gezimmert worden war. (Vgl. Wahnrau 1957, S. 435-439.) Cerf zog mit seinem Theater weiter in die Villa Colonna, Königsstraße 32, wo er im Sommer 1854 jedoch nur wenige Vorstellungen gab. Trotz wiederholter Pleite wagte er 1855 in der Blumenstraße 9b einen Neuanfang, mietete die Räume eines alten Berliner Liebhabertheaters und gründete dort das Königstädtische Vaudeville-Theater. Schnell geriet er erneut in finanzielle Nöte, verpachtete 1855 die alte Konzession an Franz Wallner, der das Königstädtische Theater unter diesem Namen noch bis 1858 führte, dann eine eigene Konzession erhielt und seine Bühne unter dem Namen Wallner-Theater fortführte. </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Repertoire, Bühnendichter, Darsteller</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf dem Königstädtischen Theater kamen vor allem Lustspiele, Possen, Parodien und Travestien, Zauberspiele (u.a. von Nestroy und Raimund), Volksstücke, Berliner Lokalstücke, Singspiele, Vaudevilles, Melodramen, Werke der komischen Oper (Bellini, Donizetti, Rossini, Verdi) zur Aufführung. Eine klare Konzeption für das Profil eines Volkstheaters hatte man jedoch von Anfang an nicht. Auch erfüllte sich die Erwartung einiger Optimisten nicht, man könne dem Hoftheater Konkurrenz machen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die in der Konzessionierung festgeschriebenen Repertoireeinschränkungen wirkten sich vor allem in den Anfangsjahren negativ aus. Die darin fixierte Abhängigkeit von der Hofbühne war hemmend und nachteilig. Aber es mangelte dem Theater auch an geeigneten Bühnendichtern, die das Profil eines Volkstheaters hätten schärfen können, denn, so fragt rückblickend der ehemalige Theatersekretär Karl von Holtei, „wo blieben nun die gehofften National-Dichter der Deutschen, die ein Volkstheater schaffen sollten und wollten? […] Es trat Keiner hervor.“ Mit einer Ausnahme, wie Holtei betont, denn „hätte nicht Angely […] durch seine mit vielem Talente aus dem Französischen entlehnten Lokalpossen ausgeholfen, so würde man schon in den ersten Monaten zugeschlossen haben.“ (Holtei 1844, S. 183.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Schauspieler und Regisseur Louis Angely wurde zum Hauptlieferanten von Possen, Lustspielen, Vaudevilles für das Königstädtische Theater. Mit „Sieben Mädchen in Uniform“ (1825), „Das Fest der Handwerker“ (1828) oder „Die Reise auf gemeinschaftlichen Kosten“ (1834) schuf er erfolgreiche Repertoirestücke, die sich lange auf den Bühnen hielten. Aufsehen erregte er 1826 mit seinem Melodrama „Jocko, der brasilianische Affe“, das „auf der Grenze zwischen Theater und Artistik steht“ (Goedeke Bd. XI/1, S. 451) und in dem ein Schauspieler die Rolle eines Affen übernimmt. Es regte zu einer ganzen Reihe ähnlicher ›Affenstücke‹ an (vgl. die Aufzählung in Goedeke Bd. XI/1, S. 451-452). </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Neben Angely trug Karl von Holtei entscheidend zum Spielplan der Bühne bei. Berühmt wurden etwa das Liederspiel „Der alte Feldherr“ (1825) und das vaterländische Schauspiel mit Gesang „Leonore“ (1828). Vor allem das Liederspiel, das Vaudeville, die romantisch-komische Oper hatten es dem Textdichter Holtei angetan. Er schuf eine Reihe von Liedern, die im 19. Jahrhundert weithin beliebt blieben. Nebenher belebte er das Theatergeschehen der Königstädter Bühne mit einer ganzen Reihe von Gelegenheitsfestspielen, Prologen oder Reden etwa aus Anlass der Geburtstage von König und Kronprinz oder anderer Jubiläen und patriotischer Jubelfeste.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von Anfang an wurden Wiener Lokal- und Zauberpossen gegeben, Stücke von Bäuerle, Castelli, Nestroy und Raimund. Einen immensen Erfolg errang der Schauspieler Friedrich Beckmann mit seiner am 26. Dezember 1832 uraufgeführten Lokalposse „Der Eckensteher Nante im Verhör“, die zur Popularisierung der Eckensteherfigur entscheidend beitrug. Von Charlotte Birch-Pfeiffer, die im Winter 1834/35 auf der Königstädtischen Bühne gastierte, hielten sich „Hinko“, „Der Glöckner von Notre-Dame“ und „Pfeffer-Rösel“ im Repertoire des Königstädtischen Theaters. Zuletzt bereicherte der Berliner Possendichter David Kalisch den Spielplan der Bühne mit profilierten, zeitsatirischen Lustspielen. Seine berühmte, viel gespielte Posse mit Gesang „Einmal hundertausend Thaler“ (1847) kam zuerst auf dem Königstädtischen Theater zur Aufführung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Langjährige Hauptakteure der Bühne und Publikumslieblinge waren seit der Gründung des Theaters die Schauspieler Heinrich Schmelka (1780-1837) und Friedrich Beckmann (1803-1866), beide vor allem als Darsteller komischer Rollen äußerst beliebt. Beckmann ging in den 1840er Jahren nach Wien und war zuletzt dort am Burgtheater beschäftigt. In der Oper brillierte der Sänger Josef Spitzeder (1796-1832), der 1832 nach einem Streit mit dem Theaterdirektor Cerf nach München ging. Ungezählte Gastspiele führten der Bühne bekannte Namen zu, so etwa Ferdinand Raimund oder Johann Nestroy, die hier auftraten. Für zahlreiche Schauspielerinnen und Schauspieler war das Königstädtische Theater am Alexanderplatz Sprungbrett oder Zwischenstation ihrer Laufbahn, für die Theaterstadt Berlin langfristig gesehen außerordentlich beflügelnd: „Auf den Brettern dieser Bühne hatten die Berliner die Künstler gesehen, die später Berlins Theaterleben entscheidend mitgestalten sollten: Albert Lortzing, Franz Wallner, L’Arronge der Vater, Friedrich Beckmann, Philipp Grobecker.“ (Freydank 1988, S. 233.)</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Gutzkow und das Königstädtische Theater</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow hat schon als Schüler des Friedrichs-Werderschen Gymnasiums in den 1820er Jahren erste Theatereindrücke im Königstädtischen Theater gesammelt, wenn ihm ein glücklicher Zufall ein Billet in die Hand spielte. An verschiedenen Stellen seiner autobiographischen Werke hat er solche Besuche erwähnt, so etwa in </tei:seg>
+        <tei:q>Zwei Gefangene</tei:q>
+        <tei:seg>, wo er erzählt, die damaligen Stars der Bühne </tei:seg>
+        <tei:q>Schmelka, Angely, Plock, Beckmann</tei:q>
+        <tei:seg> gesehen und für die Darstellerinnen Marie Herold und Auguste Sutorius geschwärmt zu haben (GWB VII, Bd. 3, S. 63-64). An anderer Stelle erinnert er sich an ein Gastspiel Ferdinand Raimunds zu Beginn der 1830er Jahre, das </tei:seg>
+        <tei:q>vor leeren Bänken</tei:q>
+        <tei:seg> (GWB VII, Bd. 1, S. 242) stattgefunden haben soll. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow hat als Berliner Korrespondent des „Morgenblatts für gebildete Stände“ 1832/33 mehrfach über das Königstädtische Theater berichtet und der Volksbühne ein schlechtes Zeugnis ausgestellt. Dabei erwähnt er den vielversprechenden Auftakt im August 1824: </tei:seg>
+        <tei:q>Ich weiß noch deutlich jenen Tag, da es zum ersten Male geöffnet wurde und mit einem so einfachen Stück, wie die Ochsenmenuett, aber mit Spitzeders herrlichem Gesang debütirte.</tei:q>
+        <tei:seg> (RABS, S. 87; ob der damals erst dreizehnjährige Schüler Gutzkow bei der Eröffnung dabei war, ist fraglich.) Es sei falsch gewesen, mit der königlichen Bühne rivalisieren zu wollen; man hätte besser getan, </tei:seg>
+        <tei:q>sich nur fest an seine Bestimmung, ein Volkstheater vorzustellen,</tei:q>
+        <tei:seg> [zu] </tei:seg>
+        <tei:q>halten</tei:q>
+        <tei:seg> (RABS, S. 88). Das Theater sei zu groß, zu kostspielig, vernachlässige durch Bevorzugung der italienischen Oper seine besten Kräfte, d. h. die Komiker, habe mit artistischem Zirkus-Klamauk, </tei:seg>
+        <tei:q>dem Affen Jocko, Seiltänzern, Kunstreitern, dem Herkules Rappo</tei:q>
+        <tei:seg> (RABS, S. 88) den Saal füllen wollen, das Repertoire sei profillos, kurz: </tei:seg>
+        <tei:q>Das Königsstädter Theater erfüllt seine Bestimmung nicht, und es wäre zu wünschen, wir bekämen ein drittes.</tei:q>
+        <tei:seg> (RABS, S. 89). Den Namen des Direktors Cerf nennt Gutzkow nicht, hebt aber ausdrücklich den ehemaligen Theatersekretär und Bühnenautor Karl von Holtei hervor, der </tei:seg>
+        <tei:q>einer solchen wahren Volksbühne vorstehen könnte</tei:q>
+        <tei:seg> (RABS S. 89-90) und ein idealer Leiter wäre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Für den Bühnenautor Gutzkow, der zwischen einer anspruchsvollen Kunstanstalt wie der Königlichen Bühne oder dem Wiener Hofburgtheater und einem Volkstheater deutlich unterschied, war das Königstädtische Theater mit der Pflege leichter Muse vergleichsweise uninteressant. Auf dieser Bühne ist auch nie eines seiner Stücke aufgeführt worden. Für den Theaterkritiker und -beobachter spielte das Königstädter Theater nach 1840 keine besondere Rolle mehr. </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Literatur</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Willi </tei:seg>
+        <tei:hi style="font-weight-bold">Eylitz</tei:hi>
+        <tei:seg>: Das Königstädtische Theater in Berlin. Rostock, Univ., Diss., 1940. (Vervielfältigt als Typoskript, nicht eingesehen.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ruth </tei:seg>
+        <tei:hi style="font-weight-bold">Freydank</tei:hi>
+        <tei:seg>: Das Theater in der Königsstadt. In: Dies.: Theater in Berlin. Von den Anfängen bis 1945. Berlin: Henschel, 1988. S. 222-235. (= Freydank 1988)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Birgit </tei:seg>
+        <tei:hi style="font-weight-bold">Pargner</tei:hi>
+        <tei:seg>: Birch-Pfeiffer im Repertoire des Königsstädtischen Theaters und ihre Geschäftsverhandlungen mit Friedrich Cerf. In: Dies.: Zwischen Tränen und Kommerz. Das Rührtheater Charlotte Birch-Pfeiffers (1800-1868) in seiner künstlerischen und kommerziellen Verwertung. Bielefeld: Aisthesis Verl., 1999. S. 346-373.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Heinrich </tei:seg>
+        <tei:hi style="font-weight-bold">Stümcke</tei:hi>
+        <tei:seg>: Henriette Sontag. Ein Lebens- und Zeitbild. Berlin: Selbstverl. der Gesellschaft für Theatergeschichte, 1913. S. 33-68. (= Stümcke 1913)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gerhard </tei:seg>
+        <tei:hi style="font-weight-bold">Wahnrau</tei:hi>
+        <tei:seg>: Berlin – Stadt der Theater. Der Chronik I. Teil. Berlin: Henschel, 1957. S. 334-351, 397-402, 435-439. (= Wahnrau 1957)</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Quellen</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Friedrich </tei:seg>
+        <tei:hi style="font-weight-bold">Adami</tei:hi>
+        <tei:seg>: Friedrich Cerf. Skizze. In: Almanach für Freunde der Schauspielkunst auf das Jahr 1845. Hg. von L. Wolff. Berlin, 1846. S. 124-138.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>L[ouis] </tei:seg>
+        <tei:hi style="font-weight-bold">Angely</tei:hi>
+        <tei:seg>: Vaudevilles und Lustspiele. Theils Originale, theils Uebertragungen u. Bearbeitungen. Zunächst für das Königstädtische Theater zu Berlin. [Bd. 1-] 3. Berlin: Cosmar u. Krause, 1828-1834. – 18 Stücke, jeweils separat paginiert.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Karoline </tei:seg>
+        <tei:hi style="font-weight-bold">Bauer</tei:hi>
+        <tei:seg>: Eröffnung des Königstädter Theaters. In: Dies.: Aus meinem Bühnenleben. Erinnerungen. Hg. von Arnold Wellmer. Berlin: Decker, 1871. S. 33-56.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Friedrich </tei:seg>
+        <tei:hi style="font-weight-bold">Beckmann</tei:hi>
+        <tei:seg>: Der Eckensteher Nante im Verhör. Lokal-Posse. Berlin: Rücker, 1833. – Uraufführung im Königstädtischen Theater: 26. Dezember 1832. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Karl von </tei:seg>
+        <tei:hi style="font-weight-bold">Holtei</tei:hi>
+        <tei:seg>: Vierzig Jahre. Bd. 4. Berlin: Buchhandlung des Berliner Lesecabinets, 1844. S. 175-275 (vereinzelt an weiteren Stellen des Bandes; = Holtei 1844).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>C[arl] von </tei:seg>
+        <tei:hi style="font-weight-bold">Holtei</tei:hi>
+        <tei:seg>: Beiträge für das Königstädter Theater. Bd. 1-2. Wiesbaden: Haßloch, 1832. – Enthält neben einem Vorwort fünf Stücke.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Adolf </tei:seg>
+        <tei:hi style="font-weight-bold">Streckfuß</tei:hi>
+        <tei:seg>: 500 Jahre Berliner Geschichte. Vom Fischerdorf zur Weltstadt. Geschichte und Sage. 3. Aufl. Berlin: Brigl, 1880. Bd. 2, S. 849-853.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
+        <tei:seg>(Wolfgang Rasch, Berlin)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+    </tei:body>
+    <tei:interpGrp type="global"/>
+  </tei:text>
+</tei:TEI>

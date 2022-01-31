@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="2022-01-31">31. Januar 2022</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#anhang #lexikon #mundt"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Mundt, Theodor</tei:title>
+        <tei:author>Wolfgang Rasch</tei:author>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Autor</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-01-31" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+    <tei:sourceDesc>
+      <tei:bibl/>
+    </tei:sourceDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Mundt, Theodor </tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>geb. 19. September 1808 (Potsdam), gest. 30. November 1861 (Berlin); Schriftsteller, Dozent, Journalist, Bibliothekar; gehörte zu den fünf im Beschluss des Deutschen Bundestages vom 10. Dezember 1835 namentlich aufgeführten verfemten jungdeutschen Autoren. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→   </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/Mundt1.html" type="external">Bilder</tei:ref>
+        <tei:seg> Gutzkows Zeitgenossen</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Allgemeines</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Gutzkow und Theodor Mundt</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Bibliographie</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Deutsches Schriftsteller-Lexikon. 1830-1880. Bearb. von Herbert Jacob, Marianne Jacob, Thomas Lindenberg u. Paul Raabe. Bd 5/2. Berlin: Akademie Verl., 2011, S. 516-529.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Werke (Auswahl)</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Einheit Deutschlands in politischer und ideeller Entwickelung. Leipzig: Brockhaus, 1832.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kritische Wälder. Blätter zur Beurtheilung der Literatur, Kunst u. Wissenschaft unserer Zeit. Leipzig: Wolbrecht, 1833.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Moderne Lebenswirren. Briefe und Zeitabenteuer eines Salzschreibers. Leipzig: Reichenbach, 1834.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Madonna. Unterhaltungen mit einer Heiligen. Leipzig: Reichenbach, 1835.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>[Anon. Hg.:] Charlotte Stieglitz, ein Denkmal. Berlin: Veit, [1835].</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Kunst der deutschen Prosa. Aesthetisch, literargeschichtlich, gesellschaftlich. Berlin: Veit u. Comp., 1837.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Charaktere und Situationen. Vier Bücher, Novellen, Skizzen, Wanderungen auf Reisen und durch die neueste Literatur. 2 Bände, Schmidt &amp; Cossel, Wismar, Leipzig 1837. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Spaziergänge und Weltfahrten. 3 Bde. Altona: Hammerich, 1838-1839. (Bd. 1: Briefe aus London. – Tagebuch aus Paris. – Bd. 2: Deutschland in Frankreich. – Meerfahrt. – Bd. 3: Ausflug durch die Schweiz nach der Provence.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Thomas Müntzer. Ein deutscher Roman. 3 Bde. Altona: Hammerich, 1841-1842.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Geschichte der Gesellschaft in ihren neueren Entwickelungen und Problemen. Berlin: Simion, 1844.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Carmela oder die Wiedertaufe. Ein Roman. Hannover: Kius, 1844.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aesthetik. Die Idee der Schönheit und des Kunstwerks im Lichte unserer Zeit. Berlin: Simion, 1845.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Zeitschriften Mundts</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schriften in bunter Reihe. Zur Anregung und Unterhaltung. Leipzig: Reichenbch, 1834.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Literarischer Zodiacus. Schriften in bunter Reihe zur Anregung und Unterhaltung [ab Juli 1835: Journal für Zeit und Leben, Wissenschaft und Kunst]. Reichenbach, Leipzig 1835–1836. 2 Jahrgänge. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dioskuren. Für Wissenschaft und Kunst. Schriften in bunter Reihe. Band 1–2.  Berlin: Veit  1836–1837.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Delphin. Ein Almanach. Altona: Hammerich, 1838–1839.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Freihafen. Galerie von Unterhaltungsbildern aus den Kreisen der Literatur, Gesellschaft und Wissenschaft. Altona: Hammerich,  1838-1844.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Pilot. Allgemeine Revue der einheimischen und ausländischen Literatur- und Völkerzustände. Hg. von der Redaction des Freihafens (ab 1841, Nr. 87 Redaktion: Theodor Mundt; ab 1842, Nr. 125 Redaktion: Friedrich Saß]. Altona: Hammerich, 1840-1842.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Biographie</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Franz </tei:seg>
+        <tei:hi style="font-weight-bold">Brümmer</tei:hi>
+        <tei:seg>: Mundt, Theodor. In: Allgemeine Deutsche Biographie (ADB). Leipzig: Duncker &amp; Humblot, 1886, Bd. 23. S. 10-12.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Forschungsliteratur (Auswahl)</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Otto </tei:seg>
+        <tei:hi style="font-weight-bold">Draeger</tei:hi>
+        <tei:seg>: Theodor Mundt und seine Beziehungen zum Jungen Deutschland. Marburg: Elwert, 1909.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Heinrich Hubert </tei:seg>
+        <tei:hi style="font-weight-bold">Houben</tei:hi>
+        <tei:seg>: Theodor Mundt. In: Heinrich Hubert Houben: Jungdeutscher Sturm und Drang. Ergebnisse und Studien. Leipzig: Brockhaus, 1911. S. 395-502.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Heinrich Hubert </tei:seg>
+        <tei:hi style="font-weight-bold">Houben</tei:hi>
+        <tei:seg>: Mundt, Theodor (1806-1861). In: Heinrich Hubert Houben: Verbotene Literatur von der klassischen Zeit bis zur Gegenwart. Ein kritisch-histor. Lexikon über verbotene Bücher, Zeitschriften u. Theaterstücke, Schriftsteller u. Verleger. Bremen: Schünemann, 1928. Bd. 2, S. 363-498.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Walter </tei:seg>
+        <tei:hi style="font-weight-bold">Grupe</tei:hi>
+        <tei:seg>: Mundts und Kühnes Verhältnis zu Hegel und seinen Gegnern. Halle/Saale: Niemeyer, 1928.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Petra </tei:seg>
+        <tei:hi style="font-weight-bold">Hartmann</tei:hi>
+        <tei:seg>: „Von Zukunft trunken und keiner Gegenwart voll“. Theodor Mundts literarische Entwicklung vom ‚Buch der Bewegung‘ zum historischen Roman. Bielefeld: Aisthesis Verl., 2003.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Zitat- und Belegstellen</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/rezensionen-und-literaturkritische-essays/schriften-in-bunter-reihe-herausgegeben-von-theodor-mundt.html" type="external">Schriften in bunter Reihe</tei:ref>
+        <tei:seg> (1835), eGWB IV, Schriften zur Literatur und zum Theater, Bd. 6.1, Rezensionen und literaturkritische Essays, pdf 1.0, S. 1-4.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/rezensionen-und-literaturkritische-essays/madonna-unterhaltungen-mit-einer-heiligen-von-th-mundt.html" type="external">Madonna. Unterhaltungen mit einer Heiligen</tei:ref>
+        <tei:seg>, (1835), eGWB IV, Schriften zur Literatur und zum Theater, Bd. 6.1, Rezensionen und literaturkritische Essays, pdf 1.0, S. 1-3.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/theodor-mundt-willibald-alexis-und-die-pommersche-dichterschule-oder-ueber-einige-literar-historische-symptome.html" type="external">Theodor Mundt, Willibald Alexis und die Pommersche Dichterschule, oder über einige literar-historische Symptome</tei:ref>
+        <tei:seg> (1835), eGWB IV, Schriften zur Literatur und zum Theater, Bd. 6.2, Schriften zur Literatur, pdf 1.0, S. 1-6.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/vergangenheit-und-gegenwart.html" type="external">Vergangenheit und Gegenwart</tei:ref>
+        <tei:seg> (1839) eGWB IV, Schriften zur Literatur und zum Theater, Bd. 6.2, Schriften zur Literatur, pdf 1.0, S. 33-39.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/tagebuch-aus-berlin-i-xix.html" type="external">Tagebuch aus Berlin</tei:ref>
+        <tei:seg> (1840), eGWB VI, Reiseliteratur, Bd. 3, Tagebuch aus Berlin, pdf 1.0, S. 60-62.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/berliner-eindruecke.html" type="external">Berliner Eindrücke</tei:ref>
+        <tei:seg> (1844), eGWB VI, Reiseliteratur, Bd. 3, Berliner Eindrücke, pdf 1.0, S. 3-4; S. 11, Zeile 14-20.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/theodor-mundt.html" type="external">Theodor Mundt</tei:ref>
+        <tei:seg> (1861), eGWB IV, Schriften zur Literatur und zum Theater, Bd. 6.2, Schriften zur Literatur, pdf 1.0, S. 1-3.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
+        <tei:seg>(Wolfgang Rasch)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+    </tei:body>
+    <tei:interpGrp type="global"/>
+  </tei:text>
+</tei:TEI>
