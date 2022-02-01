@@ -40,11 +40,11 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+      <tei:head data-heading-id="Eine Woche in Berlin" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:pb n="396"/>
         <tei:seg> Eine Woche in Berlin.</tei:seg>
       </tei:head>
-      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+      <tei:head data-heading-id="I." first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
         <tei:seg>I.</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -179,7 +179,7 @@
         <tei:ref target="#annotation-46" type="esv">Carnevalbesuchs</tei:ref>
         <tei:seg> in Berlin ausführlicher festzuhalten.</tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+      <tei:head data-heading-id=" II." first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:pb n="409"/>
         <tei:seg> II.</tei:seg>
       </tei:head>
@@ -430,7 +430,7 @@
           <tei:ref target="#{value()}" type="esv">Den Unwerth schweigendem Verdienst erweist!</tei:ref>
         </tei:hi>
       </tei:l>
-      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+      <tei:head data-heading-id="III." first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:pb n="442"/>
         <tei:seg> III.</tei:seg>
       </tei:head>
