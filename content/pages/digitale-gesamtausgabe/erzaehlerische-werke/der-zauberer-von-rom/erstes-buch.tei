@@ -47,10 +47,10 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="Der Zauberer von Rom" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:seg>Der Zauberer von Rom.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="Roman in neun Büchern" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+      <tei:head data-heading-id="[Vorrede]" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
         <tei:seg>Roman in neun Büchern.</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -6451,7 +6451,15 @@
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">706,11</tei:citedRange>
-        <tei:seg> Attenzione cocchieri! ...] Attenzione cocchieri!..</tei:seg>
+        <tei:seg> </tei:seg>
+        <tei:foreign>
+          <tei:lem>Attenzione cocchieri!</tei:lem>
+        </tei:foreign>
+        <tei:lem> ...</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:foreign>
+          <tei:sic>Attenzione cocchieri!..</tei:sic>
+        </tei:foreign>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">712,34</tei:citedRange>
@@ -7019,7 +7027,7 @@
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">179,1</tei:citedRange>
-        <tei:seg> [224]] lies: [224] (von 12 pt auf 11pt reduziert) </tei:seg>
+        <tei:seg> [224]] lies: [224] (von 12 pt auf 11 pt reduziert) </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">249,10</tei:citedRange>
@@ -7080,10 +7088,14 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">880,2</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>animarurm</tei:foreign>
-        <tei:seg>] lies: </tei:seg>
-        <tei:foreign>animaru</tei:foreign>
-        <tei:seg>m</tei:seg>
+        <tei:foreign>
+          <tei:lem>animarurm</tei:lem>
+        </tei:foreign>
+        <tei:seg> lies: </tei:seg>
+        <tei:foreign>
+          <tei:sic>animaru</tei:sic>
+        </tei:foreign>
+        <tei:sic>m</tei:sic>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1308,3</tei:citedRange>
@@ -7104,7 +7116,7 @@
       <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
       <tei:head data-heading-id="5.1.1 Kritiken" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
