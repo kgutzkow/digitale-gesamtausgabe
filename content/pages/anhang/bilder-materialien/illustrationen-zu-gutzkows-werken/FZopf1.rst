@@ -1,11 +1,11 @@
-"Zopf und Schwert", Szene aus III,2"
-====================================
+"Zopf und Schwert", Szene aus dem 3. Akt (1844)
+===============================================
 
 :slug: FZopf1
 :order: 5
 :template: slideshow
 
-Die Überraschung beim Tanze. Szene aus "Zopf und Schwert", III,2. Anon. Holzstich, 1844
+Die Überraschung beim Tanze. Szene aus "Zopf und Schwert", III, 2. Anon. Holzstich, 1844
 
 .. class:: source
 

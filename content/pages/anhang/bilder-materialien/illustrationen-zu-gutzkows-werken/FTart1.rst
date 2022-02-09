@@ -1,5 +1,5 @@
-"Das Urbild des Tartüffe". Zwei Szenenbilder"
-=============================================
+"Das Urbild des Tartüffe", zwei Szenenbilder (1845)
+===================================================
 
 :slug: FTart1
 :order: 8

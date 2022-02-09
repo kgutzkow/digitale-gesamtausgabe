@@ -1,8 +1,8 @@
-Lady Macclesfield aus "Richard Savage"
-======================================
+Lady Macclesfield aus "Richard Savage" (Kostümbild, 1841)
+=========================================================
 
 :slug: FSav1
-:order: 2
+:order: 3
 :template: slideshow
 
 Lady Macclesfield. Handkollorierter Holzstich zu "Richard Savage", 1841

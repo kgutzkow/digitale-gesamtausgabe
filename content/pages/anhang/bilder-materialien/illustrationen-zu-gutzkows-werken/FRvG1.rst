@@ -1,8 +1,8 @@
-Hackert aus "Die Ritter vom Geiste"
-===================================
+"Die Ritter vom Geiste", Hackert als Nachtwandler (1851)
+========================================================
 
 :slug: FRvG1
-:order: 9
+:order: 10
 :template: slideshow
 
 Hackert als Nachtwandler in die "Ritter vom Geiste". Zeichnung von Friedrich Pecht. Holzstich, 1851

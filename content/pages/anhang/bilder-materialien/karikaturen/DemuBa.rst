@@ -1,5 +1,5 @@
-Demagoge und Barbier
-====================
+Demagoge und Barbier, 1849
+==========================
 
 :slug: DemuBa
 :order: 17

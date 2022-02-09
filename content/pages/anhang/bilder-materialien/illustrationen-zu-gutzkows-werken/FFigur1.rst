@@ -1,8 +1,8 @@
-Figurentableaux aus Gutzkows Werken
-===================================
+Figurentableaux aus Gutzkows Werken (1864)
+==========================================
 
 :slug: FFigur1
-:order: 13
+:order: 1
 :template: slideshow
 
 Figurentableaux aus Gutzkows Werken. Zeichnung von Herbert König. Herbert König: Zu Karl Gutzkow's 25jährigem Jubiläum. Holzstich, 1864

@@ -1,5 +1,5 @@
-"Pugatscheff", letzte Szene aus Akt III"
-========================================
+"Pugatscheff", letzte Szene aus dem 3. Akt (1845)
+=================================================
 
 :slug: FPuga1
 :order: 7

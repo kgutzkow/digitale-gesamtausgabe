@@ -1,11 +1,11 @@
-1849 Badische Revolution
-========================
+Badische Revolution, 1849
+=========================
 
 :slug: 49BadR
 :order: 13
 :template: slideshow
 
-1849 Badische Revolution.
+Badische Revolution 1849.
 
 .. class:: source
 

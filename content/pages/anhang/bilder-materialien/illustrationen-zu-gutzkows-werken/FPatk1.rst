@@ -1,5 +1,5 @@
-"Patkul", Szene aus Akt III"
-============================
+"Patkul", Szene aus dem 3. Akt (1844)
+=====================================
 
 :slug: FPatk1
 :order: 4

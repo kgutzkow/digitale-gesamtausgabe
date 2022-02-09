@@ -1,11 +1,11 @@
-Schlußszene aus "Ella Rose"
-===========================
+"Ella Rose", Schlussszene (1856)
+================================
 
 :slug: FElla1
-:order: 11
+:order: 9
 :template: slideshow
 
-Schlußszene aus "Ella Rose oder die Rechte des Herzens". Holzstich von H. K., 1856
+Schlussszene aus "Ella Rose oder die Rechte des Herzens". Holzstich von H. K., 1856
 
 .. class:: source
 

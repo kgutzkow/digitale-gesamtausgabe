@@ -1,5 +1,5 @@
-Friedrich Wilhelm IV. 1848
-==========================
+Friedrich Wilhelm IV. als deutscher Kaiser, 1848
+================================================
 
 :slug: FrWi4K
 :order: 11

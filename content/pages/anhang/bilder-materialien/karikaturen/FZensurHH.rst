@@ -1,4 +1,4 @@
-Hamburger Zensoren, 1874
+Hamburger Zensoren, 1847
 ========================
 
 :slug: FZensurHH
@@ -9,6 +9,4 @@ Hamburger Zensoren, 1874
 
 .. class:: source
 
-  (Federzeichnung von Theodor Hosemann, 1847. In: Illustrierte Geschichte der deutschen Revolution 1848/49. Berlin 1988, S. 18.)Artikel "Zensur"
-
-Vgl. auch den Artikel "Zensur"
+  (Federzeichnung von Theodor Hosemann, 1847. In: Illustrierte Geschichte der deutschen Revolution 1848/49. Berlin 1988, S. 18.)

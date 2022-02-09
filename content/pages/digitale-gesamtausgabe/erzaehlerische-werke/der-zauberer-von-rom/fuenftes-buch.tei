@@ -249,7 +249,9 @@
         <tei:seg>Müllenhoff sprach hinter ihm her:</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Nicht wahr, der Meinung sind Sie doch auch, Domherr? Man muß das Reinigen der Kirche mit dem Nächsten anfangen, was nur unser Kehrbesen trifft! Dieser Tübbicke ist wie die Meßner sämmtlich sind! Ich sagte ihm schon neulich: Tübbicke, sitzt das Wachs noch nächsten Freitag an den Leuchtern auf der Epistelseite, so nehm’ ich mit eigner Hand vor dem Introito ein Tuch und putze die heiligen Gefäße selbst vor der ganzen Gemeinde rein!</tei:seg>
+        <tei:seg>Nicht wahr, der Meinung sind Sie doch auch, Domherr? Man muß das Reinigen der Kirche mit dem Nächsten anfangen, was nur unser Kehrbesen trifft! Dieser Tübbicke ist wie die Meßner sämmtlich sind! Ich sagte ihm schon neulich: Tübbicke, sitzt das Wachs noch nächsten Freitag an den Leuchtern auf der Epistelseite, so nehm’ ich mit eigner Hand vor dem </tei:seg>
+        <tei:ref target="#annotation-1" type="esv">Introibo</tei:ref>
+        <tei:seg> ein Tuch und putze die heiligen Gefäße selbst vor der ganzen Gemeinde rein!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Bonaventura, in tiefen Gedanken, lächelte und sprach:</tei:seg>
@@ -12058,6 +12060,20 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-center">
         <tei:seg>Ende des fünften Buchs.</tei:seg>
       </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">1194,23</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Introibo</tei:citedRange>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Im Text der Erstausgabe steht </tei:seg>
+          <tei:q>Introito</tei:q>
+          <tei:seg> (nach lat. introitus, Eingang); auf der Rückseite des Titelblatts vom fünften Band wurde das Wort berichtigt (statt: Introito, lies: Introibo). In seinem „Fremdwörterbuch“ nimmt Daniel Sanders Bezug auf diese Romanstelle und erläutert: „Introibo (lat.): ‚ich werde eintreten‘, – einleitender Theil der Messe des kath. Gottesdienstes.“ (Sanders 1871, Bd. 1, S. 554).  In der Druckausgabe des Romans ist irrtümlich </tei:seg>
+          <tei:q>Introito</tei:q>
+          <tei:seg> stehen geblieben.</tei:seg>
+        </tei:p>
+      </tei:interp>
       <tei:note type="footnote" xml:id="footnote-1">
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>*) Thatsächlich.</tei:seg>

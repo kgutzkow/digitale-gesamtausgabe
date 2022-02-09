@@ -1,11 +1,11 @@
-"Zopf und Schwert", Szene aus V,2"
-==================================
+"Zopf und Schwert", Szene aus dem 5. Akt (1844)
+===============================================
 
 :slug: FZopf2
 :order: 6
 :template: slideshow
 
-Das Tabakscollegium. Szene aus "Zopf und Schwert", V,2. Anon. Holzstich, 1844
+Das Tabakscollegium. Szene aus "Zopf und Schwert", V, 2. Anon. Holzstich, 1844
 
 .. class:: source
 

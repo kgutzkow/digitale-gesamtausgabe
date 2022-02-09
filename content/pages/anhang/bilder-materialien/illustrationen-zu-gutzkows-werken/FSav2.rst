@@ -1,8 +1,8 @@
-Richard Savage aus "Richard Savage"
-===================================
+Richard Savage aus "Richard Savage" (Kostümbild, 1841)
+======================================================
 
 :slug: FSav2
-:order: 3
+:order: 2
 :template: slideshow
 
 Richard Savage. Handkollorierter Holzstich zu "Richard Savage", 1841

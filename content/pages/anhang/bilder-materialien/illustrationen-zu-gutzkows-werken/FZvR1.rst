@@ -1,5 +1,5 @@
-Kronsyndicus aus "Der Zauberer von Rom"
-=======================================
+"Der Zauberer von Rom", der zurückkehrende Kronsyndikus (1859)
+==============================================================
 
 :slug: FZvR1
 :order: 12

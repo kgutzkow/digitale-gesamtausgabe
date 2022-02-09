@@ -16,7 +16,7 @@ Stimmen zu Person und Werk
 
 * Bei alledem maßt sich Herr Gutzkow an, das Haupt des „jungen Deutschland“ zu seyn und im Kampf der Zeit eine große Rolle zu spielen. Auf einem kranken Bock reitend, glaubt er sein Ritterthum im Kampf der Zeit zu bewähren. Mit Unzucht will er die Welt verbessern. Eine schändliche Krankheit bietet er ihr als Heilmittel an.
 
-*Evangelische Kirchenzeitung, 1835*
+*„Evangelische Kirchenzeitung“, 1835*
 
 * Dem Redakteur des Literaturblattes, Dr. Wolfgang Menzel, gebührt das Lob, daß er mit großem Muth und mit großer Macht die Schandglocke geläutet hat über den Doktor Gutzkow und seine Genossen. Rücksichtslos, derb und unumwunden behandelt er die Wiederhersteller des Fleisches als liederliche Menschen und ihre Richtung als Hurerei. Er macht die Frauen und Jungfrauen Deutschlands mit dieser Gesellschaft bekannt, indem er mit bitterem Hohn auf sie hinweist als auf solche, die eben entnervt und von schändlichen Ansehen aus ihren Bordellen herauswanken. So haut er drein nach bestem Wissen und Gewissen mit Heldenmuth, und das Stärkste, was er schließlich den Zerhauenen noch beizubringen weiß, ist ein prophetisches Donnerwort aus dem Alten Testament. Das hat Menzel brav gemacht.
 
@@ -92,7 +92,7 @@ Stimmen zu Person und Werk
 
 * Hoffentlich wird kein Katholik, der etwas auf sich und seinen Glauben hält, für dieses Schandwerk auch nur einen Kreuzer Geld ausgeben oder ausgegeben haben.
 
-*„Allgemeine“ Zeitung“ (Augsburg), 1870*
+*Die „Allgemeine Zeitung“ (Augsburg), 1870*
 
 * Außerhalb der engeren Literaturkreise, der kleinen Zahl von Literaturfreunden, welche das Erscheinen eines neuen Buches eines geliebten Verfassers wie ein beglückendes persönliches Ereignis aufzufassen vermögen, wird der Entwicklungsgang eines schöpferischen Geistes nicht mit jenem Interesse und jener Ausdauer verfolgt, wie sie den Commentatoren classischer Literatur-Namen und den Sammlern literarischer Nachlässe und Nachlesen eigen ist. Wir wollen damit nur andeuten, daß auch das literarische Wirken Gutzkows seinen Höhepunkt bereits überschritten, daß die durchschlagenden Erfolge seiner Dramen, seiner "Ritter vom Geist", seines "Zauberers von Rom", durch den unaufhaltsamen Gang der politischen und socialen Strömungen in dem Gedächtnisse vieler Zeitgenossen verwischt wurden, und daß es seiner Zeit eines anderen Düntzer bedürfen wird um jene Schöpfungen gleichsam wieder mit frischen Tinten aufleben zu lassen.
 
@@ -136,7 +136,7 @@ Stimmen zu Person und Werk
 
 * Gutzkow war eben noch einer von den auf den Aussterbe-Etat gesetzten Schriftstellern, denen die Interessen der Dichtkunst und Literatur theurer als die glänzendsten Vortheile des unmittelbaren Lebens, ja die wahren Lebens-Interessen selbst sind, während in unserer überall als mercantilisch sich charakterisierenden Zeit umgekehrt der Hang nach gemeinen sinnlichen Lebensgenüssen mit dem erheuchelten Eifer für rein geistige Interessen Geschäfte macht. Der Eifer verräth seine Unwahrheit, seine unsaubere Abkunft in der Oberflächlichkeit, mit der Bücher gelesen, in der Frivolität, mit der sie recensirt werden. Es giebt keinen größeren Unterschied als zwischen Gutzkow und der literarisch-kritischen Celebritäten des Tages; jener fand seinen Schwerpunkt am Büchertisch, diese finden ihn an der guten Tafel. Nachklänge
 
-*„Allgemeine Zeitung“, 1887, Gutzkow-Denkmal in Dresden*
+*„Allgemeine Zeitung“, 1887, Enthüllung des Gutzkow-Denkmals in Dresden*
 
 * Nachdem die Hülle vom Denkmal gefallen war und der Redner die Vertreter der Stadt gebeten hatte, dasselbe in den Schutz Dresdens zu nehmen, erklärte der Oberbürgermeister Dr. Stübel „freudig bewegt“ die Übernahme des Monuments in städtische Obhut, dankte dem Schriftstellerverband und allen denen, welche für dessen Ausführung thätig gewesen, und sprach den Wunsch aus, „daß unser Dresden für alle Zeiten den Ruhm sich erhalten möge, den hier Lebenden nicht nur mannichfache Annehmlichkeiten zu bieten, sondern auch ein so fruchtbarer Boden für jede höhere geistige Bestrebung zu sein, wie dieß die Stadt für die schöpferische Kraft eines Gutzkow gewesen.“
 
