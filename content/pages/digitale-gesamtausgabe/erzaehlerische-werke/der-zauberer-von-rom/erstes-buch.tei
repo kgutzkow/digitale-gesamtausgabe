@@ -5813,9 +5813,13 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1151,34</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>étroitement</tei:lem>
+        <tei:foreign>
+          <tei:lem>étroitement</tei:lem>
+        </tei:foreign>
         <tei:seg> </tei:seg>
-        <tei:sic>etroitement</tei:sic>
+        <tei:foreign>
+          <tei:sic>etroitement</tei:sic>
+        </tei:foreign>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1177,15</tei:citedRange>
@@ -7053,9 +7057,13 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">322,21</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:lem>Si! Si!</tei:lem>
+        <tei:foreign>
+          <tei:lem>Si! Si!</tei:lem>
+        </tei:foreign>
         <tei:seg> lies: </tei:seg>
-        <tei:foreign>Si! Si!</tei:foreign>
+        <tei:foreign>
+          <tei:sic>Si! Si!</tei:sic>
+        </tei:foreign>
         <tei:seg> </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -7101,6 +7109,14 @@
           <tei:sic>animaru</tei:sic>
         </tei:foreign>
         <tei:sic>m</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">1194,23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Introito</tei:lem>
+        <tei:seg>  lies: </tei:seg>
+        <tei:sic>Introibo</tei:sic>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1308,3</tei:citedRange>
