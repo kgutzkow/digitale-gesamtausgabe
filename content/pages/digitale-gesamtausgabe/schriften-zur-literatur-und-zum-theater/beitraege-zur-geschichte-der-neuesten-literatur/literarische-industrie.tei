@@ -6,14 +6,17 @@
         <tei:title>Literarische Industrie</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="ChristineHaug">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Christine Haug</tei:name>
         </tei:respStmt>
         <tei:respStmt xml:id="UteSchneider">
-          <tei:resp>Herausgeber</tei:resp>
+          <tei:resp>Herausgeberin</tei:resp>
           <tei:name>Ute Schneider</tei:name>
         </tei:respStmt>
-        
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -40,14 +43,212 @@
     <tei:revisionDesc>
       <tei:change when="2004-11" who="#ChristineHaug #UteSchneider">1.0</tei:change>
       <tei:change when="2005-11" who="#ChristineHaug #UteSchneider">1.0</tei:change>
+      <tei:change when="2022-02-14" who="#WolfgangRasch">1.1: TEI-Auszeichnung</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-1">
+        <tei:seg>Beiträge zur Geschichte der neuesten Literatur.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-2">
+        <tei:seg>Erster Band.</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="Literarische Industrie" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-3">
+        <tei:pb n="1"/>
+        <tei:seg> Literarische Industrie.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der alte Buchhandel besaß, ich will nicht sagen mehr Geld, aber ein wenig mehr Stolz als der jetzige. Mit verschränkten Armen stand er an der Thüre seines Ladens, noch lockten keine Plakate und große Kupferwerke an den Aushängefenstern das vorübergehende Publikum, der alte Buchhandel griff die Leute nicht gewaltsam an: </tei:seg>
+        <tei:foreign>La vie et la bourse</tei:foreign>
+        <tei:seg>! Das alte Buchhändler-Geschäft hatte auf den gebahnten Straßen des Bedürfnisses seinen sehr gemessenen </tei:seg>
+        <tei:pb n="2"/>
+        <tei:seg> Gang: das Bedürfniß war das bittende, ein freies, kein erzwungenes. Es gab Firmen, welche sechsspännig fuhren; doch schon im vorigen Jahrhundert geriethen die Gelehrten darüber in Verzweiflung, und </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-weight-bold">Lessing</tei:hi>
+        </tei:hi>
+        <tei:seg> wollte seine Schriften auf eigene Rechnung verlegen. Allein </tei:seg>
+        <tei:hi style="letter-sparse">Nicolai</tei:hi>
+        <tei:seg> sagte, er würde schon sehen, wie weit man damit käme.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Journalistik hat den alten Buchhandel zu Grund gerichtet; denn die Journale veranlaßten die Lesezirkel und die Lesezirkel absorbirten die Kauflust der Privatleute. So wurden denn zwei Dinge nothwendig: neue Käufer zu gewinnen und die Waare selbst von Außen in eine andere Gestalt zu bringen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der neue Buchhandel gründete sich auf Nichts; aber will man Muth haben und Genie, so muß man mit Schulden anfangen. Seht, dort wird ein neuer Laden ausgebrochen! was soll dort verkauft werden? Bücher. Du lieber </tei:seg>
+        <tei:pb n="3"/>
+        <tei:seg> Gott! ich brauche keine Bücher, meine Frau braucht keine Bücher, mein Vater braucht keine Bücher, meine Kinder brauchen den </tei:seg>
+        <tei:hi style="letter-sparse">Ferbit</tei:hi>
+        <tei:seg>z, den </tei:seg>
+        <tei:hi style="letter-sparse">Splittegar</tei:hi>
+        <tei:seg>b, den </tei:seg>
+        <tei:hi style="letter-sparse">Kinderfreun</tei:hi>
+        <tei:seg>d, aber sie brauchen keine Bücher.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es scheint nun, daß man das närrische Volk betrügen muß. Es sieht in den Büchern nur den Luxus, das Angenehme; man muß es zwingen, das Werthvolle darin zu finden. Aber noch immer steht der junge Anfänger hinter seinen geschmückten Glasfenstern, auf welche die Sonne brennt. Treten Sie herein, meine Herren, der Leipziger Ballen ist angekommen, Brüsseler Nachdruck, Romane von </tei:seg>
+        <tei:hi style="letter-sparse">Fürst</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="letter-sparse">Kollman</tei:hi>
+        <tei:seg>n, </tei:seg>
+        <tei:foreign>
+          <tei:hi style="font-weight-bold">Tutti frutti</tei:hi>
+        </tei:foreign>
+        <tei:seg>! Ja die Leute hören nicht. Auf der Börse, im Amte, draußen auf der Zollwage haben sie zu thun. Was Literatur! Narrenspossen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber mein junger Buchhändler verzweifelt nicht, er greift nach dem Wohnungsanzeiger der Stadt und streicht </tei:seg>
+        <tei:pb n="4"/>
+        <tei:seg> sich mit Rothstift die Adressen aller der Menschen an, welche im Orte auf Bildung Anspruch machen sollten, oder doch wenigstens Vermögen besitzen; es ist nicht Philosophie, Bedürfnisse zu befriedigen, sondern Bedürfnisse zu schaffen. Anzeigen, Subscriptionslisten, bibliographische Berichte werden um Bücher geschlagen, die </tei:seg>
+        <tei:foreign>à condition</tei:foreign>
+        <tei:seg> anvertraut sind. Jezt schreibt der schlaue Spekulant: - Ew. Wohlgeboren erhalten anbei zu gefälliger Einsicht - und dann folgt Titel und Werth eines der werthlosen Bücher, mit welchen sich die Kritik unserer Tage beschäftigen muß; das Ganze gibt ein hübsches Paket und geht nun dreist an eine Adresse ab, welche nie mit dem Reich der Ideen, mit der Kunst, mit </tei:seg>
+        <tei:hi style="font-weight-bold">Schiller</tei:hi>
+        <tei:seg> und </tei:seg>
+        <tei:hi style="font-weight-bold">Göthe</tei:hi>
+        <tei:seg>, am wenigsten aber mit dem jungen Anfänger je in einer Verbindung stand.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Paket kommt an. Was ist Das? Was soll Das? Wozu Das? Wer wollte Das?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="5"/>
+        <tei:seg> Bitte! öffnen Sie nur!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man öffnet, die Familie steht herum, neugierig, man liest: - Ew. Wohlgeboren erhalten anbei zur gefälligen Einsicht -</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von Wem? Von Wem habe ich Etwas zu erhalten? Wer braucht mir unaufgefordert Gefälligkeiten zu erweisen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Sortiments-, Kunst- und Musikalienhändler </tei:seg>
+        <tei:hi style="letter-sparse">Mauser</tei:hi>
+        <tei:seg> -</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="letter-sparse">Mause</tei:hi>
+        <tei:seg>r? Ich kenne keinen </tei:seg>
+        <tei:hi style="letter-sparse">Mause</tei:hi>
+        <tei:seg>r!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ach, der junge Mann da - sagt die Frau. Ach, der junge Mann auf dem Ball da - sagt die Tochter. Ja so, der da mit seinem neuen Laden - der Vater. Man liest, man rechnet, man fühlt sich geehrt, man zahlt. Der junge Anfänger lacht: er hat Kundschaft. Die Literatur hat einen neuen Absatzweg. Wir verdanken dem jungen Mann brave Menschen, welche sich bilden wollen, die </tei:seg>
+        <tei:pb n="6"/>
+        <tei:seg> Wahrheit zu befördern suchen, und eine Ehre darein setzen, ihren Kindern eine Bibliothek zu hinterlassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dies Bild klärt uns das Glück auf, welches in unsern Tagen die Heftweise- und die Pfennigs-Literatur gemacht hat. Denn es ist, wenn auch nicht immer wohlfeile Literatur, die hier vertrieben wurde, doch bequem zahlbare, da sie sich nur in kleinen Raten merklich macht. Auch erfordert die Art, wie die Heftliteratur verbreitet werden muß, eine besondere Betriebsamkeit des Buchhändlers, welcher Tugend sich nur der Fleiß junger Leute zu unterziehen gewohnt ist. Die alten Firmen verbitten sich Zusendungen dieser Art; sie wollen vor Niemanden den Hut abnehmen und sich nicht so rühren, daß sie ihr Embonpoint verlieren könnten. Es leben die alten Firmen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="7"/>
+        <tei:seg> Die löblichen Herren Buchhändler erlebten in neuester Zeit mancherlei Aufregung. Es erschienen nämlich vor zwei Jahren plötzlich einige Artikel über die neue deutsche Buchhandlungs-Verfassung, von denen man eben so wenig wußte, von wo sie kamen, wie man von der andern weiß, von wo sie kommen wird. Der Widerspruch dagegen war mannigfach. Zunächst wollten die Autoren das Urrecht ihrer Bücher nicht aufgeben und erklärten, der Buchhandel wäre für sie kein zünftiges Muß, sondern eine erleichternde Gefälligkeit. Das größte Hinderniß des Entwurfes lag in seiner wunderlichen Verknüpfung der Zensur mit dem Nachdruck. Zensur ist eine temporäre Maßregel, Nachdruck ein ewiges Unrecht. Wie konnte das Eine für das Andere verpflichtend gemacht werden? Wie konnte man sagen: ich schütze dich vor dem Diebstahl, wenn du mich vor deinem Leichtsinne schützest? Eine aprioristische, erschöpfende Gesetz-</tei:seg>
+        <tei:pb n="8"/>
+        <tei:seg>gebung mußte selbst diejenigen Bücher vor dem Nachdruck sicher stellen, welche nicht, wie man zu verlangen schien, mit einem besonderen Stempel der Behörde versehen waren. Ich gebe zu, daß ein unzensirtes Buch unter diesen Umständen unrecht Gut gewesen wäre, aber das Gesetz kann beim Diebstahl nie fragen, unter welchem Titel das Eigenthum von dem Beraubten besessen wurde. Man sah diesen Widerspruch ein und seither verlautete Nichts wieder von dem Entwurfe.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Tiefer wurde der Buchhandel von der Errichtung der Leipziger Börse und der Herausgabe eines Wochenblattes ergriffen. Denn für den Geschäftsverkehr erfolgte daraus eine lobenswerthe Oeffentlichkeit. Der Buchhandel ist eine große Kette von gegenseitigen Verbindlichkeiten, wo eine die andere in ihren Reciprozitäten munter erhält. Man fühlte auch, wie wichtig die neuen Institutionen waren, und ließ Salbung </tei:seg>
+        <tei:pb n="9"/>
+        <tei:seg> und Weihe über sich kommen. Wie bieder sprach sich nicht zuweilen der alte </tei:seg>
+        <tei:hi style="letter-sparse">Perthes</tei:hi>
+        <tei:seg> aus! Der Grundstein der Börse wurde mit einer erhebenden Feierlichkeit gelegt; ja der Enthusiasmus, daß nun Alles prompt bezahlen wolle, war so groß, daß die Buchhändler sogar beschlossen, sich lithographiren zu lassen, auf daß sie an einander einen ewigen Augenspiegel nehmen könnten. Schon sind mehrere Hefte der Galerie deutscher Buchhändler erschienen und lassen sich als ein würdiges Seitenstück zu </tei:seg>
+        <tei:hi style="font-weight-bold">Lavater’s</tei:hi>
+        <tei:seg> Physiognomik betrachten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als ich zu Anfang des Jahres 1834 in Leipzig war, versammelte eine neue Erscheinung, die sich täglich in der Grimmaischen Gasse des Nachmittags wiederholte, eine Menge neugieriger Zuschauer. Man befindet sich vor dem eleganten Gewölbe des Buchhändlers </tei:seg>
+        <tei:hi style="letter-sparse">Bossange</tei:hi>
+        <tei:foreign> </tei:foreign>
+        <tei:foreign>
+          <tei:hi style="letter-sparse">père</tei:hi>
+        </tei:foreign>
+        <tei:seg> aus Paris. </tei:seg>
+        <tei:pb n="10"/>
+        <tei:seg> Vor den steinernen Stiegen des Ladens hält ein kleines geschmackvolles Cabriolet, das mit einem großen geflochtenen Korbe, der an der hinteren Seite verschlossen werden kann, bedeckt ist. Ein Graukopf in Schuhen, mit blauem Frack und feiner Wäsche, in seiner aufrechten und gewandten Haltung den Franzosen verrathend, hält den eingeschirrten stampfenden Fuchs kurz am Zügel und beobachtet eine Menge junger Leute, die sich große Ballen gedruckten Papieres zureichen, um sie sorgfältig von hinten in den gelben Korb zu verpacken.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das sind die neuen Numern des Pfennigmagazins! Ja das Pfennigmagazin hat sich Wagen und Pferde angeschafft, es fährt bei den Leipziger Commissionären vor, es erwartet, daß man herbeispringt, um es bequem heraus zu heben. Wagenlenker, Buchhalter, Handknechte, Lehrlinge umgeben das Cabriolet; Alles blickt freundlich, die </tei:seg>
+        <tei:pb n="11"/>
+        <tei:seg> Hände werden mit Seligkeit gerieben, denn es handelt sich um Tausende von Exemplaren und um eben so viel Thaler.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="letter-sparse">Bossange </tei:hi>
+        <tei:foreign>
+          <tei:hi style="letter-sparse">père</tei:hi>
+        </tei:foreign>
+        <tei:seg> ist stolz auf seine Erfindung, man sagte mir, daß er sich oft mit </tei:seg>
+        <tei:hi style="letter-sparse">Napoleon</tei:hi>
+        <tei:seg> vergliche, weil er eine unzertrennliche Alliance zwischen Deutschland und Frankreich hervorgebracht hätte. </tei:seg>
+        <tei:foreign>La librairie en Allemagne</tei:foreign>
+        <tei:seg> - pflegt er zu sagen - </tei:seg>
+        <tei:foreign>n’était jusqu’alors qu’une chimaire; moi j’étais le premier à montrer ce que c’est que d’avoir une idée. Mon magazin était une idée, mais une idée - vérité.</tei:foreign>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der stolze Mann sagte nicht zu viel, denn es handelte sich um eine Wahrheit von </tei:seg>
+        <tei:hi style="font-weight-bold">50,000</tei:hi>
+        <tei:seg> Exemplaren, einen aufgehaltenen Banquerot, um eine glänzende Zukunft, um eine Wahrheit, welche sich Pferde und Wagen hatte anschaffen können.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nachahmungen ertrug Herr </tei:seg>
+        <tei:hi style="letter-sparse">Bossange</tei:hi>
+        <tei:seg> mit Gleichmuth; </tei:seg>
+        <tei:pb n="12"/>
+        <tei:seg> er wollte aus Papiermangel nach Karlsruhe ziehen, woselbst die Lumpen aus der Schweiz, aus Frankreich und aus ganz Süddeutschland zusammen kommen. In Sachsen, Böhmen und der Lausitz braucht man die Lumpen, um sich darein zu kleiden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In England hat sich bereits gegen die Pfennigindustrie ein Widerspruch erhoben, und wenn er bei uns ausbleiben sollte, so liegt es in der Verschiedenheit der deutschen Verhältnisse von den englischen. Denn ist die Wohlfeilheit bei uns eine Neuerung? Unsere Literatur wurde niemals zu hohen Preisen angeschlagen, wir übersezten zu viel und drückten den Werth der Originale herab. Der Buchhandel hatte keine Gesetze, Anarchie und Verwirrung waren in diesem republikanischen Industriezweig immer hergebracht. Wo haben wir ein sichtbares Publikum, wo jene Autoren, deren Werke um jeden Preis gelesen würden?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="13"/>
+        <tei:seg> Die ungeheuere in Deutschland aufgestapelte Papiermasse gibt von selbst schon den Eindruck einer gewissen Werthlosigkeit. Es ist hergebracht bei uns, daß der beste Fortgang eines Buches darin liegt, es so wohlfeil als möglich zu machen, Schulbücher z. B. schon halb wie Maculatur zu rechnen. Also konnte man nicht sagen, daß die </tei:seg>
+        <tei:hi style="letter-sparse">Preise</tei:hi>
+        <tei:seg> der Literatur bedroht wären.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Etwas Anderes ist es um die Gefahr, in welche die Autoren durch die Pfennigliteratur zu kommen glauben. Sie sagen ungefähr Folgendes: Der Inhalt dieser neuen Literatur besteht zum kleinsten Theile aus Originalartikeln, zum größten Theile aus Uebersetzungen. Das ist eine Literatur, welche durch die gedankenlose Hand eines Uebersetzers schnell hergestellt ist und für deutsche Kunst oder Gelehrsamkeit keine Reaction zurückläßt. Und wird die Kauflust des Publikums in demselben Augenblicke, wo sie erregt ist, </tei:seg>
+        <tei:pb n="14"/>
+        <tei:seg> nicht schon wieder verschleudert? Ja, das Publikum wird auf die Länge einsehen, daß eine Menge kleiner Geldsteuern zulezt gleichfalls eine große Summe bilden, und daß es sein Vermögen an eine gehaltlose, durch ihre Unbeholfenheit lästige Literatur verschwendet hat. Wenn es sich um die Beförderung wahrhaft nützlicher patriotischer Zwecke handelt, wird es nicht dafür kälter werden? Auch sind wir Dichter; wir bedürfen eine im Publikum leicht erregte Phantasie; aber bei diesen regellos zusammen geworfenen realistischen Curiositäten erkaltet die Phantasie, und Leistungen, die sowohl die Einbildungskraft angenehm beschäftigen, wie das moralische Gefühl veredeln, werden keine Theilnahme mehr finden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir gestehen diesen Klagen nur eine halbe Wahrheit zu; denn sie halten sich auf einer oberflächlichen Ansicht der Verhältnisse und greifen der Zukunft vor, die vielleicht </tei:seg>
+        <tei:pb n="15"/>
+        <tei:seg> andere Folgen des scheinbar einreißenden Verderbens aufweisen dürfte. Die Verbreitung gemeinnütziger Kenntnisse ist zwar beschämend, wenn man bedenkt, daß plötzlich die Sucht, sich unterrichten zu wollen, über Völker gekommen ist, welche sich für die gebildetsten der Erde halten; aber die Kenntnisse fehlen und Thatsachen der Geschichte, des Völkerlebens und der Natur können nun auf eine wohlfeile Weise schnell erworben werden. Das Prinzip unserer Zeit ist der Egoismus der Industrie, die Völker bedürfen einer populären Aufklärung über ihre Vortheile, und Niemand mehr als die Deutschen, für welche durch den jüngst abgeschlossenen Zollverband der Wetteifer mit der englischen Gewerbsthätigkeit eine Lebensfrage geworden ist. Ueber die Vereinfachung der Gewerbe, über die Benutzung physikalischer, chemischer und namentlich mechanischer Kräfte und Gesetze zu seinen industriellen Arbeiten ist Deutschland viel </tei:seg>
+        <tei:pb n="16"/>
+        <tei:seg> zu wenig unterrichtet, ja es fehlt selbst an vielen Orten die Bekanntschaft damit, wie man Localbegünstigungen, z. B. Steinkohlen- und Torflager in das Interesse seines Gewerbes ziehen kann. Es ist zu beklagen, daß das einzige unter den deutschen Pfennigblättern, welches eine Bestimmung dieser Art in seinen Plan aufgenommen hatte, das Nationalmagazin, zu erscheinen aufhörte; aber die Uebrigen hätten einsehen sollen, daß man, um die Theilnahme des Publikums fortdauernd zu behalten, sich diesem Beispiele anschließen mußte. Es hätten deutsche Gewerbsverständige, Kenner des heimischen Bodens, Fabrikanten, welche weniger Theoretiker als Routiniers in ihrem Fache sind, in das Interesse gezogen werden müssen. Doch scheint es, als wolle man sich durch eine solche Behandlung dieser populären Literatur die Anerkennung der Nation nicht verdienen. Man zieht vor, kleine Holzschnitte zu geben, wie der Casuar seine </tei:seg>
+        <tei:pb n="17"/>
+        <tei:seg> Eier legt und die Nordpolbewohner mit Hunden Schlitten fahren; man rechnet auf die Kinder und kauft die Blätter nur im Interesse der Erziehung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nichts desto weniger ist es unwahr, daß durch die Pfennigliteratur die Kauflust verschleudert wird; denn man sehe sich nur um! Wer sind denn die Kaufenden? Leute, die den Buchhändler sonst nur um </tei:seg>
+        <tei:hi style="font-weight-bold">Rochow’s</tei:hi>
+        <tei:seg> Schulfreund oder den kleinen Katechismus ansprachen, Leute, die sich noch Nichts gekauft hatten, als kurz nach ihrer Verheirathung ein Gesangbuch. Wenn diese guten Leute, durch die großen Plakatbogen gelockt, in den Laden treten und es nach langer Verlegenheit endlich herausbringen, daß sie </tei:seg>
+        <tei:hi style="font-weight-bold">144</tei:hi>
+        <tei:seg> Pfennige an das erste Quartal des Pfennigmagazins setzen wollen, wo ist da eine Verschleuderung? Liegt nicht in dieser simplen Pränumeration eine hübsche Anerkennung des Druck- und Bücherwesens? Das ist es; durch die </tei:seg>
+        <tei:pb n="18"/>
+        <tei:seg> verschrieene Neuerung wurde dem Buchhandel eine ganz neue Klasse von Käufern und Interessenten gewonnen, zuverlässige, ehrliche Leute, die pünktlich mit ihren Sparpfennigen erscheinen, tüchtige und gesunde, die der Buchhändler leicht für ein gemeinnütziges Unternehmen gewinnen kann. Und wenn diese neue Handelsverbindung auch jährlich höchstens nur mit sechs bis acht Thalern erscheint, so erscheint sie doch in Masse und muß sich täglich vermehren; denn Kauflust steckt an und beschämt, und wenn ein Rekrut des Bücherkaufs wohl gar bemittelt ist, so wird er bald in die Reihen der alten Interessenten eintreten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Soll man es sagen, so handelt es sich nur darum, daß der Buchhandel eine neue Physiognomie angenommen hat. Die Art des Verkaufes ist neu geworden. In Frankreich werden </tei:seg>
+        <tei:hi style="font-weight-bold">Thiers, Mignet, Guizot, Cuvier</tei:hi>
+        <tei:seg> heftweise </tei:seg>
+        <tei:pb n="19"/>
+        <tei:seg> aufgelegt; denn in dieser Form sind sie schnell gelesen und, wie man sich überredet, wohlfeil, sie sind bequem verbreitet durch Colporteurs, welche sich in größeren Städten bald als ambulante Buchläden organisiren. Auch in Deutschland besitzen wir schon einige ausgezeichnete Schriften, die ihre Verbreitung auf genanntem Wege gefunden haben, und um aller Theile, der Kaufenden, Schreibenden und Verlegenden willen ist es zu wünschen, daß wir noch mehrere Werke dieser Art entstehen sehen. Pfennigliteratur ist ein Auswuchs, eine luxurirende Consequenz dieser Art des Buchhandels, und kann als eine Garantie betrachtet werden, welche uns den Bestand der lezteren sichert. Namentlich zeigt sie, daß auch die Zeitschriften einen ähnlichen Weg nehmen müssen, denn aus welchem Umstand anders erklärte sich die auffallend geringe Zahl von Abnehmern deutscher Journale, als daß unsere Journale jezt nur noch für Zirkel und </tei:seg>
+        <tei:pb n="20"/>
+        <tei:seg> Gesellschaften und nicht mehr für den Privatmann existiren? Wenn man das Zerblättern in zahllose Numern aufhöbe, den Inhalt in Hefte bände, diese zwei-, drei-, viermal im Monat versendete und es den Abnehmern überließe, ob sie für das Ganze oder für jede einzelne Lieferung bezahlen wollten, so würde man einen ganz neuen Aufschwung des Journalbetriebs wahrnehmen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Abstumpfung für Belletristik durch die Pfennigliteratur ist keine ungegründete Besorgniß; doch müssen wir sie in einem anderen Lichte sehen. Das Genie kann hier nur Vortheile, keine Nachtheile haben; denn schon seit Jahren kämpft die Kritik vergebens gegen die belletristische Ueberflutung. Es muß endlich so weit kommen, daß sich die Literatur selbst zu helfen sucht, und sie hilft sich, fast möchte man sagen, homöopathisch: gegen Schriften, welche keinen Pfennig werth sind, durch solche, welche in der That </tei:seg>
+        <tei:pb n="21"/>
+        <tei:seg> nur einen Pfennig kosten. Was muß geschehen, wenn die Pfennigliteratur kein Papier mehr finden kann. Die alten Bücherlager müssen ausgeräumt und die 1000 schlechten Fabrikate der früheren Ueberschwemmung über Bord in die Papiermühle geworfen werden. Mit ruhigem Auge wollen wir dieser Procedur zusehen; unsere Literatur will sich consolidiren und kann es nicht anders, als daß sie in der Gährung den Bodensatz der schlechten Masse von sich stößt und sich nur mit einigen trefflichen Namen und Schriften auf der Höhe zu erhalten sucht. Früher mußte der geniale Autor mit den Produkten seichter Phantasterei concurriren, und wenn er es jezt mit Bildern und Pfennigmagazinen muß, so kann man wohl sagen, daß man sich eher eines Gegners, als eines zweifelhaften Freundes erwehrt. Bei einer Nation, die von je her für Das, was neu, originell und Epoche machend ist, </tei:seg>
+        <tei:pb n="22"/>
+        <tei:seg> wenn auch keine bereitwillige Vorliebe, aber doch immer eine kluge Ahnung gehabt hat, kann das Genie mitten unter den Papierfluten der literarischen Fabrikation um eine Anerkennung unbekümmert bleiben.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
