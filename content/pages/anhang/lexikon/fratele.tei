@@ -4,7 +4,7 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Frankfurter Telegraph. Blätter für Leben, Kunst und Wissenschaft</tei:title>
-        <tei:author>Peter Hasubek </tei:author>
+        <tei:author>Peter Hasubek</tei:author>
         <tei:respStmt xml:id="PeterHasubek">
           <tei:resp>Autor</tei:resp>
           <tei:name>Peter Hasubek</tei:name>
@@ -42,38 +42,34 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Frankfurter Telegraph. Blätter für Leben, Kunst und Wissenschaft</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Frankfurter Telegraph. Blätter für Leben, Kunst und Wissenschaft</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>Zeitschrift, die 1837 drei- bzw. viermal wöchentlich erschien (Rasch 5.6). Sie wurde von Wilhelm Speyer (bis Nr. 12, Januar 1837) und Eduard Beurmann (ab Nr. 13) als verantwortlichen Redakteuren herausgegeben, doch war Gutzkow, der wegen des Bundestagsbeschlusses gegen das Junge Deutschland nicht namentlich genannt werden durfte, der 'eigentliche' Redakteur. Er finanzierte die Zeitschrift unter erheblichen Geldverlusten zunächst allein; ob er später einen Teilhaber fand, ist ungeklärt. </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zeitschrift, die 1837 drei- bzw. viermal wöchentlich erschien (Rasch 5.6). Sie wurde von Wilhelm Speyer (bis Nr. 12, Januar 1837) und Eduard Beurmann (ab Nr. 13) als verantwortlichen Redakteuren herausgegeben, doch war Gutzkow, der wegen des Bundestagsbeschlusses gegen das Junge Deutschland nicht namentlich genannt werden durfte, der &apos;eigentliche&apos; Redakteur. Er finanzierte die Zeitschrift unter erheblichen Geldverlusten zunächst allein; ob er später einen Teilhaber fand, ist ungeklärt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>1838 wurde der in Hamburg erscheinende "Telegraph für Deutschland" das Nachfolgeorgan. </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>1838 wurde der in Hamburg erscheinende &quot;Telegraph für Deutschland&quot; das Nachfolgeorgan. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>→ Bilder und Quellen: Bilder. Handschriften und Drucke . </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→ Bilder und Materialien: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/handschriften-und-drucke/FFranTel1.html" type="external">Bilder</tei:ref>
+        <tei:seg>. Handschriften und Drucke . </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg>  (Peter Hasubek, Göttingen / Gert Vonhoff, Exeter / N.N.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>(Peter Hasubek, Göttingen / Gert Vonhoff, Exeter / N.N.)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

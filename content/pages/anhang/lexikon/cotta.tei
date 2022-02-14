@@ -38,35 +38,34 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Cotta, Johann Friedrich Freiherr von </tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Cotta, Johann Friedrich Freiherr von </tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Johann Friedrich Freiherr Cotta von  Cottendorf</tei:seg>
-        <tei:hi style="font-size-large font-weight-bold"> </tei:hi>
-        <tei:seg>(1764-1832), erfolgreicher Verleger der deutschen Klassik (Werke Schillers, Goethes, Herders) in Tübingen, Augsburg und Stuttgart. Er verlegte neben einem umfangreichen Buchprogramm auch Zeitschriften und gründete 1798 die renommierte "Allgemeine Zeitung". </tei:seg>
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold"> </tei:hi>
+        </tei:hi>
+        <tei:seg>(1764-1832), erfolgreicher Verleger der deutschen Klassik (Werke Schillers, Goethes, Herders) in Tübingen, Augsburg und Stuttgart. Er verlegte neben einem umfangreichen Buchprogramm auch Zeitschriften und gründete 1798 die renommierte &quot;Allgemeine Zeitung&quot;. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>→ Bilder und Quellen: Bilder. Gutzkows Zeitgenossen.</tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→ Bilder und Materialien: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/FCotta1.html" type="external">Bilder</tei:ref>
+        <tei:seg>. Gutzkows Zeitgenossen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:seg>(Ute Schneider, Mainz)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

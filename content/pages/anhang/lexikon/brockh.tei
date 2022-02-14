@@ -38,24 +38,25 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Brockhaus (Verlag)</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Brockhaus (Verlag)</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Firma F. A. Brockhaus in Leipzig gehörte im 19. Jahrhundert zu den führenden Verlagsbuchhandlung Deutschlands, bedeutend als Lexikon-, Zeitungs- und Zeitschriftenverlag mit liberaler Tendenz. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Bei Brockhaus eschienen u. a. Robert Prutz' "Deutsches Museum" und Gutzkows "Unterhaltungen am häuslichen Herd".</tei:seg>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei Brockhaus eschienen u. a. Robert Prutz&apos; &quot;Deutsches Museum&quot; und Gutzkows &quot;Unterhaltungen am häuslichen Herd&quot;.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold"> Allgemeines, zitiert aus Meyer, Bd. 3, S. 441-442: </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Friedrich Arnold Brockhaus, "der Begründer einer der größten Buchhandlungen Deutschlands, geb. 4. Mai 1772 in Dortmund, gest. 20. Aug. 1823 in Leipzig, errichtete, nachdem er in Düsseldorf seine Lehrzeit als Kaufmann vollendet und sich dann behufs wissenschaftlicher Fortbildung seit 1793 etwa anderthalb Jahre in Leipzig aufgehalten hatte, 1795 in seiner Vaterstadt eine Manufakturwarenhandlung, mit der er 1802 nach Amsterdam übersiedelte. Doch gab er dieselbe infolge der Kontinentalsperre bald auf und errichtete dafür 1805 eine deutsche Buchhandlung, zuerst unter der Firma Rohloff u. Komp., die später in Kunst- und Industrie-Comptoir umgeändert wurde. Das Geschäft gewann sowohl für Verlag als für Sortiment bald an Bedeutung, hatte aber unter den Zeitverhältnissen empfindlich zu leiden. Dies und Familienereignisse veranlaßten B., sein Verlagsgeschäft nach Deutschland zu verlegen, wogegen das Sortimentsgeschäft an Johannes Müller in Amsterdam überging. Nachdem er kurze Zeit in Leipzig verweilt hatte, ließ er sich 1810 in Altenburg nieder, wo er auch 1814 die Firma F. A. Brockhaus annahm. Hier war es vor allem das bereits 1808 von ihm angekaufte Löbelsche Konversations-Lexikon [...], für das er den größten Teil seiner Tätigkeit und seiner Mittel aufwandte, und das er mit der Zeit auf seine spätere Ehrenstelle erhob. Zugleich zog er die politischen Interessen mit in den Kreis seines Wirkens und nahm durch die Deutschen Blätter (Altenb. 1813-16) sowie später durch Okens Isis nicht unbedeutenden Anteil an den Hauptbewegungen der Zeit. Der Umfang und die Wichtigkeit, die sein Geschäft durch diese und andre Unternehmungen in wenigen Jahren gewonnen hatte, bewogen ihn, nach Leipzig zu ziehen, wo er 1818 neben seiner Buchhandlung eine eigne Buchdruckerei errichtete und sein Ansehen und Einfluß von Jahr zu Jahr stiegen. Die freisinnige Richtung seines Verlags zog ihm manche Unannehmlichkeiten zu; so verfügte von 1821 an die preußische Regierung eine Rezensur seines Verlags. B.' Hauptunternehmen, z. T. noch vor seiner Übersiedelung nach Leipzig begonnen, waren unter andern: die "Zeitgenossen" (seit 1816), das "Literarische Konversationsblatt" (seit 1820), "Hermes, oder kritisches Jahrbuch der Literatur" (seit 1819), "Isis" (seit 1817) und andre Zeitschriften, das Taschenbuch "Urania" (seit 1810) nebst vielen andern großen Verlagswerken. </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Friedrich Arnold Brockhaus, &quot;der Begründer einer der größten Buchhandlungen Deutschlands, geb. 4. Mai 1772 in Dortmund, gest. 20. Aug. 1823 in Leipzig, errichtete, nachdem er in Düsseldorf seine Lehrzeit als Kaufmann vollendet und sich dann behufs wissenschaftlicher Fortbildung seit 1793 etwa anderthalb Jahre in Leipzig aufgehalten hatte, 1795 in seiner Vaterstadt eine Manufakturwarenhandlung, mit der er 1802 nach Amsterdam übersiedelte. Doch gab er dieselbe infolge der Kontinentalsperre bald auf und errichtete dafür 1805 eine deutsche Buchhandlung, zuerst unter der Firma Rohloff u. Komp., die später in Kunst- und Industrie-Comptoir umgeändert wurde. Das Geschäft gewann sowohl für Verlag als für Sortiment bald an Bedeutung, hatte aber unter den Zeitverhältnissen empfindlich zu leiden. Dies und Familienereignisse veranlaßten B., sein Verlagsgeschäft nach Deutschland zu verlegen, wogegen das Sortimentsgeschäft an Johannes Müller in Amsterdam überging. Nachdem er kurze Zeit in Leipzig verweilt hatte, ließ er sich 1810 in Altenburg nieder, wo er auch 1814 die Firma F. A. Brockhaus annahm. Hier war es vor allem das bereits 1808 von ihm angekaufte Löbelsche Konversations-Lexikon [...], für das er den größten Teil seiner Tätigkeit und seiner Mittel aufwandte, und das er mit der Zeit auf seine spätere Ehrenstelle erhob. Zugleich zog er die politischen Interessen mit in den Kreis seines Wirkens und nahm durch die Deutschen Blätter (Altenb. 1813-16) sowie später durch Okens Isis nicht unbedeutenden Anteil an den Hauptbewegungen der Zeit. Der Umfang und die Wichtigkeit, die sein Geschäft durch diese und andre Unternehmungen in wenigen Jahren gewonnen hatte, bewogen ihn, nach Leipzig zu ziehen, wo er 1818 neben seiner Buchhandlung eine eigne Buchdruckerei errichtete und sein Ansehen und Einfluß von Jahr zu Jahr stiegen. Die freisinnige Richtung seines Verlags zog ihm manche Unannehmlichkeiten zu; so verfügte von 1821 an die preußische Regierung eine Rezensur seines Verlags. B.&apos; Hauptunternehmen, z. T. noch vor seiner Übersiedelung nach Leipzig begonnen, waren unter andern: die &quot;Zeitgenossen&quot; (seit 1816), das &quot;Literarische Konversationsblatt&quot; (seit 1820), &quot;Hermes, oder kritisches Jahrbuch der Literatur&quot; (seit 1819), &quot;Isis&quot; (seit 1817) und andre Zeitschriften, das Taschenbuch &quot;Urania&quot; (seit 1810) nebst vielen andern großen Verlagswerken. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Sein ältester Sohn, </tei:seg>
         <tei:hi style="letter-sparse">Friedrich</tei:hi>
         <tei:seg>, geb. 23. Sept. 1800 in Dortmund, gest. 24. Aug. 1865 in Dresden, übernahm mit seinem Bruder Heinrich gemeinschaftlich das väterliche Geschäft und leitete namentlich die Druckereien der Anstalt, die durch ihn bedeutend erweitert und verbessert wurden. 1850 trat er aus dem Geschäft aus. </tei:seg>
@@ -72,56 +73,57 @@
         <tei:hi style="letter-sparse">Albert</tei:hi>
         <tei:seg>, geb. 2. Sept. 1855,1889 der älteste Sohn von Rudolf B., </tei:seg>
         <tei:hi style="letter-sparse">Rudolf</tei:hi>
-        <tei:seg> B. jun., geb. 4. Juni 1864, als Teilhaber in das Gesamtgeschäft ein, dessen alleinige Besitzer und Leiter sie seit 1. Juli 1895 sind. Das in großartiger Weise alle Zweige der buchhändlerischen Tätigkeit und graphischen Künste vereinigende Geschäft besitzt Zweigniederlassungen in Wien, Berlin, Paris und London. Die 1890 in St. Petersburg begründete Firma B. u. Efron wurde 1898 in eine Aktiengesellschaft umgewandelt. Vgl. Heinr. Ed. Brockhaus, Friedr. Arnold B. Sein Leben und Wirken nach Briefen und andern Aufzeichnungen geschildert (Leipz. 1872-81, 3 Bde.)."</tei:seg>
+        <tei:seg> B. jun., geb. 4. Juni 1864, als Teilhaber in das Gesamtgeschäft ein, dessen alleinige Besitzer und Leiter sie seit 1. Juli 1895 sind. Das in großartiger Weise alle Zweige der buchhändlerischen Tätigkeit und graphischen Künste vereinigende Geschäft besitzt Zweigniederlassungen in Wien, Berlin, Paris und London. Die 1890 in St. Petersburg begründete Firma B. u. Efron wurde 1898 in eine Aktiengesellschaft umgewandelt. Vgl. Heinr. Ed. Brockhaus, Friedr. Arnold B. Sein Leben und Wirken nach Briefen und andern Aufzeichnungen geschildert (Leipz. 1872-81, 3 Bde.).&quot;</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-3">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Gutzkow und Brockhaus </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Bei Brockhaus erschienene Publikationen Gutzkows </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg> </tei:seg>
         <tei:hi style="font-weight-bold">Briefe </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Biographien und Firmengeschichten </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-3">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Quellen </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl)</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>(Martina Lauster, Exeter)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

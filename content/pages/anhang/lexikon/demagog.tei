@@ -38,31 +38,29 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Demagogenverfolgung</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Demagogenverfolgung</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Vollzug der in den Karlsbader Beschlüssen 1819 festgelegten Restriktionsmaßnahmen gegenüber Anhängern der national-liberalen Bewegung und ihren Publikationen.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg>  </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg> (Ute Schneider, Mainz / N.N.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>(Ute Schneider, Mainz / N.N.)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

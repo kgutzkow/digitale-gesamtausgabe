@@ -38,31 +38,26 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">HALBHEIT</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Halbheit</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Schlagwort, das immer wieder in Gutzkows Werken und Schriften Verwendung findet. Der Begriff richtet sich gegen das Bestreben, angelehnt an das (politische) System des Juste milieu, den Ausgleich zwischen zwei Extremen in der Mitte zu suchen. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:seg>(Gert Vonhoff, Exeter)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

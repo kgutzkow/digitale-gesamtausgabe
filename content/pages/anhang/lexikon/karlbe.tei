@@ -38,35 +38,32 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Karlsbader Beschlüsse</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Karlsbader Beschlüsse</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>von Metternich 1819 mit preußischer Unterstützung eingeleitete, von der Bundesversammlung beschlossene Repressionsmaßnahmen gegen die liberal-demokratische Verfassungsbewegung und gegen nationale Einheitsbestrebungen. Aus den Beschlüssen resultierte eine scharfe Vorzensur aller Publikationen unter 20 Bogen, die Nachzensur aller anderen Werke, das Universitätsgesetz und die Demagogenverfolgung. Die Karlsbader Beschlüsse blieben bis 1848 in Kraft.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl)</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Eberhard </tei:seg>
         <tei:hi style="font-weight-bold">Büssem</tei:hi>
         <tei:seg>: Die Karlsbader Beschlüsse von 1819. Die endgültige Stabilisierung der restaurativen Politik im Deutschen Bund nach dem Wiener Kongress 1814/15. Diss. München 1974.</tei:seg>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg> (Ute Schneider, Mainz)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>(Ute Schneider, Mainz)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

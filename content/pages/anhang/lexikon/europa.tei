@@ -38,86 +38,87 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Europa, Chronik der gebildeten Welt</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Europa, Chronik der gebildeten Welt</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>belletristisches Journal, gegründet 1835 und bis 1844 herausgegeben von August Lewald. Programmschwerpunkte waren neben der internationalen Orientierung die unterhaltende Berichterstattung über neue, "modisch-moderne" Trends des literarisch-kulturellen Lebens, bereichert um Illustrationen (Modezeichnungen, Karikaturen, Porträts, etc.) und Musikbeilagen. </tei:seg>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>belletristisches Journal, gegründet 1835 und bis 1844 herausgegeben von August Lewald. Programmschwerpunkte waren neben der internationalen Orientierung die unterhaltende Berichterstattung über neue, &quot;modisch-moderne&quot; Trends des literarisch-kulturellen Lebens, bereichert um Illustrationen (Modezeichnungen, Karikaturen, Porträts, etc.) und Musikbeilagen. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Illustrationen: → Lexikon: Illustrierte Periodika. </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Illustrationen: → Lexikon: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/illustr.html" type="external">Illustrierte Periodika</tei:ref>
+        <tei:seg>. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>Lewald: → Lexikon; → Bilder und Quellen: Bilder. Zeitgenossen Gutzkows.</tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→ Lexikon: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/lewald.html" type="external">August Lewald</tei:ref>
+        <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
-        <tei:hi style="font-weight-bold">Gutzkows Mitarbeit an der "Europa"</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="font-weight-bold">Gutzkows Mitarbeit an der &quot;Europa&quot;</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Quellen</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur (Auswahl)</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Eoin </tei:seg>
         <tei:hi style="font-weight-bold">Bourke</tei:hi>
-        <tei:seg>: "Wir wollen die große europäische Gesellschaft schildern, nach allen ihren Beziehungen, treu und wahr": Die Zeitschrift "Europa" von 1835 bis 1848". In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 27-43.</tei:seg>
+        <tei:seg>: &quot;Wir wollen die große europäische Gesellschaft schildern, nach allen ihren Beziehungen, treu und wahr&quot;: Die Zeitschrift &quot;Europa&quot; von 1835 bis 1848&quot;. In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 27-43.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ulrich </tei:seg>
         <tei:hi style="font-weight-bold">Cruse</tei:hi>
         <tei:seg> (Hg.): August Lewald und seine zeitgeschichtliche Bedeutung. Breslau: Priebatsch, 1933. S. 95-104.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Kurt </tei:seg>
         <tei:hi style="font-weight-bold">Haß</tei:hi>
-        <tei:seg>: Gustav Kühne als Herausgeber der "Europa" (1846-1859). Wiesbaden, Frankfurt/M: Humanitas, 1973.</tei:seg>
+        <tei:seg>: Gustav Kühne als Herausgeber der &quot;Europa&quot; (1846-1859). Wiesbaden, Frankfurt/M: Humanitas, 1973.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ian </tei:seg>
         <tei:hi style="font-weight-bold">Hilton</tei:hi>
-        <tei:seg>: Nationalismus und die europäische Dimension in Ferdinand Gustav Kühnes "Europa". In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 45-62.</tei:seg>
+        <tei:seg>: Nationalismus und die europäische Dimension in Ferdinand Gustav Kühnes &quot;Europa&quot;. In: Martina Lauster (Hg.): Deutschland und der europäische Zeitgeist. Kosmopolitische Dimensionen in der Literatur des Vormärz. Bielefeld: Aisthesis, 1994. S. 45-62.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Heinrich Hubert </tei:seg>
         <tei:hi style="font-weight-bold">Houben</tei:hi>
         <tei:seg>: Verbotene Literatur von der klassischen Zeit bis zur Gegenwart. Zweite, verbesserte Auflage. Dessau: Rauch, 1925. S. 175-177.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Paul Michael </tei:seg>
         <tei:hi style="font-weight-bold">Lützeler</tei:hi>
         <tei:seg>: Die Schriftsteller und Europa. Von der Romantik bis zur Gegenwart. 2. Aufl. Baden-Baden: Nomos, 1998.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Sibylle </tei:seg>
         <tei:hi style="font-weight-bold">Obenaus</tei:hi>
         <tei:seg>: Literarische und politische Zeitschriften 1830-1848. Stuttgart: 1986. S. 20-22. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ludwig </tei:seg>
         <tei:hi style="font-weight-bold">Salomon</tei:hi>
         <tei:seg>: Geschichte des deutschen Zeitungswesens von den ersten Anfängen bis zur Wiederaufrichtung des Deutschen Reiches. Bd. 3. Das Zeitungswesen seit 1814. Oldenburg, Leipzig: Schulze, 1906. S. 512-514. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:seg> (Christine Haug, München)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

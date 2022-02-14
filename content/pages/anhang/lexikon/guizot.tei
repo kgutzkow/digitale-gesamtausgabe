@@ -4,7 +4,7 @@
     <tei:fileDesc>
       <tei:titleStmt>
         <tei:title>Guizot, François</tei:title>
-        <tei:author> </tei:author>
+        <tei:author/>
         <tei:respStmt xml:id="MartinaLauster">
           <tei:resp>Autorin</tei:resp>
           <tei:name>Martina Lauster</tei:name>
@@ -38,39 +38,38 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:seg>Guizot, François</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>François Guizot(1787-1874), franz. Historiker und Politiker, eine der führenden politischen Persönlichkeiten der Julimonarchie. Er wurde bereits unmittelbar nach der Julirevolution Minister und profilierte sich als konservativer Rivale von → Thiers. Seine unnachgiebige Haltung gegenüber den Forderungen der Liberalen trug zum Ausbruch der Februarrevolution 1848 bei. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→ Bilder und Materialien: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/FGuizot1.html" type="external">Bilder</tei:ref>
+        <tei:seg>. Zeitgenossen Gutzkows. </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Allgemeines</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Die Bedeutung Guizots für Gutzkow </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Quellen und Forschungsliteratur </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Briefe aus Paris: BaP, T. 1, S. 74-75; BaPWWW, S. 16.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:seg>(Martina Lauster, Exeter / N.N.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
