@@ -38,103 +38,89 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Rothschild</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Rothschild</tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>jüdische Familie, die aus der Frankfurter Judengasse stammt und in den ersten Jahrzehnten des 19. Jahrhunderts zur europäischen Finanzmacht aufsteigt.</tei:seg>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>jüdische Familie, die aus der Frankfurter Judengasse stammt und in den ersten Jahrzehnten des 19. Jahrhunderts zur europäischen Finanzmacht aufsteigt. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Allgemeines </tei:hi>
         <tei:hi style="font-weight-bold"> </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Mayer Amschel Rothschild</tei:hi>
-        <tei:seg> (1743-1812), in Frankfurt geboren, war von seinen Eltern, "gewöhnlichen Handelsjuden", zum Rabbiner bestimmt und besuchte "die Schule zu Fürth". Er "kehrte jedoch nach einigen Jahren nach Frankfurt zurück, beschäftigte sich hier nächst den praktischen Comptoirwissenschaften vorzüglich mit Münzkunde und knüpfte durch seine Kenntniß alter Münzen manche ihm für die Folge ersprießliche Bekanntschaften an. In dieser Zeit folgte er einem Rufe nach Hannover, wo er mehrere Jahre hindurch den Geschäften eines dortigen Wechselhauses vorstand. Nach Frankfurt zurückgekehrt verheirathete er sich und begründete mit einem ersparten unbedeutenden Capital ein eignes Wechselgeschäft. Rechtlichkeit u. Pünktlichkeit erwarben ihm Vertrauen, bedeutende Aufträge und wachsenden Credit. 1801 ernannte ihn der Landgraf, nachheriger Kurfürst von Hessen-Kassel" und damit einer der reichsten deutschen Fürsten, "der ihn bei früheren Einkäufen alter Münzen und sonst, als rechtlichen zuverlässigen Geschäftsmann kennen gelernt hatte, zum Hofagenten. 1802, 1803 und 1804 contrahirte R. die erste Staatsanleihe mit dem dänischen Hofe von 10 Mill. Gulden. Auch hatte er unter andern Gelegenheit, dem verstorbenen Kurfürst von Hessen, als dieser" vor Napoleon fliehend "1806 sein Land verlassen mußte, einen beträchtlichen Theil des Privatvermögens nicht ohne eigne Gefahr zu retten u. verwaltete dasselbe gewissenhaft. Als der Fürst Primas in Frankfurt den Israeliten gleiche Rechte als Staatsbürger bewilligte, ward R. Mitglied des Wahlcollegiums in Frankfurt und starb allgemein bedauert u. geachtet 1812 zu Frankfurt. - Seine Söhne, welche bis dahin gemeinschaftlich einen Waarenhandel geführt hatten, vereinigten sich nun zur ferneren Leitung des Wechselgeschäfts, was seit 1813 durch eine ununterbrochene Reihe großer Geld- u. Anleihgeschäfte zu dem Range und Einflusse gelangte, wodurch dieses Haus politische Wichtigkeit und die erste Stelle in den europäischen Finanzoperationen einnimmt." (Pierer 1824-36, Bd 18, S. 416-417) </tei:seg>
+        <tei:seg> (1743-1812), in Frankfurt geboren, war von seinen Eltern, &quot;gewöhnlichen Handelsjuden&quot;, zum Rabbiner bestimmt und besuchte &quot;die Schule zu Fürth&quot;. Er &quot;kehrte jedoch nach einigen Jahren nach Frankfurt zurück, beschäftigte sich hier nächst den praktischen Comptoirwissenschaften vorzüglich mit Münzkunde und knüpfte durch seine Kenntniß alter Münzen manche ihm für die Folge ersprießliche Bekanntschaften an. In dieser Zeit folgte er einem Rufe nach Hannover, wo er mehrere Jahre hindurch den Geschäften eines dortigen Wechselhauses vorstand. Nach Frankfurt zurückgekehrt verheirathete er sich und begründete mit einem ersparten unbedeutenden Capital ein eignes Wechselgeschäft. Rechtlichkeit u. Pünktlichkeit erwarben ihm Vertrauen, bedeutende Aufträge und wachsenden Credit. 1801 ernannte ihn der Landgraf, nachheriger Kurfürst von Hessen-Kassel&quot; und damit einer der reichsten deutschen Fürsten, &quot;der ihn bei früheren Einkäufen alter Münzen und sonst, als rechtlichen zuverlässigen Geschäftsmann kennen gelernt hatte, zum Hofagenten. 1802, 1803 und 1804 contrahirte R. die erste Staatsanleihe mit dem dänischen Hofe von 10 Mill. Gulden. Auch hatte er unter andern Gelegenheit, dem verstorbenen Kurfürst von Hessen, als dieser&quot; vor Napoleon fliehend &quot;1806 sein Land verlassen mußte, einen beträchtlichen Theil des Privatvermögens nicht ohne eigne Gefahr zu retten u. verwaltete dasselbe gewissenhaft. Als der Fürst Primas in Frankfurt den Israeliten gleiche Rechte als Staatsbürger bewilligte, ward R. Mitglied des Wahlcollegiums in Frankfurt und starb allgemein bedauert u. geachtet 1812 zu Frankfurt. - Seine Söhne, welche bis dahin gemeinschaftlich einen Waarenhandel geführt hatten, vereinigten sich nun zur ferneren Leitung des Wechselgeschäfts, was seit 1813 durch eine ununterbrochene Reihe großer Geld- u. Anleihgeschäfte zu dem Range und Einflusse gelangte, wodurch dieses Haus politische Wichtigkeit und die erste Stelle in den europäischen Finanzoperationen einnimmt.&quot; (Pierer 1824-36, Bd 18, S. 416-417) </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Amschel Mayer Rothschild </tei:hi>
         <tei:seg>(1773-1855), ältester Sohn und Haupt des Stammhauses in Frankfurt nach dem Tod des Vaters. Alle bedeutenden Geschäfte wurden weiterhin in Frankfurt, das Hauptversammlungsort der Familie blieb, beraten; die Ausweitung der Handelshäuser auf die wichtigsten Städte Europas hatte den Vorteil, dass die Brüder in allen Haupthandelsplätzen auf das Genaueste über die Lage der Dinge und den Gang der Geschäfte unterrichtet sind. Die Kuriere der Rothschilds galten als die schnellsten und zuverlässigsten in Europa.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Salomon Rothschild</tei:hi>
         <tei:seg> (1774-1855), zweitältester Sohn. Er lebte seit 1816 teils in Berlin, teils in Wien. Hier begründete er das Wiener Bankhaus Rothschild. Metternich war diesem wegen einer dem österreichischen Staat gewährten Anleihe von 900.000 Gulden auf das engste verpflichtet.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Nathan Rothschild</tei:hi>
         <tei:seg> (1777-1836), drittältester Sohn. Er errichtete 1798 eine Geschäftsstelle in Manchester, verlegte es nach mehreren Jahren nach London und erwarb sich durch seine klare Geschäftspraxis das Vertrauen der englischen Staatsmänner.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Kalmann Rothschild, später Karl von R. </tei:hi>
         <tei:seg> (1788-1855), viertältester Sohn. Er lebte seit 1801 meistenteils in Neapel, wo er seit 1827 seinen festen Wohnsitz hatte. Er stand in engen Geschäftsbeziehungen zum bourbonischen Königshaus.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Jakob Mayer Rothschild, später James de R. </tei:hi>
-        <tei:seg>(1792-1868), der jüngste Sohn. Er verwaltete seit 1812 die Geschäfte des Hauses in Paris, wo er das Bankhaus Rothschild Frères begründete. </tei:seg>
+        <tei:seg>(1792-1868), der jüngste Sohn. Er verwaltete seit 1812 die Geschäfte des Hauses in Paris, wo er das Bankhaus Rothschild Frères begründete.  </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Zeitgenössische Urteile </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Die Rothschilds werden zu 'öffentlichen Personen' und so kommt es, dass sich um die Mitglieder der Familie schon zu Lebzeiten zahlreiche Anekdoten ranken. Ludwig Börne muss man ein kritisches Verhältnis zum Hause Rothschild nachsagen, galten ihm die Rothschilds doch "als Inbegriff der politisch einflussreichen, die restaurativen Kräfte stützenden Finanzmacht" (vgl. den Eintrag "ROTHSCHILD", in: Inge Rippmann: Börne-Index. Historisch-biographische Materialien zu Ludwig Börnes Schriften und Briefe. 1. Halbbd., Berlin, New York 1985, S. 657-660, Zitat: S. 657) </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Rothschilds werden zu &apos;öffentlichen Personen&apos; und so kommt es, dass sich um die Mitglieder der Familie schon zu Lebzeiten zahlreiche Anekdoten ranken. Ludwig Börne muss man ein kritisches Verhältnis zum Hause Rothschild nachsagen, galten ihm die Rothschilds doch &quot;als Inbegriff der politisch einflussreichen, die restaurativen Kräfte stützenden Finanzmacht&quot; (vgl. den Eintrag &quot;ROTHSCHILD&quot;, in: Inge Rippmann: Börne-Index. Historisch-biographische Materialien zu Ludwig Börnes Schriften und Briefe. 1. Halbbd., Berlin, New York 1985, S. 657-660, Zitat: S. 657)  </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Gutzkow und die Rothschilds </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
-        <tei:seg>Gutzkow sieht in der Familie und ihrer Finanzkraft ein Signum der modernen Zeit. Gutzkows Artikel Rothschild, der am 23., 24. und 25. Mai 1835 in seiner Reihe "Öffentliche Charaktere" als Teil der "Außerordentlichen Beilage zur Allgemeinen Zeitung" veröffentlicht und im selben Jahr noch im "Ersten Theil" seiner gleichnamigen Buchpublikation (OeCh, S. 273-302) wiederabgedruckt wurde, ist da ein deutlicher Beleg. Gutzkow fordert hier: "Beschäftigt Euch einige Minuten mit diesem wunderlichen Systeme! Ihr werdet noch immer Zeit genug finden, es zu verdammen." (HU, Bd 1, S. 51) </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow sieht in der Familie und ihrer Finanzkraft ein Signum der modernen Zeit. Gutzkows Artikel Rothschild, der am 23., 24. und 25. Mai 1835 in seiner Reihe &quot;Öffentliche Charaktere&quot; als Teil der &quot;Außerordentlichen Beilage zur Allgemeinen Zeitung&quot; veröffentlicht und im selben Jahr noch im &quot;Ersten Theil&quot; seiner gleichnamigen Buchpublikation (OeCh, S. 273-302) wiederabgedruckt wurde, ist da ein deutlicher Beleg. Gutzkow fordert hier: &quot;Beschäftigt Euch einige Minuten mit diesem wunderlichen Systeme! Ihr werdet noch immer Zeit genug finden, es zu verdammen.&quot; (HU, Bd 1, S. 51)  </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Heinrich </tei:seg>
         <tei:hi style="font-weight-bold">Schnee</tei:hi>
         <tei:seg>: Rothschild. Geschichte einer Finanzdynastie. Göttingen, Berlin, Frankfurt 1961. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Frederic </tei:seg>
         <tei:hi style="font-weight-bold">Morton</tei:hi>
         <tei:seg>: Die Rothschilds. Ein Portrait der Dynastie. Aus dem Amerikanischen von Hans Lamm und Paul Stein. Aktualisiert von Michael Freund. Mit 52 Abbildungen. Wien 1992 (zuerst 1961).</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> Derek </tei:seg>
         <tei:hi style="font-weight-bold">Wilson</tei:hi>
         <tei:seg>: Die Rothschild Dynastie. Eine Geschichte von Ruhm und Macht. Aus dem Englischen von Gunter Martin. 3. Aufl. Wien, Darmstadt 1994 (zuerst London 1988). </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Amos </tei:seg>
         <tei:hi style="font-weight-bold">Elon</tei:hi>
         <tei:seg>: Der erste Rothschild. Biographie eines Frankfurter Juden. Reinbek bei Hamburg 1998.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
-      <tei:head type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Sterbecassirer: NoWWW, Erläuterung zu 80,3-8.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg> (Gert Vonhoff, Exeter)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>(Gert Vonhoff, Exeter)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

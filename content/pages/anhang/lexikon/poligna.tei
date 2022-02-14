@@ -42,34 +42,26 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:head type="level-1">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:hi style="font-size-large">Polignac, Jules Auguste Armand Marie Fürst von</tei:hi>
-        <tei:hi style="font-size-large font-weight-bold"> </tei:hi>
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold"> </tei:hi>
+        </tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Jules Auguste Armand Marie Fürst von Polignac (1780-1847), Ministerpräsident Karls X. und entschiedener Ultra-Konservativer. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Er wurde am 8. August 1829 gegen die öffentliche Stimmung Minister des Auswärtigen und leitete vom 8. November an das neue Kabinett, nachdem das Kabinett Martignac seit Juli seiner Auflösung entgegengegangen war. Polignac betrieb und unterzeichnete die gegen die Konstitution verstoßenden "Ordonnanzen" vom 25. Juli 1830, die die Julirevolution auslösten. Er wurde im Dezember 1830 von dem neuen Regime zu ewigem Gefängnis und bürgerlichem Tod verurteilt, kam 1836 durch Amnestie wieder frei und lebte anschließend im Exil in England.</tei:seg>
+      <tei:p extract="true" first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wurde am 8. August 1829 gegen die öffentliche Stimmung Minister des Auswärtigen und leitete vom 8. November an das neue Kabinett, nachdem das Kabinett Martignac seit Juli seiner Auflösung entgegengegangen war. Polignac betrieb und unterzeichnete die gegen die Konstitution verstoßenden &quot;Ordonnanzen&quot; vom 25. Juli 1830, die die Julirevolution auslösten. Er wurde im Dezember 1830 von dem neuen Regime zu ewigem Gefängnis und bürgerlichem Tod verurteilt, kam 1836 durch Amnestie wieder frei und lebte anschließend im Exil in England.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg> (Gert Vonhoff, Exeter / Thomas Bremer, Halle)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg> </tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>(Gert Vonhoff, Exeter / Thomas Bremer, Halle)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

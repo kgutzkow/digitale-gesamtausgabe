@@ -3,8 +3,8 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>Telegraph für Deutschland (Hamburg) </tei:title>
-        <tei:author>Peter Hasubek </tei:author>
+        <tei:title>Telegraph für Deutschland (Hamburg)</tei:title>
+        <tei:author>Peter Hasubek</tei:author>
         <tei:respStmt xml:id="PeterHasubek">
           <tei:resp>Autor</tei:resp>
           <tei:name>Peter Hasubek</tei:name>
@@ -42,45 +42,51 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="" type="level-1">
-        <tei:hi style="font-size-large font-weight-bold">Telegraph für Deutschland</tei:hi>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:hi style="font-size-large">
+          <tei:hi style="font-weight-bold">Telegraph für Deutschland</tei:hi>
+        </tei:hi>
         <tei:seg> </tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-1"/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>Zeitschrift Gutzkows, die von 1838 bis 1843 bei Hoffmann &amp; Campe (ab 1842 bei Campe) in Hamburg erschien und den 1837 veröffentlichten "Frankfurter Telegraph" als Vorgänger hat. Zunächst wurde sie unter "Verantwortlichkeit der Verlagshandlung" redigiert; mit Nr. 164 (Oktober 1841) durfte Gutzkow als verantwortlicher Redakteur genannt werden. (Rasch 5.7) </tei:seg>
+      <tei:p extract="true" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zeitschrift Gutzkows, die von 1838 bis 1843 bei Hoffmann &amp; Campe (ab 1842 bei Campe) in Hamburg erschien und den 1837 veröffentlichten &quot;Frankfurter Telegraph&quot; als Vorgänger hat. Zunächst wurde sie unter &quot;Verantwortlichkeit der Verlagshandlung&quot; redigiert; mit Nr. 164 (Oktober 1841) durfte Gutzkow als verantwortlicher Redakteur genannt werden. (Rasch 5.7) </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
-        <tei:seg>→ Bilder und Quellen: Bilder. Handschriften und Drucke.</tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>→ Bilder und Materialien: </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/handschriften-und-drucke/FTeleD401.html" type="external">Bilder</tei:ref>
+        <tei:seg>. Handschriften und Drucke.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:head data-heading-id="" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
         <tei:hi style="font-weight-bold">Forschungsliteratur</tei:hi>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Wolfgang </tei:seg>
         <tei:hi style="font-weight-bold">Rasch</tei:hi>
-        <tei:seg>: Zur Geschichte des "Telegraph für Deutschland" 1838-1843. In: FVF Jahrbuch 1995, S. 131-160.</tei:seg>
-        <tei:seg> </tei:seg>
+        <tei:seg>: Zur Geschichte des &quot;Telegraph für Deutschland&quot; 1838-1843. In: Journalliteratur im Vormärz. Red.: Rainer Rosenberg u. Detlev Kopp. Bielefeld: Aisthesis Verl., 1996. S. 131-160. (Jahrbuch Forum Vormärz Forschung. 1. Jg., 1995.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-weight-bold">Inhaltliche Erschließung</tei:hi>
+        <tei:seg> der Zeitschrift: Alfred Estermann: Inhaltsanalytische Bibliographien deutscher Kulturzeitschriften des 19. Jahrhunderts. Bd. 2: Telegraph für Deutschland (1837-1848). München, New Providence, London, Paris: Saur, 1995. </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zum </tei:seg>
+        <tei:hi style="font-weight-bold">
+          <tei:ref target="https://digitale-sammlungen.llb-detmold.de/llb/urn/urn:nbn:de:hbz:51:1-14677" type="external">Digitalisat</tei:ref>
+        </tei:hi>
+        <tei:seg> der Zeitschrift (Lippische Landesbibliothek, Detmold, Jahrgänge 1838-1843) </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">Zitat- und Belegstellen</tei:hi>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
+        <tei:seg>(Peter Hasubek, Göttingen / Gert Vonhoff, Exeter / N.N.)</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
-        <tei:seg>([Peter Hasubek, Göttingen / Gert Vonhoff, Exeter] / N.N.)</tei:seg>
-      </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg> </tei:seg>
       </tei:p>
     </tei:body>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>
