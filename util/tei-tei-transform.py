@@ -5,6 +5,8 @@ from lxml import etree
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
+footnoteCounter = 0
+
 
 def create_basic_structure() -> etree.ElementTree:
     """Create a basic TEI document."""
@@ -88,10 +90,29 @@ def process_inline_element(node: etree.Element, parent: etree.Element, tag: str)
             p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
             p.extend(nodes)
             parent.append(p)
+    else:
+        inline = etree.Element(tag)
+        tail = None
+        if node.tail:
+            tail = etree.Element('{http://www.tei-c.org/ns/1.0}seg')
+            tail.text = re.sub(r'\s+', ' ', node.tail)
+        if parent.tag in ['{http://www.tei-c.org/ns/1.0}p', '{http://www.tei-c.org/ns/1.0}head', '{http://www.tei-c.org/ns/1.0}l']:
+            parent.append(inline)
+            if tail is not None:
+                parent.append(tail)
+        else:
+            p = etree.Element('{http://www.tei-c.org/ns/1.0}p')
+            p.append(inline)
+            if tail is not None:
+                p.append(tail)
+            parent.append(p)
+        return inline
 
 
 def process_body(node: etree.Element, parent: etree.Element):
     """Process the body of the text."""
+    global footnoteCounter
+
     if node.tag == '{http://www.tei-c.org/ns/1.0}body':
         for child in node:
             process_body(child, parent)
@@ -140,8 +161,39 @@ def process_body(node: etree.Element, parent: etree.Element):
                 pb.text = None
             else:
                 pb.tag = '{http://www.tei-c.org/ns/1.0}seg'
-
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}pb':
+        pb = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}pb')
+        pb.attrib['n'] = node.attrib['n']
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}hi':
+        if 'rend' in node.attrib:
+            if 'spaced' in node.attrib['rend']:
+                hi = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}hi')
+                hi.attrib['style'] = 'letter-sparse'
+            if 'sup' in node.attrib['rend']:
+                for child in node:
+                    process_body(child, parent)
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}texteingriff':
+        missing = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}metamark')
+        missing.attrib['function'] = 'missing'
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}choice':
+        for child in node:
+            process_body(child, parent)
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}corr':
+        missing = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}lemma')
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}sic':
+        missing = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}sic')
     elif node.tag == '{http://www.tei-c.org/ns/1.0}note':
+        footnoteCounter = footnoteCounter + 1
+        footnoteMarker = etree.Element('{http://www.tei-c.org/ns/1.0}ref')
+        footnoteMarker.attrib['type'] = 'footnote'
+        footnoteMarker.attrib['target'] = f'#footnote-{footnoteCounter}'
+        footnoteMarker.text = '*'
+        parent.append(footnoteMarker)
+        footnote = process_inline_element(node, parent, '{http://www.tei-c.org/ns/1.0}note')
+        footnote.attrib['type'] = 'footnote'
+        footnote.attrib['{http://www.w3.org/XML/1998/namespace}id'] = f'footnote-{footnoteCounter}'
+        footnote.text = f'*) {footnote.text}'
+    elif node.tag == '{http://www.tei-c.org/ns/1.0}fw' or node.tag == '{http://www.tei-c.org/ns/1.0}anchor':
         pass
     else:
         print(node.tag)

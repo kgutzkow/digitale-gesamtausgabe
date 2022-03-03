@@ -57,6 +57,10 @@ RELATIVE_URLS = True
 TAXONOMY = (
     ('I. Erzählerische Werke', 'erzaehlerische-werke', (
         ('1. Briefe eines Narren an eine Närrin', 'briefe-eines-narren-an-eine-naerrin', ()),
+        ('2. Maha Guru', 'maha-guru', (
+            ('Erster Theil', 'erster-theil', ()),
+            ('Zweiter Theil', 'zweiter-theil', ()),
+        )),
         ('3. Novellen', 'novellen', (
             ('Erster Band', 'erster-band', ()),
             ('Zweiter Band', 'zweiter-band', ()),
