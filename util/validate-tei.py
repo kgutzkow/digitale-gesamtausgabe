@@ -55,8 +55,8 @@ def check_reponsible_users(doc, errors):
             for idx2, r in enumerate(resp):
                 if not r.xpath('text()') or r.xpath('text()')[0].strip() == '':
                     errors.append('respStmt {0} resp {1} is empty'.format(idx + 1, idx2 + 1))
-                elif not r.xpath('text()')[0].startswith('Herausgeber') and not r.xpath('text()')[0].startswith('Autor') and not r.xpath('text()')[0].startswith('Übersetzer') and r.xpath('text()')[0] != 'TEI Transfer' and r.xpath('text()')[0] != 'Mitarbeit':
-                    errors.append('respStmt {0} resp {1} must be one of Herausgeber, Herausgeberin, Autor, Autorin, Übersetzer, Übersetzerin, TEI Transfer'.format(idx + 1, idx2 + 1))
+                elif not r.xpath('text()')[0].startswith('Herausgeber') and not r.xpath('text()')[0].startswith('Autor') and not r.xpath('text()')[0].startswith('Übersetzer') and r.xpath('text()')[0] != 'TEI Transfer' and r.xpath('text()')[0] != 'Mitarbeit' and r.xpath('text()')[0] != 'Apparat' and r.xpath('text()')[0] != 'Stellenerläuterungen':
+                    errors.append('respStmt {0} resp {1} must be one of Herausgeber, Herausgeberin, Autor, Autorin, Übersetzer, Übersetzerin, TEI Transfer, Mitarbeit, Stellenerläuterungen, or Apparat.'.format(idx + 1, idx2 + 1))
         name = respStmt.xpath('tei:name', namespaces=ns)
         if len(name) == 0:
             errors.append('respStmt {0} is missing its name entry'.format(idx + 1))
