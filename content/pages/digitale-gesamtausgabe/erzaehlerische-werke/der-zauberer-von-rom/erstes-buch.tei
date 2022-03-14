@@ -32,7 +32,7 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Der Zauberer von Rom. Roman in neun Büchern von Karl Gutzkow. Bd. 1. Leipzig: Brockhaus, 1858. (Rasch 2.34)</tei:bibl>
+      <tei:bibl>Der Zauberer von Rom. Roman in neun Büchern von Karl Gutzkow. Bd. 1. Leipzig: Brockhaus, 1858. (Rasch 2.34.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
@@ -87,9 +87,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Und dennoch ist der Streit der </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-10" type="esv">Welfen und Ghibellinen</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-10" type="esv">
+          <tei:hi style="letter-sparse">Welfen und Ghibellinen</tei:hi>
+        </tei:ref>
         <tei:seg> noch unbeendet!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -406,9 +406,9 @@
         <tei:seg>Diese vergifteten Pfeile beschäftigten Lucinden so sehr, daß sie gleich in der zweiten Nacht von der gnädigen Frau träumte, die ihr im Schlaf erschien und einen dieser Pfeile gerade aufs Herz setzte. Sie schrie im Schlaf auf, und wie sie aus ihrer Bettlade in die Küche blickte, huschte auch etwas dahin und klappte nach der Entréethür zu. Sie horchte länger, entdeckte aber nichts. Als sie am Morgen erwachte und nach ihren Tauben sah, – der Tischler war noch nicht bestellt worden, weil Lucinde nicht früher ausgehen sollte, als bis ihre „Garderobe“ ganz in Ordnung war; sie hatte daran den ganzen Tag nähen müssen – da lag ja eine von ihnen </tei:seg>
         <tei:pb n="24"/>
         <tei:seg> todt! Das Opfer war glücklicherweise keiner ihrer Lieblinge. Frau von Buschbeck bedauerte den Unfall, fand es aber angemessen, daß man die Taube nicht ganz „umkommen“ ließ. Sie wurde zu Mittag von ihr selbst, wie sie’s nannte, </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-50" type="esv">au gratin</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-50" type="esv">
+          <tei:foreign>au gratin</tei:foreign>
+        </tei:ref>
         <tei:seg> zubereitet. Daß Lucinde von einem ihrer Täubchen selbst nichts essen mochte, that ihr leid, denn sie sagte, sie hätte darauf gerechnet. Lucinde mußte sich deshalb mit einer einfachen Milchsuppe begnügen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -602,9 +602,9 @@
         <tei:seg>; es hatte das in der Zeitung gestanden, in derselben Zeitung, die der Vater immer auf bessere Zukunft zu studiren pflegte, und in deren Beiblatt einst seine Phantasieen über den Beruf eines deutschen Volksschullehrers gestanden hatten.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:foreign>
-          <tei:ref target="#annotation-64" type="esv">Nec impavidum ferient ruinae</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-64" type="esv">
+          <tei:foreign>Nec impavidum ferient ruinae</tei:foreign>
+        </tei:ref>
         <tei:seg> …</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1395,18 +1395,18 @@
         <tei:ref target="#annotation-115" type="esv">Tacitus</tei:ref>
         <tei:seg> ziemlich geläufig und hatte die besondere Ueberzeugung, daß der der </tei:seg>
         <tei:ref target="#annotation-116" type="esv">Tempel der </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-116" type="esv">Tanfana</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-116" type="esv">
+          <tei:hi style="letter-sparse">Tanfana</tei:hi>
+        </tei:ref>
         <tei:seg>, wo die alten Deutschen angebetet haben sollten, nicht etwa die große </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-117" type="esv">Dämpfpfanne</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-117" type="esv">
+          <tei:hi style="letter-sparse">Dämpfpfanne</tei:hi>
+        </tei:ref>
         <tei:seg> der Saline Hallenstein seines Vaters war, wie dieser selbst und alle Pastoren der Umgegend glaubten, sondern nur eine Tannenfahne, nämlich der alte deutsche, weiland heidnische, dann so gründlich getaufte, bekehrte und </tei:seg>
         <tei:ref target="#annotation-118" type="esv">christlich gewordene liebe </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-118" type="esv">Weihnachtsbaum</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-118" type="esv">
+          <tei:hi style="letter-sparse">Weihnachtsbaum</tei:hi>
+        </tei:ref>
         <tei:seg>, den in der That Lucinde mit bunten Bändern geschmückt und mit allerlei zierlichen Vergoldungen bei jenem Schützenfeste als Fähnrich tragen mußte. Da auch in diesem Weihnachtsbaume, Tanfana, Tannenfahne, dem Palladium der alten Deutschen, goldene Ringe, Ketten, Schaumünzen hingen, die die Siegerinnen im Schießen gewinnen sollten, so ließ man sich diese Verbindung des alten heidnischen Rom mit Deutschland und dem überwiegend protestantischen Eibendorf (katholische Einwohner waren in einem Nachbardorfe eingepfarrt) gefallen. Es waren Geschenke von dem sogenannten „tollen Kammerherrn“.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1595,9 +1595,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Der wilde Freiherr war sogleich gewonnen und rühmte den Geschmack seines Sohnes mit vielen humoristischen Donnerwettern, Sackerlots und zudringlichen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-128" type="esv">à la bonne heures</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-128" type="esv">
+          <tei:foreign>à la bonne heures</tei:foreign>
+        </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1688,9 +1688,9 @@
         <tei:seg>Wie sicher sie zwar in allem, was zur Bildung gehörte, jetzt schon Stand hielt und einen über Geldangelegenheiten vom Vater in französischer Sprache begonnenen Discurs mit der endlos belachten Bemerkung unterbrach, ob sie nicht lieber polnisch sprechen wollten, was sie weniger verstünde als französisch, so hütete sie sich doch, auf Gebiete einzugehen, wo sie in keiner Weise heimisch war. Sie bildete sich da jenes bekannte </tei:seg>
         <tei:ref target="#annotation-134" type="esv">aufmerkende und geheimnißvolle Schweigen</tei:ref>
         <tei:seg> aus, das bei Leuten, denen Bildung überhaupt zugestanden werden muß, immer annehmen läßt, daß sie über jeden vorliegenden Fall, und beträfe er die Inschrift einer ägyptischen Pyramide, vollkommen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-135" type="esv">au fait</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-135" type="esv">
+          <tei:foreign>au fait</tei:foreign>
+        </tei:ref>
         <tei:seg> sind.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1698,9 +1698,9 @@
         <tei:pb n="116"/>
         <tei:seg> Freiherrn von Wittekind. Der Kronsyndikus nannte ihn unausgesetzt bald einen Hund, bald einen Schurken; ja, er erklärte, daß er ihm bei erster Gelegenheit und, wie er sagte, </tei:seg>
         <tei:ref target="#annotation-136" type="esv">„</tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-136" type="esv">stanta pe</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-136" type="esv">
+          <tei:foreign>stanta pe</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-136" type="esv">“</tei:ref>
         <tei:seg> eine Kugel vor den Kopf brennen würde. Der Kammerherr wünschte neue Vorkommnisse des Zwistes zu wissen, aber der Vater schien von denselben so ergriffen zu sein, daß er zuweilen die an ihn gerichteten Fragen ganz überhörte …</tei:seg>
       </tei:p>
@@ -1937,13 +1937,13 @@
         <tei:seg>Lucinde hatte seit den Erinnerungen an Oskar Binder und dessen Freunde in der Residenz einen Abscheu </tei:seg>
         <tei:pb n="134"/>
         <tei:seg> vor allen Stutzern und geschniegelten Männern. Viel Aeußerlichkeit war überhaupt bei den Herren nicht Sitte, die auf Schloß Neuhof kamen; die Gewohnheiten der reichsten Leute hier waren in diesem Punkte einfach. Grafen gingen wie Bauern. Nur der Landrath, der „schöne Enckefuß“, hielt die Erinnerung an die Zeiten, wo er wirklich schön gewesen sein mochte, durch eine gesuchte Toilette, festgeschnürte Taille, gefärbte Haare, Bart, Augenbrauen, ja, wie man behauptete, gemalte Wangen und Schläfe aufrecht … er konnte seine Triumphe als Rittmeister der Husaren nicht vergessen und blieb, ob er gleich schon einen großen Sohn hatte, der </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-156" type="esv">Beau</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-156" type="esv">
+          <tei:foreign>Beau</tei:foreign>
+        </tei:ref>
         <tei:seg> der Gegend, der </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-157" type="esv">Petit-maître</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-157" type="esv">
+          <tei:foreign>Petit-maître</tei:foreign>
+        </tei:ref>
         <tei:seg> von der Stadt Witoborn an bis auf Schloß Neuhof.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2157,9 +2157,9 @@
       </tei:p>
       <tei:lg margin-bottom="0.2" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-196" type="esv">Am Fuße des Erlösers</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-196" type="esv">
+            <tei:hi style="font-size-small">Am Fuße des Erlösers</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
           <tei:hi style="font-size-small">Hängt ihr pariser Hut –</tei:hi>
@@ -2255,9 +2255,9 @@
       </tei:p>
       <tei:lg margin-bottom="0" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-202" type="esv">Die Linde blühte, die Nachtigall sang,</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-202" type="esv">
+            <tei:hi style="font-size-small">Die Linde blühte, die Nachtigall sang,</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
           <tei:hi style="font-size-small">Die Sonne lachte mit freundlicher Lust;</tei:hi>
@@ -2369,9 +2369,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ihren Paß, mein – Fräulein –, lallte der Landrath mit galanten Verbeugungen, die das Mobiliar des kleinen Zimmers in Gefahr brachten. Ihre Legitimation –! </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-203" type="esv">Carte du séjour</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-203" type="esv">
+          <tei:foreign>Carte du séjour</tei:foreign>
+        </tei:ref>
         <tei:foreign>!</tei:foreign>
         <tei:seg> Ich bin –</tei:seg>
       </tei:p>
@@ -2390,9 +2390,9 @@
         <tei:seg>schiedenheit zurück, die diesen zu dem Ausruf veranlaßte:</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:foreign>
-          <tei:ref target="#annotation-204" type="esv">Sacre bleu</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-204" type="esv">
+          <tei:foreign>Sacre bleu</tei:foreign>
+        </tei:ref>
         <tei:foreign>!</tei:foreign>
         <tei:seg> Herr, das ist grob!</tei:seg>
       </tei:p>
@@ -2406,9 +2406,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ha, ha, ha! brach der Landrath beschwichtigt aus und konnte sich vor Lachen kaum fest auf der Treppe erhalten, die man wieder niederstieg. Während er auf Lucinden fortwährend Kußfinger und schmachtende Blicke warf, wie sie auch nur ihm, dem ewigen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-206" type="esv">Jeune homme</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-206" type="esv">
+          <tei:foreign>Jeune homme</tei:foreign>
+        </tei:ref>
         <tei:seg> und sechzigjährigen Adonis zu Gebote standen, verhütete der Regierungsrath durch kräftige Haltung der </tei:seg>
         <tei:pb n="151"/>
         <tei:seg> andern Hand des Schwankenden ein Unglück, wie es beim „schönen Enckefuß“ oft schon vorgekommen. Er war für seine Jahre immer noch so unternehmend, sein Reiten war von solcher Kühnheit, daß der Effect seiner stundenlangen Toiletten ihm alle Augenblicke einmal durch ein schwarzes Pflaster auf Nase oder Stirn verdorben wurde.</tei:seg>
@@ -2523,9 +2523,9 @@
         <tei:seg>, ein Wort, dessen Ursprung ihr der Kammerherr im Begriff war mit dem ganzen ihm eigenen Aufwand seiner noch haften gebliebenen Schulkenntnisse zu erklären.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:foreign>
-          <tei:ref target="#annotation-221" type="esv">Calefacio, calefeci, calefactum, calefacere</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-221" type="esv">
+          <tei:foreign>Calefacio, calefeci, calefactum, calefacere</tei:foreign>
+        </tei:ref>
         <tei:foreign>,</tei:foreign>
         <tei:seg> wiederholte er und fing an, indem er malte, mit sich selbst, wie er sagte, zu </tei:seg>
         <tei:ref target="#annotation-222" type="esv">„certiren“</tei:ref>
@@ -2607,9 +2607,9 @@
         <tei:seg> ist ein Ofenheizer, ein Mann, der’s statt </tei:seg>
         <tei:foreign>cale</tei:foreign>
         <tei:seg>, welches bekanntermaßen nicht kalt, sondern warm heißt, warm macht, </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-228" type="esv">id est</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-228" type="esv">
+          <tei:foreign>id est</tei:foreign>
+        </tei:ref>
         <tei:seg> im Ofen …</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2619,17 +2619,17 @@
         <tei:seg>Allgemeines Gelächter. Auch der Conrector lacht. Sintemalen vor kurzem erst sieben </tei:seg>
         <tei:ref target="#annotation-229" type="esv">Quartaner</tei:ref>
         <tei:seg> übergelegt worden sind und </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-230" type="esv">ab calefactore</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-230" type="esv">
+          <tei:foreign>ab calefactore</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-230" type="esv"> warm gemacht bekamen </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-230" type="esv">cum Bim – Bam – Bam</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-230" type="esv">
+          <tei:foreign>cum Bim – Bam – Bam</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-230" type="esv"> </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-230" type="esv">– Bum – Baculo</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-230" type="esv">
+          <tei:foreign>– Bum – Baculo</tei:foreign>
+        </tei:ref>
         <tei:foreign>!</tei:foreign>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2671,9 +2671,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Schöne Zeiten das! Ein Wittekind unter den Gensdarmen! Aber – </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-233" type="esv">Roma nondum locuta est!</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-233" type="esv">
+          <tei:foreign>Roma nondum locuta est!</tei:foreign>
+        </tei:ref>
         <tei:seg> setzte er feierlich hinzu.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3168,9 +3168,9 @@
       </tei:p>
       <tei:lg margin-bottom="0" margin-left="1.5" margin-right="0" margin-top="0">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-259" type="esv">Wer in der romantischen Zeit nicht Frau Venus mied,</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-259" type="esv">
+            <tei:hi style="font-size-small">Wer in der romantischen Zeit nicht Frau Venus mied,</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
           <tei:hi style="font-size-small">Wol gar einem Eheweib sein Herz verschenkte,</tei:hi>
@@ -3628,9 +3628,9 @@
       </tei:p>
       <tei:lg margin-bottom="0.1" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-283" type="esv">Es rauschen die Blätter, es flüstert der Wald,</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-283" type="esv">
+            <tei:hi style="font-size-small">Es rauschen die Blätter, es flüstert der Wald,</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
           <tei:hi style="font-size-small">Wer regt sie der Winde so mannichfalt?</tei:hi>
@@ -3949,14 +3949,14 @@
       </tei:p>
       <tei:lg margin-bottom="0.2" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#{value()}" type="esv">Blanke Ritter, Frau’n und Knappen</tei:ref>
-          </tei:hi>
+          <tei:ref target="#{value()}" type="esv">
+            <tei:hi style="font-size-small">Blanke Ritter, Frau’n und Knappen</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-293" type="esv">Schwangen sich im Fackeltanz</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-293" type="esv">
+            <tei:hi style="font-size-small">Schwangen sich im Fackeltanz</tei:hi>
+          </tei:ref>
           <tei:hi style="font-size-small">. …</tei:hi>
         </tei:l>
       </tei:lg>
@@ -4239,9 +4239,9 @@
         <tei:seg>Lucinde verdankte diese Uebereinkunft jenen Gütern des Kronsyndikus, von denen das eine in Holstein, das andere in Mecklenburg verpachtet war. Die Kleesaat war auch hier die grüne Spur, die von dem Teutoburger Wald, über den </tei:seg>
         <tei:ref target="#annotation-343" type="esv">Haarrauch</tei:ref>
         <tei:seg> und die Heidschnucken hinweg, mit einem Umwege über die Marschen und Geeste des rechten Elbufers, nach einem noch volle zwanzig Minuten vom Dammthor gelegenen Landsitze führte, der unter ähnlichen Landsitzen mit Nr. 33 kenntlich gemacht war und aus einem Vorgarten von etwa auch dreiunddreißig Schritten, jedoch keineswegs in quadrater Potenz, sondern nur etwa zwanzig Schritten der Breite nach, einem Hause von anderthalb Stockwerken ohne Keller und einem Hinterhofe und Hintergarten bestand, der seinerseits nur zehn Fuß lang und fünf Fuß breit war, einen Holzschuppen enthielt mit einer Hundehütte und die Grube zur Inempfangnahme alles überflüssigen Niederschlags irdischen Daseins. Nach hinten war alles das von einem schon abgeblühten Hollunderbusch umzäunt und trennte auch dies Gebüsch diesen Tummelplatz ländlicher Erholung von einem </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-344" type="esv">ditto</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-344" type="esv">
+          <tei:foreign>ditto</tei:foreign>
+        </tei:ref>
         <tei:seg>, der mit gleichen luxuriösen Bequemlichkeiten seine Fronte in einer andern Straße hatte </tei:seg>
         <tei:pb n="236"/>
         <tei:seg> und vielleicht dort an einer Nr. 76 oder 77 bemerklich war, wo wiederum in gleicher Weise auch nach vorn dreiunddreißig Schritte bis zum </tei:seg>
@@ -4498,14 +4498,14 @@
       </tei:p>
       <tei:lg margin-bottom="0.2" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-383" type="esv">Wenn ich dich nur habe,</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-383" type="esv">
+            <tei:hi style="font-size-small">Wenn ich dich nur habe,</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#{value()}" type="esv">Wenn du mein nur bist!</tei:ref>
-          </tei:hi>
+          <tei:ref target="#{value()}" type="esv">
+            <tei:hi style="font-size-small">Wenn du mein nur bist!</tei:hi>
+          </tei:ref>
         </tei:l>
       </tei:lg>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -4632,9 +4632,9 @@
         <tei:ref target="#annotation-406" type="esv">„Sachsenspiegel“</tei:ref>
         <tei:seg>, eine Zusammenstellung der </tei:seg>
         <tei:ref target="#annotation-407" type="esv">Fragmente des Ciceronischen Buchs „</tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-407" type="esv">De Republica</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-407" type="esv">
+          <tei:foreign>De Republica</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-407" type="esv">“</tei:ref>
         <tei:seg> bringen, eine Geschichte der italienischen Städtebünde, eine Abhandlung über die Verjährungsfristen, eine neue Begründung des Steuerwesens und eine Kritik Adam </tei:seg>
         <tei:pb n="261"/>
@@ -4764,9 +4764,9 @@
         <tei:seg> wieder aufgehoben wurde. Endlich bot sich ein anderes Auskunftsmittel. Die rasch geschlossenen und rasch wieder abgebrochenen Freundschaften mit der Nachbarschaft hatten bei zwei Interessen Stand gehalten, einem materiellen und einem geistigen. Ein Modehändler vom </tei:seg>
         <tei:ref target="#annotation-428" type="esv">Neuenwall</tei:ref>
         <tei:seg> hatte in der jetzigen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-429" type="esv">Saison morte</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-429" type="esv">
+          <tei:foreign>Saison morte</tei:foreign>
+        </tei:ref>
         <tei:seg> keinen bessern Kunden als die junge Pensionärin des Kleesaatmaklers Carstens. Lucinde war reichlich vom Kronsyndikus und Klingsohr mit Geld ausgestattet. Zu ihren Liebhabereien gehörte es nicht nur, sich zu schmücken, sondern mehr noch, in der Stadt von Laden zu Laden zu gehen und Einkäufe zu machen. Sie hatte die Liebhaberei des Schenkens. Manche von denen, die nichts mehr von ihr annehmen wollten, behaupteten, sie wollte sich damit nur das Recht erkaufen, die Menschen dann auch verletzen und ärgern zu können. Die Damen Carstens nannten sie eine Verschwenderin und begriffen nicht, wie sie bei einer Beschwerde darüber von Klingsohrn die Antwort bekommen konnten: „Feen schenken gern!“ Er wußte, daß Lucinde darben, auf Stroh liegen konnte ebenso wie in </tei:seg>
         <tei:pb n="273"/>
         <tei:seg> goldenen Palästen wohnen. Sie hatte bisjetzt mit dem Leben nur gespielt; fast schien sie zu wollen, daß auch das Leben nur mit ihr spiele. Etwas selbst und lange zu erwarten und zu erhoffen, wäre ihr das Drückendste gewesen. Hätte sie damals die Volksjustiz nicht von der Frau Hauptmännin von Buschbeck erlöst, sie würde vielleicht noch bei ihr gedient, noch die Zwetschenkerne sich zerschlagen und sie für eine Delicatesse verspeist haben, glücklich, daß es nicht die gefangenen Mäuse waren.</tei:seg>
@@ -5525,9 +5525,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:pb n="325"/>
         <tei:seg> Bestes Fräulein, wie beklage ich Sie! Wie hat das alles möglich werden können! </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-489" type="esv">Du sublime au ridicule il n&apos;y a qu&apos;un pas!</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-489" type="esv">
+          <tei:foreign>Du sublime au ridicule il n&apos;y a qu&apos;un pas!</tei:foreign>
+        </tei:ref>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Napoleon sagte das! erwiderte sie, stolz den gesenkten Kopf erhebend.</tei:seg>
@@ -5712,9 +5712,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>„Weltordnung – Dante’s Hölle – Buschbeck – siebentes Paradies – Johannes von Zeesen – </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-495" type="esv">Regina Coeli</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-495" type="esv">
+          <tei:foreign>Regina Coeli</tei:foreign>
+        </tei:ref>
         <tei:seg> – </tei:seg>
         <tei:ref target="#annotation-496" type="esv">neun Zeitalter</tei:ref>
         <tei:seg> –</tei:seg>
@@ -6019,9 +6019,9 @@
         <tei:ref target="#annotation-513" type="esv">Darstellerin der Isabeau</tei:ref>
         <tei:seg> zur Heiterkeit gestimmt … im zweiten Acte wurde die Aufnahme bedenklich. Das Lager der Engländer wird vorgeführt, der Streit der Heerführer folgt, ihre Aussöhnung. Nun muß dem Darsteller des Lionel einfallen, zu betonen: </tei:seg>
         <tei:ref target="#annotation-514" type="esv">„Glück zu dem Frieden, den </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-514" type="esv">die</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-514" type="esv">
+          <tei:hi style="letter-sparse">die</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-514" type="esv"> Furie stiftet!“</tei:ref>
         <tei:seg> Es war dies eine von den feinen Nuancen, die entstehen, wenn unsere „Künstler“ zu „denken“ anfangen. Alles lachte hellauf. Jeder sah die Erscheinung der corpulenten und so grimmigen Isabeau im Geiste als Furie vor sich. Nun kam die Verwandlung. Johanna sollte Burgund und Frankreich versöhnen. Kein Ton war jedoch Lucinden fremder als der, Streitende zu versöhnen. Bei den schwach gehauchten Worten: </tei:seg>
         <tei:ref target="#annotation-515" type="esv">„Und einen Donnerkeil führ’ ich im Munde“</tei:ref>
@@ -6108,14 +6108,14 @@
       </tei:p>
       <tei:lg margin-bottom="0.2" margin-left="1.5" margin-right="0" margin-top="0.2">
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-519" type="esv">Fahr’ hin, lammherzige Gelassenheit!</tei:ref>
-          </tei:hi>
+          <tei:ref target="#annotation-519" type="esv">
+            <tei:hi style="font-size-small">Fahr’ hin, lammherzige Gelassenheit!</tei:hi>
+          </tei:ref>
         </tei:l>
         <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
-          <tei:hi style="font-size-small">
-            <tei:ref target="#{value()}" type="esv">Zum Himmel fliehe, leidende Geduld!</tei:ref>
-          </tei:hi>
+          <tei:ref target="#{value()}" type="esv">
+            <tei:hi style="font-size-small">Zum Himmel fliehe, leidende Geduld!</tei:hi>
+          </tei:ref>
         </tei:l>
       </tei:lg>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -7032,9 +7032,9 @@
           <tei:seg>Niederländisch-Indien bzw. Niederländisch-Ostindien (heute Indonesien). Hauptmann Buschbeck diente auf Java (vgl. 128,10-11), der „kleinste[n] der Großen Sunda-Inseln, aber als reichste und am stärksten bevölkerte Hauptsitz der niederländischen Herrschaft im Indischen Archipel“ (Meyer, Bd. 10, S. 208). So ist auch 27,16-17 von den </tei:seg>
           <tei:q>javanischen Pfeilspitzen</tei:q>
           <tei:seg> die Rede. Java (dort verbrachte Gutzkows einstige Geliebte Therese von Bacheracht ihre letzten Lebensjahre) hat Gutzkows Phantasie öfter beschäftigt. Das erste Kapitel seines 1855 erschienenen Romans </tei:seg>
-          <tei:q>
-            <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/die-diakonissin.html" type="external">Die Diakonissin</tei:ref>
-          </tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/die-diakonissin.html" type="external">
+            <tei:q>Die Diakonissin</tei:q>
+          </tei:ref>
           <tei:seg> handelt auf Java, wo ein Oberst van der Busch an einer exotischen Krankheit langsam dahinsiecht (GWB I, Bd. 10, S. 5-13).</tei:seg>
         </tei:p>
       </tei:interp>
@@ -8728,9 +8728,9 @@
           <tei:seg>Klingsohr erweist sich mit diesen Versen als einer der zahlreichen Jünger und Nachahmer Heines, dessen Lyrik seit den 1830er Jahren mehr und mehr in Mode kam, vielfach vertont wurde und vor allem im studentischen Milieu begeisterte Aufnahme fand. Von Gutzkow wurde diese lyrische Richtung nicht sonderlich geschätzt. Er stand Heine (→ </tei:seg>
           <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/heine.html" type="external">Lexikon</tei:ref>
           <tei:seg>) reserviert gegenüber und bemerkt in seinem Essay </tei:seg>
-          <tei:q>
-            <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/vergangenheit-und-gegenwart.html" type="external">Vergangenheit und Gegenwart</tei:ref>
-          </tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/vergangenheit-und-gegenwart.html" type="external">
+            <tei:q>Vergangenheit und Gegenwart</tei:q>
+          </tei:ref>
           <tei:seg> 1839: </tei:seg>
           <tei:q>Heine</tei:q>
           <tei:seg> [...] </tei:seg>
@@ -10019,7 +10019,9 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Nach Hegels Tod am 14. November 1831 verhinderte die Auseinandersetzung um seine Nachfolge eine rasche Besetzung seines Lehrstuhls. Von seinen bereits renommierten Schülern kam für die preußische Regierung keiner in Betracht, da sie sämtlich unter dem Verdacht staatskritischer ›Umtriebe‹ standen. Hegel selbst hatte noch zu Lebzeiten einen seiner Jenaer Schüler, Georg Andreas Gabler (1786-1853), bestimmt, der zu diesem Zeitpunkt als Schulrektor in Bayreuth lebte, ein Vorschlag, der auf allgemeines Unverständnis stieß. Obwohl sich mit Heinrich Steffens, seit 1821 Professor für Philosophie, und Heinrich Ritter, a. o. Professor seit 1833, zwei angesehene Bewerber aus der eigenen Universität fanden, setzte das Ministerium Altenstein gegen erhebliche Widerstände 1835 die Berufung Gablers durch. (Vgl. Horst Althaus: Hegel und die heroischen Jahre der Philosophie. Eine Biographie. München: Hanser, 1992. S. 583-584.) Den ehemaligen Hegel-Schüler Gutzkow haben diese Vorgänge mehrfach beschäftigt, so etwa 1832 in einer Berliner Korrespondenz (RABS, S. 41-42) oder in den Briefen eines Narren an eine Närrin (GWB I, Bd. 1, S. 17,4-5).</tei:seg>
+          <tei:seg>Nach Hegels Tod am 14. November 1831 verhinderte die Auseinandersetzung um seine Nachfolge eine rasche Besetzung seines Lehrstuhls. Von seinen bereits renommierten Schülern kam für die preußische Regierung keiner in Betracht, da sie sämtlich unter dem Verdacht staatskritischer ›Umtriebe‹ standen. Hegel selbst hatte noch zu Lebzeiten einen seiner Jenaer Schüler, Georg Andreas Gabler (1786-1853), bestimmt, der zu diesem Zeitpunkt als Schulrektor in Bayreuth lebte, ein Vorschlag, der auf allgemeines Unverständnis stieß. Obwohl sich mit Heinrich Steffens, seit 1821 Professor für Philosophie, und Heinrich Ritter, a. o. Professor seit 1833, zwei angesehene Bewerber aus der eigenen Universität fanden, setzte das Ministerium Altenstein gegen erhebliche Widerstände 1835 die Berufung Gablers durch. (Vgl. Horst Althaus: Hegel und die heroischen Jahre der Philosophie. Eine Biographie. München: Hanser, 1992. S. 583-584.) Den ehemaligen Hegel-Schüler Gutzkow haben diese Vorgänge mehrfach beschäftigt, so etwa 1832 in einer Berliner Korrespondenz (RABS, S. 41-42) oder in den </tei:seg>
+          <tei:q>Briefen eines Narren an eine Närrin</tei:q>
+          <tei:seg> (GWB I, Bd. 1, S. 17,4-5).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-308">
@@ -10109,9 +10111,9 @@
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Den Fall, auf einem  Gehweg einem Passanten aus der Arbeiterklasse oder Unterschicht ausweichen zu müssen oder von diesem angerempelt zu werden, thematisiert Gutzkow öfter, am schärfsten 1876 im Roman </tei:seg>
-          <tei:q>
-            <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/die-neuen-serapionsbrueder/erster-band.html" type="external">Die neuen Serapionsbrüder</tei:ref>
-          </tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/die-neuen-serapionsbrueder/erster-band.html" type="external">
+            <tei:q>Die neuen Serapionsbrüder</tei:q>
+          </tei:ref>
           <tei:seg>, in dem das Großstadtphänomen der </tei:seg>
           <tei:q>Trottoirkrankheit</tei:q>
           <tei:seg> konstatiert wird (GWB I, Bd. 17, S. 3 u. S. 5-6).</tei:seg>
@@ -10254,7 +10256,9 @@
           <tei:q>:</tei:q>
           <tei:seg> </tei:seg>
           <tei:q>Emollit mores didicisse fideliter artes</tei:q>
-          <tei:seg>, d. h. dass das Erlernen der Kunst zugleich die Sitten verfeinert (GWB VII, Bd. 2, S. 95). Mit anderen Worten: Die Ironieen des Satan zerstören die klassische Einheit des Guten mit dem Schönen. Gutzkow erwähnt den Titel des geplanten Buches nochmals im 3. Buch des </tei:seg>
+          <tei:seg>, d. h. dass das Erlernen der Kunst zugleich die Sitten verfeinert (GWB VII, Bd. 2, S. 95). Mit anderen Worten: Die </tei:seg>
+          <tei:q>Ironieen des Satan</tei:q>
+          <tei:seg> zerstören die klassische Einheit des Guten mit dem Schönen. Gutzkow erwähnt den Titel des geplanten Buches nochmals im 3. Buch des </tei:seg>
           <tei:q>Zauberers von Rom</tei:q>
           <tei:seg> (vgl. 741,33-34).</tei:seg>
         </tei:p>
@@ -10741,9 +10745,9 @@
           <tei:seg>Gutzkow greift hier einen Diskurs auf, an dem sich Ludolf Wienbarg 1834 mit einer Broschüre „Soll die plattdeutsche Sprache gepflegt oder ausgerottet werden? Gegen Ersteres und für Letzteres“ lebhaft beteiligte. Der Norddeutsche Wienbarg war ein entschiedener Gegner der plattdeutschen Volkssprache, der er geistige Trägheit und Zurückgebliebenheit vorwarf und die er als Garanten sozialer Knechtschaft und politischen Stillstands betrachtete: „Sie ist dem Verstand der Zeit längst zu enge geworden, ihr Wachsthum hat bereits mit dem sechszehnten Jahrhundert aufgehört, sie kann die geistigen und materiellen Fortschritte der Civilisation nicht fassen, nicht wiedergeben und daher verurtheilt sie den bei weitem größten Theil der Volksmasse in Norddeutschland, dem sie annoch tägliches Organ ist, zu einem Zustande der Unmündigkeit, Rohheit und Ideenlosigkeit, der vom Zustand der Gebildeten auf die grellste und empörendste Weise absticht.“ (Ludolf Wienbarg: Soll die plattdeutsche Sprache gepflegt oder ausgerottet werden? Gegen Ersteres und für Letzteres. Hamburg: Hoffmann u. Campe, 1834. S. 10-11.) Die plattdeutsche Sprache sei fortschrittsfeindlich, „das absolute Hemmniß des öffentlichen Lebens, der Bildung und Humanität in Niedersachsen. So lange diese Sprache dem gemeinen Leben angehört, werden, wie bisher, Mastochsen, Gänsebrüste und westphälische Schinken die Hauptprodukte unserer Civilisation bleiben. Gegen die Civilisation selbst macht die plattdeutsche Sprache nicht allein gleichgültig, sondern tückisch und feindselig gestimmt.“ (S. 37.) Gutzkow hat später aus einer ähnlichen Perspektive gegen den Berliner Dialekt als Sprache der Unterprivilegierten polemisiert: </tei:seg>
           <tei:q>Schon das verdorbene Plattdeutsch, das den Volksjargon bildet, trägt den Stempel der Unzulänglichkeit an sich. Es ist die absolute Sprache der Unterordnung, der Beschränktheit; es ist die Sprache der Hausknechte, Hökerinnen, kleinen Rentiers, der Kinder, des in die Stadt versetzten Bauers. </tei:q>
           <tei:seg>(In: </tei:seg>
-          <tei:q>
-            <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/eine-woche-in-berlin.html" type="external">Eine Woche in Berlin</tei:ref>
-          </tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/eine-woche-in-berlin.html" type="external">
+            <tei:q>Eine Woche in Berlin</tei:q>
+          </tei:ref>
           <tei:seg>, 1854, eGWB VI, Bd. 3, pdf 1.0, S. 8.)</tei:seg>
         </tei:p>
       </tei:interp>
@@ -11230,8 +11234,8 @@
       <tei:interp type="esv" xml:id="annotation-410">
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:citedRange type="page-line-ref">208,6</tei:citedRange>
-          <tei:seg> K</tei:seg>
-          <tei:citedRange type="word-range">assiopeia</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Kassiopeia</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -11240,7 +11244,8 @@
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-411">
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>208,10-11 </tei:seg>
+          <tei:citedRange type="page-line-ref">208,10-11</tei:citedRange>
+          <tei:seg> </tei:seg>
           <tei:citedRange type="word-range">„Gleich-Gleich-Herr!“</tei:citedRange>
           <tei:seg>] </tei:seg>
         </tei:p>
@@ -11471,9 +11476,9 @@
           <tei:seg>Gutzkow beschreibt an dieser Stelle die eigentümliche Situation des Musiklebens im 19. Jahrhundert. Sie ist grundsätzlich durch die Kluft zwischen dem professionellen Musiker und dem ausübenden Musikliebhaber, dem Dilettanten charakterisiert: eine Unterscheidung, die früher in solcher Ausprägung nicht bestand. Die in der romantischen Musik wachsenden Ansprüche an den Interpreten überstiegen bald die Fähigkeiten der Dilettanten. Sie führten zu einer Blüte des Virtuosentums, das sich parallel zur Vorherschaft des bürgerlichen Publikums im öffentlichen Konzertleben entwickelte. In der feudalen Gesellschaft musizierten Virtuosen nahezu ausschließlich an fürstlichen Höfen, häufig direkt als Angehörige des höfischen Personals. Mit dem Aufstieg des Großbürgertums wanderten sie in den großbürgerlichen Salon ab, ein Vorgang, der nicht zuletzt ihre gesellschaftliche und wirtschaftliche Situation entscheidend verbesserte. Mit der Verbreitung des Konzertlebens wuchs auch die Zahl ihrer Auftritte in öffentlichen Konzerten, die immer mehr ihren Rang bestimmten, während das Spiel auf privaten Soireen, schon wegen der enormen Honorare der Virtuosen, zum exklusiven Ereignis wurde. An die Stelle der Salonmusik trat die Hausmusik, die dilettierenden Musikliebhabern die Gelegenheit zum Auftritt im erweiterten Familienkreis bot. Ermöglicht wurde diese Entwicklung durch die Fortschritte im industriellen Instrumentenbau. Sie wird eindrucksvoll belegt durch die rasante Verbreitung des Klaviers (→ Erl. zu NSerE 257,29). Richard Wagner („Über das deutsche Musikwesen“, 1840) gründete diese Hausmusik ausdrücklich auf das „deutsche Familienleben“, das er gegen die „Masse eines unterhaltungssüchtigen Salon-Publikums“ verteidigte (vgl. MGG, Kap. ›Hausmusik‹, Bd. 16, S. 610-615). Die entschieden abfällige Beschreibung, die </tei:seg>
           <tei:q>der Bund der Notenkundigen</tei:q>
           <tei:seg> im folgenden Text erfährt, steigert sich in Lucindes Reaktion auf den gemeinsamen Gesang zum Satirischen (218,1-2). Der Chorgesang verbreitete sich seit Anfang des Jahrhunderts in einer Fülle von Liedertafeln und Gesangsvereinen, die schließlich nach der Reichsgründung im Deutschen Sängerbund ihre Dachorganisation fanden. Das gemeinsame Liedgut war geprägt durch eine völkisch-nationale Gesinnung und romantisierende Sentimentalität, kurz durch einen musikalischen Antirationalismus, den Gutzkow bei Richard Wagner kritisch ins Visier nahm (vgl. Karl Gutzkow: </tei:seg>
-          <tei:q>
-            <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/dramaturgische-schriften-zum-buehnenleben-oper-und-musik/richard-wagner-sche-musik.html" type="external">Richard Wagner’sche Musik</tei:ref>
-          </tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/dramaturgische-schriften-zum-buehnenleben-oper-und-musik/richard-wagner-sche-musik.html" type="external">
+            <tei:q>Richard Wagner’sche Musik</tei:q>
+          </tei:ref>
           <tei:seg>, 1852, eGWB IV, Bd. 10, pdf 1.0).</tei:seg>
         </tei:p>
       </tei:interp>
@@ -12549,7 +12554,9 @@
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Das Orthopädische Institut in Würzburg, das sogenannte Carolinen-Institut. Es wurde 1816 von dem Orthopäden und chirurgischen Instrumentenmacher Johann Georg Heine (1770-1838) errichtet und hatte „unter mehreren ähnl. in Deutschland den größten Ruf“. (Pierer 1840-46, Bd. 14, S. 33.) Gutzkow verweist auf diese orthopädische Anstalt auch in seinem Beitrag </tei:seg>
-          <tei:q>Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung</tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/die-baronin-von-gravenreuth-geb-graefin-hirschberg-und-main-plagiat-an-ihrer-lebensbeschreibung.html" type="external">
+            <tei:q>Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung</tei:q>
+          </tei:ref>
           <tei:seg> (eGWB IV, Bd. 6.2, pdf 1.0, S. 4).</tei:seg>
         </tei:p>
       </tei:interp>
@@ -12561,7 +12568,7 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Maximilian I. Joseph (1756-1825), seit 1799 Kurfürst von Bayern, seit 1806 König, dessen zweite Gemahlin Caroline Friederike Wilhelmine von Baden (1776-1841) dem Orthopädischen Institut seinen Namen gab.</tei:seg>
+          <tei:seg>Maximilian I. Joseph (1756-1825), seit 1799 Kurfürst, seit 1806 König von Bayern. Nach seiner zweite Gemahlin Caroline Friederike Wilhelmine von Baden (1776-1841) wurde das Orthopädische Institut benannt.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-523">
@@ -12572,7 +12579,11 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Orthopädisches Bett mit Streckapparaten, mit dessen Hilfe ein verkrümmter Körper durch Zug und Druck „eine Zeitlang in der Richtung erhalten wird, die er behufs der Beseitigung gewisser Krümmungen [...] einnehmen soll“ (Meyer, Bd. 19, S. 112). Zum Motiv des Streckbetts vgl. auch Gutzkows Bemerkungen dazu in seinem Beitrag Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung (eGWB IV, Bd. 6.2, pdf 1.0, S. 2-3).</tei:seg>
+          <tei:seg>Orthopädisches Bett mit Streckapparaten, mit dessen Hilfe ein verkrümmter Körper durch Zug und Druck „eine Zeitlang in der Richtung erhalten wird, die er behufs der Beseitigung gewisser Krümmungen [...] einnehmen soll“ (Meyer, Bd. 19, S. 112). Zum Motiv des Streckbetts vgl. auch Gutzkows Bemerkungen dazu in seinem Beitrag </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/die-baronin-von-gravenreuth-geb-graefin-hirschberg-und-main-plagiat-an-ihrer-lebensbeschreibung.html" type="external">
+            <tei:q>Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung</tei:q>
+          </tei:ref>
+          <tei:seg> (eGWB IV, Bd. 6.2, pdf 1.0, S. 2-3).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-524">
@@ -12595,7 +12606,9 @@
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Diese Angabe verdankte Gutzkow, wie er in seinem Beitrag </tei:seg>
-          <tei:q>Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung</tei:q>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/die-baronin-von-gravenreuth-geb-graefin-hirschberg-und-main-plagiat-an-ihrer-lebensbeschreibung.html" type="external">
+            <tei:q>Die Baronin von Gravenreuth, geb. Gräfin Hirschberg, und mein „Plagiat“ an ihrer Lebensbeschreibung</tei:q>
+          </tei:ref>
           <tei:seg> schreibt, den ungedruckt gebliebenen Lebenserinnerungen der Baronin Gravenreuth (eGWB IV, Bd. 6.2, pdf 1.0, S. 6).</tei:seg>
         </tei:p>
       </tei:interp>
@@ -13274,9 +13287,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1151,34</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>
-          <tei:lem>étroitement</tei:lem>
-        </tei:foreign>
+        <tei:lem>
+          <tei:foreign>étroitement</tei:foreign>
+        </tei:lem>
         <tei:seg> </tei:seg>
         <tei:foreign>
           <tei:sic>etroitement</tei:sic>
@@ -13922,9 +13935,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">706,11</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>
-          <tei:lem>Attenzione cocchieri!</tei:lem>
-        </tei:foreign>
+        <tei:lem>
+          <tei:foreign>Attenzione cocchieri!</tei:foreign>
+        </tei:lem>
         <tei:lem> ...</tei:lem>
         <tei:seg> </tei:seg>
         <tei:foreign>
@@ -14518,9 +14531,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">322,21</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>
-          <tei:lem>Si! Si!</tei:lem>
-        </tei:foreign>
+        <tei:lem>
+          <tei:foreign>Si! Si!</tei:foreign>
+        </tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:foreign>
           <tei:sic>Si! Si!</tei:sic>
@@ -14562,9 +14575,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">880,2</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>
-          <tei:lem>animarurm</tei:lem>
-        </tei:foreign>
+        <tei:lem>
+          <tei:foreign>animarurm</tei:foreign>
+        </tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:foreign>
           <tei:sic>animaru</tei:sic>
@@ -16315,9 +16328,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Hier ist ein Dichter, der zugleich ein Mann der freien Bewegung ist, und er hat, was das Herz der Nation bewegt, nicht gefühllos an sich vorüberrauschen lassen, er hat, wie der Herausgeber dieser Revue</tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-3" type="footnote">1)</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-3" type="footnote">
+          <tei:hi style="sup">1)</tei:hi>
+        </tei:ref>
         <tei:seg> vom „wahren Dichter“ mit Recht fordert, wie vom „wahren Volksfreund“, er hat die poetischen Keime in der Gegenwart erkannt und hat die schöne Mannigfaltigkeit des Lebens auf die Freiheit der Bewegung zu begründen gesucht. Er ist keiner jener „halben Poeten, die sich in die Vergangenheit versenken und über die Gegenwart jammern, die sie nicht verstehen“. Gutzkow versteht die Gegenwart, er liebt sie selbst in ihren fremdartigsten, abnormsten und verworrensten Erscheinungen, er studirt sie, und das Studium eines wahren Dichters kann nie unfruchtbar sein, er empfängt „der Dichtung Schleier aus der Hand der Wahrheit“. Er liefert einen werthvollen Beitrag zu jener wahrhaft volksthümlichen Literatur, von welcher in diesen Blättern (am angegebenen Orte) gesagt war: „Wenn ich die Wahl habe zwischen einer wahrhaft demokratischen Verfassung und einer wahrhaft volksthümlichen Literatur, so wähle ich letztere: denn mit dieser ist jene sicherer zu erreichen, als umgekehrt.“ </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
@@ -16363,16 +16376,16 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Das Bleibende an dem Buche ist das Schöne, das Große. Und das tritt am klarsten hervor, wenn wir uns vergegenwärtigen, was der Dichter geleistet in Schilderung von Personen und Sachen, der Charakter- und Situationenzeichnung, der Enthüllung der Mysterien der Psychologie, der Leidenschaft in allen ihren Höhen und Tiefen, der plastischen Ausprägung der interessantesten, mannigfaltigsten und gemischtesten Individualitäten, der nahezu erschöpfenden, unübertrefflichen Darstellung großer kulturhistorischer Erscheinungen, wie die römische Hierarchie eine ist. Ueber die immerhin psychologisch höchst interessanten Gestalten der beiden Hauptcharaktere, des idealen Priesters Bonaventura und der abenteuerlichen Lucinde, die „blaue Eidechse“, die alle Zauber Roms, „jener Welt, die von Schiller und Goethe Nichts weiß“, und alle Zauber der raffinirtesten modernen Kultur in sich vereinigt, wird man sich noch lange hin und her streiten. Das wird nur für den psychologischen Reichthum und Scharfsinn sprechen, aus dessen Fülle heraus der Dichter seine Charaktere gezaubert hat. Die klerikale Welt, die der Dichter, „kennt wie seine Hosentasche“, schwebt in den mannigfaltigsten Gestalten, als heilige, als Karrikaturen des Heiligen von allen Nuancen an uns vorüber. Wir sehen den weltmännisch gebildeten, epikureischen, von Wessenberg’schen Reformideen angehauchten feinen Pastor, „fast“ Abbé, den deutschen Bauer in der Soutane, den poltern-[480]den, rülpsenden Kontroversprediger gegen alle protestantische und moderne Kultur, der aber unter der Hand die zartesten Sionsklänge ersäuseln und drucken läßt, – Ketzerhammer und Stimmhammer zugleich; wir sehen den schwarzen Gamaschenknopf, den strammen, unerbittlichen Soldaten der Kirche, den Konvertiten Sebastus (Klingsohr), einen Verwandten der Zacharias Werner und Friedrich Schlegel, den nomadischen Eremiten und Abtödter, Bruder Hubertus, den waldensisch infizirten, kaum noch katholischen Einsiedler Federigo, den Jesuiten</tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-4" type="footnote">1)</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-4" type="footnote">
+          <tei:hi style="sup">1)</tei:hi>
+        </tei:ref>
         <tei:seg> im kurzen und langen Rock, die ganze lange Reihe italienischer Priester- und Pfaffengestalten, Kardinäle von der Sorte der Ceccone (der Lambruschini und Antonelli) und Fefelotti, Repräsentanten der hierarchischen Fäulniß, aber auch, neben Bonaventura, Ambrosi, Einen der Vertreter der Reform und Reformfähigkeit des römisch-kirchlichen Lebens und endlich – wo bleibt der Zauberer von Rom selbst? </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>„Seine Heiligkeit ließ damals den Kardinal Ceccone schalten und walten – und, um Nichts zu verschweigen, sagen wir es offen und aufrichtig: der Zauberer von Rom war bitter krank..... Der „Träger der Himmelsschlüssel“, der „Patriarch der Welt“, der „Vater der Väter“, der „Erbe der Apostel“, der „Hirt der Heerde“ war ein armer Mensch, er fürchtete den Gesichtskrebs zu bekommen“</tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-5" type="footnote">2)</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-5" type="footnote">
+          <tei:hi style="sup">2)</tei:hi>
+        </tei:ref>
         <tei:seg> ..... VIII. 55. Das ist Gregor XVI. </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">

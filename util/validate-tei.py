@@ -102,7 +102,7 @@ def check_page_number_markup(doc, errors):
             if len(pb) == 0:
                 errors.append('Page begin markup without page number attribute')
         else:
-            if not re.fullmatch('[IVX0-9]+', pb.attrib['n']):
+            if not re.fullmatch('[IVX0-9]+\\??', pb.attrib['n']):
                 errors.append('Page begin markup with invalid page number {0}'.format(pb.attrib['n']))
     markup = doc.xpath('//tei:hi', namespaces=ns)
     for hi in markup:
