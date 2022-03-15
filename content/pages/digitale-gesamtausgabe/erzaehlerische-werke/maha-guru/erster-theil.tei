@@ -3,7 +3,7 @@
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
-        <tei:title>Erster Theil</tei:title>
+        <tei:title>Maha Guru. Geschichte eines Gottes. Theil 1-2. Erster Theil. Stuttgart u. Tübingen: Cotta, 1833. (Rasch 2.3))</tei:title>
         <tei:author>Karl Gutzkow</tei:author>
         <tei:respStmt xml:id="RichardJKavanagh">
           <tei:resp>Herausgeber</tei:resp>
@@ -34,7 +34,7 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="2022"/>
+        <tei:date when="1833"/>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#erzaehlerische-werke #maha-guru #erster-theil"/>
@@ -1906,7 +1906,7 @@
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>In E ﬁnden sich zahlreiche Abstandserweiterungen zwischen Absätzen. Diese wurden nicht übernommen, wenn sie rein satztechnischer Art sind (wie bei Dialogen, um die Rede eines Sprechers von der des anderen abzusetzen). Übernommen wurden sie jedoch, wenn sie semantische Einschnitte oder Übergänge im Text markieren.</tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+      <tei:head data-heading-id="2.1.1. Texteingriffe" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2427,9 +2427,10 @@
       <tei:head data-heading-id="2.2.1. Exemplarische Darstellung der Varianten in Orthographie und Interpunktion" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>2.2.1. Exemplarische Darstellung der Varianten in Orthographie und Interpunktion</tei:seg>
       </tei:head>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">c, k, ck:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>c, k, ck: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">Capitel</tei:hi>
         <tei:seg> E, </tei:seg>
         <tei:hi style="font-style-italic">Kapitel</tei:hi>
@@ -2478,9 +2479,10 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">ß, z, s:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>ß, z, s: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">dieß</tei:hi>
         <tei:seg> E, dies A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2503,9 +2505,10 @@
         <tei:seg> und A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">ey, ei, i, ie:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>ey, ei, i, ie: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">seyn</tei:hi>
         <tei:seg> E, </tei:seg>
         <tei:hi style="font-style-italic">sein</tei:hi>
@@ -2538,9 +2541,10 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">d, t, th:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>d, t, th: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">Dinte</tei:hi>
         <tei:seg> E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2557,9 +2561,10 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Umlaut:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Umlaut: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">hülfreich</tei:hi>
         <tei:seg> E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2596,9 +2601,10 @@
         <tei:seg> und A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Dehnvokal:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dehnvokal: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">wohl</tei:hi>
         <tei:seg> E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2622,9 +2628,10 @@
         <tei:hi style="font-style-italic">Dhü-Kummuz</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Apostroph:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Apostroph: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">America’s</tei:hi>
         <tei:seg> E, </tei:seg>
         <tei:hi style="font-style-italic">Amerika’s</tei:hi>
@@ -2683,9 +2690,10 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Komposita; Getrennt- und Zusammenschreibung:</tei:hi>
-        <tei:seg> </tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Komposita; Getrennt- und Zusammenschreibung: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">sechszehn</tei:hi>
         <tei:seg> E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2720,14 +2728,14 @@
         <tei:seg> und A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Die </tei:seg>
-        <tei:hi style="font-weight-bold">Kontraktion von Adjektivendungen</tei:hi>
-        <tei:seg> in E und A</tei:seg>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Kontraktion von Adjektivendungen in E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
         <tei:seg> findet sich nicht mehr in A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
         <tei:seg>: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-style-italic">ältern</tei:hi>
         <tei:seg> E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2745,9 +2753,7 @@
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Das </tei:seg>
-        <tei:hi style="font-weight-bold">Relativpronomen</tei:hi>
-        <tei:seg> </tei:seg>
+        <tei:seg>Das Relativpronomen </tei:seg>
         <tei:hi style="font-style-italic">welch-</tei:hi>
         <tei:seg> in E und A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
@@ -2761,7 +2767,7 @@
         <tei:hi style="font-style-italic">die</tei:hi>
         <tei:seg> etc. ersetzt:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">128,13</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Wohnung, welche</tei:q>
@@ -2773,15 +2779,13 @@
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Die </tei:seg>
-        <tei:hi style="font-weight-bold">Setzung von Kommata</tei:hi>
-        <tei:seg> ist in A</tei:seg>
+        <tei:seg>Die Setzung von Kommata ist in A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
         <tei:seg> und A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
         <tei:seg> wesentlich reduziert, vor allem vor ,und‘:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">7,2-4</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Ihr wechselt</tei:q>
@@ -2796,7 +2800,7 @@
         <tei:seg> und A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">7,5-6</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>idyllischer, als</tei:q>
@@ -2880,10 +2884,9 @@
         <tei:seg>, 1874), zählt eine ganze Reihe von Änderungen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Häufig sind Adverbien und Pronomina umgestellt</tei:hi>
-        <tei:seg>:</tei:seg>
+        <tei:seg>Häufig sind Adverbien und Pronomina umgestellt:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">212,33-34</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Ehe zwei Bekannte</tei:q>
@@ -2898,7 +2901,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">7,23</tei:hi>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">Schenkt Dalai Lama, der große Gott, aber nur</tei:hi>
@@ -2910,9 +2913,9 @@
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Substantivische Komposita, Adjektive und Adverbien sind nach Bedarf entfernt oder ersetzt:</tei:hi>
+        <tei:seg>Substantivische Komposita, Adjektive und Adverbien sind nach Bedarf entfernt oder ersetzt:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">3,27</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Lava-Decke</tei:q>
@@ -2925,7 +2928,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">7,27</tei:hi>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">Musterbild</tei:hi>
@@ -2936,7 +2939,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">27,9</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>dieser wahnsinningen Irrrede</tei:q>
@@ -2949,7 +2952,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">7,5-6</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>weit idyllischer</tei:q>
@@ -2960,7 +2963,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">113,3</tei:hi>
         <tei:seg> </tei:seg>
         <tei:hi style="font-style-italic">verschnaufenden Pause</tei:hi>
@@ -2971,7 +2974,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">152,33</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>wie man seine Auseinandersetzungen allgemein aufnahm</tei:q>
@@ -2983,9 +2986,9 @@
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Die Syntax ist (oft in der Verb-Konstruktion) deutlicher:</tei:hi>
+        <tei:seg>Die Syntax ist (oft in der Verb-Konstruktion) deutlicher:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">114,5-6</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Einen Mandarin und einen Lümmel aus Peking erkennt man schon an dem Ungeschick, mit dem er die Theetasse hält</tei:q>
@@ -2996,7 +2999,7 @@
         <tei:seg> lautet der Nebensatz: </tei:seg>
         <tei:q>wie beide die Theetasse halten</tei:q>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">125,16</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>zu füttern vergaß</tei:q>
@@ -3007,7 +3010,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">161,14</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>hätten herausgeben sollen</tei:q>
@@ -3018,7 +3021,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">168,24</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>geschlossen hätten</tei:q>
@@ -3029,7 +3032,7 @@
         <tei:seg> A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">152,15-16</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>glaubte er</tei:q>
@@ -3046,7 +3049,9 @@
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Auf die</tei:seg>
-        <tei:hi style="font-weight-bold"> Sperrung von Eigennamen </tei:hi>
+        <tei:hi style="font-weight-bold"> </tei:hi>
+        <tei:seg>Sperrung von Eigennamen</tei:seg>
+        <tei:hi style="font-weight-bold"> </tei:hi>
         <tei:seg>wird in A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
         <tei:seg> und A</tei:seg>
@@ -3072,7 +3077,7 @@
         <tei:q> Vater</tei:q>
         <tei:seg>). Insgesamt weisen beide späteren Auflagen zur Orientierung im Text oder zur Betonung von Begriffen bzw. Inhalten eine häufigere Sperrung auf:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">115,15</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Statthalter von Teschulumbo</tei:q>
@@ -3082,7 +3087,7 @@
         <tei:hi style="sup">2</tei:hi>
         <tei:seg> gesperrt</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">6,7-8</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Sie waren nicht minder die Väter des jungen Mädchens</tei:q>
@@ -3092,7 +3097,7 @@
         <tei:hi style="sup">2</tei:hi>
         <tei:seg> gesperrt</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">53,15</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>mit den Reizen</tei:q>
@@ -3113,7 +3118,7 @@
         </tei:hi>
         <tei:hi style="font-style-italic"> Reizen</tei:hi>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">105,24-25</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>daß eines Dalai Lama der Umgang mit dem weiblichen Geschlechte gänzlich unwürdig ist</tei:q>
@@ -3135,14 +3140,13 @@
         <tei:q>und ihm verboten</tei:q>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-weight-bold">Fehler im Satzbau</tei:hi>
-        <tei:seg>, die auch in A</tei:seg>
+        <tei:seg>Fehler im Satzbau, die auch in A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
         <tei:seg> noch unbehoben waren, wurden in A</tei:seg>
         <tei:hi style="sup">2</tei:hi>
         <tei:seg> korrigiert:</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">182,3-5</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>Er kostet die Suppe</tei:q>
@@ -3158,7 +3162,7 @@
         <tei:hi style="sup">2</tei:hi>
         <tei:seg>)</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="font-weight-bold">190,21-22</tei:hi>
         <tei:seg> </tei:seg>
         <tei:q>insofern an seinen Verbrechen</tei:q>
@@ -3719,10 +3723,10 @@
         <tei:hi style="sup">2</tei:hi>
         <tei:seg> gestrichen</tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+      <tei:head data-heading-id="3. Quellen und Folien" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>3. Quellen und Folien  </tei:seg>
       </tei:head>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+      <tei:head data-heading-id="3.1. Quellen" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>3.1. Quellen</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3746,7 +3750,7 @@
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Schi-King. Chinesisches Liederbuch, gesammelt von Confucius, dem Deutschen angeeignet von Friedrich Rückert. Altona: Hammerich, 1833. </tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+      <tei:head data-heading-id="3.2. Folien" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>3.2. Folien</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3767,7 +3771,7 @@
       <tei:head data-heading-id="4.1. Dokumente zur Entstehungsgeschichte" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="4.1.1. Aloys Clemens, Ehen in Thibet" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+      <tei:head data-heading-id="4.1.1. Aloys Clemens, Ehen in Thibet, 26. Januar 1833" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>4.1.1. Aloys Clemens, Ehen in Thibet, 26. Januar 1833 </tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3778,8 +3782,8 @@
         <tei:foreign>Yugdon</tei:foreign>
         <tei:seg>), ohne daß die Harmonie der Ehe dadurch gestört wird.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="4.1.2. Karl Gutzkow, Rezension von Morier, März 1833" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
-        <tei:seg> 4.1.2. Karl Gutzkow, Rezension von Morier, März 1833</tei:seg>
+      <tei:head data-heading-id="4.1.2. Karl Gutzkow, Rezension von Morier, 8. März 1833" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg> 4.1.2. Karl Gutzkow, Rezension von Morier, 8. März 1833</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>[Karl] G[utzkow]: Zohrab, der Geißel. Aus dem Englischen Morier’s, des Verfassers des Hadschi Baba, von Johann Sporschill [recte: Sporschil]. Drei Bände. Braunschweig, Vieweg, 1832. In: Literatur-Blatt. Stuttgart u. Tübingen. Nr. 26, 8. März 1833, S. 103-104; Nr. 27, 11. März 1833, S. 105-106. (Rasch 3.33.03.08)</tei:seg>
@@ -4033,10 +4037,9 @@
         <tei:seg> [149] </tei:seg>
         <tei:q>In der That, wie viel besser würde der Autor mit seinen Anfängen gefahren sein, hätte er z. B. diese Manier, beim Schildern und Charakterisiren stets die Phantasie mitwirken zu lassen – sie ist bekanntlich die poetische – auf die Geschichte eines schlesischen Gutsbesitzers angewendet, seine Gylluspa Valeska oder Wanda getauft und die Schicksale derselben an einen Criminalproceß über vereitelte Erbschaftshoffnungen geknüpft!</tei:q>
       </tei:p>
-      <tei:head data-heading-id="4.3. Entstehungsgeschichte" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+      <tei:head data-heading-id="4.3. Entstehungsgeschichte" first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>4.3. Entstehungsgeschichte</tei:seg>
       </tei:head>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
       <tei:head data-heading-id="5. Rezeption" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
@@ -4242,7 +4245,7 @@
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>▄[Anon.:] Schöne Literatur. Stuttgart u. Tübingen, b. Cotta: Maha Guru. Geschichte eines Gottes von Carl Gutzkow. 2 Theile. In: Allgemeine Literatur-Zeitung. Halle u. Leipzig. 1834, Bd. 3, Nr. 212, Dezember 1834, Sp. 480. (Rasch 14/3.34.12.1)▀ </tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+      <tei:head data-heading-id="5.1.2.5. F. Marlow, 9. Juli 1835" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>5.1.2.5.  F. Marlow, 9. Juli 1835</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -4399,16 +4402,33 @@
         <tei:seg>Karl Gutzkow: Rückblicke auf mein Leben. Hg. von Peter Hasubek. Münster: Oktober Verl., 2006. (Gutzkows Werke und Briefe, Abt. VII, Bd. 3) </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Die Examina an sich fürchtete der Gewinner eines akademischen Preises [Gutzkow selbst] nicht; aber der bewegte Horizont der Zukunft ließ ihm den Athem nicht frei. Nur noch auf die anbrechende große Zeit war sein Sinnen gerichtet, auf häusliches Arbeiten, Lesen, Excerpiren Selbstversuchen im Schreiben, lyrisches und dramatisches Dichten. Unregelmäßiger wurden die Collegia, die er „belegt“ hatte, besucht. Bücher, Zeitschriften ersetzten das ermattende Studium der Brotwissenschaften. Ging auch das letztere immer noch auf eine Oberlehrerstelle, die in der That im Jahre 1833 ambirt wurde [...], so war doch schon von mir „Maha Guru, Geschichte eines Gottes“ (und sogar beim Schiller-Goethe-Verleger Cotta) erschienen, worauf dann Examinandus seine Meldung zur mündlichen Prüfung zurücknahm. (S. 13-14)</tei:seg>
+        <tei:q>Die Examina an sich fürchtete der Gewinner eines akademischen Preises</tei:q>
+        <tei:seg> [Gutzkow selbst] </tei:seg>
+        <tei:q>nicht; aber der bewegte Horizont der Zukunft ließ ihm den Athem nicht frei. Nur noch auf die anbrechende große Zeit war sein Sinnen gerichtet, auf häusliches Arbeiten, Lesen, Excerpiren Selbstversuchen im Schreiben, lyrisches und dramatisches Dichten. Unregelmäßiger wurden die Collegia, die er „belegt“ hatte, besucht. Bücher, Zeitschriften ersetzten das ermattende Studium der Brotwissenschaften. Ging auch das letztere immer noch auf eine Oberlehrerstelle, die in der That im Jahre 1833 ambirt wurde [...], so war doch schon von mir „Maha Guru, Geschichte eines Gottes“ (und sogar beim Schiller-Goethe-Verleger Cotta) erschienen, worauf dann Examinandus seine Meldung zur mündlichen Prüfung zurücknahm.</tei:q>
+        <tei:seg> (S. 13-14)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Eine Anerkennung für meinen „Maha Guru“, der für Jeden langweilig sein mußte, dem nicht sein Bildungsstandpunkt das aufgewendete Material von Interesse machte, hatte ich nicht gesucht. Als Wolfgang Menzel das Buch besprach, wählte er unter den Vignetten, die auf den einzelnen Nummern seines Blattes abzuwechseln pflegten, einen Lorbeerkranz und ließ zweimal meinen Namen hineinsetzen. Das konnte mir bei dem Ansehen des Morgenblattes genügen. (S. 132)</tei:seg>
+        <tei:q>Eine Anerkennung für meinen „Maha Guru“, der für Jeden langweilig sein mußte, dem nicht sein Bildungsstandpunkt das aufgewendete Material von Interesse machte, hatte ich nicht gesucht. Als Wolfgang Menzel das Buch besprach</tei:q>
+        <tei:seg> [vgl. 5.1.2.3.]</tei:seg>
+        <tei:q>, wählte er unter den Vignetten, die auf den einzelnen Nummern seines Blattes abzuwechseln pflegten, einen Lorbeerkranz und ließ zweimal meinen Namen hineinsetzen. Das konnte mir bei dem Ansehen des Morgenblattes genügen.</tei:q>
+        <tei:seg> (S. 132)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Dieser scharfsinnige Kopf [Gustav Schlesier] nun [...] sagte mir eines Tages, als ich in Leipzig war und sogar bei Laube selbst wohnte: „Uebrigens sind Sie in Ihrer Production auf dem Holzwege! Sie ahmen Voltaire und Diderot nach! Voltaire und Diderot haben sich als ästhetische Muster überlebt; Sie brauchen ja nur an Wieland zu denken. Ihr „Maha Guru“ liest sich wie Zadig oder Candide. Herzblut müssen Sie zeigen! Den Charakter der Gegenwart treffen! Sich Ihre Brust aufreißen! Nur „modern“, specifisch „modern“ muß der Schriftsteller von heute sein! Die deutsche Literatur darf nur noch den Weg wandeln, den allen Literaturen Europas die Baronin Dudevant, Georg Sand, vorgezeichnet hat!</tei:seg>
+        <tei:q>Dieser scharfsinnige Kopf</tei:q>
+        <tei:seg> [Gustav Schlesier, vgl. 5.1.2.1.] </tei:seg>
+        <tei:q>nun</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>sagte mir eines Tages, als ich in Leipzig war und sogar bei Laube selbst wohnte: „Uebrigens sind Sie in Ihrer Production auf dem Holzwege! Sie ahmen Voltaire und Diderot nach! Voltaire und Diderot haben sich als ästhetische Muster überlebt; Sie brauchen ja nur an Wieland zu denken. Ihr „Maha Guru“ liest sich wie Zadig oder Candide. Herzblut müssen Sie zeigen! Den Charakter der Gegenwart treffen! Sich Ihre Brust aufreißen! Nur „modern“, specifisch „modern“ muß der Schriftsteller von heute sein! Die deutsche Literatur darf nur noch den Weg wandeln, den allen Literaturen Europas die Baronin Dudevant, Georg Sand, vorgezeichnet hat!</tei:q>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Sprach’s – und sein Wort schmetterte mich nieder. [...] Mein mächtig mich fortreißendes „Herzblut“ kannte ich vollkommen, es wallte und wogte bei jeder Gelegenheit, wo die Ideen der neuen Zeit im Spiele waren. Hatte ich aber einen nur darstellenden Zweck, die Aufgabe einer Erzählung, eine künstlerische Absicht, so dämmte ich die Wallungen des Herzens zurück, legte seinem mächtigen Pulsschlage Mäßigung auf [...] . Nicht aus Kälte des Gemüthes beschränkte ich mich. Es war die nachhaltige, von mir so oft den Andern empfohlene Scheu vor den Gesetzen der Kunst. [...] Dennoch muß ich gestehen, daß Gustav Schlesiers Auslassung meine Vorrede zu Schleiermachers Briefen über die Lucinde und die Wally veranlaßte. (S. 18-19)</tei:seg>
+        <tei:q>Sprach’s – und sein Wort schmetterte mich nieder.</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>Mein mächtig mich fortreißendes „Herzblut“ kannte ich vollkommen, es wallte und wogte bei jeder Gelegenheit, wo die Ideen der neuen Zeit im Spiele waren. Hatte ich aber einen nur darstellenden Zweck, die Aufgabe einer Erzählung, eine künstlerische Absicht, so dämmte ich die Wallungen des Herzens zurück, legte seinem mächtigen Pulsschlage Mäßigung auf</tei:q>
+        <tei:seg> [...]</tei:seg>
+        <tei:q>. Nicht aus Kälte des Gemüthes beschränkte ich mich. Es war die nachhaltige, von mir so oft den Andern empfohlene Scheu vor den Gesetzen der Kunst.</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>Dennoch muß ich gestehen, daß Gustav Schlesiers Auslassung meine Vorrede zu Schleiermachers Briefen über die Lucinde und die Wally veranlaßte.</tei:q>
+        <tei:seg> (S. 18-19)</tei:seg>
       </tei:p>
       <tei:head data-heading-id="5.2.1.2. Karl Gutzkow, 1834" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg> 5.2.1.2. Karl Gutzkow, 1834</tei:seg>
@@ -4417,10 +4437,10 @@
         <tei:seg>Karl Gutzkow: Vorrede. In: Novellen. Hg. von Gert Vonhoff. Münster: Oktober Verl., 2017 (= Gutzkows Werke und Briefe. Abt. I, Bd. 3). S. 6-7.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Es ist sehr dunkel und unanständig auf den Gassen Deutschlands. Alles macht sich durch die Göttin der Gelegenheit. Diese trat einst zu einem jungen blonden Manne und sprach zu ihm also:</tei:seg>
+        <tei:q>Es ist sehr dunkel und unanständig auf den Gassen Deutschlands. Alles macht sich durch die Göttin der Gelegenheit. Diese trat einst zu einem jungen blonden Manne und sprach zu ihm also:</tei:q>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>„Du gabst Narrenbriefe heraus, welche selbst für Kluge zu gescheut waren. Du schriebst eine Göttergeschichte, und die Welt ist zu ab- und gegengöttisch, als daß Du Dich damit bei ihr empfehlen könntest. Du brütest schon über neuen Plänen, welche an Unpopularität die frühern noch überbieten dürften. Sieh Dich vor! Verscherze Dein Talent nicht! Zu den Bedürfnissen steige herab, laß Deine Götter Menschen werden, gleich uns! Gieb Dir um keinen Preis den Anstrich der Neuheit, sondern wirf Dich in die abgetragenen Kleider Deiner Vorgänger! Erfinde Dir allerhand kleine Anekdoten, lüge Dir Zeit, Ort, Stunde, Menschen zusammen, schreibe Novellen! Laß Deinen kalmückischen Namen immer mit gothischen Lettern drucken, sprich im Lapidarstyl von Dir selbst, und laß Dich an allen Orten und Ecken erblicken. Dann wird man sich nicht mehr vergessen über die Stirn fahren, wenn man Deinen Namen nennt. Sondern mit unauslöschlichen Zügen wirst Du dann in dem Gedächtniß einiger tausend Menschen leben, welche über die Unsterblichkeit zu Gericht sitzen.“</tei:seg>
+        <tei:q>„Du gabst Narrenbriefe heraus, welche selbst für Kluge zu gescheut waren. Du schriebst eine Göttergeschichte, und die Welt ist zu ab- und gegengöttisch, als daß Du Dich damit bei ihr empfehlen könntest. Du brütest schon über neuen Plänen, welche an Unpopularität die frühern noch überbieten dürften. Sieh Dich vor! Verscherze Dein Talent nicht! Zu den Bedürfnissen steige herab, laß Deine Götter Menschen werden, gleich uns! Gieb Dir um keinen Preis den Anstrich der Neuheit, sondern wirf Dich in die abgetragenen Kleider Deiner Vorgänger! Erfinde Dir allerhand kleine Anekdoten, lüge Dir Zeit, Ort, Stunde, Menschen zusammen, schreibe Novellen! Laß Deinen kalmückischen Namen immer mit gothischen Lettern drucken, sprich im Lapidarstyl von Dir selbst, und laß Dich an allen Orten und Ecken erblicken. Dann wird man sich nicht mehr vergessen über die Stirn fahren, wenn man Deinen Namen nennt. Sondern mit unauslöschlichen Zügen wirst Du dann in dem Gedächtniß einiger tausend Menschen leben, welche über die Unsterblichkeit zu Gericht sitzen.“</tei:q>
       </tei:p>
       <tei:head data-heading-id="5.2.1.3. Gutzkow an Gustav Schlesier, 16. Januar 1835" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg> 5.2.1.3. Gutzkow an Gustav Schlesier, 16. Januar 1835</tei:seg>
@@ -4432,9 +4452,12 @@
         <tei:seg>UBFM, Nachlass Karl Gutzkow, A 2 I, Nr. 35,16 (H)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Meine Narrenbriefe wurden doch geboren in einer aufgeregten Zeit, wo man überall hörte </tei:seg>
-        <tei:foreign>Qui vit</tei:foreign>
-        <tei:seg>? u seine Parole sagen mußte: aber später schickt’ es sich doch, einzulenken, in die Form, in die Einheit, in die Kunst: Mein Maha Guru mag so arg sein, wie Sie ihn geschildert haben, aber er verrätht doch die Sehnsucht nach dem Ganzen u Abgerundeten. </tei:seg>
+        <tei:q>Meine Narrenbriefe wurden doch geboren in einer aufgeregten Zeit, wo man überall hörte </tei:q>
+        <tei:foreign>
+          <tei:q>Qui vit</tei:q>
+        </tei:foreign>
+        <tei:q>? u seine Parole sagen mußte: aber später schickt’ es sich doch, einzulenken, in die Form, in die Einheit, in die Kunst: Mein Maha Guru mag so arg sein, wie Sie ihn geschildert haben, aber er verrätht doch die Sehnsucht nach dem Ganzen u Abgerundeten.</tei:q>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="5.2.1.4. Gutzkow an Gustav Schlesier, 10. Juli 1835" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>5.2.1.4. Gutzkow an Gustav Schlesier, 10. Juli 1835</tei:seg>
@@ -4446,7 +4469,10 @@
         <tei:seg>UBFM, Nachlass Karl Gutzkow, A 2 I, Nr. 35,190 (H, maschA)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>In den Blättern f. l. Unt. steht eine Kritik über Maha Guru. Daß Schufte, Weiber u Magister an den Blättern arbeiten wußt’ ich; aber jezt lern’ ich auch einen Wahnsinnigen kennen. Kann ein Vernünftiger das geschrieben haben, was dort über mich conjekturirt wird? </tei:seg>
+        <tei:q>In den Blättern f. l. Unt. steht eine Kritik über Maha Guru</tei:q>
+        <tei:seg> [vgl. 5.1.2.5.]</tei:seg>
+        <tei:q>. Daß Schufte, Weiber u Magister an den Blättern arbeiten wußt’ ich; aber jezt lern’ ich auch einen Wahnsinnigen kennen. Kann ein Vernünftiger das geschrieben haben, was dort über mich conjekturirt wird?</tei:q>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="5.2.1.5. Karl Gutzkow, 1839" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>5.2.1.5. Karl Gutzkow, 1839</tei:seg>
@@ -4455,12 +4481,17 @@
         <tei:seg>Karl Gutzkow: Vergangenheit und Gegenwart. 1830-1838. In: Jahrbuch der Literatur. Erster Jahrgang. 1839. Mit H. Heine’s Bildniß. Hamburg: Hoffmann u. Campe, 1839. S. 1-110. (Rasch 4.39.1)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Kap.: Gedanken im Kerker (Wörtlich aus meinem Tagebuche entnommen, als ich hörte, daß meine Schriften von Preußen für immer verboten wären). (= eGWB, Abt. IV, Bd. 6.2, pdf 1.0, S. 49).</tei:seg>
+        <tei:seg>Kap.: </tei:seg>
+        <tei:q>Gedanken im Kerker (Wörtlich aus meinem Tagebuche entnommen, als ich hörte, daß meine Schriften von Preußen für immer verboten wären)</tei:q>
+        <tei:seg>. (= eGWB, Abt. IV, Bd. 6.2, pdf 1.0, S. 49).</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Noch einmal aber überschlich mich der schöne Traum einer gesellschaftlichen Wirksamkeit. Ich gebe Alles auf, ich fange wieder von Vorn an, werde Jurist und setze mich zu den Studenten in Heidelberg und München, aber ich hatte zu tief den Becher der Freiheit gekostet; den Tag schenkt’ ich Justinian, die Nacht den Musen. Die Nacht verzehrte den Tag; ich versank in eine Subjektivität, die nur eine einzige objektive [82] Grundlage hatte, das Unglück. Ein Vorhang darüber! Die mein Herz get ödtet haben, tragen die Schuld, daß ich mit todtem Herzen denken, dichten konnte. Ich bin wieder in Berlin. Mich versteht Niemand. Alles, was in meinen Knaben- und Jünglingserinnerungen verflochten ist, rennt der Krippe des Staates zu; jedes Wort, das ich höre, ist knapp, kurz, zugemessen, ganz in der herzlosen Art, die man am Rhein die preußische nennt. Maha Guru existirt nicht, selbst bei denen nicht, denen ich das Buch in die Hand gab. Ich werde verwildern; ja schon </tei:seg>
-        <tei:hi style="letter-sparse">hass</tei:hi>
-        <tei:seg>’ ich die Bildung, der ich mein Denken verdanke. </tei:seg>
+        <tei:q>Noch einmal aber überschlich mich der schöne Traum einer gesellschaftlichen Wirksamkeit. Ich gebe Alles auf, ich fange wieder von Vorn an, werde Jurist und setze mich zu den Studenten in Heidelberg und München, aber ich hatte zu tief den Becher der Freiheit gekostet; den Tag schenkt’ ich Justinian, die Nacht den Musen. Die Nacht verzehrte den Tag; ich versank in eine Subjektivität, die nur eine einzige objektive Grundlage hatte, das Unglück. Ein Vorhang darüber! Die mein Herz getödtet haben, tragen die Schuld, daß ich mit todtem Herzen denken, dichten konnte. Ich bin wieder in Berlin. Mich versteht Niemand. Alles, was in meinen Knaben- und Jünglingserinnerungen verflochten ist, rennt der Krippe des Staates zu; jedes Wort, das ich höre, ist knapp, kurz, zugemessen, ganz in der herzlosen Art, die man am Rhein die preußische nennt. Maha Guru existirt nicht, selbst bei denen nicht, denen ich das Buch in die Hand gab. Ich werde verwildern; ja schon </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>hass</tei:q>
+        </tei:hi>
+        <tei:q>’ ich die Bildung, der ich mein Denken verdanke.</tei:q>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="5.2.2. Zeitgenössische Zeugnisse" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>5.2.2. Zeitgenössische Zeugnisse</tei:seg>
@@ -4474,10 +4505,10 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>[239] [...] Man hat Gutzkow mit Voltaire verglichen und seinen Schriften die giftigsten Folgerungen entnommen. [...] Sind sie wirklich der Art, wie man sie bezeichnet hat, so hat Deutschland vorzüglich von ihnen nichts zu fürchten; denn gewisse Dinge liegen dem deutschen Volke fern. [...] Die Intelligenz wird sich nicht durch sie bestimmen lassen, für die [240] Einfalt der Menge sind diese Poesieen nicht faßlich genug, an der Nichtswürdigkeit ist endlich nichts zu verführen.</tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0.4" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die „Lucinde“ Schlegels, die „Candide“ Voltaire’s [...] und unzählige andere Schriften der Art haben in Deutschland keine Resultate hervorgerufen, trotz dem, daß man ihre Vorzüge würdigte. Und die meisten jener Schriften waren weit populärer, weit faßlicher für die Menge gehalten, als die „Wally“. Jezt erst sucht man die Wally zu lesen [...]. Aber Gutzkow’s „Maha-Guru“, der doch im Grunde nichts Anderes, als die „Wally“ enthält: eine Verspottung der socialen Verhältnisse und der Offenbarung ging spurlos an seiner Zeit vorüber, weil die Kritik, statt mit dem Schwerte der Vernichtung diese Erscheinung zu bekämpfen, sie mit dem Lorbeer poetischer Weihe umkränzte. Wolfgang </tei:seg>
         <tei:hi style="letter-sparse">Menzel</tei:hi>
-        <tei:seg>, der das Anathem über „Wally“ aussprach, war eben jener Kritiker, der dem „Maha-Guru“ nur Preis und Ruhm zu spenden hatte. Dort, oder hier muß Einseitigkeit, oder Persönlichkeit im Spiele gewesen seyn; denn wie lassen sich zwei so entgegengesezte Urtheile über dieselben Tendenzen in Einklang bringen?</tei:seg>
+        <tei:seg>, der das Anathem über „Wally“ aussprach, war eben jener Kritiker, der dem „Maha-Guru“ nur Preis und Ruhm zu spenden hatte [vgl. 5.1.2.3.]. Dort, oder hier muß Einseitigkeit, oder Persönlichkeit im Spiele gewesen seyn; denn wie lassen sich zwei so entgegengesezte Urtheile über dieselben Tendenzen in Einklang bringen?</tei:seg>
       </tei:p>
       <tei:head data-heading-id="5.2. Rezeptionsgeschichte" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
