@@ -171,7 +171,7 @@ def check_editor_transition(doc, errors):
         if 'type' not in ref.attrib and 'target' not in ref.attrib:
             errors.append('Reference without target found')
         else:
-            if 'type' in ref.attrib and ref.attrib['type'] not in ('esv', 'footnote', 'external'):
+            if 'type' in ref.attrib and ref.attrib['type'] not in ('esv', 'footnote', 'external', 'global'):
                 errors.append('Old reference found')
             if 'type' not in ref.attrib and ref.attrib['target'] != '#global':
                 errors.append('Reference to unknown target')
