@@ -128,6 +128,16 @@ def check_footnotes(doc, errors):
             errors.append('Empty footnote')
 
 
+def check_references(doc, errors):
+    """Check that references are valid."""
+    markup = doc.xpath('//tei:ref[@type="esv"]', namespaces=ns)
+    for ref in markup:
+        if 'target' not in ref.attrib:
+            errors.append('Reference missing a target')
+        elif not doc.xpath('//tei:interp[@xml:id="{0}"]'.format(ref.attrib['target'][1:]), namespaces=ns):
+            errors.append('Reference to missing footnote {0}'.format(ref.attrib['target']))
+
+
 def check_source_lists(doc, errors):
     """Check that the source lists are valid."""
     markup = doc.xpath("//tei:list[@type='sources']", namespaces=ns)
@@ -243,6 +253,7 @@ for basepath, _, filenames in walk('content'):
                 check_revision_descriptions(doc, file_errors)
                 check_page_number_markup(doc, file_errors)
                 check_footnotes(doc, file_errors)
+                # check_references(doc, file_errors)
                 check_source_lists(doc, file_errors)
                 check_readings(doc, file_errors)
                 check_editor_transition(doc, file_errors)
