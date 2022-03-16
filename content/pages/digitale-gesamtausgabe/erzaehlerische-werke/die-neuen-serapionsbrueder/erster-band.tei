@@ -1450,7 +1450,7 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Jetzt sah man auch schon das rothe gedunsene Angesicht des Wirths an den Fensterscheiben der Küche, die in den kleinen mit großen Topfgewächsen geschmückten Hof ging. Graf Udo brach schnell ab und empfahl sich mit Ottomar, der ihn begleitete. Udo nahm seinen Arm. Vater und Tochter blickten ihnen erstaunend nach.</tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-3">
+      <tei:head data-heading-id="Fünftes Kapitel" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-3">
         <tei:pb n="97"/>
         <tei:seg> Fünftes Kapitel.</tei:seg>
       </tei:head>
@@ -3855,7 +3855,9 @@
           <tei:q>, man wirft sich Blicke zu, die einem sonst ganz fremd waren, kurz, man wird rachsüchtig, zänkisch, grob, trotzig wider Willen, und nimmt einen Charakter an, der sich in das bürgerliche Leben, in die Staatsverwaltung, in Alles hinüberzieht. Wenn in Preußen Hingebung und Vertrauen eine seltenere Tugend werden sollte, so sind einzig die Berliner Granittrottoirs daran Schuld. Man vernichte sie!</tei:q>
           <tei:seg> (Karl Gutzkow: Briefe und Skizzen aus Berlin (1832-1834). Hg. von Wolfgang Rasch. Bielefeld: Aisthesis-Verlag, 2008. S. 109). Von der zeitgenössischen Kritik ist die </tei:seg>
           <tei:q>Trottoirkrankheit</tei:q>
-          <tei:seg> durchweg als Kuriosum registriert worden (→ die Kritik Rudolf Gottschalls, 5.1.19.).</tei:seg>
+          <tei:seg> durchweg als Kuriosum registriert worden (→ die Kritik Rudolf Gottschalls, </tei:seg>
+          <tei:ref data-heading-id="5.1.19." type="global">5.1.19.</tei:ref>
+          <tei:seg>).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-2">
@@ -3867,7 +3869,7 @@
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Berlin, seit 1871 Hauptstadt des Deutschen Reiches, ist neben dem vermutlich süddeutschen Weilheim (→ Erl. zu </tei:seg>
-          <tei:seg>187,32</tei:seg>
+          <tei:ref data-heading-id="# 187,32" type="global">187,32</tei:ref>
           <tei:seg>) der Schauplatz des Romans. Gutzkow spielt auf die Herkunft des Namens an: Berlin geht auf ,Wehr‘ (Damm) zurück, die Bezeichnung einer Siedlung in sumpfigem Gelände.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -3923,7 +3925,11 @@
           <tei:seg>]</tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Mit den Anführungszeichen deutet Gutzkow die Unzuverlässigkeit der Herkunftsbezeichnung an, nämlich angesichts der Praxis, Weine zu mischen (→ Erl. zu 32,3-4). Diese Art der Hervorhebung ist ein wichtiges Stilelement des Romans, das von der üblichen Kennzeichnung von Zitaten zu unterscheiden ist (→ Globalkommentar, 6.1.2.).</tei:seg>
+          <tei:seg>Mit den Anführungszeichen deutet Gutzkow die Unzuverlässigkeit der Herkunftsbezeichnung an, nämlich angesichts der Praxis, Weine zu mischen (→ Erl. zu </tei:seg>
+          <tei:ref target="#annotation-67" type="esv">32,3-4</tei:ref>
+          <tei:seg>). Diese Art der Hervorhebung ist ein wichtiges Stilelement des Romans, das von der üblichen Kennzeichnung von Zitaten zu unterscheiden ist (→ Globalkommentar, </tei:seg>
+          <tei:ref target="# GLK 6.1.2." type="external">6.1.2.</tei:ref>
+          <tei:seg>).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-8">
@@ -3934,7 +3940,9 @@
           <tei:seg>]</tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>Darwin bezeichnet mit dem Begriff „struggle for life“ das Prinzip der „natural selection“ („natürlichen Auslese“), das den Lauf der Evolution bestimmt. Wieweit Gutzkow, über geläufige Schlagworte hinaus, mit der Evolutionstheorie vertraut war, bleibt zweifelhaft. Im Roman gehört sie, wie die Philosophie Eduard von Hartmanns (Darwin bezeichnet mit dem Begriff „struggle for life“ das Prinzip der „natural selection“ („natürlichen Auslese“), das den Lauf der Evolution bestimmt. Wieweit Gutzkow, über geläufige Schlagworte hinaus, mit der Evolutionstheorie vertraut war, bleibt zweifelhaft. Im Roman gehört sie, wie die Philosophie Eduard von Hartmanns (→ Erl. zu 282,15-16), zu jenen modernen Strömungen, die er für unvereinbar mit seinen liberalen Grundsätzen halten musste; sie werden daher der mentalen Grundausstattung des Referendars Dieterici zugerechnet und als Modeerscheinung ironisiert. </tei:seg>
+          <tei:seg>Darwin bezeichnet mit dem Begriff „struggle for life“ das Prinzip der „natural selection“ („natürlichen Auslese“), das den Lauf der Evolution bestimmt. Wieweit Gutzkow, über geläufige Schlagworte hinaus, mit der Evolutionstheorie vertraut war, bleibt zweifelhaft. Im Roman gehört sie, wie die Philosophie Eduard von Hartmanns (Darwin bezeichnet mit dem Begriff „struggle for life“ das Prinzip der „natural selection“ („natürlichen Auslese“), das den Lauf der Evolution bestimmt. Wieweit Gutzkow, über geläufige Schlagworte hinaus, mit der Evolutionstheorie vertraut war, bleibt zweifelhaft. Im Roman gehört sie, wie die Philosophie Eduard von Hartmanns (→ Erl. zu </tei:seg>
+          <tei:ref data-heading-id="# 282,15-16" type="global">282,15-16</tei:ref>
+          <tei:seg>), zu jenen modernen Strömungen, die er für unvereinbar mit seinen liberalen Grundsätzen halten musste; sie werden daher der mentalen Grundausstattung des Referendars Dieterici zugerechnet und als Modeerscheinung ironisiert. </tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-9">
@@ -4313,9 +4321,9 @@
           <tei:seg>] </tei:seg>
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>→ Abs. ,Zeitgeist und Zigarre bei Gutzkow‘, Art. ,Zigarre‘, </tei:seg>
-          <tei:ref type="external">Lexikon</tei:ref>
-          <tei:seg>.</tei:seg>
+          <tei:seg>→ Abs. ,Zeitgeist und Zigarre bei Gutzkow‘, Art. </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/zigarre.html" type="external">,Zigarre‘</tei:ref>
+          <tei:seg>, eGWB, Lexikon.</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-38">
@@ -4399,7 +4407,7 @@
         </tei:p>
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Vorbild für den Hofmaler Triesel war der damals schon berühmte Adolph Menzel (→ Bilder: </tei:seg>
-          <tei:ref type="external">Zeitgenossen Gutzkows</tei:ref>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/FMenzelA.html" type="external">Zeitgenossen Gutzkows</tei:ref>
           <tei:seg>). Gutzkow schreibt am 25. Dezember 1877 an Hermann Costenoble bezüglich der Suche nach einem Illustrator von </tei:seg>
           <tei:q>Uriel Acosta</tei:q>
           <tei:seg> oder </tei:seg>
@@ -7203,7 +7211,9 @@
           <tei:q>Zauberer von Rom</tei:q>
           <tei:seg> schildert Gutzkow den Gottesdienst der von Hedemann gegründeten deutschkatholischen Gemeinde und erinnert an den </tei:seg>
           <tei:q>„Trierschen Rock“</tei:q>
-          <tei:seg>, dessen Verehrung 1814 das Signal für die Gründung der Deutschkatholiken gab (vgl. eZvR, Achtes Buch, Zweites Kap., pdf 1.0, S. 2368,11-19).</tei:seg>
+          <tei:seg>, dessen Verehrung 1814 das Signal für die Gründung der Deutschkatholiken gab (vgl. eZvR, </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/erzaehlerische-werke/der-zauberer-von-rom/achtes-buch.html" type="external">Achtes Buch</tei:ref>
+          <tei:seg>, Zweites Kap.; GWB I, Bd. 11.3, S. 2368,11-19).</tei:seg>
         </tei:p>
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-267">
@@ -7739,7 +7749,7 @@
       </tei:interp>
       <tei:interp type="esv" xml:id="annotation-308">
         <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-          <tei:seg>142,13-15 </tei:seg>
+          <tei:citedRange type="page-line-ref">142,13-15 </tei:citedRange>
           <tei:citedRange type="word-range">Das Wort Liebe war […] aus seinem philosophischen Wörterbuche gestrichen.]</tei:citedRange>
           <tei:seg> </tei:seg>
         </tei:p>
@@ -8560,9 +8570,6 @@
         <tei:sic>in welke Hand</tei:sic>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
-        <tei:seg>Vermerk des Herausgebers: 269,14, 526,23 und 541,18 sind in der ersten Auflage des Textbandes (2002) noch nicht berichtigt.</tei:seg>
-      </tei:p>
       <tei:head data-heading-id="2.1.2. Problemfälle" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-4">
         <tei:seg>2.1.2. Problemfälle</tei:seg>
       </tei:head>
@@ -8582,9 +8589,132 @@
         <tei:hi style="sup">2</tei:hi>
         <tei:seg>.</tei:seg>
       </tei:p>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-4">
+      <tei:head data-heading-id="Errata" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In der 2002 erschienenen Erstauflage des Druckbandes (GWB I, Bd. 17) sind die folgenden Druckfehler zu verbessern: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">3-15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="font-weight-bold">Fußzeile</tei:hi>
+        </tei:lem>
+        <tei:lem> Guzkow</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Gutzkow</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">29,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>drei3ßigtausend</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">dreißigtausend</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">49-63</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="font-weight-bold">Kopfzeile</tei:hi>
+        </tei:lem>
+        <tei:lem> ERSTES BUCH</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">ERSTER BAND</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">103-117</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="font-weight-bold">Kopfzeile</tei:hi>
+        </tei:lem>
+        <tei:lem> ERSTES BAND</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">ERSTER BAND</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">241,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>CIaqueurs</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Claqueurs</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">252,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Sanitatsrath</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Sanitätsrath</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">306,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>bringen ums Gedanken</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">bringen uns Gedanken</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">309,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Scblüssel</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Schlüssel</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">313-343</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="font-weight-bold">Kopfzeile</tei:hi>
+        </tei:lem>
+        <tei:lem> ZWEITES BAND</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">ZWEITER BAND</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">547,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>aus einer Pfanne</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">aus Einer Pfanne</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die in der Erstauflage des Druckbandes (GWB I, Bd. 17) auf den Seiten 627-628 abgedruckte Liste der „Textänderungen“ ist folgendermaßen zu ergänzen: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">269,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß  erst</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">das</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">526,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vater</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Vaters</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">541,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ramberg</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Romberg</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Im Supplementband zu den </tei:seg>
         <tei:q>Neuen Serapionsbrüdern</tei:q>
@@ -9062,8 +9192,7 @@
         <tei:seg> und </tei:seg>
         <tei:q>Der Zauberer von Rom</tei:q>
         <tei:seg> (→ Globalkommentar, </tei:seg>
-        <tei:ref data-heading-id="Globalkommentar 6.1.2." type="global">6.1.2.</tei:ref>
-        <tei:ref type="global">: Der Roman des Nebeneinander - Tradition und Differenz)</tei:ref>
+        <tei:ref data-heading-id="#GLK 6.1.2." type="global">6.1.2.: Der Roman des Nebeneinander - Tradition und Differenz)</tei:ref>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>E.T.A. Hoffmann: Die Serapionsbrüder. Gesammelte Erzählungen und Mährchen. 4 Bände. Berlin: Reimer, 1819-21</tei:seg>
@@ -9085,9 +9214,9 @@
         <tei:seg>3.2. Anspielungshorizonte</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Gutzkows Aufenthalt in Berlin in den Jahren 1869-1873, erstmals wieder Wohnsitz seit 1834; Krankheit, familiäre und finanzielle Probleme (→ </tei:seg>
-        <tei:ref data-heading-id="Globalkommentar 6.1.1." type="global">Globalkommentar</tei:ref>
-        <tei:seg>, 6.1.1.: Déformation professionnelle und Pathologie der Gesellschaft)</tei:seg>
+        <tei:seg>Gutzkows Aufenthalt in Berlin in den Jahren 1869-1873, erstmals wieder Wohnsitz seit 1834; Krankheit, familiäre und finanzielle Probleme (→ Globalkommentar, </tei:seg>
+        <tei:ref data-heading-id="#GLK 6.1.1." type="global">6.1.1.: Déformation professionnelle und Pathologie der Gesellschaft</tei:ref>
+        <tei:seg>)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Berliner Gesellschaft der Gründerzeit in den Jahren nach dem deutsch-französischen Krieg</tei:seg>
@@ -9113,12 +9242,8 @@
         <tei:seg>)</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Die Musik Richard Wagners (→ </tei:seg>
-        <tei:ref type="global">
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/wagner.html" type="external">Lexikon</tei:ref>
-        </tei:ref>
-        <tei:seg>, </tei:seg>
-        <tei:ref data-heading-id="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/wagner.html" type="global">Art. ,Wagner‘</tei:ref>
+        <tei:seg>Die Musik Richard Wagners (→ Lexikon, </tei:seg>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/wagner.html" type="external">Art. ,Wagner‘</tei:ref>
         <tei:seg>) als Ausdruck eines rückwärtsgewandten, die gesellschaftliche Wirklichkeit romantisierenden Kunstverständnisses</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
