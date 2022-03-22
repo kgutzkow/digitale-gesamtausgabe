@@ -102,7 +102,7 @@ def check_page_number_markup(doc, errors):
             if len(pb) == 0:
                 errors.append('Page begin markup without page number attribute')
         else:
-            if not re.fullmatch('[IVX0-9]+\\??', pb.attrib['n']):
+            if not re.fullmatch('[IVX0-9]+\\??', pb.attrib['n']) and pb.attrib['n'].lower() != 'neue seite':
                 errors.append('Page begin markup with invalid page number {0}'.format(pb.attrib['n']))
     markup = doc.xpath('//tei:hi', namespaces=ns)
     for hi in markup:
@@ -110,7 +110,7 @@ def check_page_number_markup(doc, errors):
             styles = hi.attrib['style'].split(' ')
             if 'font-style-italic' in styles:
                 text = hi.xpath('text()')
-                if text and re.fullmatch('.*\[[IVX0-9]+\].*', text[0]):
+                if text and re.fullmatch('\s*\[[IVX0-9]+\]\s*', text[0]):
                     errors.append('Page number marked up as italic highlight')
 
 

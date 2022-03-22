@@ -42,24 +42,24 @@
   <tei:text>
     <tei:body>
       <tei:head first-line-indent="0" margin-bottom="1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-3" type="esv">E. L. Bulwer</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-3" type="esv">
+          <tei:hi style="letter-sparse">E. L. Bulwer</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">’</tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">s</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">s</tei:hi>
+        </tei:ref>
       </tei:head>
       <tei:head first-line-indent="0" margin-bottom="1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Werke</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Werke</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">.</tei:ref>
       </tei:head>
       <tei:head first-line-indent="0" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" type="level-2">
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Supplemen</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Supplemen</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">t</tei:ref>
       </tei:head>
       <tei:head first-line-indent="0" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" type="level-3">
@@ -77,12 +77,12 @@
         <tei:seg> </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-style-italic">[neue Seite]</tei:hi>
+        <tei:pb n="neue Seite"/>
       </tei:p>
       <tei:head first-line-indent="0" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" type="level-2">
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-4" type="esv">Notiz</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-4" type="esv">
+          <tei:hi style="letter-sparse">Notiz</tei:hi>
+        </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -97,7 +97,7 @@
         <tei:seg>, kann es keine andere Buchhandlung in Deutschland herausgeben, ohne dem wohlerworbenen Verlagsrechte der Erstern zu nahe zu treten. </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:hi style="font-style-italic">[neue Seite]</tei:hi>
+        <tei:pb n="neue Seite"/>
       </tei:p>
       <tei:head first-line-indent="0" margin-bottom="1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:seg>Die Zeitgenossen. </tei:seg>
@@ -107,9 +107,9 @@
       </tei:head>
       <tei:head first-line-indent="0" margin-bottom="1.5" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:hi style="letter-sparse">ihre </tei:hi>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-8" type="esv">großen Charaktere</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-8" type="esv">
+          <tei:hi style="letter-sparse">großen Charaktere</tei:hi>
+        </tei:ref>
         <tei:seg>. </tei:seg>
       </tei:head>
       <tei:head first-line-indent="0" margin-bottom="1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
@@ -157,9 +157,9 @@
         <tei:ref target="#annotation-2" type="esv">ob es ein abgeschlossenes Buch oder ein Journal werden wird,</tei:ref>
         <tei:seg> so veranlaßt mich dazu außer </tei:seg>
         <tei:hi style="letter-sparse">.......</tei:hi>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-9" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-9" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:seg>)</tei:seg>
         <tei:seg> besonders </tei:seg>
         <tei:ref target="#annotation-10" type="esv">die gleiche Richtung, in der sich unsre Wünsche zu begegnen pflegen</tei:ref>
@@ -252,13 +252,13 @@
         <tei:seg> ist kein Defizit an Vernunft, sondern Uebervernunft, die uns bei schlechter Laune albern, bei guter zuweilen recht ergötzlich erscheint. Von Sprache </tei:seg>
         <tei:pb n="XIII"/>
         <tei:seg> z. B. ist nirgends mehr die Rede, alle Verhältnisse, die gelehrten wie die gesellschaftlichen, haben ihren Jargon. Die Religion hat ihren Jargon, die Moral, die Politik, die Industrie, die Liebe. Man kann sich mit Redensarten weit kürzer und bequemer ausdrücken, als wenn man vernünftig spricht. Man gähnt, man sagt eine Stelle aus Hamlet, man ruft: </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Sehr</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Sehr</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">,</tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-36" type="esv"> sehr!</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-36" type="esv">
+          <tei:hi style="letter-sparse"> sehr!</tei:hi>
+        </tei:ref>
         <tei:seg> und man hat beinahe eine Rede gehalten. Denn Jeder, der eingeweiht ist, versteht diese Abkürzungen und Citate. Ein Vernünftiger hält zwei Menschen, die sich auf diese Weise durch Knurren, Schnalzen, Gähnen und einige unartikulirte Interjektionen ihre Ansichten und Gefühle wechselseitig zu ver­stehen geben, für verrückt, während sich doch diese Leute vor­trefflich mit einander unterhalten. Ich kenne zwei junge Gentlemen, welche durchaus nicht wie Sprößlinge einer reichen Primogenitur le­ben können, die sich im Gegentheile noch </tei:seg>
         <tei:ref target="#annotation-37" type="esv">unter dem Loose jün­gerer Söhne</tei:ref>
         <tei:seg> befinden und tüchtig rudern müssen, um zu schwim­men. Sie haben unendlich viel Erfah­rungen durchzu-</tei:seg>
@@ -310,9 +310,9 @@
         <tei:seg> Individualitäten unter den Zeitgenossen zusammen in einen großen Trog, wie man die Kartoffeln zusammenstampft und preßt, bis ihre Quintessenz, aus der man Mehl, Zucker, Aquavit bereits gemacht hat und vielleicht sogar auch Fleisch machen wird, ihre </tei:seg>
         <tei:ref target="#annotation-51" type="esv">Medulla</tei:ref>
         <tei:seg>, wie die Alten auch vom Kern der Menschen sagten, herausgedrückt ist. Für diesen Durchschnitts­charakter der Zeit stellen sie dann ihre guten Leh­ren auf, die sie mit Stellen aus antiker und mittelalterlicher Weisheit zu erhärten suchen. Dieß Verfahren hat uns eben so viel geistreiche Köpfe wie Charlatane kennen gelehrt. Ich billig’ es nicht. Ich mag meine lieben guten Nachbarn, die so wenig Lärm machen und wenn nicht durch das Parlament, doch durch die Kirche mit der Zeit zusammenhängen, ich mag meinen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-52" type="esv">Comte - prolétaire</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-52" type="esv">
+          <tei:foreign>Comte - prolétaire</tei:foreign>
+        </tei:ref>
         <tei:seg> und meine bei­den Holländer nicht um ihr Stimmrecht in den Angelegenheiten des Jahrhunderts bringen. Sie gehören mit dazu, wenn sie sich auch nur durch ihre Ruhe, durch ihre Thorheit oder durch ihre Steuern, welche sie zahlen, auszeichnen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -339,9 +339,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Auch auf </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-54" type="esv">große Charakter</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-54" type="esv">
+          <tei:hi style="letter-sparse">große Charakter</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">e</tei:ref>
         <tei:seg> macht’ ich Jagd; allein die Sechzehnender sind auf unsern </tei:seg>
         <tei:hi style="letter-sparse">ausgeschossene</tei:hi>
@@ -368,9 +368,9 @@
         <tei:pb n="XXIV"/>
         <tei:seg>wortlich bin. </tei:seg>
         <tei:ref target="#annotation-64" type="esv">An Unterhaltung wird es nur für Miß </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">***</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">***</tei:hi>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv"> in meinem Buche fehlen</tei:ref>
         <tei:seg>; denn ich bin noch immer nicht im Stande, es die­ser Dame recht zu machen. Sie verachtet meine Schriften, weil sie nur das schildern, was man alle Tage selbst sehen kann. Mich beunruhigt dieß, weil es möglich ist, daß sie, eines Tages einmal ihre Frühlinge zählend, sich noch entschließt, Schriftstellerin zu werden, und es mir gehen würde, wie </tei:seg>
         <tei:ref target="#annotation-65" type="esv">Orpheus unter den Mänaden</tei:ref>
@@ -385,9 +385,9 @@
         <tei:seg>Ihr ergebenster Diener</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-right">
-        <tei:hi style="font-weight-bold">
-          <tei:ref target="#annotation-67" type="esv">E. L. B.</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-67" type="esv">
+          <tei:hi style="font-weight-bold">E. L. B.</tei:hi>
+        </tei:ref>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:ref target="#annotation-68" type="esv">Herfortstreat, im October 1836</tei:ref>
@@ -667,7 +667,7 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Es gibt auch schwankende Charaktere in unsrer Zeit, die zwar die Mittel, aber den Muth nicht haben, oder von beiden Erfordernissen nur eine kleine Quantität. Diese ungewissen Menschen zu beobachten, erregt Lachen und Mitleiden zugleich. Sie sind unausgesetzt auf der Freite, wie Lord Bubbleton. Dieser edle Herr besitzt nur ein geringes Vermögen; doch würd’ es, wenn er noch eine Richterstelle annähme, hinreichend seyn, ihn, seine Frau, vielleicht auch zwei Kinder, wo aber kaum für eines Wahrscheinlichkeit vorhanden ist, zu ernähren. Zuweilen glaubt er dieß, zuweilen zweifelt er daran. Sie werden heirathen, My­lord? fragt’ ich ihn. Niemals; antwortete er entschieden. Auch Miß Eliza nicht? Wer ist Miß Eliza? Hier mußte man ihn sehen. Die kahle Platte des Kopfes überzog sich plötzlich mit einem üppigen Haarwuchs. Die zusammengeschrumpfte Gestalt glät­tete sich auf. Ein sanftes Roth flog über die trocknen Wangen. Er zog in lebhafter Unruhe seine Handschuhe aus und an, und zupfte so lange an seinen Manschetten, bis ich ihn erinnern mußte, daß sein Hemde zum Vorschein käme. Lord Bubbleton hatte eine </tei:seg>
         <tei:pb n="38"/>
-        <tei:seg> neue Hoffnungsblase. Ich sprach Vielerlei von Miß Eliza; aber gleichsam als käme ihm jede recht, er hörte nicht darauf, sondern schien in ein tiefes mit Zahlen be­schäf­tigtes Nachdenken versunken. Er rechnete an den Fingern und hielt, um sich die einzelnen Posten zu merken, einen Rockknopf nach dem andern fest, so daß er die Hunderte nicht verwech­selte. Endlich warf er seinen Kopf auf und rief mit einem Lächeln, was an Verklärtheit grenzte: </tei:seg>
+        <tei:seg> neue Hoffnungblase. Ich sprach Vielerlei von Miß Eliza; aber gleichsam als käme ihm jede recht, er hörte nicht darauf, sondern schien in ein tiefes mit Zahlen be­schäf­tigtes Nachdenken versunken. Er rechnete an den Fingern und hielt, um sich die einzelnen Posten zu merken, einen Rockknopf nach dem andern fest, so daß er die Hunderte nicht verwech­selte. Endlich warf er seinen Kopf auf und rief mit einem Lächeln, was an Verklärtheit grenzte: </tei:seg>
         <tei:foreign>Yes, Sir!</tei:foreign>
         <tei:seg> Er hatte sich überzeugt, daß er es wagen durfte. Er schlüpfte unter meinen Arm und zog mich fort, ihn mit Miß Eliza bekannt zu machen. Ich that es, weil ich die Wünsche dieser Dame hinlänglich kannte. Sie sahen sich öfters, Miß Eliza hatte ein kleines Ver­mögen, Lord Bubbleton rechnete, die Seifenblase zerplatzte und er war so resignirt, wie früher.</tei:seg>
       </tei:p>
@@ -1009,9 +1009,9 @@
         <tei:seg> weil anders sein Freund nicht neben ihm sitzen kann. Man hat schon oft gefürchtet, daß er bei strengen Jahreszeiten aus Demokratie erfrieren würde. Die Herzogin ist nicht von besonders hohem Stande, aber sie hätte jetzt wohl Anspruch darauf, da sie die herzogliche Würde durch ein enormes Vermögen, das sie dem Herzog zubrachte, erkaufte. Allein ihr Gemahl entzieht ihr jeden ebenbürtigen Umgang. Er ladet ihr oft Theevisiten ein, wo die Weiber erscheinen, von welchen das Geschirr, das auf dem Tische steht, gekauft wurde. Seine Kinder, die nachgrade zu wachsen anfangen, sind nicht ohne Unterricht; aber sie erhalten ihn nur, weil sie einst ihr Brod selbst verdienen sollen. Der älteste, der junge Lord John, ist bei einem Tischler in die Lehre gegeben. Er soll alle Jahre ein anderes Handwerk erlernen und den Sultan, der nur eins versteht, weit zu übertreffen suchen. Man ist noch immer nicht darüber beruhigt, ob nicht der Vater doch noch einen seiner oft ausgesprochenen Lieblingswünsche in Erfüllung bringen wird; nämlich der herzoglichen Würde zu entsagen und in Leeds ein Fabrikarbeiter zu werden. Seine Gat­tin wird kein anderes Mittel wissen, als in Leeds eine Adresse an ihn mit Unterschriften bedecken zu lassen, worin ihm die Arbeiter für seinen Entschluß danken, ihm aber ernstlich anrathen, lieber ihrem Verdienste zuweilen eine Zulage zu geben, als ihn zu verringern durch seine gewiß unentgeltliche Concurrenz. Den Herzog in ein Narrenhaus zu sperren, wird sich nicht machen, weil in diesem Falle </tei:seg>
         <tei:pb n="93"/>
         <tei:seg> ein Aufstand des gemeinen Volks zu befürchten steht; Vernunft ist das, was die Menge dafür halten will </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-17" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-17" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:ref target="#footnote-2" type="footnote">).</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
@@ -1076,9 +1076,9 @@
         <tei:seg>Wenn mir durch eine Erfahrung dieß Phänomen recht klar gemacht wird, so ist es das Bild einer jüdischen Familie, die berühmt genug in der Handelswelt ist, als daß ich nicht gestehen sollte, sie mehr als oberflächlich zu kennen. Hier wird ein scharfer Beobachter leicht drei Abstufungen der Bildung wahrnehmen können, drei Abstufungen, die zu gleicher Zeit die verschiedenen Phasen unsrer Zeit veranschaulichen. Im Hintergrunde steht ein alter </tei:seg>
         <tei:pb n="106"/>
         <tei:seg> Patriarch, der Großvater des Hauses, ein schlichter, rein an jüdische Sitte haltender Greis. Sein Anblick erregt Ehrfurcht. Sein weißes Haar, ein kurzer Bart, von dem er sich nicht trennen kann, sein dreieckiger Hut, sein Gang, sein röthlicher Rock, Alles dieß ruft eine verschwundene Zeit zurück, die nirgends weniger noch zu ahnen wäre, als in dem Hause, wo der alte Patriarch noch immer die erste Person ist, wo alle Extravaganzen der Mode ihren duftenden Tempel finden, wo Teppiche und Tapeten als Unterlagen einer Pracht dienen, die selbst von den Häusern der reichsten Würdenträger unserer Krone nicht wiedergegeben werden kann. Im Vorgrunde dagegen steht der Sohn des Hauses, ein bildschöner junger Mann, der dem charakteristischen Ausdruck eines Italieners mehr gleicht, als einem Juden. Der Großvater heißt Moses, dieser Enkel Moritz. Moritz spricht die meisten neuern Sprachen, zeichnet, malt, ist Virtuose auf dem Pianoforte, componirt, dichtet, er ist ein Genie. Und dieß noch nicht einmal genug! Moritz ist sogar Schwärmer, Enthusiast mit der Reverbère der Melancholie. Er fühlt sich unglücklich. Er verachtet seinen Reichthum, seine Eltern sogar, die ihn zusammenscharren. Er steht, kaum wissend, daß er Jude ist, an der Spitze eines Comité’s zur Emanzipation der Israeliten. Er hat Herrn Grant </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-18" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-18" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:seg>) einen Wagen mit </tei:seg>
         <tei:pb n="107"/>
         <tei:seg> sechs Pferden schenken wollen, wenn dieser nicht ein so guter Fußgänger wäre. Kurz, Moritz ist ein Kind des Tages und des Jahrhunderts, wenn das Letztere seinen schwärmerischen Zug behaupten sollte.</tei:seg>
@@ -1373,7 +1373,7 @@
         <tei:seg>Im Allgemeinen will ich gern meine Schwäche eingestehen, die innere Natur des sogenannten Modernen zu ergründen. Vorzugsweise das Neue ist es nicht. Es ist, wie wir schon sagten, oft genug das Alte, wenn auch im neuen Sinne genommen. Es ist ein so flatterhafter, leichtsinniger Begriff, daß man ihn kaum bis zu einer erschöpfenden Definition zügeln kann. Modern ist meine Weste, modern aber auch eine Anschauung, die ich hier oder da geäußert habe. Ich habe mich dabei so ziemlich auf die Höhe unsrer Zeit gestellt und eine Sache so beurtheilt, wie man es von einem Bürger des neunzehnten Jahrhunderts erwarten konnte. Gut, dann möchte das Moderne doch wohl Alles zusammenfassen, was die neue Zeit erstrebt, und in dem Augenblicke, wo es das Alte in Schutz nimmt, eben eine Toleranz üben, die unserm heutigsten Heute angehören sollte? Wie dem auch sey, praktische Beispiele werden den Begriff klarer machen, als Definitionen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Das Moderne gegen die Antike genommen, ist eine negative Verfahrungsweise. Wir brauchen nur das Alterthum zu schildern und werden von dem Unterschiede leicht auf das Moderne schließen können. Eine Tragödie zu schreiben, in welcher ein Chor die Stelle der Zuschauer übernimmt und reflektirt, eine Tragödie, die </tei:seg>
+        <tei:seg>Das Moderne gegen die Antike genommen, ist eine negative Verfahrungweise. Wir brauchen nur das Alterthum zu schildern und werden von dem Unterschiede leicht auf das Moderne schließen können. Eine Tragödie zu schreiben, in welcher ein Chor die Stelle der Zuschauer übernimmt und reflektirt, eine Tragödie, die </tei:seg>
         <tei:pb n="156"/>
         <tei:seg> mit Klaglauten angefüllt ist und statt Handlung überhaupt nur Schicksal vorstellt, das wäre nicht modern. Näher steht schon das Shakespearische Drama, das romantische. Das moderne Zeitalter hat den Ruhm, die Romantik erst richtig begriffen zu haben. Dieß macht denn wohl, daß eine moderne Tragödie mehr von Skakespeare, als von Sophokles entlehnen würde. Dennoch gibt es eine speziell moderne Tragödie, in der Form, wie im Inhalt. Schiller, Göthe, Byron haben Tragödien geschrieben, wenn auch sie noch mehr in philologischen und ästhetischen Vorurtheilen befangen gewesen seyn mögen. Sie bahnten den Weg zu einer entschiedenen Betrachtung der mensch­lichen Schicksale und zu einer Form, die den Verwickelungen und plötzlichen Schlägen unsres jetzigen Lebens durch eben so schroffe und überraschende Eigenschaften entgegenkömmt, zu einer Form, die im Allgemeinen in den Dramen der Pariser Schauspiele noch fratzenhaft karrikirt auftritt, allmählich aber zu einer schönen und heitern Rundung sich ausbilden dürfte. Poetische Combinationen neuerer Zustände in natürlicher und origineller Sprache nennen wir moderne Poesie. Dieß ist ein Begriff, der sich allmählich aller europäischen Literatur bemächtigt hat und sich hoffentlich zu einer unsrer Zeit beschiedenen und sehr nöthigen größeren Kunstentfaltung ausbilden wird.</tei:seg>
       </tei:p>
@@ -1410,9 +1410,9 @@
         <tei:seg>n gerettet sind! Wunder­barer Zusammenhang zwischen unserm Gott, unsrer Unsterb­lich­keit, unserm Wucher und unserer Staatsschulden­tilgungs­theorie! der </tei:seg>
         <tei:foreign>Sinking found</tei:foreign>
         <tei:seg> </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-19" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-19" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:seg>) ist längst eine Chimäre. Das Kapi­tal, hätten wirs, würde uns nur in Verlegenheit bringen; hätten wir die Wahrheit, wir wüßten nicht, wo wir sie unterbringen sollten. Darum lebe der Zinsfuß, der halbjährige Coupon und die dreiprozentige ewige Rente!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1726,7 +1726,7 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:pb n="204"/>
-        <tei:seg> Die Verbindungen der Handwerker, um die Arbeitspreise auf der Höhe eines von ihnen selbst angesetzten Tarifs zu erhalten, haben mehr Verbreitung gefunden. Sie sind meist immer veranlaßt worden durch einige philanthropische oder auch demagogische Theoretiker, in England durch die Owensche Nützlichkeitsphilosophie, in Frankreich durch die Clubbs, die, von poli­tischen Ideen ausgehend, sich Material schaffen mußten im Volke, um sie durchzuführen. Vor zwei Jahren haben aber beide einen har­ten Stoß erlitten, der sie so ziemlich mit Vergessenheit bedeckte. Die Associationen der französischen Handwerker verbluteten sich in Lyon. Die Culmination der eng­lischen war die große Prozession in demselben Jahre, die vom Copenhagenfeld zu Lord Melbourne wallfahrtete, um ihm eine Adresse an den König zur Abstellung oder Milderung einer allzuschweren Strafe einiger ihrer Brüder vorzulegen. Vielleicht löste die Scham diese Verbindung auf: denn beschämend war es, eine Anzahl von nahe an 100,000 zu bilden, und sich so gebückt, artig und hungrig durch die Straßen zu schleichen, wie es jene Arbeiter thaten. Die Vorstellung eines großen Handwerksbundes war drohender, als der Anblick. Statt Furcht fing man an Mitleiden mit diesen Armen zu empfinden. Als mehrere Sektionen von ihnen, die immer eine ganze Zunft vorstellten, sich weigerten, zu einem von den Meistern bestimmten Preise zu arbeiten, engagirten diese Frauenzimmer. Das Risiko war hier für die Gesellen so groß, wie die Schande. </tei:seg>
+        <tei:seg> Die Verbindungen der Handwerker, um die Arbeitspreise auf der Höhe eines von ihnen selbst angesetzten Tarifs zu erhalten, haben mehr Verbreitung gefunden. Sie sind meist immer veranlaßt worden durch einige philanthropische oder auch demagogische Theoretiker, in England durch die Owensche Nützlichkeitsphilosophie, in Frankreich durch die Clubbs, die, von poli­tischen Ideen ausgehend, sich Material schaffen mußten im Volke, um sie durchzuführen. Vor zwei Jahren haben aber beide einen har­ten Stoß erlitten, der sie so ziemlich mit Vergessenheit bedeckte. Die Associationen der französischen Handwerker verbluteten sich in Lyon. Die Culmination der eng­lischen war die große Prozession in demselben Jahre, die vom Coppenhagenfeld zu Lord Melbourne wallfahrtete, um ihm eine Adresse an den König zur Abstellung oder Milderung einer allzuschweren Strafe einiger ihrer Brüder vorzulegen. Vielleicht löste die Scham diese Verbindung auf: denn beschämend war es, eine Anzahl von nahe an 100,000 zu bilden, und sich so gebückt, artig und hungrig durch die Straßen zu schleichen, wie es jene Arbeiter thaten. Die Vorstellung eines großen Handwerksbundes war drohender, als der Anblick. Statt Furcht fing man an Mitleiden mit diesen Armen zu empfinden. Als mehrere Sektionen von ihnen, die immer eine ganze Zunft vorstellten, sich weigerten, zu einem von den Meistern bestimmten Preise zu arbeiten, engagirten diese Frauenzimmer. Das Risiko war hier für die Gesellen so groß, wie die Schande. </tei:seg>
         <tei:pb n="205"/>
         <tei:seg> Sie mußten eilen, um jeden Preis zu ihren Arbeiten zurückzukehren, weil sie sie sonst entweder besetzt gefunden oder die Anzüglichkeit hätten ertragen müssen, das zu leisten, was Frauenzimmer auch vermögen.</tei:seg>
       </tei:p>
@@ -1848,9 +1848,9 @@
         <tei:seg>, Tiek? Würden Sie nicht alle menschlich genug empfinden, zu sagen: Besser, es war nie ein Shakespeare da, als daß seinetwegen die Harmonie der behaglichen Existenz in der Welt gehindert wäre, besser, wir alle sind unbekannt und müssen hinterm Pfluge gehen, als daß unsertwegen </tei:seg>
         <tei:pb n="223"/>
         <tei:seg> eine Aristokratie der Geister etablirt werde, die auf hundert Menschen immer neunzig Darbende brächte </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-1" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-1" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:ref target="#footnote-1" type="footnote">)</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
@@ -1950,9 +1950,9 @@
         <tei:seg>Dieser innere Entdeckungsgeist wurde vorzüglich von der noch immer fabelhaften Geographie Afrika’s angelockt. Das Innere von Afrika ist in der Geographie von Herodot, bis sogar in die neuesten Zeiten, in die Zeiten der Lander und Clapperton der geographische Stein der Weisen gewesen. Homer und Herodot sahen in Afrika nur eine unbestimmte, vage Ausdehnung, von schwarzen Aethiopen bewohnte Grenze des in ihrer geographischen Vorstellung lebenden Erdtellers. Die Neger waren ihnen die Söhne jener Nacht, welche rings den Erdkreis umgibt. Spätere Geographen, freilich noch aus der Kindheit der Wissenschaft, wollten wenigstens ein Ende dieser Nacht sehen und umrandeten Afrika mit einer großen Mauer, um welche Sonne und Mond ihren Kreislauf halte. Erst später ahnte man, daß Afrika die Form jenes pythagoräischen Satzes hat, daß das Quadrat der Katheten gleich sey dem Quadrat der Hypotenuse. Allmählich lernte man die Küste des Landes kennen; aber Alles, was man von dem Innern </tei:seg>
         <tei:pb n="239"/>
         <tei:seg> des Landes spricht, ist noch unentdeckt, ist nur Ahnung und so gut wie fabelhafte Ueberlieferung. Doch soll es ungeheure Seen geben, Flüsse, in welchen sich fruchtbare Wälder spiegeln, Sprachen und Religionen der wunderbarsten Zusammensetzung. Schon arabische Schriftsteller nannten, um ihre Achtung vor dem innern Afrika auszusprechen, dasselbe die Wiese der Vergoldung, die Grube der Edelsteine </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-28" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-28" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:seg>). Die Jesuiten und Portugiesen, welche späterhin das Innere Afrikas untersuchten, haben bei aller Entschlossenheit, die sie in ihren Entdeckungszügen an den Tag legten, doch immer den Eindruck hinterlassen, daß ihre Entdeckungen, bis man ihnen vollen Glauben schenken dürfte, erst von dem nüchternen Verstand der Neuern revidirt werden müßten. Alle Entdeckungen, die man in neurer Zeit in dieser Hinsicht mit so großer Aufopferung gemacht hat, lehnten sich immer noch mehr an die östliche Küste Afrika’s an. Die Bekanntwerdung Timbuktus und der Nigermündung gelang dem Franzosen Caillé und dem Märtyrer-Brüderpaar Lander. Vor ihnen hatte schon der Engländer Laing sein Leben dem afrikanischen Stein der Weisen geopfert. Caillé wurde durch einen von der Pariser geographischen Gesellschaft ausgestellten Preis zu seiner Entdeckungsreise angespornt. Er zog als Araber von Geburt, und nur von den Franzosen nach der egyptischen Expedition mit fortgenommen, in das Dunkel einer </tei:seg>
         <tei:pb n="240"/>
         <tei:seg> unbekannten Welt hinein. Er gebrauchte die Vorsicht, sich für einen Kaufmann auszugeben. Er verkaufte in Timbuktu seine Waaren, verzehrte aber das dafür eingelöste Geld und sah sich genöthigt zu betteln. Er pflegte sich an Karawanen als ein bescheidner, armer Hilfsbedürftiger anzuschließen. Auf diese Weise durchzog er durch glühende Sandwüsten das mittlere Afrika so weit, bis er endlich in den marokkanischen Raubstaaten wieder herauskam. Caillé’s Abenteuer sind um so interessanter, da es ihm an allen Vorkenntnissen, die zu einer Entdeckungsreise gehören würden, fehlte. Ein Wollaston würde wesentlichere Resultate aus Timbuktu zurückgebracht haben, aber auch Gefahr gelaufen seyn, von den miß­trauischen Einheimischen bei dem ersten Experiment, das er gemacht hätte, für einen Zauberer angesehen und darnach behandelt worden zu seyn. Im Allgemeinen ist das Bild, welches wir durch Caillé vom innern Afrika erhalten haben, ein wüstes und ödes. Die Städte sind in den tiefen Sand nur leise und mit Vorsicht eingesenkt. Die Hitze des Aequators treibt den Keim jeder nach Leben ringenden Vegetation in die allgemeine Asche des Erdreichs zurück. Selten, daß sich eine Pflanze einige Fuß über die mütterliche Erde hinauswagt. Nirgends der Gesang eines Vogels, Todtenstille auf den Straßen, die Grabesgedanken der egyptischen Welt in förmliche Verwesungsbegriffe gesteigert. Verläßt man die Stätte, so kann man wohl kennen lernen, wodurch im Menschen das religiöse Gefühl geweckt wird. Es ist </tei:seg>
@@ -2331,11 +2331,11 @@
         <tei:seg>Die Weisheit der alten und neuern Zeit ist reich an Maximen über Fürstenerziehung und Fürstenpflichten. Ja bei römischen Schriftstellern hat man oft nur nöthig, an </tei:seg>
         <tei:pb n="311"/>
         <tei:seg> die Stelle der dem souverainen Gemeindewesen gegebenen Rathschläge eine Personification zu unterschieben. So enthält Virgils Aeneide einen für Fürsten leicht anwendbaren Spruch: Mag der ein Erzgießer, der ein Bildhauer seyn, der ein Advokat, der ein Astronom: Du, o Römer, sey nur zu </tei:seg>
-        <tei:hi style="letter-sparse">herrschen</tei:hi>
+        <tei:hi style="letter-sparse">herrschen,</tei:hi>
         <tei:seg> eifrig beflissen! Die Alten hiel­ten nämlich Regierungskunst für ein besonderes Studium, und ihre Weisen stritten gegen den dem natürlichen Menschen inne­wohnenden Glauben, als sey Herrschen etwas Angeborenes. Auch glaubten sie, daß einem Könige nicht zieme, zu wetteifern mit Frauen, als ob er nämlich schön seyn solle, mit Advokaten, daß er gut zu reden nöthig hätte. Als Philipp von seinem Sohne Alexander hörte, daß er bei einem Festmahle trotz der besten Musiker gesungen hätte, machte er ihm Vorwürfe und sagte: Pfui der Schande, so gut zu singen!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Wir wollen die moralischen Vorschriften, welche man Fürsten gegeben hat, hier nicht wiederholen. Sie sind langweilig, weil wir sehen, daß Priester, Beichtväter und Erzieher die Thatsachen selten gekannt haben, auf welche ihre Lehren angewendet werden sollten. Kann der Unterricht z. B., der in den Abenteuern des Telemach versteckt liegt, für ein anderes Prinzenalter passen, als das zarteste! Die wahre Königsweisheit liegt tiefer als auf der Oberfläche der moralisirenden Rhetorik. Macchiavell hat die praktische Tendenz dieser Weisheit übertrieben, aber der unumstößliche Satz seines </tei:seg>
+        <tei:seg>Wir wollen die moralischen Vorschriften, welche man Fürsten gegeben hat, hier nicht wiederholen. Sie sind langweilig, weil wir sehen, daß Priester, Beichtväter und Erzieher die Thatsachen selten gekannt haben, auf welche ihre Lehren angewendet werden sollten. Kann der Unterricht z. B. der in den Abenteuern des Telemach versteckt liegt, für ein anderes Prinzenalter passen, als das zarteste! Die wahre Königsweisheit liegt tiefer als auf der Oberfläche der moralisirenden Rhetorik. Macchiavell hat die praktische Tendenz dieser Weisheit übertrieben, aber der unumstößliche Satz seines </tei:seg>
         <tei:hi style="letter-sparse">Fürsten</tei:hi>
         <tei:seg> bleibt doch der: Ein Fürst, der nur Herzensgüte besitzt, kann einen </tei:seg>
         <tei:pb n="312"/>
@@ -2348,14 +2348,14 @@
         <tei:pb n="313"/>
         <tei:seg> Harun al Raschid. Sie wallfahrteten nach den damaligen Mekka’s der Literatur, nach Ferney, Montmorency, </tei:seg>
         <tei:ref target="#annotation-1" type="esv">Düsseldor</tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">f</tei:ref>
-        </tei:hi>
-        <tei:hi style="letter-sparse">
-          <tei:hi style="sup">
-            <tei:ref target="#footnote-29" type="footnote">*</tei:ref>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">f</tei:hi>
+        </tei:ref>
+        <tei:ref target="#footnote-29" type="footnote">
+          <tei:hi style="letter-sparse">
+            <tei:hi style="sup">*</tei:hi>
           </tei:hi>
-        </tei:hi>
+        </tei:ref>
         <tei:hi style="letter-sparse">)</tei:hi>
         <tei:seg> </tei:seg>
         <tei:seg>und Weimar. Sie waren nicht so sehr Beschützer der Wissenschaft, als ihrem Dienste </tei:seg>
@@ -2711,9 +2711,9 @@
         <tei:seg> Rousseau irgend einen </tei:seg>
         <tei:hi style="letter-sparse">Hauptpunk</tei:hi>
         <tei:seg>t in seiner beabsichtigten Reform der Erziehungsmethode getroffen? Seine Schriften sind im Grunde alle weit mehr politischer als moralischer Natur. Daß die Frauen ihre Kinder selbst säugen, darum brauchte kein Prophet aufzustehen. Man brauchte deßhalb nur auf die Alten zu verweisen, nicht auf die Thiere </tei:seg>
-        <tei:hi style="sup">
-          <tei:ref target="#footnote-30" type="footnote">*</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-30" type="footnote">
+          <tei:hi style="sup">*</tei:hi>
+        </tei:ref>
         <tei:seg>).</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2778,7 +2778,7 @@
         <tei:hi style="letter-sparse">zwe</tei:hi>
         <tei:seg>i verschiedenen Seiten hin. Die Ehre, in Beziehung auf das Allgemeine, ist das Bestreben, nicht blos für einen braven, sondern auch gescheuten Menschen zu gelten. Unter diesem Gesichtspunkte geht Alles Hand in </tei:seg>
         <tei:pb n="386"/>
-        <tei:seg> Hand, was der Zögling an Fortschritten leistet. Kömmt hier noch die Ausbildung des Körpers hinzu, so braucht man niemals zu moralisiren und kann doch die Ueberzeugung haben, daß man Tüchtiges erzieht. Mit der Religion würde ich meinen Zögling erst spät in Berührung bringen, noch später mit dem Christenthum. Daß er vom Christenthum schon vieles weiß, hindre ich nicht. Er hat aus der Bibel lesen gelernt, aber ich reproducire noch lange nicht die Bibel mit ihm, ich trag’ ihm keine Dogmen vor; ich mach’ ihn erst für das Wesen der Religion empfänglich, eh’ ich ihn selbst Religion lehre. Das Lehren von Religion wird dann überhaupt erst in einem Stadium beginnen, wo ich nicht mehr Sorge tragen muß, daß mein Zögling erst aus den Lehren der Religion Religion </tei:seg>
+        <tei:seg> Hand, was der Zögling an Fortschritten leistet. Kömmt hier noch die Ausbildung des Körpers hinzu, so braucht man niemals zu moralisiren und kann doch die Ueberzeugung haben, daß man Tüchtiges erzieht. Mit der Religion würde ich meinen Zögling erst spät in Berührung bringen, noch später mit dem Christenthum. Daß er vom Christenthum schon vieles weiß, hindre ich nicht. Er hat aus der Bibel lesen gelernt, aber ich reproducire noch lange nicht die Bibel mit ihm, ich trag’ ihm keine Dogmen vor; ich mach’ ihn erst für das Wesen der Religion empfänglich, eh’ ich ihm selbst Religion lehre. Das Lehren von Religion wird dann überhaupt erst in einem Stadium beginnen, wo ich nicht mehr Sorge tragen muß, daß mein Zögling erst aus den Lehren der Religion Religion </tei:seg>
         <tei:hi style="letter-sparse">lerne</tei:hi>
         <tei:seg>. Diese muß er längst haben. Was ich ihm als Dogma gebe, darf nur entweder Geschichte oder Philosophie seyn. Ich werd’ ihm das Christenthum erklären. Ich werd’ ihn in einem Momente mit der Dreieinigkeit bekannt machen, wo er darin keine sinnliche Vorstellung mehr findet, sondern ein Philosophem. Ich werde ihm die Gottheit Christi nicht einprägen, sondern nur erklären. Ich werde nicht die Tollheit begehen und ihm dadurch Religion geben wollen, daß ich ihm die Dreieinigkeit und die Gottheit Christi zu </tei:seg>
         <tei:hi style="letter-sparse">moralische</tei:hi>
@@ -3052,7 +3052,7 @@
         <tei:pb n="435"/>
         <tei:seg> ihrerseits mit allen Ausbrüchen verletzter weiblicher Eitelkeit und spitzten dabei die Krallen ihrer kleinen Finger, um ihm, hätten sie ihn nur, die Augen auszukratzen. Mir war das Anstößigste bei der Sache im Augenblick nur die Gegen­wart des Bedienten, der diese ganze Scene nicht nur als Zuschauer betrachtete, sondern sogar eine Rolle darin mitspielte. Hilary (so hieß der Mensch) hatte den ganzen Aufsatz gelesen und schwur, dem Verfasser desselben seinen ruchlosen Hirnschädel einzuschlagen. Ich dagegen rieth zu einem Prozesse und verwies überdieß dem naseweisen jungen Manne die Einmischung in eine Angelegenheit, welche viel zu zarter Natur war, als daß man in das Geheimniß derselben hätte einen Bedienten hineinzieh’n sollen. Darüber fuhr mich Felicia sehr hart an und meinte, Hilary hätte sich von jeher besorgt genug um das Interesse der Familie bewiesen, um ihnen auch in einem solchen Unglück beizustehen. Schwester Bab war nun für den Menschen vollends ganz eingenommen und trug ihm auf, den Thee zu serviren, nicht etwa seiner Entfernung wegen, sondern weil doch noch ein Funken schwe­sterlicher Liebe in ihr übrig war, welcher sie trieb, irgend etwas zu thun, was doch einer Bewillkommnung ähnlich sah. Von einer Frage nach der Heimath, von Ihnen, ehrwürdiger Freund und Vetter, war, ach! wahrlich nicht die Rede. Ich erkundigte mich mehrmal nach Bruder Evan (Johann); allein ich bekam nur nothdürftig die Antwort, daß sie ihren leiblichen Bruder für ein den Einsturz drohendes </tei:seg>
         <tei:pb n="436"/>
-        <tei:seg> Haus hielt, unter welchem man sich scheue, lange zu verweilen. Ich klagte, daß er mir nun schon seit zehn Jahren nicht geschrieben hätte, und ich in Angst und Sorge lebte, wie ich von ihm würde aufgenommen werden. Statt mir Muth einzusprechen, schwieg meine Schwester; ich glaube, das Pasquill drückte ihr das Herz ab. In dem Augenblicke wurde die Thüre geöffnet, und Hilary brachte mit der freudigsten Miene von der Welt ein Packet von 15 bis 20 Briefen. Briefe zu empfangen, ist in der Stadt so angenehm, wie auf dem Lande. Hilary sagte auch: „Nun, Fräulein Cecily, hier ist ein ganzer Briefsteller an Sie angekommen; man möchte glauben, alle Ihre Anbeter befänden sich auf dem Lande und hätten den komischen Einfall gehabt, Ihnen an einem und demselben Tage zu schreiben.“ Meine älteste Nichte schien ein leidenschaftliches Mädchen zu seyn, das hatt’ ich schon an ihrem unsanften Oho wahrgenommen. Als man jedoch sah, daß alle Briefe nur an ihre Adresse gerichtet waren, bemächtigte sich unser aller ein blasser Schreck, denn unmöglich konnte es bei einer solchen Korrespondenz mit richtigen Dingen zugehen. Meine Schwester schoß wie ein Raubvogel vom Sopha auf, erbrach einen der Briefe und ließ ihn mit der Bemerkung fallen: „Jesus, das ist eine Fortsetzung des Satiristen!“ Ich hörte diese Bemerkung allein; denn die drei übrigen Schwestern waren in einen jähzornigen Streit gerathen, weil Cecily nicht zugeben wollte, daß eines von den Geschwistern sich herausnähme, ein an sie </tei:seg>
+        <tei:seg> Haus hielt, unter welchem man sich scheue lange zu verweilen. Ich klagte, daß er mir nun schon seit zehn Jahren nicht geschrieben hätte, und ich in Angst und Sorge lebte, wie ich von ihm würde aufgenommen werden. Statt mir Muth einzusprechen, schwieg meine Schwester; ich glaube, das Pasquill drückte ihr das Herz ab. In dem Augenblicke wurde die Thüre geöffnet, und Hilary brachte mit der freudigsten Miene von der Welt ein Packet von 15 bis 20 Briefen. Briefe zu empfangen, ist in der Stadt so angenehm, wie auf dem Lande. Hilary sagte auch: „Nun, Fräulein Cecily, hier ist ein ganzer Briefsteller an Sie angekommen; man möchte glauben, alle Ihre Anbeter befänden sich auf dem Lande und hätten den komischen Einfall gehabt, Ihnen an einem und demselben Tage zu schreiben.“ Meine älteste Nichte schien ein leidenschaftliches Mädchen zu seyn, das hatt’ ich schon an ihrem unsanften Oho wahrgenommen. Als man jedoch sah, daß alle Briefe nur an ihre Adresse gerichtet waren, bemächtigte sich unser aller ein blasser Schreck, denn unmöglich konnte es bei einer solchen Korrespondenz mit richtigen Dingen zugehen. Meine Schwester schoß wie ein Raubvogel vom Sopha auf, erbrach einen der Briefe und ließ ihn mit der Bemerkung fallen: „Jesus, das ist eine Fortsetzung des Satiristen!“ Ich hörte diese Bemerkung allein; denn die drei übrigen Schwestern waren in einen jähzornigen Streit gerathen, weil Cecily nicht zugeben wollte, daß eines von den Geschwistern sich herausnähme, ein an sie </tei:seg>
         <tei:pb n="437"/>
         <tei:seg> gerichtetes Siegel zu erbrechen. Meine Schwester hatte indessen mit den Zähnen so laut geknirscht, daß ich hier eine neue Verspottung ahnen mußte. Es erwies sich denn auch bald, daß alle diese Briefe von einer und derselben Feder herkamen, und nicht ein einziger derselben etwas anderes enthielt, als leeres Papier. „Bab, so beruhige dich doch“, suchte ich meine vor Wuth schäumende Schwester zu besänftigen. Cecily heulte über die schändliche Verspottung, und die beiden andern Geschwister mußten sich vor schadenfrohem Gelächter die Seiten halten. Gott, dachte ich, das ist eine schöne Wirth­schaft! ich wußte nicht, wo mir der Verstand blieb; ich sah nur zu gut ein, daß meine Schwestern und ihre Nichten durch ihren Hochmuth und ihre Albernheit sich einen Ruf mußten verschafft haben, der alle Welt herausforderte, mit ihnen Versteckens zu spielen. Meine Schwester zerknirrte die Spitzen ihrer Haube und schrie: „Das ist der Lümmel, der Macready, der irische Tölpel, der nicht gewußt hat, wie er sich rächen soll, und uns durch diese leeren Briefe an die Leerheit seines Kopfes erinnern will; der Unverschämte läßt auf jeder Poststation von hier nach Dublin in jedem Briefkasten eine inhaltslose Adresse an uns zurück, um sich den Spaß zu machen, daß er uns eine Viertelstunde geärgert hat.“ Aber, mein Gott, Bab, fiel ich ein, woher denn diese Animosität bei jungen Männern gegen dich und deine Familie? „Ach, Beck,“ antwortete meine Schwester, „das sind die Folgen einer vornehmen Lebensweise, die man sich muß </tei:seg>
         <tei:pb n="438"/>
@@ -3104,9 +3104,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ein Hausknecht begleitete mich in das Hotel desselben. Ich glaubte gegen die londoner Sitte nicht zu verstoßen, wenn ich fragte: „Ist er schon aufgestanden?“ Sein einziger Bedienter, ein alter mürrischer Gesell, lachte etwas höhnisch und sagte: „Um zehn Uhr? Seit sechs Uhr ist er schon in der Themse.“ Wie, frug ich, mein Bruder badet sich in dem Schlamm? Darauf entgegnete der Mensch etwas spitz: Bis jetzt hätte man noch keinen andern Fluß nach London bringen können, auch wäre die Themse so viele Jahrhunderte gut genug gewesen und käme ja auch aus der ersten Hand des Oceans. Inzwischen sagte ich, daß ich die Schwester seines Herrn wäre und auf ihn warten wolle. Ich setzte mich in einem kleinen Vorzimmer ohne Möbel nieder und empfand mit meinem Bruder das tiefste Mitleiden, daß er seiner Reinlichkeit wegen genöthigt wäre, sich in </tei:seg>
         <tei:pb n="449"/>
-        <tei:seg> einem so fürchter­lichen Flusse, wie die Themse ist, zu baden. Sie, ehrwürdiger Freund und Vetter, kennen das klare, muntre Gewässer, welches in unsrer Pine zu Hause plätschert, und doch spürt man es gleich, wenn einmal etwas Unreinliches hineingekommen ist. Nun denken Sie sich aber den Unrath von anderthalb Millionen Menschen, den Unrath des Viehs, was in London lebt, die Abgänge der Industrie, die vielen Selbstmörder, die sich von den Brücken hinunterstürzen, und Sie werden einen Ekel bekommen, wenn Sie nur einen Blick in diesen schwarzen Sumpf, den man die Themse nennt, hineinwerfen. Von dem Schlamm im Bett des weltberühmten Flusses steigen fortwährend bunte Bläschen auf, die deutlich genug die Fäulniß am Boden des Flusses verrathen, und in diese Lauge wirft sich mein Bruder hinein und wäscht seinen Körper, nicht ohne Gefahr, in eine schwimmende Insel von Unrath hineingerissen zu werden. Hier will er die Gesundheit holen, die er in hypochondrischer Verblendung verloren zu haben glaubt und die auch wirklich bei ihm untergraben seyn muß, denn er keuchte entsetzlich, als er die Treppe heraufkam. Mein Erstes war, ihm wegen der Themsebäder Vorwürfe zu machen; allein wie ich das sagte, kratzte er sich hinter den Ohren und sagte: „Schwester, wenn du deßhalb gekommen bist, um deine alten Litaneien fortzusetzen, dann sollst du nur bei Bab bleiben, denn die bedarf mehr Strafpredigten als ich. Ich finde es einmal für meinen Körper zuträglich, ihn nicht von </tei:seg>
+        <tei:seg> einem so fürchter­lichen Flusse, wie die Themse ist, zu baden. Sie, ehrwürdiger Freund und Vetter, kennen das klare, muntre Gewässer, welches in unsrer Pine zu Hause plätschert, und doch spürt man es gleich, wenn einmal etwas Unreinliches hineingekommen ist. Nun denken Sie sich aber den Unrath von anderthalb Millionen Menschen, den Unrath des Viehs, was in London lebt, die Abgänge der Industrie, die vielen Selbstmörder, die sich von den Brücken hinunterstürzen, und Sie werden einen Ekel bekommen, wenn Sie nur einen Blick in diesen schwarzen Sumpf, den man die Themse nennt, hineinwerfen. Von dem Schlamm im Bett des weltberühmten Flusses steigen fortwährend bunte Bläschen auf, die deutlich genug die Fäulniß am Boden des Flusses verrathen und in diese Lauge wirft sich mein Bruder hinein und wäscht seinen Körper, nicht ohne Gefahr, in eine schwimmende Insel von Unrath hineingerissen zu werden. Hier will er die Gesundheit holen, die er in hypochondrischer Verblendung verloren zu haben glaubt und die auch wirklich bei ihm untergraben seyn muß, denn er keuchte entsetzlich, als er die Treppe heraufkam. Mein Erstes war, ihm wegen der Themsebäder Vorwürfe zu machen; allein wie ich das sagte, kratzte er sich hinter den Ohren und sagte: „Schwester, wenn du deßhalb gekommen bist, um deine alten Litaneien fortzusetzen, dann sollst du nur bei Bab bleiben, denn die bedarf mehr Strafpredigten als ich. Ich finde es einmal für meinen Körper zuträglich, ihn nicht von </tei:seg>
         <tei:pb n="450"/>
-        <tei:seg> warmem Wasser, sondern von der frischen und klaren Quelle der Natur bespülen zu lassen. Ich bin durch langes Erproben meines ungesunden Körpers endlich dahin gekommen, daß ich den Gebrauch des kalten Wassers für die heilsamste Arznei halte, die man aus der Hand der Natur, eines bessern Arztes, als die Medicin, nur erhalten kann. Wie du mich hier siehst, liebe Schwester, leb’ ich nur vom Wasser. Des Morgens, so wie ich aufstehe, nehme ich eine allgemeine Waschung meines splitternackten Körpers vor. Ich lasse mich von meinem Bedienten mit einer eignen Vorrichtung bespritzen, die mir mein ingenieuser Verstand eingegeben hat. Ich habe nämlich eine Gießkanne zu diesem Zweck so aufgehängt und mit Wasser gefüllt, daß ich nackt in einem hölzernen Gefäße stehend, mich nur zu drehen und zu wenden brauche, um beständig von einem sanftkühlenden Sprudel erfrischt zu werden. Je mehr sich der Mensch dem Pflanzenleben nähert und sich wie von Gärtnershand pflegen läßt, desto besser gedeiht er. Während dieser Erquickung meines äußern Menschen trink ich innerlich zwei Quart gut filtrirten, aber von der Quelle kommenden Wassers. Nach diesem Vorschmack und Morgenimbiß geh’ ich wiedergeborner Mensch hinaus in eine Badanstalt der Themse. Es würde bei weitem nicht der Zweck so gut erreicht werden, wenn ich mich gleich mit dem nüchternen Körper in den Fluß würfe. Die mit der ersten Morgenbegießung geöffneten Poren sind dann weit bereitwilliger, die Heilkraft eines vollständigen </tei:seg>
+        <tei:seg> warmem Wasser, sondern von der frischen und klaren Quelle der Natur bespülen zu lassen. Ich bin durch langes Erproben meines ungesunden Körpers endlich dahin gekommen, daß ich den Gebrauch des kalten Wassers für die heilsamste Arznei halte, die man aus der Hand der Natur, eines bessern Arztes, als die Medicin, nur erhalten kann. Wie du mich hier siehst, liebe Schwester, leb’ ich nur vom Wasser. Des Morgens, so wie ich aufstehe, nehme ich eine allgemeine Waschung meines splitternackten Körpers vor. Ich lasse mich von meinem Bedienten mit einer eignen Vorrichtung bespritzen, die mir mein ingenieuser Verstand eingegeben hat. Ich habe nämlich eine Gießkanne zu diesem Zweck so aufgehängt und mit Wasser gefüllt, daß ich nackt in einem hölzernen Gefäße stehend, mich nur zu drehen und zu wenden brauche, um beständig von einem sanftkühlenden Sprudel erfrischt zu werden. Je mehr sich der Mensch dem Pflanzenleben nähert und sich wie von Gärtnershand pflegen läßt, desto besser gedeiht er. Während dieser Erquickung meines äußern Menschen, trink ich innerlich zwei Quart gut filtrirten, aber von der Quelle kommenden Wassers. Nach diesem Vorschmack und Morgenimbiß geh’ ich wiedergeborner Mensch hinaus in eine Badanstalt der Themse. Es würde bei weitem nicht der Zweck so gut erreicht werden, wenn ich mich gleich mit dem nüchternen Körper in den Fluß würfe. Die mit der ersten Morgenbegießung geöffneten Poren sind dann weit bereitwilliger, die Heilkraft eines vollständigen </tei:seg>
         <tei:pb n="451"/>
         <tei:seg> Bades einzusaugen. Ich kann unter diesen Umständen mich sehr lang im Wasser aufhalten und bedarf nur einer mäßigen Bewegung, um vor jeder Gefahr einer Erkältung sicher zu seyn. Die Abtrock­nung muß schnell erfolgen, auch der Körper schnell wieder bekleidet seyn, weil die londoner Luft für die Hydropathie im Allgemeinen nicht günstig ist. Jetzt erst eß’ ich mit Vergnügen zwei Eier, welche man in der Schwimmanstalt immer zu billigem Preise haben kann. Wie du mich jetzt siehst, liebe Schwester, bin ich im dritten Stadium meiner Kur; ich komme so eben aus dem Bade, habe meine Eier verzehrt und beschäftige mich nun mit einem methodischen innerlichen Wassergenuß. In Zwischenräumen von Viertelstunde zu Viertelstunde trinke ich ein Viertel Quart und stelle dabei eine mäßige Bewegung in meinen Zimmern an. Freilich wär’ es besser, diese Bewegung in der freien Natur vorzunehmen, allein noch hat meine Kurmethode nicht die Anerken­nung gefunden, daß man, wie die so verderblichen Bier- und Weinschenken, auch wenigstens von Viertelstunde zu Viertelstunde eine Wasserschenke in den Straßen von London etablirt fände. Ich esse früh, weil ich nicht nur späterhin verdauen will, sondern auch nach vollendeter Verdauung meiner allgemeinen Kur obliege. Nachdem ich vor und nach dem Essen mich einfach gewaschen habe, beginn’ ich etwa vier Stunden nach der Mittagsmahlzeit ein erneuertes Wassertrinken, treibe es aber mit einer so außerordentlichen Vehemenz, daß ich in kurzer Zeit einen von Wasser </tei:seg>
         <tei:pb n="452"/>
@@ -3213,7 +3213,7 @@
         <tei:pb n="470"/>
         <tei:seg> meiner Schwester kam, sondern über die Entführung Felicia’s untröstlich war und sich schon auf den Weg begeben hatte, sie einzuholen, Macready hatte Felicia entführen wol­len. Meine Schwester und Cecilly vernahmen dieß mit einem eig­nen Gemisch von Freude, Neid und Aerger. Der Zufall hatte gewollt, daß beide Entführungen für einen und denselben Abend bestellt waren. Die Schwestern schliefen jede für sich und konnten somit gegeneinander unbemerkt sich leicht in der Nacht aus dem Hause entfernen. Ein Wagen sollte die Flüchtigen aufnehmen. Der Portier schlief und hatte sich nur darauf eingerichtet, das Haus von außen zu schützen. Von innen war es leicht entriegelt. Lettice erschrack, als sie es offen fand; sie hatte nicht gedacht, daß eine Viertelstunde vor ihr Felicia schon hinaus­ge­gangen war und von dem Manne, für den </tei:seg>
         <tei:hi style="letter-sparse">sie</tei:hi>
-        <tei:seg> sich bestimmt hatte, für die rechte angesehen worden war. In der Dunkelheit umarmte sie Macready und fuhr mit ihr davon. Die Enttäuschung erfolgte erst nach einigen Stunden, da Macready zartfühlend genug war, das Stillschweigen seiner vermeintlichen Felicia zu eh­ren und sie nicht eher anzureden, bis er voraussetzen konnte, daß sie sich über den bedenklichen Schritt, den sie thaten, würde beruhigt haben. Man kann sich sein Erschrecken vorstellen, als er Lettice im Wagen bei sich entdeckte. Er hielt ganz in der Nähe Londons mit ihr an und versprach ihr, sie gegen Abend zu uns zurückzuführen. Lettice muß sich inzwischen der Sünden schämen, den Einflüsterungen eines so gemeinen Menschen wie jenes Mimoplasten gefolgt zu seyn. Ich hütete mich aber wohl, alle meine Vorwürfe nur an sie zu richten, sondern gab die meisten meiner Schwester anzuhören, die geglaubt hatte, durch eine Erziehung für das Abenteuerliche ihren Kindern den meisten Reiz zu geben. Jetzt hatte sie die Strafe, daß Felicia von einem Schauspieler, wer weiß in welche Gegenden und Schlupfwinkel </tei:seg>
+        <tei:seg> sich bestimmt hatte, für die rechte angesehen worden war. In der Dunkelheit umarmte sie Macready und fuhr mit ihr davon. Die Enttäuschung erfolgte erst nach einigen Stunden, da Macready zartfühlend genug war, das Stillschweigen seiner vermeintlichen Felicia zu eh­ren und sie nicht eher anzureden, bis er voraussetzen konnte, daß sie sich über den bedenklichen Schritt, den sie thaten, würde beruhigt haben. Man kann sich sein Erschrecken vorstellen, als er Lettice im Wagen bei sich entdeckte. Er hielt ganz in der Nähe Londons mit ihr an und versprach ihr, sie gegen Abend zu uns zurückzuführen. Lettice muß sich inzwischen der Sünden schämen, den Einflüsterungen eines so gemeinen Menschen wie jenes Mimoplasten gefolgt zu seyn. Ich hütete mich aber wohl, alle meine Vorwürfe nur an sie zu richten, sondern gab die meisten meiner Schwester anzuhören, die geglaubt hatte, durch eine Erziehung für das Abenteuerliche ihren Kindern den meisten Reiz zu geben. Jetzt hatte sie die Strafe, daß Felicia von einem Schauspieler, wer weiß in welche Gegenden und Schlupfwinkel, </tei:seg>
         <tei:pb n="471"/>
         <tei:seg> des Königsreichs geschleppt wird. Diesem Elenden scheint es gleichgültig gewesen zu seyn, ob er diese oder jene in seinen Netzen gefangen hielt. Der Abend vergeht, Felicia kömmt nicht zurück. Es ist eilf Uhr. Wir werden alle mit Betrübniß zu Bette gehen.</tei:seg>
       </tei:p>
@@ -4013,9 +4013,9 @@
           <tei:seg> im Sinn (lat. saeculum: das Jahrhundert; → </tei:seg>
           <tei:seg>: 6.1.3. Die Skizzenliteratur der 1830er Jahre). Der Begriff ,Jahrhundert‘ oder ,das neunzehnte Jahrhundert‘ hat in den dreißiger Jahren die Konnotation der ,neuesten Zeit‘ bzw. des ,Modernen‘ (→ </tei:seg>
           <tei:ref type="external">W. H. Riehls Äußerung zu den </tei:ref>
-          <tei:q>
-            <tei:ref type="external">Säkularbildern</tei:ref>
-          </tei:q>
+          <tei:ref type="external">
+            <tei:q>Säkularbildern</tei:q>
+          </tei:ref>
           <tei:seg>, Dokumente zu deren Rezeptionsgeschichte, Nr. 2; vgl. auch Wülfing, Schlagw., Register S. 359).</tei:seg>
         </tei:p>
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -4179,9 +4179,9 @@
           <tei:seg>„Eins der berühmtesten Kunstwerke des Alterthums war der zu den sieben Wundern der alten Welt gerechnete Koloß zu Rhodus, eine metallene Bildsäule des Helios Phöbus, welche der Bildhauer Chares aus 3000 Talenten Erz verfertigte; sie [...] stand als Leuchtthurm an dem Eingange des Hafens der Insel.“ (Brockhaus 1833-1837, Bd. 6 [1835], S. 271) Das Bild des </tei:seg>
           <tei:q>Koloß von Rhodus</tei:q>
           <tei:seg> gebrauchte Gutzkow schon in den → </tei:seg>
-          <tei:q>
-            <tei:ref type="external">Briefen eines Narren an eine Närrin</tei:ref>
-          </tei:q>
+          <tei:ref type="external">
+            <tei:q>Briefen eines Narren an eine Närrin</tei:q>
+          </tei:ref>
           <tei:seg>, um ein gigantisch-umfassendes Projekt zu bezeichnen, in diesem Fall das der europäischen </tei:seg>
           <tei:q>Synchronistik</tei:q>
           <tei:seg> (GWB I, Bd. 1, S. 117-118).</tei:seg>
@@ -4208,9 +4208,9 @@
         <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Joseph Addison (1672-1719) und Richard Steele (1672-1729) waren die beiden Hauptbeiträger der von ihnen geführten Tagesschrift „The Spectator“ (März 1711-Dezember 1712; von Addison 1714 noch einmal mit 80 Nummern weitergeführt). Gutzkow rühmt hier nicht die moralische (‚blaustrümpfige‘) Gesinnung Addisons, sondern die Form, in der er und Steele mit ihrem Journal auf den Augenblick reagierten: Die Beiträge waren essayistischer, nicht direkt politischer Art und behandelten Sitten (‚manners‘), Moral und Literatur, und zwar aus der Sicht eines fingierten „Mr. Spectator“, eines reisenden, gebildeten, beobachtenden Weltmannes (vgl. OCEL, Art. ,Addison‘ [S. 6-7], ,The Spectator‘ [S. 925-926], ,Steele‘ [S. 933]). Zum Vorbild vor allem Steeles als eines frühen Journalisten → </tei:seg>
           <tei:seg>: 6.1.3.1. Sittengeschichte als moderne Moralistik. In Gutzkows erstem erfolgreichem Bühnenstück, → </tei:seg>
-          <tei:q>
-            <tei:ref type="external">Richard Savage</tei:ref>
-          </tei:q>
+          <tei:ref type="external">
+            <tei:q>Richard Savage</tei:q>
+          </tei:ref>
           <tei:seg> (1839; GWB II, Bd. 2, S. 3-77), spielt Steele neben der tragischen Zentralfigur eine positive Rolle.</tei:seg>
         </tei:p>
       </tei:interp>
@@ -4442,23 +4442,1229 @@
         <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem ersten Buchdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert. </tei:seg>
+        <tei:seg>Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Die Kollation anhand von drei verschiedenen Exemplaren des Erstdrucks und der Vergleich mit zwei weiteren Exemplaren lässt vermuten, dass im Laufe der Produktion Presskorrekturen vorgenommen worden sind. Kollationiert wurde mit zwei Exemplaren im Privatbesitz (EPRA, EPRB) und dem der Humboldt-Universität Berlin (EBER). Ein Vergleich erfolgte mit EPRC (nur Bd. 1 umfassend) und EPRD. Die festgestellten Abweichungen zwischen den Exemplaren sind im Anschluss an die Liste der Texteingriffe aufgeführt. </tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Textes: Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere. Hg. von Martina Lauster. Münster: Oktober Verlag, 2010. (= Gutzkows Werke und Briefe. Abt. III: Schriften zur Politik und Gesellschaft, Bd. 3.)</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">11,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>existirt.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>existirt</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">34,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>über ihn</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>über ihm</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">34,31-32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gefärbten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gefärbter</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">37,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Abonnent</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Abonnement</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">41,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Geld,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Geld;</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">42,31</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>verbesserte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ver-verbesserte</tei:sic>
+        <tei:seg> Setzfehler im Zeilenumbruch</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">46,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Erinna</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Eriena</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">46,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Schriftstellerin</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Schrifstellerin</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">58,22-23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>alles Verdienst, das</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>aller Verdienst, das</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">65,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>einnehmen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>einehmen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">100,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Modena</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Modena,</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">108,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Yankee</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Yankel</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">109,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>der Grund</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>den Grund</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">110,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zwar; allein</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zwar allein</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">113,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Banquierhauses</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Bauquierhauses</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">114,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>kraus</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>kaus</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">126,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>heutigsten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>häutigsten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">136,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Tagesfragen [...], die</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>Tagesfragen [...], den</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">140,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß dieß</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>das dieß</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">145,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verheiratheten, dorthin</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Verheiratheten dorthin</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">157,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gehört</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gehören</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">157,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Riesenlettern!!,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Riesenlettern!!</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">158,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Rougemont</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Rotugement</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">168,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>St. Andrews</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>St. Audrews</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">174,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>d’Israeli, Chelmar</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>d’Israeli Chelmar</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">189,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>durch</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>udrch</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">190,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>würden</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>würde</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">201,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zwischen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wischen</tei:sic>
+        <tei:seg> ausgefallene Letter</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">216,8</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>welches</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>welchen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">234,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:foreign>homme de lettres</tei:foreign>
+        </tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:foreign>
+          <tei:sic>homme des lettres</tei:sic>
+        </tei:foreign>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">236,17</tei:citedRange>
+        <tei:seg>; </tei:seg>
+        <tei:citedRange type="page-line-ref">236;23</tei:citedRange>
+        <tei:seg>; </tei:seg>
+        <tei:citedRange type="page-line-ref">236,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Montaigne</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Montagne</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">239,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Joseph II, Gustav III.</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Joseph II. Gustav III.</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">254,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>industriellen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>industeriellen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">261,20-21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zu [345] dressiren</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zu [345] zu dressiren</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">262,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Reparaturen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Reperaturen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">262,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>[346]</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>[246] </tei:sic>
+        <tei:seg>die Paginierung ist fehlerhaft </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">268,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>blies...“</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>blies...</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">268,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Avancement</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Avencement</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">274,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Anknüpfungen,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Anknüpfungen</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen am Zeilenende</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">278,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>verwickelte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>verwickelte,</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">280,1</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Deckmantel</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Denkmantel</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">280,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>eine Lehrerin</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ein Lehrerin</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">284,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>selbst,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>selbst</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">289,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>sagen:</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>sagen;</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">291,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Sie,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Sie</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen in letzter Zeile</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">304,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>denken,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>denken</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">326,28-29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hatt’ ich</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hat ich</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">326,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>erbrach</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zerbrach</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">333,18-19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>und es [446] steht zu befürchten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>und [446] steht zu befürchten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">346,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>war</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>waren</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">350,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>nirgends</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>nirgens</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">365,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>der Alten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>der alten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">371,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>geht</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gehen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">381,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>derselben</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>desselben</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">385,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Symptom</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Symptome</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">391,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>steigernde Keckheit</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ernde steigKeckheit</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">395,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Mord</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Morde</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">398,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>in den der Ausgleichung</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>in die der Ausgleichung</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">406,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>vorhalten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>verhalten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">406,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verbrechen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Verbechen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">406,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Philanthropen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Philantropen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">415,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hatten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hatte</tei:sic>
+        <tei:seg> unberichtigt in A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> und A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">422,10-11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>unterrichten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>nnterrichten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">432,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gentlemenliken</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gentlementiken</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">446,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>behandeln</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>behandlen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">450,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wie viel</tei:lem>
+        <tei:seg> in E ist nicht eindeutig zu ersehen, ob es sich um ein zusammengeschriebenes Wort oder um zwei getrennte handelt. Schreibweise nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">453,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>außerordentlichen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>außerordent-chen</tei:sic>
+        <tei:seg> im Zeilenumbruch vergessene Silbe</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">466,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>vor der</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>von der</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">471,31-33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>der Versuch, für das Evangelium </tei:lem>
+        <tei:lem>
+          <tei:hi style="letter-sparse">Johannis</tei:hi>
+        </tei:lem>
+        <tei:lem> den bekannten Jünger nicht verantwortlich zu machen</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>der Versuch für das Evangelium </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>Johannis</tei:sic>
+        </tei:hi>
+        <tei:sic>, den bekannten Jünger nicht verantwortlich zu machen</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">477,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>eminent ideellen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>eminentideellen</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">478,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>menschlichen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>menschlischen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">480,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Lamennais’</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Lamennais</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">482,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>war</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ward</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">484,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Befreiung</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Befreiuung</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">509,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Zunftgeist</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Zeitgeist</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">511,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>jetzt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>jetz</tei:sic>
+        <tei:seg> ausgefallene Letter am Zeilenende</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">521,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Bildende</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>bildende</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">530,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>weißem</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>weiße</tei:sic>
+        <tei:seg> ausgefallene Letter im Seitenumbruch</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">530,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hätte?</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hätte.</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">536,16-17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>schauderte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>chauderte</tei:sic>
+        <tei:seg> ausgefallene Letter in letzter Zeile</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">536,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wie sich der Jäger</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wie sich </tei:sic>
+        <tei:hi style="letter-sparse">
+          <tei:sic>der</tei:sic>
+        </tei:hi>
+        <tei:sic> Jäger</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">549,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>So ist denn</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>So ist es denn</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">550,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Poesie</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Posie</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">551,13-14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Gedicht, moderne Gemüthszustände anklingend</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>Gedicht moderner Gemüthszustände anklingend</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">553,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>niedere</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>niedern</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">556,11-12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>aus dem Dienste der Wahrheit nur noch in den der Lüge treten</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>aus dem Dienste der Wahrheit nur noch in die der Lüge treten</tei:sic>
+        <tei:seg> unberichtigt in A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> und A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">560,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Nationalreichthumsmaximen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Nationolreichthumsmaximen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">560,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>eigentlichen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>eingentlichen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">563,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wenn</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">564,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>werden,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>werden</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">565,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>außer dem</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>außerdem</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">565,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>beauftragte,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>beauftragte</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen am Zeilenende</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">568,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>die Presse</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>der Presse</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">569,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>den Staat</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>dem Staat</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">573,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>angemessene</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>angemessenen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">574,20-21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Wahrnehmungen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Wahrnehmuugen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">575,27-28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Spekulation</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Spedulation</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">577,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Bildung</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Bilduug</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">581,21</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Unermeßlichen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Unermermeßlichen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">581,25</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>entsprechenden</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ensprechenden</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">581,31</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Leben wirken</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>leben, wirken</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">582,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Mastodon</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Mastodom</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">589,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>einen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>einem</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">590,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>war</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>waren</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">592,8</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>welchen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>welchem</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">592,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Jahrhunderte</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Jahrunderte</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">594,31</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Zunächstliegenden</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zunächstliegenden</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">598,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Philosophie</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Phlosophie</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">603,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>zu lässig</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>zulässig</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">606,15-16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>im Inkognito eines gewöhnlichen Ueberrockes</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Inkognito eines gewöhnlichen Ueberrockes</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">611,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hier,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hier</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">612,8-9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gewärtig</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>gegenwärtig</tei:sic>
+        <tei:seg> berichtigt nach A</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">621,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Resultate</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Resultatte</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">621,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Julirevolution</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Julirevolition</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">624,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Masse</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Massen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">628,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>entschiedene</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>enschiedene</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">631,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Grundlagen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Grundlage</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">631,23</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Partei ist rein</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Partei rein</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">631,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>den Vorwürfen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>in den Vorwürfen</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">634,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Abhängigkeit</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Anhängigkeit</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">638,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>von Canterbury</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>vom Canterbury</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">639,12</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wir finden ihn doch</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wir finden doch</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">640,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Jahrhunderts</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Jahrunderts</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">642,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Geistlicher</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Geistlichte</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">642,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ausgehen,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ausgehen;</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">644,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="letter-sparse">Narvaez</tei:hi>
+        </tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:sic>Rarvaez</tei:sic>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">646,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Meeres</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Merres</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">646,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Aegypten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Aegvpten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">647,3</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>glänzende</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>glänzenge</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">648,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>wäre;</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wäre</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">648,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>bereits</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>berelts</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">652,11</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verfassungs-</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Berfassungs-</tei:sic>
+      </tei:p>
+      <tei:head data-heading-id="Festgestellte Abweichungen zwischen Exemplaren des Erstdrucks" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Festgestellte Abweichungen zwischen Exemplaren des Erstdrucks</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">124,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>machen!</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>machen</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen in EPRA, EPRB und EBER</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">179,5</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>England</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Eng and</tei:sic>
+        <tei:seg> ausgefallene Letter in EPRB, EPRC und EBER</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">294,27</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vorwurf!</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Vorwurf</tei:sic>
+        <tei:seg> ausgefallenes Satzzeichen in EPRB</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">338,17</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>[453] die</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>[453] di</tei:sic>
+        <tei:seg> ausgefallene Letter in erster Zeile in EPRB, EPRC und EPRD</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">340,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>daß</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>ßad</tei:sic>
+        <tei:seg> in EPRA, EPRC und EBER</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">344,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Nachricht</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Nachr ich</tei:sic>
+        <tei:seg> Setzfehler in EPRC</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">404,15-20</tei:citedRange>
+        <tei:seg>; </tei:seg>
+        <tei:citedRange type="page-line-ref">405,21</tei:citedRange>
+        <tei:seg>; </tei:seg>
+        <tei:citedRange type="page-line-ref">409,1</tei:citedRange>
+        <tei:seg> Druckverluste an Zeilenenden in EPRB</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">412,18</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Narben</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Narb[x]</tei:sic>
+        <tei:seg> korrumpierte Letter in EPRA und EBER</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="Errata" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Errata</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Lichte später gewonnener Erkenntnisse in der Textkriktik der Ausgabe sind in der Buchausgabe (GWB III, Bd. 3) folgende Texteingriffe rückgängig zu machen, die meist Zeichensetzung und Orthographie betreffen:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">42,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Hoffnungsblase</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Hoffnungblase</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">161,24</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Copenhagenfeld</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Coppenhagenfeld</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">237,6</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>
+          <tei:hi style="letter-sparse">herrschen</tei:hi>
+        </tei:lem>
+        <tei:lem> eifrig</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-style-italic">herrschen</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-style-italic">, eifrig</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">237,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>z. B., der</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">z. B. der</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">290,28</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>ihn selbst</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">ihm selbst</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">326,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>scheue,</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">scheue</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">335,34</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>verrathen,</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">verrathen</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">336,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Menschen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Menschen,</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">337,33</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Verfahrungsweise</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Verfahrungweise</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">351,19</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Schlupfwinkel [471] des</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Schlupfwinkel, [471] des</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">399,32</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>heute,</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:hi style="font-style-italic">lies: heute;</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">436,20</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>deren gräßliche Nebenumstände</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">deren gräßlichen Nebenumstände</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">579,16</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>annähmen</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">annehmen</tei:hi>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">579,30</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Einseitigkeit</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Einseitigkeit,</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">588,21-22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Naturwissenschaften</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">Naturwissenschaften,</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">619,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>so schildern will wie wir wohl das achtzehnte</tei:lem>
+        <tei:seg> lies: </tei:seg>
+        <tei:hi style="font-style-italic">so schildern will, wie wir wohl das achtzehnte</tei:hi>
+        <tei:seg> </tei:seg>
       </tei:p>
       <tei:head data-heading-id="2.2. Lesarten und Varianten" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>2.2. Abweichungen späterer Auflagen von E</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0.6" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Abweichungen der Ausgaben von 1846 und 1875 von der Erstausgabe beschreibt und begründet Gutzkow jeweils in deren Vorwort (→ </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">Säkularbilder</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">
+          <tei:q>Säkularbilder</tei:q>
+        </tei:ref>
         <tei:seg>, 1846; → </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1875/vorwort.html" type="external">Säkularbilder</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1875/vorwort.html" type="external">
+          <tei:q>Säkularbilder</tei:q>
+        </tei:ref>
         <tei:seg>, 1875). ▄ Zusammenfassung der Abweichungen ▀</tei:seg>
       </tei:p>
       <tei:head data-heading-id="3. Quellen, Folien, Anspielungshorizonte" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
@@ -4721,9 +5927,9 @@
         <tei:seg> bei dem soeben gegründeten „Verlag der Classiker“ unter, der am 1. März 1837 seine Eröffnung bekannt gab (5.1.1.). Ironischerweise wurde dieses Unternehmen von einem politischen Häftling initiiert: keinem anderen als dem von Cotta gefürchteten Friedrich Gottlob Franckh (1802-1845), der wegen seiner Beteiligung an der Organisation des Frankfurter Wachensturms auf der Festung Hohenasperg saß (5.1.5.). Sein neuer, vom Geschäftsführer Adolph Krabbe geleiteter Verlag trat mit einem glänzenden Eröffnungsprogramm vor das Publikum: Zugleich mit den angeblich von Bulwer verfassten </tei:seg>
         <tei:q>Zeitgenossen</tei:q>
         <tei:seg> wurden illustrierte Prachtausgaben des „Don Quixote“ und der Erzählungen aus Tausendundeiner Nacht angekündigt; erstere mit einem Vorwort von Heinrich Heine, letztere in erster vollständiger deutscher Übertragung aus dem arabischen Urtext durch Gustav Weil und mit einem Vorwort von August Lewald (5.1.2.). ,Klassische‘ Literatur wurde also mit zugkräftigen zeitgenössischen Namen verbunden und mit Illustrationen aus der technisch und künstlerisch neuesten (französischen) Schule versehen. Gutzkows „Frankfurter Telegraph“ sekundierte dieses verlegerische Debut Ende Februar 1837 durch eine Ankündigung, ohne jedoch den Verlag zu nennen (→ </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/populaere-lesestoffe-und-illustrationen/eine-neue-prachtausgabe-des-don-quixote-und-von-tausend-und-einer-nacht.html" type="external">Neue Prachtausgabe des „Don Quixote“ und von „Tausend und Einer Nacht“</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/populaere-lesestoffe-und-illustrationen/eine-neue-prachtausgabe-des-don-quixote-und-von-tausend-und-einer-nacht.html" type="external">
+          <tei:q>Neue Prachtausgabe des „Don Quixote“ und von „Tausend und Einer Nacht“</tei:q>
+        </tei:ref>
         <tei:seg>). Auch das baldige Erscheinen der </tei:seg>
         <tei:q>Zeitgenossen</tei:q>
         <tei:seg> bei dem ungenannten Verlag wurde aus gutem Grund verschwiegen. Hingewiesen wurde aber bereits auf die Erscheinungsweise der Prachtausgaben </tei:seg>
@@ -4731,9 +5937,9 @@
         <tei:seg>; ein springender Punkt ebenfalls in der Verlagswerbung (5.1.2.). Durch portionsweise Auslieferung über einen längeren Zeitraum wurden solche verlegerischen Luxusartikel auch für minder bemittelte Leserkreise erschwinglich (→ </tei:seg>
         <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/illustr.html" type="external">Lexikon</tei:ref>
         <tei:seg>: Illustrierte Periodika). Gutzkow besprach den „Don Quixote“ des „Verlags der Classiker“ als illustriertes Pionierwerk sehr lobend Anfang Juni 1837 (→ </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/populaere-lesestoffe-und-illustrationen/der-neue-don-quixote-mit-holzschnitten.html" type="external">Der neue Don-Quixote mit Holzschnitten</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/populaere-lesestoffe-und-illustrationen/der-neue-don-quixote-mit-holzschnitten.html" type="external">
+          <tei:q>Der neue Don-Quixote mit Holzschnitten</tei:q>
+        </tei:ref>
         <tei:seg>): Es führe </tei:seg>
         <tei:q>die artistischen Illustrationen in Deutschland ein</tei:q>
         <tei:seg> und sei </tei:seg>
@@ -4765,9 +5971,9 @@
         <tei:seg>Dem finanziellen Glück seines englischen Vorbilds entsprach die Lebenswirklichkeit Gutzkows jedoch keineswegs. Das jungdeutsche Programm der Lebensbejahung konnte seit dem Bundestagsbeschluss nur noch zynisch in Anschlag gebracht werden, wie Gutzkow in den </tei:seg>
         <tei:q>Rückblicken</tei:q>
         <tei:seg> gegen eine Behauptung des ehemaligen Mitstreiters Gustav Kühne mit Sarkasmus feststellt (4.1.9.). Seine eigene Existenz als Schriftsteller hing 1836/37 am seidenen Faden. Er hatte nach den Diffamierungen durch Wolfgang Menzel und dem Abfall großer Teile der literarischen Öffentlichkeit von dem jungdeutschen Projekt, dessen Stimmführer er gewesen war, neu Fuß zu fassen, und dies bei Quasi-Berufsverbot in Preußen, dem wichtigsten Absatzgebiet deutscher Schriftsteller. Gutzkow versprach sich von der Bulwer-Mystifikation also vor allem eine Überlistung der preußischen Zensur (→ </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">Vorwort</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">
+          <tei:q>Vorwort</tei:q>
+        </tei:ref>
         <tei:seg> zu </tei:seg>
         <tei:q>Säkularbilder</tei:q>
         <tei:seg>). Er ging unter beträchtlichem Druck ans Werk. Der „Frankfurter Telegraph“, den er seit Anfang 1837 aus Zensurgründen ungenannt redigierte, wurde die längste Zeit im Selbstverlag betrieben und war mit nur etwa 210 Abonnenten ein Verlustgeschäft (Rasch, Bd. 1, S. 559). Seit kurzem auch Familienvater, sparte sich Gutzkow zwei Stunden am frühen Morgen für das neue kritische Panorama ab. In dessen Stoff investierte er sein gesamtes Wissen, schrieb es im täglichen Wettlauf mit der Zeit nieder und diktierte das Geschriebene sogleich (4.1.9.), denn seine Handschrift war notorisch schwer zu lesen. Es ging um die zügige Produktion eines Werkes, das wie eine Zeitschrift herauskam.</tei:seg>
@@ -4829,15 +6035,15 @@
         <tei:seg> bemüht (→ </tei:seg>
         <tei:q>Vorwort</tei:q>
         <tei:seg> zu </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">Säkularbilder</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/vorwort.html" type="external">
+          <tei:q>Säkularbilder</tei:q>
+        </tei:ref>
         <tei:seg>, 1846). In diesen Zusammenhang gehört Gutzkows ,Herausarbeitung‘ aus dem geschichtsphilosophisch-systematischen Denken Hegels (→ </tei:seg>
         <tei:q>Vorwort</tei:q>
         <tei:seg> zu </tei:seg>
-        <tei:q>
-          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1875/vorwort.html" type="external">Säkularbilder</tei:ref>
-        </tei:q>
+        <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1875/vorwort.html" type="external">
+          <tei:q>Säkularbilder</tei:q>
+        </tei:ref>
         <tei:seg>, 1875).</tei:seg>
       </tei:p>
       <tei:head data-heading-id="5. Rezeption" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
@@ -6009,9 +7215,9 @@
           <tei:hi style="font-size-small">wollt</tei:hi>
         </tei:hi>
         <tei:hi style="font-size-small">e. (?) Ich kann nicht auf die Leute wirken, die ich liebe, das Volk aber auf die, die mit ihm umgehen. Meine Schrift sollte Alles umfassen, was den Geist unsers Jahrhunderts begreift, aber sie sollte vom Individuum, nicht von den Tendenzen anfangen. Ich hätte gern zuerst ein Kind unserer Zeit geschildert</tei:hi>
-        <tei:hi style="font-size-small">
-          <tei:ref target="#footnote-31" type="footnote">*)</tei:ref>
-        </tei:hi>
+        <tei:ref target="#footnote-31" type="footnote">
+          <tei:hi style="font-size-small">*)</tei:hi>
+        </tei:ref>
         <tei:hi style="font-size-small">, wie es geboren und erzogen wird .... Jetzt folgen Religion und Staat, Kunst und Literatur in ihrer schwebenden, vom Moment tyrannisirten Lage ... Auch auf große Charaktere machte ich Jagd; allein die Sechzehnender sind auf undern ausgeschossenen Revieren selten .... Diese Erfahrung bestimmte mich, meinem Buche eine gewisse Ausdehnung in die Zukunft zu geben, es als geschlossenen Versuch in drei Bänden zu beginnen und es beinah als Journal enden zu lassen.</tei:hi>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
