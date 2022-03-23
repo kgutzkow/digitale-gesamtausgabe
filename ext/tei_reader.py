@@ -59,13 +59,23 @@ class TeiDocumentReader(BaseReader):
                     'title-letter': str(doc.xpath('//tei:title/text()', namespaces=ns)[0])[0].upper(),
                     'taxonomy': ', '.join([t[1:] for t in str(doc.xpath('//tei:catRef/@target', namespaces=ns)[0]).split(' ')]),
                     'authors': [str(author) for author in doc.xpath('//tei:author/text()', namespaces=ns)],
-                    'editors': [{'role': str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]),
-                                 'name': str(editor.xpath('./tei:name/text()', namespaces=ns)[0])}
-                                for editor in doc.xpath('//tei:respStmt', namespaces=ns)
-                                if str(editor.xpath('./tei:resp/text()', namespaces=ns)[0]).startswith('Herausgeber')],
+                    'editors': [],
+                    'commentators': [],
+                    'apparat_editors': [],
                     'revisions': [change for change in [process_change(change, doc) for change in doc.xpath('//tei:change', namespaces=ns)] if change],
                     'extract': '',
                     'template': 'tei-document'}
+        for respStmt in doc.xpath('//tei:respStmt', namespaces=ns):
+            for role in respStmt.xpath('./tei:resp/text()', namespaces=ns):
+                if role.startswith('Herausgeber'):
+                    metadata['editors'].append({'role': str(role),
+                                                'name': str(respStmt.xpath('./tei:name/text()', namespaces=ns)[0])})
+                elif role == 'Stellenerläuterungen':
+                    metadata['commentators'].append({'role': str(role),
+                                                     'name': str(respStmt.xpath('./tei:name/text()', namespaces=ns)[0])})
+                elif role == 'Apparat':
+                    metadata['apparat_editors'].append({'role': str(role),
+                                                        'name': str(respStmt.xpath('./tei:name/text()', namespaces=ns)[0])})
         if doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns):
             metadata['bibl'] = str(doc.xpath('//tei:sourceDesc/tei:bibl/text()', namespaces=ns)[0])
         metadata['slug'] = metadata['taxonomy'].split(',')[-1].strip()

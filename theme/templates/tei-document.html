@@ -60,9 +60,21 @@
           <dd><a href="{{ page.pdf }}">Haupttext als PDF</a></dd>
         {% endif %}
         {% if page.editors %}
-          {% for editor in page.editors %}
-            <dt>{{ editor.role }}</dt>
-            <dd>{{ editor.name }}</dd>
+          {% for person in page.editors %}
+            <dt>{{ person.role }}</dt>
+            <dd>{{ person.name }}</dd>
+          {% endfor %}
+        {% endif %}
+        {% if page.commentators %}
+          {% for person in page.commentators %}
+            <dt>{{ person.role }}</dt>
+            <dd>{{ person.name }}</dd>
+          {% endfor %}
+        {% endif %}
+        {% if page.apparat_editors %}
+          {% for person in page.apparat_editors %}
+            <dt>{{ person.role }}</dt>
+            <dd>{{ person.name }}</dd>
           {% endfor %}
         {% endif %}
         {% if page.revisions %}
