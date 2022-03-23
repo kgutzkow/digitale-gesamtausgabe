@@ -7,12 +7,19 @@ Vorstellung des Projekts
 
 Einführung
 ----------
+
 Geprägt vom Umbruch der Jahre 1830 bis 1848, besaß der Schriftsteller Karl Gutzkow ein ausgesprochen feines Sensorium für zeitgeschichtliche, gesellschaftliche und kulturelle Entwicklungen. Sein umfangreiches literarisches und publizistisches Werk, eine enzyklopädische ›Physiologie des 19. Jahrhunderts‹, war bis in 1990er Jahre editorisch weitgehend unerschlossen. Eine kommentierte Gesamtausgabe schien lange nicht realisierbar. Dank neuer technischer Möglichkeiten wird dieses Ziel nun seit 1997 angestrebt. Damit öffnen sich neue Wege in die Sozial-, Kultur- und Mentalitätsgeschichte des neunzehnten Jahrhunderts, die der aufmerksame Beobachter, kreative Poet und engagierte liberale Publizist Gutzkow ideenreich mitgestaltet hat.
- Schon den Zeitgenossen galt er als Pionier moderner Literatur in Deutschland. Traditionen der Romantik und des Idealismus fortführend und zugleich offen für die neuesten Entwicklungen Europas, nahm er im Vor- und Nachmärz eine innovative Stellung ein. Dass diskursive Schreibarten zum Gebiet der ›Literatur‹ gehören und die Grenze zwischen Fiktion und Reflexion fließend ist, gehört nicht erst zu den Einsichten der neueren Zeit, sondern ist schon Überzeugung und Praxis Gutzkows.
- Das 1997 gegründete, international besetzte Editionsprojekt Karl Gutzkow hat sich das Ziel gesetzt, Gutzkows vielseitiges, in historischen Druckmedien breit gestreutes Werk zu sammeln und nach modernen editionsphilologischen Grundsätzen herauszugeben.
- Die Edition ist als Hybrid-Ausgabe angelegt, d. h. sie umfasst neben einem digitalen Zweig auch Druckbände. Texte und Kommentare werden sukzessiv im Internet veröffentlicht; sie stehen damit für die weitere Erarbeitung und Verfeinerung der Kommentare schon frühzeitig zur Verfügung. Die Ausgabe ging im Jahr 2000 online. Nach einem Eröffnungsband 2001 startete die gedruckte Edition 2002 im Oktober Verlag Münster. 2002 wurde die Internetpräsentation der Ausgabe gründlich überholt; dieses neue Layout hatte 20 Jahre Bestand. Ab 2019 wurde wiederum intensiv an einem neuen Internet-Auftritt und an der technischen Modernisierung der Ausgabe gearbeitet, so dass diese im Frühjahr 2022 online gehen konnte.
- Gutzkows Werke werden auf der Basis der Erstdrucke herausgegeben (in der Regel Bucherstdrucke). Die Textkonstitution schließt eine Normalisierung oder Modernisierung von Orthographie und Interpunktion grundsätzlich aus. Der Erstdruck bzw. Edierte Text wird einer methodischen, den historischen Sprachstand berücksichtigenden Textkritik unterzogen, um Druckfehler, Presskorrekturen oder Presskorruptele festzustellen. Alle Emendationen werden mit einer Eingriffsliste im Apparat dokumentiert. 
- Neben der Textkritik liegt ein zweiter Schwerpunkt der Ausgabe auf der wissenschaftlichen Kommentierung. Dazu wird auf bewährte Konzepte von Global- und Einzelstellenkommentar zurückgegriffen. Im Apparat werden außerdem Quellen, Folien und Anspielungshorizonte in Übersichtsform aufgelistet sowie Dokumente zur Entstehungs- und Rezeptionsgeschichte in chronologischer Ordnung dargeboten. Historische Bilddokumente und zusätzliches Textmaterial, ein Gutzkow-Lexikon zum zeitgenössischen Kontext sowie biographische und bibliographische Informationen schaffen weitere Zugänge zum Werk eines Autors, der lange eine Schlüsselstellung in der Literatur einnahm und den es für die Erforschung des 19. Jahrhunderts weiter zu entdecken gilt.
+
+Schon den Zeitgenossen galt er als Pionier moderner Literatur in Deutschland. Traditionen der Romantik und des Idealismus fortführend und zugleich offen für die neuesten Entwicklungen Europas, nahm er im Vor- und Nachmärz eine innovative Stellung ein. Dass diskursive Schreibarten zum Gebiet der ›Literatur‹ gehören und die Grenze zwischen Fiktion und Reflexion fließend ist, gehört nicht erst zu den Einsichten der neueren Zeit, sondern ist schon Überzeugung und Praxis Gutzkows.
+
+Das 1997 gegründete, international besetzte Editionsprojekt Karl Gutzkow hat sich das Ziel gesetzt, Gutzkows vielseitiges, in historischen Druckmedien breit gestreutes Werk zu sammeln und nach modernen editionsphilologischen Grundsätzen herauszugeben.
+
+Die Edition ist als Hybrid-Ausgabe angelegt, d. h. sie umfasst neben einem digitalen Zweig auch Druckbände. Texte und Kommentare werden sukzessiv im Internet veröffentlicht; sie stehen damit für die weitere Erarbeitung und Verfeinerung der Kommentare schon frühzeitig zur Verfügung. Die Ausgabe ging im Jahr 2000 online. Nach einem Eröffnungsband 2001 startete die gedruckte Edition 2002 im Oktober Verlag Münster. 2002 wurde die Internetpräsentation der Ausgabe gründlich überholt; dieses neue Layout hatte 20 Jahre Bestand. Ab 2019 wurde wiederum intensiv an einem neuen Internet-Auftritt und an der technischen Modernisierung der Ausgabe gearbeitet, so dass diese im Frühjahr 2022 online gehen konnte.
+
+Gutzkows Werke werden auf der Basis der Erstdrucke herausgegeben (in der Regel Bucherstdrucke). Die Textkonstitution schließt eine Normalisierung oder Modernisierung von Orthographie und Interpunktion grundsätzlich aus. Der Erstdruck bzw. Edierte Text wird einer methodischen, den historischen Sprachstand berücksichtigenden Textkritik unterzogen, um Druckfehler, Presskorrekturen oder Presskorruptele festzustellen. Alle Emendationen werden mit einer Eingriffsliste im Apparat dokumentiert.
+
+Neben der Textkritik liegt ein zweiter Schwerpunkt der Ausgabe auf der wissenschaftlichen Kommentierung. Dazu wird auf bewährte Konzepte von Global- und Einzelstellenkommentar zurückgegriffen. Im Apparat werden außerdem Quellen, Folien und Anspielungshorizonte in Übersichtsform aufgelistet sowie Dokumente zur Entstehungs- und Rezeptionsgeschichte in chronologischer Ordnung dargeboten. Historische Bilddokumente und zusätzliches Textmaterial, ein Gutzkow-Lexikon zum zeitgenössischen Kontext sowie biographische und bibliographische Informationen schaffen weitere Zugänge zum Werk eines Autors, der lange eine Schlüsselstellung in der Literatur einnahm und den es für die Erforschung des 19. Jahrhunderts weiter zu entdecken gilt.
+
 Editionsprojekt Karl Gutzkow, Exeter und Halle, 2000 / 2022
 
 
@@ -42,6 +49,7 @@ Editionsübersicht
 Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows Büchern, gliedert das Werk nach gattungsspezifischen Einheiten und (bei der Vielzahl und Vielfalt des publizistischen / kritischen Schrifttums) auch nach thematischen Schwerpunkten. Folgende Übersicht steckt den inhaltlichen Rahmen der Gesamtausgabe. Nicht alle der hier aufgeführten Werke werden auch in der `Druckausgabe <https://gutzkow.uzi.uni-halle.de/pages/editionsprojekt/textbande-im-oktober-verlag-munster.html>`_ erscheinen.
 
 **I. Abteilung: Erzählerische Werke**
+
 * Bd. 1: Briefe eines Narren an eine Närrin (1832)
 * Bd. 2: Maha Guru. Geschichte eines Gottes (1833)
 * Bd. 3: Novellen (1834)
@@ -59,16 +67,20 @@ Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows
 * Bd. 15: Die Söhne Pestalozzi’s. Roman in drei Bänden (1870)
 * Bd. 16: Fritz Ellrodt. Roman (1872)
 * Bd. 17: Die neuen Serapionsbrüder. Roman in drei Bänden (1877)
+
 **II. Abteilung: Dramatische Werke**
-* Bd. 1: Marino Falieri (1834) – Hamlet in Wittenberg (1835) – Nero (1835) – König Saul (1839) 
-* Bd. 2: Richard Savage (1839) –Werner (1840) – Gräfin Esther (1840/43) – Patkul (1840) 
+
+* Bd. 1: Marino Falieri (1834) – Hamlet in Wittenberg (1835) – Nero (1835) – König Saul (1839)
+* Bd. 2: Richard Savage (1839) –Werner (1840) – Gräfin Esther (1840/43) – Patkul (1840)
 * Bd. 3: Die Schule der Reichen (1840) – Ein weißes Blatt (1842) – Zopf und Schwert (1843) – Pugatscheff (1842/43)
 * Bd. 4: Die beiden Auswanderer (1844) – Das Urbild des Tartüffe (1844) – Der dreizehnte November (1845) – Die stille Familie (Neufassung, 1845)
 * Bd. 5: Anonym (1845) – Uriel Acosta (1846) – Wullenweber (1847) – Ottfried (1848)
 * Bd. 6: Liesli (1849) – Der Königsleutenant (1849) – Die Adjutanten (Umarbeitung von „Anonym“, 1851) – Fremdes Glück (1851) – Die Diakonissin (1852)
 * Bd. 7: Philipp und Perez (Antonio Perez, 1853) – Lenz und Söhne (1854) – Ella Rose (1856) – Lorber und Myrte (1856) Bd. 8: Der westphälische Friede (1868) – Der Gefangene von Metz (1870) – Dschingiskhan (1873)
 * Bd. 9: Bearbeitungen: „Coriolanus“ von Shakespeare (1847) – „Der Pilger“ von Almeida-Garrett (1848) – „Der Raub der Helena“ aus Goethes „Faust II“ (1849) – Dramatische Kleinigkeiten, Entwürfe und Fragmente aus dem Nachlass
+
 **III. Abteilung: Schriften zur Politik und Gesellschaft**
+
 * Bd. 1: Oeffentliche Charaktere (1835)
 * Bd. 2: Zur Philosophie der Geschichte (1836)
 * Bd. 3: Die Zeitgenossen. Ihre Schicksale, ihre Tendenzen, ihre großen Charaktere (1837)
@@ -77,10 +89,12 @@ Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows
 * Bd. 6: Verstreute Schriften zur Geschichte und Politik
 * Bd. 7: Verstreute Schriften zur Philosophie, Theologie, Pädagogik
 * Bd. 8: Zum Gesellschaftsleben – Skizzen und Zeitfragen
+
 **IV. Abteilung: Schriften zur Literatur und zum Theater**
+
 * Bd. 1: Forum der Journal-Literatur (1831)
 * Bd. 2: Beiträge zur Geschichte der neuesten Literatur (1836)
-* Bd. 3: Ueber Göthe im Wendepunkte zweier Jahrhunderte (1836) 
+* Bd. 3: Ueber Göthe im Wendepunkte zweier Jahrhunderte (1836)
 * Bd. 4: Götter, Helden, Don-Quixote. Abstimmungen zur Beurtheilung der literarischen Epoche (1838)
 * Bd. 5: Börne’s Leben (1840)
 * Bd. 6: Literaturkritik
@@ -91,20 +105,28 @@ Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows
 * Bd. 9: Theaterkritiken
 * Bd. 10: Dramaturgische Schriften – Zum Bühnenleben – Zu eigenen dramatischen Werken – Über einzelne Schauspieler – Oper und Musik
 * Bd. 11 (Supplement): Beiträge zur bildenden Kunst
+
 **V. Abteilung: Gedichte, Epigramme, Denksprüche**
+
 * Bd. 1: Gedichte, Versdichtungen, Epigramme und Xenien
 * Bd. 2: Vom Baum der Erkenntniß. Denksprüche (1868) – Aphorismen, Einfälle, Denkblätter
+
 **VI. Abteilung: Reiseliteratur**
+
 * Bd. 1: Briefe aus Paris (1842)
 * Bd. 2: Über Paris und Frankreich
 * Bd. 3: Berliner Eindrücke
 * Bd. 4: Reisen (Deutschland, Österreich)
 * Bd. 5: Reisen (Italien, Schweiz, Holland)
+
 **VII. Abteilung: Autobiographische Schriften**
+
 * Bd. 1: Aus der Knabenzeit (1852)
 * Bd. 2: Rückblicke auf mein Leben (1875)
 * Bd. 3: Kleine autobiographische Schriften und Memorabilien
+
 **VIII. Abteilung: Briefe**
+
 * Bd. 1: Briefe 1830-1837
 * Bd. 2: Briefe 1838-1848
 * Bd. 3: Briefe 1849-1857
