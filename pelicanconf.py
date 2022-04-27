@@ -54,7 +54,7 @@ GENERATION_CHANGE = latest_commit.hexsha
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-TAXONOMY = (
+TAXONOMY = (('', 'gesamtausgabe', (
     ('I. Erzählerische Werke', 'erzaehlerische-werke', (
         ('1. Briefe eines Narren an eine Närrin', 'briefe-eines-narren-an-eine-naerrin', ()),
         ('2. Maha Guru', 'maha-guru', (
@@ -342,5 +342,5 @@ TAXONOMY = (
             ('Bogumil Dawison', 'bogumil-dawison', ())
         ))
     )),
-    ('VIII. Briefe', 'briefe', ())
+    ('VIII. Briefe', 'briefe', ()))),
 )

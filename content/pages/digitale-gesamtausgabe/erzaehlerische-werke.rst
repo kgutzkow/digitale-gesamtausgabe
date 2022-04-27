@@ -3,5 +3,5 @@ I. Erzählerische Werke
 
 :slug: erzaehlerische-werke
 :template: edition-overview
-:taxonomy: erzaehlerische-werke
+:taxonomy: gesamtausgabe, erzaehlerische-werke
 :order: 1

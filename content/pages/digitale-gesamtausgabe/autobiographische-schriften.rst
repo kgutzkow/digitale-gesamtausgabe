@@ -3,5 +3,5 @@ VII. Autobiographische Schriften
 
 :slug: autobiographische-schriften
 :template: edition-overview
-:taxonomy: autobiographische-schriften
+:taxonomy: gesamtausgabe, autobiographische-schriften
 :order: 6

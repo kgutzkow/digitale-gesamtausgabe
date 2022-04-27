@@ -3,4 +3,4 @@ Maha Guru
 
 :slug: maha-guru
 :template: edition-overview
-:taxonomy: erzaehlerische-werke, maha-guru
+:taxonomy: gesamtausgabe, erzaehlerische-werke, maha-guru

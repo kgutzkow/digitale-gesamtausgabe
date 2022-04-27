@@ -3,5 +3,5 @@ Berliner Eindrücke
 
 :slug: berliner-eindruecke
 :template: edition-overview
-:taxonomy: reiseliteratur, berliner-eindruecke
+:taxonomy: gesamtausgabe, reiseliteratur, berliner-eindruecke
 :order: 1

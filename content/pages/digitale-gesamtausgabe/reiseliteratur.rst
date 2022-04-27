@@ -3,5 +3,5 @@ VI. Reiseliteratur
 
 :slug: reiseliteratur
 :template: edition-overview
-:taxonomy: reiseliteratur
+:taxonomy: gesamtausgabe, reiseliteratur
 :order: 5

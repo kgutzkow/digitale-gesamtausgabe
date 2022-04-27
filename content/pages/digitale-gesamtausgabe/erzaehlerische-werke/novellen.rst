@@ -3,4 +3,4 @@ Novellen
 
 :slug: novellen
 :template: edition-overview
-:taxonomy: erzaehlerische-werke, novellen
+:taxonomy: gesamtausgabe, erzaehlerische-werke, novellen

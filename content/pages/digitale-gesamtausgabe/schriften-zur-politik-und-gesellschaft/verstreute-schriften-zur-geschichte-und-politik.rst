@@ -3,5 +3,5 @@
 
 :slug: verstreute-schriften-zur-geschichte-und-politik
 :template: edition-overview
-:taxonomy: schriften-zur-politik-und-gesellschaft, verstreute-schriften-zur-geschichte-und-politik
+:taxonomy: gesamtausgabe, schriften-zur-politik-und-gesellschaft, verstreute-schriften-zur-geschichte-und-politik
 :order: 4
