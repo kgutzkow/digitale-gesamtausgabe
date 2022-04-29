@@ -10,7 +10,7 @@
       {% for element in elements %}
         <li{% if not nested %} id="section-{{ loop.index }}"{% endif %}>
           {% if pages|selectattr('taxonomy', 'equalto', ', '.join(path + [element[1]] if path else [element[1]]))|first() %}
-            <a href="{{ SITEURL }}/pages/digitale-gesamtausgabe/{% if path %}{{ '/'.join(path) }}/{% endif %}{{ element[1] }}.html">{{ element[0] }}</a>
+            <a href="{{ SITEURL }}/pages/digitale-{% if path %}{{ '/'.join(path) }}/{% endif %}{{ element[1] }}.html">{{ element[0] }}</a>
           {% else %}
             <span class="menu-text">{{ element[0] }}</span>
           {% endif %}
