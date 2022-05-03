@@ -26,7 +26,7 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1840">1840</tei:date>
+        <tei:date when="1840-09">September 1840</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #schriften-zur-literatur-und-zum-theater #boerne-s-leben"/>
@@ -1229,9 +1229,9 @@
         <tei:seg> seine Zeitschriften zu haben; nun sollte er sogar aufrührerische Flugblätter in den Wind streuen und, um eine Revolution zu stiften, mit Darmstadt angefangen haben? In der That war es ein guter Glücksfall, daß seine Unschuld bald an den Tag kam. Dieser gute Herr Sichel hatte geglaubt, einen Theil seiner Schuld dadurch von sich abzuwälzen, daß er die Autorschaft der von ihm so unbehutsam verbreiteten Placate einem Manne zuschrieb, dem er ohnehin nicht zu schaden glaubte; er hatte für ganz gewiß gehört, Börne wäre nach Paris gereist, ohne wiederkommen zu wollen. Es ist wahr, Börne hatte sich dahin längst geäußert, er hatte eine Verbindung mit dem Buchhändler Cotta angeknüpft, die ihn dauernd an Paris würde gefesselt haben; und so kam er dazu, der Sündenbock Sichelscher Thorheiten zu werden. Und doch mußte er vierzehn Tage auf der Hauptwache ausdauern, bis seine Unschuld erwiesen war. Man hielt ihn sehr streng, nahm ihm, um etwaigen Selbstmord zu verhindern, jedes schneidende Instrument; man schmeichelte sich wirklich, von ihm den wahren Zusammenhang des ganzen Europäischen Carbonarismus zu erfahren. Die Tochter eines Hauses, wo er gern verweilte Röschen O. ging des Tages zehnmal an der </tei:seg>
         <tei:pb n="150"/>
         <tei:seg> Hauptwache vorbei und als sie einmal so glücklich war, ihn am Fenster seines Gefängnisses zu erblicken und ihm freundlich zunickte, wurde sie von dem „rauhen Krieger,“ der auf Schildwache stand, bedeutet, dergleichen ja unterwegs zu lassen. Börne’s kränklicher Körper litt in dieser Zeit so sehr, daß er sich wirklich unglücklich fühlte. Er äußerte später noch oft die Absicht, einmal diese Geschichte seines Gefängnisses zu schreiben. Es würden sicher sehr humoristische </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-9" type="esv">Mi prigione</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-9" type="esv">
+          <tei:foreign>Mi prigione</tei:foreign>
+        </tei:ref>
         <tei:seg> geworden seyn.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -1469,9 +1469,9 @@
         <tei:seg>Als Börne im Jahre 1822 Paris verließ, kehrte er nicht sogleich nach Frankfurt zurück, sondern lebte eine Zeitlang in Gesellschaft seiner Freundin in Heidelberg. Hier war es, wo zum ersten Male sein fortwährendes körperliches Leiden zu einem sehr bedenklichen plötzlichen Ausbruch kam. Er wurde von einem heftigen </tei:seg>
         <tei:pb n="179"/>
         <tei:seg> Blutsturz befallen, und dadurch so geschwächt, daß man für sein Leben mußte besorgt werden. In dem hierauf folgenden langen Krankenlager widmete ihm Mad. W. die liebevollste Pflege. Langsam erholte er sich. Sein Lungenleiden schien ihm nun erwiesen und er ging viel mit fremden und ihm befreundeten Aerzten zu Rathe. Später, seit 1824 besuchte er fast jedes Jahr Ems. Ein deutliches Bild seines körperlichen Unbehagens, zu dem sich noch eine zunehmende Schwerhörigkeit gesellte, giebt ein aus Stuttgart datirter Brief an seinen Freund </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">Dr</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>Dr</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-10" type="esv">. Stiebel</tei:ref>
         <tei:seg> in Frankfurt. Er schrieb ihm:</tei:seg>
       </tei:p>
@@ -2744,9 +2744,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">73,22</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:lem>Zukunft</tei:lem>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse">Zukunft</tei:hi>
+        </tei:lem>
         <tei:lem> die ] </tei:lem>
         <tei:hi style="letter-sparse">
           <tei:sic>Zukunft</tei:sic>
@@ -2809,9 +2809,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">101,18-19</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:lem>Herrn von Malesherbes</tei:lem>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse">Herrn von Malesherbes</tei:hi>
+        </tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>] </tei:sic>
         <tei:hi style="letter-sparse">
@@ -2977,9 +2977,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">186,30</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:foreign>
-          <tei:lem>fauteuil</tei:lem>
-        </tei:foreign>
+        <tei:lem>
+          <tei:foreign>fauteuil</tei:foreign>
+        </tei:lem>
         <tei:seg> ] </tei:seg>
         <tei:foreign>
           <tei:sic>fauteueil</tei:sic>
@@ -3108,9 +3108,9 @@
         <tei:citedRange type="page-line-ref">108,15-16</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>deren Strafbarkeit </tei:lem>
-        <tei:hi style="letter-sparse">
-          <tei:lem>ihn</tei:lem>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse">ihn</tei:hi>
+        </tei:lem>
         <tei:lem> nur allein treffen dürfte.  </tei:lem>
       </tei:p>
       <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">

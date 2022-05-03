@@ -13,7 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Roger Jones</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,11 +26,11 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Werner. Oder: Herz und Welt. Bürgerliches Schauspiel in fünf Aufzügen von Karl Gutzkow. (Als Manuscript gedruckt.) o.O. u. o.J. [1840]. 1 Bl., 108 S. 8°. (Rasch 6.40.1).</tei:bibl>
+      <tei:bibl>Werner. Oder: Herz und Welt. Schauspiel in fünf Aufzügen. In: Karl Gutzkows Dramatische Werke. Bd. 1. Leipzig: Weber, 1842. S. 127-276. (Rasch 1.1.1.2)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1840">1840</tei:date>
+        <tei:date when="1842-04">April 1842</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #dramatische-werke #werner"/>
@@ -48,6 +47,6 @@
         <tei:seg>Dieses Werk ist zur Zeit nicht verfügbar.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

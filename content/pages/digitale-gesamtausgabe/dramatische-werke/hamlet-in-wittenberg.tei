@@ -30,7 +30,7 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1839">1839</tei:date>
+        <tei:date when="1839-06">Juni 1839</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #dramatische-werke #hamlet-in-wittenberg"/>
@@ -46,22 +46,22 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head data-heading-id="Hamlet in Wittenberg" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head data-heading-id="Hamlet in Wittenberg" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:pb n="55"/>
         <tei:seg> Hamlet in Wittenberg.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.6" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.6" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:hi style="letter-sparse">Dramatische Umriss</tei:hi>
         <tei:seg>e.</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="Erste Scene" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="Erste Scene" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:hi style="letter-sparse">Erste Scen</tei:hi>
         <tei:seg>e.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:stage type="setting">Offner Platz in Wittenberg.</tei:stage>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="letter-sparse">
           <tei:stage type="business">Studente</tei:stage>
         </tei:hi>
@@ -86,44 +86,44 @@
           <tei:stage type="business">.</tei:stage>
         </tei:hi>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
           <tei:speaker>Die Studenten. </tei:speaker>
           <tei:seg> Hamlet hat Geld!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="business">(vor dem ein Haufen Goldes liegt)</tei:stage>
           <tei:seg>. Endlich! – zieht die Röcke aus! Simson’s Goldfüchse brechen in die Felder der Philister. Es sind in Altona geprägte, je zwei und zwei in Eins gekoppelte Doppelfriedrichsd’ore! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Einer</tei:speaker>
           <tei:seg>. Es war die höchste Zeit: nämlich für Deinen ziemlich abgeriebenen Sammtkittel, Hamlet! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
           <tei:pb n="56"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Anderer</tei:speaker>
           <tei:seg>. Was schaden Löcher! Aber leider sah man durch sie durch, wie der Kronprinz von Dänemark kein andres Hemde anzuziehen hatte, als seine eigene Haut.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="business">(baut die Goldrollen übereinander auf)</tei:stage>
           <tei:seg>. Ich will Euch einen Begriff von der Krone meines guten alten Vaters machen. Seht, zuerst dies ist der Reifen, der die Stirn bedeckt; Ihr müßt ihn mit etwas Sammt ausstaffirt denken! Drüber wölbt sich der Deckel, in welchen alle Königsköpfe unserer Dynastie passen müssen; dann ein Knauf mit einem Kreuz, von wo in einer hervorspringenden Krümmung allgemach vier Ränder zur Stirn der Majestät heruntergleiten. Der Rand zeigt nach Schleswig, der nach Holstein, der nach Norweg und der nach Island hin. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Senior der Hanseaten </tei:speaker>
           <tei:stage type="business">(greift in das Spiel Hamlets hinein und zieht eine volle Hand zurück)</tei:stage>
           <tei:seg>. Aus dem einen Horne, Hamlet, das sehr passend das rindviehreiche Holstein vertritt, brech’ ich mir einige fette Weideplätze am Sachsenwald </tei:seg>
@@ -131,74 +131,74 @@
           <tei:seg> fort. Ich kann nicht anders. Du bist unserm Corps mit Haut und Haar verschuldet.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Senior der Märker</tei:speaker>
           <tei:seg>. Gib mir Schleswig, Kronprinz, und decke damit wenigstens die Zinsen von all der Kreide, die Du am Schuldenbrette unserer Couleur noch stehen hast. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Senior der Sachsen</tei:speaker>
           <tei:seg>. Hamlet, verzeih, wenn auch ich den Augenblick wahrnehme, wo Du klingender, als mit Achselzucken und gerittenen Wechseln zahlst. Ich nehme nur Norweg.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Senior der Lausitzer</tei:speaker>
           <tei:seg>. Ich, wenn Du nichts dagegen hast, Island, das letzte Thule, diesmal aber denn doch keine Fabel! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Zum Teufel! gebt das Geld zurück! Respektirt wenigstens die Krone, die Hamlet einst tragen wird, wenn auch nur in ihrer Copie!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Laß sie, Horatio! Könnt’ ich die Zukunft selbst so von mir schenken, wie dies ihr Symbol! O Gott, in jeder Perle, in jedem Edelstein des königlichen Schmuckes wird eine Thräne des </tei:seg>
           <tei:pb n="58"/>
           <tei:seg> Volks sich spiegeln. Du lachst, Horatio? Weil ich mit Diamanten und Sentiments um mich werfe – was behalten wir übrig? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Der Rest würde kaum ausreichen, eine Wäscherin zu bezahlen, wenn wir nicht gewohnt wären, unsere Lappen selbst in der Elbe zu waschen.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Also immer noch den Schläger wetzen und im Busche dem Kaufmann, der auf die Frankfurter Messe zieht, auflauern. Ich muß doch sagen, ein schlechter Ritt, zu dem wir den Pegasus anschirren!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Wir spielen wahrhaftig die ruppigste Rolle in ganz Wittenberg. Umzichtig brauchen wir beide </tei:seg>
           <tei:hi style="letter-sparse">ei</tei:hi>
           <tei:seg>n Hemde, und wie lange wird’s auch damit dauern? Wenn wir wieder in den Busch gehen und uns vor den Hunden des Voigts die Füße wund laufen, so müssen wir’s vielleicht gar zum Verband zerschneiden. Unser Schiff wird immer lecker, Hamlet; wir werden Mann und Maus zu Grunde gehen.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="59"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Wir sollen hier römisches Recht und luther’sche Dogmatik treiben, damit wir einst ob Dänemarks grünem Inselreiche mehr als Philosoph, denn als König herrschen. Und was wir lernen, was ist’s? Nichts, als die Kunst, sich doch satt zu essen, wenn man auch in der Tasche blos Löcher hat. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Gott, ich sehe Polonius noch, wie wir, bepackt mit schmalem Ränzel, von Helsingör Abschied nahmen. Vom Meere wehte ein frischer Zugwind, und unsere weißgewaschenen Hemdkragen klatschten uns lustig um den Hals. „Kinder!‟ sagte der alte Narr, „Entbehrung würzt das Leben! In jungen Jahren Milch, in alten Wein! Wer früh den Werth des Geldes kennt – ‟ und was dergleichen verfluchte Redensarten mehr der alte Geck immer im Mund zu führen pflegt. An dem hochgehängten Brodkorb sieht man’s, sie wollen noch immer mit uns Schule halten. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Ich breche aber durch. So laß ich mich nicht gängeln! Eine um diesen Preis erkaufte </tei:seg>
           <tei:pb n="60"/>
@@ -207,14 +207,14 @@
           <tei:seg> </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Pestilenzialischer Geruch hier! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet. </tei:speaker>
           <tei:seg>Was menschlich ist am Königthume, was lind wie Balsam in die Wunden des Volkes trieft, das liegt nur im Glücke der Majestät, </tei:seg>
           <tei:pb n="61"/>
@@ -224,48 +224,48 @@
           <tei:stage type="business">(Der Hund schmiegt sich dicht an Hamlet.)</tei:stage>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Mir knackt es in den Fingern – stinkt ja hier wie Schwefel – daß dich! – ich glaube gar, die Luft fängt aus sich selbsten Feuer.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="true">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp extract="true" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Was soll ich ein König werden, wenn ich die Kunst, ein Mensch zu seyn, hier zu lernen – hungre. Eine Krone, ein Mantel, ein Aufzug aus der Garderobe auf einem Pflock thut’s auch. Wenn mich hungert, bin ich wie Esau, </tei:seg>
           <tei:pb n="62"/>
           <tei:seg> und verkaufe um eine Schüssel Linsen mit gebranntem Mehl von Herzen gern das Recht der Erstgeburt. Ihr wollt in Helsingör nur meinen ausgehungerten Schatten haben? Nun, so rett’ ich meinen, Gott sey Dank! noch antastbaren Leib, wandre von Hof zu Hof in meinem schlechten Kleide, hänge die Cither um, und singe für ein Nachtquartier, für einen Trunk aus dem Pokal, der an der Tafel kreist, die schönen Lieder meiner Heimath: die Eddawunder, wie Sigurd den Drachen schlug, wie Baldur starb und wie die hohen Asen selbst ihr Schicksal tragen müssen nach dem Wind, der in dem Laub der Nornenesche flüstert! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Halt Dir das Vieh vom Leibe!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="business">(zum Hunde)</tei:stage>
           <tei:seg>. Kusch! Prästigiator!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Der Hund hat Lust an mir – </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Was schnuppert er an Deinen Lenden?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> Das gute Thier schmeichelt sich gern bei fremden Leuten ein – </tei:seg>
           <tei:stage type="business">(bei Seite zum Hunde)</tei:stage>
@@ -276,38 +276,38 @@
           <tei:seg> </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Studenten.</tei:speaker>
           <tei:seg> Ihr seyd der Taschenspieler Faust? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Andere</tei:speaker>
           <tei:seg>. Der Tausendkünstler, der, wie unser Herr, aus Wasser Wein macht?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Andere</tei:speaker>
           <tei:seg>. Faust, der Köpfe abschlägt, und sie ohne Fährlichkeit wieder anleimt? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Gebt uns doch ein Stück zum besten, wie Ihr dem Kaiser Maximiliano einst in Inspruck den großen Alexandrum und dessen Gemahlin fürgestellt habt! Teufel auch! Dem Kaiser standen die Haare zu Berge, als er ganz verlegen der Macedonischen Majestät, die ein winziges Männlein mit rothem Barte war, die Hand bot. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Weckst Du nur Todte? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> Auch Lebendige. Aber was wollt Ihr </tei:seg>
           <tei:hi style="letter-sparse">Geister</tei:hi>
@@ -316,39 +316,39 @@
           <tei:seg> frische, in ihren thauigen Reizen strahlende Welt! Laßt die Gespenster, die ich aus Verwesungsstaub destillire, mürben und abgestorbenen Begierden! Fordert Lebendige!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio. </tei:speaker>
           <tei:seg>Macht, macht!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>. Da Ihr’s wollt, wohlan! Aber ich thu’ es gezwungen, wie Proteus, da er weissagen sollte. </tei:seg>
           <tei:stage type="business">(Die Scene füllt sich mit Rauch und Nebel.)</tei:stage>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Ich glaube, aus dem Pudel kömmt’s heraus.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Studenten</tei:speaker>
           <tei:seg>. Irgend muß es brennen. Schwarzer Qualm ergießt sich in langen gewundenen Locken von einem Herde, den man nicht sieht. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Rothe Funken knistern. Die Wolke malt sich immer blauer, heller, prächtiger, als ginge hinter einem Transparent die Sonne auf.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>. </tei:seg>
           <tei:foreign>Heus, Heus,</tei:foreign>
@@ -362,56 +362,56 @@
           <tei:foreign>Mephistophele!</tei:foreign>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Studenten</tei:speaker>
           <tei:seg>. Ein Bild! Ein Schatte! Kein bunter Schatte – es leibt und lebt.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Horatio! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Ein reizendes Phantom!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Die schlanke Hüfte! Ihr blaues Auge! Ihr lockig Haar, das sich in blonden Wellen vom Scheitel auf den Busen niedergießt. Sie ist’s, Horatio – </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Sie grüßt – sie lächelt.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Ophelia! Unschuldsspiegel, von unserm unreinen Athem angehaucht, erblinde nicht! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
           <tei:speaker>Horatio.</tei:speaker>
           <tei:seg> Sie weicht zurück; die Farben bleichen aus.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Nein, o Luft, ich halte dich, täuschender Versteck! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="66"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Horatio</tei:speaker>
@@ -420,40 +420,40 @@
           <tei:seg>t – sie sinkt in Nichts zusammen – da – da – die Gaukelei! Was, Satanspossen!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Studenten.</tei:speaker>
           <tei:seg> Da reitet er fort. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Andere.</tei:speaker>
           <tei:seg> Halloh, folgt ihm nach! </tei:seg>
           <tei:stage type="exit">(Faust reitet auf dem Hunde durch die Luft fort. Die Uebrigen stürzen ihm nach.)</tei:stage>
         </tei:p>
       </tei:sp>
-      <tei:head data-heading-id="Zweite Scene" type="level-2" margin-left="0" margin-right="0" margin-top="0.6" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="Zweite Scene" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.6" type="level-2">
         <tei:hi style="letter-sparse">Zweite Scen</tei:hi>
         <tei:seg>e.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:stage type="setting">In einem entlegenen Theile der Stadt. Nacht, nur ein einzelnes Fenster an einem kleinen Hause ist erleuchtet.</tei:stage>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. In dieser Gegend – sagte man. Hier finde sich Einer nur zurecht! Ein graues Häuschen – Ja, der Rauch der Nacht macht Alles grau. Nicht eine Seele hör’ ich – Da huscht eine Fledermaus – was Teufel, sie setzt sich in die Feder des Barets – st – st – so – Sieh, </tei:seg>
           <tei:pb n="67"/>
           <tei:seg> ein Licht! Ich will doch näher gehen. Ja, das ist er drinnen – welch ein räuchrig Hexeninventarium steht an den schwarzen Wänden – still – man spricht; es sprechen Zwei – Ich sehe den Andern nicht. Nur der Hund liegt am Kamin und wärmt sich die Schnauze. Ich sehe wahrhaftig Niemand weiters in dem Loch, und doch hält man deutlich Zwiesprach. – Mir graut – Ich will doch lauschen, eh’ ich poche. –</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:stage type="location">Von drinnen.</tei:stage>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="letter-sparse">
           <tei:stage type="entrance">Faus</tei:stage>
         </tei:hi>
@@ -463,446 +463,446 @@
         </tei:hi>
         <tei:stage type="entrance">s.</tei:stage>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich warb für Dich: von jener Opfer Last,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Die keuchend Du zu tragen hast,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ist immer noch Dein Rücken nicht gebogen!</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Du bist ermattet, Teufel, sprich, ist das,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Was Du vollbringst, Dein eigner Haß?</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ist es ein Andrer, der auch Dich betrogen?</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich bin Dein Erbe, kann nicht mehr zurück,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Mir nützt es nichts, doch möcht’ ich gerne wissen,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Bist von der Hölle Du ein einzeln Stück,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Das sich vom Ofen glühend abgerissen?</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Bist Du ein Knecht, bist Du der Hölle Fürst,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Fühlst Du die Gluth selbst, die Du Andern schürst?</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="68"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Mephistopheles</tei:speaker>
           <tei:seg>. </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ob ich ein Schnupftuch brauche, willt</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Du sagen, das die Rührung stillt,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wenn von den Menschenpinseln,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Die mein sind, manche kläglichst winseln?</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ob ich Maschine bin, ob Dilettant,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ob ohne Kopf, nur eines Andern Hand,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ob ich wohl gar einst Mensch gewesen,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und dann als Spreu aus Euerm Korn gelesen –</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Nein, glaubt! ’nen Mann, wie Euch, den ehrt man schon:</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich bin der </tei:seg>
             <tei:hi style="letter-sparse">Fürs</tei:hi>
             <tei:seg>t der Hölle in Person.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Die Menschheit ahnt’s, daß hinter Deinem Thor</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Auf Reue lauscht kein gnädig Ohr,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und läßt Dich auch geboren werden</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Nur aus Dir selbst, gibt </tei:seg>
             <tei:hi style="letter-sparse">kein</tei:hi>
             <tei:seg>e Mutter Dir;</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wir wissen nicht, aus wessen Brüsten</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Du sogst die unersättlichen Gelüsten:</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Großmutter nur, die alte Sieben,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>War’s, die mit Borsten-Haaren ihres Kinns</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Aus Zärtlichkeit Dich manchmal wohl gerieben.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Am Ofen schnarcht dabei ihr Kater Hinz,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:pb n="69"/>
             <tei:seg> Die Spindel schnurrt – den Faden feuchtet sie </tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Mit Rotz, den ihr das fries’ge Auge lieh.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Mephistopheles</tei:speaker>
           <tei:seg>. </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>O humoristischer Thor,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Du ziehst die bunte Farbe</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Dem grauen Rock der Wahrheit vor,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und sprengst mit einer witzigen Raketengarbe</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Das in die Luft, was zu verstehen</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>In Deinem Hirn es mangelt an Ideen.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>So wisse denn, warum </tei:seg>
             <tei:hi style="letter-sparse">Groß</tei:hi>
             <tei:seg>mutter</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und nicht, die mich gebar, als Bildungsfutter,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Womit man flügge Phantasieen kirrt,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Von Ammen Euch geschildert wird.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich bin der Seufzer, den die Creatur</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>In monderhellten linden Sommernächten,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Allein vernehmbar den Gerechten,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ausstößt, der Thränenthau der Flur,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Der aus der siedenden Materie Brei</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Zuweilen leise ausgestoßne Schrei;</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Gott schuf mich, und er selbst zerstört</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Mich wieder, wenn ich kaum verjährt.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Er setzt mir nach, er läßt mich nirgend harren,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und mich zu einer kalten Form erstarren.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>So bin ich nichts als nur sein eignes Beben,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wie er sich schüttelt, wenn er seine Kraft</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:pb n="70"/>
             <tei:seg> Als Stein am Stahle </tei:seg>
             <tei:hi style="letter-sparse">Leben</tei:hi>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Erprobt und sprühet, spricht und schafft.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Gebornes bin ich nicht, von Gotte Zeuge nur</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und bloße Zeugung ausgespritzt in die Natur.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>In Allem find’ ich meinen Uter,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Berg, Thal und Luft ist meine Mutter,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und daß Erkleckliches ich nicht verhehle,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Besonders ist’s die Menschenseele.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Nun weißt Du, wer mich leben macht,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wer mich geherzt, geküßt, belacht;</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und wer aus meinen allerliebsten Augen,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Sich einen ganzen Himmel weiß zu saugen.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Großmutter aber sitzt, gekauert</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wie eine Schlang’ am letzten Loch der Welt,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Das alte matte Auge lauert,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ob Demiurg das thut, was sie bei ihm bestellt;</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und wenn Gott just nicht pirscht in dem Reviere,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>So öffnet sie mir wohl die Thüre,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und läßt verstohlen mich zu sich herein,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
-            <tei:seg>Dann schenkt sie mir ein Gläschen tausendjähr'gen Wein,</tei:seg>
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+            <tei:seg>Dann schenkt sie mir ein Gläschen tausendjähr&apos;gen Wein,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und packt mir alle Taschen</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Mit Kuchen voll und Zuckerwerk zum Naschen.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Dafür muß ich ihr dann den krummen Rucken</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Aus Dankbarkeit ein wenig jucken.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="71"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Du mischst Dich in das Göttliche, Du Quark,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und thust, als wär’ der Erde Mark</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Mit Deinem Schlamm versetzt, als knetest Du</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Den Sauerteig zum Brod des Himmels zu.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Mephistopheles</tei:speaker>
           <tei:seg>. </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
-            <tei:seg>Nenn' zwischen Höll’ und Himmel mir den Damm,</tei:seg>
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+            <tei:seg>Nenn&apos; zwischen Höll’ und Himmel mir den Damm,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Den Ort, wo Gut’ und Böse sich zerklüften!</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>In das Erhabne, wie in einen Schwamm,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Saug ich mich ein mit meinen süßen Giften.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich ziehe Gottes Mantel an,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
-            <tei:seg>Frisir' mein Haupt mit des Olympiers Locken;</tei:seg>
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+            <tei:seg>Frisir&apos; mein Haupt mit des Olympiers Locken;</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Auf leisen wollnen Socken</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Schleich’ ich zur Schwärmerei heran,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und bring’ durch ein’ge salbungsvolle Sprüche</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Die arme Seele in die Brüche.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ich sah es heut’ –</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Mephistopheles.</tei:speaker>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="3.5" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="3.5" margin-right="0" margin-top="0">
             <tei:seg>Woran?</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> </tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="5.2" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="5.2" margin-right="0" margin-top="0">
             <tei:seg>An jenem Dänen.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Mephistopheles</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Den jungen Hansen wollt’ ich spänen</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:pb n="72"/>
             <tei:seg>Vom Euter milchiger Doktrinen.</tei:seg>
             <tei:seg> </tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Das hat so blaue, blonde Frühlingsmienen,</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Das ist im ew’gen Stolz, in Hochmuth und Allarm</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Und kitzelt nur dem Teufel unterm Arm.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Wie glücklich war er nur, als wir Opheliens Schatten</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Ihm vorgezaubert hatten.</tei:seg>
           </tei:l>
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Er glaubt’ an die Gespenster.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Mephistopheles</tei:speaker>
           <tei:seg>.</tei:seg>
         </tei:p>
-        <tei:lg margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-          <tei:l margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+        <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:l first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
             <tei:seg>Still, still, da lauscht das junge Blut am Fenster.</tei:seg>
           </tei:l>
         </tei:lg>
       </tei:sp>
-      <tei:head data-heading-id="Dritte Scene" type="level-2" margin-left="0" margin-right="0" margin-top="0.6" margin-bottom="0" first-line-indent="0">
+      <tei:head data-heading-id="Dritte Scene" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.6" type="level-2">
         <tei:hi style="letter-sparse">Dritte Scen</tei:hi>
         <tei:seg>e.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:stage type="setting">Faust</tei:stage>
         <tei:hi style="font-size-small">’</tei:hi>
         <tei:stage type="location">s Herberge. Von Innen.</tei:stage>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:hi style="letter-sparse">
           <tei:stage type="entrance">Faus</tei:stage>
         </tei:hi>
@@ -919,14 +919,14 @@
         </tei:hi>
         <tei:stage type="entrance">t (pocht draußen).</tei:stage>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> Wer sucht mich in so später Nacht? Herein! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="entrance">(tritt ein)</tei:stage>
@@ -939,20 +939,20 @@
           <tei:seg> Dinge besprechen können, daß ich Euch bitte, mir dasselbe Weib, was wir sahen, zum andern Male vorzuzaubern.  </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg>. Möchtest Du nicht lieber Pygmalion seyn, der aus einem Stein einst Leben schuf, und von mir die Formel jener geheimnißvollen Schöpfung lernen? Dies wäre eines lernbegierigen Mannes würdiger, als der Kitzel bloßer Neugier, den Du von mir verlangst.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>.  Ich nehme Deine Meisterschaft als ein Wunder, dessen Erklärung mir keine unruhige Stunde machen soll. Ich will nur Ophelien wiedersehen, und jene fröstelnden Schauer über meinen Nacken rieseln fühlen, die zwischen Furcht und Wollust eine so unaussprechliche Mitte halten. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="novelistic">(für sich).</tei:stage>
@@ -961,14 +961,14 @@
           <tei:seg>len die Geister der Unterwelt sich selbst in Deine Arme werfen und ein Maal auf Deinem Körper zurücklassen, daß Du in ewiger Unklarheit seyn wirst, welches Deine Heimat ist!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Besinnt Euch nicht! Laßt die Elfen ihre klingenden Tänze beginnen und zieht von dem unsichtbaren Reiche der Geister die verhüllende Decke weg!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="business">(mit dem Zauberstabe)</tei:stage>
@@ -978,16 +978,16 @@
           <tei:foreign>heus, Mephistophele!</tei:foreign>
         </tei:p>
       </tei:sp>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:hi style="letter-sparse">
           <tei:stage type="business">Und es geschieht also.</tei:stage>
         </tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0.3" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
         <tei:stage type="exit">(Faust und der Hund sind verschwunden.)</tei:stage>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:pb n="75"/>
         <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">
@@ -999,38 +999,38 @@
         </tei:hi>
         <tei:stage type="entrance">a.</tei:stage>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Ja, sie ist’s, Ophelia! Die weiße Lilie, beschienen von dem glühenden Roth der Muskatellertraube! Ob ich ihr nahe? Mein Fuß zögert aufzutreten; denn ist dies nicht Alles die verwirrte Täuschung meines Auges? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia.</tei:speaker>
           <tei:seg> Grüß Dich Gott, Hamlet!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Grüß Dich </tei:seg>
           <tei:hi style="letter-sparse">Gott</tei:hi>
           <tei:seg>? Sie ist kein Schatten der Hölle. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia</tei:speaker>
           <tei:seg>. Du bist stolz geworden, Prinz! Und so blaß, das Auge trocken, wie verdurstend. Hat Dir draußen Niemand die Furchen von der Stirn geküßt? Nur die Lippen scheinen die Canäle des heißen Blutes geworden zu seyn; sie schwellen wie die Kirsche, die zu zerspringen droht.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Es ist Opheliens Stimme; aber ihre Worte verrathen die Blume nicht, die feuchte Perlen weinte, wenn man sie nur ein wenig hart ritzte.</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:seg> </tei:seg>
           <tei:pb n="76"/>
           <tei:seg> </tei:seg>
@@ -1038,70 +1038,70 @@
           <tei:seg>. O Hamlet, befrage den ganzen Hof, ob ich je eine Vergessenheit Deines theuern Namens verrathen habe! Auf meinem Herzen trug ich die Angedenken, die ich in der Stunde des Scheidens aus Deinem Haare schnitt, wohl gezählt, zwei hundert sieben und fünfzig blonde Seidenfäden.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Jetzt erst erkenn’ ich sie. Diese kindische Naivetät steht ihr reizend schön, und verräth mir all die holden Schüchternheiten, die bei den ersten Küssen an ihr aufflatterten, wie ein Schwarm verjagter Tauben. Sie ist’s; aber wie umgekehrt – Lockender als je ist diese Stimme – Ophelia, nun den Kuß des Wiedersehens! </tei:seg>
           <tei:stage type="exit">(Ophelia verschwindet.)</tei:stage>
           <tei:seg> Da ist sie hin! Ich bin wie Ixion, und habe statt der Juno eine Wolke im Arm.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Geisterstimmen</tei:speaker>
           <tei:seg>. Seht, seht, er stürzt dem Schatten nach, wie berauscht von einem Liebestrank. Seine heiße Sehnsucht sengt das frische Grün des Feldes gelb. Immer enger, enger schieben sich die Hügel zusammen, und die Hindernisse, die </tei:seg>
           <tei:pb n="77"/>
           <tei:seg> unter seinen Füßen wachsen, hemmen den stürmischen Lauf. Hamlet! Hamlet! Wahnsinnverblendeter! Dort ist Ophelia! An dem hohen Fenstergitter des Thurms flattert und weht ihr Schleier. Sie winkt. Sie weint. Sie streckt die Hände, die hülflosen, gefesselten Hände aus nach Dir; rette sie! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="setting">(vor einem Thurm in einer finstern Gegend)</tei:stage>
           <tei:seg> Mein Athem schwindet. Ich hörte von Männern, die heimlich liebebezaubert sind, daß man Johanniskräuter in ihre Schuhe legt, und sie zu laufen zwingt, laufen, laufen Meilen weit, um mit dem triefenden Schweiß das Gift, das ansteckende Gift der Liebe, recht in ihren Adern heiß zu sieden. Das Bild will mich nicht verlassen und lächelt mich aus Busch und Baum mit so anmuthsvollen Zügen an, daß ich hinsterbe im Verlangen nach Dir, Ophelia!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="location">(oben am Fenster des Thurms).</tei:stage>
           <tei:seg> Wer ruft mich? Bist Du es, Hamlet?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Hinter dem eisernen Gitter schimmert es weiß. </tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="78"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Ophelia. </tei:speaker>
           <tei:seg>Mir ist’s, als wär’ ich auf Greifen durch die Luft geflogen; aber es war nur mein Vater, der mich aus Deinen Umarmungen riß und in diesem Thurme die überquillenden Gefühle büßen läßt. Du bist es doch, was unten zwischen den Gebüschen geht?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Ich hör’ eine weibliche Stimme, etwas tiefer, als die Opheliens ist. Sollte sie selbst jenes weiße Schimmern seyn?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia</tei:speaker>
           <tei:seg>. Nimm diese Blume, Hamlet, die ich hinunterwerfe, und drücke sie an den Stein, so wird er überall weich werden und Dir sein Ersteigen erleichtern.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Was fällt dort? Ein Hasenschwanz – aber sieh, die Mauer weicht, wenn ich mit dem Dinge drücke. Ich steig’ in die Nischen. Sie ist’s. Ich klimme hinauf zu Dir, Ophelia! Da – da – faß meine Hand – hilf mir, lächelndes Bild! Ophelia! wo ist sie?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Geisterstimmen.</tei:speaker>
           <tei:seg> Wo er sie faßt, gerinnt die Luft in Nebel. </tei:seg>
           <tei:pb n="79"/>
@@ -1110,72 +1110,72 @@
           <tei:seg>n Liebe, hält der Zauber Stand. Seht, seht, wie sich die dunkeln Schatten der finstern Schlucht allmälig erhellen, wie unter Hamlet, dem unablässig steigenden, sich das alte Gemäuer in Marmortreppen verwandelt! Tausend Lichter werfen ihre blendenden Strahlen auf die glatten Wände eines Pallastes, dessen Echo’s von den Tönen einer verführerischen Musik widerhallen. Dort von den Säulen ergießt sich ein Strudel tanzender Paare, rechts ein andrer, ein dritter, – o wie die Luft den Fuß beflügelt! Wie sie schnell vorübergleiten und sie sich winken, lächelnd, mit rosigem Lächeln. Hamlet! Hamlet! Du zauderst?</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="setting">(auf einem rauschenden Feste)</tei:stage>
           <tei:seg> Ich fasse blind hinein, in die Reihen der Mädchen, weil ich sie überall zu sehen glaube, die ich suche. Ich schwinge mich einen Augenblick in den wonnigen Reigen und sehe dann die Täuschung. Ah, dort rauscht ihr Gewand!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia</tei:speaker>
           <tei:seg>. Wie ihm die Lichtstrahlen immer den Staar </tei:seg>
           <tei:pb n="80"/>
           <tei:seg> stechen, und er immer wieder erblindet! Er sieht mich überall und täuscht sich überall. </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet</tei:speaker>
           <tei:seg>. Beflügelte Libelle, weile! Das ist sie nicht – das – das – Ophelia, flieh in die Schatten jenes Gemaches!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Ophelia</tei:speaker>
           <tei:seg>. Wühle nicht so in meinen Locken, Sturmwind! Still! still! Laß die Quelle, die aus jenem Becken rieselt, sich murmelnd in das Geflüster unserer Liebe mischen! Hamlet! Du Rasender! Du hast keine Worte mehr, nur Seufzer. Ich zittre: Hamlet! –</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Geisterstimmen</tei:speaker>
           <tei:seg>. Der Vorhang fällt. Die Geigen weinen nicht mehr; die Töne des Hornes verschwinden in das Rauschen des Waldes. Alles wird dunkel. Nur wir, wir, die Zeugen der Natur, decken leise den Vorhang auf und lauschen, wie sie sinken und sich heben, – ach, ach! wir spitzen die kleinen Augen vergebens; vergebens, wir sehen nichts, nichts als die Nacht und das undurchdringliche Chaos.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
         <tei:pb n="81"/>
         <tei:seg> </tei:seg>
         <tei:stage type="business">Faust</tei:stage>
         <tei:seg>’</tei:seg>
         <tei:stage type="location">s Herberge.</tei:stage>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Faust.</tei:speaker>
           <tei:seg> Er schläft noch immer, der gute Thor. Er weiß nicht, daß er in den Armen der Hölle schläft. </tei:seg>
           <tei:stage type="business">(Hebt den Vorhang des Bettes zurück, wo Hamlet neben dem Hunde liegt. Der Hund kriecht wedelnd zu Faust herunter.) </tei:stage>
           <tei:seg>Pst! Stör’ ihn nicht, Satan, aus seinem Himmelstraume. Er wird nun hingehen in die Welt, zerrissen, unkräftig, nur lebend in dem Schatten, den er wirft. Alle seine Worte werden an dem haften, was er flieht, und seine Entschlüsse werden grade daran scheitern, womit er sie auszuführen sucht. Wie ein schwankes Rohr wirst Du hin und her gewiegt werden, armer Knabe! Du wirst den Himmel zu umarmen glauben, und nie ahnen, daß die Hölle Dir einen unvertilgbaren Fleck wie einen Stempel aufgedrückt hat. Diese Bewußtlosigkeit aber und Unklarheit wird Dich retten; ja, das, was Du der Hölle verdankst, wird Dich dem Himmel erhalten.</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
           <tei:seg>Die Sonne langt schon über den blauen Rand der Fichtenwälder herüber. Der Hahn </tei:seg>
           <tei:pb n="82"/>
           <tei:seg> krähet zum Zweitenmale. Es ist Zeit. Draußen wird es laut. Fort, fort!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
         <tei:stage type="exit">(Faust und der Hund verschwinden.)</tei:stage>
         <tei:seg> </tei:seg>
       </tei:p>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
           <tei:speaker>Stimmen draußen.</tei:speaker>
           <tei:seg> Hamlet, Hamlet! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg> </tei:seg>
           <tei:stage type="location">(draußen).</tei:stage>
@@ -1184,51 +1184,51 @@
           <tei:seg> Sieh da, Hamlet! wir bringen Dir eine ernste und freudige Botschaft.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Hamlet. </tei:speaker>
           <tei:seg>Was ist? </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Ernst ist der Tod Deines Vaters. Eines Tages in der Schlafstunde nach dem Essen traf man ihn kalt im Garten, mitten unter Blumen, die wehmüthig blickend über ihn ihr duftiges Haupt senkten.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Mein Vater! </tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Horatio</tei:speaker>
           <tei:seg>. Freudig aber ist es, daß die Krone nun auf Deinen Scheitel wartet.</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:speaker>Die Uebrigen.</tei:speaker>
           <tei:seg> Heil, König Hamlet!</tei:seg>
         </tei:p>
       </tei:sp>
-      <tei:sp margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" extract="">
-        <tei:p margin-left="0" margin-right="0" margin-top="0.2" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="">
+      <tei:sp margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" style="text-left">
           <tei:pb n="83"/>
           <tei:seg> </tei:seg>
           <tei:speaker>Hamlet.</tei:speaker>
           <tei:seg> Ich dank’ Euch! Jetzt auf! nach Dänemark!</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract=""/>
-        <tei:p margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.4" style="text-center">
           <tei:hi style="letter-sparse">*     *</tei:hi>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-center" extract="">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
           <tei:seg>*</tei:seg>
         </tei:p>
-        <tei:p margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0" first-line-indent="0" style="text-left" extract="">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.4" style="text-left">
           <tei:seg>Ich traute wohl dem Scharfsinn der deutschen Kritik zuviel zu, wenn ich hoffte, sie würde die eigentliche Bedeutung dieser kleinen Dichtung errathen. Deutlich ist, daß Hamlet durch seine Begegnung mit Faust die deutschen Elemente des Zweifels in sich aufnehmen sollte, die Shakespeare so unübertrefflich geschildert und Börne so fein zergliedert hat. Dunkler aber ist die Absicht, die ich mit Ophelien hatte. Ich wollte die Tieck’sche Hypothese über Opheliens Verhältniß zu Hamlet, als die Erinnerung früherer Schuld und näherer Berührung, mystisch und typisch zugleich rechtfertigen und widerlegen. Denn sicher ist Tiecks Vermuthung unbegründet, in sofern sie der jungfräulichen, ich möchte sagen der Aufgebotsehre Opheliens Eintrag thut; begründet aber allerdings im Reich der Phantasien und Gedanken, die auffallenderweise bei Ophelien </tei:seg>
           <tei:hi style="letter-sparse">meh</tei:hi>
           <tei:seg>r zu verrathen scheinen, als sie </tei:seg>
@@ -1240,25 +1240,25 @@
       </tei:sp>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.3" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:seg>Bearbeitung: Claudia Tosun, Hamburg</tei:seg>
       </tei:head>
-      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Nach der Veröffentlichung erster Szenen 1835 in der „Allgemeinen Theater-Revue“ August Lewalds nahm Gutzkow 1839 eine erweiterte Fassung von </tei:seg>
         <tei:q>Hamlet in Wittenberg</tei:q>
         <tei:seg> in das </tei:seg>
@@ -1293,25 +1293,25 @@
           <tei:seg> Hamlet in Wittenberg. Dramatische Phantasie. In: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 1. Jena: Costenoble, [1873]. S. 369-386. (Rasch 1.5.1.4)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0.4" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.4" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
         <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert. Sprechernamen vor Figurenreden, in E durch Sperrungen kenntlich gemacht, werden in Kapitälchen wiedergegeben.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Dramas im Band: Dramatische Werke. Hg. von Anne Friedrich und Susanne Schütz. Münster: Oktober Verlag, 2009. (= Gutzkows Werke und Briefe. Abt. II: Dramatische Werke, Bd. 1.)</tei:seg>
       </tei:p>
-      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
         <tei:citedRange type="page-line-ref">31,1</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Sieh,</tei:lem>
@@ -1320,7 +1320,7 @@
         <tei:seg> berichtigt nach A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">32,V.30</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>War’s, die</tei:lem>
@@ -1329,25 +1329,25 @@
         <tei:seg> berichtigt nach A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">34,V.95</tei:citedRange>
         <tei:seg> Alle drei Figurenreden dieses gebrochenen Verses sind in E mit einem Einzug versehen, so wie dort sonst Prosatext gesetzt ist; Reim und Metrum weisen den Text aber als Vers aus </tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">34,V.99</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>ew’gen</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>ew’gem</tei:sic>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">37,11</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Wiedersehens</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Wiesehens</tei:sic>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">38,25</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>winken, lächelnd</tei:lem>
@@ -1356,26 +1356,26 @@
         <tei:seg> berichtigt nach A</tei:seg>
         <tei:hi style="sup">1</tei:hi>
       </tei:p>
-      <tei:head type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.1" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>Errata</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0.1" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
         <tei:seg>Zur Buchausgabe (GWB II, Bd. 1) sind folgende Textkorrekturen zu vermerken:</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">25,13-14</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Hemde mehr anzuziehen</tei:lem>
         <tei:seg> lies: </tei:seg>
         <tei:sic>Hemde anzuziehen</tei:sic>
       </tei:p>
-      <tei:head type="level-3" margin-left="0" margin-right="0" margin-top="0.3" margin-bottom="0.1" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.3" type="level-3">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left"/>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
     </tei:interpGrp>
   </tei:text>
 </tei:TEI>

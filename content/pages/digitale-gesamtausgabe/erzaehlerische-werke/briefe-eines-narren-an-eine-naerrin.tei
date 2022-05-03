@@ -39,7 +39,7 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1832">1832</tei:date>
+        <tei:date when="1832-08">August 1832</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #briefe-eines-narren-an-eine-naerrin"/>
@@ -112,9 +112,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Ich hab’s schon gesagt, daß aus diesen vermeinten Rechtsansprüchen ein Proceß von größter Bedeutung entstanden ist, und da die Theilnahme des Publicums sich schon so lebhaft für ihn ausgesprochen hat, so werden hiermit diese Briefe als </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-8" type="esv">corpus delicti</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-8" type="esv">
+          <tei:foreign>corpus delicti</tei:foreign>
+        </tei:ref>
         <tei:seg> bekannt gemacht. Dies bescheidene Vorwort wird von dem künftigen </tei:seg>
         <tei:ref target="#annotation-9" type="esv">Sieger</tei:ref>
         <tei:seg> durch eine tiefere und gehaltvollere Vor- oder vielmehr Nachrede ersetzt werden.</tei:seg>
@@ -130,9 +130,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-right">
         <tei:ref target="#annotation-734" type="esv">Jonathan </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-11" type="esv">Kennedy</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-11" type="esv">
+          <tei:hi style="letter-sparse">Kennedy</tei:hi>
+        </tei:ref>
         <tei:seg>,</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-right">
@@ -213,13 +213,13 @@
         <tei:seg> gern in diesem </tei:seg>
         <tei:ref target="#annotation-19" type="esv">Chor von hunderttausend Narren</tei:ref>
         <tei:seg>, weil ich in ihm zu leben weiß. An einer abgeküßten Zehe einer Christusstatue kann ich Dir die Geschichte nicht nur des Christenthums, sondern aller Religion und Kirche demonstriren. Ich mache mich anheischig, an die Bandschleife Deines Hutes alle Tendenzen unserer Zeit anzuknüpfen. In dem Augenblick verstand ich die Wahrheit dieses Jahrhunderts, als sie </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Paganini</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Paganini</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-20" type="esv"> vor einer bezauberten Menge auf der </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">G-</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>G-</tei:foreign>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv">Saite geigte</tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
@@ -244,9 +244,9 @@
         <tei:seg>, im Namen der deutschen Freiheit in Besitz nehmen, und alle Deine Brüder und Schwestern einladen auf dies großartige Zeugniß ewig dauernder Schöpfung auszu­wandern. Doch gewiß ist Dir nicht unbekannt geblieben, daß jener insularische Säugling der Natur vor Kurzem an den Folgen des </tei:seg>
         <tei:ref target="#annotation-26" type="esv">Besitzergreifungsstreites zwischen England und Neapel</tei:ref>
         <tei:seg>, entweder an dem </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-27" type="esv">mal de Naples</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-27" type="esv">
+          <tei:foreign>mal de Naples</tei:foreign>
+        </tei:ref>
         <tei:seg> oder an der </tei:seg>
         <tei:ref target="#annotation-28" type="esv">englischen Krankheit</tei:ref>
         <tei:seg> verstorben ist. Dieser Fall hat mich so in Erstaunen versetzt, daß ich mich nicht eher trösten konnte, bis ich Deine Absicht mit mir zu fliehen erfuhr. Da konnt’ ich Gottes gütige und weise Vorsicht nicht genug erheben: denn ich gestehe Dir, noch weil’ ich gern unter meinen Brüdern. Aber ich weiß nicht, war es das meinem Herzen entströmende Gefühl der Dankbarkeit für seine wunderbare Einmischung, für den bekannten Finger Gottes, oder war es Wehmuth über die geringe Dauer des menschlichen Lebens – ich stand auf und hielt folgende Leichenrede an dem Sarge einer früh gestorbenen Insel:</tei:seg>
@@ -360,13 +360,13 @@
         <tei:seg> – wollte man an die Stelle der antiquirten Allianz </tei:seg>
         <tei:ref target="#annotation-42" type="esv">das Princip der Nichteinmischung</tei:ref>
         <tei:seg> stellen. Wozu dient aber ein Princip, das von seinen Verehrern nicht beobachtet wird, noch mehr, das von denen befolgt wird, die es </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">in</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>in</tei:foreign>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv"> </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-43" type="esv">thesi</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-43" type="esv">
+          <tei:foreign>thesi</tei:foreign>
+        </tei:ref>
         <tei:seg> niemals anerkennen werden? Ist es Preußens Glücksstern oder die Besonnenheit seiner Diplomaten gewesen, daß es den Franzosen nicht fremd, den Russen nicht neu erschien, und durch dieselben Maßregeln, die jene und diese in </tei:seg>
         <tei:pb n="19"/>
         <tei:seg> die gespanntesten Verhältnisse versetzte, beiden Theilen Genüge that? Die Kunst des Temporisirens ist alt. Die erste Lehre des Diplomaten bleibt die: Werde Meister des Augenblicks! Es gibt nun aber bekanntlich keinen Augenblick, und wenn ich ihn gedacht habe, ist er schon zur Vergangenheit geworden, es gibt aber Politik und Minister. Nichts naturgemäßer, als daß diese aufhören, und ich glaube wirklich, das Bedürfniß, ohne Rücksicht und mit Offenheit zu handeln, Treue und Glauben an die Spitze aller öffentlichen Verhandlungen gestellt zu sehen, wird immer allgemeiner. Es ist leicht, sich selbst zu betrügen, aber immer schwerer wird es, Andere zu hintergehen.</tei:seg>
@@ -459,9 +459,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Du fragst nach den nähern Umständen dieses Rufes? Nun so höre, wem ich den Rang abgelaufen habe! Mein Mitbewerber war der berühmte </tei:seg>
         <tei:ref target="#annotation-57" type="esv">Bibliothekar </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">Dr.</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>Dr.</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-730" type="esv"> Ernst Münch</tei:ref>
         <tei:seg>, ein </tei:seg>
         <tei:ref target="#annotation-58" type="esv">Lichtfreund</tei:ref>
@@ -847,9 +847,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Sticke mir z. B. auf mein Sacktuch die Worte: </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-136" type="esv">der deutsche Bundestag – – – – – –</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-136" type="esv">
+          <tei:hi style="letter-sparse">der deutsche Bundestag – – – – – –</tei:hi>
+        </tei:ref>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.5" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Dies aber nur zu gelegentlicher Berücksichtigung. Sonst benutz’ ich diesen passenden Ort, </tei:seg>
@@ -867,9 +867,9 @@
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-left">
         <tei:seg>Dein Labsal vom 8. </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-137" type="esv">hujus</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-137" type="esv">
+          <tei:foreign>hujus</tei:foreign>
+        </tei:ref>
         <tei:seg> habe richtig empfangen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -986,13 +986,13 @@
         <tei:seg>Nach der Herausgabe dieser Ideen reisest Du, geliebte Freundin, mit mir nach Berlin. In den höhern Regionen werden wir willkommen sein. Wir lassen uns von den </tei:seg>
         <tei:ref target="#annotation-155" type="esv">Rochow’s, Quitzow’s, Arnim’s</tei:ref>
         <tei:seg>, von den Jagow’s, den Barde-Witz- und Wartenslebenern, den Puttlitzischen Gänsen, sämmtlichen Märkern und Bismärkern fetiren. Zum Scherz wird man Dich </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-156" type="esv">die faule Grete</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-156" type="esv">
+          <tei:hi style="letter-sparse">die faule Grete</tei:hi>
+        </tei:ref>
         <tei:seg> – die erste </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-157" type="esv">ultima ratio regum</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-157" type="esv">
+          <tei:foreign>ultima ratio regum</tei:foreign>
+        </tei:ref>
         <tei:seg> im Preußischen – nennen. – Deinen alten Freund und Verehrer, ich verstehe mich darunter, magst Du nicht vergessen, und mir besonders zum nächsten </tei:seg>
         <tei:ref target="#annotation-158" type="esv">Wettrennen am Kreuzberge</tei:ref>
         <tei:seg> einen Sitz unter der Elite des weiblichen Märkischen Adels verschaffen. Ich werde vor langer Weile und Staub mit diesen Damen sterben, hoffentlich aber am dritten Tage des Rennens wieder auferstehen.</tei:seg>
@@ -1024,9 +1024,9 @@
         <tei:ref target="#annotation-165" type="esv">Restauration der Staatswissenschaften</tei:ref>
         <tei:seg> kein herbes Wort entfahren darf! Sie sind übler dran, als man zu denken pflegt. Unstreitig besitzen Sie den Muth, als ein Märtyrer Ihrer Ueberzeugung unterzugehen. Aber wozu das? Ueberlassen Sie </tei:seg>
         <tei:ref target="#{value()}" type="esv">den </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-166" type="esv">Codicem Fridericianum</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-166" type="esv">
+          <tei:foreign>Codicem Fridericianum</tei:foreign>
+        </tei:ref>
         <tei:seg> seinem Schicksale! Sie haben die Alten studirt; citiren Sie den </tei:seg>
         <tei:ref target="#annotation-167" type="esv">Horaz</tei:ref>
         <tei:seg> weniger und befolgen ihn mehr! Als Alles verloren, warf auch er seinen Schild weg, und huldigte dem Helden der beiden zusammenstoßenden Jahrhunderte, in denen er lebte. Bei Ihrer in Deutschland nur dämmernden Bekanntschaft wird man das </tei:seg>
@@ -1147,13 +1147,13 @@
         <tei:seg> dem Brenn- und Zielpunkt der Zukunft nur entfernt nähern. Die Fabrikarbeiter werden das Königthum anschreien: gib uns unser täglich Brod! Wer kann diese Bitte erhören, so lange das Königthum die andere </tei:seg>
         <tei:ref target="#annotation-186" type="esv">Bitte an Leute wie Rothschild: vergib uns unsere Schuld!</tei:ref>
         <tei:seg> nicht erfüllt erhält. Wie lange dauert es noch, so werden die </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-187" type="esv">droits</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-187" type="esv">
+          <tei:foreign>droits</tei:foreign>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv"> </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-733" type="esv">réunis</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-733" type="esv">
+          <tei:foreign>réunis</tei:foreign>
+        </tei:ref>
         <tei:seg> und dergleichen wie niedergebundene Weiden mit furchtbarer Gewalt aufschnellen. Noch von Alters her verstehen sich die Lyonesen aufs </tei:seg>
         <tei:ref target="#annotation-188" type="esv">Säcken und Ersäufen in der Rhone</tei:ref>
         <tei:seg>, und so ein </tei:seg>
@@ -1168,13 +1168,13 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-735" type="esv">infima</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-735" type="esv">
+          <tei:foreign>infima</tei:foreign>
+        </tei:ref>
         <tei:ref target="#{value()}" type="esv"> </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-192" type="esv">plebs</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-192" type="esv">
+          <tei:foreign>plebs</tei:foreign>
+        </tei:ref>
         <tei:seg> in Frankreich, die Kleinbürger und Bauern in Deutschland verstehen nichts von Formeln und Meinungsfarben. Jenen sind die Reichen, diesen die Herren ein Anstoß. Dort begnügt man sich für heute mit einem hingeworfenen Franken, und verspricht, den Tumult erst morgen anzufangen, hier will man mehr. Man will nicht satt, sondern wieder wohlhabend, wie ehemals, werden. Man will nicht geduldet, selbst nicht gefürchtet, man will geachtet sein. </tei:seg>
         <tei:ref target="#annotation-196" type="esv">Mützen und Rundhüte, Beides wird verworfen</tei:ref>
         <tei:seg>. In Norddeutschland sollen die rundkrämpigen </tei:seg>
@@ -1508,9 +1508,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Unser Prediger-, Superintendenten- und Consistorialwesen wird uns noch zu Grunde richten. </tei:seg>
         <tei:ref target="#annotation-245" type="esv">Das sonntägliche </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-732" type="esv">salvos fac</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-732" type="esv">
+          <tei:foreign>salvos fac</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-722" type="esv"> die acht und dreißig Bundestagsconstituenten</tei:ref>
         <tei:seg> läßt sich freilich nicht umgehen. Vielleicht ist auch die Andeutung gut, daß die Könige vieler Huld von Gott bedürfen, um regieren zu können, und daß sie derselbe mit treuen und redlichen Dienern umgeben möge. Friedrich der Große ließ sich sogar in den Kirchen </tei:seg>
         <tei:ref target="#annotation-246" type="esv">Gottes unterthänigen Knecht nennen</tei:ref>
@@ -1571,9 +1571,9 @@
         <tei:seg>, kurz bei dieser ewigen Schande der Unredlichkeit auf der einen und der Leichtgläubigkeit auf der andern Seite. </tei:seg>
         <tei:ref target="#annotation-263" type="esv">Mit der rechten Hand schreibt in Leipzig Einer gegen die Polen, mit der linken für die Juden</tei:ref>
         <tei:seg>, und er bleibt derselbe Hort der Freiheit. Gegen den edlen </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-160" type="esv">G. Rießer</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-160" type="esv">
+          <tei:hi style="letter-sparse">G. Rießer</tei:hi>
+        </tei:ref>
         <tei:seg> glaubt sich </tei:seg>
         <tei:ref target="#annotation-265" type="esv">ein Anderer in Heidelberg</tei:ref>
         <tei:seg> bestimmt erklären zu müssen, so lange man den aber noch gegen Römlinge reden hört, bleibt er seines liberalen Rufes gewiß. Neulich hat </tei:seg>
@@ -1716,21 +1716,21 @@
         <tei:foreign>a priori</tei:foreign>
         <tei:seg> ein Gräuel sind. Lafayette gilt in Berlin als der lächerlichste alte Geck, der sich auf seinem revolutionairen Steckenpferde fast kindisch gebärdet. Vor Blättern, wie </tei:seg>
         <tei:ref target="#annotation-736" type="esv">die </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Tribune</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Tribune</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-729" type="esv">, die </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-282" type="esv">Revolution</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-282" type="esv">
+          <tei:hi style="letter-sparse">Revolution</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-728" type="esv">, der </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-737" type="esv">National</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-737" type="esv">
+          <tei:hi style="letter-sparse">National</tei:hi>
+        </tei:ref>
         <tei:hi style="font-size-small"> schlägt man ein Kreuz. Eine Regierung, die einen </tei:hi>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-283" type="esv">Odillon Barrot</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-283" type="esv">
+          <tei:hi style="letter-sparse">Odillon Barrot</tei:hi>
+        </tei:ref>
         <tei:seg> zu ihren Gliedern zählte, die </tei:seg>
         <tei:ref target="#annotation-284" type="esv">die Affichen der Studierenden</tei:ref>
         <tei:seg> billigen konnte, scheint das gefährlichste Beispiel. Die </tei:seg>
@@ -1756,19 +1756,19 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:ref target="#annotation-289" type="esv">Wenn die Reformbill siegt</tei:ref>
         <tei:seg>, so ist es mit der Poesie vorbei. Diese braucht die verfallenen Flecken, jene hat ihnen den Untergang geschworen. Sinkt die Aristokratie, so gelten auch die Sitze ihrer Väter nichts mehr. Sie selbst wird dann eilen, Meiereien und Fabriken auf ihren Trümmern anzulegen. Die Erinnerung der Vergangenheit – und das ist alle Romantik – beweist für die Gegenwart nichts mehr, für die Gedanken der Zukunft wird diese selbst sorgen. Die Lumpen der Fabrikarbeiter in Manchester und Birmingham sollen künftig die Rolle spielen, die bis jetzt nur der Seide und dem Hermelin zugetheilt war. Der Irrthum, daß der Mensch immer so groß ist, als die Scholle Landes, die er besitzt, ist jetzt erwiesen. Darum wird mit dem Ansehen des Adels auch seine ungeheuere Ländermasse zerfallen. Das Bedürfniß ist jener </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-290" type="esv">tribunus plebis</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-290" type="esv">
+          <tei:foreign>tribunus plebis</tei:foreign>
+        </tei:ref>
         <tei:seg>, der die neue </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-291" type="esv">lex agraria</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-291" type="esv">
+          <tei:foreign>lex agraria</tei:foreign>
+        </tei:ref>
         <tei:seg> vorschlägt, da es keinen Senat mehr geben wird, da man weiß, wem es gegolten hat, </tei:seg>
         <tei:pb n="121"/>
         <tei:seg> wenn gerufen ist: </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-292" type="esv">à bas les hauteurs immesurées!</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-292" type="esv">
+          <tei:foreign>à bas les hauteurs immesurées!</tei:foreign>
+        </tei:ref>
         <tei:seg> so wird sie siegreich durchgehen. Die Art, wenn die freien Güterbesitzer aufkommen müssen, wird die seyn. Erst freie Schußgerechtigkeit, man wird in den unermeßlichen Forsten der Aristokratie jagen dürfen. Ist man erst in ihnen, so werden sie abgetragen, theils zur Feuerung, theils zur Erlangung eines urbaren Bodens, theils endlich zu Scheiterhaufen für all den Tand und Flitterstaat, den die erstürmten Burgen enthalten. Mich schmerzen die herrlichen Gemälde- und Büchersammlungen, diese prächtigen Kupferstichgallerien, diese mit so beispiellosem Aufwande zusammengebrachten Schätze; aber in Irland wird der Lärm seinen Anfang, in England noch nicht sein Ende nehmen. Wo soll da noch der Sinn für das Schöne, Edle gedeihen! Mordbrenner sind zwar die besten Staffagen der Schönheit, wie der Teufel, aber eine Welt voll solcher Bösewichter!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2115,9 +2115,9 @@
         <tei:ref target="#annotation-336" type="esv">Sie wären Einer der Unsrigen gewesen</tei:ref>
         <tei:seg>! Zu Hegel sagte man: Verehrter Herr Hegel, </tei:seg>
         <tei:ref target="#annotation-337" type="esv">wir hätten’s uns für eine Ehre geschätzt – </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-725" type="esv">mais la philosophie n’existe plus</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-725" type="esv">
+          <tei:foreign>mais la philosophie n’existe plus</tei:foreign>
+        </tei:ref>
         <tei:seg>. Jetzt ist nun dieser gestorben, oder wie </tei:seg>
         <tei:ref target="#annotation-338" type="esv">F. Förster</tei:ref>
         <tei:seg> sich ausdrücken würde, </tei:seg>
@@ -2372,9 +2372,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:pb n="176"/>
         <tei:seg> Du kannst Dich bei dieser Apostrophe eines Gleichnisses bedienen, das ich </tei:seg>
-        <tei:hi style="font-size-small">
-          <tei:ref target="#{value()}" type="esv">g</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="font-size-small">g</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-402" type="esv">estern aus dem Theater</tei:ref>
         <tei:seg> heimgebracht habe.</tei:seg>
       </tei:p>
@@ -2421,9 +2421,9 @@
         <tei:ref target="#annotation-416" type="esv">alten Liede</tei:ref>
         <tei:seg>, wo der Schwieger seinem geliebten Eidam gegenübertreten und den Willen seines Herrn ausfechten muß, so reich’ ich auch Dir noch einmal schmerzbewegt die sonst so treue Hand. Daß Du mir treu bleiben wirst, weiß ich aus zwei Gründen: einmal, weil in funfzehn Jahren </tei:seg>
         <tei:ref target="#annotation-417" type="esv">die Minne nicht mehr </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-726" type="esv">à l’ordre du jour</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-726" type="esv">
+          <tei:foreign>à l’ordre du jour</tei:foreign>
+        </tei:ref>
         <tei:ref target="#annotation-727" type="esv"> sein wird</tei:ref>
         <tei:seg>, und zweitens wirst Du es auch so sein. Hätt’ ich es je ahnen können, daß sich eines solchen Streites wegen noch meine Augen in Wehmuth hüllen würden! Welch’ eine Zeit!</tei:seg>
       </tei:p>
@@ -2515,17 +2515,17 @@
         <tei:seg> ein. Eilig berichtet nun der Telegraph von Düsseldorf nach Elberfeld: man hat </tei:seg>
         <tei:hi style="letter-sparse">Heil dir im Siegerkranz</tei:hi>
         <tei:seg> gesungen. Was geschieht? Hinter dem Städtchen Schwelm hielt’ ich dann schon an einer langen Stange die transparenten Buchstaben: die </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-442" type="esv">Barcarole</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-442" type="esv">
+          <tei:hi style="letter-sparse">Barcarole</tei:hi>
+        </tei:ref>
         <tei:seg> gerad’ in der Richtung empor, daß der Telegraph in den Städten Hagen oder Iserlohe nur lesen kann: Man hat die Barcarole gesungen! Im Braunschweigschen und Hannöverschen würden unsere Freunde bereits die </tei:seg>
         <tei:hi style="letter-sparse">Marseillaise</tei:hi>
         <tei:seg> daraus machen, und während so in Magdeburg, Berlin und Frank-</tei:seg>
         <tei:pb n="186"/>
         <tei:seg>furt schon die Kinder im Mutterleibe nicht mehr verschont blieben, wird hinter Landsberg, wo es schon ins Polnische geht, durch unsern feinen Vorschub die Nachricht daraus: „Man hat: </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-443" type="esv">noch ist Polen nicht verloren</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-443" type="esv">
+          <tei:hi style="letter-sparse">noch ist Polen nicht verloren</tei:hi>
+        </tei:ref>
         <tei:seg> gesungen“!</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2647,9 +2647,9 @@
         <tei:ref target="#annotation-471" type="esv">die ungeheuern Bärte seiner Russen zu stutzen</tei:ref>
         <tei:seg>. In Hessen </tei:seg>
         <tei:ref target="#annotation-472" type="esv">reagirt daher die Reaction die Stutzbärte </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#{value()}" type="esv">ad nihilum</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>ad nihilum</tei:foreign>
+        </tei:ref>
         <tei:foreign>.</tei:foreign>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2672,13 +2672,13 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Es ist wahr, wir haben Buchstaben beschworen, haben Verträge durch Handgelöbniß geheiligt: Aber Du bist ein einfaches Weib, und ein ironisches Lächeln setzt sich doch schon in Deine Mundwinkel. Wenn wir bei dem Schwur eine </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-476" type="esv">reservatio mentalis</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-476" type="esv">
+          <tei:foreign>reservatio mentalis</tei:foreign>
+        </tei:ref>
         <tei:seg> haben, so folgen wir nur dem Beispiel derer, denen wir geschworen haben. Der König und Kronprinz von Frankreich sprechen unaufhörlich von den </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-477" type="esv">couleurs chéries</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-477" type="esv">
+          <tei:foreign>couleurs chéries</tei:foreign>
+        </tei:ref>
         <tei:seg>, sie nennen das Wort </tei:seg>
         <tei:foreign>la Charte</tei:foreign>
         <tei:seg> oder </tei:seg>
@@ -2701,9 +2701,9 @@
         <tei:seg> In der That, die </tei:seg>
         <tei:pb n="201"/>
         <tei:seg> deutschen Fürsten können uns doch auf keinem Wege, selbst auf dem langweiligsten, dem Wege Rechtens nicht entgehen! Man wird sie zu vernichten drohen, und sie zittern. Man wird sie verehren wollen, und sie entsetzen sich. Ueberall sind ihnen die Hände gebunden. Einer hat dem Andern ein Versprechen gegeben; sie möchten Alle davon befreit sein, und wagen doch ohne dasselbe nicht, auf der Parade zu erscheinen. Selbst das verschlagene Preußen hat sich eine Grube gegraben. Warum gilt der Spruch </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-483" type="esv">scriptum manet</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-483" type="esv">
+          <tei:foreign>scriptum manet</tei:foreign>
+        </tei:ref>
         <tei:seg>? </tei:seg>
         <tei:ref target="#annotation-485" type="esv">Warum mußten wir vor zehen Jahren Concessionen geben</tei:ref>
         <tei:seg>, nach deren Erfüllung sich jetzt Niemand mehr sehnt? Jetzt fühlt sich bei uns Alles glücklich und befriedigt; hätten wir je das Wort: </tei:seg>
@@ -2740,9 +2740,9 @@
         <tei:seg>, den sie so lange Zeit hindurch in Procession durchs ganze Land geschleppt haben, so sind sie darüber jetzt so verschämt, daß sie ihren damaligen Zuchtmeistern gern aus dem Wege gehen. </tei:seg>
         <tei:ref target="#annotation-492" type="esv">Man denke an Menzel, Heine, Börne!</tei:ref>
         <tei:seg> Und immerhin – das beste Geständniß alter Thorheit liegt in guten, braven Handlungen. </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-493" type="esv">Facta loquuntur</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-493" type="esv">
+          <tei:foreign>Facta loquuntur</tei:foreign>
+        </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2867,9 +2867,9 @@
         <tei:ref target="#annotation-512" type="esv">der dritte Adam</tei:ref>
         <tei:seg> sein, der in der Welt erschienen ist. Wie in Christo die Menschheit in die Einheit gesetzt wurde, so muß sie einst in die Besonderheit gesetzt werden. </tei:seg>
         <tei:ref target="#annotation-738" type="esv">Wer da weiß, was er sagt, wenn er </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#{value()}" type="esv">Ich</tei:ref>
-        </tei:hi>
+        <tei:ref target="#{value()}" type="esv">
+          <tei:hi style="letter-sparse">Ich</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-513" type="esv"> sagt, ist ein neuer Heiland der Welt.</tei:ref>
         <tei:seg> Ob dieser Ausbruch des allgemeinsten Fichtianismus auch jener Augenblick ist, wo Alles, was sonst der Mensch aus der Vergangenheit als geschichtliches Erbe auf seinen Lebenspfad miterhält, rein verschwunden ist, wo alte gesellschaftliche Ordnung, Christenthum, wissenschaftliche Bildung nur wie ferne Erinnerung an die menschliche Seele klingen wird, wo man Nichts mehr findet, als die Sehnsucht nach einer neuen Erfüllung des ausgeleerten Bewußtseins? – vielleicht weiß Dein Scharfsinn mir darüber Auskunft zu geben. Wird man wieder eine Idee brauchen, um damit die Welt zu regieren? werden die Gesetze in todten Buchstaben, oder in den Herzen der Menschen beschrieben sein? Wird es wieder Personen geben, die man für die sichtbaren Träger des Gesetzes hält? Werden überhaupt die kleineren Geister wieder größere zu Vormündern, zu Gesetzvollstreckern wählen, oder wird man alles Redens und Strafens überhoben sein? Gib mir Antwort, Beste!</tei:seg>
       </tei:p>
@@ -2928,9 +2928,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>In der Zeit der Reifröcke und Perrücken geboren, </tei:seg>
         <tei:ref target="#annotation-522" type="esv">trug ich mich doch immer </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-724" type="esv">à l’enfant</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-724" type="esv">
+          <tei:foreign>à l’enfant</tei:foreign>
+        </tei:ref>
         <tei:seg>, und ging offen in meiner nackten Schönheit. Ein tausendfach gefaltetes Gewand war die Welt in meiner Jugend. Schon früh hatt’ ich den Muth, es an seinen Enden zu ergreifen und es faltenlos zu </tei:seg>
         <tei:pb n="226"/>
         <tei:seg> ziehen. Ich glich einer Blume, aber gedörrte, gelbe Blätter machten meine Blüthenkapsel. Ich konnte nicht einmal meine eigne noch verschlossene Herrlichkeit betrachten, nur ahnen. Da brach endlich die lästige, morsche Hülle, und die verschämte Gluth meiner entfalteten Pracht durfte sich frei in den flimmernden Wellen des Lichtes baden. Die Vorurtheile meiner Zeitgenossen, die ihnen anerzogene Bildung erfüllten mein Herz, das nur für das Wohl der Menschheit schlug, mit tiefster Wehmuth. </tei:seg>
@@ -2951,17 +2951,17 @@
         <tei:seg>Ich stieg die Ufer des Genfersees entlang, auf die höchsten Gipfel der Alpen, und machte sie zu meiner Sternwarte. Millionen Sterne tauchten aus der blauen Himmelsdecke, die wie ein Baldachin über die schlummernden Erdbewohner ausgebreitet war. Mein lauschendes Ohr vernahm die Seufzer, die der beängstigten Brust so vieler Dulder entfuhren. Sie rannen zu einer großen Blume zusammen, die ihre Blüthenblätter sehnsüchtig in die Seite des Himmels streckten. Sie flehten nach Linderung der Leiden, nach kühlendem Thau, und fanden Beides in ihren eigenen Thränen. Engel stiegen eine wie Harfentöne klingende Himmelsleiter herab, und flochten einen großen Blumenkranz, den sie rings um die Eiszinken der Alpen wanden. „Heil – sangen sie, und es tönte lieblich wie Flöte und Glockenklang – Heil allen müden Lebenspilgern! wir führen sie an die Quelle der ewigen Genesung! Sie haben ihr Leid verloren, denn über unsere Sänge haben sie es vergessen!“ Ich stieg hinab in die Thäler, und die </tei:seg>
         <tei:pb n="228"/>
         <tei:seg> Menschen verehrten mich wie einen Propheten. Wenn sich mein Geist in blitzende, leuchtende Strahlen spaltete, so war ich Regenbogen und Sonne zugleich, Wärme so gut, wie Licht. Gern sah’ ich in die Kreise des menschlichen Lebens, auf die sonst der Stempel des Gewöhnlichen gedrückt ist. Aus den tiefsten Schachten einer reinen Gemüthswelt sah’ ich reines Gold blinken. Mit dem Zauberstabe meiner sanften Rede führt’ ich die Engel, die der irdische Glaube der Menschen an den Hütten der Unschuld und ungezwungenen Sitte unsichtbar gemacht hatte, wieder heim in diese Wohnungen des Friedens. Wie grünende Inseln schwam­men meine Gedanken lange unentdeckt auf den Gewässern meiner Zeit. Nur verirrte Schiffer oder ein Unglücklicher, dessen letzte Rettung ein erhaschtes Boot gewesen, fand sie. Dann labt’ er sich an dem süßen Quellwasser, das aus meinen dunkeln, heimlichen Grotten floß, an den fröhlichen, muntern Tönen geschwätziger Waldbewohner. Aber oft hat sich in einer Welt voller Flachheit und Entartung die Unschuld mit scharfem Stahl gewaffnet, so hab’ auch ich die dunkeln Schatten meiner Zeit mit Feuerlilien vertrieben. Meine Frühlinge keimten meist nur aus Asche, wie aus den Lavaströmen des Vesuvs die </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-526" type="esv">Thränen Christi</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-526" type="esv">
+          <tei:hi style="letter-sparse">Thränen Christi</tei:hi>
+        </tei:ref>
         <tei:seg> keimen. Die </tei:seg>
         <tei:ref target="#annotation-527" type="esv">Biene</tei:ref>
         <tei:seg> war mein Sym-</tei:seg>
         <tei:pb n="229"/>
         <tei:seg>bol. Schwärmend voller Lust im weiten Raume, den süßesten Staub aus allen Blumenkelchen saugend, aber auch stechend den, der den Heiligthümern, deren Dienst mein Leben geweiht war, nicht mit frommer Scheu nahete. Damals hieß ich </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-528" type="esv">Jean Paul</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-528" type="esv">
+          <tei:hi style="letter-sparse">Jean Paul</tei:hi>
+        </tei:ref>
         <tei:seg>.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -2975,9 +2975,9 @@
         <tei:pb n="231"/>
         <tei:seg> was konnte mir größern Trost gewähren? Ich weiß, daß das Buch des Lebens nie mehr enthält, als was wir hineinschreiben, daß der die Zeit verstand, der seinen Geist zu dem ihren machte. Wer jede Stunde benutzt, hat einen Tag genossen, auch Jahrhunderte bestehen nur aus Tagen. Mein junges Leben hab’ ich mir in Augenblicke getheilt, und wenn mir jeder dieser Augenblicke einen Freudenbecher an den Mund setzte, so hab’ ich ihn getrunken. Verstand ich also nicht mich, nicht meine Zeit? Weil ich aber nie rechte Entzückung empfunden, so starb ich an der ersten, die ich empfand. Ich starb im Morgenroth eines schönen Tages, sah noch die aufgehende Sonne der Freiheit, und ganz Europa erfüllte die traurige Kunde</tei:seg>
         <tei:hi style="letter-sparse">, </tei:hi>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-531" type="esv">Lord Byron</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-531" type="esv">
+          <tei:hi style="letter-sparse">Lord Byron</tei:hi>
+        </tei:ref>
         <tei:seg> sei zu den Todten gegangen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3045,9 +3045,9 @@
         <tei:seg>. Man begegnet sich im gesellschaftlichen Verkehr, den fremden Zungen ist ihr Fremdartiges genommen, von den Vögeln und Früchten Indiens ist der mythische Farbenstaub gewischt, die Menschen werden stückweise wie die Pferde auf die Maschinen gerechnet, die Arbeit der Hände ist in Dampf aufgegangen, der mathematische Calcül ist der Mittelpunkt, um den sich die Tellerscheibe der Welt mit ihren Bewohnern equilibrirend herumdreht – ach! wir werden vor Steinkohlen und Prosa nichts, gar </tei:seg>
         <tei:pb n="240"/>
         <tei:seg> nichts mehr sein, als Freimaurer. Du erlaubst, Gute, daß ich an dieser Stelle einige Thränen rinnen lasse, denn ich habe sämmtliche Schriften von </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-723" type="esv">Henrik</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-723" type="esv">
+          <tei:hi style="letter-sparse">Henrik</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-544" type="esv"> Steffens</tei:ref>
         <tei:seg> gelesen, habe in alle Bäume, die im Thiergarten der </tei:seg>
         <tei:ref target="#annotation-545" type="esv">Rousseausinsel</tei:ref>
@@ -3273,9 +3273,9 @@
         <tei:seg>Auch an Karls des Großen Ruhm beim Volke glaub’ ich nicht, weil das Volk weder wiederum jene Bettler sind, die an der Thür des Aachner Doms auf seine spendende Hand warteten, noch jene Ritter, die ihn in ihre Tafelrunde einführten. Man verfolge die ganze Reihe der römischen Kaiser, </tei:seg>
         <tei:ref target="#annotation-586" type="esv">von Augustus bis Franzerl</tei:ref>
         <tei:seg>, man wird Keinen finden, dem jedes Herz im </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-587" type="esv">tiers état</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-587" type="esv">
+          <tei:foreign>tiers état</tei:foreign>
+        </tei:ref>
         <tei:seg> offen gestanden hätte, und wenn es hier und da, bei dem es sich der Mühe verlohnte, ihn zu beneiden. Die schwäbischen Bauern zerstörten den Stammsitz der Hohenstauffen, die für sie gekämpft hatten; und wie viele Wegelagerer aufgehängt wurden, die Habsburger sind mir immer zuwider gewesen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3673,9 +3673,9 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Es ist eine thörichte Verblendung der Fürsten, wenn sie durch Couriere, versiegelte Depeschen, Privataudienzen und Gesandtschaften die Wünsche der Nationen zu befriedigen denken. Man braucht Herrn </tei:seg>
         <tei:ref target="#{value()}" type="esv">Martens </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-657" type="esv">Guide diplomatique</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-657" type="esv">
+          <tei:foreign>Guide diplomatique</tei:foreign>
+        </tei:ref>
         <tei:seg> nicht zu studiren, und wird doch finden, daß die Diplomatie kein Geheimniß mehr ist. Ich habe </tei:seg>
         <tei:ref target="#annotation-658" type="esv">einen Vetter in London</tei:ref>
         <tei:seg>, Gesandtschaftssecretär im Auswärtigen Amte, der mir die Entwürfe der Protokolle schon mittheilt, die in einem Jahre erst sollen publicirt werden. Aber auch ohne ihn wüßt’ ich den Inhalt der officiellen Noten, die gegeben würden, wenn sich Irland von England, Italien von Oesterreich, Polen von den drei Mächten und Deutschland von sich selbst, vom Bundestage losgerissen hätten. </tei:seg>
@@ -3761,9 +3761,9 @@
         <tei:pb n="293"/>
         <tei:seg> das Interesse daran groß zu sein schien. Man war durch einzelne Uebergänge unvermuthet auf eine Debatte gekommen, die eine Ausgleichung der verschiedenen über </tei:seg>
         <tei:ref target="#annotation-741" type="esv">das </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-663" type="esv">Wunderbare</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-663" type="esv">
+          <tei:hi style="letter-sparse">Wunderbare</tei:hi>
+        </tei:ref>
         <tei:seg> gefällten Urtheile bezwecken sollte.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -3914,9 +3914,9 @@
         <tei:seg>Die Visionen beginnen </tei:seg>
         <tei:ref target="#annotation-684" type="esv">mit 7 Leuchtern</tei:ref>
         <tei:seg>; vielleicht um in das Ganze der Offenbarung Licht zu bringen. Diese 7 Leuchter sind aber auch 7 Sterne, und eigentlich wieder keine Sterne, sondern 7 Briefe. Die ersten Briefe betreffen die Zeit bald nach Christi Tode, die letzten gehen uns an. Schon die Namen der Gemeinden, die von diesen brieflichen Sternen angeleuchtet werden, geben einen Schluß auf die Zeit, der sie zur Erklärung dienen. Z. B. ist einer nach </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-685" type="esv">Smyrna</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-685" type="esv">
+          <tei:hi style="letter-sparse">Smyrna</tei:hi>
+        </tei:ref>
         <tei:seg> geschrieben. Sie begreifen die Andeutung der bittern </tei:seg>
         <tei:hi style="letter-sparse">Myrrhenzeit</tei:hi>
         <tei:seg>, wo die Christen den Märtyrertod erleiden mußten. Das S an Smyrna? o Liebe, das ist unwesentlich, lesen Sie nur fleißiger im </tei:seg>
@@ -3925,9 +3925,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:ref target="#{value()}" type="esv">Der fünfte Brief ist nach </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-721" type="esv">Philadelphia</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-721" type="esv">
+          <tei:hi style="letter-sparse">Philadelphia</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-687" type="esv"> geschrieben</tei:ref>
         <tei:seg>. Erstaunen Sie nicht? Unstreitig denkt der Apostel an den nordamericanischen Freiheitskrieg. Hören Sie doch die Worte, die dorthin geschrieben sind:</tei:seg>
       </tei:p>
@@ -3947,9 +3947,9 @@
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Endlich kommen wir auf unser Zeitalter. Der Engel schreibt nach </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-688" type="esv">Laodicäa</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-688" type="esv">
+          <tei:hi style="letter-sparse">Laodicäa</tei:hi>
+        </tei:ref>
         <tei:seg>. Mit Ihrer Erlaubniß übersetz’ ich Ihnen dies Wort. Es heißt </tei:seg>
         <tei:hi style="letter-sparse">Volksgericht</tei:hi>
         <tei:seg>. Wir leben im Zeitalter der Demokratie. Das wollt’ ich meinen! Das Volk richtet, seine Stimme ist Gottes Stimme.</tei:seg>
@@ -4017,9 +4017,9 @@
         <tei:pb n="311"/>
         <tei:seg> Wie wichtig muß das siebente Siegel sein! Noch immer bedarf es zu seiner Lösung ungewöhnlicher Vorkehrungen. Mit Posaunen wurd’ es nach und nach geöffnet. Wie sich von selbst versteht, sind diese Posaunen die sogenannten Schreier des Tags, </tei:seg>
         <tei:ref target="#annotation-701" type="esv">die Journalisten, die Männer </tei:ref>
-        <tei:foreign>
-          <tei:ref target="#annotation-694" type="esv">sans loi et foi</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-694" type="esv">
+          <tei:foreign>sans loi et foi</tei:foreign>
+        </tei:ref>
         <tei:foreign>.</tei:foreign>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -4059,9 +4059,9 @@
         <tei:seg>Jenen großen rothen Drachen muß ein Jeder für das Königthum im Allgemeinen und die heilige Allianz im Besondern halten. Die </tei:seg>
         <tei:ref target="#annotation-696" type="esv">Dreizahl</tei:ref>
         <tei:seg> ist deutlich hervorgehoben. Sieben Häupter und zehn Hörner und nur sieben Kronen! Ziehen Sie gefälligst 7 von 10 ab, so bleiben 3. Diese Drei haben keine Kronen, ein Zeichen </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-697" type="esv">ab eventu</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-697" type="esv">
+          <tei:foreign>ab eventu</tei:foreign>
+        </tei:ref>
         <tei:seg>: denn gerade diesen wird der kommende Sturz die Krone abstoßen.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -4084,17 +4084,17 @@
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Aus allen diesen höllischen Ingredienzien mischt sich nun das Bild der großen Hure, diese ewige Antichristin, die dabei noch immer den Schein des Christenthums annimmt. Da haben wir </tei:seg>
         <tei:ref target="#annotation-702" type="esv">die </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-702" type="esv">heilige</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-702" type="esv">
+          <tei:hi style="letter-sparse">heilige</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-702" type="esv"> Inquisition, die </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-702" type="esv">heilige</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-702" type="esv">
+          <tei:hi style="letter-sparse">heilige</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-702" type="esv"> Ligue, – – – – – das </tei:ref>
-        <tei:hi style="letter-sparse">
-          <tei:ref target="#annotation-702" type="esv">göttliche</tei:ref>
-        </tei:hi>
+        <tei:ref target="#annotation-702" type="esv">
+          <tei:hi style="letter-sparse">göttliche</tei:hi>
+        </tei:ref>
         <tei:ref target="#annotation-702" type="esv"> Recht</tei:ref>
         <tei:hi style="letter-sparse">.</tei:hi>
       </tei:p>
@@ -4164,9 +4164,9 @@
         <tei:seg>Schönste, am ersten Januar 1836 besuch’ ich Sie, nicht der Neujahrvisite wegen, sondern ich erlaube mir, Ihnen meinen Arm anzubieten, um anzuhören </tei:seg>
         <tei:ref target="#annotation-711" type="esv">das große Halleluja</tei:ref>
         <tei:seg>, das gesungen werden soll von allen Engeln, und das jauchzende </tei:seg>
-        <tei:foreign>
-          <tei:ref target="#annotation-712" type="esv">Te Deum laudamus</tei:ref>
-        </tei:foreign>
+        <tei:ref target="#annotation-712" type="esv">
+          <tei:foreign>Te Deum laudamus</tei:foreign>
+        </tei:ref>
         <tei:seg>, das alle heiligen Singer anstimmen und läuten werden die Glocken im großen Weltendome.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
@@ -13915,9 +13915,9 @@
         <tei:citedRange type="page-line-ref">119,29</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>die </tei:lem>
-        <tei:hi style="letter-sparse">
-          <tei:lem>Marseillaise</tei:lem>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse">Marseillaise</tei:hi>
+        </tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>dir </tei:sic>
         <tei:hi style="letter-sparse">
@@ -13928,9 +13928,9 @@
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">119,34</tei:citedRange>
         <tei:seg> </tei:seg>
-        <tei:hi style="letter-sparse">
-          <tei:lem>nicht verloren</tei:lem>
-        </tei:hi>
+        <tei:lem>
+          <tei:hi style="letter-sparse">nicht verloren</tei:hi>
+        </tei:lem>
         <tei:lem> gesungen“!</tei:lem>
         <tei:seg> </tei:seg>
         <tei:hi style="letter-sparse">

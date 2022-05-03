@@ -9,7 +9,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Susanne Schütz</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -23,11 +22,11 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Die Gräfin Esther. Trauerspiel von Karl Gutzkow. In: Telegraph für Deutschland. Hamburg. Nr. 57, [6.] April 1840, S. 225-228; Nr. 58, [8.] April 1840, S. 229-231. (Rasch 3.40.04.06.1).</tei:bibl>
+      <tei:bibl>Die Gräfin Esther. In: Vor- und Nach-Märzliches. Von Karl Gutzkow. Leipzig: Brockhaus, 1850. (Vermischte Schriften, Bd. 4). S. 1-48. (Rasch 2.23.4.1)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1840">1840</tei:date>
+        <tei:date when="1850-04">April 1850</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #dramatische-werke #die-graefin-esther"/>
@@ -46,6 +45,6 @@
         <tei:seg>Dieses Werk ist zur Zeit nicht verfügbar.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

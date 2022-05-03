@@ -26,7 +26,7 @@
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1855">1855</tei:date>
+        <tei:date when="1855-02">Februar 1855</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #die-diakonissin"/>
@@ -48,11 +48,11 @@
       </tei:head>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
       <tei:p first-line-indent="12" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
-        <tei:foreign>
-          <tei:hi style="font-size-small">
-            <tei:ref target="#annotation-1" type="esv">Atra cura ...</tei:ref>
-          </tei:hi>
-        </tei:foreign>
+        <tei:ref target="#annotation-1" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Atra cura ...</tei:hi>
+          </tei:foreign>
+        </tei:ref>
       </tei:p>
       <tei:p first-line-indent="13.4" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:foreign>

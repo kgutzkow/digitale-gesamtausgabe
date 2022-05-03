@@ -22,11 +22,11 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>K[arl] G[utzkow]: Zur Arnim-Affaire. Allgemeine Zeitung. Augsburg. Nr. 285, 12. Oktober 1874, S. 4428. (Rasch 3.74.10.12).</tei:bibl>
+      <tei:bibl>K[arl] G[utzkow]: Zur Arnim-Affaire. In: Allgemeine Zeitung. Augsburg. Nr. 285, 12. Oktober 1874, S. 4428. (Rasch 3.74.10.12)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1874">1874</tei:date>
+        <tei:date when="1874-10-12">12. Oktober 1874</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #schriften-zur-politik-und-gesellschaft #verstreute-schriften-zur-geschichte-und-politik #zur-arnim-affaire"/>
@@ -38,45 +38,45 @@
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:head type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0.2" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:pb n="4428"/>
         <tei:seg> Zur Arnim-Affaire.</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>K. G. Wieblingen (bei Heidelberg), 9 Oct. Es ist gesagt worden: der merkwürdige Vorgang der in diesem Augenblick die Welt beschäftigt sei wohl in Preußen noch nicht vorgekommen. </tei:seg>
         <tei:foreign>Mutatis mutandis</tei:foreign>
         <tei:seg> doch; nur daß in solchen Fällen der Veruntreuung und des Schielens unter dem Amtsbrevier hinweg zu andern Göttern hin, als in deren Eidverband und Brod man lebt, die alte Cabinetsjustiz nahe am Kopf-vor-die-Füße-legen stand.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
-        <tei:seg>Der Große Kurfürst war eben zur Regierung gelangt, als er bei dem Statthalter der Kurmark Brandenburg (wir würden jetzt Oberpräsidenten sagen), Grafen Schwarzenberg, dessen Papiere mit Beschlag belegen und ihn selbst gefangen setzen ließ. Ehe jene durchforscht waren, wobei "rückbehaltene Actenstücke" wohl die Hauptrolle spielten, starb der des Einverständnisses mit dem Wiener Hof schon seit lange Beschuldigte. Die Volkssage er sei heimlich enthauptet worden, gieng sogar in die Geschichtsbücher über. Hätte unser Verbrennungsprofessor Reclam schon im 17. Jahrhundert gelebt, Siemens schon seine Apparate in Gang gebracht, Friedrich der Große würde nicht den hochherzigen Gedanken haben ausführen können, Schwarzenbergs Sarg in Spandau öffnen zu lassen und seinen Ahnen vom Vorwurf des Jähzorns und Blutdurstes zu befreien. Man fand Schwarzenbergs Kopf ohne irgendein Zeichen der Verletzung. Wie dann derselbe Friedrich, mit dem nicht zu spaßen war, Voltaire in Frankfurt a. M. hat gefangen setzen lassen, hat Varnhagen ergötzlich nach archivalischen Quellen beschrieben. Auch hier handelte es sich um zurückbehaltene - auf der Schule sagten wir "geklemmte" - Papiere, wahrscheinlich zum Druck in der Schweiz bestimmte Epigramme des Königs auf regierende Häupter und Staatsmänner seiner Zeit, Rococo-Xenien, vielleicht auch um - Voltaire's Correcturen der Gedichte des Philosophen von Sanssouci.</tei:seg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Große Kurfürst war eben zur Regierung gelangt, als er bei dem Statthalter der Kurmark Brandenburg (wir würden jetzt Oberpräsidenten sagen), Grafen Schwarzenberg, dessen Papiere mit Beschlag belegen und ihn selbst gefangen setzen ließ. Ehe jene durchforscht waren, wobei &quot;rückbehaltene Actenstücke&quot; wohl die Hauptrolle spielten, starb der des Einverständnisses mit dem Wiener Hof schon seit lange Beschuldigte. Die Volkssage er sei heimlich enthauptet worden, gieng sogar in die Geschichtsbücher über. Hätte unser Verbrennungsprofessor Reclam schon im 17. Jahrhundert gelebt, Siemens schon seine Apparate in Gang gebracht, Friedrich der Große würde nicht den hochherzigen Gedanken haben ausführen können, Schwarzenbergs Sarg in Spandau öffnen zu lassen und seinen Ahnen vom Vorwurf des Jähzorns und Blutdurstes zu befreien. Man fand Schwarzenbergs Kopf ohne irgendein Zeichen der Verletzung. Wie dann derselbe Friedrich, mit dem nicht zu spaßen war, Voltaire in Frankfurt a. M. hat gefangen setzen lassen, hat Varnhagen ergötzlich nach archivalischen Quellen beschrieben. Auch hier handelte es sich um zurückbehaltene - auf der Schule sagten wir &quot;geklemmte&quot; - Papiere, wahrscheinlich zum Druck in der Schweiz bestimmte Epigramme des Königs auf regierende Häupter und Staatsmänner seiner Zeit, Rococo-Xenien, vielleicht auch um - Voltaire&apos;s Correcturen der Gedichte des Philosophen von Sanssouci.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left" extract="true">
-        <tei:seg>In der Mitte des siebenjährigen Krieges ließ der König zu Meuselwitz bei Altenburg von streifenden Husaren den Grafen Seckendorf festnehmen, kaiserlichen Generalissimus und Reichshofrath außer Diensten, aber annoch markgräflich ansbachischen dirigirenden Minister, denselben der in "Zopf und Schwert" die Rolle des Combinateur spielt. Die ahnenstolze prachtliebende Excellenz war in ihren jüngeren Jahren österreichischer Gesandter in Berlin gewesen, hatte sich im vorzüglichsten Grade der Gunst des Königs, der die langen Grenadiere liebte, zu erfreuen gehabt und somit den Haß des Kronprinzen erworben - einen Haß den Seckendorf gegen den König in späterer Zeit reichlich erwiederte. Die Papiere dieses Gefangenen hätten Auskunft geben können über die Rathschläge die Seckendorf vom Ansbachischen aus den österreichischen Heerführern zu ertheilen pflegte um des Königs persönlich habhaft zu werden. Es kostete dem Grafen 10,000 Thlr. um Magdeburg, wohin man ihn gebracht hatte, wieder verlassen zu können.</tei:seg>
+      <tei:p extract="true" first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In der Mitte des siebenjährigen Krieges ließ der König zu Meuselwitz bei Altenburg von streifenden Husaren den Grafen Seckendorf festnehmen, kaiserlichen Generalissimus und Reichshofrath außer Diensten, aber annoch markgräflich ansbachischen dirigirenden Minister, denselben der in &quot;Zopf und Schwert&quot; die Rolle des Combinateur spielt. Die ahnenstolze prachtliebende Excellenz war in ihren jüngeren Jahren österreichischer Gesandter in Berlin gewesen, hatte sich im vorzüglichsten Grade der Gunst des Königs, der die langen Grenadiere liebte, zu erfreuen gehabt und somit den Haß des Kronprinzen erworben - einen Haß den Seckendorf gegen den König in späterer Zeit reichlich erwiederte. Die Papiere dieses Gefangenen hätten Auskunft geben können über die Rathschläge die Seckendorf vom Ansbachischen aus den österreichischen Heerführern zu ertheilen pflegte um des Königs persönlich habhaft zu werden. Es kostete dem Grafen 10,000 Thlr. um Magdeburg, wohin man ihn gebracht hatte, wieder verlassen zu können.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Wirklichen Mißbrauch unterschlagener Actenstücke zu La Marmora-Enthüllungen weist die Geschichte der Arrestation des Generalquartiermeister Lieutenants Obersten v. Massenbach auf. Derselbe hatte die traurige Zeit nach der Schlacht von Jena benutzt um Selbstrechtfertigungen, Kritiken der Vorgesetzten, Nachweise über die Mißbräuche in der Armeeverwaltung herauszugeben. Wie, wenn wir 1870 den Krieg verloren hätten und nun die Unterfeldherren ihre Lauge über Roon, Moltke u. s. w. ergießen würden, mit Actenstücken die den Militärarchiven entnommen sind, mit Privatbriefen, Gesprächsäußerungen u. s. w., ebenso ließ Massenbach seine Memoiren und Angriffe auf Möllendorff, Rüchel u. s. w. (dem Schein nach in Amsterdam, in Wahrheit in Altenburg und Leipzig) drucken. Als er nach den Befreiungskriegen auf den unglücklichen Gedanken kam den Rest seiner zurückbehaltenen Papiere der preußischen Regierung zum Kauf anzubieten, gelang es dieser ihn festnehmen zu lassen und vor ein Kriegsgericht zu stellen. Er wurde zu 14 Jahren Festung verurtheilt.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Bischof Eylert erzählt in seinen Erinnerungen an Friedrich Wilhelm III folgendes: Als der König 1826 den Fuß gebrochen hatte und unter heftigen Schmerzen auf seinem Lager schlaflose Nächte zubrachte, überkam ihn in der Einsamkeit und Stille der Gedanke: Gegen wen bist Du wohl in deinem Leben allzu streng gewesen? Wer lebt noch und hat sich über dich am meisten zu beklagen? Unter den tausend ernsten Lebensverwicklungen die durch eines Monarchen Haupt schwirren mögen, fielen ihm die jungen in Köpenik schmachtenden Demagogen nicht ein, nicht Jahn, nicht Arndt; dem Soldatenfreund fiel Massenbach ein, dem er dann auch nach einer bereits überstandenen Haft von 9 Jahren seine Freiheit ankündigen ließ. Der unglückliche Actendieb und Enthüllungsschreiber, achtundsechzigjährig wie er war, überlebte seine Entlassung aus der Veste Glatz nur noch ein Jahr.</tei:seg>
       </tei:p>
     </tei:body>
     <tei:interpGrp type="global">
-      <tei:head data-heading-id="" type="level-1" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
         <tei:seg>Bearbeitung: Kurt Jauslin, Altdorf</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>1. Textüberlieferung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>1.1. Handschriften</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>1.1.1. Übersicht</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>1.2. Drucke</tei:seg>
       </tei:head>
       <tei:list type="sources">
@@ -84,32 +84,32 @@
           <tei:seg>J K[arl] G[utzkow]: Zur Arnim-Affaire. Allgemeine Zeitung. Augsburg. Nr. 285, 12. Oktober 1874, S. 4428. (Rasch 3.74.10.12)</tei:seg>
         </tei:item>
       </tei:list>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>2. Textdarbietung</tei:seg>
       </tei:head>
-      <tei:head data-heading-id="" type="level-3" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>2.1. Edierter Text</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>J. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
       </tei:p>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0.5" style="text-left">
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
       </tei:p>
-      <tei:head data-heading-id="" type="level-4" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
         <tei:seg>2.1.1. Texteingriffe</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:citedRange type="page-line-ref">1,14</tei:citedRange>
         <tei:seg> </tei:seg>
         <tei:lem>Wiener Hof schon</tei:lem>
         <tei:seg> </tei:seg>
         <tei:sic>Wiener Hof, schon</tei:sic>
       </tei:p>
-      <tei:head data-heading-id="" type="level-2" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
         <tei:seg>Kommentar</tei:seg>
       </tei:head>
-      <tei:p margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" first-line-indent="0" style="text-left">
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Der wissenschaftliche Apparat wird hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
       </tei:p>
     </tei:interpGrp>
