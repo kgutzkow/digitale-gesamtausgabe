@@ -9,11 +9,10 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Thomas Bremer</tei:name>
         </tei:respStmt>
-        <tei:respStmt xml:id="GertVonhoff">
-          <tei:resp>Herausgeber</tei:resp>
-          <tei:name>Gert Vonhoff</tei:name>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>TEI Transfer</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -27,11 +26,11 @@
       </tei:classDecl>
     </tei:encodingDesc>
     <tei:sourceDesc>
-      <tei:bibl>Briefe aus Paris. Von Karl Gutzkow. Theil 1-2, Leipzig: Brockhaus, 1842. (Rasch 2.24).</tei:bibl>
+      <tei:bibl>Briefe aus Paris. Von Karl Gutzkow. Theil 1-2. Leipzig: Brockhaus, 1842. (Rasch 2.24)</tei:bibl>
     </tei:sourceDesc>
     <tei:profileDesc>
       <tei:creation>
-        <tei:date when="1842">1842</tei:date>
+        <tei:date when="1842-09">September 1842</tei:date>
       </tei:creation>
       <tei:textClass>
         <tei:catRef target="#gesamtausgabe #reiseliteratur #briefe-aus-paris"/>
@@ -39,15 +38,1102 @@
     </tei:profileDesc>
     <tei:revisionDesc>
       <tei:change when="2001-02" who="#ThomasBremer">1.0</tei:change>
-      <tei:change when="2002-10" who="#GertVonhoff">1.0</tei:change>
+      <tei:change when="2022-05-04" who="#WolfgangRasch">1.1: TEI-Transfer, formale Anpassungen</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
     <tei:body>
-      <tei:p>
-        <tei:seg>Dieses Werk ist zur Zeit nur als PDF verfügbar. Sie können das PDF auf der rechten Seite über den Link "Haupttext als PDF" herunterladen.</tei:seg>
+      <tei:head data-heading-id="Briefe aus Paris" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Briefe aus Paris.</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="Briefe aus Paris" first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+        <tei:seg>Erster Theil.</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="Fünfter Brief" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:pb n="55"/>
+        <tei:seg> Fünfter Brief.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-right">
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-size-small">Pari</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">s, den 17. März.</tei:hi>
       </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Grade heute, es ist </tei:seg>
+        <tei:ref target="#annotation-1" type="esv">mein Geburtstag</tei:ref>
+        <tei:seg>, fühl’ ich denn doch, daß ich über die Jahre der Illusionen hinauskomme. Oft getäuscht, hab’ ich mich gewöhnt, nichts mehr zu erwarten. Ich habe mir die meisten Dinge von der Poesie, die ich früher an sie anknüpfte, selbst entkleidet. Der Schmelz, den sie besitzen, er wird ihnen darum bleiben; Das erfreuet uns nur noch wahrhaft, was uns überrascht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Meiste, was wir schön, erhaben, groß finden, haben wir in unsrer Vorstellung uns schöner, erhabener, größer gedacht. Die ersten Berge, die wir sahen, schienen uns kleiner, als sie uns hätten erscheinen müssen, um uns vollkommen zu befriedigen. Die gerühmtesten Wunder der Welt, wenn wir sie sahen, blieben hinter Kupferstichen, Erzählungen, hinter unsern Phantasien zurück. Die Liebe! Nahm sie nicht anders sich aus, als wir noch kein Herz gefunden hatten, das wir unser </tei:seg>
+        <tei:pb n="56"/>
+        <tei:seg> nennen durften? Wem gab sie, als wir wirklich liebten, nicht Größeres, als wir hofften, und wem - nicht Kleineres?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Je älter man wird, desto bescheidener, desto anspruchloser sollte man werden. Man sollte die Grenze sich ziehen können für Alles, was diese Welt gewähren kann. Sie hat Alles und gibt so wenig. Wie viel Glück, wie viel Freude - nur dir ist nichts davon beschieden! Armes Herz, so hast du entbehren gelernt, bist einfacher in deinen Wünschen, reiner in deinen Genüssen, glücklicher geworden in deinen kleinen Befriedigungen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nur ein abstracter Mensch, ein Mensch, der in Büchern heimischer ist, als unter Seinesgleichen, konnte nach Italien reisen und sich stören lassen durch Alles, was die Natur diesem wunderbaren Lande als Zugabe seiner Wunder gegeben hat. Da die Wunder der Erde natürliche sein müssen, so wirft auch Alles, was himmlischer Abglanz scheint, seinen irdischen Schatten. Wie klein jene Fremden, die unser Vaterland besuchten und alles Das zum Maßstab ihres Urtheils über das Ganze nahmen, was sie im Einzelnen befremdet, was von ihren Gewohnheiten abweicht oder wirklichen Tadel verdient. Ich kam nach Frankreich mit Indignation über hundert widerliche Eindrücke. Ein jämmerlicher Postwagen, gedrückte, erbärmliche Plätze, ein grober </tei:seg>
+        <tei:ref target="#annotation-2" type="esv">Conducteur</tei:ref>
+        <tei:seg>, nicht die Spur von Aufmerksamkeit auf das </tei:seg>
+        <tei:pb n="57"/>
+        <tei:seg> Befinden der Reisenden. Schlechte Kost, Prellerei, für den kleinsten Dienst geöffnete Hände, die gemeinste Plusmacherei in Allem, was uns begegnet. In jeder Festung, die wir passirten, wurden die Pässe abgefordert, nur damit die Unterbedienten Trinkgeld fordern konnten. In Peronne verschmachtete ich vor Durst. Es war noch nicht zehn Uhr Abends. Ich äußere mein Bedürfniß: keiner der Passagiere hat den Muth, den plumpen Conducteur zum Oeffnen des Schlags zu bewegen, keiner steht mir bei, meine Bitten um ein </tei:seg>
+        <tei:ref target="#annotation-3" type="esv">
+          <tei:foreign>verre d’eau sucrée</tei:foreign>
+        </tei:ref>
+        <tei:seg> zu unterstützen. Der Conducteur hört mein ganzes Lexikon französischer Flüche und läßt ruhig weiter fahren. Ich dachte, daß unter Ludwig XI. in Peronne Hunderte verschmachtet sind, und duldete bis zum nächsten Morgen, wo wir Milchkaffee statt Kaffee mit Milch, förmlich eine Suppe und einen großen Löffel, unser Frühstück damit statt zu trinken, zu essen bekamen. Und doch! Ich will nicht klagen. Ich will Frankreich nicht, wie es Manche gethan haben, nach seinem Milchkaffee und seinen Trinkgeldern beurtheilen. Jeder Sou, auf dem ich lese: </tei:seg>
+        <tei:foreign>République française</tei:foreign>
+        <tei:seg>, jedes Bildniß des unglücklichen Ludwig auf der groben Kupfermünze ergreift mich so, daß ich nur noch den welthistorischen Boden unter mir fühle und getrost durch die Barrière St. Denis bei schönstem Frühlingswetter in das große Babel einfahre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="58"/>
+        <tei:seg> Ich bin in Frankreich, in Paris. Ich muß mich besinnen, um zu wissen, was mir einst dieser Gedanke war. Als Knabe hab’ ich Frankreich gehaßt und Paris geliebt. Meine Gedanken klammerten sich an Deutschlands Fall und Deutschlands Größe; meine Gefühle, meine Phantasien schweiften durch Paris, das ich früh kennen lernte aus den Erzählungen meines Vaters. Mein guter Vater war in Paris gewesen, </tei:seg>
+        <tei:ref target="#annotation-4" type="esv">zwei Mal, 1814 und 1815</tei:ref>
+        <tei:seg>. Er hatte dem Knaben Wunderdinge erzählt von den Boulevards, </tei:seg>
+        <tei:ref target="#annotation-5" type="esv">von Franconi, von einem Hirsch</tei:ref>
+        <tei:seg>, der durch Feuer springt, von einem Sattler, bei dem er wohnte. Ich bin in Paris, ich möchte nicht Louis Philipp sehen, ich möchte den Sattler besuchen, bei dem mein Vater gewohnt hat. Noch vor der Julirevolution haßt’ ich Frankreich. Ein junger, französischer Professor, St. Marc Girardin, kam nach Berlin, um die deutschen Universitäten zu studiren und deutsch zu lernen. Er nahm Unterricht bei mir und erklärte mir Frankreich; ich erklärte ihm Deutschland. Wenn ich ihm gesagt hatte, was Deutschland, was der Tugendbund, was die Burschenschaft war, kam eine Stunde später </tei:seg>
+        <tei:hi style="letter-sparse">Gan</tei:hi>
+        <tei:seg>s, Eduard Gans, und sagte ihm, Das, was er von mir über Deutschland gehört hätte, wäre nichts, als eitel Albernheit. Deutschland könne nur durch Frankreich zur politischen Freiheit kommen. So Gans. Gans ist nun todt. St. Marc Girardin </tei:seg>
+        <tei:pb n="59"/>
+        <tei:seg> ist </tei:seg>
+        <tei:foreign>maître des requètes</tei:foreign>
+        <tei:seg>, Staatsrath, Deputirter, Candidat eines Portefeuilles geworden. Und ich? - Wehmuth ergreift mich, wenn ich diese Gedankenreihe verfolge.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach der Julirevolution hat sich in der Auffassung Frankreichs Alles geändert. Man empfand nicht </tei:seg>
+        <tei:hi style="letter-sparse">fü</tei:hi>
+        <tei:seg>r, sondern </tei:seg>
+        <tei:hi style="letter-sparse">mit</tei:hi>
+        <tei:seg> Frankreich. Dieselbe Lage, die Frankreich bei sich verändert hatte, fand sich bei den meisten Völkern Europas vor. Selbst England, so fest gewurzelt in seinen historischen Bedingungen, machte die Reformbill und die Entwickelung des Chartismus zum Nachhall der pariser Bewegung. Deutschland vollends, in seiner politischen Lage sogar hinter den geringen Versprechungen der Wiener Congreß-Acte zurückgeblieben, mußte freudig den Sieg des Constitutionalismus begrüßen, einer politischen Form, die, nur halb bei uns eingeführt, auch in sich selbst schon zusammenfiel. Die Hingebung an Frankreich lag vorausgesetzt in einer beschämenden Selbsterkenntniß. Frankreich wurde der Mittelpunkt und der Leitfaden unsrer Reformen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seither hat sich auch dies wieder verändert. Deutschland hat Kraft gewonnen, Frankreich Kraft verloren. In Frankreich ist der Bodensatz der Gährung ans Tageslicht gekommen, bei uns hat die Gährung, die wir Frankreich verdanken, unsere edleren Bestandtheile zum Vorschein gebracht. Frankreich fällt in seine historische Alltagsstimmung zurück, Deutschland ist in der </tei:seg>
+        <tei:pb n="60"/>
+        <tei:seg> nämlichen Gefahr, wenn auch der Umweg, den wir neuerdings genommen haben, sehr neu, großartig und bedeutend scheint. Die Dialektik ist schimmernder, origineller als früher; die Axiome sind aber die alten. Diese Bewegung ist nicht gut; aber wir werden sie nicht aufhalten können. Ich sage </tei:seg>
+        <tei:hi style="letter-sparse">wir</tei:hi>
+        <tei:seg>: und verstehe darunter die Denkenden, im Gegensatz zur Masse, die nur Leidenschaft und von der Geschichte Das kennt, was geschehen ist, nicht was geschehen wird.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das sind Gedankenreihen, die mich viel beschäftigen werden. Vorläufig hab’ ich Mühe, meine Gesichtspunkte nicht zu verlieren. Ich muß mich zuweilen besinnen auf das Frankreich, das ich mitgebracht habe, weil das Frankreich, das ich finde, mich irren kann. Louis Philipp, Guizot, Thiers, der bewaffnete Friede, der Friede um jeden Preis, die Pairskammer, die Königsmörder, die Deputirten, die Epiciers, die großen Männer und die kleinen Intriguen, die Kunst und Wissenschaft, Véry, Vefour, Musard - ich habe Mühe, von alle Dem, was ich früher wußte, hier nichts zu vergessen. Ein Fiacrepferd, das auf dem Boulevard für todt liegt, beschäftigt mich mehr, als drüben das </tei:seg>
+        <tei:foreign>Hôtel des capucines</tei:foreign>
+        <tei:seg>, in dem Guizot seine Diners gibt. Eine Holzpflasterung am Ende der Rue Richelieu weckt mehr Betrachtungen in mir, als das heutige Bülletin der Débats. Sie pflastern Paris mit </tei:seg>
+        <tei:pb n="61"/>
+        <tei:seg> Holz, um der Revolution den Baustoff zu entziehen. Aus Holzblöcken lassen sich keine Barricaden mehr machen. Lieber mögen Die, die nicht hören können, übergefahren werden, wenn sie auf dem Holzpflaster das Rollen der Wagen nicht vernehmen, als daß Die, die nicht sehen wollen, ewig in Gefahr sind, ihre Kronen zu verlieren. Gedankenlos geht Paris an den aufgerissenen Straßenecken vorüber und beklagt an der Neuerung nichts, als daß sie den Spaziergängern eine Zeitlang die freie Passage hindert.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schade, daß die diesjährige Frauenmode widerlich schwarze Trauerkleider sind, es fehlte nichts, um Alles frühlingsschön zu haben. Blauer Himmel, Sonnenschein, die Bäume grünen schon, die Fontainen am Obelisken glänzen diamanten, </tei:seg>
+        <tei:ref target="#annotation-6" type="esv">in den </tei:ref>
+        <tei:ref target="#annotation-6" type="esv">
+          <tei:foreign>Champs élysées</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-6" type="esv"> freuen sich die Pferde</tei:ref>
+        <tei:seg>, auf den Boulevards die Menschen, im Palais royal die Engel. Hunderte von Bonnen führen die kleinen Kinder spazieren; Alles will hinaus in’s Freie, und es ist so schön, daß man in Paris selbst förmlich über Land gehen kann. Zum Ueberfluß ist der Salon der neuen Gemälde eröffnet. Soll ich dort schon hingehen? Draußen Veilchenduft und drinnen die Oelfarbe suchen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In Paris kommt die Kunstausstellung mit den Veilchen, in Berlin mit den Astern. Ich ziehe den gemalten berliner Nachsommer dem gemalten pariser Vorfrühling vor. </tei:seg>
+        <tei:pb n="62"/>
+        <tei:seg> Auch innerlich, was die Kunst betrifft. Unsre deutschen Ausstellungen bringen mehr Poesie. Bei uns ist die Malerei lyrisch, hier will Alles dramatisch sein. Jedes Bild drängt sich hervor, jedes schreit um Beifall. Ich sehe ungeheure Effecte, aber wenig Gefühle. Die Religion ist in einigen riesenhohen Altarblättern bedacht. Es sind Votivtafeln einer Andacht, die nur deshalb für die Heiligen sorgte, weil einige neue Kirchen neue Gemälde haben müssen. Bei neuen Kirchen kommen in Anschlag: Steine, Holz, Gold, Silbergeräth, eine Orgel, ein Gemälde für den Altar. Diese Heiligenbilder gehören zum Baudepartement; man sieht ihnen an, daß sie auf Bestellung gearbeitet sind. Sonst wimmelt es in dem Salon von orientalischen Scenen, Familiengemälden und Portraits. Die ersten sollen für Algier begeistern, die andern das Glück der Ehe veranschaulichen, die letzten sind gemalte Heirathsgesuche. Auf den Familiengemälden sind Kinder und kleine Hunde die Hauptsache, auf den männlichen Portraits die Bärte. Ich mag hier keinen Mann mehr ansehen, weil ich nichts als Haare sehe. Alles trägt mittelalterliche Bärte, die Flaneurs, die Kutscher, die Marquis, die Ouvriers. Man ist von allen Seiten umgeben von Van-Dyk’s-, von Rubensköpfen, von poetischen Bärten, zu denen prosaische Augen, fahle Lippen und die geschmacklosesten Trachten des Jahrhunderts gehören. Diese Männer lassen sich ihre </tei:seg>
+        <tei:pb n="63"/>
+        <tei:seg> Bärte wachsen, ohne daß sie selbst ihren Bärten gewachsen sind.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Gemälde des Salons sind im Grunde nichts mehr als gemalte Kupferstiche, colorirte Lithographien. Sie gehen mit wenigen Ausnahmen über den Geist des Kupferstiches und der Lithographie nicht hinaus. Die Mode, die gesellschaftliche Bestimmung scheint die Muse zu sein, die diese Künstler begeistert, und der sie ihre oft schönen und kühnen Talente opfern. An großen Kunstschöpfungen muß eine Periode immer ärmer werden, wo man die Bedeutung der Epoche angefangen hat, so zu verstehen, daß die </tei:seg>
+        <tei:hi style="letter-sparse">Menschen</tei:hi>
+        <tei:seg> dieser Epoche bedeutend wären. Seither wollen denn auch alle diese Philister, die die Haupthebel der Epoche zu sein sich einbilden, sich in der Kunst abgespiegelt finden. Auf den Gemälden, wie in der Poesie, und nirgend mit größerer Tyrannei für die Dichter, als im Drama.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Weihrauch der Feuilletons, die den Salon umdampfen, muß erst den frischen Oelgeruch der Kunstausstellung vertreiben. Hinaus in die sonnigen </tei:seg>
+        <tei:foreign>Champs élysées</tei:foreign>
+        <tei:seg>! Hunderte von eleganten Equipagen, mit vorreitenden Jokeys, begleitenden Cavalieren, untermischt mit reitenden Amazonen, machen Queue zu beiden Seiten der Promenade, um bis zum </tei:seg>
+        <tei:foreign>Arc de l’étoile</tei:foreign>
+        <tei:seg> die Renten zu zeigen, die die weißen Handschuhe und die Stulpstiefeln der Jokeys, die diese englischen Wagen, </tei:seg>
+        <tei:pb n="64"/>
+        <tei:seg> diese Spiegelfenster, diese gestutzten Rosse und die Augen der schönen Damen, die sie ziehen, bezahlen. O, diese schönen, diese stolzen Augen! Diese Fülle von Glanz, dieser Hintergrund von Glück und Unglück, von Liebe, Leidenschaft und den dunkelsten Schlaglichtern der Poesie! Hingelehnt auf sammtne Polster, den Arm auf einen Vorsprung der seidnen Kissen gestützt, blicken diese pariser Frauen der großen und reichen Welt mit ihren heißen und doch so furchtbar ruhigen Augen hinaus durch die niedergelassenen Jalousien des Schlages in die noch kahlen Bäume, die für sie kein Frühling zu belauben braucht. Oder bedürft auch ihr, ihr schönen Wesen, des grünen Schleiers der Natur, um ihn auf euer brennendes Auge zu legen? Brennen diese Blicke auch von Schmerzen, können diese Augen fiebern, diese Finger unter den glacirten Hüllen auch zittern? Habt auch ihr in euren Freuden eure Schmerzen, in eurem Reichthum eure Armuth, in Eurem Uebermaß eure gestillte Sehnsucht? Seht, dort bringt der aufgerührte Staub ein Beispiel unsers Erdenglücks! Louis Philipp, König der Franzosen, umringt von einer halben Schwadron seiner Leibgarde, ein kaum sichtbares, kleines Fenster in dem tiefen sechsspännigen Wagen, vorüberfliegend, nicht rastend, nicht zum Schlage hinausblickend, sich verbergend in der Rücklehne, bei der schon drückenden Hitze schwer athmend unter dem stählernen Ringelpanzer, </tei:seg>
+        <tei:pb n="65"/>
+        <tei:seg> den er nach dem Glauben des Volks stets unter seinen Kleidern trägt! Doch davon später.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie ich gestern durch Zufall am Palais royal vorüberstreife, </tei:seg>
+        <tei:ref target="#annotation-7" type="esv">find’ ich </tei:ref>
+        <tei:ref target="#annotation-7" type="esv">
+          <tei:foreign>le Cid</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-7" type="esv"> angekündigt</tei:ref>
+        <tei:seg>. </tei:seg>
+        <tei:ref target="#annotation-8" type="esv">Dem. Rachel Chimêne</tei:ref>
+        <tei:seg>. Das Glück will mir wohl. Beim ersten Spaziergang seh’ ich den König, bei meinem ersten Theaterbesuch die Rachel. Vielleicht wäre es gerathener, wenn ich meine Meinung so lange zurückhielte, bis ich sie zum zweiten Mal gesehen habe. Ich will sie noch oft sehen, will ihr ganzes Repertoir von sechs Rollen studiren. Möglich, daß ich noch eine bessere Meinung von ihr bekomme, als die ich durch die Chimêne erhielt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Um nun gleich mitten in die pariser Eindrücke hineinzugreifen, so bekenne ich mit großem Leidwesen, daß diese berühmte junge Schauspielerin mich nicht befriedigt hat. Das Leidwesen geht nicht auf Rachel Félix, sondern auf die Möglichkeit, wie man in unserm Zeitalter berühmt sein kann, ohne es wahrhaft zu verdienen. Ungleich sind die Gaben des Geschicks, ungleicher noch die Belohnungen des Genies ausgetheilt. Dem Einen wächst der Lorbeer so hoch, daß seine Stirne ihn nie erreichen wird, dem Andern wuchert er unter den Füßen, wie Brennnesseln. Dieser niedrig wachsende Lorbeer erstickt aber auch oft in den Brennnesseln. Der Ruhm der Rachel ist nicht so hoch, daß er über Janin’s Kritik erhaben wäre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="66"/>
+        <tei:seg> Man rühmt am Corneille’schen Cid, daß er natürlicher ist, als die französische Tragödie natürlich zu sein erlaubt. Man versteht vielleicht einige Verwandlungen darunter, die gegen die Einheit des Ortes verstoßen. Ich finde das Natürliche des Cid in seinen Fehlern und seine Fehler in seinen Vorzügen. Das Stück ist planlos, und, da es von einem starken Geiste ausging, naiv. Das Naive des Cid ist sein schönster Vorzug, und wer diese Tragödie ganz ehren will, muß als Schauspieler sie in ihrer Naivetät beleben, muß in ihr mehr Empfindung entwickeln, als sonst auf dem französischen Cothurn üblich ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dem. Rachel hat dem Cid des Corneille diese Ehre nicht erwiesen. Sie war eine eben so frostige, mürrische, gelangweilte Chimêne, als die echte Chimêne ein warmes, liebendes, lebensfrohes, gutes Mädchen sein soll. Der Kampf zwischen Liebe und Pflicht würde nicht von Corneille auf die Schultern Chimênens gelegt worden sein, nicht in ihre Wangen, in ihre Augen, in die Biegungen ihrer Stimme hineingedichtet, wenn er sich in Chimênen ein Wesen gedacht hätte, wie es Dem. Rachel wiedergibt. Diese Schauspielerin scheint von ihrer Pflicht, den Mörder des Vaters zu hassen, so erfüllt, daß man nicht weiß, warum die Pflicht mit ihrer Liebe in Kampf geräth. Sie hat keine Liebe, sie hat sie wol in ihren Worten, nicht in ihren Mienen. </tei:seg>
+        <tei:pb n="67"/>
+        <tei:seg> Corneille wußte, was Chimêne will: Dem. Rachel wußte nicht, was Corneille will.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Rachel ist eine lange hagre Gestalt, mit Zügen, die grade nicht unschön sind, mit Augen, die nicht blitzen, doch schimmern, wohlbegabt, angewiesen vielleicht auf den Beruf, den sie wählte. Doch zuvörderst gebricht es ihr an Organ. Diese noch so junge Schauspielerin hat in ihrer Stimme nur noch Kraft, wenn sie ihre Stimme anstrengt. Für den gewöhnlichen Lauf des Dialogs fehlt ihrem Organ Lieblichkeit, Fülle, Metall. Sollte man glauben, daß Dem. Rachel eine Schauspielerin ist, die Anstrengung verlangt, um in Stellen, die nicht leidenschaftlich sind, gehört zu werden?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Chimêne, von einer deutschen jungen Tragödin gespielt, würde zunächst die liebende Geliebte des Mannes sein, den die Umstände sie zu hassen zwingen. Dem. Rachel liebt nicht. Sie hat allerdings die Scala der Liebestöne, sie weiß, wenn man mit der Stimme zittern, wo man die Augen niederschlagen muß, sie weiß, welche Sätze man fallen lassen, welche Worte hervorheben, welche Abgänge man in einander schleifen und zusammengurgeln muß, um das Publicum klatschen zu machen - das ist aber Alles. Ein Gemüth zu verschenken, ein Herz uns zu geben, hat sie nicht. Sie declamirt vortrefflich. Sie hat alle Regeln des dramatischen Vortrags inne, sie weiß, wo Gleichgültigkeit, </tei:seg>
+        <tei:pb n="68"/>
+        <tei:seg> wo Ironie, wo langsames, wo schnelles Sprechen wirkt, ihr ganzes Spiel ist, wie man das in der deutschen Theatersprache nennt, aus </tei:seg>
+        <tei:hi style="letter-sparse">Druckern</tei:hi>
+        <tei:seg> zusammengesetzt, aber sie producirt, was sie spricht, aus sich selbst nicht wieder. Nichts erschöpft sie, nichts bewegt sie. Sie liebt nicht, nicht einmal lächeln kann sie. Chimêne, und nicht ein einziges Lächeln! Nicht einmal ein Anlauf, das Lächeln werden könnte und sich nur in einen Schmerzenszug verwandelte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihre einzige, dem Gefühl sich nähernde Stelle war, wo sie </tei:seg>
+        <tei:ref target="#annotation-9" type="esv">Act 5, Scene 1 zu schließen hat, indem sie Rodrigue anredet:</tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
+        <tei:ref target="#annotation-9" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Sors vainqueur d’un combat dont Chimêne est le prix. </tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="#annotation-9" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Adieu: ce mot lâché me fait rougir de honte.</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Gefühl, das sie hier zeigte, bestand in Folgendem: Sie zerlegte das Wort Chimêne in seine drei Sylbentheile und setzte auf jede förmlich ein musikalisches Trillerzeichen. Sie trillerte erst Chi-, dann meckerte sie mê- und ließ </tei:seg>
+        <tei:foreign>rallentando</tei:foreign>
+        <tei:seg> die ganze musikalische Figur auslaufen in die letzte Sylbe -ne, die sie wiederum nur trillernd aussprach. Dann bückte sie sich, als suchte sie auf dem Boden etwas, sprach leise ihr </tei:seg>
+        <tei:foreign>rougir de honte</tei:foreign>
+        <tei:seg> aus und lief zuletzt in die Coulisse fort, wie eine über eine Schmeichelei rothwerdende Grisette, die die Schürze zwischen die Beine klemmt und, um ihre Verlegenheit zu verbergen, auf und davon </tei:seg>
+        <tei:pb n="69"/>
+        <tei:seg> läuft. Uebrigens fand man dieses kleinliche und gemeine Spiel bewunderungswürdig.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gerechtfertigt werden kann die Kälte der Rachel durch den Character der Französinnen überhaupt. Ich werde mich durch Proben nicht überzeugen können, aber ich glaube, daß die französischen Frauen es verstehen, sich in der Liebe eine größere Selbständigkeit zu erhalten, als die deutschen. Ich glaube, daß die Hingebung einer Französin die einer Deutschen nicht erreicht. Es ist mir immer vorgekommen, als wenn in Frankreich die Liebe ein Vertrag ist, dem ein gewisses Bewußtsein von gegenseitigen Rechten und Pflichten zum Grunde liegt. Ohne Zweifel ist in der französischen Liebe noch bei weitem mehr der Character der Chevalerie vorherrschend, als bei uns, die wir uns durch Höflichkeit nie auszeichneten. Die Französinnen lieben, ohne auf die </tei:seg>
+        <tei:foreign>égards</tei:foreign>
+        <tei:seg> zu verzichten, die man ihnen schenken mußte, ehe sie erhörten. Die deutsche Liebe wird ihren sinnlichen Fond schneller erschöpfen, als die französische, die ein Talent besitzt, auch hier zu ökonomisiren. Eine französische Liebe wird den Mann mehr beschäftigen, als eine deutsche; sie wird ihm minder schnell geschenkt werden, als bei uns, aber auch dafür länger andauern. So kommt in den Charakter der französischen Sexualverhältnisse ein abstractes Element, etwas Bewußtes, etwas Gedankenmäßiges, das wir nicht kennen. Die </tei:seg>
+        <tei:pb n="70"/>
+        <tei:seg> sinnliche Flamme lodert in einem Behälter, aus dem sie, auch in der Kunst, und ganz besonders in ihr, nur spielend hervorzüngeln darf, nicht aufsteigen in voller heiliger Lohe.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auch die Liebeskälte der Männer hat mich im Cid angefröstelt. So abgeschmackt und kindisch sich die Helden des Vaudevilles stellen, wenn sie verliebt sind, so kalt war die tragische Liebe Rodrigue’s. Oder lag die Schuld dieses völlig ungenügenden Eindrucks an </tei:seg>
+        <tei:ref target="#annotation-10" type="esv">Ligier</tei:ref>
+        <tei:seg>? Dieser Schauspieler hat eine gewisse ungeschlachte Roheit, die für seine Rolle vollkommen passen möchte, aber sie schien ihm angeboren zu sein, noch mehr, sie schien dem Publikum männliche Größe zu bedeuten. Ligier ist nicht mit einem unsrer berühmten deutschen „ersten Liebhaber“, unsern Tasso- und Posaspielern, zu vergleichen. Was er an Kraft und Natürlichkeit vor ihnen voraushaben mag, das fehlte ihm an Grazie, Anmuth und Würde. Ein unschöner Kopf, eine plumpe Gestalt. Dafür freilich ein großes Redetalent und die feinste Nüancirung aller nur möglichen declamatorischen Effecte. Der Vortrag der Scene, wo er die Schlacht am Meere schildert, war ein Meisterstück.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein durchaus tüchtiger und mir </tei:seg>
+        <tei:ref target="#annotation-11" type="esv">sehr lieb gewordener Schauspieler ist Guyon</tei:ref>
+        <tei:seg>, der den Don Diego spielte. Hier wehte mich etwas von unserer guten deutschen „alten Schule“ an, nicht von der alten Schule, die </tei:seg>
+        <tei:pb n="71"/>
+        <tei:seg> ihren Stolz nur darin findet, daß sie schlecht auswendig lernt, sondern von jener alten Schule, die durch biedre Treuherzigkeit des Tons, Natürlichkeit des Benehmens und jenen Humor sich auszeichnet, den die echte Mimenkunst auch beim Erhabensten, ja selbst noch beim Schmerze zu entfalten weiß.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Ensemble war gut, das Arrangement ohne Bedeutung. Die Weise des Spiels der untergeordneten Rollen entsprach der Vorstellung nicht, die man von der Tradition des Théatre français hat. Wenn Ligier den Unterleib vorstreckt, die Rachel gegen alle Gesetze der dramatischen Aktion ganze Tiraden mit </tei:seg>
+        <tei:hi style="letter-sparse">vorgestrecktem Zeigefinger</tei:hi>
+        <tei:seg> declamirt, dann kann es nicht Wunder nehmen, daß eine Confidente beim Reden die Hände so familiär zusammenlegt, wie eine Ladendame, die ihren handelnden Käufern erklärt: Es thut mir leid, </tei:seg>
+        <tei:foreign>prix fixes</tei:foreign>
+        <tei:seg>, wir schlagen nichts vor! - Die Bärte waren auch hier, wie jetzt fast überall die Hauptsache. Schöne Bärte, schlechte Schauspieler.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Stimmung des Publicums war merkwürdig. Jede politische Anspielung, jede schöne Stelle wurde mit Enthusiasmus aufgenommen. Gewiße Force-Phrasen erregten allgemeine Theilnahme. Vieles, Vieles davon hat mich verwundet. Ich liebe diesen französischen Pathos nicht, ich liebe diese Lakonismen nicht, die meist erhaben klingen sollen und zuweilen gemein sind. Als Ro-</tei:seg>
+        <tei:pb n="72"/>
+        <tei:seg>drigue den Grafen auffordert, sich mit ihm zu schlagen, und dieser ausweicht, sagt Ligier:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.1" style="text-center">
+        <tei:ref target="#annotation-12" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">As-tu peur de mourir?</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er sprach diese Worte mit einer Kälte, mit einem Hohn, daß man Fouquier Tinville zu sehen glaubte, der einem Girondisten die Süßigkeit der Guillotine vormalen will. Die Franzosen waren außer sich über dieses: </tei:seg>
+        <tei:foreign>as-tu peur de mourir</tei:foreign>
+        <tei:seg>. Vielleicht in </tei:seg>
+        <tei:hi style="letter-sparse">ihrem</tei:hi>
+        <tei:seg> Sinn mit Recht, mit Recht in der Erinnerung an ihre Geschichte, mit Recht an die Erinnerung der blutigen, furchtbaren Dinge, die sie nicht würden ertragen haben, ohne einen finstern, ruhigen Todesmuth.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei drei Stellen war der </tei:seg>
+        <tei:ref target="#annotation-14" type="esv">Applaus von specieller Bedeutung</tei:ref>
+        <tei:seg>. Man klatschte begeistert bei der schönen Phrase:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="5.7" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" style="text-left">
+        <tei:ref target="#annotation-13" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Je suis jeune, il est vrai, mais aux âmes bien nées</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="5.7" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="#{value()}" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">La valeur n’attend pas le nombre des années.</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Noch größer war die Aufregung bei den Versen, wo der König sich weigert, Krieg zu führen mit den Worten: </tei:seg>
+        <tei:ref target="#annotation-15" type="esv">
+          <tei:foreign>Sortir d’une bataille et combattre à l’instant</tei:foreign>
+        </tei:ref>
+        <tei:seg>, und Diego mit Beziehung auf die obenerwähnte Schilderung der Schlacht mit ruhiger Ironie sagt:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.1" style="text-center">
+        <tei:ref target="#annotation-16" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Rodrigue a pris haleine en vous la racontant.</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>„Der Friede um jeden Preis“ hätte hier bei dem donnernden Jubel der Menge beschämt zu Boden blicken </tei:seg>
+        <tei:pb n="73"/>
+        <tei:seg> müssen. Endlich wurde der Versuch einer kleinen Partei, bei den Worten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0.1" style="text-center">
+        <tei:ref target="#annotation-17" type="esv">
+          <tei:foreign>
+            <tei:hi style="font-size-small">Et quand un roi commande, on lui doit obéir</tei:hi>
+          </tei:foreign>
+        </tei:ref>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>zu klatschen, mit lautem Lachen und zischend zurückgewiesen. Als der Vorhang fiel, rief man die Rachel, Ligier und Guyon hervor. Sie kamen und verbeugten sich. Ich fixirte die Rachel. Kein Lächeln, noch immer kein Lächeln! Stummer, starrer Ernst in ihren Mienen. Die gemalte Kälte!</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="Sechster Brief" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-3">
+        <tei:pb n="74"/>
+        <tei:seg> Sechster Brief.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-right">
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-size-small">Pari</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">s, den 19. März 1842.</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:ref target="#annotation-18" type="esv">Guizot</tei:ref>
+        <tei:seg> hat wegen eines häuslichen Krankheitsfalles mehrere Tage nicht empfangen. Gestern war zum ersten Mal wieder im Hotel des Capucines jener Salon geöffnet, den hier jede politische Renommée unterhält, um an dessen Besuch den Grad zu zeigen, auf welchem sein politischer Thermometer steht. Guizot’s Salon war nicht sehr gefüllt; theils Militairs, theils Gesandte, einige Deputirte und Gelehrte. Die Charwoche hat begonnen. Die in der Nähe von Paris auf dem Lande wohnenden Staatsmänner machen sich Ferien.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich wurde Guizot vorgestellt. Für einen Ketzer eigenthümlich genug, nach dem Gesandten des Papstes. Guizot ist klein, von Figur gedrungen, ein angehender Sechsziger. Auge und Haltung lebhaft, der Vortrag sehr bestimmt; die Lebhaftigkeit schien sich fast der Reizbarkeit zu nähern; es lag eine gewisse Spannung, eine gezwungene Elasticität in seinem Wesen. Wenn ich </tei:seg>
+        <tei:pb n="75"/>
+        <tei:seg> seine gegenwärtige Stellung bedenke, wenn ich nichts vergleiche, als nur die polemischen Artikel der Oppositionsblätter von heute früh, die Drohung, daß sich in allen Seehäfen der Kaufmannsstand eines nicht gegebenen Gesetzes wegen gegen ihn erheben würde, die triumphirende Hinweisung auf das Resultat der bevorstehenden Wahlen, so ist es nicht zu verwundern, daß Guizot’s Innerstes über sein Aeußeres hinauszulangen scheint. Sein ganzes Wesen schien mir wie galvanisirt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Frankreichs Allianz, sei’s nun unter Guizot mit England oder unter Molé mit Rußland, wird schwerlich etwas Aufrichtiges und Dauerndes sein. So hat Frankreich denn allerdings das größte Interesse, sich mit </tei:seg>
+        <tei:hi style="letter-sparse">Deutschland zu verständige</tei:hi>
+        <tei:seg>n. Unglücklicherweise ist aber Deutschland ein Land, das einer bestimmten politischen Sympathie nicht fähig ist. Man kann von den Sympathien des Rheins sprechen und hat nicht die Sympathien der Donau. Die Stimmung des Volks ist nicht die der Gelehrten. Die Regierungen haben wieder ihr System für sich und hängen von Preußen und Oesterreich ab, zwei Staaten, deren Politik sich noch immer nicht hat entschließen können, rein und ausschließlich deutsch zu sein. So ist es außerordentlich schwer, irgendwie für die Stimmung Deutschlands gut zu sagen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vor zehn Jahren, noch unter </tei:seg>
+        <tei:ref target="#annotation-19" type="esv">Casimir Perier</tei:ref>
+        <tei:seg>, der zuerst anfing, die Julimonarchie ihres revolutionairen </tei:seg>
+        <tei:pb n="76"/>
+        <tei:seg> Ursprungs zu entkleiden, war die französische Politik daruf bedacht, in den westlichen und südlichen kleinern Staaten Deutschlands die alten Rheinbundsideen zu nähren. Die Stimmung des deutschen Volkes war beinah reif, sich von einem Regierungssystem loszusagen, das die Protokolle von 1832 gegeben und in jenen unglücklichen Verhaftnahmen und Verfolgungen das einzige Mittel erblickte, Deutschland zu beruhigen. Später haben sich alle diese Dinge geändert; Vieles, was Andre ihrer Weisheit zuschreiben werden, muß man der Erschöpfung zuschreiben. In Frankreich geschieht Alles durch die Personen, in Deutschland geschieht Alles durch die Umstände.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn es Frankreichs Interesse ist, von Richelieu bis Thiers bewiesen es alle seine Staatsmänner, Deutschland </tei:seg>
+        <tei:hi style="letter-sparse">uneinig</tei:hi>
+        <tei:seg> zu wissen, so hätte es den Moment der kölnischen Wirren benutzen können, um die drohende und damals wirklich eingetretene Spaltung weiter aufzureißen. Frankreich ist aber solchen umgreifenden Unternehmungen nicht mehr gewachsen. Den innern Parteiungen, die das Land zerfleischen, preisgegeben, geleitet von einer Politik, die nur die Befestigung der Dynastie Orleans einzig und allein im Auge hat, hätte es auch, wie es jetzt ist, nicht die moralische und religiöse Weihe besessen, um der katholischen Sache in dem Sinne sich anzunehmen, wie Graf Montalembert und die ihm ähn-</tei:seg>
+        <tei:pb n="77"/>
+        <tei:seg>lich gesinnte Partei vielleicht die Grundzüge dieses Schutzes würde entworfen haben. Frankreich wird nur noch von administrativen Ideen regiert. Es ist die Regierung einer absoluten Polizei. Frankreich hätte den legitimistischen Principien des Romanismus gegenüber eine andre Weltanschauung, die rein liberale, fest begründen können. Seitdem es sich aber vor dieser Weltanschauung selber fürchtet, sind ihm auch die Zügel der Weltregierung entfallen. Frankreichs Regierung ist kein Organismus mehr, sondern nur noch Administration. Von Ministerium zu Ministerium, von Kammersitzung zu Kammersitzung befestigt man nichts, als die Centralisation. Hatte es doch selbst eine Fehde mit dem Erzbischof von Paris, wie konnte es den Erzbischof von Köln in Schutz nehmen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auch die deutsche Politik ist mehr administrativ und polizeilich, als organisch. Es liegt dies in der Furcht vor der Revolution. Als man sahe, daß die liberale Partei mit ihren constitutionellen Wünschen sich in die kirchliche Fehde mischte und der Zwiespalt zwischen deutschem Norden und deutschem Süden immer bedenklicher wurde, beeilte man sich, das kirchliche Gebiet zu verlassen, die schwebende religiöse Frage wie nur irgend möglich beizulegen und das locker werdende Band des Zusammenhanges am Bundestage enger wieder als je zu knüpfen. Die Festungen sind ihrem Ausbau näher </tei:seg>
+        <tei:pb n="78"/>
+        <tei:seg> gebracht worden, die eben ausbrechende Krisis der orientalischen Frage erlaubte, unter einem guten Vorwande, den Kriegszustand aller deutschen Territorien zu prüfen und zu verbessern, die Rheinfrage mit ihren poetischen und musikalischen Accidenzien kam hinzu, und so hat sich Deutschland im Augenblick eines Zusammenhanges, einer Einigkeit zu erfreuen, die ihm plötzlich eine seit lange nicht behauptete Stellung gegeben hat. Die französische Politik ist in diesem Augenblick Deutschland nicht gewachsen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Thatsache dieses unsres Aufschwunges kann für jeden Deutschen nur erhebend sein. Wenn die Regierungen so verständig sind und dem revolutionairen Princip dadurch zuvorkommen, daß sie die Versprechungen desselben zu ihren eignen Leistungen machen, so wird Deutschland zunehmen an Kraft, an Kraft des Widerstandes, an Kraft, dulden zu können, an Kraft der Neutralität. Eine handelnde Kraft kann aus Deutschland nicht werden, so lange sein Zusammenhang ein Mechanismus ist. Mechanisch lassen sich sechszig Hände zu zwei Händen vereinigen, aber nicht dreißig Willensmeinungen zu einem </tei:seg>
+        <tei:hi style="letter-sparse">Wille</tei:hi>
+        <tei:seg>n. Doch hindert das nichts. Schon als europäischer Schwerpunkt ist Deutschland groß, und wenn unsre Regierungen nicht zu schroff dem Volksleben sich entziehen, wenn nicht so unzeitige Erbitterungen, wie die von Seiten der ministeriellen Partei </tei:seg>
+        <tei:pb n="79"/>
+        <tei:seg> in Baden und der dynastischen in Hannover das zunehmende Vertrauen stören, so könnte wol eine Zeit kommen, wo die Frage: </tei:seg>
+        <tei:foreign>Monsieur est Allemand</tei:foreign>
+        <tei:seg>? in einem politischen pariser Salon an uns gerichtet, uns nicht in Verlegenheit setzt, sondern mit einer kräftigen Bejahung stolz beantwortet werden kann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist eine Lieblingswendung der Franzosen, Deutschland müsse mit Frankreich Hand in Hand gehen. Früher klang diese Phrase etwas nach der Klugheit des Löwen, der den Esel einladet, an der gemeinschaftlichen Beute Theil zu nehmen; jetzt liegt wirklich etwas Aufrichtiges darin. Die Franzosen räumen uns so außerordentlich viel ein, daß man mehr als mistrauisch wäre, ihren Versicherungen keinen Glauben zu schenken. Die Franzosen bedauern selbst, daß die Rheinfrage von einigen allzu sanguinischen Hitzköpfen, von einigen Radoteurs aufgeworfen wurde, die gern mit Phrasen paradiren. Die Franzosen sagen: Nehmt uns nicht übel, daß wir zuweilen an unsere Eroberungen denken; seid ihr doch zwei Mal in unserm Lande gewesen, im Revolutionskriege und am Ende der großen Tragödie Napoleon! Man sagte mir: „Nur die sinkenden Größen in Frankreich, Größen, die keine populaire Idee mehr zu verarbeiten haben, greifen nach dem letzten Rettungsbret, nach der Rheinfrage.“ Es wären dies die Geister, die Frankreich selbst schon aufgegeben hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="80"/>
+        <tei:seg> Ich rathe allen Deutschen, die nach Frankreich reisen, dort im Gefühl ihrer Nationalität aufzutreten. Die Franzosen kennen an sich selbst keine andere Methode sich einzuführen und achten nur diese. Freilich muß sich ein unabhängiges, tief verstimmtes Gefühl überwinden. Aber ich mochte nicht grollen mit dem Vaterlande in einem Augenblick, wo man in Frankreich anfängt, bei der Frage: </tei:seg>
+        <tei:foreign>Monsieur est Allemand</tei:foreign>
+        <tei:seg>? den Hut abzuziehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was gibt dem deutschen Namen in Paris dies Feierliche und Bedeutsame? Nicht der Bundestag, sondern der Geist unsres Volks! Unsre einst große Geschichte, unser Tiefsinn, unsre Poesie! Guizot stellte mir frei, deutsch zu reden; er behielt sich nur die französische Antwort vor. Ich wollte ihn nicht auf die Probe stellen, aber daß er es wagt, deutsch verstehen zu wollen, ist schon ehrenvoll für uns. Man schätzt jetzt in Frankreich mehr an uns, als nur den deutschen Sammlerfleiß. Man kauft mehr von unsrer Literatur, als nur unsre medicinischen, historischen, philologischen Werke. Man ist von unserm Fleiß auf unser Genie übergegangen. Man wird uns in Allem die Form absprechen und mit großem Rechte, in dem Meisten aber, vielleicht mit Ausnahme der socialen Philosophie, uns nur das Tiefste und Gründlichste zuerkennen. Es gilt in Frankreich für ein Mittel, sich einen Weg zu bahnen, wenn </tei:seg>
+        <tei:pb n="81"/>
+        <tei:seg> man eine </tei:seg>
+        <tei:foreign>specialité allemande</tei:foreign>
+        <tei:seg> ist. Unsre Musik ist uns zugestanden. Die Musik ist unsre Domaine. Auch die Malerei wird es werden, wenn der hiesige Salon sich von Jahr zu Jahr, wie es den Anschein hat, verschlechtert und aus der deutschen Kunst die unglückselige Heiligenjagd und Mysticisterei verbannt wird. Am weitesten zurück sind die Franzosen allerdings in der Anerkennung unsrer neuen Poesie. Und mit Recht. Denn unsre neuere deutsche Poesie ist zu sehr die Frucht der französischen gewesen. Es lag darin ein nothwendiges Gesetz, das wir befolgen mußten wider Willen. Die Zeit wird kommen, wo wir auch hier die Franzosen, die in der schönen Literatur weiter als wir waren, aber es jetzt nicht mehr sind, wieder einholen, vielleicht übertreffen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich komme auf Guizot noch einmal zurück. </tei:seg>
+        <tei:foreign>Je vous reserve encore une heure du matin, ou nous causerons à notre aise.</tei:foreign>
+        <tei:seg> Wir werden wahrscheinlich über deutsche Philosophie sprechen. Es ist die gewöhnliche Kost, die die Franzosen den deutschen Besuchern vorsetzen. Guizot ist ein guter Philosoph. Dies hindert aber nicht, daß ihn heute die Kammer über den Runkelrübenzucker interpellirt und er wie ein Oekonom darauf antworten wird.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="Siebenter Brief" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-3">
+        <tei:pb n="82"/>
+        <tei:seg> Siebenter Brief.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-right">
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-size-small">Pari</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">s, den 22. März.</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Frühlingswetter will doch noch nicht Bestand haben. Ein regnerischer Tag, grau der Himmel, trüber die immer trübe Seine; alle Steine auf den Straßen zum Hinfallen schmuzig. </tei:seg>
+        <tei:ref target="#annotation-20" type="esv">Man flüchtet sich in die Passagen, ins Palais-Royal. Die Passagen, die Lesekabinette sind Oerter, wo man sich Rendezvous gibt. Man ißt im Boeuf </tei:ref>
+        <tei:ref target="#annotation-20" type="esv">
+          <tei:foreign>à</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-20" type="esv"> la Mode, im grand Vatel, im Restaurant anglais. Very, Vefour, den Rocher de Cancale</tei:ref>
+        <tei:seg> spart man sich noch auf, wenn ein schöner Tag, eine heitere Stimmung kommt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meine ersten Studien sind der Oertlichkeit gewidmet. Ich habe mir den Plan von Paris gekauft, abgedruckt auf einem Taschentuch. </tei:seg>
+        <tei:ref target="#annotation-21" type="esv">So unregelmäßig Paris gebaut ist, so hat es doch gewisse topographische Punkte, von denen aus man sich wenigstens über die Arrondissements, über die Brücken, die bedeutenden Gebäude und Hauptplätze zurecht findet. Großartig ist der An-</tei:ref>
+        <tei:ref target="#annotation-21" type="esv">
+          <tei:pb n="83"/>
+        </tei:ref>
+        <tei:ref target="#annotation-21" type="esv">blick der Stadt vom Pont-Neuf. An beiden Seiten der Seine dehnt sich die ungeheuere Stadt mit ihren Quais, ihren Palästen, ihren Kirchen. Im Gewühl der engen Straßen</tei:ref>
+        <tei:seg> wird man fortgedrängt. Die Lastträger, die Ausrufer, Alles umschwirrt, umwirrt uns. Mit Mühe erreichen wir die Punkte, die wir suchen. Neugierig bleiben wir an den Läden stehen, an den Straßenecken, an die sie die ungeheuern bunten Plakate heften, an hundert Erscheinungen, die von unsern deutschen Gewohnheiten abweichen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf den Boulevards streifen die Flaneurs. Tausende von Fremden zeigen sich zum ersten Mal, wie sie sich in dem neuen pariser Costüme ausnehmen. Frauen, die uns verwirren würden, wenn sie so hübsch, wie elegant wären, treten auf uns zu: </tei:seg>
+        <tei:ref target="#annotation-22" type="esv">„</tei:ref>
+        <tei:ref target="#annotation-22" type="esv">
+          <tei:foreign>Pardon, vous êtes Monsieur Albert</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-22" type="esv">?“ Der künstliche Irrthum zerrinnt in eine ironische Verlegenheit, die nur uns, nicht die sich doppelt irrende Dame irre macht. Dort rechts von </tei:ref>
+        <tei:ref target="#annotation-22" type="esv">
+          <tei:foreign>Notre-Dame de Lorette</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-22" type="esv">, links hier von den </tei:ref>
+        <tei:ref target="#annotation-22" type="esv">
+          <tei:foreign>bains chinois</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-22" type="esv"> erzählt man uns mehr, als sich beim Nachforschen bestätigen möchte.</tei:ref>
+        <tei:seg> Die Phantasie erfindet über Paris mehr, als die Stadt in Wirklichkeit darbietet. Ermüdet von den Wanderungen, ermüdet von diesem Prüfen, Aufnehmen, Beobachten, fühlt’ man, wie überspät doch in Paris gegessen wird, und tritt drüben </tei:seg>
+        <tei:ref target="#annotation-23" type="esv">ins Café Foy ein, um den Charivari zu lesen, </tei:ref>
+        <tei:ref target="#annotation-23" type="esv">
+          <tei:foreign>Chocolade à la</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-23" type="esv"> </tei:ref>
+        <tei:ref target="#annotation-23" type="esv">
+          <tei:pb n="84"/>
+        </tei:ref>
+        <tei:ref target="#annotation-23" type="esv"> </tei:ref>
+        <tei:ref target="#annotation-23" type="esv">
+          <tei:foreign>crème</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-23" type="esv"> zu trinken. Die </tei:ref>
+        <tei:ref target="#annotation-23" type="esv">
+          <tei:foreign>dame du Comptoir</tei:foreign>
+        </tei:ref>
+        <tei:seg> zeichnet mit wichtiger Miene den gezahlten Frank in ihr Hauptbuch ein. Wüßte man nicht, daß diese Frauen in gewissem Sinn eine </tei:seg>
+        <tei:hi style="letter-sparse">doppelte</tei:hi>
+        <tei:seg> Buchhaltung führen, man würde die Mode der </tei:seg>
+        <tei:foreign>dames du comptoir</tei:foreign>
+        <tei:seg> lächerlich finden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich sahe an meinem zweiten Theaterabend die Dejazet, und der erste Anblick, der erste Ton den sie sprach, der erste Gruß ihres Genies im Palais-Royal-Theater entlockte mir, während Alles lachte, Thränen. Ich weiß nicht, alles Große und Schöne macht mich weinen. Ich kenne keine andere Bewunderung, als eine mit feuchten Augen. Jedes große Wort, das irgendwo gesprochen wurde, jede That, die göttlicher ist, als die menschliche Kraft, rührt mich. Ich kann meine Wehmuth nicht zurückhalten, daß das Große so einzeln steht, daß das Erhabene nicht von dieser Welt ist. Und wenn ich gezweifelt habe, wenn ich mistraue und ich mich plötzlich getäuscht sehe - auch die Rachel hätte mich so erschüttern können, wenn ich meine Erwartung bestätigt gefunden hätte. Die Dejazet übertraf aber meine Erwartung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie spielte in einem kleinen Schubladenstück, </tei:seg>
+        <tei:foreign>la fille de Dominique</tei:foreign>
+        <tei:seg>. Sie ist die Tochter eines verstorbenen königlichen Schauspielers zur Zeit Molière’s. Sie kommt nach Paris, um sich unter die Truppe aufnehmen zu lassen, der ihr Vater angehörte. Sie soll Pro-</tei:seg>
+        <tei:pb n="85"/>
+        <tei:seg>ben ihres Talents ablegen und hat es schon gethan, ehe man es vermuthete. Sie war beim Schauspieler Baron gewesen und hatte sich als Bäuerin, als phantastische Dame, als junger Tambour von der königlichen Garde präsentirt. In allen diesen Rollen sehen wir sie. Sie tritt in ländlicher Tracht mit ihrem Tragbündel auf. Das erste Wort, das sie spricht, ihr erster Schritt, ließ mich die große Wahrheit ihres Spiels erkennen. Es ist keine Königin, keine Fee, keine Dame eines Scribe’schen Lustspiels, es ist die junge Bäuerin, die angehende Grisette, die Heldin des Vaudevilles. Alles an ihr neckisch, lieblich, wahr. Dabei die sichersten Bewegungen und trotz ihrer rauhen Altstimme, trotz ihres Organs, in dem viel wilde Nächte, viel Champagnerräusche zu schlummern scheinen, doch ein Vortrag des Couplets, der rein in der Intonation, geschmackvoll in der Behandlung des Gesanges und nicht selten erschütternd in seiner Wirkung ist. Ich kann die ganze Entfaltung dieses eigenthümlichen Spieles hier nicht entwickeln. Alles, was sie gab, war Variation des lieblichsten: </tei:seg>
+        <tei:foreign>Je danse, je chante, je danse</tei:foreign>
+        <tei:seg>!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und diese Erscheinung nahmen, fand ich, die Franzosen schon ziemlich leicht hin. Sie stießen sich, man sah es wohl, schon an den 45 Jahren dieser Schauspielerin. Arme Dejazet! 45 Jahre! Ein Glück, daß sie wenigstens noch lieben kann. Noch hat sie Leidenschaft und die </tei:seg>
+        <tei:pb n="86"/>
+        <tei:seg> Leidenschaft wird sie jung erhalten. Die Dejazet ist nicht schön und war es nie. Sie würde vielleicht weniger genial sein, wenn sie schöner wäre. Auch weil sie geistreich ist, kann sie nicht schön sein. Man behauptet, sie wäre reich an guten Einfällen. Man hat eine Sammlung ihrer Calembourgs unter dem Titel: </tei:seg>
+        <tei:foreign>Perroquet de Mademoiselle Dejazet</tei:foreign>
+        <tei:seg> herausgegeben. Wenn man sie in dem Dessert des gestrigen Theaterabends sahe, möchte man glauben, daß diese Autorschaft keine erfundene ist. Das Stück: </tei:seg>
+        <tei:foreign>un scandale</tei:foreign>
+        <tei:seg>, wurde fast ganz aus dem Stegreif gespielt. Die Dejazet erschien darin auf der Gallerie des ersten Logenranges, als Madame Fromageac, plauderte vertraut mit ihrem Begleiter, machte sich über das Publicum lustig, sprach ins Parterre hinein und erzählte ihre Lebensgeschichte als Madame Fromageac. Es fehlte hier natürlich nicht an den ärgsten Zweideutigkeiten, die sie indessen alle mit einem sich immer gleichbleibenden Anstand vortrug. </tei:seg>
+        <tei:foreign>Mes péres et méres étaient</tei:foreign>
+        <tei:seg>, fing sie an, unterbrach sich aber und fragte einen der Schauspieler auf der Bühne, ob es französisch wäre zu sagen: </tei:seg>
+        <tei:foreign>mes péres</tei:foreign>
+        <tei:seg>? - Sie bekam die witzige Antwort, daß „</tei:seg>
+        <tei:foreign>mes péres</tei:foreign>
+        <tei:seg>“ leider nur zu französisch wäre. Mitten im lustigsten Zuge ihrer Lebensgeschichte erscheint im dritten Range ihr Mann und stellt sie von dort zur Rede, wie sie mit einem Liebhaber ins Theater gehen könne. </tei:seg>
+        <tei:pb n="87"/>
+        <tei:seg> Das drolligste Intermezzo beginnt. Mann und Frau zanken sich und werfen sich einander die Nichterfüllung ihrer ehelichen Verbindlichkeiten vor. Um dem Publicum einen Beweis von der Dummheit ihres Mannes zu geben, erzählte sie, sie esse gerne junge Hühner und wäre mit Herrn Fromageac, ihrem Gatten, gegangen, um sich welche zu kaufen. Der Geflügelhändler hätte für das Stück 1½ Frcs. gefordert: für alle sechs aber, die er hatte, sechs Franken. Was thut mein Geizhals von Gatte? Er handelt und handelt, nimmt erst eins und dann noch eins und schließt endlich den Kauf so ab, daß er vier nimmt, das Stück zu 1½ Frcs., macht sechs Franken, statt daß er dafür hätte alle sechs haben können!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von den übrigen Mitspielenden läßt sich nicht viel Bedeutendes sagen. Ravez hat eine gute, passive Komik. Im Allgemeinen mach’ ich vielerlei Entdeckungen über die Bildung der französischen Schauspieler. Zum Besten der deutschen theil’ ich sie später mit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn man in den Lesekabinetten die Unzahl von Zeitungen sieht, die man in Deutschland kaum dem Namen nach kennt, Zeitungen, die nicht aus der Nothwendigkeit eines politischen Dranges, sondern nur aus Geldspeculation entstehen, wenn man diese Gleichgültigkeit der Masse, die Interesselosigkeit der Verhandlungen in den gesetzgebenden Körpern zusammennimmt, so </tei:seg>
+        <tei:pb n="88"/>
+        <tei:seg> möchte man die gesammte politische Debatte Frankreichs, die ganze sociale Polemik, die uns im Auslande so beschäftigt, für eine Erfindung der Journale halten. Und doch, unter dem Einerlei der Alltäglichkeit sind alle diese Parteien, alle diese Gährungen und Leidenschaften da. Viertausend Arbeiter, die mitten in diesem so geregelt scheinenden Leben und Treiben täglich frühe auf dem Grêve-Platze stehen und noch nicht wissen, wovon sie den Tag leben sollen, wenn sie keine Beschäftigung finden, zehntausend, die unsicher über den morgenden Tag, zwanzigtausend, die unsicher sind über die nächste Woche - das ist der Krankheitsstoff, der sich täglich von der äußern Haut dieser Stadt, von den Barrieren und den Faubourgs auf die innern Theile des gesellschaftlichen Körpers werfen kann, auf den Bund der Macht mit dem Reichthum, auf die Würden und das Besitzthum. Es ist wahr, immer schwächer wird jene politische Opposition, die nur aus Leidenschaft, wie bei den Legitimisten, nur aus Princip und Ehrgeiz, wie bei dem größten Theil der parlamentarischen Opposition, gegen die nun seit zwölf Jahren bestehende Ordnung der Dinge geführt wird: immer stärker aber dafür die Opposition des Bedürfnisses und der Widerspruch der arbeitenden gegen die genießenden Klassen. Hier in Frankreich, wo noch kein </tei:seg>
+        <tei:hi style="letter-sparse">Steffens</tei:hi>
+        <tei:seg> gewagt hat zu sagen, daß den Armen ihre Arbeit Genuß, und den Reichen ihr Genuß </tei:seg>
+        <tei:pb n="89"/>
+        <tei:seg> Arbeit wäre, hier fängt durch die grellste Hervorstellung dieses Gesichtspunktes die politische Polemik an, sich immer mehr zu vereinfachen. </tei:seg>
+        <tei:ref target="#annotation-24" type="esv">Der Communismus ist nicht blos das Glaubensbekenntniß einiger verworrenen Handwerker, sondern die wissenschaftliche Theorie einiger Denker geworden, die inmitten zwischen den Debats und dem National</tei:ref>
+        <tei:seg> einen neuen methodischen Widerspruch begründen, der einen erstaunlichen Zulauf findet. Es ist dies die Partei, aus deren Schoße die Königsmörder kommen, die Partei, welcher zu Liebe </tei:seg>
+        <tei:ref target="#annotation-25" type="esv">George Sand ihren Frack mit der Blouse, die </tei:ref>
+        <tei:ref target="#annotation-25" type="esv">
+          <tei:foreign>revue des deux mondes</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-25" type="esv"> mit der </tei:ref>
+        <tei:ref target="#annotation-25" type="esv">
+          <tei:foreign>revue indépendante</tei:foreign>
+        </tei:ref>
+        <tei:ref target="#annotation-25" type="esv"> vertauscht</tei:ref>
+        <tei:seg> hat, dieselbe Partei, welche </tei:seg>
+        <tei:ref target="#annotation-26" type="esv">die Gedichte der Handwerker über die Gedichte Lamartine’s und Victor Hugo’s setzt und kürzlich erklärt hat, ein Gassenkehrer in Paris, der seine Gedichte soeben herausgegeben hat, wäre der größte jetzt lebende Dichter in Frankreich</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Noth der Zeiten drängt. Die Bedürfnisse des Volkes müssen uns heilig sein. Ehre den Geistern, die ihre Gedanken einer so edlen Sache, der Wohlfahrt des Volkes widmen, die für ihre Betrachtungen, Vertheidigungen und Vorschläge den üblichen Undank der Masse, dem Golde, den Belohnungen und Bestechungen der Reichen vorziehen! Aber der Weg, den die neue communistische Philosophie Frankreichs einschlägt, ist nicht der rechte. Er führt vom Ziele ab, er verdirbt die </tei:seg>
+        <tei:pb n="90"/>
+        <tei:seg> Wissenschaft und bessert nicht die Glückseligkeit. Er schleudert uns in den Materialismus des vorigen Jahrhunderts zurück und überliefert uns entweder der Revolution oder dem Aberglauben. Denn von diesem Materialismus zum Aberglauben ist nur ein Schritt. Wie </tei:seg>
+        <tei:ref target="#annotation-27" type="esv">Lamennais</tei:ref>
+        <tei:seg> vom Katholicismus ausging und zum Communismus kam, so wird </tei:seg>
+        <tei:ref target="#annotation-28" type="esv">Pierre Leroux</tei:ref>
+        <tei:seg> vom Communismus ausgehen und zum Katholicismus zurückkehren.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Frankreich hat jetzt die Sucht, neue Philosophien und neue Gesellschaften zu bauen. Die ersten sind geistlos, wie können die zweiten richtig sein? Geistlos ist dies Schematisiren der Stände, der Beschäftigungen, der Arbeiten und des Lohnes, das die Communisten von </tei:seg>
+        <tei:ref target="#annotation-29" type="esv">St. Simon und Fourier</tei:ref>
+        <tei:seg> geerbt haben. Man soll die Gesellschaft nicht deshalb so hinnehmen, wie sie ist, weil die Geschichte sie so gebildet hat, sondern weil man nicht die Fähigkeit hat, auf dem Papier eine abstrakte Gesellschaftsbildung aus Nichts hervorzurufen. Alle unsere faktischen Verhältnisse, unsere Wünsche und Bedürfnisse drängen über eure Paragraphen hinaus, ihr zeichnet die Arbeit hin, wo die Menge schon Genuß will, ihr macht Unterscheidungen, die sich von selbst aufheben, ihr theilt und ordnet und wißt nicht, daß die Masse nach Einheit, alle Unterschiede nach Aufhebung streben! Ihr reißt die ganze gegenwärtige Gesellschaft </tei:seg>
+        <tei:pb n="91"/>
+        <tei:seg> ein, um diese Gesellschaft glücklich zu machen. Ihr wollt der Geschichte eine schöne Zukunft geben, ohne daß ihr die nachwirkende Kraft der Vergangenheit ersticken könnt!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich ziehe die Opposition im alten Sinne vor. Ich ziehe es vor, den Staat, wie er jetzt ist, nicht für einen Rechnungsfehler zu halten, den man nicht tilgen kann, wenn man nicht ganz auf den ersten Ansatz, auf das Einmaleins und die vier Spezies der Gesellschaft zurückgeht, sondern ich halte ihn für einen erkrankten Organismus, der sich heilen läßt, ohne ihn darum zu zerstören. Die moderne Gesellschaft in ihrer ungleichen Vertheilung der Güter, in ihren Lasten auf die Arbeitenden, in allen den Ungerechtigkeiten, die die oft künstliche Zusammensetzung unserer Verhältnisse mit sich bringt, ist ein vegetativer Organismus, dessen Wurzeln zwar hie und da von der schützenden Erde entblößt sind, die aber noch tief genug in den Schoß der Geschichte greifen, um ihm noch auf lange Zeiten Wachsthum und kräftige Entfaltung zu sichern. Die wahre Philosophie und die politische Opposition, die soeben bei uns in Deutschland einen so erhabenen Bund mit der Philosophie geschlossen hat, beide sind berufen, diesen Organismus zu überwachen. Wuchernde Auswüchse - fort mit ihnen! Erstorbene Aeste - weggesägt! Grünes junges Laub, was an den Zweigen ansetzt - geschont, </tei:seg>
+        <tei:pb n="92"/>
+        <tei:seg> gepflegt! Die sociale Philosophie unsrer Tage darf nie den historischen Boden verlieren, nie unsere objektiven Bedürfnisse, unsere faktischen Nothwendigkeiten absichtlich vergessen wollen. Man überwache die Entwickelung des modernen Staates, sorge aus reinem, edlem, rechtem Herzen für das Reine, Edle und Rechte, man verbessere die Gesellschaft, indem man sie ermuthigt, an ihren göttlichen, ihr inwohnenden Geist zu glauben, nicht indem man sie lehrt, sich für verworfen zu halten und sich neu zu begründen - aus Nichts!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich gehe noch einen Schritt weiter. Ich habe diese moderne, socialistische Philosophie Frankreichs einen veredelten Materialismus genannt. Ich nenne sie einen Materialismus, der sich auf Genußsucht begründet, und leite diese aus dem französischen Charakter her. Alles jammert jetzt in Frankreich über die Last der Arbeit. Niemand will arbeiten, weil es Menschen gibt, die genießen. Ja, sie wollen arbeiten, aber nur zehn Jahre, sie wollen in zehn Jahren so viel erwerben, daß sie dreißig Jahre lang von ihren Renten leben können. Arbeit, Renten. Um diese Begriffe dreht sich in Frankreich Alles. Man ist so erfaßt von der Genußsucht, so erschöpft vom Verlangen nach sinnlichen Anregungen, daß man das Proletariat in Renten umzaubern und die Mittelstraße, die einzig das Proletariat zu Renten brin-</tei:seg>
+        <tei:pb n="93"/>
+        <tei:seg>gen kann, die Arbeit, überspringen möchte. Alles träumt hier von plötzlichem Glück, Alles will mit einem Schlage haben, woran man in friedlichen und fleißigen Zeiten die ganze Kraft seines Lebens setzte. Die Erfindungen der Dichter sind voll von plötzlicher Umgestaltung häuslicher Existenzen, Alles schwärmt von Marquisinnen, Prinzessinnen, von den Wundern der Tausend und einen Nacht. Es ist ein Opiumrausch, der das ganze Volk ergriffen hat. Die Industrie hat hierin noch mehr verdorben, als die Poesie. Die Industrie hat den Aktienschwindel erzeugt, die Exploitationen aller möglichen Dinge, die man zu künstlichen Bedürfnissen machen wollte, und die Manie für Dividenden. Alle diese Neuerungen entsprechen dem Charakter der Franzosen. Wer weiß nicht, daß ein Franzose glücklich ist, es dahin zu bringen, endlich mit einer kleinen Rente sich zur Ruhe zu setzen? Und wäre die Rente noch so klein, wären es nur jährlich 1000 Franks: er hungert, er darbt sich die Bedürfnisse vom Munde weg, er ist mit 1000 Franks vorm Hungertode gesichert, braucht nicht zu arbeiten, zieht nach Paris - und flanirt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als Europa noch nicht gesittet war, machten es um zu Renten zu kommen die Franzosen anders. Sie gingen in den Krieg. Sie plünderten und beraubten als Normannen die Küsten bis nach Sizilien, sie schlossen </tei:seg>
+        <tei:pb n="94"/>
+        <tei:seg> sich allen kriegerischen Expeditionen an. Die Kreuzzüge führten sie zu Hunderttausenden aus dem Lande, als Armagnacs dienten sie, wo sie Geld fanden. Napoleon verstand es vortrefflich, diesem alten französischen Räuber- und Erpressungssinn seine Befriedigung zu verschaffen. Millionen schleppten die Friedensschlüsse und Brandschatzungen nach Frankreich für das Ganze, Millionen schleppten mit ihnen die Einzelnen fort. Die nobelsten Charaktere des Schlachtfeldes waren Wucherer in der Einquartierung. Die größte Last der gegenwärtigen französischen Politik, die Eroberung Algiers, würde längst nicht mehr so drückend auf den Schultern des Landes liegen, wenn nicht die Officiere und Beamten ihre Mission nach Afrika nur als eine Gelegenheit ansähen, in der Weise römischer Proconsuln sich dort ein Vermögen zu machen. Vor einigen Jahren wurde ein schmuziger Prozeß verhandelt, bei welchem es offen zum Vorschein kam, daß Louis Philippe selbst, der sich auf Renten versteht, einem General in Algier ein Commando mit der Weisung gab, dort seine zerrütteten Vermögensumstände wieder herzustellen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ehrsucht beseelt in Frankreich die Gebildeten, Geldsucht die Massen. Darum bei so vielen der Wunsch nach Krieg; nur Krieg, es sei für welche Sache es sei! Da man England und Spanien nicht erobern </tei:seg>
+        <tei:pb n="95"/>
+        <tei:seg> kann, Italien zu arm, und Rußland zu kalt ist, so kann nur Deutschland die Beute werden, das passive, sparsame, dumme Deutschland. Doch ich will noch nicht urtheilen, ich will erst beobachten. Die Aussenseite kann täuschen und in das Innere hab’ ich erst noch einzudringen.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">3,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">mein Geburtstag</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Gutzkow wurde am 17. März 1811 geboren, die Ankunft in Paris erfolgt also der Textstelle zufolge an seinem 41. Geburtstag.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">4,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Conducteur</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Schaffner, Platzzuweiser in den Reisekutschen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-3">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">4,16</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>verre d’eau sucrée</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Zuckerwasser. Das ganze 19. Jahrhundert hindurch galt ein Glas Wasser mit aufgelöstem Zucker als typische Erfrischung mit zugleich beruhigender Wirkung.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-4">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">5,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">zwei Mal, 1814 und 1815</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Der Aufenthalt des Vaters fällt damit in die letzte Zeit der Herrschaft Napoleons bzw. seiner Rückkehr aus dem ersten Exil (die „Hundert Tage“), seiner (zweiten, diesmal endgültigen) Verbannung nach St. Helena und der Rückkehr der Bourbonen an die Macht. 1815 wird Ludwig XVIII., der Bruder von Ludwig XVI., zum König gekrönt: der Beginn der sog. „Restaurationsepoche“, die bis zur Beendigung der Bourbonenherrschaft durch die Revolution von 1830 andauert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-5">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">5,4</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">von Franconi, von einem Hirsch</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Franconi ist der Name einer über mehrere Generationen berühmten Zirkusfamilie im Paris des 19. Jahrhunderts. In erster Generation (Antonio Franconi) bereits zur Zeit der Revolution aktiv und schon zu dieser Zeit für Pferdedressurnummern bekannt (Übernahme der Reitschule von Astley am Eingang des damaligen Faubourg du Temple 1793), ist der Name sowohl mit dem verheerenden Pariser Zirkusbrand vom März 1826 als auch mit der Wiedererrichtung des „Cirque Olympique“ sowie der Errichtung des (im Prinzip noch heute bestehenden) „Cirque d’hiver“ (Winterzirkus) verknüpft. In den letzten Jahren Napoleons und den ersten der Restauration waren ‚die Franconis‘ vor allem für die Dressur nicht nur von Pferden, sondern auch von Hirschen und Elefanten berühmt, darunter – worauf sich die Erzählung von Gutzkows Vater vermutlich bezieht – ein weißer Hirsch namens Coco. Dieser war seinerzeit, wie auch ein Elefant namens Baba, ein weit über Paris hinaus bekannter Publikumsmagnet.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-6">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">7,7-8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">in den </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Champs élysées</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> freuen sich die Pferde</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Die Stelle verweist auf die ersten Bemühungen einer urbanistischen Umgestaltung von Paris und einer Modernisierung seiner (vor allem auch hygienisch) unbefriedigenden Infrastruktur, aber auch auf die erste, mit der Umgestaltung der Innenstadt verbundene Spekulationswelle. Nachdem das Gelände, auf dem während der Revolution die großen Aufmärsche und Versammlungen stattgefunden hatten, durch ein Gesetz vom August 1828 aus dem Eigentum der Krone in dasjenige der Stadt übergegangen war, begann diese nach langer Diskussion 1838 mit der Umgestaltung des Geländes, wobei die Stadt selbst die Verantwortung für die Anlage neuer Wege und die Errichtung einer Reihe von Brunnen übernahm, der Bau von Cafés und Pavillons sowie eines Panoramas und des ‚Winterzirkus‘ hingegen privaten Interessenten überlassen wurde. Seit dieser Zeit war es auch höchst modern, seine Wohnung in der Nähe der Champs Elysées zu haben. Der Spaziergang bzw. der Ausritt dort (vgl. auch die Schilderung nur eine Seite später, 8,23), aber auch in dem von Gutzkow erwähnten Garten des Palais royal, und das Flanieren auf den ersten Boulevards gehört seit den späten dreißiger Jahren zu den typischen, zahlreich dokumentierten Sonntagsbeschäftigungen der Pariser Bevölkerung.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-7">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">9,21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">find’ ich </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>le Cid</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> angekündigt</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Le Cid“ ist eine „tragi-comédie“ von Pierre Corneille, uraufgeführt im Dezember 1636, und eines der entscheidenden Theaterstücke der französischen Klassik. Thematisch beruht es auf spanischen Vorbildern, konzentriert aber eine eigenständige Handlung entsprechend den poetologischen Normen der französischen Klassik auf eine Handlungszeit von 24 Stunden. Auslöser des dramatischen Konfliktes ist die Ernennung eines neuen Prinzenerziehers am Hofe. Don Gomez, der Vater von Chimène (von Gutzkow immer wieder erwähnt, weil bei der Aufführung von Rachel gespielt) ist empört, weil ihm Don Diège als Prinzenerzieher vorgezogen wird. Er beleidigt Don Diège, dessen Sohn – der mit Chimène verlobte Rodrigue – den Normen der Ehrenrettung gemäß im Auftrag seines Vaters die Beleidigung rächt und dabei den Vater seiner Verlobten im Duell tötet. Damit gerät aber Chimène in einen Normkonflikt ohne Ausweg: Einerseits muss sie die Tat ihres Verlobten, der aus Ehrgründen handelt, billigen, andererseits die Ermordung ihres Vaters aus demselben Grunde rächen. Obwohl Rodrigue inzwischen die Mauren besiegt und damit für die Interessen des Königs und des Reichs gekämpft hat, verlangt Chimène normgemäß vom König seinen Tod. Ein weiteres Duell, dessen Sieger Chimène für sich gewinnen wird, soll die Entscheidung bringen. Rodrigue gewinnt, schenkt dem Unterlegenen das Leben und hat damit allen Anforderungen der Ehre Genüge getan. Mit Billigung des Königs kann daher nach einer angemessenen Trauerzeit die ursprünglich geplante Hochzeit der Liebenden – Chimène und Rodrigue – stattfinden. Diese Darstellung des Konflikts zwischen individuellen Glücks- und gesellschaftlichen Ehransprüchen und seine Auflösung in einem ‚Happy End‘ ist bei den Gattungsnormen des klassischen französischen Theaters höchst ungewöhnlich.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-8">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">9,21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Dem. Rachel Chimêne</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>,Die Rachel‘, Schauspielerin (1821-58), eigentlich Elisa Félix. Seit ihrer Jugend trat sie unter dem – auf ihre jüdische Herkunft anspielenden – Künstlernamen Rachel auf; Dem. ist die Abkürzung für ‚Demoiselle‘. Sie ist die mit Abstand prominenteste Schauspielerin im Frankreich der Julimonarchie und bis zum Auftreten von Sarah Bernhardt die bekannteste Tragödin, ja im Grunde der Prototyp der Schauspielerin bis fast ans Ende des 19. Jahrhunderts. Bereits seit den späten dreißiger Jahren gehörte sie zu den Stars des Théâtre Français, vor allem im klassischen, aber auch im zeitgenössischen Repertoire. Im Laufe ihrer Karriere (die bereits Ende 1855 infolge einer Lungenkrankheit endete) spielte sie nahezu alle großen Frauenrollen in den Stücken von Corneille, Racine, Molière, aber auch von Dumas, Hugo und den in den vierziger Jahren berühmten Dramatiker(inne)n Augier, Soumet und Mme de Girardin. Im Pariser Theaterleben war sie wegen ihrer plötzlichen Absagen und Änderungen als eine frühe ‚Diva‘ berüchtigt, aber auch wegen ihrer künstlerischen Skrupelhaftigkeit, ihrer exakten Rollenvorbereitung und ihres Lampenfiebers vor jedem Auftritt berühmt. Auffallend war ihr Sprachduktus, der sich in den klassischen Rollen, der Bühnentradition des Théâtre Français folgend, ausschließlich auf die Sprache, d. h. auf eine bewegungs- und emotionsarme, statuarische Versdeklamation an der Bühnenrampe konzentrierte und damit im Gegensatz zu den Grundsätzen einer auf die Handlung ausgerichteten, aktionsreichen und schnelle Repliken bevorzugenden romantischen Bühnenästhetik stand. Eine zwangsläufige Folge dieser Entscheidung war die Kälte der Rachel, die Gutzkow bemängelt und die auch den französischen Zeitgenossen bewusst war. Théophile Gautier beschreibt ihre Posen und Gesten als „von eher skulpturaler Art“. Sie hätten sich stets „in eine Folge von Standbildern“ aufgelöst und ihr weißer Köper sei „wie aus griechischem Marmor gemacht“ gewesen: „Gelegentlich warf man ihr sogar vor, ihr fehle es an Gefühl [...]; Mlle Rachel war kalt wie die Antike, die den übertriebenen Ausdruck von Gefühlen indezent fand [...] Sie hatte daher recht darin, nicht, wie man sagt, ‚Tränen in der Stimme‘ zu haben und den Alexandriner mit der modernen Gefühlsduselei zu verzittern und zu vermeckern“ (Art. „Rachel“. In: Larousse, Bd. 13, S. 605, Sp. 1). Kurz bevor Gutzkow sie sah, hatte sie eine unerhört erfolgreiche Tournee durch England absolviert, bei der ihr – Ausweis ihrer zunehmend auch über Frankreich hinaus wirkenden Berühmtheit – Königin Victoria ein Armband mit gravierter Widmung geschenkt hatte. (In den fünfziger Jahren war Rachel dann die erste französische Schauspielerin, die – mit französischen Stücken – eine Gastspielreise nach Amerika wagte.) Zur Zeit der Revolution von 1848 wurde ihr Vortrag der Marseillaise als quasi inszeniertes Theaterstück berühmt. Ihr Auftreten als Chimène im „Cid“ war die erste Premiere des Jahres 1842 (erste Vorstellung am 19. Januar 1842). Gutzkow sah also eine der Reprisen nach acht Wochen Laufzeit der Produktion.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-9">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">11,27-29</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Act 5, Scene 1 [...] </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>me fait rougir de honte</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Die Stelle bezieht sich auf das Duell zwischen Rodrigue und Don Sanche, an dessen Ende der Sieger Chimène heiraten soll. Übersetzt lautet die Stelle: „Sei Sieger eines Kampfs, bei dem Chimène der Preis. / Adieu: dies feige Wort lässt mich vor Scham erröten“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-10">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">13,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Ligier</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Pierre Ligier (1797-1872), ebenfalls ein berühmter Schauspieler der Zeit, wenngleich deutlich älter als Rachel. 1820 hatte er seine Karriere am Théâtre Français begonnen, war dann an zahlreichen anderen Theatern tätig (auch in Bordeaux und anderen Städten). Eine seiner bekannten Rollen war die des Marino Faliero in Casimir Delavignes gleichnamigem Stück, das Gutzkow wenige Jahre darauf als Vorlage für ein eigenes Drama diente. Während der gesamten Julimonarchie und bis zum Staatsstreich Napoleons III. gehörte Ligier zu den prominentesten Schauspielern der Comédie Française, sowohl in den klassischen Dramen Corneilles und Racines als auch in den Stücken vor allem Victor Hugos; dort u. a. als Hauptperson in der einzigen Aufführung von „Le roi s’amuse“, dem bekanntesten Zensurfall der Julimonarchie. Nach dem Staatsstreich zog er sich aus allen staatlichen Theatern zurück.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-11">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">13,14-15</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">mir sehr lieb gewordener Schauspieler ist Guyon</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Georges Guyon (1809-50), ebenfalls (seit 1838), wenn auch nur für wenige Jahre, an der Comédie Française. Ansonsten jedoch besaß er einen Namen als ‚Boulevard-Schauspieler‘, d. h. er spielte in den ‚leichteren‘ (zumeist Erfolgs-)Stücken der Theater an den großen Boulevards, den Stätten der so genannten ‚melodramatischen Gattung‘. Gutzkows Bevorzugung von Guyon als Schauspieler ist gewissermaßen die logische Entsprechung zu seiner Enttäuschung von der Rachel und seiner Distanz zur Ästhetik der traditionellen Versdeklamation des Théâtre Français.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-12">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>As-tu peur de mourir</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">?</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Hast Du Angst zu sterben?“</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-13">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,20-21</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Je suis jeune, il est vrai</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range"> [...] </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>le nombre des années</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Ich bin jung, das ist wahr, doch bei edlen Seelen / Wartet der Wert nicht auf die Zahl der Jahre“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-14">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,18 </tei:citedRange>
+          <tei:citedRange type="word-range">Applaus von specieller Bedeutung</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>In den Theatervorstellungen des 19. Jahrhunderts war es in Paris (aber natürlich auch anderswo) gängige Praxis, an Stellen, die sich als Anspielung auf aktuelle Ereignisse – vor allem auf die jeweilige politische Situation – verstehen ließen, laut zu applaudieren und damit eine politische Stellungnahme auszudrücken. Im Einzelfall konnte dies zur Auseinandersetzung innerhalb des Publikums, insbesondere zwischen dem (zumeist billigeren, nur mit Stehplätzen versehenen) Parkett und den (dem reicheren Abonnenten-Publikum vorbehaltenen) Rängen führen. Die berühmte ‚Hernani-Schlacht‘ von 1830 nach dem Stück von Victor Hugo, die als eines der zentralen Daten für die Durchsetzung der literarischen Prinzipien der Romantik im Theater gilt, entzündete sich zeitgenössischen Darstellungen zufolge u. a. an dem Vers: „Was ist die Stunde? – Mitternacht“ und dem Zwischenruf aus dem Publikum: „Was? Ein König fragt nach der Uhrzeit wie ein einfacher Bürger?“ – Aus Gutzkows Bericht geht hervor, dass zunächst der liberale Teil des Publikums klatscht, während der Versuch des konservativen Teils, den Vers „Und wenn ein König befiehlt, so hat man ihm zu folgen“ (14,31) durch Klatschen hervorzuheben, im Zischen endet. </tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-15">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,23-24</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Sortir d’une bataille et combattre à l’instant</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Aus einer Schlacht zu kommen und dann sofort zu kämpfen“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-16">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Rodrigue a pris haleine en vous la racontant</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Rodrigue hat Luft geholt, indem er es erzählte“.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-17">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">14,31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Et quand un roi commande, on lui doit obéir</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Und wenn ein König befiehlt, so hat man ihm zu folgen“ → Erläuterung zu 14,18-21.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-18">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">16,3</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Guizot</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>François Guizot (1787-1874; → </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/bilder-materialien/zeitgenossen-gutzkows/FGuizot1.html" type="external">Bild</tei:ref>
+          <tei:seg> → </tei:seg>
+          <tei:ref target="https://gutzkow.uzi.uni-halle.de/pages/anhang/lexikon/guizot.html" type="external">Lexikon</tei:ref>
+          <tei:seg>), eigentlich Historiker und Professor an der Sorbonne, ist einer der wichtigsten Politiker Frankreichs in der ersten Hälfte des 19. Jahrhunderts und einer der zentralen politischen Repräsentanten der Julimonarchie. Bereits unmittelbar nach der Julirevolution war er für kurze Zeit an der Regierung, dann nach dem Tod Périers 1832 Unterrichtsminister und von 1840 bis zur Revolution von 1848 (also auch zum Zeitpunkt von Gutzkows Zusammentreffen mit ihm) Außenminister; zuletzt seit 1847 auch Regierungschef.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-19">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">17,7</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Casimir Perier</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Casimir Périer (1777-1832), Bankier und Politiker. Bereits vor der Julimonarchie, nämlich schon seit 1817, war er Abgeordneter; zu diesem Zeitpunkt der Opposition zuzurechnen. In seiner Doppelfunktion als Politiker und Bankier und wegen zahlreicher Interessenüberschneidungen zwischen den Funktionen wurde er von der Opposition der dreißiger Jahre häufig und heftig als typischer Repräsentant der Julimonarchie attackiert. 1831/32 war er Ministerpräsident und Innenminister vor der Regierung Thiers. Eine skeptische Einschätzung findet sich bei Börne schon anlässlich von Périers Ernennung im Kontext der berühmten Stelle (42. Brief aus Paris, 15. März 1831): „In Deutschland war ich schon längst der einzige gescheite Mensch [...]. Und mit Ärger sehe ich jetzt ein, daß ich hier auch der einzige gescheite Mensch bin“: „Und die Narren hier reden sich jetzt ein, Casimir Périer würde ihnen Rosen und Veilchen pflanzen, und sie würden ein Schäferleben führen und den ganzen Tag oben auf dem reinen Hügel der Renten stehen und singen und hinabschauen in das grüne Tal, wo das grasende Lämmervolk springt.“ (Ludwig Börne: Briefe aus Paris. Hg. v. Alfred Estermann, Frankfurt/M. 1986, S. 206) Eine umfangreiche Schilderung von Périers Regierungszeit findet sich auch in Heines „Französischen Zuständen“, wo er mehrfach als mit einem „kläglichen, krämerhaften Verstand“ beschrieben wird: „Wie gebannt von einem unheimlichen Zauber stand ich jüngst eine Stunde lang neben ihm, und betrachtete diese trübe Gestalt, die sich zwischen den Völkern und der Sonne des Julius so kühn gestellt hat. Wenn dieser Mann fällt, dachte ich, hat die große Sonnenfinsternis ein Ende, und die dreifarbige Fahne auf dem Pantheon erglänzt wieder begeistert, und die Freiheitsbäume erblühen wieder! Dieser Mann ist der Atlas, der die Börse und das Haus Orléans und das ganze europäische Staatengebäude auf seinen Schultern trägt, und wenn er fällt, so fällt die ganze Bude, worin man die edelsten Hoffnungen der Menschheit verschachert, und es fallen die Wechseltische, und die Kurse, und die Eigensucht und die Gemeinheit!“ (Heinrich Heine, Französische Zustände. In: HSSchr, Bd. 3, S. 141)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-20">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">22,5-9</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Man flüchtet sich in die Passagen, ins Palais-Royal [...] Vefour, den Rocher de Cancale</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Die Passagen, der „Bautyp des 19. Jahrhunderts“ (Walter Benjamin), waren seit den zwanziger Jahren zunehmend in Mode gekommen und verbanden mittels eines glasüberdachten und damit weitgehend witterungsunabhängigen Durchgangs zwei Straßenzüge miteinander. Passagen wurden damit zu einer Abkürzung, zu einem (bis zu den Surrealisten immer wieder beschworenen) sozialen Treffpunkt, vor allem aber auch zum Umschlagplatz von Waren, vor allem von Luxusgütern. Eine der frühesten und wichtigsten Passagen war die Verbindung zwischen der Rue Saint-Honoré und den Tuilerien, eine spätere die noch bei Aragon geschilderte Passage de l’Opéra. Die Passage des Panoramas, „wo man abends gern vermeidet hindurchzugehen, wenn man eine Dame am Arm führt“, gehörte zu Heines Lieblingsspaziergängen, wie August Lewald berichtet: „Heine schlenderte hier auf und ab, die Hände in den Taschen, den Kopf in den Nacken geworfen, mit aufgesetzter Brille. Hier beobachtete er das Pariser Treiben“ (August Lewald: Ein Menschenleben. In: Gesammelte Schriften, Bd 6, Leipzig 1844, S. 57; vgl. Geist, S. 262 ff.). Im „Romanzero“ heißt es über die dort gelegene Schokoladenhandlung Marquis: „Mit chinesisch eleganten / Arabesken, wie die hübschen / Bonbonnieren von Marquis / Im Passage Panorama.“ (Heinrich Heine: Jehuda ben Halevy. IV, 17-20. In: HSSchr, Bd. 6/1, S. 149) Im Idealfall ist – mit Geists Formulierung – die Passage ein „Straßenraum mit Außenfassade“, die sich dieses illusionistischen Mittels bedient, „um dem Passanten nie das Gefühl zu geben, einen Innenraum zu betreten, denn einen Innenraum betritt man immer mit einem Ziel, einer erkennbaren Absicht“ (Geist, S. 32-33). Diese Struktur macht die Passage zum idealen Ort des Flanierens, nicht zuletzt – wie bei Gutzkow – im Falle von schlechtem Wetter. Zugleich wird sie aber auch zum Prototyp einer neuen, nicht mehr an die aristokratischen Salons und eine soziale Stellung gebundenen Öffentlichkeit, die es erlaubt, in voller Anonymität betrachtend am städtischen Leben teilzuhaben und gegebenenfalls – vergleichsweise unbeobachtet – in es einzugreifen. Für den Erfolg der Passage kommt es daher darauf an, ihr „den ganzen Tag hindurch ein Eigenleben zu garantieren, das dem einer Straße gleicht. Etablissements zur Unterhaltung, zur Befriedigung kulinarischer Bedürfnisse und kultureller Ambitionen gehören in die Passage, um aus dem Passanten einen Benutzer zu machen und um im öffentlichen Leben der Stadt unentbehrlich zu werden. Im idealen Fall muß die Passage kaleidoskopartig das Ganze der Stadt im Kleinen wiedergeben“ (Geist, S. 32). – Schon zuvor waren jedoch die unzähligen Galerien, Höfe und Arkaden des Palais Royal mit ihren Geschäften, Ateliers, Cafés, Theatern und Spielsälen ein Zentrum des Flanierens gewesen, zumal sich in seiner Umgebung auch die Mehrzahl der Lesekabinette sowie zahlreiche Cafés und Restaurants befanden, deren Besuch vor allem nach ca. 1820 zunehmend in Mode gekommen war. Bereits Börne erwähnt mehrfach die Lesekabinette, in denen man (vor allem auch fremdsprachige) Zeitungen lesen konnte. Stendhal berichtet, wie er insgesamt neun Jahre lang jeden Morgen in Begleitung seines Freundes Lussinge im Café de Rouen gefrühstückt habe und dann, als er dessen Begleitung überdrüssig war, ins Café Lemblin wechselte, „das berühmte liberale Café“, im Palais Royal gelegen. (Vgl. Stendhal: Souvenir d’égotisme. In: Œuvres intimes. Hg. v. Vittorio del Litto, 2 Bde, Paris 1981-82, Bd. 2, S. 438) Das ist der Grund, weshalb Gutzkow davon spricht, es seien Oerter, wo man sich Rendezvous gibt; die in der Folge erwähnten sind die wichtigsten Speiserestaurants, wo man sich abends treffen konnte und wo vor allem zahlreiche Pariser Schriftsteller, Komponisten und Intellektuelle verkehrten. Sie alle waren in der Umgebung des Palais Royal gelegen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-21">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">22,13-19</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">So unregelmäßig Paris gebaut ist [...] Im Gewühl der engen Straßen</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Hier wird nochmals deutlich, dass Gutzkow von dem Paris vor der ‚Hausmannisierung‘ spricht. Nicht zuletzt unter dem Eindruck der Revolutionen von 1830 und 1848, bei denen Barrikaden aus wenigen Baumstämmen und Steinen genügten, um ganze Straßenzüge zu blockieren und unter die Kontrolle der Aufständischen zu bringen, kam es bei der Neuplanung darauf an, gerade diese Enge der (in der Anlage weitgehend noch mittelalterlichen) Straßen so weit wie möglich zu beseitigen. Die Stadt wurde dadurch nicht nur ‚moderner‘ und leichter passierbar, sondern einfach auch militärisch besser kontrollierbar.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-22">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">22,29-23,2</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">„</tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>Pardon, vous êtes Monsieur Albert</tei:foreign>
+          </tei:citedRange>
+          <tei:citedRange type="word-range">? [...] als sich beim Nachforschen bestätigen möchte.</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Die Technik der „hirondelles“ („Schwalben“), d. h. der Straßenprostituierten, einen potentiellen Kunden mit einem beliebigen Namen („Sind Sie Monsieur Albert?“) anzusprechen, ist vielfach belegt. Der künstliche Irrthum irritiert – weil künstlich herbeigeführt – nur den Angesprochenen, der den Brauch nicht kennt. Die Dame irrt sich doppelt, weil Gutzkow – natürlich – weder Monsieur Albert ist noch auf das Angebot eingehen möchte. Die ganze Stelle spielt auf Paris und den Mythos der dort herrschenden erotischen Freizügigkeit an; die bains chinois („chinesische Bäder“) waren berühmt für die dort erfolgenden Massagen.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-23">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">23,6-8</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">ins Café Foy ein, um den Charivari zu lesen [...] </tei:citedRange>
+          <tei:citedRange type="word-range">
+            <tei:foreign>dame du Comptoir</tei:foreign>
+          </tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Das Einkehren in ein Café, um dort eines der ausliegenden Journale zu lesen, unterstreicht erneut den Charakter der veränderten Öffentlichkeit. Der „Charivari“ ist mit 2740 Exemplaren Auflage (1846) zwar nur eines der kleineren, allerdings wegen seiner satirischen Texte bekanntesten Pariser Journale und vor allem durch die Karikaturen berühmt, die Daumier in ihm seit 1832 veröffentlichte. (Vgl. die Auflistung in Claude Bellanger u. a. [Hgg.]: Histoire générale de la presse française. Bd 2: De 1815 à 1871. Paris 1969, S. 146;  → auch </tei:seg>
+          <tei:q>Die Zeitgenossen</tei:q>
+          <tei:seg>, Erläuterung zu 11,34-12,2) Die </tei:seg>
+          <tei:foreign>
+            <tei:q>dame du Comptoir</tei:q>
+          </tei:foreign>
+          <tei:seg> ist die Kassiererin, häufig die Frau des Inhabers, die – traditionell erhöht am Ausgang sitzend – die Getränke abkassiert. In der Julimonarchie war es lange Zeit besonders vornehm, Schokolade zu trinken.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-24">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">26,19-22</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Der Communismus [...] zwischen den Debats und dem National</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Wie noch mehrfach an anderen Stellen der </tei:seg>
+          <tei:q>Briefe aus Paris</tei:q>
+          <tei:seg> spricht Gutzkow hier erstmals die Problematik der Arbeitslosigkeit (Tagelöhner, die </tei:seg>
+          <tei:q>auf dem Grêve-Platz stehen und noch nicht wissen, wovon sie den Tag leben sollen</tei:q>
+          <tei:seg>) und der sozialen Bedürftigkeit erheblicher Bevölkerungsschichten an. Aus diesen werden sich 1848 große Teile der Pariser Aufständischen rekrutieren. Die weit verbreitete Armut bringt gerade während der Julimonarchie eine Vielfalt an sozialreformerischen wie sozialrevolutionären Initiativen, vor allem aber auch an Sozialutopien hervor. Hintergrund dieser Bewegungen, die sich auch in einer Unmenge von Informationsblättern, Handzetteln, Broschüren sowie – zum Teil sehr stark besuchten – Veranstaltungen, Informationsabenden, Lese- und Vorlese-, aber auch politischen Gesangszirkeln manifestieren, ist vor allem ein angewachsenes politisches Selbstbewusstsein der Handwerker, der ‚ouvriers‘. Der </tei:seg>
+          <tei:q>Communismus</tei:q>
+          <tei:seg> ist eine dieser Bewegungen, in Frankreich zunächst besonders verknüpft mit dem Namen Lamennais, den Gutzkow kurz darauf erwähnt: Dieser steht für einen gewissermaßen ‚politisierten Katholizismus‘. Andere einflussreiche zeittypische Bewegungen sind u. a. der Saint-Simonismus, der Fourierismus und der Neo-Babouvismus (nach dem zur Zeit der Französischen Revolution tätigen Babeuf). – </tei:seg>
+          <tei:q>Debats</tei:q>
+          <tei:seg> und </tei:seg>
+          <tei:q>National</tei:q>
+          <tei:seg> sind zwei ideologisch unterschiedlich ausgerichtete Tageszeitungen mit 9305 bzw. 4280 Exemplaren Auflage (im Jahr 1846); vgl. Histoire générale de la presse ( → Erläuterung zu 23,6-8), S. 146. Das „Journal des Débats“ ist regierungsnah (wenn auch nicht notwendigerweise unkritisch), der „National“ eines der größten und republikanisch orientierten Oppositionsblätter.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-25">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">26,25-27</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">George Sand ihren Frack [...]  vertauscht</tei:citedRange>
+          <tei:seg>] George Sand war eine der am stärksten wahrgenommenen Personen der politischen Linken. Damit verbunden machte sie ihr Status als nicht rollenkonforme Frau zu einer der am polemischsten umstrittenen Figuren der Zeit. Zugleich personifizierte sie vor allem seit Beginn der vierziger Jahre ein neues Rollenverständnis der Intellektuellen und wirkte daher als internationales Vorbild (vgl. Bremer, bes. S. 217-222). Als Schriftstellerin gehörte sie zu den meistgelesenen Autoren der Zeit, und in dem seit 1836 tobenden Konkurrenzkampf der großen Pariser Tageszeitungen, die ihr Geschäft mit Fortsetzungsromanen machten, auch zu den am besten bezahlten. Umso größer war das Aufsehen, als sie aus Protest gegen den Verleger Buloz, der sie zu ‚weniger demokratischen‘ Romanen hatte zwingen wollen, für dessen „Revue des Deux Mondes“ (vertragsbrüchigerweise) gar keine Romane mehr schrieb, sondern zusammen mit dem von Gutzkow kurz darauf erwähnten Pierre Leroux eine eigene Zeitschrift gründete, die „Revue indépendante“. Hierauf bezieht sich die Stelle, die davon spricht, dass Sand die eine mit der anderen Zeitschrift vertauscht habe. In der Anspielung auf die Vertauschung von Frack und Bluse ist entsprechend die soziale Dimension – die Bluse als typisches Arbeiterkleidungsstück -, aber auch die Gender-Dimension zu beachten: Beides sind typisch männliche Kleidungsstücke und spielen auf Sands ‚männliches‘ Rollenverhalten an. Gutzkow wird auf diese Situation im 22. der </tei:seg>
+          <tei:q>Briefe aus Paris</tei:q>
+          <tei:seg> zurückkommen, wo er einen Besuch bei George Sand in der rue Pigalle schildert und sie fragt: </tei:seg>
+          <tei:q>„Hat die </tei:q>
+          <tei:foreign>
+            <tei:q>revue indépendante</tei:q>
+          </tei:foreign>
+          <tei:q> guten Fortgang?“ „Für ein junges Blatt sehr bedeutenden. Eben Buloz von der </tei:q>
+          <tei:foreign>
+            <tei:q>revue des deux mondes</tei:q>
+          </tei:foreign>
+          <tei:q> will mich zwingen, ihm einen Roman zu schreiben.“</tei:q>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-26">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">26,27-31</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">die Gedichte der Handwerker über die Gedichte Lamartine’s [...] größte jetzt lebende Dichter in Frankreich</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Im Kontext der Diskussion um die politische und kulturelle Rolle der ‚ouvriers‘ war zur Zeit von Gutzkows Aufenthalt in Paris die so genannte ‚poésie ouvrière‘ (Arbeiterlyrik) eine der am stärksten diskutierten Fragen, nachdem der Saint-Simonist Olinde Rodrigues eine so betitelte Anthologie mit zahlreichen Beispielen ‚nichtprofessioneller‘ Autoren herausgegeben hatte. George Sand korrespondierte mit zahlreichen der Arbeiterdichter, ermunterte sie zum Schreiben und hatte in der „Revue indépendante“ einen ihre Aktivität begrüßenden Artikel veröffentlicht. Lamartine selbst hatte die Gedichte des (okzitanisch schreibenden) Friseurs Jacques Janin aus Agen zu den wichtigsten der Zeit erklärt, während die eher konservative Presse (vor allem Théophile Gautier in der „Revue des Deux Mondes“) die ganze Bewegung grundsätzlich ablehnte.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-27">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">27,10</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Lamennais</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Félicité-Robert Lamennais (1782-1854) war Theologe und Sozialreformer; seine in den dreißiger und vierziger Jahren in Frankreich, aber beispielsweise auch in Lateinamerika äußerst einflussreichen „Paroles d’un croyant“ (Worte eines Gläubigen) gehören zu den Grundpfeilern einer katholischen Soziallehre und einer politisierten Religiosität. Der Text wurde vom Vatikan auf den Index gesetzt und von Börne während seines Parisaufenthaltes ins Deutsche übersetzt. Pierre Leroux (1797-1871) ist einer der Gründungsväter des französischen Sozialismus (die Begriffsprägung wird ihm zugeschrieben); Gründer der für die Frühphase des Saint-Simonismus wichtigen Zeitschrift „Le Globe“ (1824-31) und später mit George Sand der „Revue indépendante“ (1841-44). Zur Zeit von Gutzkows Aufenthalt in Paris wurde vor allem seine Schrift „De l’humanité“ (Über die Menschheit) von 1840 diskutiert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-28">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">27,11</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Pierre Leroux</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Pierre Leroux (1797-1871) ist einer der Gründungsväter des französischen Sozialismus (die Begriffsprägung wird ihm zugeschrieben); Gründer der für die Frühphase des Saint-Simonismus wichtigen Zeitschrift „Le Globe“ (1824-31) und später mit George Sand der „Revue indépendante“ (1841-44). Zur Zeit von Gutzkows Aufenthalt in Paris wurde vor allem seine Schrift „De l’humanité“ (Über die Menschheit) von 1840 diskutiert.</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-29">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">27,17</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">St. Simon und Fourier</tei:citedRange>
+          <tei:seg>] </tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Die beiden wichtigsten Vertreter sozialutopischer Strömungen im Frankreich des ersten Jahrhundertdrittels und von großem Einfluss auf den Frühsozialismus der Julimonarchie. Henri de Saint-Simon (1760-1825), selbst adliger Herkunft (Graf), kritisierte vor allem die Unproduktivität der Angehörigen einer traditionellen Klassenstruktur gegenüber den produktiven ‚industriels‘, unter denen sowohl Unternehmer als auch Arbeiter zu verstehen sind. Charles Fourier (1772-1837) hebt stärker auf die Gesellschaftsorganisation in tendenziell autarken Lebensgemeinschaften ab: Die ‚familistères‘, die auch eine Form erotischer Utopie darstellen, sollen wiederum innerhalb von genossenschaftlich organisierten Gebieten (‚phalanstères‘) existieren. Noch Adorno sprach rückblickend davon, „unter den Utopisten“ nehme „der unrevolutionäre Fourier eine extreme Position ein. Keiner bietet dem Vorwurf des Utopismus schutzloser sich dar als er“ (Theoder W. Adorno: Vorwort. In: Charles Fourier: Theorie der vier Bewegungen und der allgemeinen Bestimmungen. Frankfurt/M. 1966, S. 6). Im Laufe seines Aufenthalts in Paris erlebt Gutzkow auch eine Veranstaltung seiner Anhänger unter dem Vorsitz ihres bereits legendären Vordenkers Victor Considérant und schildert sie im 18. der </tei:seg>
+          <tei:q>Briefe aus Paris</tei:q>
+          <tei:seg>. </tei:seg>
+        </tei:p>
+      </tei:interp>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Thomas Bremer, Halle</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:list type="sources">
+        <tei:item data-source-id="E">
+          <tei:seg>E Briefe aus Paris. Von Karl Gutzkow. Theil 1-2. Leipzig: Brockhaus, 1842. (Rasch 2.24)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A1">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> Briefe aus Paris 1842. In: Karl Gutzkow: Gesammelte Werke. Vollständig umgearbeitete Ausgabe. Bd. 12. Frankfurt/M.: Literarische Anstalt, 1846. S. 1-384. (Rasch 1.2.12.1, 1.2.12.2)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> Briefe aus Paris. In: Karl Gutzkow: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 7. Jena: Costenoble, [1874]. S. 47-344. (Rasch 1.5.7.2) </tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1 Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [] an den betreffenden Stellen in den Text eingefügt. Die Liste der Texteingriffe nennt die von der Herausgeberin berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1.1 Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">22,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>auf den Boulevards</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>auf dem Boulevards</tei:sic>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Gattungsfolien:</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-weight-bold">Ludwig Börne</tei:hi>
+        <tei:seg>: Briefe aus Paris (von 1831 bis 1834, insgesamt 115 Briefe; als Buchveröffentlichung: 2 Bde, Hamburg: Hoffmann und Campe, 1832 [Briefe 1830-31]; Paris: Brunet, 1833 [Briefe 1831-32]; 2 Bde, Paris: Brunet, 1834 [Briefe 1832-34]).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-weight-bold">Heinrich Heine</tei:hi>
+        <tei:seg>: Französische Zustände. Hamburg: Hoffmann und Campe, 1833 (die Vorrede dazu getrennt, Leipzig: Heideloff und Campe, 1833) und ders.: Lutetia. Berichte über Politik, Kunst und Volksleben (ab 1840 und damit zeitgleich zu Gutzkows </tei:seg>
+        <tei:q>Briefen aus Paris</tei:q>
+        <tei:seg> in der „Allgemeinen Zeitung“, Augsburg).</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Anspielungshorizonte:</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die kulturelle, soziale und politische Situation Frankreichs in der zweiten Hälfte der Julimonarchie unter dem ‚Bürgerkönig‘ Louis Philippe (so genannt nach der Julirevolution von 1830).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die städtische Situation von Paris mit ihrer noch weitgehend mittelalterlichen Innenstadt und der (vor allem in hygienischer Hinsicht defizitären) Infrastruktur vor den Urbanisierungsmaßnahmen der fünfziger Jahre, der sogenannten ‚Hausmannisierung‘.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Situation der Literatur, vor allem im Blick auf Victor Hugo und George Sand, das Pressewesen, die Formen der Öffentlichkeit und die Diskussion intellektueller Vorbilder für die deutsche Situation.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Situation des Theaters in Frankreich im Kontrast zu Deutschland einschließlich ihrer materiellen Seite im weiteren Sinne (Stücke, Einnahmen, Bühnenbilder und Inszenierungen, Sprechweise, berühmte Schauspieler).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die unmittelbare politische Situation unter der Regierung Guizot, die Algerienfrage, die Arbeiterbewegung einschließlich der sozialen Utopiebewegungen und die Rolle der politisch-parlamentarischen Institutionen (Abgeordnetenversammlung, Pairs-Kammer) sowie ihrer Protagonisten im Kontrast zu Deutschland.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>4. Entstehung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>4.2. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Überlegungen Gutzkows, eine Paris-Reise zu unternehmen, hat es offenbar bereits in den dreißiger Jahren gegeben. Diese Absicht wurde sicherlich verstärkt dadurch, dass sich nach der Julirevolution von 1830 zahlreiche Deutsche für kürzere oder längere Zeit dort aufhielten - nicht zuletzt Schriftsteller, Journalisten und Intellektuelle, die diesen Aufenthalt anschließend publizistisch verwerteten -, sowie unmittelbar durch den Bruch mit Heine, der sich als Folge von dessen 1840 erschienenem Börne-Buch ergeben hatte. Sowohl Börne als auch Heine, daneben aber zahlreiche weitere, vor allem mit kleineren Stadtschilderungen hervorgetretene Autoren waren nach 1830 Referenzpunkte der literarisch-publizistischen Parisschilderung für deutsche Leser, während zeitgleich Balzac und George Sand im Bereich des Romans, Lamartine und Hugo in der Lyrik und im Theater zu Modellen literarischen Schreibens auch in Deutschland geworden waren. Meldungen wie Korrespondentenberichte etwa aus dem Pariser Theater- und Modeleben erfreuten sich daher - neben der Schilderung des politischen Lebens, das mit den deutschen Verhältnissen so stark kontrastierte, und dem Referat neu erschienener literarischer Werke - in allen Journalen einer intensiven Leseraufmerksamkeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vor diesem Hintergrund ist Gutzkows Parisreise von März bis Mai 1842 zu verstehen. Der erste der </tei:seg>
+        <tei:q>Briefe aus Paris</tei:q>
+        <tei:seg> ist vom 4. März, der 29. und letzte vom 2. Mai 1842 datiert; Gutzkows Aufbruch (aus Hamburg) wird unter anderem auch durch eine vom 1. März 1842 stammende und am 11. März in der „Allgemeinen Theater-Chronik“ in Leipzig erschienene Notiz dokumentiert, die wegen einer längeren Abwesenheit alle Leser bittet, sich in Gutzkow betreffenden Angelegenheiten in dieser Zeit an den Souffleur Wolff in Berlin zu wenden. (Vgl. Rasch 3.42.03.11.1) Die ersten vier der </tei:seg>
+        <tei:q>Briefe aus Paris</tei:q>
+        <tei:seg> thematisieren die Reise (mit den Stationen Hannover, Köln, Aachen, Brüssel); mit dem fünften, auf Gutzkows 41. Geburtstag datierten Brief setzen die eigentlichen Schilderungen aus Paris ein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auffallend ist, dass Gutzkow diese Texte nicht zunächst abschnitt- oder briefweise als Journalbeiträge drucken ließ, sondern dass der Erstdruck (wie auch bereits im Falle der gleich betitelten „Briefe aus Paris“ von Börne) sofort als Gesamttext in Buchform, nämlich als zweibändige Ausgabe bei Brockhaus in Leipzig erschien, versehen mit einem </tei:seg>
+        <tei:q>Anhang. Frankfurt a. M. den 15. August 1842</tei:q>
+        <tei:seg>. Bereits vier Jahre später (1846) übernahm Gutzkow diesen Gesamttext der Briefe, redigiert (und dabei vor allem in der Adjektivierung mancher Schilderungen zurückgenommen) sowie um die </tei:seg>
+        <tei:q>Pariser Eindrücke</tei:q>
+        <tei:seg> erweitert, als eigenständigen Band in die erste Werkausgabe. Zu dieser Zeit erschienen die (bereits vor Gutzkows Reise begonnenen) Pariser Korrespondentenberichte Heines weiterhin in der Augsburger „Allgemeinen Zeitung“, also in Journalform.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>5. Rezeption</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>5.2. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vor diesem Hintergrund verwundert ein gewisser Skandalerfolg nicht, den Gutzkows </tei:seg>
+        <tei:q>Briefe</tei:q>
+        <tei:seg> sofort nach Erscheinen hatten. Pariser Korrespondenten der Augsburger „Allgemeinen Zeitung“ protestierten gegen Gutzkows Schilderung („Leipziger Allgemeine Zeitung“, 22. November 1842 und „Allgemeine Zeitung“, 25. November 1842), so dass sich Gutzkow zu einer Entgegnung genötigt sah („Leipziger Allgemeine Zeitung“, 7. Dezember 1842 und „Telegraph für Deutschland“, 16. Dezember 1842; Rasch 3.42.11.22 bzw. 3.42.12.07).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Insgesamt löste Gutzkows Text eine breite Rezeption von zumeist uneinheitlichen, häufig polemischen, teilweise auch aufeinander polemisch reagierenden Kritiken aus (vgl. Rasch 14.24). An umfangreicheren Besprechungen bekannterer Autoren sind diejenigen von Willibald Alexis, Heinrich Laube, Gustav Kühne und Georg Jung erwähnenswert; hervorzuheben ist auch, dass sich die französische wie die englische Presse (mit Besprechungen im „Courrier français“, in der „France“ und, am umfangreichsten wie vom Publikationsort her am prominentesten, in der „Revue des Deux Mondes“ sowie in der „Foreign Quarterly Review“) in die Debatte einschaltete.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein spektakulärer ökonomischer Erfolg waren die </tei:seg>
+        <tei:q>Briefe aus Paris</tei:q>
+        <tei:seg> jedoch eindeutig nicht. Von der Auflage von insgesamt 1500 Exemplaren waren 1867, also 25 Jahre nach dem Erstdruck, noch 148 Exemplare unverkauft, weitere fünf Jahre später ging der Rest von 129 broschierten Exemplaren an den Verleger der letzten Werkausgabe zu Gutzkows Lebzeiten, Costenoble in Jena (vgl. Rasch 2.24).</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow hat sich bei mehreren Gelegenheiten in Paris aufgehalten; das Corpus seines Gesamtwerks verzeichnet insgesamt fünf größere zusammenhängende Textgruppen, in denen er sich intensiv mit Paris und Frankreich auseinander gesetzt hat, nämlich 1. im „Zeitgemälde“</tei:seg>
+        <tei:q> Frankreich im Jahre 1834</tei:q>
+        <tei:seg>, 2. in den </tei:seg>
+        <tei:q>Briefen aus Paris</tei:q>
+        <tei:seg> (1842), der mit Abstand umfangreichsten und bekanntesten Thematisierung seiner Pariserfahrungen, sowie 3. kurz darauf mit den </tei:seg>
+        <tei:q>Pariser Eindrücken</tei:q>
+        <tei:seg> von 1846 und dann - mit einem gewissen Abstand, in dem sich auch der Gegenstand, Paris und Frankreich, entscheidend verändert hatten - 4. bzw. 5. mit den Skizzen </tei:seg>
+        <tei:q>Nach dem Zweiten December</tei:q>
+        <tei:seg> (dem Datum des Staatsstreichs) von 1852 und </tei:seg>
+        <tei:q>Durch Frankreich im Jahre 1874</tei:q>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Kontinuität dieser vierzig Jahre umfassenden Textproduktion muss man notwendigerweise nicht nur den radikalen Wandel der politischen Verhältnisse, sondern auch die komplette Verwandlung des Pariser Stadtbildes korrelieren. Die drei ersten Textkorpora befassen sich mit den Verhältnissen unter der Julimonarchie des ‚Bürgerkönigs‘ Louis Philippe und mit seiner Politik, die vor allem die Banken und den Handel, also das Kapital favorisiert (gegenüber dem zuvor politisch wie wirtschaftlich dominanten altadligen Großgrundbesitz). Die ersten drei Textsammlungen sind nach 1830, aber vor 1848 entstanden, wobei unter innenpolitischem Gesichtspunkt gerade 1834 und 1842 wichtige Wendedaten der Julimonarchie markieren. Aus der Epoche um 1848 gibt es keine Texte Gutzkows aus unmittelbarer Anschauung. Der Text </tei:seg>
+        <tei:q>Nach dem Zweiten December</tei:q>
+        <tei:seg> bezeichnet die Verhältnisse nach dem Staatstreich Louis Napoléons, des Neffen des ersten Napoleon, im Dezember 1851, aber noch vor dessen Selbstproklamation zum Kaiser Napoleon III. Der fünfte Text, </tei:seg>
+        <tei:q>Durch Frankreich im Jahre 1874</tei:q>
+        <tei:seg>, bezieht sich auf die Epoche nach Napoleon III.: Der Deutsch-Französische Krieg von 1870/71 führt bekanntlich dazu, dass der französische Kaiser abdankt und ins Exil geht und Frankreich - ironischerweise unmittelbar durch die Hohenzollern - seither Republik ist; der Text besichtigt gewissermaßen die Provinz des soeben besiegten Gegners.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wichtig ist aber auch zu sehen, dass sich das Paris, das Gutzkow schildert, zwischen den Texten vor 1848 und nach 1848 völlig gewandelt hat, bzw. dass die von Gutzkow in den </tei:seg>
+        <tei:q>Briefen aus Paris</tei:q>
+        <tei:seg> geschilderte Stadt mitnichten mit der Topographie von heute übereinstimmt. Gutzkow schildert noch die im Grunde mittelalterliche Stadt, die kurz darauf im Zuge der ‚Hausmannisierung‘ nahezu vollständig beseitigt und durch die großen Boulevards und die Prachtgebäude des Second Empire (mit dem Zentralstück der Oper Garniers) ersetzt wird. Das Paris der Gutzkowschen </tei:seg>
+        <tei:q>Briefe</tei:q>
+        <tei:seg> liegt damit zeitlich auch noch vor Baudelaires Schwan, der vom Rinnstein aus die neuerrichteten Teile des Louvre betrachtet und dabei ausruft: „Hélas!, le vieux Paris n’est plus“. („Le Cygne“, Erstdruck Januar 1860; vgl. zum Kontext Wolfgang Fietkau: Schwanengesang auf 1848. Ein Rendezvous am Louvre: Baudelaire, Marx, Proudhon und Victor Hugo. Reinbek 1978)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zumindest drei große Themen lassen sich in Gutzkows Schilderungen als durchgängig behandelt identifizieren:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>1. die Institutionalisierungsformen der Politik (die Schilderung der Parlamentssitzungen, die informellen Kontakte der Politiker, die Rolle der Opposition), ein Thema, das natürlich gerade auch vor der Folie (fehlender) deutscher Parallelerfahrungen interessant sein musste;</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>2. das Sprechtheater, seine Inhalte (Stücke, Erfolgsthemen), Repräsentationsformen (Regiedarbietungen, Schauspieler, Gebäude, Direktoren) und Veränderungen (Artikulationsveränderung, Wandel des Bühnen- und Ausstattungsgeschmacks), ein Thema, das in Gutzkow immer wieder auch den theaterpraktisch Interessierten erkennen lässt, sowie</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>3. die Rolle der Schriftsteller und Intellektuellen in der Gesellschaft.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vor allem die Punkte 1 und 2 kommen in den hier abgedruckten Briefen deutlich zur Geltung.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Literatur:</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Thomas </tei:seg>
+        <tei:hi style="font-weight-bold">Bremer</tei:hi>
+        <tei:seg>: Gutzkows Briefe aus Paris, die Wahrnehmung der Großen Stadt und die Umstrukturierung intellektueller Öffentlichkeitserfahrung. In: Gustav Frank / Detlev Kopp (Hgg.): Gutzkow lesen! Bielefeld 2001, S. 207-226.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Johann Friedrich</tei:seg>
+        <tei:hi style="font-weight-bold"> Geist:</tei:hi>
+        <tei:seg> Passagen, ein Bautyp des 19. Jahrhunderts. 3., erg. Aufl. München 1979.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-weight-bold">La Grande Encyclopédie</tei:hi>
+        <tei:seg>. Inventaire raisonné des sciences, des lettres et des arts par une société de savants et de gens de lettres sous la direction de MM. Berthelot [...]. Paris: Lamirault, o. J. [ca. 1885].</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Grand Dictionnaire Universel français, historique, géographique, biographique, mythologique, bibliographique, littéraire, artistique, scientifique, etc. [...] par Pierre </tei:seg>
+        <tei:hi style="font-weight-bold">Larousse</tei:hi>
+        <tei:seg>. Paris: Administration du Grand Dictionnaire Universel, 1865-76.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>France. Dictionnaire encyclopédique. Par M. Ph. </tei:seg>
+        <tei:hi style="font-weight-bold">Le Bas</tei:hi>
+        <tei:seg> (= L’Univers, ou Histoire et déscription de tous les peuples, de leurs réligions, mœurs, coutumes, etc.: Dictionnaire encyclopédique de l’histoire de France). Paris: Firmin Didot, 1840-45. Unter leicht variierendem Titel in Lieferungen erschienenes Lexikon in 12 Bden, sowie parallel dazu erschienene „Annales historiques“, 2 Bde, 1840-43 (für die Zeit bis 1830 mit fortlaufendem Text; von 1830 bis 1841 nur Datentafeln) und 3 Bde Kupferstiche, 1845.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gilbert </tei:seg>
+        <tei:hi style="font-weight-bold">Ziebura</tei:hi>
+        <tei:seg>: Frankreich 1789-1870. Entstehung einer bürgerlichen Gesellschaftsformation. Frankfurt, New York 1979.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
   </tei:text>
 </tei:TEI>
