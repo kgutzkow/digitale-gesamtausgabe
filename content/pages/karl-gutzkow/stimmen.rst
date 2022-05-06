@@ -190,9 +190,8 @@ Stimmen zu Person und Werk
 
 *Arno Schmidt, 1965*
 
-* Und nun : wie heißt die ‹eigentlich Leistung› : das ‹Bleibende›?
-
-| Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
+* | Und nun : wie heißt die ‹eigentlich Leistung› : das ‹Bleibende›?
+  | Das Leben verloren - : 2 Bücher gewonnen! ‹DIE RITTER VOM GEISTE›. Und den ‹ZAUBERER VON ROM›.
 
 *Walter Boehlich, 1969*
 
