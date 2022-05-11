@@ -1,7 +1,7 @@
 Wolfgang Rasch: Werke und Ausgaben
 ==================================
 
-:order: 2
+:order: 3
 :author: Wolfgang Rasch
 :slug: werke-und-ausgaben
 :menu_title: Werke und Ausgaben

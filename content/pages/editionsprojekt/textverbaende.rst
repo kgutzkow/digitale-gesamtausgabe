@@ -1,7 +1,7 @@
 Textbände im Oktober Verlag Münster
 ===================================
 
-:order: 6
+:order: 5
 :menu_title: Textbände
 
 Im Oktober Verlag Münster sind bislang folgende Textbände (jeweils mit Herausgebernachworten, editorischen Notizen und gegebenenfalls Registern) der Hybridedition *Gutzkows Werke und Briefe. Kommentierte digitale Gesamtausgabe* erschienen:

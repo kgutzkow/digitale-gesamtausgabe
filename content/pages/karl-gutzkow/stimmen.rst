@@ -1,7 +1,7 @@
 Stimmen zu Person und Werk
 ==========================
 
-:order: 4
+:order: 2
 :author: Wolfgang Rasch
 
 *Ludwig Börne 1832 über „Briefe eines Narren an eine Närrin“*

@@ -1,7 +1,7 @@
 Kontakt
 =======
 
-:order: 4
+:order: 7
 
 Generelle Koordination: Prof. Dr. Martina Lauster (m.lauster26@gmail.com)
 
