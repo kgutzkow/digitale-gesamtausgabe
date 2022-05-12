@@ -77,5 +77,5 @@ Jahrestreffen des Editionsprojekts im April 2019
 Neuer Internetauftritt
 ++++++++++++++++++++++
 
-Die Arbeit an der Modernisierung der vor siebzehn Jahren zuletzt erneuerten Internetausgabe beginnt. Mark M. Hall entwickelt in Zusammenarbeit mit anderen Projektbeteiligten Schritte zum Transfer der bestehenden Inhalte.
+* Die Arbeit an der Modernisierung der vor siebzehn Jahren zuletzt erneuerten Internetausgabe beginnt zur Jahreswende 2018/2019. Mark M. Hall entwickelt in Zusammenarbeit mit anderen Projektbeteiligten Schritte zum Transfer der bestehenden Inhalte.
 
