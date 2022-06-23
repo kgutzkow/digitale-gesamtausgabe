@@ -34,6 +34,12 @@
             "name": "apparat",
             "type": "text",
             "label": "Apparat",
+            "links": [
+                {
+                    "name": "externalLink",
+                    "attr": "target"
+                }
+            ],
 			"headings": [
                 {
                     "name": "heading",
