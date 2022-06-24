@@ -46,7 +46,7 @@ Alle, die Interesse an Gutzkow oder an dem Editionsprojekt haben, sind herzlich 
 Editionsübersicht
 -----------------
 
-Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows Büchern, gliedert das Werk nach gattungsspezifischen Einheiten und (bei der Vielzahl und Vielfalt des publizistischen / kritischen Schrifttums) auch nach thematischen Schwerpunkten. Folgende Übersicht steckt den inhaltlichen Rahmen der Gesamtausgabe. Nicht alle der hier aufgeführten Werke werden auch in der `Druckausgabe <https://gutzkow.uzi.uni-halle.de/pages/editionsprojekt/textbande-im-oktober-verlag-munster.html>`_ erscheinen.
+Die Gesamtedition orientiert sich weitestgehend an den Erstausgaben von Gutzkows Büchern, gliedert das Werk nach gattungsspezifischen Einheiten und (bei der Vielzahl und Vielfalt des publizistischen / kritischen Schrifttums) auch nach thematischen Schwerpunkten. Folgende Übersicht steckt den inhaltlichen Rahmen der Gesamtausgabe ab. Nicht alle der hier aufgeführten Werke werden auch in der `Druckausgabe <https://gutzkow.uzi.uni-halle.de/pages/editionsprojekt/textbande-im-oktober-verlag-munster.html>`_ erscheinen.
 
 **I. Abteilung: Erzählerische Werke**
 
