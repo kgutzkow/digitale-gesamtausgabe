@@ -30,6 +30,7 @@ Aktuell Mitwirkende
 Mitwirkende in früheren Phasen des Projekts
 -------------------------------------------
 
+* Prof. Dr. Gustav Frank (München)
 * Dr. Anne Friedrich (Halle)
 * Prof. Dr. Dirk Göttsche (Nottingham, GB)
 * Prof. Dr. Peter Hasubek (Göttingen)
