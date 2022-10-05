@@ -23,3 +23,5 @@ Validiert alle TEI Dateien gegen eine Reihe von Regeln.
 .. sourcecode:: console
 
   $ python util/validate-tei.py
+
+## TEST
