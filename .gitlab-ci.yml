@@ -33,6 +33,6 @@ build-and-deploy:
     - apt-get update
     - apt-get install -y lftp
     - ls -l
-    - lftp -e "mirror -R output ." -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
+    - lftp -c "set ssl:verify-certificate false; mirror -R output ." -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
   only:
     - default
