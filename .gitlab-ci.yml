@@ -35,6 +35,7 @@ build-and-deploy:
     - ls -l
     - echo $FTP_SERVER
     - echo $FTP_USERNAME
+    - echo $TEST
     - lftp -e "set ssl:verify-certificate no; mirror -R output . ; quit" -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER"
   only:
     - default
