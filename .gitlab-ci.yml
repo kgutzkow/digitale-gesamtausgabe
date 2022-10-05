@@ -24,28 +24,14 @@ test-build:
   only:
     - merge_requests
 
-build:
-  stage: build
+build-and-deploy:
+  stage: deploy
   script:
     - pip install poetry
     - poetry install --no-dev
     - poetry run pelican -s publishconf.py -o output -d content
-  only:
-    - default
-  artifacts:
-    paths:
-      - output
-    expire_in: 300 seconds
-
-deploy:
-  stage: deploy
-  script:
     - sudo apt-get update
     - sudo apt-get install -y lftp
     - lftp -e "mirror -R dist/* ./" -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
   only:
     - default
-  dependencies:
-    - build
-  needs:
-    - build
