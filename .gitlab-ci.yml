@@ -33,9 +33,9 @@ build-and-deploy:
     - apt-get update
     - apt-get install -y lftp
     - ls -l
-    - echo "$FTPSERVER"
-    - echo "$FTPUSERNAME"
-    - echo "$FTPPASSWORD"
-    - lftp -e "set ssl:verify-certificate no; mirror -R output . ; quit" -u "$FTPUSERNAME,$FTPPASSWORD" "$FTPSERVER"
+    - echo "$FTP_SERVER"
+    - echo "$FTP_USERNAME"
+    - echo "$FTP_PASSWORD"
+    - lftp -e "set ssl:verify-certificate no; mirror -R output . ; quit" -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER"
   only:
     - default
