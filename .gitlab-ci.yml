@@ -30,7 +30,7 @@ build-and-deploy:
     - pip install poetry
     - poetry install --no-dev
     - poetry run pelican -s publishconf.py -o output -d content
-    - sudo apt-get update
+    - apt-get update
     - sudo apt-get install -y lftp
     - lftp -e "mirror -R dist/* ./" -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
   only:
