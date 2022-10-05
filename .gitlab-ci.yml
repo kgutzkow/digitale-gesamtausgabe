@@ -32,6 +32,6 @@ build-and-deploy:
     - poetry run pelican -s publishconf.py -o output -d content
     - apt-get update
     - apt-get install -y lftp
-    - lftp -e "mirror -R dist/* ./" -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
+    - lftp -e "mirror -R output/* ./" -u $FTP_USERNAME,$FTP_PASSWORD $FTP_SERVER
   only:
     - default
