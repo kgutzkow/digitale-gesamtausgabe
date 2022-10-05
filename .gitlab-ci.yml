@@ -32,10 +32,6 @@ build-and-deploy:
     - poetry run pelican -s publishconf.py -o output -d content
     - apt-get update
     - apt-get install -y lftp
-    - ls -l
-    - echo "$FTP_SERVER"
-    - echo "$FTP_USERNAME"
-    - echo "$FTP_PASSWORD"
     - lftp -e "set ssl:verify-certificate no; mirror -R output . ; quit" -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER"
   only:
     - default
