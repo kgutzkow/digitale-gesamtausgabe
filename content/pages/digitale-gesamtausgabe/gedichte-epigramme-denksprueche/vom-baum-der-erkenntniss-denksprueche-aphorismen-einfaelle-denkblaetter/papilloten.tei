@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Papilloten</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="MartinaLauster">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Martina Lauster</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Karl Gutzkow: Papilloten. In: Der deutsche Horizont. München. [Heft 7, Juli] 1833, S. 289-301. (Rasch 3.33.07.1N)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1833-07">Juli 1833</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #gedichte-epigramme-denksprueche #vom-baum-der-erkenntniss-denksprueche-aphorismen-einfaelle-denkblaetter #papilloten"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-07-23" who="#MartinaLauster">1.0: Juli 2022</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head data-heading-id="Papilloten" first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:ref target="#annotation-1" type="esv">
+          <tei:hi style="letter-sparse">Papilloten</tei:hi>
+        </tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="Der Tempel des Ruhms" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="letter-sparse">Der Tempel des Ruhms</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach welchem Style wird im Reiche der Ideen gebaut? Ich rede nicht von philosophischen Gebäuden, die heutigen Tages an­fangen, in der Fronte meist länger gebaut zu werden, als in der Tiefe; sondern von jenen architektonischen Werken, deren Mörtel erfüllte oder ersehnte Hoffnungen, deren Steine Entzückungen, deren Säulenpilaster Huldigungen sind. Man spricht von Schlös­sern, welche die Phantasie in die Luft baut. Nach welchen Grundsätzen verfährt die Hoffnung, die Verzweiflung, die Ju­gend, wenn sie Gebäude von dieser Gattung errichtet? –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist unzweifelhaft, daß der Tempel des Ruhms in antikem Style gebaut ist. Denn nur die Alten verstanden es, dem Ver­dienste seine Kränze zu winden. Aber was lehrt man von der Kunstform dieses Tempels? Sind die Säulen in dorischer Ord­nung? Oder schmücken ionische Verzierungen ihren Knauf? Oder sind sie mit korinthischer Pracht überladen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="290"/>
+        <tei:seg> Unsere Zeitgenossen haben wenig Beruf, sich über diese Ungewißheiten zu vereinigen. So oft sie den Tempel des Ruhms im Munde haben, so verlangen sie von seiner Bauart doch nicht mehr, als daß sein Fußboden mit Kronenthalern gepflastert ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Die todten Gedanken" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="letter-sparse">Die todten Gedanken</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Große, unermeßliche Gedanken, der Gedanke einer Revolution, einer Weltherrschaft erlebten oft eine zwiefache Geburt. Es giebt Gedanken, die zweimal geboren wurden, ehe sie einmal starben; aber es giebt deren noch mehr, die, ehe sie einmal geboren wurden, schon zweimal gestorben sind. Ich kenne Menschen, welche für solche Gedankenembryone nur </tei:seg>
+        <tei:ref target="#annotation-2" type="esv">Spiritusgläser</tei:ref>
+        <tei:seg> sind. Die Welt ahnt es selten, daß die Ideen dieser Menschen Riesen sind, denen man nichts vorwerfen kann, als daß sie nicht zur Reife kamen. Sind es Künstler, so werden sie verabschiedet, weil sie nur mittelmäßig in der Farbengebung, unvollkommen im Faltenwurf sind; man übersieht es, daß ihnen nur wenig fehlte, um Raphael und Coreggio zu werden. Sind es Schriftsteller, so wurden sie von neun und neunzig Kritikern unter das Caudi­nische Joch der Schmach geführt, und nur der Hundertste ahnte, daß unter der staubigen Asche ihrer verfehlten Schriften ein himmlisches, prometheisches Feuer glühte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Außer diesen todten Gedankenembryonen giebt es auch geschiedene Gedankenkinder, und verstorbene Gedankenjüng­linge. Dem rückwärtsblickenden Gefühl ist das Land der Erin­nerung ein Paradies, ein Spielplatz der Jugend, wo die Sonne noch goldner strahlte, und die Blumen noch frischer blühten; wie anders dem denkenden und dichtenden Geiste! Er ist ein Januskopf, dessen Jünglingsantlitz in die Zukunft, dessen Grei­senauge in die Vergangenheit blickt. Wenn die Seele ihr Auge </tei:seg>
+        <tei:pb n="291"/>
+        <tei:seg> rückwärts wendet, sieht sie in der Erinnerung nur die stillen Gräber eines schweigenden Friedhofes, und jeder Denk­stein nennt ein Wort, für welches deine Seele einst glühte! Jeder Cypressenzweig senkt sich auf eine Lehre, die Du einst mit stürmischer Hingebung umfiengst, senkt sich auf einen Irrthum, der den Wissensdurst des Jünglings auf einige selige Tage stillen konnte. Ach! jene kleinen Gräber mit den schwarzen, rosen­verhangenen Stäben – erkennst du die schlummernden Todten, die unter ihnen ruhen? Es waren die ersten Gedanken, die im Traume, auf einem Spaziergange, hinter einer schattigen Hollun­derhecke, im Arm deiner ersten Liebe durch deine Seele blitz­ten; es waren die aufschäumenden Ideenperlen in dem über­strömenden Becher deines erwachenden, erstarkenden Selbst­bewußtseyns. Man pflegt von hellen, aufgeweckten Kindern so passend zu sagen: „Sie haben Raupen im Kopf!“ Jene blumen­bedeckten Schläfer waren die ersten entpuppten Schmetterlinge, welche deine junge Psyche in ihre heitere, sonnenhelle Welt sandte! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Je lebendiger die Fortschritte unserer Erkenntnisse sind, desto mehr solcher Todten haben wir zu begraben. Bemitleidet jene Spötter, die auf ihre ersten Träume, die Irrthümer ihrer Jugend, die falschen Spiegelbilder richtiger Ahnungen, mit stolzem Lächeln herabsehen können! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der edle Jüngling wirft sich vor seiner Zukunft nieder, und sieht sie mit heißen Thränen an, für seine jetzige selige Gegen­wart, für sie einst Vergangenheit, ein heiliges Andenken zu bewahren. Und der gereifte Mann hält seiner Jugend das ge­gebene Wort; eine fromme Scheu durchzittert ihn, wenn sein Auge auf die Vergangenheit fällt, und seine jetzt zu Grundsätzen erstarkten, männlichen Gedanken opfern gern den Manen ihrer jungen, schon im Flügelkleide dahingeschiedenen Brüder.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Ein Fehler des Alters" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:pb n="292"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">Ein Fehler des Alters</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich war neunzehn Jahre alt, als ich mit einem Offizier, der zwar noch keine Compagnie befehligte, aber schon sechs und dreißig Jahre zählte, beim Schachspiel in Streit gerieth. Ich wollte einiges in den Sprüngen des Königs und der Bauern nach neuerer Methode verändern, aber der Gegner sprang auf, und rief mit grämlichem Accent: „Junger Mann, als an Sie noch nicht zu denken war, trug ich schon ein Port’epée. Was wollen Sie mit Ihren Neuerungen?“ </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Anrede muß die Jugend so oft hören! Das Alter beruft sich nicht auf seine Erfahrung, sondern auf seine frühere Geburt. Ein Hofrath wirft sich in die Brust, daß er schon zweimal für einen Orden empfohlen war, als unsre Mütter sich noch ver­geblich nach einem Mann umsahen. Ein Regierungspräsident sagt, daß er sich schon das zweite Haus gekauft habe, ehe wir noch wußten, daß er sich nur noch zwei zu kaufen brauchte, um vier zu haben. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Berufung auf diese bemitleidenswerthe Anciennetät erinnert an den alten Mythus von Abadir, dem Stein des Jupiter, welchen Rhea dem Vater Saturn zu verschlingen gab. Als ihn Saturn wieder ausspie, empörte sich der Stein gegen den, welchen er vorstellen sollte. Er weigerte sich, das Regiment Jupiters anzuerkennen, und berief sich auf die längere Weile, die er im Schooße der Zeit zugebracht hatte. Jupiter hatte Mühe, ihn nach Delphi zu bringen, wo er den erzürnten, altklugen Stein fort­während mit linderndem Oel zu begießen befahl. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Die Freskomenschen" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:pb n="293"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">Die Freskomenschen</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sollen wir sie lieben, oder vor ihnen auf der Hut seyn? Es genügt, daß wir sie kennen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Schatten, welchen die Tugend wirft, ist immer noch hell genug, um den Mängeln und Gebrechen blühendere, gefälligere Farben zu geben. Ein hingebendes, aufopferndes Herz läßt aus seinen Kammern so warme Lichter strahlen, daß jede Regung des Gemüths von ihnen noch ergriffen werden kann. Der Dank, welchen dir, dem Wohlthäter, ein erquickter, aufgerichteter Un­glücklicher stammelt, wird dich erröthen machen, wenn du auf dem Wege warst, mit lieblosen Kränkungen dem zu begegnen, der dich vielleicht ohne sein Wollen beleidigt hat. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich rede hier von den guten Freskomenschen, die gleich den Bildern dieser Gattung ihre Farben und Lichter sich einander bedingen lassen, welche aus dem Violett die blauen Lichtstreifen in die gelben Felder lenken, um sie grün zu färben, und aus den grünen Parthien blaue, um die rothen violett zu malen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn der Teufel seine Zwecke sicher erreichen will, so bedient er sich der Waffen Gottes; kann der Bosheit mehr Vorschub geleistet werden, als durch die Alfreskomalerei der Charaktere? Alle Farben, die auf nassen Kalk geworfen werden, vereinigen sich zuletzt zu einer großen Lüge, welche dem Auge unsichtbar ist. Ein trocknender Windhauch stürzt den Regen­bogen der Palette um. Du glaubst einen Freund zu haben, und seine Gefälligkeiten sind nur die Einsätze, um größere Treffer bei dir zu gewinnen. Du achtest die fromme Entsagung jenes ernsten Weisen, und sie ist mehr, als der verkalkte Egoismus eines Spötters? Der schwärmerische Blick dieses holden Weibes scheint dir der Zauber einer himmlischen Unschuld, und du ahnst nicht, daß unter ihm die glühendsten, die grell </tei:seg>
+        <tei:pb n="294"/>
+        <tei:seg> auf­getragenen Leidenschaften dich herausfordern? Was du für Liebe hältst, ist nur ein starker Reflex der Eitelkeit. Was dich als Treue entzückt, ist nur ein Schimmer, der aus dem Kreise der Gewöhnung herüber dämmert, oder gar ein Nachhall eines innern Grolles, daß sie von einem Dritten nicht auf die Probe gestellt wird. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Achte diese Menschen, so weit du darfst; denn ihr Leben ist ein ewiges Kunstwerk der Selbstbeherrschung! Aber fliehe sie, wenn sie auf dein Vertrauen wirken wollen! Ist das Grün vor allen die Farbe der Hoffnung, so denke an jene Gemälde, welche ich hier zum Vergleiche aufführte! Du suchst diese Farbe vergeblich auf ihnen; denn das Laub der Blätter, das Gras der Felder ist dort nur die Folge einer langwierigen Mischung von Reflexen, die zuletzt doch nur an den welkenden Herbst und den versengten Sommer, nie an den duftigen, keimenden Frühling erinnern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Der Umgang mit Schriftstellern" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="letter-sparse">Der Umgang mit Schriftstellern</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einen fleißigen, schreibseligen Autor um 9 Uhr Morgens besuchen, heißt einen verwegenen Blick hinter die Vorhänge eines Geheimnisses werfen. Dieser Unzeitige überrascht den Heimgesuchten dann im Verkehre mit den Musen, wie sie um ihn hergaukeln, ihn necken, die Feder unter der Hand stehlen, und erst nach einigen Minuten mit eingetauchtem Morgen­sonnengolde zurückkehren. Beim Anklopfen schwirrt die ganze Wunderwelt, welche den Dichter umgiebt, auf, die Salamander zittern in dem weißen Krystallglase, das uns die alte Magd jeden Morgen mit frischem Quellwasser füllt; die Eidechsen werfen neugierig ihren bunten Kopf aus den Blumenvasen, die unser Fenster zieren, auf; das Wurzelmännchen, dem wir, im </tei:seg>
+        <tei:pb n="295"/>
+        <tei:seg> Vertrauen gesagt, unsre besten Einfälle verdanken, springt erschrocken in unsern bergenden Busen, und alle ausgeflogenen, durch das Zimmer summenden Schnurren, Papillons und Libel­len flüchten sich in die Falten und die poetischen Löcher unsers Phantasus, des Schlafrocks. Bist du endlich auf unser: Herein! mit süßfreundlichen Entschuldigungen durch Thür und Angel gekommen, so wirst du über die Zauberstille unsrer Umgebung erstaunen, und vor dem letzten Flügelschlage eines verschwun­denen Gesellschafters unserer Muse zusammenfahren. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Autor in der Morgenstunde ist ungenießbar; wenn er gegen Mittag die Feder ausspritzt, so nimm dich in Acht, daß deine weißen Gallakleider davon nicht getroffen werden, und erst nachdem die Sonne von ihrem Zenith herabsteigt, wirst du den Schalk, der dich erheitern, oder den Freund, der dich belehren soll, in ihm finden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Schriftsteller sind deßhalb umgekehrte Kupferstiche, welche den größten Werth vor der Schrift, mittelmäßigen mit halber, nur eingerissener, und den geringsten nach vollendeter Schrift haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Eine optische Täuschung in der Politik" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Eine optische Täuschung in der Politik.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir wissen alle, daß die Fixsterne keine Planeten sind, und müssen doch so oft hören, daß die politischen Fixsterne, die Parthei der Stabilen, keineswegs den unbedingten Stillstand lieben, sondern zu mäßigen Fortschritten und Conzessionen sehr geneigt sind. Man muß gestehen, daß diese Behauptung sehr oft einen gewissen Schein von Wahrheit hat, sowie die Fixsterne eine scheinbare Veränderung ihres Ortes erleiden, und </tei:seg>
+        <tei:pb n="296"/>
+        <tei:seg> das Ansehen haben, als durchliefen sie jährlich eine elliptische Bahn von nicht geringem Umfange. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man braucht in diesem Falle nur die Ursachen der Täuschung am Firmamente aufzusuchen, um die ähnliche Erscheinung unsrer Tage zu erklären. Unser Auge ist zu kurzsichtig, um jede Verwickelung der Schnelligkeit in ihre Theile zu zerlegen. Ein feuriges Phänomen ist oft längst an uns vorübergerauscht, und wir sind noch geblendet von dem lichterlohen Schleppkleide, das ihm auf die Fersen folgte. Die Ereignisse nehmen ihren Lauf, in der Eile des Vorüberflugs verwechseln wir die Rollen, welche die verschiedenen Partheien in ihnen spielen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieß ist der Prozeß der berühmten Aberration des Lichts. Das Licht, die entfesselte Vernunft, strömt in ungeheurer Schnelle von der Sonne aus über die Sterne und die Welten. Aber betrach­ten wir diesen Flug stehenden Fußes? Nein, wir folgen der Rota­tion der Erdachse, und stehen in der Mitte der Ereignisse. Beide Bewegungen, die weltdurchströmende Freiheit und die Progres­sion der Geschichte, brechen sich übereinander, und der Punkt des Zusammenstoßes beider Schnelligkeiten ist dann ein Fixstern, der dem schwachen Auge wie fortgeschleudert erscheint. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man muß wissen, wie die Hofzeitungen auszulegen sind, wenn sie von den aufrichtigen Absichten gewisser Leute sprechen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Ein Mangel der Erziehung" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="letter-sparse">Ein Mangel der Erziehung</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unsre gegenwärtige Erziehung giebt der Jugend nur die Anweisung, Alles zu genießen, und sollte ihr nur die geben, Alles zu entbehren. Sie macht den jungen Körper fähig, Hun-</tei:seg>
+        <tei:pb n="297"/>
+        <tei:seg>ger und Durst zu ertragen, Hitze von der Kälte nicht zu unter­scheiden, und allen Elementen Trotz zu bieten. Das läßt sich hören; aber was wird damit gewonnen? Kommen unsre Vettern und Neffen, unsre Nachbarskinder, die einen Abhärtungscursus doppelt bezahlen können, wohl je in die Lage, von ihrer spar­tanischen Erziehung Gebrauch zu machen? Sind die Ur­wälder nicht längst ausgerottet? Hausen noch Bären auf den Akazien unsrer Promenaden? Sind die Tuchfabriken, die Heizöfen, die Kafféehäuser noch nicht erfunden? In dieser Hinsicht thut die Erziehung zu viel, in der andern thut sie zu wenig. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir lernen die künftigen Prüfungen bestehen, wer lehrt uns aber den Schmerz der Resignation ertragen, wenn wir durch­fallen? Warum lehrt uns die Erziehung, Minister zu werden, warum nicht vielmehr einst das Portefeuille zu verlieren? Man giebt den Kronprinzen Unterricht, als Phönixe einst ihre Völker zu beglücken oder zu verderben; wer lehrt sie, von ihren Thronen herabsteigen, verjagt werden, und mit Würde im Exil leben? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir sollten in der Schule unsre Zöglinge in der Gymnastik der Seele üben, und statt den Körper gegen Unfälle, welche sie niemals treffen, die Gemüther gegen Leiden abhärten, welche ihnen die Zukunft nur zu gewiß bieten wird.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________ </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Guter Rath für werdende Schriftsteller" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Guter Rath für werdende Schriftsteller.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine erste Schrift muß man nicht herausgeben. Du lasest vielleicht eine erhabene Stelle deines Lieblingsautors, oder du kamst in einer Mondnacht aus den Umarmungen deines Mäd­chens heim, ein Stern fiel vom Himmel, und die aufgehende Sonne des nächsten Morgens schien auf das erste </tei:seg>
+        <tei:pb n="298"/>
+        <tei:seg> Blatt, das unter deiner jungen Schöpferhand keimte und blühte. Einige fiebernde Wochen, eine Traumperiode mit halbwachem Schlafe, einige tausend Fingerzeige auf den besinnungslosen, nur von der Fee Aquilina redenden Jüngling, und die erste Bescheerung der Muse liegt vor ihm. Auf einer Papierbrücke von hundert Bogen kehrt er in die irdischen Räume zurück. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Für dieß Convolut, ich beschwöre dich, suche keinen Ver­leger! Es ist ein Heckthaler für deinen künftigen Reichthum. Es ist eine Hanswurstjacke, deren Lappen groß genug sind, daß du alle die nachgebornen Kinder deiner Phantasie darein kleiden kannst. Es ist ein Polyp, ein Vielfuß, mit welchem sich noch hundert Torsorumpfe, welche dir der Zufall oder die Speculation eines Buchhändlers in den Weg legen, auf die Beine bringen lassen. Es ist ein Baum, der noch unzählige schlanke, gefällige Ableger treibt. Es ist ein heiliger, züchtiger, erhabener Stamm, mit welchem du alle wilden und üppigen Launen deiner spätern Muse, wie junge, wilde Schößlinge, veredeln kannst. Es ist die indische Abjiagoni, die Gebärmutter der Wolken, der Sterne, des Mondes und unzähliger Welten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die ersten hundert Bogen deiner Feder müssen nie bekannt werden, und wenn du stirbst, so befiehl deinen Erben, daß man sie verbrenne, und auf diese heilige Asche im Sarge dein todtes Haupt lege!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>____________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:head data-heading-id="Jugend und Alter" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:hi style="letter-sparse">Jugend und Alter</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein politisirendes Mädchen von siebzehn Sommern ist ein Schmetterling, der sich auf den Börsenmarkt verfliegt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="299"/>
+        <tei:seg> Ihre politisirende Mutter, eine Dame von vierzig Jahren, ist eine Spinne, welche über den Ozean läuft.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.6" style="text-center">
+        <tei:hi style="font-weight-bold">________</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.6" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:hi style="font-weight-bold">
+          <tei:hi style="sup">=============</tei:hi>
+        </tei:hi>
+      </tei:p>
+      <tei:head data-heading-id="Bindfäden" first-line-indent="0" margin-bottom="0.8" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">Bindfäden</tei:hi>
+        <tei:seg>. </tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Um von manchen Dichtern eine richtige Meinung zu bekommen, sollte man ihnen anrathen, Fabeln zu dichten. In den Thieren, welche sie redend einführten, würde man sie augenblicklich wiedererkennen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn ich eine Frau sehe, die nicht liebenswürdig ist, so bin ich immer nahe daran, sie für eine Schriftstellerin zu halten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ist die Sentimentalität den Weibern angeboren? Wir würden es bald wissen, wenn wir Nachricht hätten, ob die erste Blume, welche Eva brach, eine Rose oder ein Veilchen war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg> ________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Publikum wird gegen das ausgezeichnetste Talent gleich­gültig, wenn es sich nur einmal als Charlatan zeigte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn man die Vernunft besteuerte, würden nicht die Men­schen mit Recht wahnsinnig werden?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="300"/>
+        <tei:seg> Man sagt bei uns von der Schönheit: sie fällt in die Augen. Das ist sehr charakteristisch für die deutschen Damenfüße.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie am Körper ist auch das Wachsthum der Seele eine Krankheit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn sich ein Esel verliebt, so kann sich seine feige Brust vor Heldenmuth heben. Dem verliebten Löwen hängt man dagegen leicht ein Glöckchen in’s Maul.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die unglücklichen Dichter! Sie sind dem Mangel schon im Allgemeinen ausgesetzt, und haben oft mit so vielen Mängeln noch im Besondern zu kämpfen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn die Philosophen sich klar werden wollen, so werden sie für die Laien immer noch dunkler.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Käme einst ein langweiliger Mensch auf die Höhe der Geschichte, so würden aus seinen Worten niemals Thaten, son­dern immer nur Begebenheiten werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Dichter versetzen die Leidenschaften auf die Bühne, und die Schauspieler versetzen sie hinter die Coulissen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="301"/>
+        <tei:seg> Zärtliche Eltern hören gern, daß man die schläf­rigen Talente ihrer Kinder schlummernde nennt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Starke Frauen haben an ihren Männern noch immer lieber, daß sie Schwächen haben, als daß sie schwach sind.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Säule, welche man dem Verdienst eines Buchhändlers setzen wollte, würde sehr klein gerathen, wenn man sie aus dem Honorar schmölze, welches die Schriftsteller von ihm bezogen haben.</tei:seg>
+      </tei:p>
+      <tei:interp type="esv" xml:id="annotation-1">
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">1,1</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">
+            <tei:hi style="letter-sparse">Papilloten]</tei:hi>
+          </tei:citedRange>
+        </tei:p>
+        <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>„Papilloten, der französische Ausdruck für Haarwickel, ehedem, d. h. als man noch Perücken trug, in Deutschland sehr gebräuchlich. Die Papilloten sind bisweilen nur von Papier zusammengedreht, eigentlich aber aus Drath, den man mit Werg oder Watte umwindet und mit Leder überzieht.“ (DCL, Bd. 8, S. 88)</tei:seg>
+        </tei:p>
+      </tei:interp>
+      <tei:interp type="esv" xml:id="annotation-2">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:citedRange type="page-line-ref">2,4-5</tei:citedRange>
+          <tei:seg> </tei:seg>
+          <tei:citedRange type="word-range">Spiritusgläser</tei:citedRange>
+          <tei:seg>]</tei:seg>
+        </tei:p>
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>Anatomische Präparate wurden zu Schau- und Studienzwecken in alkoholgefüllten Gläsern aufbewahrt. Gutzkow war von Kindheit an mit solchen Ausstellungsobjekten vertraut, da die anatomische Abteilung des Berliner Akademiegebäudes, in dem er aufwuchs, ihre Lehre </tei:seg>
+          <tei:q>nebst demonstrativen Spiritus-Eingeweide-Gläsern</tei:q>
+          <tei:seg> darbot (Aus der Knabenzeit, GWB VII, Bd. 1, S. 16).</tei:seg>
+        </tei:p>
+      </tei:interp>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Martina Lauster,</tei:seg>
+        <tei:q> </tei:q>
+        <tei:seg>Exeter</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="1. Textüberlieferung" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0.4" type="level-2">
+        <tei:seg> 1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="1.1. Handschriften" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg> 1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="1.1.1. Übersicht" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg> 1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="1.2 Drucke" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg> 1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkows Gedankensammlung </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> erschien im Juli 1833 in der von Moritz Saphir herausgegebenen humoristischen Münchener Zeitschrift „Der deutsche Horizont“. Gutzkows Schulfreund Adolf Glaßbrenner brachte zwei Monate später einen Teilnachdruck in seinem „Berliner Don Quixote“, einem Journal der Saphir’schen Schule. Gutzkow nahm die Mehrzahl der </tei:seg>
+        <tei:hi style="font-style-italic">Papilloten</tei:hi>
+        <tei:seg>-Abschnitte, ohne den Schlussteil </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg>, in seine Sammlung </tei:seg>
+        <tei:q>Skizzenbuch</tei:q>
+        <tei:seg> (1839) und am Ende seiner Schaffenszeit nochmals in den elften Band (1876) der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> auf. In beiden Buchausgaben sind die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> Bestandteil des Reisejournals </tei:seg>
+        <tei:q>Der jüngste Anacharsis</tei:q>
+        <tei:seg>, eines ursprünglich 1832 im „Morgenblatt“ veröffentlichten Beitrags. Diesen reicherte</tei:seg>
+        <tei:q> </tei:q>
+        <tei:seg>Gutzkow für die Buchausgabe von 1839 aphoristisch an, indem er er – in der Manier Jean Pauls – Teile der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> jeweils als </tei:seg>
+        <tei:q>Denkblatt</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Denkzettel</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Postscript</tei:q>
+        <tei:seg> oder </tei:seg>
+        <tei:q>Betrachtung</tei:q>
+        <tei:seg> an den Schluss einzelner Reisebriefe setzte.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> Karl Gutzkow: Papilloten. In: Der deutsche Horizont. München. [Heft 7, Juli] 1833, S. 289-301. (Rasch 3.33.07.1N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> [Teilnachdruck] Karl Gutzkow: Papilloten. In: Berliner Don Quixote. Nr. 146, 19. September 1833, [S. 1-3]. (Rasch 3.33.09.19N)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> besteht aus den Passagen </tei:seg>
+        <tei:q>Ein Fehler des Alters</tei:q>
+        <tei:seg> [S. 1], </tei:seg>
+        <tei:q>Der Umgang mit Schriftstellern</tei:q>
+        <tei:seg> [S. 1-2], </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg> [S. 2], </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg> [ohne diese Überschrift, S. 3] sowie der Aphorismen-Sammlung </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> [S. 2-3]. Dieser Nachdruck ist durch die Quellenangabe „(Horizont.)“ ausgewiesen.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="E1">
+          <tei:seg>E Karl Gutzkow: Der jüngste Anacharsis. Reisebriefe an zwei Schwestern in Stuttgart. In: Ders: Skizzenbuch. Cassel u. Leipzig: Krieger, 1839. S. 154-228. (Rasch 2.19.8)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darin die Abschnitte </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg> (S. 168-170), </tei:seg>
+        <tei:q>Eine optische Täuschung in der Politik</tei:q>
+        <tei:seg> (S. 171-172), </tei:seg>
+        <tei:q>Ein Fehler des Alters</tei:q>
+        <tei:seg> (S. 176-177), </tei:seg>
+        <tei:q>Der Umgang mit Schriftstellern</tei:q>
+        <tei:seg> (S. 186-188), </tei:seg>
+        <tei:q>Ein Mangel der Erziehung</tei:q>
+        <tei:seg> (S. 200-201), </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg> (S. 212-214), </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg> (S. 220-223).</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="E2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> Karl Gutzkow: Der jüngste Anacharsis. Reisebriefe an zwei Schwestern in Stuttgart. In: Ders.: Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 1-12. Jena: Costenoble, [1873-1876]. Bd. 11: Reiseeindrücke aus Deutschland, der Schweiz, Holland und Italien [1876]. S. 1-39. (Rasch 1.5.11.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darin die Abschnitte </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg> (S. 8-9), </tei:seg>
+        <tei:q>Eine optische Täuschung in der Politik</tei:q>
+        <tei:seg> (S. 9-10), </tei:seg>
+        <tei:q>Ein Fehler des Alters</tei:q>
+        <tei:seg> (S. 12), </tei:seg>
+        <tei:q>Ueber den Umgang mit Schriftstellern</tei:q>
+        <tei:seg> (S. 17-18), </tei:seg>
+        <tei:q>Ein Mangel der Erziehung</tei:q>
+        <tei:seg> (S. 25), </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg> (S. 31-32), </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg> (S. 35-36).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vereinzelte Passagen oder Sätze der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> verwertete Gutzkow als aphoristische Bemerkungen in späteren Werken (siehe 2.2.2.4.).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2. Textdarbietung" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="2.1. Edierter Text" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [ ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2.1.1. Texteingriffe" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">1,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Alten</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>alten</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">2,5</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Ideen</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Idee</tei:sic>
+        <tei:seg> emendiert nach E</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">5,22</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hältst</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hälst</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">6,4</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>nie</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>wie</tei:sic>
+        <tei:seg> emendiert nach E; dort korrigiert bzw. geändert zu </tei:seg>
+        <tei:q>selten</tei:q>
+      </tei:p>
+      <tei:head data-heading-id="2.2. Lesarten und Varianten" first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zur Integration der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> (J) in die Sammmlung </tei:seg>
+        <tei:hi style="font-style-italic">Skizzenbuch</tei:hi>
+        <tei:seg> (E) nahm Gutzkow ihnen den Charakter einer eigenständigen Gedankensammlungund ordnete sie in einen übergreifenden Text ein: </tei:seg>
+        <tei:q>Der jüngste Anacharsis</tei:q>
+        <tei:seg>, ein in Briefform geschriebenes Reisetagebuch. Es erschien zuerst 1832 im „Morgenblatt“ unter dem Titel </tei:seg>
+        <tei:q>Aus dem Tagebuche des jüngsten Anacharsis</tei:q>
+        <tei:seg> und bildet den werkgeschichtlich frühesten Teil des </tei:seg>
+        <tei:q>Skizzenbuches</tei:q>
+        <tei:seg>. Um darin auch die ein Jahr später erschienenen </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> unterzubringen, verwertete Gutzkow ihren Hauptteil, also die längeren Abschnitte ohne den Aphorismus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg> und ohne die </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg>. Auch den ersten Abschnitt, </tei:seg>
+        <tei:q>Der Tempel des Ruhms</tei:q>
+        <tei:seg>, ließ er weg. Die anderen Abschnitte setzte er jeweils an das Ende einzelner </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg>-Briefe und veränderte dabei ihre ursprüngliche Reihenfolge, so dass sie sich thematisch wenigstens lose in den Kontext der Reisebriefe einfügten. Er leitete die aus den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> stammenden Abschnitte mit kurzen Sätzen ein, die erzähltechnisch auf eingelegte Blätter hindeuten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Dritter Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Zum Postscript folgende Denkblätter:</tei:q>
+        <tei:seg> (Es folgen </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg> und </tei:seg>
+        <tei:q>Eine optische Täuschung in der Politik</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Vierter Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Ein Denkblatt als Beilage!</tei:q>
+        <tei:seg> (Es folgt </tei:seg>
+        <tei:q>Ein Fehler des Alters</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Sechster Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Zum Schluß schick’ ich noch einen Denkzettel!</tei:q>
+        <tei:hi style="font-style-italic"> </tei:hi>
+        <tei:seg>(Es folgt </tei:seg>
+        <tei:q>Der Umgang mit Schriftstellern</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Achter Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Vorher noch ein Gedenkblatt!</tei:q>
+        <tei:seg> (Es folgt </tei:seg>
+        <tei:q>Ein Mangel der  Erziehung</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Zehnter Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Noch ein Postscript!</tei:q>
+        <tei:seg> (Es folgt </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>(</tei:seg>
+        <tei:q>Eilfter Brief</tei:q>
+        <tei:seg>:) </tei:seg>
+        <tei:q>Noch eine Betrachtung zum Schluß!</tei:q>
+        <tei:seg> (Es folgt </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In dieser Zerlegung und Neuverwendung der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> blieben aus ihrem ursprünglichen Druckbild weder die Trennstriche zwischen den Gedankenabschnitten, noch die weiten Abstände zwischen Absätzen erhalten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>An orthographischen Änderungen sind nur sehr geringfüge zu beobachten wie </tei:seg>
+        <tei:q>ging</tei:q>
+        <tei:seg> (E) statt</tei:seg>
+        <tei:hi style="font-style-italic"> </tei:hi>
+        <tei:q>gieng</tei:q>
+        <tei:seg> (J) oder </tei:seg>
+        <tei:q>deshalb</tei:q>
+        <tei:seg> (E) statt </tei:seg>
+        <tei:q>deßhalb</tei:q>
+        <tei:seg> (J). Gutzkow korrigierte einen offenbaren Druckfehler (vgl. 2.1.1. Texteingriffe, 6,4) nahm Sperrungen vor, formulierte gelegentlich um und fügte manches hinzu, um den Gedankengang deutlicher zu machen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Beispiele:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>7,6 </tei:seg>
+        <tei:q>vor der Schrift</tei:q>
+        <tei:seg>   E: </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:q>vor</tei:q>
+        </tei:hi>
+        <tei:q> der Schrift</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>4,13 </tei:seg>
+        <tei:q>welchen er vorstellen sollte</tei:q>
+        <tei:seg>  E: </tei:seg>
+        <tei:q>welchen er hatte ersetzen sollen</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>9,3-4 </tei:seg>
+        <tei:q>als Phönixe einst ihre Völker zu beglücken oder zu verderben</tei:q>
+        <tei:seg>  E: </tei:seg>
+        <tei:q>als Phönixe einst ihre Völker zu beglücken oder als Raubvögel zu verderben</tei:q>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>9,20 </tei:seg>
+        <tei:q>einige tausend Fingerzeige</tei:q>
+        <tei:seg>  E: </tei:seg>
+        <tei:q>einige tausend Philister-Fingerzeige</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Abschnitt </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg> nahm Gutzkow die ausgiebigsten Änderungen vor. So fügte er am Schluss des ersten Absatzes nach </tei:seg>
+        <tei:q>Es genügt, daß wir sie kennen</tei:q>
+        <tei:seg> (4,21) die Frage hinzu: </tei:seg>
+        <tei:q>Was sind Freskomenschen?</tei:q>
+        <tei:seg> Aus </tei:seg>
+        <tei:q>um den Mängeln und Gebrechen</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>gefälligere Farben zu geben</tei:q>
+        <tei:seg> (4,23-24) wurde: </tei:seg>
+        <tei:q>um wirklichen Mängeln und Gebrechen</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>gefälligere Farben zu geben</tei:q>
+        <tei:seg>. Den Nebensatz </tei:seg>
+        <tei:q>wenn du auf dem Wege warst, mit lieblosen Kränkungen dem zu begegnen, der dich vielleicht ohne sein Wollen beleidigt hat</tei:q>
+        <tei:seg> (4,28-5,2) formulierte er um: </tei:seg>
+        <tei:q>wenn du auf dem Wege warst, etwas zu thun, was deiner nicht würdig war</tei:q>
+        <tei:hi style="font-style-italic">. </tei:hi>
+        <tei:seg>Ganz gestrichen wurde der Satz: </tei:seg>
+        <tei:q>Wenn der Teufel seine Zwecke sicher erreichen will, so bedient er sich der Waffen Gottes; kann der Bosheit mehr Vorschub geleistet werden, als durch die Alfreskomalerei der Charaktere?</tei:q>
+        <tei:seg> (5,8-11). Zur Erklärung der Fresko-Maltechnik, deren Verständnis für diesen Abschnitt unerlässlich ist, fügte er nach </tei:seg>
+        <tei:q>um die rothen violett zu machen</tei:q>
+        <tei:seg> (5,7) eine Fußnote ein:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>In der Freskomalerei ist blau nicht blau; die Farben werden erst durch Uebergänge und Mischungen auf der Wand so, wie man sie bezweckt.</tei:q>
+      </tei:p>
+      <tei:head data-heading-id="2.2.2. Abweichungen von J und E in A2" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.2.2. Abweichungen von J und E in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zur Aufnahme in den 1876 erscheinenden elften Band der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>) überarbeitete Gutzkow die Zweitausgabe des </tei:seg>
+        <tei:q>Jüngsten Anacharsis</tei:q>
+        <tei:seg> und damit des </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Materials. Da der Gesamttext aus Gutzkows frühester Schaffensphase stammt, stellt er in den Werken letzter Hand ein bedeutsames Element dar. Anders als die </tei:seg>
+        <tei:q>Briefe eines Narren an eine Närrin</tei:q>
+        <tei:seg> (1832), die Gutzkow nur stark gekürzt in seine Werkausgaben aufnahm, steht der </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg> in voller Länge im Band </tei:seg>
+        <tei:q>Reiseeindrücke aus Deutschland, der Schweiz, Holland und Italien</tei:q>
+        <tei:seg>, einer ganz neuen reiseliterarischen Werkgruppe, die Gutzkow in den </tei:seg>
+        <tei:q>Gesammelten Werken</tei:q>
+        <tei:seg> von 1845-52 noch nicht vorgesehen hatte. Der </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg> leitete sie ein. Die Varianten-Übersicht bezieht sich wieder ausschließlich auf die Überlieferung der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, nicht auf den Gesamttext des </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zusätzlich zu Modifikationen in Orthographie und Interpunktion nahm Gutzkow Änderungen im Interesse der Lesbarkeit und Verständlichkeit vor. Außer dem Abschnitt </tei:seg>
+        <tei:q>Die Frescomenschen</tei:q>
+        <tei:seg>, der schon für E weitgehend überarbeitet wurde, bemühte er sich besonders in </tei:seg>
+        <tei:q>Ein Mangel der Erziehung</tei:q>
+        <tei:seg>, die Gedankengänge durch Streichungen und Einschübe leichter nachvollziehbar zu machen. In wenigen Fällen wurden Absätze aus J und E zusammengefügt. Die Überschrift </tei:seg>
+        <tei:q>Der Umgang mit Schriftstellern</tei:q>
+        <tei:seg> wurde zu dem essayistischen Titel </tei:seg>
+        <tei:q>Ueber den Umgang mit Schriftstellern</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2.2.2.1 Orthographie und Interpunktion" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.2.2.1 Orthographie und Interpunktion</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Änderungen von Zeichensetzung und Schreibweise betreffen vor allem die (nicht durchgängige) Tilgung des in J und E häufigen Kommas vor beiordnendem ,und‘, die ebenfalls nicht konsistente Ersetzung des Relativpronomens </tei:seg>
+        <tei:q>welch</tei:q>
+        <tei:seg>~ durch die Form </tei:seg>
+        <tei:q>der</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>den</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>die</tei:q>
+        <tei:seg> etc., die Ausschreibung der in J und E häufig verkürzten Flexionsform </tei:seg>
+        <tei:q>unsre</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>unsers</tei:q>
+        <tei:seg> etc. als </tei:seg>
+        <tei:q>unsere</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>unseres</tei:q>
+        <tei:seg> und die Zusammenschreibung von Zahlwörtern und trennbaren Verben: z. B. </tei:seg>
+        <tei:q>sechs und dreißig</tei:q>
+        <tei:seg> (J und E), </tei:seg>
+        <tei:q>sechsunddreißig</tei:q>
+        <tei:seg> A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>; </tei:seg>
+        <tei:q>herüber dämmert</tei:q>
+        <tei:seg> (J und E), </tei:seg>
+        <tei:q>herüberdämmert</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>). In A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> findet sich wie in J die Diphtongisierung </tei:seg>
+        <tei:q>giebt</tei:q>
+        <tei:seg>, die in E zu </tei:seg>
+        <tei:q>gibt</tei:q>
+        <tei:seg> geändert worden war. Eine Schreibweise mit c statt k oder z ist zu bemerken: </tei:seg>
+        <tei:q>Frescomenschen</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>), </tei:seg>
+        <tei:q>Freskomenschen</tei:q>
+        <tei:seg> (J und E), </tei:seg>
+        <tei:q>Concessionen</tei:q>
+        <tei:seg> (A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>), </tei:seg>
+        <tei:q>Conzessionen</tei:q>
+        <tei:seg> (J und E).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2.2.2.2. Struktur, Stil und Ausdruck" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.2.2.2. Struktur, Stil und Ausdruck</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der augenfälligste Eingriff in die Gestaltung eines Abschnitts betrifft </tei:seg>
+        <tei:q>Die Frescomenschen</tei:q>
+        <tei:seg>. Gutzkow nahm die in E hinzugefügte Fußnote (</tei:seg>
+        <tei:q>In der Freskomalerei ist blau nicht blau</tei:q>
+        <tei:seg> [...]) als ersten Absatz und strich den schon in E gekürzten Anfang komplett, von </tei:seg>
+        <tei:q>Sollen wir sie lieben</tei:q>
+        <tei:seg> bis </tei:seg>
+        <tei:q>stürzt den Regenbogen der Palette um</tei:q>
+        <tei:seg> (4,20-5,14). Damit ist ein dem Verständnis hinderlicher Passus durch eine Sachinformation zur Freskomalerei ersetzt, an die sich direkt der Vergleich mit menschlichen Charakteren anschließt; das originelle Sinnbild und seine Pointe, Freskomenschen seien ein zwielichtiges Kunstprodukt, ergeben nun wirklich Sinn.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nicht ganz so durchgreifend änderte Gutzkow den Abschnitt </tei:seg>
+        <tei:q>Ein Mangel der Erziehung</tei:q>
+        <tei:seg>, indem er die zuvor schwer nachvollziehbare Pointe, die Schule solle statt Härtetraining eine </tei:seg>
+        <tei:q>Gymnastik der Seele</tei:q>
+        <tei:seg> vermitteln, sorgfältiger vorbereitete:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>Wir lernen die künftigen Prüfungen bestehen, wer lehrt uns aber den Schmerz der Resignation ertragen, wenn wir durchfallen? Warum lehrt uns die Erziehung, Minister zu werden, warum nicht vielmehr einst das Portefeuille zu verlieren?</tei:q>
+        <tei:seg> (8,28-9,2)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>Wir lernen die künftigen Prüfungen bestehen, die ein Magister verhängt. Aber auch die des Schicksals? Wer lehrt uns den Schmerz der Resignation tragen, wenn wir in allen unsern Lebenskrisen durchfallen? Warum lehrt uns die Erziehung, Minister zu werden, warum nicht die Würde, einst das Portefeuille zu verlieren?</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Generell tendiert die Überarbeitung in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> im Vergleich zu J und E zur schlichteren, weniger wortreichen Gestaltung einerseits und zur Präzisierung des Ausdrucks andererseits. So sind Adjektive und Adverbien gestrichen, z. B. das wiederholte </tei:seg>
+        <tei:q>sehr</tei:q>
+        <tei:seg> (7,14 und 7,15). Aus </tei:seg>
+        <tei:q>den alten Mythus</tei:q>
+        <tei:seg> (4,10) wird </tei:seg>
+        <tei:q>den Mythus</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>die ganze Wunderwelt</tei:q>
+        <tei:seg> (6,14-15): </tei:seg>
+        <tei:q>die Wunderwelt</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>mit süßfreundlichen Entschuldigungen</tei:q>
+        <tei:seg> (6,25): </tei:seg>
+        <tei:q>mit Entschuldigungen</tei:q>
+        <tei:seg>. In J und E stand </tei:seg>
+        <tei:q>Die Berufung auf diese bemitleidenswerthe Anciennetät</tei:q>
+        <tei:seg> (4,9); in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> heißt es: </tei:seg>
+        <tei:q>Die Berufung auf diese Anciennetätseinbildung</tei:q>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die folgenden Beispiele illustrieren Ausdrucksvarianzen von J über E zu A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J: </tei:seg>
+        <tei:q>daß ihnen nur wenig fehlte, um Raphael und Coreggio zu werden</tei:q>
+        <tei:seg>  (2,9-10); E: </tei:seg>
+        <tei:q>daß ihnen nur dies Wenige fehlte, um in allem Andern Raphael und Coreggio zu werden;</tei:q>
+        <tei:seg> A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>daß ihnen nur dies Wenige fehle, um in allem Andern Raphael und Coreggio zu sein</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J: </tei:seg>
+        <tei:q>die glühendsten, die grell aufgetragenen Leidenschaften</tei:q>
+        <tei:seg> (5,20-21);  E: </tei:seg>
+        <tei:q>die sinnlichsten Leidenschaften</tei:q>
+        <tei:seg>; A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>die sinnlichen Leidenschaften</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J: </tei:seg>
+        <tei:q>um vier zu haben</tei:q>
+        <tei:seg> (4,7-8); E: </tei:seg>
+        <tei:q>um dann zweimal zwei ist vier zu haben</tei:q>
+        <tei:seg>; A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>um dann vier zu haben</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J: </tei:seg>
+        <tei:q>sie</tei:q>
+        <tei:seg> (5,25); E: </tei:seg>
+        <tei:q>die gute Treue</tei:q>
+        <tei:seg>; A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>die Treue</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J: </tei:seg>
+        <tei:q>Sind die Urwälder nicht längst ausgerottet? Hausen noch Bären auf den Akazien unsrer Promenaden?</tei:q>
+        <tei:seg> (8,22-24) E: </tei:seg>
+        <tei:q>Sind die Urwälder denn nicht längst ausgerottet? Hausen wirklich noch Bären auf den Akazien unsrer Promenaden?</tei:q>
+        <tei:seg> A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>Sind die Urwälder nicht längst gelichtet? Hausen noch Bären auf den Akazien unsrer Promenaden?</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>An Zusätzen zum Text sind wie schon in E kleine Elemente wie Adverbien, aber auch längere, verständnisförderne Einschübe zu erwähnen. Gutzkow fügte auch ab und zu Gedankenstriche ein, um eine besondere Wendung des Räsonnements hervorzuheben:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>und vor dem letzten Flügelschlage</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>zusammenfahren</tei:q>
+        <tei:seg> (6,27-28); A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>oder vielleicht noch vor dem letzten Flügelschlage</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>zusammenfahren</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>sollte ihr nur die geben</tei:q>
+        <tei:seg> (8,15); A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>sollte ihr doch nur die geben</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Mythos von </tei:seg>
+        <tei:q>Abadir, dem Stein des Jupiter, welchen Rhea dem Vater Saturn zu verschlingen gab</tei:q>
+        <tei:seg> (4, 10-11), wird in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> erhellt durch den Zusatz, dass Rhea den Stein </tei:seg>
+        <tei:q>statt des Jupiter</tei:q>
+        <tei:seg> an Saturn, der seine Söhne verschlang, überreicht habe.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>ein Fixstern, der dem schwachen Auge wie fortgeschleudert erscheint</tei:q>
+        <tei:seg> (8,8-9); A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>ein Fixstern, der dem schwachen Auge wie ‒ fortgeschleudert erscheint</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein möglicherweise zu exotisches Bild, die im Kristallglas schwimmenden Reptilien auf dem Fensterbrett des musenbeglückten Dichters, wurde geändert:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>Salamander</tei:q>
+        <tei:seg> (6,15), A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>Goldfische</tei:q>
+      </tei:p>
+      <tei:head data-heading-id="2.2.2.3. Semantik" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.2.2.3. Semantik</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Beispiele für eine markante Sinnänderung sind folgende:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>Freiheit</tei:q>
+        <tei:seg> (8,6), A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>Weisheit</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ließe sich sagen, dass Gutzkow manche semantischen Änderungen der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Gedanken, die auf seine schriftstellerischen Anfänge zurückgingen, aus der Perspektive des Alters und einer zu Ende gehenden Schriftstellerlaufbahn vornahm.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Beispiel </tei:seg>
+        <tei:q>Eine optische Täuschung in der Politik</tei:q>
+        <tei:seg> zeigt, wie der Ersatz des jungdeutschen Schlüsselwortes </tei:seg>
+        <tei:q>Freiheit</tei:q>
+        <tei:seg> durch </tei:seg>
+        <tei:q>Weisheit</tei:q>
+        <tei:seg> eine modifizierte Pointe und ein anderes Druckbild dieses Abschnitts nach sich zieht. Statt des jugendlich überlegenen Schlusses in J und E:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Man muß wissen, wie die Hofzeitungen auszulegen sind, wenn sie von den aufrichtigen Absichten gewisser Leute sprechen. </tei:q>
+        <tei:seg>(8,10-11)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>steht der Ausruf: </tei:seg>
+        <tei:q>Ach, da wissen wir,</tei:q>
+        <tei:seg> [...]. Dieser ist nicht mehr wie in J und E durch einen eigenen Absatz und damit als geistreiche Pointe gekennzeichnet, sondern er folgt dem Räsonnement wie eine allzu oft wiederholte Erkenntnis.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vieles, was Gutzkow schon in jungen Jahren über das Berufsschriftstellerdasein wusste und im Abschnitt </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg> der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> formulierte, ohne es noch recht im Leben erfahren zu haben, trat ein (→ Globalkommentar, 6.1.3. Ideenverwertung). Dass er sich als Autor fühlte, der von der Kritik öfter verkannt als erkannt wurde, als einer, in dem </tei:seg>
+        <tei:q>unter der Asche</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>verfehlte[r] Schriften</tei:q>
+        <tei:seg> ein </tei:seg>
+        <tei:q>himmlisches, prometheisches Feuer</tei:q>
+        <tei:seg> glühe (2,13-14), wurde am Ende seiner Laufbahn zu einem dominierenden Charakterzug. Die Ersetzung eines kleinen Wortes, </tei:seg>
+        <tei:q>nur</tei:q>
+        <tei:seg>, aus den Ausgaben der 1830er Jahre, durch </tei:seg>
+        <tei:q>wahre</tei:q>
+        <tei:seg> in der von 1876 spricht für sich:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>J und E: </tei:seg>
+        <tei:q>Ich kenne Menschen, welche für solche Gedankenembryone nur Spiritusgläser sind. Die Welt ahnt es selten, daß die Ideen dieser Menschen Riesen sind, denen man nichts vorwerfen kann, als daß sie nicht zur Reife kamen.</tei:q>
+        <tei:seg> (2,3-7)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>: </tei:seg>
+        <tei:q>Ich kenne Menschen, welche für solche Gedankenembryone wahre Spiritusgläser sind.</tei:q>
+        <tei:seg> [...]</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am Ende eines Lebens als unermüdlich mit Ideen schaffender Autor erscheint das eigene Schriftsteller-Ich emphatisch als wahrhaftes Gefäß zu früh geborener Ideen.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="2.2.2.4. Aphorismen" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.2.2.4. Aphorismen</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den eigenständigen Aphorismus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg> (10,13-17) übernahm Gutzkow verändert in </tei:seg>
+        <tei:q>Wally, die Zweiflerin</tei:q>
+        <tei:seg> (1835) als Worte Cäsars im Gespräch mit Wally (→ Globalkommentar, 6.1.3.).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einzelne Aphorismen aus den </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg>, dem Schlussteil der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, verwertete er abgewandelt in weiteren Werken: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Die Säule, welche man dem Verdienst eines Buchhändlers setzen wollte, würde sehr klein gerathen, wenn man sie aus dem Honorar schmölze, welches die Schriftsteller von ihm bezogen haben. </tei:q>
+        <tei:seg>(12,20-23)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Drama </tei:seg>
+        <tei:q>Nero</tei:q>
+        <tei:seg> (1835) wendet ein Humorist diesen Aphorismus gegen einen Buchhändler:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Ja, wollte man Ihnen einmal eine goldne Säule setzen, so würde sie sehr klein gerathen, wenn man sie aus dem Honorar schmölze, welches die Poesie von Ihnen bezogen hat.</tei:q>
+        <tei:seg> (GWB II, Bd. 1, S. 122)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> Der Wortwitz:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Man sagt bei uns von der Schönheit: sie fällt in die Augen. Das ist sehr charakteristisch für die deutschen Damenfüße.</tei:q>
+        <tei:seg> (11,14-15)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>wird in </tei:seg>
+        <tei:q>Nero</tei:q>
+        <tei:seg> zu einer Frage des Humoristen und einer Antwort des Buchhändlers:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Frage: </tei:seg>
+        <tei:q>Was kann man</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>z. B. von der Schönheit sagen, wenn sie in die Augen </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>fällt</tei:q>
+        </tei:hi>
+        <tei:q>?</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Antwort: </tei:seg>
+        <tei:q>Daß sie sehr ungeschickt ist.</tei:q>
+        <tei:seg> (GWB II, Bd. 1, S. 122)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> In den </tei:seg>
+        <tei:q>Zeitgenossen</tei:q>
+        <tei:seg> (1837) lässt Gutzkow den angeblichen Verfasser Edward Lytton Bulwer sagen:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Die Manie der Autorschaft ist unter den Frauen so verbreitet, daß ich, wo ich ein unliebenswürdiges Frauenzimmer sehe, immer bereit bin, sie für eine Schriftstellerin zu halten.</tei:q>
+        <tei:seg> (GWB III, Bd. 3, S. 46)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Bemerkung geht auf den folgenden ,Bindfaden‘ zurück:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Wenn ich eine Frau sehe, die nicht liebenswürdig ist, so bin ich immer nahe daran, sie für eine Schriftstellerin zu halten.</tei:q>
+        <tei:seg> (11,1-2)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="3. Quellen, Folien, Anspielungshorizonte" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>3. Quellen, Folien, Anspielungshorizonte</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Folie:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Allgemein: Humoristische Literatur im Gefolge Jean Pauls</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Besonders: M[oritz] G[ottlieb] Saphir: Papillotten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4: Humoristisch-Deklamatorisches. – Jocoses. – Geselliges, Epigrammatisches und Parodistisches. – Papillotten. – Magister Zickzack. S. 193-248.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="4. Entstehungsgeschichte" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>4. Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="4.1. Dokumente zur Entstehungsgeschichte" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>4.1. Dokumente zur Entstehungsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>▄ Bisher sind keine entstehungsgeschichtlichen Dokumente bekannt. ▀</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="4.2. Entstehungsgeschichtlicher Kontext" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg> 4.2. Entstehungsgeschichtlicher Kontext </tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da für Gutzkows frühen humoristischen Text </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> jegliche Dokumente zur Entstehungsgeschichte oder auch nur Hinweise darauf fehlen, ist der Text bibliographisch erst im Nachtrag zu Wolfgang Raschs zweibändiger Gutzkow-Bibliographie erfasst worden. Zur seiner Entdeckung führte der Teil-Nachruck im „Berliner Don Quixote“, der auf den Münchener „Deutschen Horizont“ als Quelle verweist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> müssen während des Sommersemesters 1833 entstanden sein, als Gutzkow sein in Heidelberg begonnenes Zusatzstudium der Rechtswissenschaft an der Universität München fortsetzte. Zugleich führte er seine Tätigkeit als Mitarbeiter am Stuttgarter „Morgenblatt“ und „Literatur-Blatt“ fort und bemühte sich zunehmend, eine rein schriftstellerische Laufbahn einzuschlagen; die Entscheidung dazu traf er im Herbst 1833. Wie der Roman </tei:seg>
+        <tei:q>Maha Guru</tei:q>
+        <tei:seg> aus dem Sommer 1833 sind die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> im Zusammenhang mit dieser beruflichen Orientierung zu sehen. Als gedanklich fundierter Schriftsteller hatte Gutzkow sich bereits mit seinem Erstling profiliert, den 1832 erschienenen </tei:seg>
+        <tei:q>Briefen eines Narren an eine Närrin</tei:q>
+        <tei:seg>, von denen Wolfgang Menzel in seiner Besprechung sagte, sie gehörten „zu dem Geistreichsten, was in neuerer Zeit geschrieben worden ist“ (Humoristische Literatur, S. 25). Wie viele andere Publikationen seiner frühesten Phase veröffentlichte Gutzkow die ,Narrenbriefe‘ jedoch anonym. Nachdem diese ein positives Echo erfahren hatten, unternahm er 1833 bewusst den Schritt zum namentlich genannten Autor: zuerst mit der Gedankensammlung </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, die seinem Ruf als ,geistreicher‘ Verfasser dienlich war, dann mit dem Roman </tei:seg>
+        <tei:q>Maha Guru</tei:q>
+        <tei:seg>, den er als philosophisch geprägtes Werk verstand und den er bei dem Stuttgarter Klassiker-Verlag Cotta unterbrachte. Die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> erschienen in der von dem Humoristen Moritz Saphir redigierten Münchener Zeitschrift „Der deutsche Horizont“.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der ehrenwerte Cotta mit dem politischen ,Literaturpapst‘ Menzel auf der einen Seite, und auf der anderen der mit seiner Satire überall aneckende Saphir: Diese seltsame Konstellation war für Gutzkows Anfänge als Schriftsteller in verschiedener Weise bedeutsam. Das „Morgenblatt für gebildete Stände“ und seine Beilage, das von Menzel redigierte „Literatur-Blatt“, sowie die Augsburger „Allgemeine Zeitung“, boten als Periodika des Hauses Cotta die weitaus wichtigsten Organe für Gutzkows frühe kritische und literarische Arbeiten. In Saphirs Berliner „Schnellpost“ aber hatte er bereits im Herbst 1829 unter seinen Initialen „K. G.“ ein erstes literarisches, noch als Gymnasiast geschriebenes Werklein publiziert, die Novelle </tei:seg>
+        <tei:q>Aus dem Tagebuche und Leben eines Subrektors</tei:q>
+        <tei:seg>. Zu diesem schülerhaften Leichtgewicht äußerte er sich später als Berliner Universitätsstudent, d. h. 1831 in seiner ersten Zeitschrift </tei:seg>
+        <tei:q>Forum der Journal-Literatur</tei:q>
+        <tei:seg>, mit einer Kritik, die Saphir und damit auch ihn selbst traf: Die „Schnellpost“ sei in ihrer Annahme von Arbeiten sogar aus den Federn von Sekundanern zu unwählerisch gewesen. Jedoch habe sie frischen Wind in die Welt der Berliner Journale gebracht und einen Tummelplatz für die jungen Gelehrten aus Hegels Schule geboten. So bedeutend sei der respektlose, alles aufwirbelnde Saphir in der Tat für den Berliner Journalismus gewesen, dass man von einer prä- und einer postsaphirischen Phase sprechen könne. Nach dem finanziellen Scheitern des </tei:seg>
+        <tei:q>Forums der Journal-Literatur</tei:q>
+        <tei:seg> bemühte sich Gutzkow darum, die Redaktion eines politischen Beiblattes zu dem Berliner „Eulenspiegel-Courier“ zu übernehmen, den Eduard Maria Oettinger herausgab, ein publizistischer Weggenosse Saphirs. Das Blatt wurde aber verboten, noch bevor Gutzkow um die ministerielle Erlaubnis einer politischen Beilage gebeten hatte (vgl. Houben, Verbotene Literatur, S. 257). Im Sommer 1833 erwies Gutzkow dem in Berlin nicht mehr gelittenen Saphir, dem er in München begegnete (vgl. Rückblicke, GWB VII, Bd. 2, S. 98-99), eine Reverenz. Nun als werdender Autor, der sich einen Namen machen wollte, trug er zu einem von Saphirs Münchener Blättern bei. Titel und Genre der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> knüpften außerdem an Betrachtungen Saphirs an, „Papillotten“ betitelt, die dieser ein Jahr zuvor, also 1832, in den vierten Band seiner „Gesammelten Schriften“ aufgenommen hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dass Teile von Gutzkows </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> sogleich in dem humoristischen Blatt „Der Berliner Don Quixote“ nachgedruckt wurden, überrascht nicht. Es gehörte der publizistischen Sphäre an, die Saphir in der preußischen Hauptstadt hinterlassen hatte: die der (oft subversiven) Wortwitze, Rätsel, Aphorismen, Epigramme, Erzählungen und Theaterberichte, alles in allem der satirischen Kritik, die ständig mit der Zensur kämpfte. Möglicherweise – doch dies bleibt Spekulation – waren Gutzkows 1833 verfasste humorvolle Berliner Sozialstudien </tei:seg>
+        <tei:q>Die Sterbecassirer</tei:q>
+        <tei:seg> und </tei:seg>
+        <tei:q>Die Singekränzchen</tei:q>
+        <tei:seg> für ein in Berlin geplantes journalistisches Serienwerk nach dem Modell des Pariser „Livre des Cent-et-un“ geschrieben, einer Sammlung witziger Gesellschaftsskizzen. Ein deutsches Äquivalent des „Livre“ wurde im Januar 1832 in Oettingers „Berliner Figaro“, dem Nachfolger des „Eulenspiegel“, angekündigt, und zwar mit der Versicherung: „Jeder Schriftsteller, der einen Namen in der literarischen Welt hat, wird einen Beitrag liefern“ (Nr. 21, 25. Januar 1832). Daraus wurde jedoch nichts. Kurz gesagt: Aus dem entstehungs- und druckgeschichtlichen Kontext von Gutzkows </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> sind Saphir und seine Schule nicht wegzudenken.</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="5. Rezeptionsgeschichte" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>5. Rezeptionsgeschichte</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0.5" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>▄ Bisher sind keine rezeptionsgeschichtlichen Dokumente bekannt. ▀</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="6. Kommentierung" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg> 6. Kommentierung</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="6.1. Globalkommentar" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>6.1. Globalkommentar</tei:seg>
+      </tei:head>
+      <tei:head data-heading-id="6.1.1. Humoristik" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>6.1.1. Humoristik</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die aphoristischen </tei:seg>
+        <tei:q>Denksprüche</tei:q>
+        <tei:seg>, die Gutzkow 1868 unter dem Titel </tei:seg>
+        <tei:q>Vom Baum der Erkenntniß</tei:q>
+        <tei:seg> veröffentlichte, sind kein besonders bekannter Teil seines Werkes. Kurze, prägnante Betrachtungen bilden aber gleichwohl ein konsistentes Element seines Schaffens als Journalautor. So enthält die Sammlung von 1868 Gedanken, die er überwiegend ab 1852 in den „Unterhaltungen am häuslichen Herd“ publizierte. Schon in der Frühzeit seines Schaffens sammelte Gutzkow eigene Beobachtungen, Einfälle und Sentenzen und führte vermutlich ein entsprechendes Heft oder einen Zettelkasten. Die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> von 1833 dürften bereits auf einem solchen Fundus fußen, und der Autor verwertete Material daraus wiederum in späteren Werken weiter.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> Der Titel </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, ein Ausdruck aus dem Französischen, bezieht sich auf einen Gegenstand der weiblichen Toilette, nämlich Lockenwickel, die aus Papier gedreht waren. Somit wird im übertragenen Sinn auf den ephemeren, der Journalwelt angehörenden Charakter der Betrachtungen hingewiesen, die hier vorliegen. Eines Tages könnten sie nicht mehr wert sein als ihr Druckpapier und zu Haarwickeln verarbeitet werden. Es handelt sich also um eine selbstironische Metapher, die ganz dem witzigen Genre angehört.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sowohl die Saphir’schen als auch die Gutzkow’schen „Papillot(t)en“ bestehen aus Einzelabschnitten, die durch Trennstriche voneinander abgesetzt sind. Als Gattung lassen sie sich schwer kategorisieren. Aphorismen dominieren in ihnen nicht, aber sie sind reichlich präsent, wie z. B. der folgende bei Saphir:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Gewissen gleicht bei vielen Menschen einer geheimen Winkeltreppe, die man nur bei höchster Feuer- und Wassernoth betritt. (Papillotten, S. 202)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkows </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg>, gleichsam der kleine Anhang zu den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, bestehen ausschließlich aus Aphorismen, beispielsweise:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Käme einst ein langweiliger Mensch auf die Höhe der Geschichte, so würden aus seinen Worten niemals Thaten, sondern immer nur Begebenheiten werden.</tei:q>
+        <tei:seg> (12,7-9)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Epigramme, also Sinngedichte, finden sich in Saphirs und Gutzkows Sammlungen nicht, doch haftet den überwiegend längeren Beobachtungen und Reflexionen beider Autoren etwas Epigrammatisches an. Wie ein Sinngedicht baut ein Abschnitt oft durch ungewöhnliche Vergleiche oder Paradoxien ein Spannungsfeld auf löst die Spannung in einer Pointe. In Bezug auf den humoristischen Stil der „Papillot(t)en“ muss Jean Paul als Ahne gelten, der von Saphir ebenso verehrt wurde wie von Gutzkow. Saphir schrieb zu Jean Pauls Todestag ähnlich wie Ludwig Börne eine euphorische Gedenkrede, in der er den Humor des Verstorbenen, einen „Dreiklang“ von „Lachen, Weinen und Lieben“, als den „Frühling der ganzen deutschen Poesie“ bezeichnete (Feier des Jean Paul Festes, S. 134). An Gutzkows </tei:seg>
+        <tei:q>Briefen eines Narren</tei:q>
+        <tei:seg>, die im Bann Jean Pauls standen, rühmte Menzel den Wechsel von „Weinen und Lachen“, der „ganz so ächt humoristisch“ sei wie bei Jean Paul (Humoristische Literatur, S. 25). Dass Saphir wiederum als Schüler Jean Pauls gelte, bemerkte Gutzkow im </tei:seg>
+        <tei:q>Forum der Journal-Literatur</tei:q>
+        <tei:seg>, jedoch nicht ohne Kritik: Saphirs Humor leide an </tei:seg>
+        <tei:q>Ueberladung</tei:q>
+        <tei:seg> und</tei:seg>
+        <tei:q> allzuvielen Pikanterien</tei:q>
+        <tei:seg> im Vergleich zu seinem Meister, dessen Humor sich in einer </tei:seg>
+        <tei:q>sanften Schlangen- und Wellenlinie</tei:q>
+        <tei:seg> bewege (FdJL, Bd. 1, H. 2, S. 174).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Beispiel für Saphirs humoristisches Schnellfeuer bietet eine Passage der „Papillotten“, in welcher er die Gattung des „Unmenschen“ Revue passieren lässt. Untergliedert wird diese dann noch einmal in ihre lesenden Spielarten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da ist der Orang-Outang, der langarmige Leser, der mit einem Mal alles umfassen will, der gerne hätte, daß der Verfasser die Füße seiner Erzählung über die Schultern nähme, damit er gleich im Anfang wisse, was an der Geschichte sey; dann kommt der Süßleser, Gutschmecker und Wohldüftler, der immer ein Bischen Lectüre auf’s Jabot spritzt oder auf’s Schnupftuch, damit er in Gesellschaft ausdufte und aromatisire; der sich ein Buch, wie ein Fläschchen Eau de Cologne anschafft, um sich zu parfümiren. Dann kommt der Kannibal, d. h. der menschenfressende Leser, dem es nur dann wohl ist, wenn der Autor seine Leser niedersäbelt, wenn er ganze Schlachtfelder gebrochener Herzen und invalider Seelen vor sich hat, und der, so zu sagen, aus der blutigen wahnsinnigen Hirnschaale des Buchhelden die eigene Lektüregesundheit trinkt. Nun kommen die Affen, d. h. die nachahmenden Leser, diese nehmen sogleich den Charakter, der ihnen im Buche am beßten gefällt, in Beschlag, probiren ihn wie eine neue Seelen- und Geistestracht an [...] und verwechseln ihn in drei Tagen wieder mit einer neuen Charaktermode, die eben heiß von ihrem Autor und Maskenschneider ankam u. s. w. (Papillotten, S. 242-243)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit geübter Virtuosität setzt Saphir die modische, im zeitgenössischen Paris und London hoch im Kurs stehende humoristische Charakterskizze nach dem Modell der Zoologie bzw. Naturgeschichte ein; ein Verfahren gesellschaftlicher Typisierung, das in die Vorgeschichte der akademischen Soziologie gehört. Die hochzivilisierten Arten und vor allem die Abartigkeiten der Gattung Mensch werden so in ihrer zeitgenössischen Ausprägung beleuchtet. Der lachende Blick auf die Vanitas der Welt ist auch ein Erbe der alten moralistischen Tradition, vermittelt durch Jean Paul. In der „Vorschule der Ästhetik“ beschreibt dieser den Humor als den großen Distanzierer: In Umkehrung der theologischen Perspektive, die „aus der überirdischen Welt auf die irdische hinunterschauet“ und diese „klein und eitel“ findet, messe und vergleiche der Humor die unendliche Welt mit der kleinen und eitlen, und so entstehe „jenes Lachen, worin noch ein Schmerz und eine Größe ist“ (JPSW, Abt. I, Bd. 5, S. 129).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow geht es in den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> durchaus auch um die Eitelkeit der Welt, jedoch fehlen sowohl zoologische Vergleiche als auch satirische Spitzen. Der Humor soll sich wohl nach Jean Pauls Muster in einer</tei:seg>
+        <tei:q> sanften Schlangen- und Wellenlinie </tei:q>
+        <tei:seg>zeigen, kann sich aber durch die oft komplexen Bilder und Betrachtungen nur schwer durchwinden. Beispielsweise werden im Abschnitt </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg> – nach klassisch moralistischer Weise – Charaktere geschildert, die einen täuschenden Schein von sich geben. Dies drückt Gutzkow im Bild der Freskomalerei aus, bei der Farben nicht das sind, was sie scheinen, sondern Mischungen und Verwischungen aus Tönen, so dass sie also immer nur einen Reflex auf andere Farben darstellen. Auf diese Weise sind freundschaftliche </tei:seg>
+        <tei:q>Gefälligkeiten</tei:q>
+        <tei:seg> eines Freskomannes nur Spiegel seiner selbstbezogenen Interessen (5,14-16), die </tei:seg>
+        <tei:q>Liebe</tei:q>
+        <tei:seg> einer Freskofrau </tei:seg>
+        <tei:q>nur ein starker Reflex der Eitelkeit</tei:q>
+        <tei:seg>, ihre </tei:seg>
+        <tei:q>Treue</tei:q>
+        <tei:seg> nur ein Widerschein der </tei:seg>
+        <tei:q>Gewöhnung</tei:q>
+        <tei:seg> (5,21-24). Das Gemeinsame der Freskomenschen, so die Pointe, sei der perfekte zivilisierte Firnis, ein </tei:seg>
+        <tei:q>Kunstwerk der Selbstbeherrschung</tei:q>
+        <tei:seg> (5,28). Der Vergleich mit der Freskomalerei, also der eigentliche ,Witz‘ der Beobachtung, wirkt gesucht und ist ohnehin nicht leicht nachzuvollziehen; Gutzkow fand es notwendig, in E eine erklärende Fußnote zu Freskofarben einzusetzen; in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> strich er den gesamten Anfang und ersetzte ihn durch den Inhalt der Fußnote (vgl. Lesarten und Varianten, 2.2.1. und 2.2.2.2.). Effektiver, da unmittelbar zu verstehen, waren seine späteren Zivilisations- und Charakterreflexionen nach zoologischer Weise: die 1834 veröffentliche Erzählung </tei:seg>
+        <tei:q>Kanarienvogels Liebe und Leid</tei:q>
+        <tei:seg>, untertitelt </tei:seg>
+        <tei:q>Eine thierische Novelle</tei:q>
+        <tei:seg> (GWB I, Bd. 7) und die im Jahr darauf vor der Frankfurter Museumsgesellschaft gehaltenen Vorträge </tei:seg>
+        <tei:q>Naturgeschichte der deutschen Kameele</tei:q>
+        <tei:seg> und </tei:seg>
+        <tei:q>Ueber Pudel, Jokeys und Nachtigallen und die kleinen Freuden des Lebens</tei:q>
+        <tei:seg> (eGWB III, Bd. 8). </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> Im Abschnitt </tei:seg>
+        <tei:q>Ein Mangel der Erziehung</tei:q>
+        <tei:seg> sperren sich Sprache und Duktus gegen die Einsicht, zu der sie führen sollen. Hier der Anfang:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Unsre gegenwärtige Erziehung giebt der Jugend nur die Anweisung, Alles zu genießen, und sollte ihr nur die geben, Alles zu entbehren. Sie macht den jungen Körper fähig, Hunger und Durst zu ertragen, Hitze von der Kälte nicht zu unterscheiden, und allen Elementen Trotz zu bieten. </tei:q>
+        <tei:seg>(8,14-18)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie kann die </tei:seg>
+        <tei:q>Anweisung, Alles zu genießen</tei:q>
+        <tei:seg>, mit einer </tei:seg>
+        <tei:q>spartanischen Erziehung</tei:q>
+        <tei:seg> (8,22) Hand in Hand gehen? Welchen Sinn hat die Forderung, es solle gelehrt werden, </tei:seg>
+        <tei:q>Alles zu entbehren</tei:q>
+        <tei:seg>, wenn dies in dem Abhärtungsprogramm der zeitgenössischen Pädagogik offenbar schon der Fall ist? Die eröffnenden Paradoxien machen neugierig, aber es erfordert eine mehrfache Lektüre des Abschnitts, um sie aufzulösen. Der dunkle Sinn hellt sich folgendermaßen auf: Gutzkow versteht den körperlichen Drill als Teil einer Bildung, die auf eine bequeme oder gar privilegierte gesellschaftliche Stellung ausgerichtet ist. Die körperliche Vorbereitung auf Katastrophen ist eine Art Absicherung des genießenden Daseins, aber physische Notstände treten im gegenwärtigen Stand der Zivilisation niemals ein. Was dagegen ständig vorkommt, sind Misserfolge und Rückschläge in der Erwartung des guten Lebens, auf welche die Erziehung gerade nicht vorbereitet. Die Schlusspointe, dass die Erziehung eine </tei:seg>
+        <tei:q>Gymnastik der Seele</tei:q>
+        <tei:seg> statt eine des Körpers vermitteln solle (9,7-8), wirft kein plötzliches Licht auf die Paradoxien des Anfangs, sondern ihr Tiefsinn muss der Passage durch eine Leseanstrengung abgewonnen werden. Auch in diesem Abschnitt nahm Gutzkow vor allem in der Ausgabe von 1876 verständnisfördernde Änderungen vor (vgl. Lesarten und Varianten, 2.2.2.2).</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="6.1.2. Die zerfallenden Ideen" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>6.1.2. Die zerfallenden Ideen</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das zentrale Thema der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> ist ein ,jungdeutsches‘: Es wird über eine </tei:seg>
+        <tei:q>Jugend</tei:q>
+        <tei:seg> reflektiert, die unverstanden bleibt, marginalisiert wird und vorzeitig altert, da sie über keine Gegenwart verfügt, sondern nur eine verheißungsvolle Vergangenheit hinter sich und eine ungewisse Zukunft vor sich hat. Ihr Repräsentant ist der Geistesmensch voller </tei:seg>
+        <tei:q>Gedankenembryone</tei:q>
+        <tei:seg> (2,6), die oft sterben, bevor sie das Licht der Welt erblicken, also vornehmlich ein </tei:seg>
+        <tei:q>Schriftsteller</tei:q>
+        <tei:seg> bzw. </tei:seg>
+        <tei:q>Dichter</tei:q>
+        <tei:seg>. In der Betrachtung dieser janusköpfigen Generation liegt die eigentliche humoristische Würze der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, die gegenseitige Durchdringung von Scherz und Ernst, das Ineinander von </tei:seg>
+        <tei:q>Hoffnung</tei:q>
+        <tei:seg> und </tei:seg>
+        <tei:q>Verzweiflung</tei:q>
+        <tei:seg>, das geradezu synonym mit dem Substantiv </tei:seg>
+        <tei:q>Jugend</tei:q>
+        <tei:seg> gesetzt wird (1,10). Im Passus </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg> wird ein Thema durchgespielt, das Gutzkow zwei Jahre später in den Mittelpunkt des Romans </tei:seg>
+        <tei:q>Wally, die Zweiflerin</tei:q>
+        <tei:seg> stellen sollte:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Wenn die Seele ihr Auge rückwärts wendet, sieht sie in der Erinnerung nur die stillen Gräber eines schweigenden Friedhofes, und jeder Denkstein nennt ein Wort, für welches deine Seele einst glühte!</tei:q>
+        <tei:seg> (2,22-25)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die frühe Jugend stand unter dem Zeichen idealistischer Leidenschaft, die sich an abstrakten Begriffen, </tei:seg>
+        <tei:q>Worten</tei:q>
+        <tei:seg> entzündete und die es nun der in reiferen Jugend auszukämpfen gälte; die feindliche Wirklichkeit hat sie jedoch längst abgetötet. Der Rückblick auf die eigenen Anfänge findet einen Ideen-Friedhof vor. Über den Protagonisten Cäsar der </tei:seg>
+        <tei:q>Wally</tei:q>
+        <tei:seg> heißt es, er habe </tei:seg>
+        <tei:q>die erste Stufenleiter idealischer Schwärmerei</tei:q>
+        <tei:seg> erstiegen und </tei:seg>
+        <tei:q>einen ganzen Friedhof todter Gedanken, herrlicher Ideen, an die er einst glaubte, hinter sich</tei:q>
+        <tei:seg> (eGWB I, Bd. 4, pdf 1.1, S. 6). Dies bietet ein gutes Beispiel dafür, wie Gutzkow den Fundus seiner Gedanken in literarischen Werken ausschöpfte. Sie wurden gerade nicht dem Tod überantwortet, sondern durch literarische Verwendung am Leben gehalten. Wiederum in </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg> findet sich das Motiv der ungeborenen Gedanken, denen es verwehrt ist, sich je zu entwickeln:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Ich kenne Menschen, welche für solche Gedankenembryone nur Spiritusgläser sind. Die Welt ahnt es selten, daß die Ideen dieser Menschen Riesen sind, denen man nichts vorwerfen kann, als daß sie nicht zur Reife kamen. </tei:q>
+        <tei:seg>(2,3-7)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diesen Befund stellt der Erzähler bei seiner Heldin Wally, als sie drei Wochen bewusstlos im Fieber liegt. Ihre Gedanken sind der narrativen Autopsie freigegeben:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Da lagen sie alle, die wie ein Kapital angelegten Eindrücke der Vergangenheit </tei:q>
+        <tei:seg>[...]</tei:seg>
+        <tei:q>, Ideenembryone, so gräulich anzusehen, wie die Infusorien, die man durch Vergrößerungsgläser in einem Wasserglase unterscheidet.</tei:q>
+        <tei:seg> (eGWB I, Bd. 4, pdf 1.1, S. 78) </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wallys Krankheit ist durch eine Infusion mit zeitgenössischen kritischen Ideen verursacht, für die ihr als Frau die Möglichkeit fehlt, sie zu verarbeiten. Im Gegensatz zu Cäsar mit seinem Ideenfriedhof wäre ihr, der </tei:seg>
+        <tei:q>Zweiflerin</tei:q>
+        <tei:seg>, aber auch die Chance gegeben, aus ihren Embryonen etwas wachsen zu lassen, das jenseits des maskulinen Zynismus stände, wenn der manipulative Cäsar es dazu kommen ließe. In der literarischen Umsetzung wird hier der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Gedanke zu einer erschreckenden Gender-Diagnose. In der Frau liegen </tei:seg>
+        <tei:q>Ideenembryone</tei:q>
+        <tei:seg> wie ein </tei:seg>
+        <tei:q>Kapital</tei:q>
+        <tei:seg>, das sie nie produktiv einsetzen kann und im Suizid vernichten muss. – Die Metapher des Spiritus- bzw. Wasserglases voller primitiver oder ungeschlüpfter Wesen findet sich in den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> auch ausdrücklich im Zusammenhang mit dem Thema des Schöpferischen. Ein romantisch-schnurriger Abschnitt, </tei:seg>
+        <tei:q>Der Umgang mit Schriftstellern</tei:q>
+        <tei:seg>, redet von dem Kontakt, den der nachts Schaffende mit einer </tei:seg>
+        <tei:q>Wunderwelt</tei:q>
+        <tei:seg> (6,15) von schwimmenden, krabbelnden und summenden, in Gläsern, Vasen, Töpfen und Löchern beheimateten Kreaturen pflegt: Metaphern der schriftstellerischen Einfälle, die sich am Morgen verflüchtigen, besonders wenn ein ungebetener Besucher sie stört. Noch bis zum Mittag, wenn die Feder ausgespritzt wird, sei der Schriftsteller sozial </tei:seg>
+        <tei:q>ungenießbar</tei:q>
+        <tei:seg> (6,29) und werde erst nachmittags umgänglich, d. h. im erneuten Anlauf zu seiner schöpferischen Nachtschicht. In </tei:seg>
+        <tei:q>Vergangenheit und Gegenwart</tei:q>
+        <tei:seg> (1838) erinnert sich Gutzkow an diese nächtlichen Münchener Schreibstunden neben dem Jurastudium: </tei:seg>
+        <tei:q>den Tag schenkt’ ich Justinian, die Nacht den Musen</tei:q>
+        <tei:seg> (eGWB IV, Bd. 6.2, pdf 1.0, S. 49).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.6" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Kunstvolle der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> ist nicht in einer Meisterschaft der Pointe zu suchen, sondern in einer Verflechtung von Motiven. Ein Beispiel bietet das Thema des sich täuschenden Blickes in </tei:seg>
+        <tei:q>Die Freskomenschen</tei:q>
+        <tei:seg>, das in </tei:seg>
+        <tei:q>Eine optische Täuschung in der Politik</tei:q>
+        <tei:seg> wiederkehrt. Als Hauptmotiv der Sammlung erweist sich jedoch das Embryonische, Metamorphosenhafte (und damit das Schweben zwischen Nichtexistenz und Existenz). Papilloten sind Papiererzeugnisse, also flatterhaft wie Schmetterlinge, deren französischer Name ‚papillons‘ diese Assoziation nahelegt. Die Ideen-</tei:seg>
+        <tei:q>Schmetterlinge</tei:q>
+        <tei:seg> schlüpfen denn auch aus der Verpuppung, in der die </tei:seg>
+        <tei:q>junge Psyche</tei:q>
+        <tei:seg> sie hielt (3,5-6); </tei:seg>
+        <tei:q>Papillons und Libellen</tei:q>
+        <tei:seg> umflattern die Löcher des dichterischen Schlafrocks (6,22-24). Die Aura eines </tei:seg>
+        <tei:q>fleißigen, schreibseligen Autor[s]</tei:q>
+        <tei:seg> (6,8) – hinzuzufügen wäre: eines ,geistreichen‘, der ausgiebig für Zeitschriften arbeitet –, der Zauber seiner Einfälle und die antisoziale Disziplin, mit der er eine Existenz fristet, sind insgesamt auch eine Sphäre der Vernichtung. Das Insektenhafte der publizierten Gedanken bedeutet ständigen Tod und ständige Wiedergeburt, eine unaufhörliche Metamorphose. Ihr materieller Träger, das Papier, hat eben so wenig Bestand. Zu Gebrauchsobjekten verarbeitet, wird sein ideeller Wert nichtig. Eingeäschert geht das Ur-Manuskript, in dem der begeisterte Jüngling einst seinen ganzen Ideenreichtum niederlegte – </tei:seg>
+        <tei:q>eine Papierbrücke von hundert Bogen</tei:q>
+        <tei:seg> (9,22) – mit dem Autor zu Grabe (10,10-11). Die ohnehin ständig im Prozess des Absterbens befindlichen jugendlichen Ideen, zu Papier und Staub geworden, sinken mit ihrem Denker endgültig dahin. Der Leitgedanke der Sammlung aber ist die Sakralität der ersten Ideen, auf deren </tei:seg>
+        <tei:q>heilige Asche</tei:q>
+        <tei:seg> der tote Autor sich betten solle. Daraus steigt phönixartig eine ethische Maxime, nämlich dass die kaum geschlüpften, dann schon zerfallenen Ideale der eigenen Jugend als das Höchste zu verehren seien:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Der edle Jüngling wirft sich vor seiner Zukunft nieder, und sieht sie mit heißen Thränen an, für seine jetzige selige Gegenwart, für sie einst Vergangenheit, ein heiliges Andenken zu bewahren. Und der gereifte Mann hält seiner Jugend das gegebene Wort; eine fromme Scheu durchzittert ihn, wenn sein Auge auf die Vergangenheit fällt, und seine jetzt zu Grundsätzen erstarkten, männlichen Gedanken opfern gern den Manen ihrer jungen, schon im Flügelkleide dahingeschiedenen Brüder.</tei:q>
+        <tei:seg> (3,13-20)</tei:seg>
+      </tei:p>
+      <tei:head data-heading-id="6.1.3. Ideenverwertung" first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>6.1.3. Ideenverwertung</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die in der frühindustriellen Zeit erfolgende Hinfälligkeit des Idealismus, die an der eigenen Biographie sowie an der gebildeten jungen Generation nachvollzogen wird, stellt den humoristischen Kern der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> dar. Die Ideen sterben umso schneller, je </tei:seg>
+        <tei:q>lebendiger die Fortschritte unserer Erkenntnisse sind</tei:q>
+        <tei:seg> (3,8). </tei:seg>
+        <tei:q>Erkenntnisse</tei:q>
+        <tei:seg>, dem Leben abgewonnen, ,revolutionieren‘ die idealistischen Entwürfe und führen zu einer gedanklichen Erschütterung, die den ganzen schreibenden Menschen ergreift. Gutzkow nennt dies in seinen späteren </tei:seg>
+        <tei:q>Denksprüchen</tei:q>
+        <tei:seg>, bezeichnenderweise vom </tei:seg>
+        <tei:q>Vom Baum der Erkenntniß</tei:q>
+        <tei:seg> betitelt: </tei:seg>
+        <tei:q>Systemveränderungen, Glaubensmetamorphosen und ähnliche Revolutionen unsres Innern</tei:q>
+        <tei:seg>, die man </tei:seg>
+        <tei:q>in der Jugend oft in wenigen Stunden</tei:q>
+        <tei:seg> durchmache (Vom Baum der Erkenntniß, S. 115). Die umwälzenden </tei:seg>
+        <tei:q>Erkenntnisse</tei:q>
+        <tei:seg> betreffen – unter anderem – die materiellen Bedingungen, die den Schriftsteller in seiner Schaffensweise unmittelbar angehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Industrialisierung des Publikationswesens mit ihrem Angriff auf die Dauer literarischer Schöpfungen und Werte liefert dem Topos von der Vergänglichkeit des Irdischen reiche Nahrung. Saphir beginnt seine „Papillotten“ mit einer Selbstreflexion des Humoristen, der in rasender Produktion die Bedürfnisse seiner Leser befriedige, auch die seiner Nichtleser, damit sie weiter etwas zu schimpfen hätten, sich dabei mit der Schwierigkeit herumschlage, seine schmackhafte Lesenahrung („Wildprett“) aus dem Kasten des Setzers heraus in beißende Lettern zu verwandeln („</tei:seg>
+        <tei:hi style="letter-sparse">Drachenzähne</tei:hi>
+        <tei:seg>“) und dabei letztlich doch nur der „Handlanger des Verlegers“ zu sein (Papillotten, S. 196-198). Saphirs Stuttgarter Verleger Hallberger, vormals Franckh, war in der Tat eine der spekulativen, gewinnorientierten Firmen, welche die Kapitalisierung des Buchhandels vorantrieben. Aus dem in vier Bänden gesammelten Journalhumor des bissigen Saphir ließ sich Geld machen, und nicht zuletzt gewann der Satiriker durch eine Edition „Gesammelter Werke“ sowohl Nimbus als auch Honorar. In Gutzkows Reflexionen zum </tei:seg>
+        <tei:q>Tempel des Ruhms</tei:q>
+        <tei:seg> heißt es, dieser sei </tei:seg>
+        <tei:q>unzweifelhaft</tei:q>
+        <tei:seg> in </tei:seg>
+        <tei:q>antikem Style gebaut</tei:q>
+        <tei:seg>, denn nur im Altertum habe man gewusst, wie das </tei:seg>
+        <tei:q>Verdienst</tei:q>
+        <tei:seg> zu würdigen sei. Die gegenwärtigen Zeitgenossen aber könnten sich architektonisch unter einem Ruhmestempel nichts vorstellen, außer dass sein </tei:seg>
+        <tei:q>Fußboden</tei:q>
+        <tei:seg> mit </tei:seg>
+        <tei:q>Kronenthalern gepflastert</tei:q>
+        <tei:seg> sei (1,21-22). Wiederum in der Metapher einer Ruhmessäule kommt das – bzw. </tei:seg>
+        <tei:hi style="letter-sparse">der</tei:hi>
+        <tei:seg> – </tei:seg>
+        <tei:q>Verdienst</tei:q>
+        <tei:seg> von Verlagsbuchhändlern zur Sprache: Die Verleger verdienen zwar an Schriftstellern, machen sich aber um die Literatur nicht verdient. Durch kleinliche Honorierung der Autoren wächst ihr Gewinn, aber nicht ihr </tei:seg>
+        <tei:q>Verdienst</tei:q>
+        <tei:seg>:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Die Säule, welche man dem Verdienst eines Buchhändlers setzen wollte, würde sehr klein gerathen, wenn man sie aus dem Honorar schmölze, welches die Schriftsteller von ihm bezogen haben.</tei:q>
+        <tei:seg> (12,20-23)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sinnigerweise eröffnet und beschließt Gutzkow die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> mit dem Thema des kulturellen </tei:seg>
+        <tei:q>Verdienstes</tei:q>
+        <tei:seg>, der in der Gegenwart nicht mehr durch steinerne Monumente, sondern wohl oder übel durch Geld ausgedrückt wird.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Titel </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> für den aphoristischen Anhang ist überdies sinnig zu nennen: Die hier versammelten Sentenzen können nicht nur mit Spinnfäden aus der Insektenwelt verglichen werden (vgl. auch den Aphorismus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg>), womit sie an das Metamorphosen-Thema des Hauptteils anschließen, sondern ebenso mit Verbindungsschnüren zu kommenden Werken, in denen sie verwandelt wieder auftauchen. Gutzkow verwendete einige </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> möglicherweise schon zu ihrer Publikationszeit in einem weiteren, im Entstehen begriffenen Werk. So erscheint eben jener Aphorismus über die Säule des Verdienstes leicht abgewandelt im Drama </tei:seg>
+        <tei:q>Nero</tei:q>
+        <tei:seg>, 1835 publiziert, aber 1833 bereits in Arbeit. Hier kommt der Satz aus dem Munde eines Poeten im Gespräch mit einem Buchhändler: </tei:seg>
+        <tei:q>Ja, wollte man Ihnen einmal eine goldne Säule setzen, so würde sie sehr klein gerathen, wenn man sie aus dem Honorar schmölze, welches die Poesie von Ihnen bezogen hat.</tei:q>
+        <tei:seg> (GWB II, Bd. 1, S. 122) In derselben Szene des </tei:seg>
+        <tei:q>Nero</tei:q>
+        <tei:seg> tritt sogar ein </tei:seg>
+        <tei:q>Humorist</tei:q>
+        <tei:seg> auf, der mit seiner Frage, in welchem </tei:seg>
+        <tei:q>Style</tei:q>
+        <tei:seg> wohl der </tei:seg>
+        <tei:q>Tempel des Ruhms</tei:q>
+        <tei:seg> gebaut sei, an den gleichnamigen Aphorismus anschließt, worauf der </tei:seg>
+        <tei:q>Buchhändler</tei:q>
+        <tei:seg> seinerseits eine Verbindung zu den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> schlägt: </tei:seg>
+        <tei:q>Was kann man</tei:q>
+        <tei:seg> [...] </tei:seg>
+        <tei:q>z. B. von der Schönheit sagen, wenn sie in die Augen </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>fällt</tei:q>
+        </tei:hi>
+        <tei:q>?</tei:q>
+        <tei:seg> (GWB II, Bd. 1, S. 122) In den </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> heißt es: </tei:seg>
+        <tei:q>Man sagt bei uns von der Schönheit: sie fällt in die Augen. Das ist sehr charakteristisch für die deutschen Damenfüße.</tei:q>
+        <tei:seg> (11,14-15) Im Drama überlässt der Buchhändler die wörtliche Interpretation der Redensart dem Humoristen: </tei:seg>
+        <tei:q>Daß sie sehr ungeschickt ist. </tei:q>
+        <tei:seg>Der auf einen lukrativen Fang spekulierende Buchhändler versucht den Humoristen dadurch zu gewinnen, dass er seinen Einfällen schmeichelt: </tei:seg>
+        <tei:q>Unübertrefflich! Sie Edelstein! Sie Saphir und Originalmensch! Welch sprudelnde Laune! Welch’ hinreißender Witz!</tei:q>
+        <tei:seg> (GWB II, Bd. 1, S. 124) Hier macht sich Gutzkow also über den gewinnorientierten Buchhandel lustig, damit auch über den kommerziellen Erfolg Saphirs und letztlich des humoristischen Genres, in dem er sich hier selber präsentiert.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wiedervertet hat er noch einen weiteren Aphorismus der </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> zum Thema weiblicher Autorschaft. Die Sentenzen über das Verhältnis der Geschlechter bzw. zu Frauen fallen insgesamt nicht besonders feministisch aus, so auch dieser nicht:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Wenn ich eine Frau sehe, die nicht liebenswürdig ist, so bin ich immer nahe daran, sie für eine Schriftstellerin zu halten.</tei:q>
+        <tei:seg> (11,1-2)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Etwas ausführlicher sagt der angebliche englische Erfolgsautor Bulwer, hinter dem sich Gutzkow in den </tei:seg>
+        <tei:q>Zeitgenossen</tei:q>
+        <tei:seg> verbirgt:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Die Manie der Autorschaft ist unter den Frauen so verbreitet, daß ich, wo ich ein unliebenswürdiges Frauenzimmer sehe, immer bereit bin, sie für eine Schriftstellerin zu halten.</tei:q>
+        <tei:seg> (GWB III, Bd. 3, S. 46)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Aphorist entzieht sich dem Verdacht der Frauenfeindlichkeit nur halb, indem er den Mangel an Liebenswürdigkeit nicht generell zum Zeichen einer Schriftstellerin erklärt, sondern diese Assoziation als seine eigene, nicht unbedingt zutreffende ausweist. Dass Liebenswürdigkeit aber bei gebildeten Frauen vorausgesetzt wird, steht nicht in Frage. Hier kommt der aphoristische Witz maskulinen Diskursen entgegen. Auf dem männlich besetzten Gebiet des Aphorismus lässt sich über Frauen unendlich witzeln. Völlig anders liegt der Fall im Roman.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dass Gutzkow in </tei:seg>
+        <tei:q>Wally</tei:q>
+        <tei:seg> auf den Abschnitt </tei:seg>
+        <tei:q>Die todten Gedanken</tei:q>
+        <tei:seg> aus den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> zurückgriff, ist schon erwähnt worden; zu ergänzen ist hier die Wiederverwendung des Aphorismus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg> im Gespräch zwischen Wally und Cäsar. Auf dem Hintergrund der maskulin-diskursiven </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> leuchtet es ein, dass Cäsar sich fortwährend in gewitzten Bildern und Aphorismen ausdrückt; es ist ein Teil seiner Strategie, Wally durch Verunsicherung zu erobern. Hier zunächst der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Aphorismus:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:q> </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Jugend und Alter</tei:q>
+        </tei:hi>
+        <tei:q>.</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Ein politisirendes Mädchen von siebzehn Sommern ist ein Schmetterling, der sich auf den Börsenmarkt verfliegt.</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Ihre politisirende Mutter, eine Dame von vierzig Jahren, ist eine Spinne, welche über den Ozean läuft.</tei:q>
+        <tei:seg> (10,13-17)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Romangespräch, das im folgenden Passus von Cäsar eingeleitet wird, macht Gutzkow daraus:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg> </tei:seg>
+        <tei:q>„Die Dampfschiffe fahren zu schnell.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Sie fahren zu langsam und sind für das Auge ermüdend.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Der Gedanke einer feurigen über das Wasser kriechenden Schildkröte steht vor unsrer Einbildungskraft, und wir sind einmal daran gewöhnt, das Kriechen für langsam zu halten.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Ein sonderbares Bild! Worüber nur meine Tante so lacht?“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Ihre Tante ist eine Spinne, die über den Ozean kriecht.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Wie so?“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Sie spekulirt in Papieren.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Sie spricht über Politik: ich verstehe nichts davon.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Verstünden Sie davon, so glichen Sie einem Schmetterling, der sich in die gaserleuchtete Verwirrung eines Salons verflogen hat.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Schmetterlinge sind zu Gleichnissen verbraucht.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>„Wie die Unsterblichkeit selbst.“</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Wally erröthete. Sie blickte auf Cäsars frivoles Lächeln und nahm dies Lächeln für eine Gewißheit, die sie erschrecken machte.</tei:q>
+        <tei:seg> (eGWB I, Bd. 4, pdf 1.1, S. 22)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das </tei:seg>
+        <tei:q>sonderbare Bild</tei:q>
+        <tei:seg> aus den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, das </tei:seg>
+        <tei:q>politisirende Frauen</tei:q>
+        <tei:seg> mit verirrten Insekten vergleicht, wird in </tei:seg>
+        <tei:q>Wally</tei:q>
+        <tei:seg> von der Protagonistin befragt oder gar, was den </tei:seg>
+        <tei:q>Schmetterling</tei:q>
+        <tei:seg> betrifft, als Weiblichkeits-Klischee kritisiert. Ihre kecke, zutreffende Replik lässt Cäsar dann genau zu der Waffe greifen, die er im Hinterhalt führt: Er sticht Wally mit der Bemerkung aus, die </tei:seg>
+        <tei:q>Unsterblichkeit</tei:q>
+        <tei:seg> sei als Metapher ebenso </tei:seg>
+        <tei:q>verbraucht</tei:q>
+        <tei:seg>, und nicht nur als Gleichnis, sondern die Idee </tei:seg>
+        <tei:q>selbst</tei:q>
+        <tei:seg> sei abgenutzt. Hier hört der geistige Schlagabtausch auf; Wally ist innerlich getroffen. Solch </tei:seg>
+        <tei:q>frivoles</tei:q>
+        <tei:seg> Fechten mit Ideen auf Seiten des Mannes macht die Welt der Aphorismen moralisch fragwürdig. Als interessantes Detail bleibt aus dem Vergleich des ‚reinen‘ Aphorimus der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> mit dem des narrativ aufgefächerten in </tei:seg>
+        <tei:q>Wally</tei:q>
+        <tei:seg> zu bemerken, dass das Kriechen der Spinne über den Ozean durchaus in den Bereich der getäuschten bzw. relativen Optik gehört. Aus der Perspektive der Spinne, d. h. der älteren Frau, erscheint die Beschäftigung mit Politik bzw. das Spekulieren an der Börse wie ein rapides Vorwärts auf den Wellen des Weltgeschehens, vergleichbar dem Ozeandampfer. Dass andererseits der verflogene Schmetterling, also die junge Frau, nach Cäsars Worten nicht auf dem </tei:seg>
+        <tei:q>Börsenmarkt</tei:q>
+        <tei:seg> gelandet ist wie im Aphorismus der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>, sondern im </tei:seg>
+        <tei:q>Salon</tei:q>
+        <tei:seg>, wo sie zwar äußerlich brilliert, aber innerlich hilflos flattert, ist eine zusätzliche zynische Anwendung des durchschauend-überlegenen maskulinen Intellekts. Wiederum gibt hier die Bilder-Parallele mit den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> Aufschluss für die Kritik der maskulinen Intellektualität im Roman.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Abschließend gefragt: Wie stellt sich der hoffnungsvolle Jungschriftsteller Gutzkow mit seiner eigenen Gedankensammlung in den Kontext des Literaturmarktes, den er als Realität einer nachidealistischen Epoche ins Visier nimmt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Abschnitt </tei:seg>
+        <tei:q>Guter Rath für werdende Schriftsteller</tei:q>
+        <tei:seg> ist natürlich auch an die eigene Adresse gerichtet: Man solle sein geistiges Kapital, frühreif niedergelegt in dem bereits erwähnten Manuskript von hundert Bogen, niemals konzentriert auf einen Schlag verausgaben, d. h. publizieren, sondern es verdünnen und sparsam davon zehren:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Für dieß Convolut, ich beschwöre dich, suche keinen Verleger! Es ist ein Heckthaler für deinen künftigen Reichthum. Es ist eine Hanswurstjacke, deren Lappen groß genug sind, daß du alle die nachgebornen Kinder deiner Phantasie darein kleiden kannst. Es ist ein Polyp, ein Vielfuß, mit welchem sich noch hundert Torsorumpfe, welche dir der Zufall oder die Speculation eines Buchhändlers in den Weg legen, auf die Beine bringen lassen. Es ist ein Baum, der noch unzählige schlanke, gefällige Ableger treibt. Es ist ein heiliger, züchtiger, erhabener Stamm, mit welchem du alle wilden und üppigen Launen deiner spätern Muse, wie junge, wilde Schößlinge, veredeln kannst. Es ist die indische Abjiagoni, die Gebärmutter der Wolken, der Sterne, des Mondes und unzähliger Welten.</tei:q>
+        <tei:seg> (9,24-10,7)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In der Bilderkette </tei:seg>
+        <tei:q>Heckthaler</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Hanswurstjacke</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Polyp</tei:q>
+        <tei:seg> bzw. </tei:seg>
+        <tei:q>Vielfuß</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Baum</tei:q>
+        <tei:seg> bzw. </tei:seg>
+        <tei:q>Stamm</tei:q>
+        <tei:seg> und </tei:seg>
+        <tei:q>indische Abjiagoni</tei:q>
+        <tei:seg> bzw. </tei:seg>
+        <tei:q>Gebärmutter</tei:q>
+        <tei:seg> konzentriert Gutzkow am Schluss der </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> das Motiv literarischer Kreativität unter industriellen Bedingungen: Aus einem schier unermesslichen, polymorphen Fundus an Ideen und </tei:seg>
+        <tei:q>Phantasie</tei:q>
+        <tei:seg> kommen Werke hervor, die den </tei:seg>
+        <tei:q>fleißigen, schreibseligen Autor</tei:q>
+        <tei:seg> ein Leben lang versorgen können, zuallererst in materieller Hinsicht. Auf Gewinn berechnete </tei:seg>
+        <tei:q>buchhändlerische Speculation</tei:q>
+        <tei:seg> lasse sich durch den märchenhaften </tei:seg>
+        <tei:q>Heckthaler</tei:q>
+        <tei:seg> des eigenen geistigen Schatzes jederzeit bedienen. Dessen Wert besteht aber vor allem im Hinblick auf die stoffliche und ideelle Vielfalt, die das Schaffen des Autors ausmachen wird. Insgesamt winkt dem ernüchterten Idealisten eine Zukunft, in der er ausschließlich vom Druck seiner Erzeugnisse leben kann. Man darf diese Voraussage als außerordentlich scharfsinnig betrachten, was Gutzkows tatsächlichen Weg als späterer Berufsschriftsteller betrifft.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In die Praxis setzte er den eigenen Rat um, insofern er nicht nur Teile der </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> literarisch wiederverwertete, sondern auch die </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> auseinandernahm und in ein Reisetagebuch aus Briefen einbaute. Dieses stammte ebenfalls aus seiner frühesten Schaffensphase, und er veröffentlichte es 1839 zum zweiten Mal. Die erneute Publikation des </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Materials war also Teil einer übergreifenden Wiederverwertung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das stark an Jean Paul angelehnte humoristische Reisejournal </tei:seg>
+        <tei:q>Aus dem Reisetagebuche des jüngsten Anacharsis </tei:q>
+        <tei:seg>(GWB VI, Bd. 4, S. 1-39), in dem Gutzkow seine Rückkehr aus Stuttgart nach Berlin im Anschluss an seine ersten Monate als Mitarbeiter Wolfgang Menzels behandelte, hatte er ursprünglich für das „Morgenblatt“ verfasst, wo es im Mai 1832 erschien. Seine Wiederveröffentlichung 1839 geschah im Rahmen der Sammlung </tei:seg>
+        <tei:q>Skizzenbuch</tei:q>
+        <tei:seg>, die diverse frühere Publikationen Gutzkows enthielt. Das </tei:seg>
+        <tei:q>Skizzenbuch</tei:q>
+        <tei:seg> erschien mit der erklärten Absicht des – inzwischen zu umstrittenem Ruhm gelangten – Autors, sein schriftstellerisches Profil in der Zusammenstellung kleinerer Arbeiten authentischer zu präsentieren, als er es in der Form eines einzelnen Großwerkes könnte. Das </tei:seg>
+        <tei:q>Reisetagebuch</tei:q>
+        <tei:seg> sei eines seiner ersten schriftstellerischen Erzeugnisse gewesen und stilistisch noch sehr ungelenk. Dass Gutzkow es bei der Wiederveröffentlichung mit den ein Jahr </tei:seg>
+        <tei:hi style="letter-sparse">später</tei:hi>
+        <tei:seg> erschienenen </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> anreicherte, zeigt, in welchem Maß er auch diese Gedankensammlung zu seinem beruflichen Anfang rechnete, seinem schriftstellerischen Ausgangspunkt, zu dem er sich sieben Jahre später ausdrücklich bekannte und den er dokumentieren wollte. In den Kontext des </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg> gliederte Gutzkow die Abschnitte aus den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> ein, indem sie als Aperçus an einzelne Brief-Mitteilungen anhängte und jeweils mit Bezeichnungen wie </tei:seg>
+        <tei:q>Denkblatt</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Denkzettel</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>Postscript</tei:q>
+        <tei:seg> oder </tei:seg>
+        <tei:q>Betrachtung</tei:q>
+        <tei:seg> versah. Da die Reise auch durch die fränkischen Gegenden Jean Pauls führt und Gutzkow sogar einen fiktiven kurzen Briefwechsel seines Idols mit den beiden Stuttgarter Schwestern einfügt, an die der </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg> selber seine Korrespondenzen richtet, bildet der Einsatz humoristisch-kontingenten Materials aus den </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> eine weitere Reminiszenz an die Werke Jean Pauls mit ihren Abschweifungen und Verschachtelungen. Damit auch schließt Gutzkow die Nachklänge seiner idealistischen Jugend im eigenen Oeuvre rundum ab. Getreu seiner Maxime, die frühen Ideale zu ehren, war der </tei:seg>
+        <tei:q>Anacharsis</tei:q>
+        <tei:seg> mit den integrierten </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg> für ihn noch im Alter so bedeutsam, dass er ihn in die </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg> aufnahm – und damit nochmals verwertete.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>6.1.4. Exkurs: Der Nachdruck im „Berliner Don Quixote“</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Witz der Saphir-Schule umfasst das Druckbild, in dem der Text präsentiert wird (dazu Lauster: Sketches, S. 48-52). Gutzkows Schulfreund Adolf Glaßbrenner, der Herausgeber des „Berliner Don Quixote“, wählte zum Nachdruck drei </tei:seg>
+        <tei:q>Papilloten</tei:q>
+        <tei:seg>-Abschnitte, von denen zwei sich mit dem Schriftsteller befassen; das Selbstreferentielle des aus der Feder in den Druck gehenden Humors war schon dadurch gegeben. Glaßbrenner hielt sich weitgehend an die typographische Gestaltung von Gutzkows Text im Münchener „Deutschen Horizont“ und übernahm die Absatzeinteilung mitsamt den erweiterten Zwischenräumen sowie die Trennstriche zwischen den thematischen Einheiten. Er druckte auch den Aphorismus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg> sowie die gesamten </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg> nach, jedoch ohne diese Titel und ohne die Trennstriche zwischen Absätzen. Stattdessen versah er jeden Aphorismus am Anfang mit einem graphischen Zeichen, das im Pressewesen für Kurzmitteilungen verwendet wurde, einem Asterisk (*) oder einem Kreuz (†). Die Asteriske stehen vor den beiden Sätzen aus </tei:seg>
+        <tei:q>Jugend und Alter</tei:q>
+        <tei:seg>, die Kreuze, insgesamt fünfzehn, reihen sich untereinander vor den Aphorismen der </tei:seg>
+        <tei:q>Bindfäden</tei:q>
+        <tei:seg>. Dem Leserblick erscheint dies wie ein Sentenzenfriedhof: ein witziges Diktum nach dem anderen sinkt im ephemeren Zeitungsdruck zu Grabe. Anschließend folgt Glaßbrenners Rubrik</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>† Der Journal-Kirchhof †</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>mit ihrer gewissenhaft-humorigen Aufzählung dahingegangener kurzlebiger Blätter, in diesem Fall „Rübezahl“ und „Iris“. Die Mischung aus Lachen und Weinen könnte nicht treffender sein, denn dem eigenen „Don Quixote“ drohte stets das Ende durch Verbot. Die Flüchtigkeit des Daseins war für die gedruckte Satire ein sinnbildlich greifbares Politikum.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:head data-heading-id="Literaturnachweise" first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>Literaturnachweise</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Berliner</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small"> Don Quixote. Hg. von Ad[olf] Glaßbrenner. Jg. 1-2, Nr. 1-204. Berlin: Bechtold und Hartje, 1832-1833. Nachdruck in 2 Bden mit einem Nachwort von Hugh Powell. Hildesheim, Zürich, New York: Olms, 2001. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Forum</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small"> der Journal-Literatur. Eine antikritische Quartalschrift (Sigle FdJL). Hg. von Karl Gutzkow. Bd. 1, Heft 1-2, Fortsetzung: Nr. 1-13. Berlin: Logier, 1831. Nachdruck in 2 Bden hg. von Alfred Estermann. Frankfurt/M.: Athenäum, 1971. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">K[arl] </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">G[utzkow]</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Aus dem Tagebuche und Leben eines Subrektors. In: Berliner Schnellpost für Literatur, Theater und Geselligkeit. Hg. von M. G. Saphir. Nr. 122, 13. Oktober 1829, S. 487; Nr. 123, 15. Oktober 1829, S. 491; Nr. 125, 20. Oktober 1829, S. 497-498; Nr. 126, 22. Oktober 1829, S. 501-502; Nr. 127, 24. Oktober 1829, S. 506-507; Nr. 128, 27. Oktober 1829, S. 510-511; Nr. 130, 31. Oktober 1829, S. 518-519; Nr. 131, 3. November 1829, S. 523; Nr. 133, 7. November 1829, S. 531-532; Nr. 134, 9. November 1829, S. 535. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">Karl </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Skizzenbuch. Cassel u. Leipzig: Krieger, 1839. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">Karl </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Gutzkow</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Vom Baum der Erkenntniß. Denksprüche. Stuttgart: Cotta, 1869. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Jean Paul</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Vorschule der Ästhetik. In: Ders: Sämtliche Werke (Sigle JPSW). Hg. von Norbert Miller. 10 Bde. in zwei Abteilungen. München: Hanser, 1960-1985. Abt. I, Bd. 5, S. 13-456. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">Martina </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Lauster</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Sketches of the Nineteenth Century. European Journalism and its ‘Physiologies’, 1830-50. Basingstoke: Palgrave Macmillan, 2007. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">[Wolfgang </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Menzel</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">:] Humoristische Literatur. 14) Briefe eines Narren an eine Närrin. In: Literatur-Blatt. Stuttgart u. Tübingen. Nr. 7, 16. Januar 1833, S. 25-28. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">M[oritz] G[ottlieb] </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Saphir</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Feier des Jean Paul Festes. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 2: Klatschblätter und Mimosen, oder zufällige Gedanken in zufälligen Formen. S. 133-142. </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">M[oritz] G[ottlieb] </tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:hi style="font-weight-bold">Saphir</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">: Papillotten. In: Ders.: Gesammelte Schriften. 4 Bde. Stuttgart: Hallberger, 1832. Bd. 4: Humoristisch-Deklamatorisches. – Jocoses. – Geselliges, Epigrammatisches und Parodistisches. – Papillotten. – Magister Zickzack. S. 193-248.</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small"> </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">  </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

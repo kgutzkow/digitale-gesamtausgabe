@@ -305,7 +305,11 @@ TAXONOMY = (('', 'gesamtausgabe', (
             ('Richard Wagner\'sche Musik', 'richard-wagner-sche-musik', ())
         ))
     )),
-    ('V. Epigramme, Denksprüche, Gedichte', 'epigramme-denksprueche-gedichte', ()),
+    ('V. Gedichte, Epigramme, Denksprüche', 'gedichte-epigramme-denksprueche', (
+        ('2. Vom Baum der Erkenntniß. Denksprüche - Aphorismen, Einfälle, Denkblätter', 'vom-baum-der-erkenntniss-denksprueche-aphorismen-einfaelle-denkblaetter', (
+            ('Papilloten', 'papilloten', ()),
+        )),
+    )),
     ('VI. Reiseliteratur', 'reiseliteratur', (
         ('1. Briefe aus Paris', 'briefe-aus-paris', ()),
         ('3. Berliner Eindruecke', 'berliner-eindruecke', (
