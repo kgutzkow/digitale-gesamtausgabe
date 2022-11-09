@@ -6,6 +6,8 @@ Wolfgang Rasch: Lebenschronik
 :author: Wolfgang Rasch
 :slug: lebenschronik
 
+**Vergleiche auch den Artikel über Karl Gutzkow von Martina Lauster in der `Deutschen Biographie NDB-online <https://www.deutsche-biographie.de/dbo059687.html#dbocontent>`_**
+
 1811
 ----
 
