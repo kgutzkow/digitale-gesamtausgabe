@@ -20,7 +20,7 @@ test-build:
   script:
     - pip install poetry
     - poetry install --no-dev
-    - poetry run pelican -s publishconf.py -o output -d content
+    - poetry run pelican -s publishconf.py -o output -d content --fatal errors
   only:
     - merge_requests
 
