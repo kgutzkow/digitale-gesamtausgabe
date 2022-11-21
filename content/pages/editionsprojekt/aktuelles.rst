@@ -16,7 +16,7 @@ Aktuelles
 ++++++++++++++++
 
 * | Im Rahmen der *Deutschen Biographie* erscheint von unserer Mitarbeiterin Martina Lauster innerhalb der Online-Ausgabe der *Neuen Deutschen Biographie* der Lexikonartikel über Karl Gutzkow, der den fehlerreichen und umstrittenen NDB-Beitrag von Wilmont Haake aus dem Jahr 1966 (zuerst erschienen im *Handbuch der Zeitungswissenschaft* von 1941) ersetzt: 
-`Deutschen Biographie NDB-online <https://www.deutsche-biographie.de/dbo059687.html#dbocontent>`_.
+  | `Deutschen Biographie NDB-online <https://www.deutsche-biographie.de/dbo059687.html#dbocontent>`_.
 
 **September 2022**
 ++++++++++++++++++
