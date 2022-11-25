@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Knopf im Klingelbeutel. Ein Gleichniß</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Der Knopf im Klingelbeutel. Ein Gleichniß. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 105-126. (Rasch 2.33.1.6)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #der-knopf-im-klingelbeutel-ein-gleichniss"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="105"/>
+        <tei:seg> Der Knopf im Klingelbeutel.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Ein Gleichniß.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="107"/>
+        <tei:seg> Der alte, greise Küster zur Heiligen Dreifaltigkeit hatte den schwarzsammetnen, mit goldnen Palmen gestickten Seckel gar angestrengt und keuchend durch den dichtgefüllten Gottestempel wandern lassen und immer schwerer und schwerer wurde das Uebergewicht an dem obern Ende des langen schwarzen Stiels, den des braven Mannes weiche, wohlgepflegte, heute aber schon vor Mühe kirschroth gewordene Hand durch die offenen Bänke und geschlossenen Zellen, durch die vermietheten Stühle und durch die Reihen derjenigen Andächtigen, die nur stehen konnten, mit manchem unterdrückten oder durch gewohnte Demuth doch sehr gemilderten Zornesseufzer bis in die obersten Chorwinkel dirigirte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Herr Pastor primarius zur Heiligen Dreifaltigkeit, des wandernden Glöckleins mitten im Contexte schon gewohnt, hatte sich nicht irremachen lassen in seinem erhabenen Feuer und predigte gar gewaltiglich und bibelstark über das Evangelium als ein bescheiden Senfkorn.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war April und die Osterzeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Draußen jubelte hier und da schon eine Lerche. Es ging auf die allgemeine Auferstehung der Natur.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="108"/>
+        <tei:seg> Und läßt sich auch das gerade aus einem verstoßenen und unterdrückten, von der ganzen classischen Pracht und Herrlichkeit der alten Welt völlig unbeachtet gelassenen Volke einst gekommene Evangelium irgend einem Bilde treffender vergleichen als einem aus lang versteckt gebliebener Wintersaat ausbrechenden grünen und mächtig sich entfaltenden Wachsthum des </tei:seg>
+        <tei:hi style="letter-sparse">Kleinste</tei:hi>
+        <tei:seg>n?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meister Marcus, der Küster, hätte seine gesegnete Klingelbeutelernte nun eigentlich dicht vor der Sacristei an einen Riegel hängen und sie erst dann ausschütten sollen, wenn Sr. Hochwürden der Herr Pastor primarius die volle, aus dem Senfkorne aufgegangene Saat der Herrlichkeit Gottes zu Ende geschildert, das Vaterunser gebetet, die glücklichen Oster-Brautpaare des ersten, zweiten und dritten Aufgebots proclamirt, dann für den Landesherrn, die Landesmutter und des Landes sämmtliche Räthe und Consistorien gebetet und das Ganze mit dem heißerflehten üblichen Segen Gottes um Alle geendet hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen war die Ernte des Klingelbeutels bei diesem beliebten Prediger immer so groß und so schwer, daß die Sortirung der eingegangenen Münzen ein höchst langwieriges Wechselgeschäft und die sofortige Uebergabe des vorwaltenden Kupfers an eine benachbarte Spezereikrämerin, die seit Jahren diese frommen Bankgeschäfte </tei:seg>
+        <tei:pb n="109"/>
+        <tei:seg> der Kirche in der Sacristei selbst besorgte, ein zu weitläufiges Discontiren veranlaßt hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meister Marcus genoß daher vom hohen Presbyterio des alten Gottestempels der heiligen Dreifaltigkeit schon seit lange das Vertrauen, den Klingelbeutel während der Predigt in besagter Sacristei in Gottes und seiner Ehrlichkeit Namen selbst entleeren, die Münzen je nach Gehalt und Bedeutung auf einen Platz in Rollen aufschichten und vom gerade an jedem betreffenden Sonntag fungirenden Geistlichen dann nur eine einfache Bescheinigung der nunmehr vorhandenen neuen Fonds der Kirche fodern und entgegennehmen zu dürfen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hatte Meister Marcus dies Geschäft in gewohnter lauschiger Stille der mit grünen Fenstervorhängen gar gemüthlich beschatteten, rings von alten, zwar sehr wurmstichigen, aber immer noch nothdürftig erkennbaren ehrwürdigen vorhinnigen Superintendenten und Pastores primarii dieser Kirche geschmückten Sacristei zu Ende gebracht, so setzte sich der treue Pfleger seines Amts, ein etwas dicker und wie man sagte nicht recht glücklicher und nie besonders heiterer Mann, in einen weichen großen ledernen Sessel, der, zum „Urväter-Hausrath“ gehörend, ohne Zweifel einst schwarz gefärbt gewesen war, aber nunmehr schon manches Jahr seine ursprüngliche Farbe, die gelbe, hin und wieder auch schon mit einem bei Tape-</tei:seg>
+        <tei:pb n="110"/>
+        <tei:seg>zierarbeiten sogar erfreulichen Bekenntniß die echte Füllung mit Roßhaaren hervorschimmern ließ.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meister Marcus stärkte sich so von seiner Erschöpfung immer bis zu dem Augenblick, wo sein Ohr ein gewisses Summen vernahm, das ihn schließen lassen mußte, die Orgel beginne die Fuge und begleite, mit oft prächtigen Tonschwingungen, den Ausgang der Gemeinde. Die an den Kirchthüren dann in gelben Becken wiederum in Empfang genommenen anderweitigen Spenden der Mildthätigkeit gehörten einer andern frommen Finanzcontrole an, nämlich dem Armenwesen des Kirchspiels.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So blieb es immer eine gar behagliche halbe Stunde, die Meister Marcus so auf seinem Sessel schlummern und von den Dingen, die ihm zu fehlen schienen, träumen konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Heute nun, wo das Senf- oder Weizenkorn des Evangeliums der Gegenstand der allgemeinen Ostererbauung gewesen war und noch draußen in den Herzen der Hörer wuchs, lagen auf dem grünen Tische vor Marcus ausgebreitet wie sonst die Ergebnisse des Klingelbeutels.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es waren fünf bis sechs lange Reihen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine kleine figürliche Schlachtordnung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Kern des Ganzen war das Kupfer. Dies war gleichsam das Fußvolk, die Kerntruppe. Ein Ertrag, im Einzelnen von geringem Werthe, aber durch die Masse und dann, wenn es die Specereikrämerin in Silber ver-</tei:seg>
+        <tei:pb n="111"/>
+        <tei:seg>wechselt hatte, in seinem couranten Werthe außerordentlich achtbar. Es waren da mindestens dreihundert lachend-rothe alte und neue Pfennige nebeneinander postirt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dann kam eine Reihe Zweipfenniger, so achtbar wie neben den nur einfach Schwert- und Schildbewaffneten sich in alten Tagen die Truppen ausnehmen mußten, die dazu noch eine Lanze trugen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dann kam ein Haufe Dreipfenniger.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kleiner, aber doch ansehnlich gesteigert durch innern Gehalt, war die Reihe der Fünfpfenniger. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dann noch oben (es wurde allmählig eine Pyramide oder jene berühmte Schlachtordnung von Leuktra, die keilförmige Phalanx des Epaminondas und Friedrichs des Großen), dann nach oben standen enganeinandergelegt die Groschen. Es waren ihrer gewiß vierzig.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Spitzer zulaufend kamen zuletzt allerlei progressive Courantstücke.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Spitze der Pyramide war zuletzt etwas stumpf. Denn zwei Achtgroschenstücke stritten sich um den Vorrang.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Thaler etwa, der dem Ganzen einen hübschen Knauf gegeben hätte – ein Thaler – trotz dreißig Equipagen, die vor der Kirchthür hielten – fehlte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Während Meister Marcus schlief und draußen der Pastor primarius beim Wie? seines Themas, also im zweiten Theile seiner Betrachtung war (der erste Theil behandelte immer das Was? der zweite das Wie? und </tei:seg>
+        <tei:pb n="112"/>
+        <tei:seg> der dritte gewöhnlich das Warum? und Wozu?) wisperte es ganz leise, leise in der stillen Sacristei.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es konnten Mäuschen sein.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mäuschen, die sich’s in den alten selten gescheuerten Dielen wohl sein ließen … es konnten Holzwürmer in den Rahmen der alten Superintendenten sein … aber … es waren weder Mäuschen noch Holzwürmer, die zu wispern begannen, sondern es waren auf dem grünen Tische – die Münzen, die Erträgnisse des heutigen Klingelbeutels, die erst leise klingten und klingten und ihre metallenen Mündchen pobirten und bald in eine Conversation übergingen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sichtlich herrschte unter den milden Spenden eine Aufregung. Sie zischelten und tuschelten durcheinander so lebhaft, wie es ungefähr in der Kirche drinnen dann lebendig zu werden pflegt, wenn erstens nach dem Was? zweitens nach dem Wie? und drittens nach dem Warum? oder Wozu? immer eine gewisse Pause eintritt zur Erleichterung der inzwischen zurückgehaltenen katarrhalischen Affectionen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ebenso ertönte es plötzlich, als Marcus entschieden schnarchte, in den Reihen der Münzen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und ihre Aufregung kam von dem seltsamen Vorfalle her, der den Meister Marcus eben auch schon fast zu einem hier doppelt ungehörigen kleinen Verflucht! und sogar: Nein! wie schändlich! Oder wol gar: Nieder-</tei:seg>
+        <tei:pb n="113"/>
+        <tei:seg>trächtig! (Doch verbürgen wir nicht diese Sprache des, wenn nicht mit dem Evangelisten, doch mit dem Evangelium verwandten, braven Marcus) veranlaßt hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es hatte sich nämlich heute in den Klingelbeutel außer den metallischen und selbst im Pfennige beachtenswerthen Werthzeichen ein Gegenstand eingefunden, der offenbar in dieser Sammlung ungehörig war, nämlich ein simpler, an sich höchst harmloser, höchst unbedeutender, aber im Klingelbeutel entschieden zweideutiger </tei:seg>
+        <tei:hi style="letter-sparse">Knop</tei:hi>
+        <tei:seg>f.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was sollte dieser Knopf?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser Eindringling von einem Knopf war nicht einmal, seiner Gattung nach, von Zinn … etwa einer von der Sorte mit fünf durchbrochenen Löchern …, sondern es war ein ganz gewöhnlich hölzerner, wenn auch besponnener Knopf, an dem sogar noch die Fädchen hingen, wie wenn diese soeben erst von irgend einem respectiven Rock oder sonstigen Kleidungsstücke abgelassen hätten. Und ein </tei:seg>
+        <tei:hi style="letter-sparse">neuer</tei:hi>
+        <tei:seg> Rock konnte dieser Rock gleichfalls nicht gewesen sein; denn es lag schon jenes bekannte „verschönernde Grün der Jahrhunderte“, jener gewisse glänzende Hauch der Abnutzung auf dem Gespinnste. Kurz, schon das äußere Ansehen gab dem Knopfe hier unter den Münzen in der That eine traurige Stellung. Dieser zwecklose, überflüssige, nichtssagende Knopf hier unter den für sich selber sprechenden Pfennigen, Dreiern, Sechsern, Groschen, Vier- und Achtgroschenstücken! Die Aufregung der </tei:seg>
+        <tei:pb n="114"/>
+        <tei:seg> Münzen war gerecht. Offenbar hatten sie an dem Knopf einen allgemeinen Feind, eine unwürdige, empörende Nachbarschaft und jedenfalls einen Verrath am Klingelbeutel – und alle witterten sogleich – Tendenz. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ja, fingen zuerst mehrere Groschen an, es ist doch unerhört, wie weit die Unkirchlichkeit der Zeit geht! In diesem Klingelbeutel, den ein uralter heiliger Brauch trotz aller Proteste der Cultusreformer mitten in der Predigt von Herzen zu Herzen wandern läßt und in den jede Seele, die noch zur Kirche hält, ein Scherflein der Liebe steuert und opfert, ein solch abscheulicher Betrug! Ein Knopf im Klingelbeutel! Hintergehen des frommen Glaubens! Täuschung der gläubigen Hoffnung! Wo steht unsere Zeit! Was soll aus einer Welt werden, die so verwildert die Kirche mitten in ihrem Frieden, die Gläubigen mitten in ihrer Andacht verletzt! Hinweg aus unsern Reihen! Hebe dich von uns, du gesponnener, zweckloser, antikirchlicher Uebelthäter!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich hoffe, lieber Leser, die Geschichte meines Knopfs interessirt dich. Aber du möchtest gerne wissen, worauf hinaus? Bekommen wir eine Geschichte zu lesen? Oder ein Märchen? Ein Sinnbild vielleicht? Vielleicht von allen Dreien Etwas? Höre nur zu!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dem Knopf mußte angst und bange werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er fühlte, daß er seinem Werthe nach allerdings hier über manchem veralteten Pfennige einst gestanden hatte </tei:seg>
+        <tei:pb n="115"/>
+        <tei:seg> und vielleicht bei freundlicher Taxation irgend einer guten Schneiderseele noch jetzt über jedem Pfennige stehen konnte; aber für den Klingelbeutel war er allerdings mehr als Null.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn unter Null ist ja alles Das, was einem bestimmten Zwecke gegenüber Das nicht ist, was dieser Zweck voraussetzt. Was ist Holz, wo Eisen nöthig ist? Was schöne Diction in einem Drama, wo man Handlung verlangt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und nun gar der Ruf: Tendenz! Tendenz! Einer Tendenz war sich dieser Knopf am allerwenigsten bewußt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Um den armen Eindringling war es geschehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schon hatten die gewichtigen Münzen den kleinern Muth gegeben – denn es ist merkwürdig, was der Vorgang der größern Nennwerthe bei den kleinern Potenzen immer für Courage und dann auch gleich Fanatismus erzeugt –, schon schleppten Dreier und Pfennige im Geiste Scheiterhaufen für den armen Knopf, der den regelrechten Gottesdienst betrog, zusammen, als plötzlich ein eigenthümliches Klingen unter den Dreiern ertönte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war ein ganz wunderbarer Klang, wie eine Melodie unter heiserm Gekrächz, wie ein Saitenton unter dem Scharren von Stühlen oder Kritzeln von Schiefertafeln, wie eine schöne Tenorstimme unter ungeschulten Sängern, die uns irgendwo von vorüberziehenden Handwerksburschen im Walde überrascht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="116"/>
+        <tei:seg> Es war aber nur ein Moment, daß es so prächtig klang.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alles schwieg eine Weile.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da der Klang nicht wieder ertönte, fand eine Stimme, sie kam von einem Fünfpfenniger, der sich einen Sechser nannte, Zeit, Folgendes zu erzählen, was aus unserer Geschichte sogleich die Vermuthung, sie hätte eine Tendenz (die Tendenzpoesie ist ja verrufen) entfernen wird und aus ihr eine harmlose Anekdote macht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich weiß den Urheber des Frevels, sagte der Sechser. Wir saßen alle still und warm und behaglich in den Börsen und Portemonnaies unserer Spender auf dem zweiten Chore, als wir hinter uns schon während des Gesangs von einem jungen Manne reden hörten, der in keinem sonntäglichen Rock es wagte, sich unter die achtbaren Bürger des Kirchspiels zu stellen. Es war ein blasser kränklicher Jüngling, dessen menschenscheue Art um so mehr auffallen mußte, als dicht neben ihm ein Herr stand, der sich nur den Oberrock hätte zu lüften brauchen, um zu zeigen, daß er eine Art Prinz war. Es war auch, wie mehrere anwesende Schneidermeister und Gemeindeverordnete versicherten, niemand Anders als der Graf Harras, den in der Kirche zur Heiligen Dreifaltigkeit zu sehen ebenso überraschend sein mußte, wie wenn mein späterer frommer Spender, der Actuarius Bellermann, sich plötzlich hätte bei der Landesmutter zum Thee einladen wollen. </tei:seg>
+        <tei:pb n="117"/>
+        <tei:seg> Neben dem Grafen von Harras stand jener junge unsonntäglich gekleidete Mensch, der weder ein Gesangbuch bei sich hatte, noch in ein anderes einsah, noch sich verbeugte, so oft der Herr Pastor einen heiligen Namen aussprach, noch sonst irgend einen Anspruch hatte, sich auf jenem Chor als wahrhaft Andächtiger sehen zu lassen. Er war zerstreut, sah Jeden an, beglotzte Alles, grübelte. Und wie Meister Marcus ankam und den Klingelbeutel Dem und Jenem und Einem nach dem Andern reichte und Niemand seine Gabe in der Hand behielt, sondern wie ein Wohlbekannter vom lieben sonntäglichen Klingelbeutel sonntäglich angeklingelt wurde und seinen sonntäglichen Dreier oder Sechser gab und nur höchst selten einmal Einer, der seine Börse vergessen oder kein klein Geld hatte, blos mit dem Kopfe nickte und den schönen schweren Beutel mit den gestickten Palmen verlegen an sich vorübergehen ließ, da hat es mein alter Actuar Bellermann mit sichtlichen Augen gesehen, daß der fremde Mensch, kurz ehe der Graf Harras an die Reihe kam, der ohne Zweifel die beiden obigen Achtgroschenstücke spendete, sich ganz leise einen schon etwas wackelnden Knopf hinten von seinem Rocke abriß und ihn, wie der Klingelbeutel bei ihm vorsprach, rasch mit verdeckter Hand in die heilige Sammlung warf.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schwerlich hatte der junge Mann gedacht, daß euer </tei:seg>
+        <tei:pb n="118"/>
+        <tei:seg> Actuar und die Nachbarn die Augen statt auf den Geistlichen, auf seine Hand gerichtet hatten.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Worte kamen von den Dreiern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war aber unmöglich ein Dreier, der so entschieden gesprochen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war der wunderbare Ton von vorhin. Es war wie von einer Glocke.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So rein, so voll, so tönend, so hell wie lauteres Gold.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und in der That, es fand sich – daß Meister Marcus mit seinen schwachen alten Augen unter die Dreier – ein Goldstück und sei’s gleich gesagt – einen braunschweigisch-lüneburgischen halben Louisdor gelegt hatte. Das muthige lüneburger Roß auf dem Gepräge schien ordentlich keck hervorzuspringen, Alles scheu auszuweichen. Ein halber Louisdor, ein Werth von beinahe drei Thalern hatte unter den Dreiern gelegen! Der halbe Klingelbeutel konnte damit heute ausgekauft werden. Und nun verstand es sich von selbst, daß eine solche glänzende Erscheinung augenblicklich das Wort erhielt und mit verhaltenem Athem selbst von den nun gestürzten gröbern Courantstücken vernommen wurde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich bin, begann der halbe braunschweigisch-lüneburger Louisdor, im Klingelbeutel fast ein ebenso unberufener Gast wie jener Knopf…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie so? Bitte! Bitte! Die Ehre! Nein! Nein! Hochverehrtester! Gnädigster! Dreißig Equipagen! . .</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="119"/>
+        <tei:seg> So protestirte man durcheinander.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doch! Doch! fuhr die Goldmünze fort. Es mögen Fälle vorkommen, wo auf diesem grünen Tische noch reichere Spenden sich ausbreiten, allein was mich selbst betrifft, so kann ich nur einfach sagen, ich bin aus Zufall hineingeworfen. Ich komme vom Grafen Harras. Der fromme Redner vorhin hat schon gesagt, daß mein Graf in die Kirche zur Heiligen Dreifaltigkeit ebenso gerathen ist, wie wenn der Actuar Bellermann sich bei der Landesmutter zum Thee einlüde. Mein schlimmer Graf besucht selten die Kirche. Er pflegt Sonntag Vormittags seine Briefe zu ordnen, englische Reviews zu lesen, Landkarten vor sich aufzuschlagen, Kupferwerke zu vergleichen, Freunde bei sich einzuladen und sich über die Erdrinde oder die Doppelsterne zu unterhalten. Zuweilen auch schreibt er sich in diesen stillen Stunden die Erfahrungen der Woche auf. Kurzum! Es ist ein Rechter – ein Arger – aber davon erzähl’ ich nicht. Es fehlte ihm ein Schreiber, seitdem sein letzter Secretär einen Staatsdienst erhalten. Unter Hunderten, die sich meldeten, fiel ihm eine zwar nicht sehr schöne, aber mit festen Zügen sich besonders kenntlich machende Handschrift auf, die ihm ein junger Mann, ohne zu wissen an wen, geschrieben. Wollt ihr dies Schreiben hören? Es hängt mit dem Knopfe entfernt zusammen …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Münzen fühlten sich sehr geehrt durch die Herab-</tei:seg>
+        <tei:pb n="120"/>
+        <tei:seg>lassung eines halben Louisdor. Sie hatten zwar Angst, es käme etwas Unpassendes oder wol gar Frivoles vor… Dieser Graf Harras! Diese Unkirchlichkeit! Diese weltmännische Sonntagsentweihung! Sie besorgten eine indirecte Vertheidigung, eine Rechtfertigung des Knopfes. Dennoch flüsterten sie einstimmig: Bitte Ew. Gnaden! Sprechen Sie! Erzählen Sie, Excellenz!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der halbe Louisdor fuhr fort:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Brief lautete: Mein Herr! Ich kann mich durch wissenschaftliche Studien nicht empfehlen, aber durch manche Welterfahrung. Ich bin zu früh von dem Glauben geblendet gewesen, die Welt wäre ein Baum mit lachenden, reifen Früchten, nach denen man nur den Muth haben müsse, zeitiger emporzulangen, ehe uns Andere zuvorkommen. Ich täuschte mich bitter, unreif war jede Frucht, die das Leben mir bisher geboten. Ich verließ meine Aeltern nach unsäglichen Kämpfen mit einem gutmüthigen, aber schwachen Vater und einer Stiefmutter. Ich wurde behandelt, ich glaubte es wenigstens, wie ein im älterlichen Hause wohnender Fremdling. Ich verwilderte. Mein Vater zwang mich zu einem Handwerk, das ich nicht erlernen mochte. Ich entfloh. Ich wollte zu Schiffe. Ich schrieb von einer Seestadt um Unterstützung und erhielt von meinen Aeltern nicht nur kein Geld, sondern Worte des Fluchs statt Segen. Als Schiffslehrling ging ich mit einem Kauffahrer nach Batavia. Ich machte Rei-</tei:seg>
+        <tei:pb n="121"/>
+        <tei:seg>sen drei Jahre lang und stieg auch leidlich, trotz empörender Behandlung. In den Antillen warf mich das Gelbe Fieber nieder. Kaum genesen ergriff es mich zum zweiten male. Ich entging dem Tode, wurde aber in meinen Kräften ein Schatten. Man erbarmte sich meiner, pflegte und unterstützte mich. Ich begann meine alten Kenntnisse zu nutzen; zum Seedienste konnte ich nicht zurückkehren. Ich gewann aber soviel, daß ich die in der Krankheit ganz namenlos gewordene Sehnsucht der Rückkehr zur Heimaterde befriedigen konnte. Ich schiffte mich ein, vervollkommnete unterwegs mein wenig Spanisch, übte mich weiter im Holländischen, Englischen, welche beiden Sprachen ich ziemlich fertig spreche und kehre nun, erst einundzwanzig Jahre alt, aber schon recht unglücklich in meine Heimat zurück. Der letzte Pfennig meiner Baarschaft ist verzehrt. Noch kämpft ein innerer Stolz mit den Stimmen des Herzens, die mich wieder zu meinem alten Vater zurückrufen wollen. Soll ich ihm die Hartherzigkeiten, die ich erduldete, vergeben? Soll ich zu ihm eilen und an seine Liebe mich wenden? Kaum bin ich angekommen, so find’ ich vorläufig die Aufforderung zu einem Dienste als Secretär bei einem vornehmen Herrn. Ich schreibe, da der Name nicht genannt ward, an einen Unbekannten. Wollen Sie mir Ihren Schutz gewähren? Wollen Sie meinen Erfahrungen trauen? Wollen Sie die Wahrheit aller meiner Bekenntnisse prüfen und sich an die mir un-</tei:seg>
+        <tei:pb n="122"/>
+        <tei:seg>günstigste Quelle wenden? Getrost nenn’ ich Ihnen den Namen meines Vaters, der mich verurtheilen wird. Es ist der alte Küster an der Kirche zur Heiligen Dreifaltigkeit: Marcus. Sie finden ihn am sichersten jeden Sonntag wenn der Gottesdienst – – </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weiter kam aber die Mittheilung der Goldmünze nicht.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meister Marcus war erwacht.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Orgel summte.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sacristei belebten Menschenstimmen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Herr Pastor kam von der Kanzeltreppe herab, die gerade in die Sacristei führte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wischte sich nach anstrengender Predigt die heiße Stirn.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Segen des Klingelbeutels wurde flüchtig durchlaufen und der halbe Louisdor richtig wieder für einen Dreier genommen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Draußen klopfte die Spezereikrämerin, die ihr Geschäft des Geldwechsels so ehrlich und in seiner frommen Bestimmung so brav trieb, daß der Heiland ihren Disconto nicht würde vom Tempel verjagt haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie konnte diese Pfennige, Dreier und Sechser in die kleine Handelswelt schicken und nahm wenig Procent.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie ehrlich sie war, ersah man schon aus dem „Wunder,“ das sie über die von </tei:seg>
+        <tei:hi style="letter-sparse">ihr</tei:hi>
+        <tei:seg> sogleich entdeckte Goldmünze ausrief.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="123"/>
+        <tei:seg> Ein Irrthum gewiß! sagte der Pfarrer, der zwar hinlänglich rechtgläubig war, um Vornehme bei sich zu sehen, aber darum doch noch nie einen halben Louisdor im Klingelbeutel gefunden hatte. Ein Irrthum, wie dieser Knopf auch wol kein Betrug gewesen ist, Alterchen, sagte er zu Marcus, als dieser und die Spezereihändlerin ob dieses entsetzlichen Knopfes wetterten. Er kommt gewiß von einem Furchtsamen, der die gewohnte Spende der Andächtigen an sich nicht mochte vorübergehen lassen und voll Kleinmuthes lieber den Schein rettete. Ach, ist es nicht mit der menschlichen Seele zu tausend und abertausend Fällen eben so?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als Meister Marcus nach Hause kam und der Milchreis mit köstlich duftendem Schweinsbraten und gedörrten, mit Zimmet und Zucker bestreuten Pflaumen (sein Sonntagsgericht) auf blendendweißem Tischtuch seiner wartete – er aß als Witwer und kinderlos allein – wollte ihn ein Fremder sprechen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war ein vornehmer Herr, der sich Graf Harras nannte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lieber Meister Marcus, sagte Graf Harras, zu dem, über vornehme Besuche von wegen Trau-, Sterbe-, Geburts-, Taufschein- und Kirchenbuchführung nicht erschreckenden Alten, ich wollte Sie nur in einer gewissen Angelegenheit sprechen und vermuthete Sie heute früh noch vor der Kirche zu treffen, kam aber zu spät. Ich benutzte deßhalb die Muße, dem Klange der Orgel zu folgen, </tei:seg>
+        <tei:pb n="124"/>
+        <tei:seg> um einmal eine gute Predigt zu hören. Das Senfkorn hat mir sehr wohlgethan. Uns träge Gottesbesucher muß manchmal ein wenig etwas Beizendes kommen. Der Geistliche hat’s brav und mild ausgelegt und wie ich überhaupt milden Senf dem allzu scharfen vorziehe, so gesteh’ ich, daß seine Art mir gefallen hat. Aber </tei:seg>
+        <tei:foreign>Moutarde après</tei:foreign>
+        <tei:seg> oder </tei:seg>
+        <tei:foreign>avant diner</tei:foreign>
+        <tei:seg>.… Genug! Meister Marcus, haben Sie nicht einen Sohn?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ueber See, Herr Graf … antwortete Marcus dem etwas frivolen Weltmann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Verstoßen, verloren, verjagt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er that nicht gut. Seine Mutter …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Stiefmutter?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ist todt.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn Sie ihn nun wiedersähen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herr Graf!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Harras öffnete die Thür. Ein blasser junger Mann mit edlem Ausdruck, geistvollen Augen, aber etwas gedrückt, vernachlässigt in seiner Kleidung stand vor dem Alten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Heinrich! rief derAlte, sich am Stuhle haltend.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Thränen flossen an dem Herzen des Sohnes.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Thränen an dem Herzen des Vaters.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Harras erklärte sich geneigt, Heinrich Marcus zu seinem Secretär zu nehmen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte auf dem Chor der Kirche dicht bei ihm gestanden, war nach dem Gottesdienste in das nahe gelegene </tei:seg>
+        <tei:pb n="125"/>
+        <tei:seg> Küsterhaus gegangen, hatte den jungen Mann unter der Hausflur zagend und mit sonderbar gerötheten Augen wieder gefunden, hatte ein Gespräch mit ihm angeknüpft, seinen Namen gehört, einige Worte englisch, holländisch, sogar spanisch mit ihm gewechselt, ihm Hoffnungen gegeben.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie wurden erfüllt. Graf Harras ließ beim Vater den Sohn zur glücklichsten Aussöhnung und als einen vielbeweinten Gast im einsamen, jetzt wie sonnig sich aufhellenden Aelternhause zurück.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die kleine Geschichte ist aus?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nein, aus der stillen unsichtbaren Geisterwelt des Märchens berichten wir noch Folgendes:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als der Knopf im Kamin der Sacristei unter der alten vom Winter übriggebliebenen Asche lag, summte er den stillen Staubatomen, die Alles mit angehört hatten, zur Unterhaltung gelegentlich diese Worte zu:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Sohn sah seinen alten Vater zuerst wieder oben auf dem Chore und in seinem Amte. Er sah den Seckel mit den Palmen, dem Zeichen des Friedens, immer näher und näher kommen. Er sah den Vater die Reihen sich drängen und drücken und beim vierten, beim dritten, beim zweiten Nachbar die Gabe fodern und die Gabe empfangen. Ach, sein Vater kam auch zu ihm. Er sollte seinen Athem seit Jahren zum ersten male wieder fühlen und ihm nur verlegen, nur ablehnend, nur beschämt zunicken? </tei:seg>
+        <tei:pb n="126"/>
+        <tei:seg> Er sollte mit dem Schein der Nichtversöhnung seinen Vater sehen? Er sollte sagen: Ich habe nichts für dich – wie ich denn wirklich keinen Pfennig habe! Und der Vater sollte sagen: Auch einer der mich nicht hätte incommodiren sollen, ihm meine Palmen anzubieten? Nein! Ich kann nicht verlegen nicken, wenn er kommt. Ich kann nicht sehen, daß er sich verdrießlich von mir wendet, Ich muß ihm wie Alle geben. Aber was? Ich habe nichts? Keinen Pfennig! Nichts! Da trennte er sich leise den Knopf vom Rocke und gab ihn mit bedeckter Hand als Spende der Andacht. Der Vater hielt ihm den palmengeschmückten Seckel entgegen, sah ihm, wie er in der Gewohnheit zu Jedem hatte, dankend, freundlich, grüßend, kopfnickend in die feuchten Augen und ging vorüber zu den Andern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Atome der Winterasche in der Sacristei stritten lange über den Fall.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie einigten sich zuletzt darin, daß es – ganz eigene Opfer der Andacht gibt, ganz eigene Spenden, dem Himmel dargebracht und auch ganz eigene Arten, Gott zu dienen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und so oft ihr wieder einmal einen Knopf im Klingelbeutel findet, denkt: Die Opfer der Liebe sind nicht die, die Ihr so regelmäßig </tei:seg>
+        <tei:hi style="letter-sparse">Sonntags</tei:hi>
+        <tei:seg> an die Kirche gebt, sie sind – mannichfalt.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die zuerst 1853 in Gutzkows Familienblatt „Unterhaltungen am häuslichen Herd“ veröffentlichte Erzählung übernahm er drei Jahre später nahezu unverändert in sein Sammelwerk </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg>. Hier fügte er den Untertitel </tei:seg>
+        <tei:q>Ein Gleichniß</tei:q>
+        <tei:seg> hinzu, und ersetzte im Haupttitel den unbestimmten Artikel </tei:seg>
+        <tei:q>Ein</tei:q>
+        <tei:seg> durch den bestimmten Artikel </tei:seg>
+        <tei:q>Der</tei:q>
+        <tei:seg>, vermutlich um die Wiederholung des unbestimmten Artikels im Haupt- und Untertitel zu vermeiden. Der Schlusssatz ist in E weitläufiger konstruiert als in J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Im Journaldruck lautet er aphoristisch-schlicht: </tei:seg>
+        <tei:q>Die Opfer der Liebe sind mannichfalt.</tei:q>
+        <tei:seg> (J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 407.) Ansonsten hat Gutzkow in E lediglich die Absatzgestaltung stark verändert und wesentlich kleinteiliger angelegt als in J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>	2022 ist ein Nachdruck der Erzählung in einer Tageszeitung entdeckt worden (J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>), der von Gutzkow sicher nicht autorisiert wurde und der für die Textgeschichte daher irrelevant ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>  Ein Knopf im Klingelbeutel. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 26, [25. März] 1853, S. 401-407. (Rasch 3.53.03.25.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  [Anon.:] Ein Knopf im Klingelbeutel. (Aus den „Unterhaltungen am häuslichen Herd“ von Gutzkow.) In: Beilage zur Augsburger Postzeitung. Augsburg. Nr. 97, 29.04.1853, S. 335-337. (Rasch 3.53.04.29.3N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Der Knopf im Klingelbeutel. Ein Gleichniß. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 105-126. (Rasch 2.33.1.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">215,8</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Vermuthung</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Vermuthuug</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">217,26</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Es</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Er</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">222,15</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>mannichfalt</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>mannchfalt</tei:sic>
+        <tei:seg> </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

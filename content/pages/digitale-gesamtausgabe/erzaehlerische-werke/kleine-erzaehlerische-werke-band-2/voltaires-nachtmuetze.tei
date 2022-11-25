@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Voltaires Nachtmütze</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Voltaires Nachtmütze. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 97-104. (Rasch 2.33.1.5)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #voltaires-nachtmuetze"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="97"/>
+        <tei:seg> Voltaires Nachtmütze.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="99"/>
+        <tei:seg> In Paris beschäftigt man sich seit geraumer Zeit weder mit der Politik noch überhaupt mit irdischen Dingen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man läßt Se. Majestät den Kaiser, aus der Dynastie </tei:seg>
+        <tei:hi style="letter-sparse">Zufal</tei:hi>
+        <tei:seg>l, herrschen. Der Staat gewährleistet die Eisenbahnen und vorläufig noch die Rente. Die Wohlfahrt und Besserung der untern Volksclassen wird allmälig aus der geheimnißvollen Büchse der Pandora kommen, in welche der Gefangene von Ham einst seine Pläne und Entwürfe legte. Die Mode, diese große französische Sorge, ist das Werk des Wetteifers einiger Directricen in den Magazinen des Faubourg St.-Honoré – kurz, Paris beschäftigt sich, wenigstens als ich zum letzten Male dort war, nur noch mit Dingen, die außer der Zeit und dem Raume liegen, mit den Wundern und dem </tei:seg>
+        <tei:hi style="letter-sparse">Magnetismu</tei:hi>
+        <tei:seg>s.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wo man in Paris hinhört, Gespräche über Träume, Hellgesichte und Schlafwandeln.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Diesseits gibt man auf. Man beschäftigt sich nur noch mit dem Jenseits.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Haben Sie Demoiselle </tei:seg>
+        <tei:hi style="letter-sparse">Clarisse</tei:hi>
+        <tei:seg> besucht? Das mag </tei:seg>
+        <tei:pb n="100"/>
+        <tei:seg> früher so gelautet haben, als sagte man: Waren Sie bei der gefeierten Tänzerin der großen Oper? Bei der liebenswürdigen Schauspielerin am Vaudeville?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Jetzt heißt es: Waren Sie bei jener Somnambule, die in einem mit Teppichen belegten, sogar am Tage erleuchteten Zimmer Blicke ins Geisterreich wirft mit verschlossenen Augen, bei Mademoiselle Clarisse, welche die innersten Gedanken jedes Menschen erräth, den ihr Magnetiseur mit ihrem innern Schauen in Verbindung setzt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie wunderbar die Geheimnisse der Menschennatur sind, hat die Wissenschaft auf diesem Gebiete längst anerkannt; wie künstlich man aber auch durch erhitzenden Pecco- oder Karavanenthee in Paris die Phantasie des Halbschlafes zu steigern versteht, das hat kürzlich der Proceß jenes Herrn Wiesecke verrathen, der mit einer homöopathischen Apotheke vor zwanzig Jahren nach Paris wanderte, dort Französisch lernte, den Charlatan im Großen spielte und sich einen merkwürdigen Einfluß auf die pariser Welt eroberte. Wiesecke war besonders das Orakel aller der Damen in Paris, die mit zwanzig Jahren nur an die Liebe, mit dreißig schon verstimmt an Voltaire, mit vierzig noch verstimmter an Hahnemann, mit funfzig aber jetzt nur noch an den Somnambulismus und an den berühmten Herrn Alexis glauben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herr Alexis hat einen Einfluß in Paris, um den ihn der Kaiser beneiden könnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="101"/>
+        <tei:seg> Louis Napoleon beherrscht doch nur erst den Staat, das Volk von Frankreich, aber Herr Alexis beherrscht bereits in Paris die „Gesellschaft“. Die Gesellschaft, die gewählte, gebildete, sittliche Gesellschaft Frankreichs und besonders von Paris hat den Zweiten December noch nicht anerkannt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber Herr Alexis ist längst der Beherrscher dieser Welt, ihr Orakel, ihr Priester, ihr Zauber Virgilius.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser Herr, ein junger kränklicher Schauspieler, auf der Bühne ohne Talent, vor den Lampen nur mit kleinen Rollen betraut, spielt desto größere in der fashionablen Welt, auf jenen Teppichen und in jenen am Tage erleuchteten Zimmern. Ob er bei diesen Rollen der Weis- und Wahrsagung mehr Talent entwickelt als auf der Bühne, ob er ein </tei:seg>
+        <tei:hi style="letter-sparse">Künstler</tei:hi>
+        <tei:seg> dieses Faches der Schaustellung ist, darüber gibt es abweichende Meinungen. Wir wagen kein Urtheil, aber seine magnetische Gabe ist berühmt, so berühmt, daß wir aus Berlin kürzlich erfuhren, die Hauptstadt Friedrich’s des Großen hätte drei mal die Rachel von Paris kommen lassen, zwei mal schon Roger, jetzt wär’ es im Werke, eine Einladung abgehen zu lassen an Herrn Alexis.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist eine </tei:seg>
+        <tei:hi style="letter-sparse">verbürgte Thatsach</tei:hi>
+        <tei:seg>e, die hier erzählt wird, daß letzten Winter ein Däne nach Paris kam und die somnambule Kraft des Schlafredners Alexis prüfen wollte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="102"/>
+        <tei:seg> Er trat, von Baron Dupoty in seinem Glauben an die Kräfte des Menschengeistes schon vorbereitet – Baron Dupoty läßt die Menschen gehen, stehen, fallen, sich niedersetzen, </tei:seg>
+        <tei:hi style="letter-sparse">ganz nach der Kraft seines Willens</tei:hi>
+        <tei:seg> und ganz nach dem Systeme jenes amerikanischen Doctors, der kürzlich in Hamburg, wo man leider mehr Rindfleisch ißt als in Paris und Philadelphia, für eine ähnliche und misglückte Anwendung seiner magnetischen Einflüsse ausgelacht wurde, – ich sage, jener Däne trat in den Saal, wo Alexis gerade eine Vorstellung seiner Prophezeiungen und Hellgesichte gab.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Däne glaubte an Dupoty, aber er wollte an sich selbst glauben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zu diesem Behufe hatte er einen Gegenstand mitgebracht, den er in ein Tuch eingehüllt streng verborgen hielt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit diesem Tuche trat er an den schlummernden und gerade in voller Seh- und Redekraft befindlichen Alexis und ließ durch den Magnetiseur den Beherrscher der Wunderwelt fragen: ob ihm der im Tuche verschlossene Gegenstand kenntlich wäre und welche Vorstellungen, Erinnerungen, Anschauungen ihm derselbe wecke?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alexis sagte im Schlaf:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich sehe – einen alten Mann – gebückt – krumm – nachdenkend – an einem Schreibtische sitzend. – Der Greis hat die Feder in der Hand – Seine Miene ist </tei:seg>
+        <tei:pb n="103"/>
+        <tei:seg> spottend – seine Augen leuchten – er lächelt – um ihn treten leise die Füße zarter Frauen auf – in seidenen Stoffen – in Stelzschuhen – Bediente – galonnirte – gepuderte – hüten sich in dem – mit Goldleisten verzierten Zimmer – Geräusch zu machen – die Flamme brennt im Kamin – die Füße des Greises stecken in einem Pelze – hinter ihm auf ledernem Sessel hängt – eine Perücke – er taucht die Feder in ein Tintenfaß ein und beginnt einen neuen Bogen zu beschreiben – er dichtet – ich sehe es – es ist die </tei:seg>
+        <tei:hi style="letter-sparse">Henriad</tei:hi>
+        <tei:seg>e.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unser Däne versichert – </tei:seg>
+        <tei:hi style="letter-sparse">wir erzählen eine beglaubigte Thatsache</tei:hi>
+        <tei:seg> –, daß er erschüttert sich von dem Lager des Hellsehers hätte entfernen und in die Vorzimmer zurück gehen müssen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er öffnete dort sein Tuch.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war eine in demselben eingeschlagen gewesene </tei:seg>
+        <tei:hi style="letter-sparse">Nachtmütz</tei:hi>
+        <tei:seg>e, die Voltaire einst zu Ferney getragen, eine Nachtmütze, die von jenem dänischen Reisenden als Andenken an den Sänger der Henriade einst zufällig über die Eider und so nach Kopenhagen gekommen war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir lassen über diesen merkwürdigen Vorfall Jedem seine eigene Empfindung.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Voltaire’s Donnerkeile und die Blitze seiner Feder haben Wunder gewirkt; aber daß im 19. Jahrhundert noch seine Nachtmütze </tei:seg>
+        <tei:hi style="letter-sparse">gegen sein eigenes</tei:hi>
+        <tei:seg> System zeugen, ja seinen Rationalismus selber stürzen helfen </tei:seg>
+        <tei:pb n="104"/>
+        <tei:seg> würde, das ist eine Ironie des Zufalls, über die entweder Oskar von Redwitz einen Vers machen und in ihm die strafende Vergeltung einer höhern Weltordnung, oder ein schalkhafterer Genius den wunderbaren Humor jenes Weltgeistes sehen möge, der über all unserm Wissen, Glauben und Ahnen im reinen Wahrheitslichte schwebt und lächelnd auf ein geistiges Ringen herabsieht, das mit dem Dichter sagen kann:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:hi style="font-size-small">Es spottet seiner selbst und weiß nicht wie.</tei:hi>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die kurze Geschichte, zuerst 1852 in Gutzkows Familienblatt „Unterhaltungen am häuslichen Herd“ veröffentlicht, wurde von ihm vier Jahre später nahezu unverändert in den ersten Band der </tei:seg>
+        <tei:q>Kleinen Narrenwelt</tei:q>
+        <tei:seg> aufgenommen. Lediglich die Absatzgestaltung modifizierte Gutzkow für die Buchausgabe und erweiterte die acht Absätze des Journaldrucks auf 23 im Buch.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J  [Anon.:] Voltaire’s Nachtmütze. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 2, [7. Oktober] 1852, S. 29-31. (Rasch 3.52.10.07.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Voltaires Nachtmütze. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 97-104. (Rasch 2.33.1.5)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">124,9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Herr</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Her</tei:sic>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

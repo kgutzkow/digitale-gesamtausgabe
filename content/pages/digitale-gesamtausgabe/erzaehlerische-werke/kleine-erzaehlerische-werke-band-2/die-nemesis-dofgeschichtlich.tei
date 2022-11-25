@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Die Nemesis. Dorfgeschichtlich</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Die Nemesis. Dorfgeschichtlich. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 159-184. (Rasch 2.33.1.9)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #die-nemesis-dorfgeschichtlich"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="159"/>
+        <tei:seg> Die Nemesis.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Dorfgeschichtlich.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="161"/>
+        <tei:seg> Der Holzenbauer war in Ravensburg und brachte Getreid zu Markt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als er sein Sach verkauft hatte, ließ er sein Gespann mit zwei muthigen Gäulen, die es jetzt, nach dem Holzenhof zurück, leicht hatten, auf dem Markte dicht am Brunnen stehen und ging hinüber ins Wirthshaus zum Ochsen. Er wollte sich nur an einem Schöpple Unter-Türkheimer erquicken, denn vom vielen Reden beim Handeln wär’ ihm die Zung’ trocken geworden. Die Weiber, sagt’ er auch, sind am Brunnen indessen genug und werden schon aufpassen, daß die Gäule gut thun. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Ochsen fand der Holzenbauer den Wiesenbauer, den Lerchenbauer und den Sonnenwirth von Heidheim und sonst noch einige gute Bekannte, die ihm mit ihrer überaus großen Freundschaft, weil sie getrennt von einander lebten und sich nur auf dem Markte zu Ravensburg zuweilen sahen, das Herz schwer machten und auch den Kopf. Sie waren über Krieg und Frieden, über die Steuern und die Getreidepreise ganz Eins, nur über den Unterschied vom Ober- und Unter-Türkheimer stritten sie sich und da Jeder von ihnen dem abweichenden Geschmack </tei:seg>
+        <tei:pb n="162"/>
+        <tei:seg> einen andern Namen zu geben wußte und immer noch ein Tüftele besser sagen konnte, wodurch man diese gar herrlichen Neckarweine zu unterscheiden hätte, so läßt sich begreifen, daß Jeder von ihnen mehr als Einen Schoppen trank.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als der Holzenbauer nach einer Stunde und länger seine Schuldigkeit entrichtet hatte und sich früher auf den Weg machen wollte, als seine Freunde, die es nicht so weit hatten, wie er nach Stetten, trat er auf den Ravensburger Markt hinaus und suchte sein Gefährt am Brunnen. Da er nichts dort von zwei Rossen und einem Wagen mit vier Rädern antraf, so glaubt’ er erst, daß der Knecht im Ochsen das Geschirr in den Hof möchte gezogen haben und die Gäule in den Stall. Der Knecht stand aber schon bei ihm und versicherte ihm das Gegentheil. Ravensburg ist nun nicht so groß, wie Ravenna in Italien, das man das welsche Ravensburg nennen möchte, aber auch nicht so klein, daß man nicht Leute genug auf dem Markte angetroffen hätte, die sich fragen ließen, wo ist das Gefährt hingekommen da vom Brunnen, mit den zwei schwarzen Gäulen? Vor einer halben Stunde hatten’s alle noch gesehen, seitdem aber nimmer. Dem Holzenbauer war sein Fuhrwerk entweder durchgegangen oder man hatte es ihm gestohlen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So etwas kommt in Ravensburg und überall vor. Und in Ravensburg dazumal noch ehnder als anderswo, </tei:seg>
+        <tei:pb n="163"/>
+        <tei:seg> denn es war just ein gefährlicher Dieb aus dem Zuchthause in Gmünd ausgebrochen und machte schon lange die Gegend unsicher, von den obern Steigen herab bis hinunter an den Bodensee, trotz der vielen Brigadiers, die im Auftrage der öffentlichen Sicherheit eine so weite Strecke entlang aufgestellt sind. Es lief auch gleich Allen, die das Schreien und schreckliche Wundern des Holzenbauern hörten und herzurannten, der Name Jäckle auf die Zunge; Jäckle hieß der schreckliche Dieb, vor dem sich männiglich seit ein paar Wochen in der Gegend nicht genug hüten konnte. Und ob es nun der Jäckle war oder sonst ein schlechter Kerl, die Gäule des Holzenbauern waren eben fort und der Wagen mit ihnen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In Ravensburg stand damals ein sehr verdienstvoller Brigadier. Er hieß Speidle. Wie die Leute sich auf ihn verlassen konnten, ersah man daraus, daß kaum der Jammer und das Hin- und Wiederrufen des Holzenbauern, der sich einbildete, die Gäule müßten sein Ho! Ha! He! unter allen Umständen, wenn sie nicht eben gar zu weit wären, doch vernehmen, den Markt entlang scholl, auch schon der Speidle zur Hand war und erklärte: Das ist ein Stückle vom Jäckle; der Lump ist heute früh auf der Altdorfer Straße gesehen worden!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zehn Kronenthaler, schrie der Holzenbauer, zehn Kronenthaler geb’ ich, wer mir mein Gefährt wieder schafft und wären’s nur die Gäule allein! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="164"/>
+        <tei:seg> Das war ein Wort! Der Holzenbauer hatte etwas Großes ausgerufen. Zehn Kronenthaler! Er hatte Zeugen ringsum und nicht nur Einmal wiederholt’ er’s, sondern so oft, daß es auch der Brigadier hören mußte, auch wenn eine Belohnung nicht im Mindesten das war, um was allein schon er das Fuhrwerk einholen mußte und den muthmaßlichen Räuber ohnehin. Daß er noch zögerte und nicht schon sein Pferd, welches im Ochsen stand, vorgeführt begehrte, lag nur noch an den Informationen, die er sich am Brunnen von Frauen, von einigen Kindern und alten Männern, die unter den vielen Wägen, die auf dem Markte leer standen, auch den des Holzenbauern noch, wie gesagt, vor einer halben Stunde gesehen haben wollten, holen zu müssen glaubte, ehe er an’s Werk ging. Doch scholl auch ihm das Wort: „Zehn Kronenthaler geb’ ich!“ mit seinem ganzen hellen Silberklang ins Ohr und es spornte nicht wenig seinen Eifer, ob er auch so that, als spräche nur der Vorfall ganz für sich selbst und lohne sich die Wiedereroberung am allerbesten dadurch, daß sie gelänge.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Waren dem Holzenbauer beim Heraustreten aus dem Ochsen vom vielen Streiten über den Türkheimer, den obern und den untern, zwar die Häuser von Ravensburg – ich will nicht sagen, daß sie alle so fest stehen und daß man ihrer etliche nicht auch ohnehin müßte wacklig nennen – wie in einem Nebel durch einander gegangen, so </tei:seg>
+        <tei:pb n="165"/>
+        <tei:seg> hatte ihm doch jetzt sein jäher Schrecken so sehr die Besinnung wiedergegeben, daß er nicht nur die Condolationen, sondern schon die Tröstungen seiner guten Freunde nicht nur, sondern von halb Ravensburg mit klarem Bewußtsein entgegennehmen konnte. Von allen Seiten scholl es laut wieder: Der Speidle macht’s! Der Speidle, das ist Einer! Der Speidle bringt die Gäule wieder! und mitten durch rollte es durch die Umstehenden, gerade so rund, als wären sie schon ausgezahlt: Zehn Kronenthaler kriegt er! Man sagte das nicht allzulaut; denn Speidle hielt auf seine Würde als Brigadier, gestattete keine Vertraulichkeit und war nicht umsonst in Ludwigsburg fünf Jahre Exerciermeister auf dem Glacis gewesen. Aber laut genug war’s, daß der Holzenbauer doch den gewaltigen Anklang des Preises vernahm, den er ausgesetzt hatte. Schon als er lange nicht mehr rief: Zehn Kronenthaler geb’ ich! riefen’s die, die um ihn her standen, und schon saß Speidle auf seinem Braunen, schnallte die Zügel länger, rief seiner Frau noch zu, wenn er über Nacht ausbliebe, thät’s nichts – sie war’s schon gewohnt, daß der Mann zuweilen in den Wäldern campirte – gab dem Braunen die Sporen, und auf und davon sprengte er zum südlichen Thore hinaus auf Stadel zu; denn das wußt’ er schon, war es der Jäckle, der das Gefährt gestohlen hatte, so hatte der damit gesucht, in’s Weite zu kommen und wo möglich den See und von da das Schwei-</tei:seg>
+        <tei:pb n="166"/>
+        <tei:seg>zergebiet zu erreichen, auch wenn er die Gäule hätte sollen eine halbe Stunde weit vom Dampfschiff, das bei Mörsburg landet, im freien Felde stehen lassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lieber Leser, es ist schon gar lange her, daß ich mich auf die Gerechtigkeitspflege in Würtemberg nicht mehr so verstehe, um dir genau zu schildern, wie der Ritt eines Brigadiers auf der staubigen Landstraße sich äußerlich gemacht hat. In meinen jungen Jahren konnte man nicht von Stuttgart nach Heidelberg reisen, ohne nicht immer seinen gehörig vidimirten Paß den Brigadiers herauszubändeln. Tragen sie grüne Uniformen mit rothen Aufschlägen und Casketts von glänzenden Wachsleinen, oder haben sie auch die preußische Sturmhaube schon über sich kommen lassen, ich weiß es nicht, und nur das kann ich vom Speidle sagen, daß sein Säbel nicht wenig klapperte, sein Brauner nicht wenig aussprang und daß er schon im nächsten Dorfe über ein rasch dahin fliegendes leeres Bauergefährt Mittheilungen erhielt, die so gut wie eine entdeckte Spur waren.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Spur ging aber vom See ab und auf das Badische. Dank unsrer kräftigen und das Vaterland so stark machenden deutschen Einheit, der würtembergische Brigadier brauchte vor dem badischen Grenzpfahl nicht zu stutzen. Sein Roß durfte, so schweißgebadet es war, sich weiter tummeln auf Salem zu. Es war keinem Zweifel unterworfen, Speidle war dem Räuber auf der Fährte. </tei:seg>
+        <tei:pb n="167"/>
+        <tei:seg> Alle Zeichen trafen zu, alle Aussagen bestätigten die eilende Hast eines Bauernwagens mit zwei Gäulen, und auch das verwilderte Ausschauen des Führers war bereits diesem Feldarbeiter und jenem Schäfer genugsam aufgefallen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Inzwischen war es Abend geworden. An einem Spätsommertage geht die Sonne noch immer nicht so zeitig zur Ruhe, aber gegen acht Uhr wird es doch schon dunkel und bereits gab Speidle auf, wenigstens mit dem Gaule, den er noch ritt, den flüchtigen Dieb zu erreichen. Er war von Mittag eilf bis acht Uhr Abends ununterbrochen, hier und da nur seinen Braunen in der Eile ein wenig verschnaufen lassend, geritten. Nur der Jäckle konnte der Dieb gewesen sein. Ohne Zweifel suchte der aber den See just zu vermeiden, hielt sich an die waldigeren Wege und wollte zuletzt wol über Schaffhausen zu in die Schweiz brechen. Jäckle war einer der gefährlichsten Verbrecher, doch von keinem persönlichen Muthe. Speidle hatte zwar seine Pistolen in den Halftern schußfertig, aber er wußte, daß er nur auf den Jäckle anzulegen brauchte, um ihn sogleich zu Stand zu bringen. Und beinahe wär’ es dazu gekommen. Denn schon im Begriff, in St. Gilgen, einem Dorfe oberhalb Ludwigshafen, sein Pferd im Wirthshaus zum Löwen einzustellen und sich irgendwie ein frisches zu verschaffen, und wär’ es ein Bauernpferd, das er als tüchtiger Reiter schon in Gang zu bringen </tei:seg>
+        <tei:pb n="168"/>
+        <tei:seg> verstand, entdeckte er die unmittelbarste Nähe des Flüchtlings. Auf der Landstraße jagte der mit dem Wagen dem Walde zu. Speidle ihm nach. Der Wald war noch nicht erreicht, als der Dieb, den Speidle sogleich als den entsprungenen Jäckle erkannte, vom Wagen sprang. Er stürzte. Das Fuhrwerk hielt stille. Jäckle raffte sich wieder auf und lief spornstreichs zum Wald. Speidle hätte seinen Gaul nur noch ein klein wenig anspornen dürfen und er würde den Verbrecher ergriffen haben. Aber so geht es den Menschen, selbst den in grüner Uniform mit rothen Aufschlägen. Das Wort: Zehn Kronenthaler! hatte den Speidle so in Beschlag genommen, daß er, wie er nur des Holzenbauern todtmüde Gäule vor sich und nur den neugebauten, stattlichen Leiterwagen mit seinen dampfenden Achsen sahe, augenblicklich das Gefühl hatte, als müßte er sagen: Je nun, das Ziel deiner Mühe ist erreicht. Mit dem Jäckle hat’s heute nicht so eilig!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Augenblick der Genugthuung, den Wagen und die Pferde des Holzenbauern zu besitzen, war allerdings nur kurz, nicht länger als eine freudige Betrachtung über die vorläufig gelungene Hauptsache seiner Bemühung, aber immer lang genug, um den Jäckle bis dicht an den Wald entfliehen zu lassen. Speidle jagte ihm zwar einige Roßlängen nach. Er hätte aber, als er im Gebüsch verschwand, absteigen, sein Pferd anbinden, mit geladenem </tei:seg>
+        <tei:pb n="169"/>
+        <tei:seg> Pistol ihm folgen müssen – heute lagen zehn Kronenthaler zwischen ihm und seiner Pflicht. Er ließ den Jäckle laufen und kehrte zu seinen Trophäen zurück, die er nach St. Gilgen führte und im Wirthshaus zum Löwen unterbrachte. Den drei Rossen that die Ruhe noth, wie ihm selbst. Er übernachtete in St. Gilgen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am folgenden Morgen machte sich Speidle gemächlich auf den Heimweg.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Knecht übernahm für ein Billiges, das Fuhrwerk zu regieren. Speidle ritt hinterher.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie er so allem Vorgefallenen von gestern nachdachte, kamen ihm ganz eigene Gedanken.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war an sich zwar tröstlich und konnte seinem Stolze nur schmeicheln, sich zu denken: Heut Abend ziehst du in Ravensburg ein und bringst das Gefährt des Holzenbauern, den läßt man auf morgen in die Stadt rufen und der Amtmann übergiebt ihm feierlich, was ihm wieder der Brigadier Speidle gerettet hat!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen, wenn er nebenbei, an Händen und Füßen geschlossen, oder an seinen Gaul gebunden auch den Jäckle hätte neben sich laufen gehabt, es hätte ihm fast wohler gethan.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte zwar in seinem Gewissen eine Menge guter Fürsprecher, die ihm sagten: Ei, Speidle, sei kein Narr, gieb dich mit dem, was gelungen ist, zufrieden! Aber diese guten Fürsprecher und Freunde, die wir in solchen </tei:seg>
+        <tei:pb n="170"/>
+        <tei:seg> Fällen in unserm Gewissen Kreuzfeuer schießen haben und die Skrupel zum Teufel jagen und uns zuletzt mit einem schönen weißen Unschuldsmäntelchen als Triumphator ausstaffieren, werden mit der Zeit in solchen Fällen immer kleinlauter, verschießen ihr Pulver immermehr und wenn es recht an’s Triumphiren gehen soll, ist das Mäntelchen so klein, so kurz, so knapp, daß es kaum unsre Blöße bedeckt, geschweige gar uns mit Würde und Erhabenheit bekleidet … Speidle war ein so großer Exerciermeister in Ludwigsburg gewesen, er hatte für mehrere Capitulationen an seinem Arme so prächtige, silberne Litzen tragen, er war ein Brigadier, dem es nicht fehlen konnte, irgendwo noch zuletzt bei einem Rent- oder Gefäll-Amte einen achtbaren Ruheposten für seine alten Tage zu bekommen, er hielt ganz Ravensburg, selbst den Amtmann so in Respekt, daß ihn Niemand vertraulich zu behandeln wagte und am wenigsten etwa ein Bauer auf die Schulter klopfen und mit einem Hört einmal, er! anreden durfte – dafür war er, wie er zu sagen pflegte, zu lange in Eßlingen auf „die hohe Schule“ gegangen – und nun hätte möglicherweise der Amtmann doch seine goldne Brille in die Höhe ziehen und wiederholen können, was schon seit gestern Abend vor’m Einschlafen sein Gewissen sagte: Aber Himmeltausendsakkerment! Den Jäckle einzufangen wäre denn doch, dächt’ ich, wichtiger gewesen, als nur das Gefährt vom Holzenbauern: der Zuchthausverweser von Gmünd </tei:seg>
+        <tei:pb n="171"/>
+        <tei:seg> hätte Ihnen einen schönern Dank gesagt, der heller im Lande und vor Ihrem König geklungen hätte, als den die zehn Kronenthaler vom Holzenbauer geben werden!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen es war nun nicht anders. Speidle brachte nicht den Jäckle, sondern nur den Wagen und die Pferde des Holzenbauer heim. Und sein rebellischer Brummer im Herzen hätte auch schweigen können, wenn’s auf die Ravensburger angekommen wäre. Denn die liefen aus allen Thüren und guckten aus allen Fenstern als es hieß: der Brigadier hat’s richtig wieder gewonnen! O das ist Einer! Und die Art, wie er’s gewonnen, hatte er wohl schon ein dutzendmal erzählen müssen, ehe nur sein Brauner wieder beim Ochsenwirth im Stalle stand – das Thierle war dort in Kost und Logis – und im Protokoll auf dem Amte mußt’s dann auch noch ausführlich gesagt werden und was das schönste war, der Herr Lechler, Amtmann in Ravensburg, war dem Brigadier in alle Wege gewogen. Er schüttelte zwar etwas lächelnd den Kopf über den nicht mitgebrachten Jäckle. Er schrieb gleich ins badische Waldgebirg hinauf und zeigte denen da um Waldhut herum an, vor Wem sie sich nächst dem Hecker und Struve dort am meisten jetzt in Acht zu nehmen hätten… einige Hms! Hms! Ei, ei! unter seinem Schnurrbart und sein Schade um den Jäckle! so hervorgebrummt, waren für Speidle nur kurz schmerzende Stiche in’s Gewissen; indessen ein Aufhebens machte Herr Lechler doch nicht davon. Seinem Brigadier gönnte er zehn </tei:seg>
+        <tei:pb n="172"/>
+        <tei:seg> Kronenthaler von ganzem Herzen. Hat man dann noch eine muntre und resolute Frau und Kinder, denen ein paar neue Hosen gar nicht schaden können, so kommt man in solchen Fällen auch über das Gewissen hinweg.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie es mit dem nun fast beim Speidle schon zur Ruhe gegangen war und seine Erwartungen nur noch in dem nächsten Morgen lebten, wo der Holzenbauer zu verhoffen stand, um sich sein Eigenthum abzuholen, da mußte es ihm denn freilich wie ein furchtbarer Donnerschlag kommen, daß am selbigen nächsten Morgen der Holzenbauer in seiner zufälligen Abwesenheit auf dem Amte in Ravensburg angekommen, dort die Protokolle sämmtlich unterschrieben, die Gebühren auch, auch was für den Knecht aus St. Gilgen und für Fütterung im Löwen und sonst verlegt worden war, bezahlt hatte, ihm dann aber gerade beim Hinuntersteigen der Treppe im Amtshause begegnete und auf ein Schön Dank! das er dem Brigadier nicht versagte, auch nicht die mindesten Anstalten folgen ließ, die ausgerufnen zehn Kronenthaler zu bezahlen. Es standen ihrer Leute genug in der Nähe, die die vorgestrige Versicherung, die wie ein amtliches Ausschellen so feierlich erklungen, gehört hatten und dem Holzenbauer jetzt einen Lumpen über den andern nachrufen konnten, als er sich vorm Amtshause auf seinen Wagen setzte, die Peitsche ergriff und mit einigen derben Flüchen über die Kosten, die er ohnehin schon genug gehabt hätte, und die Versäumniß </tei:seg>
+        <tei:pb n="173"/>
+        <tei:seg> vollends richtig auf und davon machte. Von den zehn Kronenthalern selbst war und blieb keine Rede mehr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Speidle ward erst kreideweiß. Er war zu stolz, den Pferden des Holzenbauern in die Zügel zu fallen, aber das konnte er sich doch nicht versagen, zitternd auf die Amtsstube zu fliegen und dort zu fragen: Hat der Holzenbauer wirklich die zehn Kronenthaler nicht bezahlt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hier kam ihm zu Gehör, daß man den allerdings an seinen Preis erinnert, doch nur ein halb verlegnes, halb dummdreistes und eigentlich recht spitzbübisches Dreinlachen geerntet hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Speidle sah verbissen und krampfhaft den Amtmann an. Lechler zuckte die Achseln und meinte: Es ist darüber nichts Schriftliches aufgesetzt worden. Diese Bauern sind eben nicht anders und der Holzenbauer ist schon einer von den schuftigsten!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Speidle hatte seinen Zorn weg und seinen ganzen unbeschreiblichen Schmerz. Er war schon mit dem bürgerlichen Leben genugsam vertraut, um zu wissen, was es heißt, wenn von einer Verbindlichkeit gesagt wird, sie ist nicht zu Papiere gebracht. Es ging dann nun wohl noch durch die ganze Stadt wie ein Flugfeuer, was der Holzenbauer für ein Lump wäre, die Einen verwünschten ihn, Andre lachten aber auch schon längst, denn der Polizei einen Aerger gemacht zu sehen, thut Manchem wohl, selbst </tei:seg>
+        <tei:pb n="174"/>
+        <tei:seg> Leuten, die noch nicht zu den Schlimmen gehören. Lacht mancher doch unwillkürlich, wenn ein Andrer auf dem Eise ausgleitet. Es mag auch possirlich genug gewesen sein, die Vorstellung sich auszumalen, wie der Brigadier nach Hause kam und seine Frau, die nicht aus Ravensburg war, sondern aus Biberach und in Biberach schon Vieles besser gefunden haben wollte, als in Ravensburg, zu ihm sagte: Nun, wo hast du deine zehn großen Thaler? und der Speidle ihr dann sagen mußte: Es ist halt nichts; wir müssen sehen, wie wir mit unsern alten Gardinen noch so lange auskommen und mit den Ueberzügen der Betten, ob sie’s gleich nöthig hätten, daß sie ausrangirt würden; die Zeiten sind nun eben nicht darnach!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So malte man sich’s aus und wie es auch war und was auch die Frau Speidle gesagt haben mochte, der Brigadier hatte seinen Schmerz weg, und wenn wir’s offen sagen sollen, so sah er ihn schon lange für eine Strafe an und wußte recht gut, wofür. Er brauchte nur dem Amtmann ins Gesicht zu sehen, da stand in Fraktur geschrieben: Es geschieht Euch schon recht, Speidle! Und jedes Tintenfaß auf der Kanzlei sprach so und jede abgestumpfte Feder und jeder leere Bogen Protokollpapier sagte: Sei nur froh, Speidle, daß es nicht noch schlimmer kommt!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Holzenbauer aber hatte sein Gefährt und war froh, daß die strengen aber warlich begründeten Vorwürfe </tei:seg>
+        <tei:pb n="175"/>
+        <tei:seg> seiner Mareili daheim allmälig nachlassen mußten. Denn die Schrecken, die er an demselbigen Markttag hatte überstehen müssen, als er auf den Holzenhof Abends zu Fuß heimkehrte und auf das kurze aber zum Tod verwunderte: Jo, aber Sepple wie kommst mir denn vor? seines Weibes nur seine klägliche Geschichte vom Brunnen und vom Ochsen und vom Ober- und Unter-Türkheimer erzählen konnte und nichts, aber auch rein gar nichts zu seiner Entschuldigung hatte vorbringen können, als die „unmenschliche“ Freundschaft des Wiesenbauern und des Lerchenbauern und des Sonnenwirths, wünschte er sich nicht zum zweitenmale.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Mareili war auch nach dem Wiedererlangen des Verlornen noch lange nicht zu beruhigen. Erst die mit Behagen empfundene Thatsache, daß der Holzenbauer wenigstens </tei:seg>
+        <tei:hi style="letter-sparse">die</tei:hi>
+        <tei:seg> „fürchtige Dummheit“ nicht begangen und dem Volk da in der Stadt noch zehn Kronenthaler, wie sie sagte „in den Rachen hinein gejagt“ hatte, milderte allmälig die Spannung und den Druck, der auf dem Holzenhofe das ganze Wohlgefühl über die leidlichen Getreidepreise für den heurigen Herbst zu beeinträchtigen gedroht hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Holzenbauer aber selbst nagte und wurmte etwas, dem er nicht gut Worte zu geben wußte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gewissensbisse über eine, nicht mit Ehren eingehaltene moralische Verbindlichkeit möchte ein etwas zu vornehmer </tei:seg>
+        <tei:pb n="176"/>
+        <tei:seg> Ausdruck sein für das was in Sepple’s Innern vorging. Hatte er doch ohnehin zu behaglich in sich hineingelacht, als er so mir nichts dir nichts von dem Amte in Ravensburg mit seinem Gefährt abfahren konnte und dem Brigadier, der es ihm gerettet, das Nachsehen ließ. Im Wirthshaus zu Stetten, wenn er den Unfall erzählte, hatte ohnehin Mancher gelacht über den Spaß und den Holzenbauer jetzt für einen rechten Schlauen erklärt, den die Gemeinde früher von so einer pfiffigen Seite noch gar nicht gekannt hätte. Daß es eines Brigadiers verdammte Schuldigkeit sei, für das Wohl und Wehe der Menschen in Würtemberg zu sorgen, stand ja bei jedem gesegneten Kreuzer fest, den man an schweren Steuern zu entrichten hatte. Ja, so verschiedenartig sind die Begriffe von dem, was die Menschen Anstand, Muth und Klugheit nennen, daß man sich auf drei Stunden Weges rings um Stetten schwerlich hätte nehmen lassen, den Holzenbauer, wenn er wirklich die zehn Kronenthaler gezahlt hätte, sein lebelang, da er der Mann nicht war, derlei als etwas Großes von sich zu geben und mit einem Nimbus und zu einem: Man muß aber sagen, der Holzenbauer! herauszustellen, zum Stichblatt und Spott aller Wirthshausunterhaltungen zu wählen. Bis in einige und noch ein paar Generationen hinaus hätte man sich die Geschichte von dem Holzenbauer dazumal erzählt, wie der kläglich sein Gefährt in Ravensburg verloren und, als ers wiedergekriegt, </tei:seg>
+        <tei:pb n="177"/>
+        <tei:seg> noch zehn Kronenthaler hätte obenein bezahlen müssen! Kurz, die Geschichte, wie sie jetzt lag, gereichte dem Holzenbauer eher zum Zuwachs als zur Abnahme seiner gemeindlichen Geltung und örtlichen Würde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Anders war es aber mit des Holzenbauern Namen in Ravensburg. Es konnt’ ihm zwar gleich sein, ob ihm der Wirth im Ochsen keinen guten Tag bot, wenn er den Markt besuchte; er kehrte vorm Thore eben im Waldhorn ein. Auch vor dem Speidle selbst, dem er oft begegnete, half ihm sein verlegnes Lachen. Das kam immer noch kecker hervor, als Speidle ertragen mochte; denn der blickte schon viel früher zur Erde, wenn er den Wortbrecher sah, als der Holzenbauer. Und ich will da nicht vom Gewissen reden. Angeführt zu werden, von einem so dummen Bauer aus Stetten, das war ihm sicher beschämender, als diesem sein gebrochenes Wort.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nun gehen aber im Menschen, selbst wenn er nur im langen Rock mit metallnen Knöpfen, einer rothen Weste, gelbledernen Hosen und einem dreieckigen „Nebelstecher“ durch die Welt zwischen dem Holzenhof, seinen Aeckern und der Gemeindewaldung von Stetten so hin und her trottelt, gar seltsame Grillen durch den Kopf. Allerlei Dämonen, die nicht gut nicht böse sind, sind immer in der Menschenbrust geschäftig, der Eine zu rathen, der Andre zu verwarnen und besser ist besser! und, Faß’ es lieber beim Schwanz als bei den Hörnern! und dergleichen uralt </tei:seg>
+        <tei:pb n="178"/>
+        <tei:seg> Ewiges und so lang die Welt steht Grundwahres ihm zuzuwispern. Die Köpfe, die so ganz in Nichts versunken sind und nur auf das nächste Mittagsbrod gerichtet, sollen selbst unter denen, die nur die Kühe hüten und sich die Sonne in den Mund scheinen lassen, noch geboren werden. „Es strebt der Mensch, so lang er lebt.“</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Holzenbauer konnte nicht ganz über das Gefühl hinweg, dem Brigadier doch einen schlechten Streich gespielt zu haben. Er war zwar weit entfernt von der Zartheit der Gefühle, die ihm ein Wiedergutmachen seiner Schuld angerathen hätte, doch tappte er in dem beneidenswerthen Dunkel, in dem sich das Gewissen aller dieser Menschen über die merkwürdigsten Dinge, die Unsereins schon längst in Verzweiflung gebracht hätten, zu halten versteht, so allmälig und allmälig in eine Stimmung hinein, die es ihm als eine höchst respektable und eigentlich einer öffentlichen Belobigung, etwa im Schwäbischen Merkur, würdige That erscheinen ließ, wenn er z. B. von seinen im September nunmehr geernteten Grundbirnen (Kartoffeln) einen Sack voll und keinesweges den schlechtesten, sondern im Gegentheil den strammsten und gefülltesten, dem Brigadier Speidle in Ravensburg für den Winter zum Geschenk machte!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unser geläutertes Gefühl wird sagen: Ja, warlich! ist denn da von jenen zehn verweigerten Kronenthalern ein Uebergang möglich zu einem dennoch gespendeten </tei:seg>
+        <tei:pb n="179"/>
+        <tei:seg> Sack mit Grundbirnen? Wie kann ein Mensch, der uns die Hoffnung auf sieben und zwanzig Gulden dreißig Kreuzer geraubt hat, annehmen, daß ein Gegenstand von fünf Gulden dem Betrognen Ersatz bieten könnte? Und wie ist überhaupt dem Holzenbauer noch eine Anknüpfung an das Ehrgefühl des Brigadiers möglich geschienen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das mag bei Euch, die Ihr dies lest, unglaublich erscheinen. Dem Holzenbauer aber, in einem mit mäßigem Phosphor erleuchteten Schädel, dessen Welt schon am nächsten Heck die Sicherheit des gewohnten Denkens verliert, gestalteten sich wunderliche Ideengänge. Mit demselben Lachen, mit dem der Holzenbauer damals vom Amte, ohne die zehn Kronenthaler erlegt zu haben, wegfahren konnte, konnte er sich auch jetzt wieder und noch dazu ohne viel Sentimentalität sagen: Der arme Kerl da, der Brigadier hat nun gar nichts bekommen, aber ein Sack mit Grundbirnen ist doch immer noch besser, als gar nichts! Und in dieser Hoffnung auf Annahme, diesem Gefühl, das aus der Spekulation entstand, erstens in Ravensburg wieder im Ochsen einkehren zu können, der ihm seiner guten Freunde wegen allerdings zuletzt genehmer blieb, und zweitens die ewige, zwar nicht lästige, aber doch abschlußlose Beunruhigung seines Nachdenkens durch die Erinnerung an jene Vorfallenheit ein für alle mal zu beschwichtigen, lud er denn in der That eines Morgens, </tei:seg>
+        <tei:pb n="180"/>
+        <tei:seg> an einem kalten October-Tage, wo er wieder in Ravensburg Geschäfte hatte, den vollsten Sack mit Grundbirnen auf seinen Wagen mit dem festen Vorsatz, beim Speidle anzufahren und ihm für den Winter sothanes freiwilliges Geschenk zu überbringen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und er durfte sich, als er so nach Ravensburg hinüber fuhr, eingestehen, daß ihm seine Pfeife besser schmeckte denn sonst. Die Pelzkappe wärmte ihm sein mit einem großen Gedanken beruhigtes Gehirn, und wenn er offen sein wollte, so mußte er gestehen, daß er sich vorkam, wie der Gerechtesten Einer, vor dem jeder Heilige, an dem er vorüber fuhr und seine Kappe lüftete, einen ordentlichen Respekt haben mußte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In dieser Stimmung fuhr er beim Speidle vor, hielt die Gäule an, hob den schweren Sack selbst vom Wagen und trug das Geschenk sofort in die Hausflur.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Brigadier wohnte eine Stiege höher und war just zu Hause und stand draußen am Gatter der Stiege und putzte sich, wie er das zuweilen mußte, die Knöpfe seiner Uniform mit geriebener Kreide und Spiritus blank, färbte die weißgewordenen Nähte mit aufgelöstem Kupferwasser und die abgeblaßten gelben Litzen mit einer andern zweckdienlichen Tinktur.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Frägt halber Stiege hinauf der Holzenbauer, ob er dem Brigadier nicht unangenehm käme?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Antwortet der, finster die Augenbrauen zusammen-</tei:seg>
+        <tei:pb n="181"/>
+        <tei:seg>ziehend, und voll Erstaunens: Wer ist da? Was soll es? Was wollt Ihr?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Holzenbauer kommt die Stiege herauf näher und bringt höflichst sein Erbieten an, und schließt mit einem sehr respektvollen: Nehme Sie’s! Herr Brigadier! Sei er so gut, nehme Sie’s!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Speidle, die Stimme erkennend und sich kaum umschauend, stand voll Grimm.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Grundbirnen an sich hätten ihm ganz wohlgethan; seine Frau kam auch schon der Küchenthür heraus und dachte nach Frauenart gerade wie der Bauer: Etwas ist besser als gar nichts! Aber das offenbare Zugeständniß, das da nun wirklich der Bauer selbst machte, ihm etwas schuldig zu sein, das Untergebot von zehn Kronenthalern auf einen Sack Kartoffeln, das wühlte des Brigadiers verhaltne Empfindungen so auf, daß er sich kaum beherrschend erst nur rief: Kapp herunter, Kerl! wenn einer wie Du mit dem Brigadier spricht!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So schlug er dem Sepple auch gleich die Pelzkappe herunter.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Schwaben haben in solchen Fällen der stutzenden Verwunderung und der sich schon rüstenden Gegenwehr eine Wendung, die zwei einfache, aber eigenthümlich betonte Worte bezeichnen. Sie lauten halb überrascht halb fragend: Ha! No?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Holzenbauer stieß sein Ha? No? trotzig genug </tei:seg>
+        <tei:pb n="182"/>
+        <tei:seg> hervor, bekämpfte sich indessen und bot der Frau, mit der er lieber allein zu thun haben wollte, wieder sein Geschenk an und sagte wiederum höflichst jetzt zu ihr allein: Nehme Sies’! Frau! Unten steht mein Sack! Nehme Sie’s!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den Brigadier überwallte der Zorn. Er vergaß seine Stellung in der Gesellschaft, sein Amt, seine Würde, rief: Nehme Sie’s? Er da? Er nehme das da! und so faßte er über die Stiegenlehne hinüber den Holzenbauer ins Genick, schüttelte ihn und warf ihn so der Länge nach die fünfzehn bis zwanzig Stufen hinunter, daß der Holzenbauer zwar unten lebendig ankam, aber doch ein paar Male mit dem Kopfe an die Wand schlug und bei seinem Grundbirnensack der Länge nach mit einer blutenden Stirne hin stürzte. Und unserm nun einmal wild gewordenen Speidle noch nicht genug. Der Zorn trieb ihn die Stufen hinunter, ließ ihn die Hausthüre aufreißen, und obgleich die Frau nacheilte, um den wüthigen Mann um Gotteswillen zu besänftigen, so warf er den Holzenbauer noch auf die Gasse hinaus, den Sack hinten nach, so daß der nur lose zugeknüpfte aufging und die Grundbirnen hell über die Gasse rollten und nun schlug er die Hausthür zu und sagte mit knirschenden Zähnen: So ists recht! So Nehme Sie’s! So Nehme Sie’s!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Holzenbauer lief blutend und voll ohnmächtiger Rachsucht, wie er war, aufs Amt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er klagte. Der Thatbestand sprach sogleich gegen den </tei:seg>
+        <tei:pb n="183"/>
+        <tei:seg> Brigadier. Der Amtmann mußte seinen eignen Untergebnen aufs Amt rufen lassen und als er kam und der Anklage nicht widersprechen konnte, zu fünf Gulden Strafe verurtheilen. Speidle! Speidle! sagte Herr Lechler halblaut, als er fünf Gulden für ihn vorlegte, die ihm später an seinem Gehalt abgezogen werden mußten, und dem Holzenbauer hingab: Speidle, die Nemesis rächt sich furchtbar an Ihnen! Was haben Sie Aermster schon alles um den Jäckle ausgestanden, den sie in Gmünd noch immer nicht eingefangen haben!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Speidle stand voll Ergebenheit. Er kannte sein Vergehen, wußte auch, wie schlimme Thaten eine ganze Kinderschaft von üblen Folgen nach sich ziehen und später auch konnte er sich von Herrn Lechler erklären lassen, wie das alles mit dem Worte zusammenhing: Die Nemesis hat sich an Ihnen furchtbar gerächt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie sehr er diese Nemesis empfand und erkannte, daß jede vernachlässigte Pflicht eine ganze, unabsehbare Reihe von Vergeltungen nach sich ziehen kann, brauchen wir nicht des Weitern zu schildern. Erwähnen jedoch müssen wir, daß dieser brave Staatsdiener es war, der zuletzt doch noch den Jäckle einfing, eine merkwürdige Unternehmung, die wir unsern Lesern vielleicht ein andermal mittheilen werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Holzenbauer aber sieht es seither noch wüster als früher aus. Zehn Kronenthaler – ein Sack Grundbirnen </tei:seg>
+        <tei:pb n="184"/>
+        <tei:seg> – Nehme Sie’s – der blutige Kopf und dafür noch fünf Gulden Schmerzengeld obenein! Das ist ein solches Chaos sittlicher Combinationen in ihm geworden, daß er sich seinem Pfarrer anvertrauen und von diesem hören mußte, wie man aus allen Fährlichkeiten äußerlich mit heiler Haut durchkommen und innerlich doch nicht zu Recht bestehen kann. Vielleicht sagte ihm derselbe gute Seelsorger, daß von allen Heiligen die Sancta Nemesis schon die allerwunderlichste ist, auch wenn wir nur dazu gedient haben, „für Andere Schicksal“ zu werden. Der Eine begeht die Schuld, ihn trifft auch die Strafe, der Andere aber, der für Schuld und Strafe der eigentliche Anlaß wurde, geht nur deßhalb leer aus, um desto längere Zeit zur tiefern Reue zu behalten.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Erzählung wurde in Gutzkows Familienblatt „Unterhaltungen am häuslichen Herd“ im März 1856, nur wenige Wochen vor Erscheinen von Band 1 der </tei:seg>
+        <tei:q>Kleinen Narrenwelt</tei:q>
+        <tei:seg>, vorabgedruckt. Darauf macht eine Fußnote in den „Unterhaltungen“ aufmerksam, wo es u. a. heißt, die Erzählung sei </tei:seg>
+        <tei:q>einer unter der Presse befindlichen Sammlung</tei:q>
+        <tei:seg> entnommen (Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd. 1, Nr. 24, S. 369.) Ob für diese Veröffentlichung in den „Unterhaltungen“ schon Druckfahnen des Buches verwendet wurden oder eine Handschrift, ließ sich nicht feststellen. Möglich ist auch, dass als Satzvorlage für den Buchdruck der Zeitschriftenabdruck diente – in einer vom Verfasser leicht redigierten Fassung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Text und Absatzgestaltung von J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> und E sind, von ganz wenigen Ausnahmen abgesehen, identisch. Der Journaldruck setzt bei direkter Rede Anführungszeichen, die im Buch wegfallen. Für den Buchdruck hat Gutzkow </tei:seg>
+        <tei:q>Dorfgeschichtlich</tei:q>
+        <tei:seg> als Untertitel hinzugefügt. Eine minimale Abweichung weist der Schluss auf: In E sind die beiden Schlussabsätze von J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> zusammengefasst worden. Der Einschub – </tei:seg>
+        <tei:q>Nehme Sie’s</tei:q>
+        <tei:seg> – (S. 430,12) ist in J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> gesperrt und um eine phonetische Anklangsoption ergänzt: – </tei:seg>
+        <tei:hi style="letter-sparse">
+          <tei:q>Nehme Sie</tei:q>
+        </tei:hi>
+        <tei:q>’s und Nemesis</tei:q>
+        <tei:seg> – (J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 375). </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein im Mai 1856 erfolgte Nachdruck der Erzählung in einer deutsch-amerikanischen Zeitschrift (J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>) dürfte ohne Wissen und Autorisation des Verfassers erfolgt sein. Für die Druckgeschichte ist dieser Nachdruck ebenso unerheblich wie ein erst 2022 entdeckter Nachdruck in der „Grazer Tagespost“ (J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>), an dem Gutzkow gleichfalls nicht beteiligt war.  </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>1874 integrierte Gutzkow die Erzählung in den 3. Teil seiner </tei:seg>
+        <tei:q>Kleinen Romane und Erzählungen</tei:q>
+        <tei:seg> (Band 4 der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>), wo sie als letzte von drei kürzeren, unter dem Obertitel </tei:seg>
+        <tei:q>Novellistische Skizzen</tei:q>
+        <tei:seg> gesammelten Arbeiten steht. Für diesen Neudruck änderte Gutzkow den Titel in </tei:seg>
+        <tei:q>Aus dem Schwabenland</tei:q>
+        <tei:seg>, den Untertitel aus E </tei:seg>
+        <tei:q>Dorfgeschichtlich</tei:q>
+        <tei:seg> ließ er fallen. Abgesehen davon, dass hier bei direkter Rede wieder Anführungszeichen einführt sind, ist die Textfassung in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> identisch mit E.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> Die Nemesis. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. N.F. Bd. 1, Nr. 24, [15. März] 1856, S. 369-376. (Rasch 3.56.03.15.2)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Carl Gutzkow: Die Nemesis. In: Grazer Tagespost. Graz. Nr. 93, 22. April 1856, [S. 1]; Nr. 94, 23. April 1856, [S. 1]; Nr. 95, 24. April 1856, [S. 1]; Nr. 96, 25. April 1856, [S. 1]; Nr. 98, 27. April 1856, [S. 1]. (Rasch 3.56.04.22N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J3">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg> Carl Gutzkow: Die Nemesis. In: Deutsche Monats-Hefte. Deutsch-amerikanische Zeitschrift für Literatur, Kunst und Gesellschaft. New York. Bd. 7, Mai 1856, S. 363-369. (Rasch 3.56.05.1N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E Die Nemesis. Dorfgeschichtlich. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 159-184. (Rasch 2.33.1.9)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> Novellistische Skizzen. III. Aus dem Schwabenland. In: Karl Gutzkow: Kleine Romane und Erzählungen. Dritter Theil. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 4.) Jena: Costenoble, [1874]. S. 401-416. (Rasch 1.5.4.8.3)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">417,13</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Eifer</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Cifer</tei:sic>
+        <tei:seg>  </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

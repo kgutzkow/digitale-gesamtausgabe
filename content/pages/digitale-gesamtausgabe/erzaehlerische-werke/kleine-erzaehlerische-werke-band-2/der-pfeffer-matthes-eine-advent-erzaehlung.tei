@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Pfeffer-Matthes. Eine Advent-Erzählung</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Der Pfeffer-Matthes. Eine Advent-Erzählung. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 137-158. (Rasch 2.33.1.8)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #der-pfeffer-matthes-eine-advent-erzaehlung"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-29" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="137"/>
+        <tei:seg> Der Pfeffer-Matthes.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Eine Advent-Erzählung.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="139"/>
+        <tei:seg> Unter Führung eines Arztes, der an einer unserer berühmtesten Irrenanstalten wirkt, lernt’ ich, an ihn empfohlen, kürzlich eine Menge jener traurigen Vorstellungen kennen, die den menschlichen Geist mit jener ausschließlichen Alleinherrschaft einnehmen, die wir Wahnsinn nennen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blödsinn, Raserei sind die Folgen mehr oder weniger physischer Zustände; fixe Ideen aber, die mit der gesundesten Beschaffenheit des Körpers verbunden sind, drücken eine gleichsam nur auf Einen Punkt zusammengedrängte Geisteskraft aus und flößen uns durch die Folgerichtigkeit des falschen Denkens, durch die Voraussetzung sich von selbst verstehender Natürlichkeit der Behauptungen und den damit verbundenen doch regelmäßigen Verlauf aller übrigen Lebensfunctionen, der sich nicht im mindesten auch von dem Aufenthalte an einem solchen Heilorte beirren und von seinen Gedanken abbringen läßt, das unheimlichste Grauen ein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unter vielen solchen Opfern der räthselhaften Bildung unserer Vorstellungen und der geheimnißvollen Bedingungen des Seelenlebens durch die Einwirkungen der Materie fiel mir beim Eintritt in einen von mehren stillen Zimmergenossen bewohnten freundlichen und in auffallender Ord-</tei:seg>
+        <tei:pb n="140"/>
+        <tei:seg>nung erhaltenen Raum ein sonderbares, mit keineswegs anziehenden, eher ängstlichen als in sich zufriedenen Mienen sich ankündigendes Männchen auf, das fröstelnd und zusammengekauert in einer Ecke saß und rings um sich her einen wunderlich durcheinandergeworfenen Apparat von Holzschnitzereien, Tannenbüscheln, Bändern, Nüssen, Goldpapierschnitzeln u. dergl. ausgebreitet hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das ist der Weihnachtmann! sagte der Arzt halblaut zu mir und machte mich auf die Arbeit des Irren, der sich nicht stören ließ, aufmerksam.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unverkennbar war das verhutzelte Männchen mit einer Weihnachtbescherung beschäftigt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Messer hatte es in der Hand, mit dem es an kleinen Holzstäben schälte, von denen einige schon auf einem Bret zu einer Figur zusammengesetzt waren, die etwa einer sogenannten Pyramide gleichkommen mochte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Andere solcher schon fertiger Pyramiden, umwunden mit verwelkten gelben Tannenzweigen, standen neben ihm zu seinen Füßen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Aepfel waren verdorrt, die Nüsse halb verschimmelt, es schien eine ziemlich alte Bescherung zu sein, die der Irrsinnige hier noch immer wie eine erst in der Vorbereitung begriffene behandelte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich sah eine Weile dem Treiben des Greises zu.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sein Schädel war kahl, das wenige Haar gebleicht, das dunkle Auge blinzelte einige mal scheu zu uns empor, </tei:seg>
+        <tei:pb n="141"/>
+        <tei:seg> es hatte einen stechenden Ausdruck, die Wangen und Hände waren faltenreich wie die neben ihm liegenden gedörrten Zwetschen, die er wie Edelsteine zu behandeln schien, so vorsichtig legte er eine neben die andere, gleichsam um sich nicht zu verwirren und im Hundertsten das Tausendste zu verwechseln.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine zwei Mitbewohner, die wiederum auch ihren Sparren hatten, lachten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doch waren sie in der ihnen beschiedenen Narrheit (der Eine trug von Papier alle Orden der Welt, der Andere war reicher als Rothschild, er machte sich ein Papiergeld selbst, das in allen Staaten der Welt einen weit über pari gehenden Cours hatte) so gutmüthig, daß sie mit dem wie es schien reizbaren Alten, dem Weihnachtmanne, wie ihn der Arzt genannt hatte, sich in aller Friedfertigkeit vertrugen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der zusammengeknöpfte Hausoberrock, die fröstelnden Bewegungen des Alten, die mit dem lachenden Sonnenschein, der durch die Fenster fiel, in einem Widerspruche standen, der mir mehr rührend als komisch war, veranlaßten den Begleiter zu fragen: Macht’s kalt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine fröstelnd sich schüttelnde Bewegung war des Narren Antwort.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was schreiben wir heute für ein Datum? fuhr mein Begleiter fort, weniger um auf die Consequenzen der </tei:seg>
+        <tei:pb n="142"/>
+        <tei:seg> Manie des Armen einzugehen, als um mir einen vollern Einblick in sie zu gestatten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bald Weihnachten, Weihnachten! war die Antwort.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die beiden Mitbewohner, der mit Orden geschmückte und der Krösus, verzogen wieder die Miene und machten mit aller Vernunft geltend, daß wir uns heute noch in der schönsten Jahreszeit befänden, weit entfernt vom 18. Januar, dem großen preußischen Ordens- und Krönungstage, wo Jener wiederum einen Adlerorden irgend einer neuen Classe zu bekommen hoffte, weit entfernt noch vom 1. October sogar, wo die Dividenden der unzähligen Anleihen ausgezahlt wurden, die die Fürsten Europa’s bei dem Andern aufgenommen hatten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Alte blieb dabei, die Weihnachtzeit wäre nahe im Anzuge und ein guter Hausvater müsse sich rüsten, den Seinigen Freude zu bereiten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er unterließ nicht, auf nähere Erkundigungen des Arztes alle die Personen zu nennen, für welche er die Weihnachtbäume, die schon fertig, ebenso bestimmt hätte wie die, die er erst noch herrichten und schmücken wollte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Theil dieser Personen, flüsterte mir mein Begleiter zu, ist todt; aber sie leben in seiner Erinnerung; es sind seine Kinder, seine Dienstleute, seine Verwandte. Er ist reich und kann hier nach Wunsch gehalten werden. Sein Zustand ist die Folge des Geizes. Ich bin selbst Zeuge gewesen, wie seine Manie entstanden ist…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="143"/>
+        <tei:seg> Und da immer noch das Klappern der Zähne des Alten, sein Frösteln und Reiben der Hände nicht endigen wollte, sagte der Arzt: Sie machen’s zu arg, Herr Matthes. Wir sind erst im September und Ihnen geht schon die schöne herrliche Weihnachtszeit auf. Lassen Sie sich doch bedeuten! Wir haben noch volle sechs Wochen bis Martini und für Ihre Weihnachtbäume gehören sich doch frische Nüsse. Die sind dies Jahr noch gar nicht geschüttelt worden. Aengstigen Sie sich nicht. Christkindchen läßt Ihnen Zeit, diesmal mehr herauszurücken als gewöhnlich, Herr Matthes!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Alte schnitt ein sauerlächelndes Gesicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unverkennbar war in seinen Mienen Geiz abgeprägt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er antwortete nicht, sondern fuhr in seinem Bau von Weihnachtbäumen fort und mein Gefährte sagte einfach: Gehen wir weiter!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Hinaustreten fügte er hinzu: Manchmal nehmen wir ihm den Kram fort, weil er sich zu sehr aufhäuft und den beiden Andern den Raum benimmt, ihre Ordensbänder und Staatspapiere auszubreiten; aber wie ein Biber bauen muß, weil er nicht anders kann, so muß der Alte Weihnachtbäume machen. Die Furcht vor dem Christkind ist eben sein stiller Wahn. Pfeffer-Matthes nannten ihn die Leute in der kleinen Stadt, wo er lange Jahre </tei:seg>
+        <tei:pb n="144"/>
+        <tei:seg> eine einträgliche Spezerei- und Materialwaarenhandlung führte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Neue Eindrücke unserer traurigen Wanderung ließen den eben empfangenen in den Hintergrund treten, und ich wäre schwerlich dazu gekommen, den freundlichen Führer um die Geschichte des Pfeffer-Matthes anzugehen, wenn mich nicht der Anblick seiner lieblichen und fröhlich sich tummelnden Kinder darauf gebracht hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Vater war, als wir die Pforte des trauervollen Asyls der Geisteskranken hinter uns zufallen hörten, so freundlich mir anzubieten, mich auf der lieblichgelegenen Veranda seiner nahen Wohnung auszuruhen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Zurüstungen des Kaffeetisches lockten traulich zu dem dichten Weinlaubdache hinüber, das sich an die vom freundlichsten Abendsonnenlichte vergoldete Wohnung lehnte. Das berühmte Irrenhaus lag entfernt von der Stadt in anmuthiger bergiger Gegend, die Wohnung des Directors in ihm selbst und der Assistenzarzt tauschte vollends schwerlich mit einem Andern, so im Grünen und Heitern lag das kleine Häuschen, das er bewohnte, mit seiner reizenden Fernsicht auf ferne blaue Berge und einen nahen, zierlich sich schlängelnden, immer belebten Strom.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gattin und Kinder boten einen freundlichen Empfang.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Brust athmete mir auf von dem beklemmenden Druck des eben Erlebten und Gesehenen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="145"/>
+        <tei:seg> Das humoristische „Man gewöhnt’s“ milderte nicht sogleich die Schauer, die noch nachbebten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es wurde manches Wort über die Ursachen der Geistesstörungen überhaupt gesprochen, über die Zunahme an Geisteskranken in unserer Zeit, über die Ursachen, die dafür wol eben in der Zeit selbst liegen mögen, über die veränderten Behandlungs- und Heilungsmethoden, die man jetzt befolgt, und Aehnliches.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Gefühl, seiner eigenen fünf Sinne mächtig zu sein, wirkt dabei in der That so trostreich, daß man bald sich selbst in die wunderlichsten Erscheinungen findet.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So diente nun der Hinblick auf die Hausfrau, die eine glückliche Mutter war, auf die Kinder, die heiter und froh um uns her sprangen und kletterten, mit einem großen Hunde spielten und auf der Terrasse, die sich den Berg hinunter abwärts abdachte, manche halsbrechende Kunststücke aufführten, als Uebergang zu den Weihnachtfreuden und zu jenem närrischen Alten, der so lediglich und ausschließlich nur mit dem einzigen Tage im Jahre beschäftigt schien, auf den der Glaube und die Liebe soviel Reize des Glückes und der Poesie ausgeschüttet haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ja, der Pfeffer-Matthes! sagte der Doctor. Das will ich Ihnen erzählen und kann es aus bester Quelle, da ich beim Ursprung dieser Narrheit zugegen war und mein Weibchen da wird wol auch nichts dagegen haben, wenn ich davon plaudere. Wenn man sechs Jahre ver-</tei:seg>
+        <tei:pb n="146"/>
+        <tei:seg>heirathet ist, kommt man nicht alle Tage auf die schöne Zeit des Brautstandes zurück.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Gattin machte mit dem Zeigefinger eine jener drohenden Geberden, die nur Der verstehen kann, der selbst verheirathet ist. Wer es noch nicht ist oder wer überhaupt nicht heirathen will, dem sagen wir nur, daß diese kleine Geberde etwa soviel sagen will, als: Die Ehe ist jener merkwürdige Lebensstand, wo zwei Menschen so nahe aneinandergerückt sind, daß sie gar nicht anders können, als ewig aneinander zu streifen und manchmal recht unsanft sich zu berühren, aber auch der Stand wieder, wo man so nahe an einandergerückt ist, daß man sich nichts nachtragen kann und auf eine Verstimmung immer wieder ein Dutzend Gelegenheiten hat, sich einen herzlichen Kuß zu geben und ohne alles Nachtragen zu sagen: Vergeben und Vergessen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Doctor zog seine Cigarrentasche und mich ermunternd, seinem Beispiele zu folgen, erzählte er folgendes Beispiel aus seinem Leben:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es gab, begann er, vor acht Jahren einen grimmigen Winter, der Frost war unerhört, der Schnee lag schuhhoch und knirschte unter Fuß und Wagenrad. Das hinderte mich aber nicht, von der großen Residenz, wo ich wohnte und meine Examina machte, zum Weihnachtabend drei Meilen weit in eine kleine Nachbarstadt zu reisen, wohin mich ein Weihnachtbaum zog, den mir schon ins dritte </tei:seg>
+        <tei:pb n="147"/>
+        <tei:seg> Jahr die liebste Hand auf Erden anzündete, die schöne – sehen Sie, wie zarte – Hand meines guten Weibchens da. Damals war sie meine Braut.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie viel Mühe sie mir gemacht hat, sie als solche zu erobern, bewies ich unter Anderm dadurch, daß ich regelmäßig zu Weihnachten und gleich auch wieder zu Neujahr und mochte ein Wetter sein wie da wollte, mich einfand bei der Bescherung und acht Tage darauf beim Punschnapf.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gewöhnlich bediente ich mich, um von Kutschern unabhängig zu sein, eines gemietheten Pferdes.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So ritt ich auch jenen Weihnachtabend meinem lieben Städtchen zu und glich, wie schon zwei mal, wieder dem Knechte Ruprecht oder dem heiligen Nikolaus.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Links und rechts am Sattel waren Bescherungen angebändelt; das rasselte und klingelte und klapperte um mich her von allerlei Blech, das ich den jüngern Geschwistern meiner Braut mitnahm. Hinten am Rücken des Kleppers, quer über die Kruppe, lag ein Gegenstand festgebunden, der mich zwang, sehr langsam zu reiten, ein Ungethüm mit vier Beinen in die Luft ragend, einfach ein Nähtisch von Mahagony. Wer den Reiter so in der grimmen Winternacht im Zwielicht fern hintrotten sah, hätte unsere Gesammterscheinung für irgend eine fabulose Species aus Raff’s Naturgeschichte halten müssen. Im </tei:seg>
+        <tei:pb n="148"/>
+        <tei:seg> Mantel, hinten und vorn, waren noch packweise Thorner und Nürnberger Lebkuchen versteckt, kurz ich war ein berittener Weihnachtmarkt und hätte jedem Abällino, der mich vielleicht auf der einsamen Landstraße anzufallen die Winterlaune gehabt hätte, sicher wenigstens für seine hoffnungsvollen Kinder einen vortheilhaften Fang abgegeben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So kam ich langsam und wohlgemuth, zuletzt freilich trotz der Pelzstiefel mit abgestorbenen Füßen und mit kläglich durchkribbelten Händen, in die Nähe des kleinen Städtchens, wo meine Gattin (ohne – Kleinstädterin zu sein) das Glück gehabt hat, für mich geboren und erzogen zu werden. Mit einbrechender Dämmerung nahm der Frost immer zu, mein Athem thaute den Reif nicht mehr vom Barte weg, die Mähne meines Gauls war wie versilbert, und als die Nacht einbrach, standen die Sterne so glitzernd kalt am Himmel, so funkelnd lockend und doch so aller belebenden Wärme bar wie die schönen Augen einer herzlosen Kokette.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meine Gattin mahnt aber, mich nicht bei poetischen Beschreibungen aufzuhalten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Also zur Sache.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dicht an dem Städtchen liegt der Kirchhof, an dem ich vorüber mußte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich kann nicht verschweigen, daß das Läuten der Weihnachtglocken vom Städtchen her mich innig ergriff. </tei:seg>
+        <tei:pb n="149"/>
+        <tei:seg> Ich ritt meinem Liebchen entgegen! Alles war so still in winterlicher Ruhe um mich her und mein Herz so voll von Sehnsucht und Kindheitserinnerung. Ich blickte voll Rührung auf den schon in tiefnächtlichem Dunkel liegenden Friedhof, auf die stillen kleinen Schneehügel, die verschneiten Kreuze und Grabsteine, ich gedachte der Freuden, die da kommen und gehen, und wäre die sich dazwischendrängende Sehnsucht nach eurem warmen Ofen, eurem warmen Thee und gewissen noch wärmern Küssen nicht gewesen, ich hätte Muße und Stimmung gehabt zu einigen recht dicktröpfelnden Thränen. Der Mensch ist nun einmal so. Was zu schön ist und zu reich, das macht uns weich u. s. w., u. s. w.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schäme dich, daß du deiner Thränen spottest, unterbrach die Doctorin.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er spottet ihrer nicht, vertheidigte ich den Erzähler, im neunzehnten Jahrhundert ist es eben Mode, von seinen Thränen nicht anders als nur schriftlich oder gedruckt zu sprechen. Lassen Sie ihn weinen! Er thut’s nur in der Erinnerung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Also der Kirchhof! wiederholte der Erzähler. … Wie ich so den sanften Glockenklängen über den leuchtenden Schnee hinüberlauschte, seh’ ich im Dunkeln unter den Gräbern und Kreuzen eine wandelnde Laterne. Lieber Gott, dacht’ ich, da doch über den Friedhof nicht ein allgemeiner Weg geht, was ich sonst wol leiden mag, weil </tei:seg>
+        <tei:pb n="150"/>
+        <tei:seg> es den Lustigsten manchmal erinnern muß, unwillkürlich an den Tod zu denken, so ist das gewiß ein armes liebendes vereinsamtes Herz, dem kürzlich irgend ein theures Angehöriges starb. Das denkt da im Schnee an die Weihnachtfreude der ganzen Welt, die ihm zu theilen nicht beschieden ist. Es hat’s hinausgezogen in die kalte Winternacht und vom Grabe seines Theuern schaufelt’s den Schnee weg, um wol einen Kranz darauf zu legen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und wie gedacht, so war es fast.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenigstens stand die Laterne still, mitten auf dem Friedhofe stand sie still. Einen Durchgang gab’s hier nicht, ich kannte ja, gelt Malvina, ich kannte alle Wege in euerm Nest, die offenen und die geheimen gar schon.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Also es war ein Trauernder.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Natürlich ritt ich weiter, ritt ins Thor, ritt die Straße hinauf zu Liebchens Hause, pochte und kam just zu rechter Zeit zum Weihnachtbaum, den ich selbst noch schmücken wollte und der schon weit mehr für mich geschmückt war, – wie immer!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mein Gaul war im Stalle des Vaters, die Bescherung war vorüber, wir saßen schon traulich am warmen Ofen eines Nebenzimmers, verzehrten die kaum aus dem Ofen gekommenen Weihnachtstollen und wärmten uns an der Spende einer kräftig dampfenden Bowle, während die kleinere Welt nebenan den dunkelgewordenen Christ-</tei:seg>
+        <tei:pb n="151"/>
+        <tei:seg>baum nicht mehr ansah vor Interesse an den Einzelheiten der Bescherung, einem Interesse, das von Bewunderung, wie auch wol sonst im Leben, zur Zertrümmerung überzugehen pflegt, – als wir plötzlich auf der Straße es laut werden hörten. Stimmen sprachen durcheinander, Klingeln von einem Schlitten vernahm man und bald auch wurde heftig die Hausglocke gezogen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mein Schwiegervater war, was auch ich werden wollte, Arzt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Kranker oder Verunglückter! hieß es.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir sprangen aus unserm traulichen Kreise auf und in der That begehrte man die Hülfe des Vaters.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine Anzahl Menschen stand vor dem Hause und theilte sich die Thatsache mit. Auf dem Kirchhof ist Einer erfroren! hieß es. Es ist der Pfeffer-Matthes!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mein Schwiegervater war schon in den Kleidern, mein Liebchen da hatte ihm schon den Pelz übergeworfen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Noch war die Möglichkeit, wie und wo der Pfeffer-Matthes, ein wie ich sogleich erfuhr, allgemein bekannter Mann, ein Wohlhabender der Stadt, dem man zum Spott einen Namen gegeben hatte, der von seinem Gewerbe kam, erfroren sein konnte, nicht erörtert, als ich mich schon dem Vater angeschlossen hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei der Nachricht, man hätte Herrn Matthes erfroren auf dem Kirchhofe gefunden, mußte mein Interesse nur </tei:seg>
+        <tei:pb n="152"/>
+        <tei:seg> wachsen. Schon im Gehen auf der Straße erzählte ich von dem Lichte, das ich auf dem Friedhofe gesehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indem waren wir bereits in das Haus des Verunglückten getreten, das eins der stattlichsten am Markte war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Menschen, die die plötzliche Unruhe in der sonst so stillen und nur von Kindertrompeten und Trommeln heute etwas alarmirten Stadt und die Neugier auf die Straße trieb, nahmen, sah ich wohl mit Befremden, zu dem Vorfall eine eigene Miene an. Wie ein Lauffeuer ging durch alle Anwesende, die uns begleiteten und sich ins Haus, in das man den Pfeffer-Matthes schon getragen hatte, mit eindrängten, eine Allen gemeinsame Auffassung des Vorfalls.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hat er’s nun weg, der Geizhals? hieß es. Straft ihn seine Frau nun Lügen? Muß er nun wenigstens zu seinem Begräbniß herausrücken, der Heimtücker!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine Aufklärung dieser Bemerkungen zu bekommen war für mich nicht möglich, da ich mit dem Vater beschäftigt war, den Erstarrten ins Leben zurückzurufen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man hatte ihn in sein Schlafzimmer gebracht, dies schnell geheizt, ihn dicht mit wollenen Decken umhüllt, unter denen man den Halbentkleideten mit herbeigeholtem Schnee, mit Spiritus und flüchtigen Salzen rieb.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Dienstboten, die Ladenbursche mußten zu diesem Hülfswerk angefeuert werden, ihre Freude an der Wiederkehr von Lebenszeichen war erst allmälig aufrichtig, erst </tei:seg>
+        <tei:pb n="153"/>
+        <tei:seg> der Erfolg ermunterte sie. Zu lange konnte der wie man sah nicht beliebte Mann nicht im Zustande der Erstarrung gelegen haben. Seine Kleider waren von der umgestürzten Laterne verbrannt. Man hatte vom Wege die Flamme gesehen, die den alten grauen Mantel ergriffen hatte, und so war die Hülfe von zufällig Vorübergehenden beschleunigt worden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unsern angestrengten Bemühungen gelang es, bis gegen Mitternacht die entschiedensten Zeichen des rückkehrenden Lebens zu gewinnen. Wir konnten ein leichtes Einflößen von heißem Thee verordnen und uns mit der Hoffnung entfernen, daß die gesteigerte Bettwärme bis zum Morgen das Werk der Wiederbelebung würde vollendet haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war eine grimmig eisige Nacht, als wir erschöpft über die nun todtstillen Straßen selbst die Ruhe und unser warmes Lager zu gewinnen eilten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In aller Frühe war der Vater schon wieder am Markte bei dem Pfeffer-Matthes.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich erfuhr gerüchtweise, daß der Gerettete schon aufgestanden war und hatte inzwischen mancherlei Anderes, was mich in Anspruch nahm.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zu Mittag, als der Mutter fast die köstliche Gans zu lange am Feuer stand, weil Papa nicht endlich heimkam, erfuhren wir, daß es mit dem Pfeffer-Matthes nicht so gut aussah, als man anfangs geglaubt hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="154"/>
+        <tei:seg> Zwar hatte ihn der Vater schon auf und im rührigen Zustande gefunden, aber der Unfall hatte, wie seine Reden, sein Gebahren und Thun bezeugte, seine Geisteskräfte angegriffen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gleich nachdem er aus dem Bette sich erhoben und kaum angezogen, war er in den Laden hinuntergegangen, hatte alle Kästen aufgezogen, hatte Rosinen, Mandeln, Backpflaumen zu kleinen Haufen gethürmt und wollte aller Welt bescheren.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine Dienstleute staunten. Jedem versprach er goldne Berge und als der Vater zu ihm gekommen war, hatte er auch Dem versichert, daß er zu Weihnachten auf ihn rechnen könne und daß Weihnachten noch gar nicht angebrochen wäre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herr Matthes, Herr Matthes, hatte der Vater gesagt, hören Sie denn nicht nebenan in der Kirche singen? Es ist ja schon heute der zweite Gottesdienst.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Matthes hörte auf keine Widerlegung, schüttelte den Kopf und versicherte, seine Frau hätte ihm die bittersten Vorwürfe gemacht, daß er den Kindern nichts gäbe, den Hausleuten nichts gäbe, die Ladenbursche auf das neue Jahr vertröstete und ähnliche Versäumnisse sich zu Schulden kommen ließ.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf seine Bedeutung, daß Frau und Kind ihm ja längst gestorben wären, hatte ein offenbarer Irrsinn geantwortet. Die Nacht auf dem Friedhofe war nicht über-</tei:seg>
+        <tei:pb n="155"/>
+        <tei:seg>wunden; das physische Wohl war da, aber der Frost hatte das Gehirnleben zerstört.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Zustand änderte sich nicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Erben ließen nicht auf sich warten. Sie beantragten, den Zustand des Pfeffer-Matthes zu constatiren und dessen möglichen Folgen gerichtlich vorzubeugen. Man verwaltet sein bedeutendes Vermögen und läßt ihn nun hier auf der Landesirrenanstalt unter bequemen und ganz angenehmen Verhältnissen sein Wesen forttreiben. Er hat die Manie des Bescherenwollens, er schnitzelt und zimmert Christbäumchen, er schmückt sie und vergoldet Aepfel und Nüsse und holt nach, was er wol an zwanzig Jahre seines Lebens versäumt hat.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn der Pfeffer-Matthes war so geizig gewesen, daß er jede nothwendige Ausgabe auf ihr Minimum reducirte, jede, die er überflüssig nannte, ganz beseitigte. Wer ihn zu Gevatter bat, dem sagte er, es wäre merkwürdig, alle Kinder, denen er Pathe gestanden, stürben ihm. Wer ihn zur Hochzeit lud, dem erzählte er Geschichten über Geschichten, daß jede Ehe, wo er dem Jaworte beigewohnt, in Unfrieden geendigt hätte. Und weil er die Bescherung zur Christzeit, diesen ihm besonders fatalen Luxus, nicht vermeiden konnte und die üble Nachrede fürchtete, so schützte er, um die Weihnachtgeschenke zu vermeiden, den einst allerdings in die Weihnachtzeit gefalle-</tei:seg>
+        <tei:pb n="156"/>
+        <tei:seg>nen Tod seiner Frau und seiner Kinder vor, um sich von dem allgemeinen Feste der Freude dispensiren zu können.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seit Jahren hatte er eingeführt, daß bei ihm von einer Weihnachtzeit nicht die Rede sein durfte. Schon manche Dienstmagd hatte ihn deshalb verlassen, schon mancher Hausknecht, mancher Laufbursche und Ladendiener hatten die wahren Motive der traurigen und düstern Weihnachten in Pfeffer-Matthes Hause in Umlauf gebracht; er ließ sich nicht irre machen, er behauptete, seinem gefühlvollen Herzen, seiner nur dem schmerzlichsten Andenken gewidmeten Feiertagszeit dürfe kein Mensch mit Bescherung und ähnlichen Lustbarkeiten kommen. Um dann die Ausrede seines liebevollen Herzens zu Gunsten seines Geldbeutels auch ganz wahrscheinlich zu machen, ging er regelmäßig an jedem Weihnachtabend an das Grab seiner „theuern Verblichenen,“ behauptete, daselbst, während Alle sich freuten, eine Stunde der schmerzlichsten Erinnerung zu weihen, und trieb diese Verstellung Jahr ein Jahr aus so consequent, bis einmal bei 20 Graden Kälte seine Pelzstiefeln und der alte große Mantel ihren Dienst versagten und der Wucherer mit seiner Lüge einschlief und erfror.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zu Ende der Mittheilung des Arztes hatten sich die Kinder wieder eingefunden und der ernstkomische Eindruck, den die Erzählung hervorbrachte, war von der Kleinen harmlosem Sinne bald wieder verwischt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="157"/>
+        <tei:seg> Dennoch konnt’ ich nicht umhin, als ich dankend und zum Gehen mich anschickend mich erhob, zu bemerken: Diese Nemesis hat Methode. Was zwanzig Jahre in dem starren Geiste als eine Lüge unterdrückt wurde, bricht zuletzt unbewußt mit der ganzen Kraft der niedergehaltenen Springfeder empor und macht sich nun wie von selber geltend. Schade, daß dem Alten die bewußte Reue fehlt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wer weiß! bemerkte die Hausfrau. Ich kannte die Familie des Pfeffer-Matthes nicht, ich war zu jung; aber ich hörte, daß seine Frau eine brave und gute Seele war und daß der Geizhals schon seine Kinder regelmäßig um die Weihnachtzeit betrogen hat. Ich muß mir immer denken, daß ihm in jeder Weihnacht, wo er auf dem Kirchhofe an ihrem Grabe hockte und die Ausgaben berechnete, die er durch eine Lüge ersparte, diese gute Mutter ihm erschienen ist und ihm zugerufen hat: Du heilloser Matthes, ich starb dir ja keineswegs am Heiligen Abend, und wenn auch, wie könntest du denn mein Andenken besser feiern, als indem du Andere glücklich machst? Was mußt du denn mit der Trauer über mich auch Andere traurig machen? Und da hat sie ihm denn gewiß in der Nacht, wo er erstarrte und schon die Geisterstimmen hörte, befohlen, Alles wieder gut zu machen, was er am Christkindchen je verbrach. So ämsig würde er da oben nun nicht sitzen und seine vergessenen Weihnachtbäume schnitzeln, wenn er nicht die schrecklichste Furchte hätte. Das bleibt </tei:seg>
+        <tei:pb n="158"/>
+        <tei:seg> gewiß! Die Weihnachtzeit gehört den Frauen und den Kindern. Wehe dem, der den Weihnachtmann und wenn’s bei der bittersten Armuth wäre, nicht irgendwie in Nahrung setzt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da sehen Sie, sagte der Doctor beim Abschied, so eine Frau weiß doch Alles zu ihrem Vortheil herumzukriegen. Der Alte da oben kostet mir jährlich eine ganz hübsche Summe Geld! Red’ ich das ganze Jahr meinem Weibchen von schlechten Zeiten, von Krieg, von Steuern, von Einschränkungen und allen Plagen der traurigen Situation, in der sich Europa gegenwärtig befindet, so bin ich das ganze Jahr damit auch am Platze und bekomme immer Recht. Zu Weihnachten aber, da erhalt’ ich regelmäßig auf alle diese sonst so vernünftigen und höchst gebilligten Klagen keine andere Antwort als die: Geh! Geh! Nimm dich in Acht oder das Christkindchen macht aus dir auch so einen Pfeffer-Matthes!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Um die Nutzanwendung dieses Stückleins allgemein zu machen, möge jede Ehefrau, die es etwa lesen sollte, ihrem Mann es wiedererzählen zum Advent, vier Wochen vorm Feste, wo man über das Weihnachtbudget noch immer einige gute Entschlüsse fassen kann.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die zum Beginn der Adventszeit 1854 in Gutzkows Familienblatt erstmals erschienene Erzählung nahm der Autor zwei Jahre später in den ersten Band seines Sammelwerkes </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg> auf, modifizierte dabei den Untertitel sowie die Absatzgestaltung, die er für die Buchfassung wesentlich kleinteiliger anlegte. Am Text selbst nahm Gutzkow keine wesentlichen Änderungen vor. Lediglich den Schlussabsatz musste er leicht umarbeiten, da in der Journalversion die Leser der Zeitschrift direkt angesprochen werden. Er lautet dort: </tei:seg>
+        <tei:q>Um die Nutzanwendung dieses Stückleins allgemein zu machen, erzählt’ ich es den Lesern der „Unterhaltungen“ noch zur rechten Zeit, zum Advent, vier Wochen vorm Feste, wo man über das Weihnachtsbudget noch immer einen guten Entschluß fassen kann.</tei:q>
+        <tei:seg> (J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 135.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Text und Textgestalt der ersten Buchausgabe übernahm Gutzkow 1874 unverändert als zweiten Beitrag </tei:seg>
+        <tei:q>Novellistischer Skizzen</tei:q>
+        <tei:seg> in den 3. Teil seiner </tei:seg>
+        <tei:q>Kleinen Romane und Erzählungen</tei:q>
+        <tei:seg> (Band 4 der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>). Nur der Untertitel fiel dabei weg.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>	2022 sind zwei Nachdrucke in zeitgenössischen Peridika entdeckt worden (J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>), die von Gutzkow mit Sicherheit nicht autorisiert wurden und daher für die Textgeschichte irrelevant sind.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>  Der Pfeffer-Matthes. Zum Advent. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 3, Nr. 9, [25. November] 1854, S. 129-135. (Rasch 3.54.11.25.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Der Pfeffer-Matthes. (Zum Advent. Von Karl Gutzkow.) In: Bayreuther Zeitung. Bayreuth. Nr. 347, 15. Dezember 1854, S. 1293-1294; Nr. 348, 16. Dezember 1854, S. 1296-1298; Nr. 351, 19. Dezember 1854, S. 1307-1309; Nr. 352, 20. Dezember 1854, S. 1311-1313. (Rasch 3.54.12.15N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J3">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg>  Carl Gutzkow: Der Pfeffer-Matthes. Zum Advent. In: Carinthia. Klagenfurt. Nr. 101, 19. Dezember 1854, S. 401-404; Nr. 102, 23. Dezember 1854, S. 405-406. (Rasch 3.54.12.19N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Der Pfeffer-Matthes. Eine Advent-Erzählung. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 137-158. (Rasch 2.33.1.8)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Novellistische Skizzen. II. Der Pfeffer-Matthes. In: Karl Gutzkow: Kleine Romane und Erzählungen. Dritter Theil. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 4.) Jena: Costenoble, [1874]. S. 388-401. (Rasch 1.5.4.8.2)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

@@ -13,7 +13,6 @@
           <tei:resp>Herausgeber</tei:resp>
           <tei:name>Martina Lauster</tei:name>
         </tei:respStmt>
-
       </tei:titleStmt>
       <tei:publicationStmt>
         <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
@@ -34,7 +33,7 @@
         <tei:date when="1847">1847</tei:date>
       </tei:creation>
       <tei:textClass>
-        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-i #imagina-unruh"/>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-1 #imagina-unruh"/>
       </tei:textClass>
     </tei:profileDesc>
     <tei:revisionDesc>
@@ -48,6 +47,6 @@
         <tei:seg>Dieses Werk ist zur Zeit nicht online verfügbar.</tei:seg>
       </tei:p>
     </tei:body>
-    <tei:interpGrp type="individual"/>
+    <tei:interpGrp type="global"/>
   </tei:text>
 </tei:TEI>

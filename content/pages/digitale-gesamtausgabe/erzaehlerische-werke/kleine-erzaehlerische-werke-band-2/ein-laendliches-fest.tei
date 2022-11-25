@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Ein ländliches Fest</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Ein ländliches Fest. In: Karl Gutzkow: Die schöneren Stunden. Rückblicke. Stuttgart: Hallberger, 1869. S. 164-188. (Rasch 2.39.7)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1869-03">März 1869</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #ein-laendliches-fest"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="164"/>
+        <tei:seg> Ein ländliches Fest.</tei:seg>
+        <tei:ref target="#footnote-1" type="footnote">*)</tei:ref>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Weg führte durch eine herrliche Buchenwaldung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am Ende der wie ein Dom uns überwölbenden Allee erblickte ich schon die sogenannte „Ruine“.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein zerfallener Thurm trug das flatternde Banner der gräflich Heberstein’schen Familie, doch war die Ruine neuern Ursprungs.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Epheu bedeckte braunangestrichene Backsteine. Die Windharfe war kürzlich reparirt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lächerlich oder nicht, die Aussicht der Novantike war herrlich. Die Besitzungen mehrer Paginas aus dem gothaer genealogischen Kalender lagen wie ein bunter Teppich meilenweit vor uns ausgebreitet.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auch ich ritt unter den Cavalieren einen stattlichen </tei:seg>
+        <tei:pb n="165"/>
+        <tei:seg> Braunen und bemühte mich, so wenig wie möglich lateinisch zu erscheinen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In meinen jungen Tagen war ich ein Reiter. Noch ging es mit dem Sattelschluß, doch unter den dünnen Glacéhandschuhen gab’s bedeutende Wasserblasen vom Reiben der strammen Zügel.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei alledem hielt ich mich und Gräfin Corinna lobte sogar meine Art, die Reitgerte zu halten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie selbst gefiel sich im Verschränken ihrer Arme. Die wunderbar anmuthige Amazone konnte zuweilen ganz den Medusablick der Kiß’schen annehmen und doch war sie nichts als Herzensgüte. Mit Ruhe sah sie auf den Kopf ihres schnaubenden Rosses, das an dem Flattern der Schleppe ihres Gewandes Gefallen zu haben schien und bei ruhigem Schritt den Hals auf den weichen Boden niederbog, den der Schaum seines Gebisses bedeckte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Anton Heberstein ritt neben Corinna, hielt (es gab ein schönes Bild) der ruhig die Arme Verschränkenden die Zügel und deutete das jeweilige Aufstampfen und Scharren der Vorderfüße ihres Thieres auf eine Neigung desselben – wahrzusagen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie erröthete und meinte, das wären Künste von Renz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Daß es hier ein interessantes Geheimniß gab, wußt’ ich halb und halb.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="166"/>
+        <tei:seg> Ihres Roßführers Sohn, Graf Louis, galt im Stillen für Corinna’s Verlobten. Ob heute die Declaration vor sich gehen sollte?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Durch Zufall war ich in das ländliche Fest und in die Cavalcade gerathen und hatte schon Winke erhalten, mich auf einen Toast vorzubereiten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lästige Verbindlichkeit, die einen präsumirten Toastbringer um jeden Genuß beim Mahle, bei einer Landpartie, in jeder Geselligkeit bringen kann! Die andern essen, trinken, lachen – unsereins muß an ein „Goethe sagte einmal –“ oder dergleichen denken. Ich schlug im Geist Petiscus’ Mythologie auf und besann mich auf einige leidlich anständige Schalkheiten Amor’s und Hymen’s.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Cavalcade war zahlreich. Sie bestand aus Fahrenden und Reitenden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Voraus ritt Corinna, wie gesagt, armverschränkt und zuweilen höchst nachdenklich. Ihr Zügelführer war ein Mann von Geist, der seinen Eindruck durch zu vieles Sprechen nicht abnutzte. Dann kam meine Wenigkeit carambolirend mit zwei Phaethons, in welchen sich ein Berg von leuchtender Seide befand, ein ganzer Tisch voll Gerson’scher pariser Neuigkeiten. Unter jenen Zeugen steckten zwei Damen, die ohne Zweifel diese Stoffe anhatten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war Gräfin Leopoldine, Corinna’s Mutter – gewiß einst sehr schön; doch fiel der Apfel Corinna weit vom </tei:seg>
+        <tei:pb n="167"/>
+        <tei:seg> Stamm Leopoldine. Es ist seltsam und nur durch die „genea- (brich dir den Hals nicht, lieber Leser!) geneanomischen Briefe“ meines Freundes Levin Schücking zu erklären, wie bei menschlichen Geburten die Aepfel oft so weit vom Stamm fallen und die Weisheit des Sprichworts Lügen strafen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das zweite in den Kleiderstoffen steckende Wesen ist Comtesse Natalie, Corinna’s jüngere Schwester. Das allerliebste Kind wäre gern auch geritten, aber ihre Entwickelung wäre noch nicht vollendet, hieß es; die Aerzte hatten das Reiten um so mehr verboten, als Corinna’s Lebhaftigkeit beim ersten Versuch sogleich Neigung zur Voltige zeigte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den zweiten Phaethon nimmt Gräfin Marianne Fürstenberg ein. Sie pflegte sonst bei solchen Partieen den Marstall ihres Vaters nicht zu verschmähen; jetzt ist sie verheirathet, seit einigen Wochen erst; sie zieht den Wagen vor.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Mann courbettirt zur Seite. Das ist eine Riesengestalt auf einem mittelalterlichen Turnierpferde. Pinto, eine Bulldogge von menageriemäßigem Aussehen, ganz geeignet, die Sehnsucht nicht nur nach einem Maulkorb, sondern nach einem Käfig für ihn zu wecken, ist der Gegenstand einer noch entschiedenern Aufmerksamkeit des Grafen Dohren als für seine Gattin. Pinto trottet wie ein gezähmter Panther nebenher. Wer ihm traute –! Ich sah, </tei:seg>
+        <tei:pb n="168"/>
+        <tei:seg> wie Otto der Welf und Richard Löwenherz einst mit ihren Löwen spazieren gehen konnten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Noch kamen Wagen mit Damen die Hülle und Fülle, eine Anzahl Offiziere aus der nächsten Garnison, einige Arbeiter vom nächsten Landgericht; glücklicherweise fehlten einige bürgerliche Namen nicht und befreiten mich von der Aufgabe, hier für mich allein die Einheit des Menschengeschlechts zu vertreten. Den Rest bildete Dienertroß in allerlei eleganten Costümen, von denen mehrere erst vor einigen Wochen im pariser „Follet“ gestanden hatten. Corinna’s Vater, Graf Dohren, den wir den Zug beschließen sehen, wie ihn seine älteste Tochter eröffnete, spricht eben von Farbenzusammenstellungen. Der auf Kunst dilettirende Mann konnte tagelang damit zubringen, zum Carneval Costümes zu zeichnen und die Livreen seiner Diener nach Phantasiebildern zu ändern. Wie gesagt, ich verweise auf das geistvolle, kleine Buch meines Freundes Schücking, wo ausführlicher dargestellt ist, wie die wunderliche Natur unter Vater, Mutter und Kind im Punkt der Aehnlichkeit oder Unähnlichkeit des Geistes und des Körpers seltsame Gesetze befolgt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine Persönlichkeit haben wir ganz vergessen, nächst Corinna doch die wichtigste der Landpartie.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis, der etwa dreiundzwanzigjährige Sohn des Grafen Anton Heberstein, der mögliche Gegenstand </tei:seg>
+        <tei:pb n="169"/>
+        <tei:seg> meines in Geburtswehen befindlichen Toastes und der Schöpfer des erwarteten ländlichen Festes. Graf Louis war bereits durch die Erbschaft einer verstorbenen Tante selbständig geworden und besaß Güter, deren Ertrag vollkommen ausreichte, ihn schon bei Lebzeiten seines Vaters, der ein Witwer war, selbst ein Haus machen zu lassen. Kleine buntgemalte und vergoldete Karten mit allerlei erdenklichen Arabesken der Freude, mit gespickten Hasen, Champagnergläsern, brennenden Plump-Puddings geschmückt, hatten </tei:seg>
+        <tei:foreign>de la part du comte Louis Heberstein</tei:foreign>
+        <tei:seg> alles, was rings in der Umgegend gesellschaftsfähig war, zu einer </tei:seg>
+        <tei:foreign>Fête champêtre</tei:foreign>
+        <tei:seg> eingeladen. Man hatte schon viel gelacht über diese etwas realistische Grundlage idealer Poesie, d. h. über die schlechte lithographische Anstalt in nächster Garnison- und Kreisgerichtsstadt; doch war der Zweck erreicht, die Gesellschaft war versammelt und die </tei:seg>
+        <tei:foreign>fête champêtre</tei:foreign>
+        <tei:seg> sollte auf der sogenannten Cottage stattfinden. Allerlei Unnatur, bengalisches Feuer und vielleicht – auch mein mythologischer Toast standen in Aussicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis war ein schöner Mann; er hatte bei den Husaren dienen wollen und wurde nur scheu, weil man ihn zu den braunen, statt zu den rothen stellen wollte. Auch für ihn war die Farbe ein Studium wie für den Grafen Dohren, den Vater jener Dame, die er liebte oder wenigstens durch sein arkadisches Fest heute erobern wollte. Man muß </tei:seg>
+        <tei:pb n="170"/>
+        <tei:seg> gestehen, das Menschenkind, das ihn als sein Groom begleitete – der kleine Tom Pouce saß hinten auf dem Phaethon seiner Cousine Fürstenberg – war das niedlichste, mit bunten Läppchen ausgeschmückte Püppchen von der Welt, etwas cretinartig beängstigend im Aussehen wie einer der Drei Zwerge, die man in Erinnerung an eine gewisse Bibelstelle über Gottes Ebenbild ebenfalls nur für Automaten zu nehmen geneigt ist; genial aber war der Gedanke des Grafen Louis, seinem Groom ein feines Nesseltuch um den Arm – ich habe vergessen, ob den rechten oder linken – anheften zu lassen; es sollte dazu dienen, wenn Tom Pouce vom Wagen sprang und die Dame seines Herzens in eine Collision mit ihm kam (etwa beim Absteigen vom Roß), an dem profanen Tuch der Livree die Berührung ihrer Finger unmöglich zu machen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Corinna, die Liebliche, war die Seele des Ganzen. Graf Anton scherzte mit ihr in jenem Patois von Abkürzungen und Interjectionen, die sich, so närrisch sie sich anhören, zuweilen bei den gescheidtesten Leuten an die Stelle der Gedanken drängen. Auch die übrige Gesellschaft war in diesem Rothwelsch heimisch und verstand sich vortrefflich.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei der Ruine sind wir angekommen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Luft ist still, die Windharfe schweigt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis hatte für einen Ersatz der Zephyre ge-</tei:seg>
+        <tei:pb n="171"/>
+        <tei:seg>sorgt. Geheimnißvoll bat er die Gesellschaft, sich so zu stellen, daß Niemand die Windharfe sehen könnte. Man that ihm den Gefallen. Draußen schnoberten die Rosse. Das eigentliche Ziel des Festes war noch nicht erreicht. Es lag weiter abwärts.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Jetzt ertönten harmonische Accorde. Ohne Sturm in den Wipfeln, ohne Windsbraut, die über die Kronen der Buchen hinwegjagte – Graf Louis bat nur, sich nicht umzusehen. Man sollte nur hören. Es war ein unendliches Weh, das in den Lüften zu klagen schien; ein Geisterruf aus abgeschiedenen oder erst noch erwarteten Zeiten; ein Gruß an die tiefsten Räthsel der Brust aus jener Welt, wo alle Räthsel ihre Lösung finden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber ach! Corinna zerstörte die Magie und rief: „</tei:seg>
+        <tei:foreign>Cher cousin</tei:foreign>
+        <tei:seg>, das sind Narrenspossen!“</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man wandte sich. Einer der Diener hatte sich hinter einen Schlehdornbusch verstecken müssen, der dicht an dem künstlich zerbrochenen Rundfenster allerliebst natürlich wuchs. Man sah’s nur allzu deutlich; der Diener arbeitete mit Leibeskräften an einem riesigen Blasebalg, den Graf Louis dem heute fehlenden Spiel des Aeolus substituirt hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>„</tei:seg>
+        <tei:foreign>Magnifique!</tei:foreign>
+        <tei:seg>“ hieß es bei Alledem allgemein, trotz des nicht minder allgemeinen Lachens. Man klatschte, man wünschte den wunderbaren Effect des großen aus einer Schmiedewerkstatt entliehenen Instruments noch </tei:seg>
+        <tei:pb n="172"/>
+        <tei:seg> länger zu genießen, aber Corinna war verschwunden. Sie lief schon auf dem Wege zur Cottage weiter und rief mir, als ich ihr im Gewühl der nacheilenden Gesellschaft näher kam, ein unendlich holdes: „Was sagen Sie zu diesem Surrogat des Sturmes?“ zu.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie hörte nicht meine Antwort, die ich vielleicht etwas zu tendenziös vorbereitete. Was ließen sich nicht über eine Aeolsharfe, deren Töne von einem künstlich versteckten Blasebalg hervorgerufen werden, für zeitgemäße Betrachtungen machen, z. B. über den heutigen deutschen Parnaß!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis schien darüber verstimmt, daß man sein Programm nicht einhalten, sondern sich auf eigene Hand belustigen wollte. Indessen war da nichts zu machen. Die Königin des Tags eilte voraus und auch die übrigen Damen klagten über die Feuchtigkeit in der Ruine; es hatte gestern geregnet. Einige stiegen wieder in die Wagen, die andern folgten dem Wiesen- und Feldpfade, von welchem aus die Ebene einen herrlichen Rundblick bot. Ein heller, blauer Himmel trug etwaige Herzenssehnsucht bis zu jenen kleinen Wölkchen, die am Rande des Horizonts oft so pittoresk, so täuschend ähnlich den schneebedeckten Häuptern der Alpen sehen. Es sind wohl auch Fata-Morganen von den Alpen her und lägen die Alpen tausend Meilen weit entfernt; ich lasse mir’s nicht nehmen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wieder kam ein Stück Park und noch immer nicht </tei:seg>
+        <tei:pb n="173"/>
+        <tei:seg> die Cottage, sondern erst ein merkwürdiges Bauwerk, eine sogenannte Einsiedelei.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich weiß nicht, ob meine Leser die rechte Empfindung von einer solchen Einsiedelei haben; sie besteht theilweise aus einer Appellation an unsere Geruchswerkzeuge. Ein solcher Pavillon ist mehr oder minder groß; zuweilen massiv von Steinen, zuweilen auch nur von Holz, zuweilen nur von Baumrinde mit Moos.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der unserige war recht umfangreich und nahm sich von fern noch mehr als die Ruine wie der Wächter der ganzen paradiesischen Gegend aus; in der Nähe entbehrte er allerdings keineswegs jener Veranlassungen zu Betrachtungen über die Verwandtschaft von Patschouli und Modergeruch. Die immer geschlossenen Fensterladen hinterließen den letztern auch hier. An der Schwelle wucherte Gras; auf den Fenstersimsen konnte ein Nees von Esenbeck Studien über Moos- und Algenbildung machen; wie feucht die Wände waren, das sah man recht an den pompejanischen Malereien ringsum; den Musen fehlten die Nasen, den Satyrn die Hörner; ein Versuch, an den Wänden Salpeter zu sammeln, würde sich gelohnt haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen – auch hier wieder hatte sich Graf Louis in großartiger Erfüllung seiner Verheißungen bewährt. Ein „</tei:seg>
+        <tei:foreign>Charmant!</tei:foreign>
+        <tei:seg>“ begrüßte ihn aus dem Munde fast der ganzen Gesellschaft, als man die wunderbare Meta-</tei:seg>
+        <tei:pb n="174"/>
+        <tei:seg>morphose dieses bekannten Pavillons entdeckte, in welchem sonst schon manche Dame erschreckt wurde durch ein aus dem Fußboden gleitendes Thier, eine Blindschleiche oder Kröte. Alles war heute gelüftet; wolkenartige Musselindraperieen bedeckten die vor Feuchtigkeit zerronnenen Frescomalereien, Blumenfestons liefen quer über den Plafond, der sonst nur den Spinnen zugänglich war, und was das Schönste von allem, die Draperieen senkten sich auf den mit Teppichen belegten Fußboden herab, theilten die Rotunde in mehrere Theile und bildeten förmliche Cabinets, in welchen sich umkleiden und neue Toilette machen zu dürfen um so lockender erschien, als Graf Louis das gesammte weibliche Dienstpersonal mit den Toilettenkästchen hatte nachkommen lassen. Lächelnd standen die Kammerzofen hinter den Schirmen und präsentirten als Ueberraschung sich selbst und die Kämme und die Büchsen und die Spiegel.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es stand wieder fest, Graf Louis hatte sich selbst übertroffen. Selbst Corinna schien gefangen und ich arbeitete, halb eifersüchtig, an – meinem Toast. Es war ersichtlich, daß der Abend als Bouquet des Festes die Proclamation der Verlobung bringen mußte. Graf Louis war seines Sieges gewiß; er wollte heute zeigen, was Corinna an ihm gewann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Oft betrachtete sie den schönen schlanken, behend hin- und herhüpfenden Cavalier.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="175"/>
+        <tei:seg> Man entschuldige ihn, wenn er keinen Blick für die offene Wahrheit ihres Auges zu haben schien, keinen Blick für die stille Gläubigkeit einer kindlichen Seele, die alle Mittel besaß, sich durch Geist, Witz, Satire zu behaupten und dennoch gemüthvoll blieb und jede Wunde, die zuweilen eines ihrer Worte hätte schlagen können, sogleich wieder liebevoll selbst verband. Sie hatte dem Grafen den Blasebalg längst verziehen. Er hätte dies aus ihren Augen ablesen, zuweilen in die blaue Tiefe einer Mädchenseele, in die bangen Schauer einer bräutlichen Ahnung blicken sollen – aber – ach! sein Programm –! Er keuchte und schwitzte vor lauter Ernst im Betreiben des Lächerlichen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unglücklicherweise wurde ihm auch die Féerie mit dem Pavillon zerstört.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Thörichte Frauen! Eine einzige Spinne löste den ganzen Zauber. Während die Männer draußen die Cigarren anzündeten und auf den Moment harrten, wo die Damen neumetamorphosirt und zur Tafel geschmückt hervortreten würden, erscholl ein furchtbares Geschrei; wir fürchteten für die Musselinvorhänge die Berührung mit einem Schwefelholz oder Aehnliches – es war eine Spinne, die auf die Kleider der Gräfin Leopoldine gelaufen war, als eben die Dame ihrem Teint ein wenig nachhelfen wollte; im Nu war der Pavillon verlassen und die Toi-</tei:seg>
+        <tei:pb n="176"/>
+        <tei:seg>letten kamen in einem Zustande zur Ansicht, der zwar nicht ganz den vorwitzigen Besuch Aktäon’s bei Diana und ihren Begleiterinnen reproducirte, der aber doch eine so bedenkliche Verwirrung hervorbrachte, daß wir gezwungen wurden, unser Lachen zu hemmen und zu entfliehen. Corinna war noch im Reitkleid und nicht zu bewegen gewesen, anderswo als auf der Cottage sich umzukleiden. Sie beruhigte mit Mühe den jungen Grafen, der einige Diener und Dienerinnen mit einer Flut von Vorwürfen überhäufte für die schlechte Säuberung des Lokals und die geringe Unterstützung seiner phantastischen Combinationen. Bewundernswürdig war die Art, wie Corinna die Spinne vom jähen Tode errettete. Während die einen geradezu „Feuer!“ riefen, die andern von den Offizieren, die sich nicht nähern sollten, dennoch ihre Säbel begehrten, ging sie an einen blühenden Akazienbaum, langte einen Zweig hernieder, brach diesen ab, hielt ihn auf das Kleid ihrer halb ohnmächtigen Mutter, ließ sich behutsam die Spinne auf die grünen Blätter und weißen Blüthen flüchten und warf ihn dann weg. Jetzt wurde ich sogar eifersüchtig auf meine Stellung als Barde in diesem Kreise; eine Menge Dilettanten ergriffen den nahe liegenden Reim von Akazie und Grazie. Man sah, wie an unserer unerschöpflichen Lyrik unsere schöne Sprache allein schuld ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="177"/>
+        <tei:seg> Endlich sollten wir zur Cottage kommen. Ich schlug einen Weg quer durch die Büsche ein. Noch ist mir’s, als sähe ich jede weiße Winde am Wege, die sich an Schwarzdornbüschen emporrankte. Feldthymian durchwürzte die Luft; in der That konnte man sich auf den Rücken einer Schweizeralpe versetzt glauben, denn auch die Cottage war ein Schweizerhaus. Oekonomie und Ställe und landwirthschaftliche Zwecke gingen hier Hand in Hand mit der Romantik. Die Cottage gehörte zu jener Erbschaft, die Graf Louis von seiner Tante gemacht hatte, die eine recht bürgerlich denkende Frau war; denn sie liebte die Geheimnisse der Butter- und Käsebereitung ebenso sehr wie die Oekonomie des Geldbeutels; in diesem Schweizerhause lebte sie sogar der Ersparnisse und Beaufsichtigung ihrer Einkünfte wegen des Winters. Demgemäß war es wohnlich eingerichtet, hatte einen Reichthum von Anbauten mit Kühen, Schafen, Kälbern und einem Hühnerhof, dessen gegenwärtige normale Bedeutung für zehn Meilen in der Runde heute schon öfters besprochen worden war; Graf Louis war Hühnerolog mit einer Leidenschaft, als ließe sich das Huhn der Märchen wahr machen, das täglich einen Dukaten legte. „Bisjetzt“, sagte sein Vater etwas kaustisch, „</tei:seg>
+        <tei:hi style="letter-sparse">kostet</tei:hi>
+        <tei:seg> ihm eher noch jedes Ei einen Dukaten.“</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das grün, roth und weiß angestrichene Schweizerhaus </tei:seg>
+        <tei:pb n="178"/>
+        <tei:seg> hatte massive Grundmauern und gab sich nur äußerlich den Schein, von Holz zu sein. Eine prächtige Veranda schloß sich unmittelbar an. Auf dieser war eine große Tafel gerichtet. Schon harrten die Diener und nahmen die Hüte und Mäntel der Ankommenden entgegen und Champagner fror in Eisvasen und Blumen dufteten und jenseits einer großen, mit zahllosen Blüten geschmückten Wiese stimmte in einem Teiche eine zu erwartende Tafelmusik von Fröschen schon die Instrumente; eine Umfriedigung durch Schilf verbarg dies ländliche, wohl unbestellte Orchester. Darüber her flaggten Segel und deuteten auf eine kleine Flotille, die daselbst vor Anker lag und ohne Zweifel auch Anlaß zu einer Entdeckungsfahrt auf dem kleinen Teiche geben sollte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis machte den Cicerone und Erklärer des pittoresken Rundgemäldes, das sich hier aus Farbe und Duft gebildet hatte und nicht bloß zu sehen, sondern auch mit allen Athemzügen der Brust zu genießen war. Corinna hörte ihm sinnend zu, freute sich der Tauben, der Hühner, lachte über die grotesken Formen der bunten exotischen Hähne und erzählte Geschichten von Fröschen, die sich in Prinzen verwandelt hätten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schon gruppirte man sich um das jugendlich strahlende Paar, schon sah ich den bedeutungsvoll bestätigenden Blick einiger Herren, die mich auf den Höhepunkt </tei:seg>
+        <tei:pb n="179"/>
+        <tei:seg> des heutigen Festes vorbereitet hatten. Corinna wandte sich nach einem plötzlich beginnenden Musikstück von Waldhörnern, Schalmeien und Flöten, deren Bläser man nicht sah, brach aber sogleich wieder in ein lautes Lachen aus.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man wandte sich und sah, daß inzwischen eine große, die eine Seite der Veranda bedeckende Zeltwand zurückgezogen wurde und wie im ersten Act des „Propheten“ eine theatralisch angeordnete Pastoralscene den Blicken darbot. Meyerbeer’s große Windmühle fehlte, aber die holländische Heuernte war in vollem Gange. Sämmtliche Knechte und Mägde der Cottage, über deren Abwesenheit man sich gleich anfangs hätte verwundern sollen, waren, verstärkt durch Ergänzungsmannschaften aus den umliegenden Dörfern, in bunten Idealcostümen als ländliches lebendes Bild gruppirt. Die einen mähten, die andern luden Heu auf, andere schlummerten auf einem mit Bändern geschmückten Wagen, wieder andere flochten Garben, Kinder schmückten sich mit Kränzen, die man wieder von andern winden sah – wenigstens sollten dies alles die steifen und unbeholfenen Statisten der arkadischen Scene ausdrücken.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war, aufrichtig gesagt, ein wenig ridikül. Man sah den plumpen Gestalten die Verlegenheit und den Mißmuth auf dreihundert Schritte an. Vollends als die Gesellschaft in Jubel ausbrach und klatschte und </tei:seg>
+        <tei:pb n="180"/>
+        <tei:seg> dem Grafen Louis ironisch Glück wünschte und einen neuen Theaterintendanten entdeckt haben wollte und der deutschen Literatur nicht minder Glück zu dieser Eroberung eines poetischen Arrangeurs wünschte. „Ist das die Elßler? Ist das die Taglioni Ihrer Truppe?“ ging es durcheinander im Hindeuten auf die hervorragendsten der plumpen Erscheinungen, die beschämt und verlegen niederblickten, jenen altenburger Bäuerinnen nicht unähnlich, die uns zuweilen in ihren Hosen auf der Promenade von Leipzig begegnen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Corinna hatte nur ein einziges mal die Lorgnette auf das landschaftliche Bild gerichtet und sich dann abgewendet. Ihr Vater mußte seinen grimmen Pinto festhalten, der nicht übel Lust zu bekommen schien, die arkadische Scene zu zerstören. Ich merkte, daß Corinna die Witze ihres Papa nicht hören mochte, der plötzlich eine wunderbare Geläufigkeit der Zunge und der Ideengänge bekam bei Vergleichung dieser gezwungenen Schauspieler mit den entsprechenden am Hoftheater in Oper und Ballet. Die Mutter, Gräfin Leopoldine, wurde unwillig und ließ einige </tei:seg>
+        <tei:foreign>„Fi donc!“</tei:foreign>
+        <tei:seg> erschallen, die mehr gegen den Vater als gegen Graf Louis gerichtet waren. Zum Glück hörte man plötzlich Wagen anrollen, Pferdetrappeln und Säbelklirren. Es kam noch ein zweites Contingent zu dem ländlichen Feste, das einen andern Weg eingeschlagen </tei:seg>
+        <tei:pb n="181"/>
+        <tei:seg> hatte. Ihnen kamen die Plump-Puddings der Einladungskarten zu rascherer Erfüllung. Man ging zu Tisch.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von dem Diner – das eigentlich, es schlug schon sechs Uhr, ein Souper zu nennen war – kann ich, was die Speisen betrifft, nichts berichten, als daß glücklicherweise diese keinen ländlichen Charakter trugen. Die Sitzplätze der Gäste waren durch Zettel in den Gläsern angedeutet; Corinna lehnte den Platz an des Grafen Louis Seite ab; sie schützte die Sonne vor, die sie blendete. Ein Vorhang half nach und nun mußte die junge Comtesse, wenn sie nicht zu sehr auffallen wollte und zu sehr die Blicke ihres Vaters, ihrer Mutter, ja die ihrer determinirten Schwester herausfordern, doch an des jungen Grafen Seite Platz nehmen –  „Sind doch schon die Ehepacten geschlossen!“ flüsterten meine Gewährsmänner. Schon glaubte ich mich auf einen gewissen Moment rüsten zu können, wo sich Graf Anton Heberstein, der inzwischen immer feinlächelnd und sinnignachdenkend verblieb, erheben, an sein Glas klopfen und eine Gesundheit ausbringen würde, deren weitere Illustration dann von mir vorausgesetzt wurde. Da unterbrach beim ersten Teller Suppe wieder ein schriller Accord die kaum wiederhergestellte Harmonie der Spannung und Erwartung –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis gab heute schon die vierte oder fünfte originelle Idee zum Besten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="182"/>
+        <tei:seg> Aus der Raritätenkammer seines so jung schon ererbten Besitzes brachte er ein uraltes chinesisches Service der ökonomischen gräflichen Tante hervor, eine Antiquität, die zu Zeiten August’s des Starken von Sachsen hoch im Preise gestanden haben mochte. Die Teller waren fabelhaft klein und standen mit dem durch die frische Luft erregten Appetit im komischsten Gegensatz. Die sonst so vortrefflich bereiteten Speisen, deren Gänge indessen kein Ende nehmen wollten, konnten unter solchen Umständen kaum gewürdigt werden. Viele der Damen gaben ihre Teller geradezu zurück, weil sie behaupteten, die auf dem Porzellan abgebildeten Gegenstände verdürben ihnen den Appetit. Mich selbst traf das Geschick, meine Portionen regelmäßig mit gemalten Schlangen und Drachen verzehren zu müssen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis blieb consequent in der Vertheidigung der Schönheitsanschauungen des Rococozeitalters und krönte seine Idee nach dem Dessert noch mit dem Kaffee, der gleichfalls in chinesischen Tassen servirt wurde. Die Tassen hatten keine Henkel und mancher zarte Finger verbrannte sich. Man kann sich die Scherze, die Polemik, die Ironisirung der Speisen, die Anspielungen auf chinesische Damenfüße, auf die Schenkel der bereits concertirenden Frösche, auf den Appetit der Heimchen und ähnliche Verspottungen der kleinen Schüsseln und Teller denken. „Bitte, </tei:seg>
+        <tei:pb n="183"/>
+        <tei:seg> noch ein Splitterchen Braten!“ „Noch ein Fingerhütchen Sauce!“ „Gefälligst einige Senfkörnchen!“</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Corinna wurde bleicher und bleicher; sie mochte sich denken, daß sie schon die Honneurs des Hauses zu machen und die Einfälle eines in Bagatellen so dictatorisch auftretenden Mannes zu vertheidigen hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Inzwischen hatte sich die Sonne golden zur Ruhe begeben. Sie glänzte noch einmal in dem Gewässer des Teichs, ließ die Fenster der rings in der gewaltigen Ebene aufragenden Schlösser blitzend widerstrahlen und färbte den Abendnebel, der sich duftgleich auf den Hochwald legte, mit rosigen Tinten. Die Conversation blieb lebhaft und angeregt, die Gruppen vertheilten sich im Abenddunkel, einige befuhren den Teich, andere verloren sich im Park, Neigung fand sich zu Neigung – und mich selbst beglückte Corinna’s Mutter, die auf meine Frage, wie sie zu Corinna’s Namen gekommen, an mich gefesselt blieb. Nach langen Beweisen, die sie für ihre Bekanntschaft mit den Schriften der Frau von Staël führte, gab sie mir als ein Zeichen besonderer Vertraulichkeit die Mittheilung, daß allerdings die Verlobung ihrer Tochter mit dem Grafen Louis so gut wie </tei:seg>
+        <tei:foreign>fait accompli</tei:foreign>
+        <tei:seg> wäre. An der Wildheit ihrer jüngern Tochter merkt’ ich, daß diese Raum suchte, sich desto mehr auszudehnen und demnächst an die Reihe der Freier zu kommen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="184"/>
+        <tei:seg> Alles das wäre durchgängig romantischer Eindruck gewesen, hätte nur die Musik aufgehört, ihren der Situation so wenig entsprechenden Lärm zu machen; sie hatte ihren ersten pastoralen Charakter durch Blech über Blech verstärkt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber trotz dieser Erschütterung der Luftwellen sprach melodisch der tiefe Friede, der auf der weiten herrlichen Landschaft ruhte, das friedliche Rauschen in den Baumwipfeln des Parks, aus dessen dunkeln Schluchten sich Rehe hervorwagten, die schattengleich ebenso schnell wieder verschwanden. Der Mond stieg auf, der Abendwind rauschte durch die hohen Schilfblätter, an der Veranda sagte jeder sich schließende Blütenkelch ein flüsterndes: Gutenacht! Das Concert der Frösche war ein Chor, der das feierliche Ensemble der Natur nicht störte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nun wurde es allgemein bekannt, daß der entscheidende Augenblick auf den Schluß des Festes, auf ein Feuerwerk und eine gewisse bengalische Flamme verlegt war, die das verlobte Paar in dem Augenblick umstrahlen sollte, wo es sich gerade in einer an die Veranda stoßenden Muschelgrotte befand. Dann sollte Graf Louis die Applaudissements des Dankes für sein so geistvoll arrangirtes und sich krönendes Fest entgegennehmen; er wird dann Corinna’s Hand ergreifen, diese küssen, die Aeltern werden hinzutreten, die Hände der Liebenden ineinanderlegen, ein </tei:seg>
+        <tei:pb n="185"/>
+        <tei:seg> Tusch wird folgen und dann –: Bester Doctor, dann ein Wort von Ihnen – so flüsterte mir schon ein Dutzend Stimmen ins Ohr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Meine Redeblumen waren geordnet; ich glaubte um so mehr an den glücklichen Ausgang, als Corinna, je dunkler es wurde, desto aufgeregter erschien, ja sogar trällerte, sang, hin- und hersprang, lachte, bald sich mit den Frauen neckte, bald mit den Herren, zuletzt sogar einigemal laut declamirte und mit mir, heute dem Repräsentanten der alten Hof- und Gratulationspoesie, einen Wettkampf in Reimen begann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eben schlug es aus dem Thal halb zehn Uhr. Die Nacht war hinlänglich hereingebrochen, um trotz des Mondes dem Feuerwerk volle Wirksamkeit zu lassen; schon sammelte man sich auf der Veranda, die munterste Conversation, deutsch, französisch, italienisch ging durcheinander; die Dienerschaft reichte Limonade, Eis, Confituren.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Böllerschuß – die ersten Leuchtkugeln stiegen auf; im magischen Licht glänzte die ganze Cottage; Raketen prasselten, ein </tei:seg>
+        <tei:foreign>Pot à feu</tei:foreign>
+        <tei:seg> entlud sich, die Garben senkten sich wie feurige verlöschende Trauerweidenzweige in den Teich; Schlag auf Schlag entwickelte sich ein Feuerwerk, für dessen Erfolg sich beim Arrangeur die anwesenden Artillerieoffiziere der Garnison verbürgt hatten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Enger und immer enger wurde der Kreis, immer </tei:seg>
+        <tei:pb n="186"/>
+        <tei:seg> dichter und dichter drängte man sich an die Muschelgrotte, wo ein Piedestal, von hohen Blattpflanzen und exotischen Blumen umgeben, eine kleine Pappfigur trug, die einen Amor darstellte, der zum Zeichen der Verschwiegenheit den Finger auf den Mund legte. Bravis folgten auf Bravis. Die Feuerwerker der Artillerie übertrafen sich selbst.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Endlich war der Augenblick der höchsten Spannung erschienen. Hinter der Muschelgrotte sollte erst blutrothes, dann mildbläuliches Licht aufflammen und im letztern eine gewisse Gruppe dann den Abend krönen – –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die blutrothe Flamme ergoß ihren Feuerschein; alles war wie in die Gluten der Hölle getaucht; aus der Cottage, der Schweizerei, aus den Ochsen- und Schafställen, aus dem Park und der Wiese war Herculanum und Pompeji im Kampf mit dem Vesuv geworden – – Jetzt kam das milde bläuliche Licht. Alles blickte auf den Amor von Pappe – eben noch, bei der blutrothen Beleuchtung, stand unter seinem Blätter- und Blütendach Corinna neben dem Grafen Louis; jetzt, wo sich schon eine Runde wie zur Cour und Gratulation gebildet hatte, erblickte die erstaunte Gesellschaft nur den verdutzt allein dastehenden jungen Cavalier, Corinna’s Schwester, ihre Aeltern, die nächsten Anverwandten neben ihm. Corinna hatte sich unter den Nächststehenden Bahn gebrochen und während man noch nach ihr rief, suchte, durch immer mehr ange-</tei:seg>
+        <tei:pb n="187"/>
+        <tei:seg>zündete Präparate das blaue Licht in Permanenz erhielt, die Musik, die im blauen Licht ihr Stichwort hatte, fort und fort schmetterte – hörte man das Sprengen eines Rosses über das Pflaster des Hofes dahin – –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dort, wo die Wagen schon eingespannt, die Reitpferde zur Rückkehr gesattelt standen, hatte Corinna sich auf ihr Roß geschwungen und war in Nacht und Nebel verschwunden –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der erste, der die Besinnung hatte, ihr zu folgen, war Graf Anton, Louis’ Vater –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis, der Sohn, biß sich auf die Lippen. Jetzt erst hatte er ein Auge für Corinna gehabt. – Die Stimmung des Abends war dahin. In getheilten Häuflein, ordnungslos kehrten die Theilnehmer des Festes in ihre mehr oder weniger entfernten Schlösser und in die Stadt zurück.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>__________</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Noch jetzt entsinn’ ich mich, daß ich für meine Person damals zu den wahrhaft Befriedigten gehörte – nichts ist peinlicher, als einer Empfindung Worte leihen, die uns nicht von Herzen kommt. Von dem unterbrochenen ländlichen Feste sprach man noch lange in der Gegend. Graf Louis reiste in die Residenz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Corinna reichte einige Wochen darauf ihre Hand – dem Vater des Grafen – Grafen Anton –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="188"/>
+        <tei:seg> Darüber empfand ich kein Mitleid. Bei mehren Gelegenheiten hatt’ ich mich überzeugt, daß Graf Anton einer der charakterfestesten Männer war, die ich je kennen gelernt, und trotz seiner fünfzig Jahre in allen Lagen seines Lebens jugendlicher fühlte als sein Sohn. Auch dachte ich an jenes Bild unter den hohen Buchenwölbungen, als Corinna so ruhig, still und armverschränkt dahinritt, während Graf Anton ihr Pferd am Zügel führte – –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Graf Louis hat sich einige Jahre darauf mit seinem Vater verschwägert und Comtesse Natalie geheirathet. Die Ehe scheint zu gegenseitiger Zufriedenheit zu sein; wenigstens lebt Gräfin Natalie in Wien und ihr Gatte in Paris.</tei:seg>
+      </tei:p>
+      <tei:note type="footnote" xml:id="footnote-1">
+        <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+          <tei:seg>*) Zu dieser Gesellschaftsstudie lieferte dem Verfasser eine Mitarbeiterin seiner „Unterhaltungen am häuslichen Herd“, die sich längre Zeit in aristokratischen Kreisen bewegte, die Materialien.</tei:seg>
+        </tei:p>
+      </tei:note>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit </tei:seg>
+        <tei:q>Ein ländliches Fest</tei:q>
+        <tei:seg> eröffnete Gutzkow 1862 den neuen Jahrgang seines Familienblattes „Unterhaltungen am häuslichen Herd“. Sieben Jahre später übernahm er die Arbeit in seinen Sammelband </tei:seg>
+        <tei:q>Die schöneren Stunden</tei:q>
+        <tei:seg>, verzichtete hier auf den Untertitel </tei:seg>
+        <tei:q>Gesellschaftsstudie</tei:q>
+        <tei:seg>, einen Terminus, den er jedoch in einer eigens für den Buchdruck hinzugefügten Titelfußnote für seine Arbeit verwendet. In dieser Fußnote weist Gutzkow darauf hin, dass ihm seinerzeit eine Mitarbeiterin der „Unterhaltungen“ den Stoff für seine Gesellschaftsstudie geliefert habe.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ansonsten nahm Gutzkow 1869 kaum Veränderungen an seiner Arbeit vor. Die stärkste Varianz zwischen Journalerstdruck und erstem Buchdruck ist die Absatzgestaltung, die Gutzkow für die Buchausgabe wesentlich kleinteiliger einrichtete. Nur sporadisch wurden einige wenige Textstellen durch Wortumstellungen, minimale Hinzufügungen, Neuformulierungen stilistisch revidiert. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die schon kurze Zeit nach der Erstausgabe nötig gewordene zweite Auflage des Bandes berichtigt lediglich Druckfehler, darunter auch die beiden Druckfehler, die der Bucherstdruck von Ein ländliches Fest aufweist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags in: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J Karl Gutzkow: Ein ländliches Fest. Gesellschaftsstudie. In: Unterhaltungen am häuslichen Herd. Leipzig. 3. F. Bd. 2, Nr. 1, 2. Januar 1862, 1-8. (Rasch 3.62.01.02.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E1">
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> Ein ländliches Fest. In: Karl Gutzkow: Die schöneren Stunden. Rückblicke. Stuttgart: Hallberger, 1869. S. 164-188. (Rasch 2.39.7)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E2">
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> Ein ländliches Fest. In: Karl Gutzkow: Die schöneren Stunden. Rückblicke. 2. Aufl. Stuttgart: Hallberger, 1869. S. 164-188. (Rasch 2.39a.7N)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">439,7</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Säbel</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Säbe</tei:sic>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">446,10</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>gehabt.</tei:lem>
+        <tei:seg>  </tei:seg>
+        <tei:sic>gehabt</tei:sic>
+        <tei:seg> (korrigiert nach E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">446,29</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>hat</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>hnt</tei:sic>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

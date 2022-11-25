@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Fleckenreiniger</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Der Fleckenreiniger. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 69-81. (Rasch 2.33.1.3)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #der-fleckenreiniger"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="69"/>
+        <tei:seg> Der Fleckenreiniger.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="71"/>
+        <tei:seg> Wer von der gewaltigen Macht des Bühnenlebens einmal erfaßt wurde, bedarf der Hand des zwingenden Schicksals, um von ihr errettet zu werden, wenn die Kraft den ungünstigen Wogen Trotz zu bieten nicht ausreicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der eigene Wille, die eigene Selbstbeherrschung hat selten Jemanden zur Besinnung zurückgeführt, der im Bühnenleben seinen Anker werfen und nicht festen Grund gewinnen konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die unglaublichsten Wandelungen erlebt und beobachtet man, wenn man diese dämonische Wirkung, welche die Bühne auf die ihr einmal Verfallenen ausübt, verfolgt. Talentlosigkeit schleppt sich ein ganzes Leben hindurch am Lampenlichte hin. Zurückgesetzt, geschmäht sogar kann mancher Darsteller in der Blüte seiner Jahre, wo ein neuer Erwerb noch mit männlichem Entschluß und männlicher Kraft sich anbahnen ließe, nicht die Kraft über sich gewinnen, sich loszureißen von diesem magischen Bann des Theaterlebens. Menschen hat man gesehen, die ihr Vermögen der Bühne opferten und doch den unwiderstehlichen Drang sogenannter Directionsführung nicht unterdrücken konnten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man braucht nicht an den Vater der Gräfin Hahn </tei:seg>
+        <tei:pb n="72"/>
+        <tei:seg> zu erinnern, der seine vielen Rittergüter an Theatermanie vergeudete und noch lange eine kleine Pension, die ihm geblieben, dazu anwendete, in Stade, Flensburg, Itzehoe und ähnlichen kleinen Städten an der Niederelbe bei herumreisenden Gesellschaften die Rolle eines Inspicienten hinter der Bühne zu spielen, Statisten zu schminken und bei Gewitterscenen für Blitz und Donner zu sorgen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es gibt Beispiele weniger abstoßender, Beispiele edlerer Art für den Beweis, wie scharfe harpyenartige Hände die theatralischen Musen unter ihren griechischen Gewändern verbergen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gerade darin, daß die Theaterwelt eine kleine Welt für sich, ein abgeschlossenes Leben ist mit dem ganzen Widerspiegel der großen Welt und des großen Lebens, gerade darin liegt der Zauber der Bühne.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist nicht der Reiz des Spiels, der Reiz der Wirkung auf die Masse, der allein so gefangen hält. Leider ist die eigentliche Aufgabe der Bühne so oft ihr Nebenzweck!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nein, die Macht liegt in dem abgeschlossenen Kleinstaate für sich selbst.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da gibt es Könige, Minister, Regierungen, Gesetze, Revolutionen, Katastrophen, Alles für sich und auf sich selbst nur bezogen. Bei Hunderten von Schauspielern, die an großen Bühnen sich für kleine Fächer erhielten, ist ihr Dasein im Grunde ein organisirter Müßiggang; </tei:seg>
+        <tei:pb n="73"/>
+        <tei:seg> aber keiner von diesen, oft in acht Tagen kaum einmal mit einigen Worten auftretenden Schauspielern oder Sängern merkt seinen Müßiggang. Die Spannung der Maschine, der Hochdruck, der von oben oder von unten, von einem Rivalen, von einer Intrigue oder einer Cabale oder dem eigenen Ehrgeize kommt, hält den ganzen Menschen in einer elastischen Erregung. Wie viel mehr muß diese Erregung heben und in innersten Aufruhr versetzen, wenn man am Bühnenleben ein bedeutendes Glied des Ganzen ist oder wol gar das Ganze selbst geleitet, selbst eine Zeit lang den Herrscher dieser kleinen Königreiche gespielt hat!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es gibt abschreckende, prosaische Beispiele dieser theatralischen Manie – die tägliche Erfahrung bietet deren – ich will ein fast poetisches erzählen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In den Zwanziger Jahren war die darmstädter Bühne eine der ersten Deutschlands.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der damalige Großherzog Ludwig leitete sie selbst.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nicht nur, daß er ihr seinen Schutz und eine gewisse, der Bühne so wohlthuende persönliche Theilnahme widmete, Großherzog Ludwig war der eigene Dirigent seiner Anstalt und verwandte unverhältnißmäßige Summen auf eine Pracht der Scenerie, welche die Opernvorstellungen Darmstadts in ganz Süddeutschland zu einem noch jetzt nicht verklungenen Ruhme erhoben. Der Großherzog leitete die Proben, gab die Tempi an und ließ Gesandte, Minister, Räthe in den Vorsälen des Theaters warten, </tei:seg>
+        <tei:pb n="74"/>
+        <tei:seg> während er noch mit einem Finale von Spontini oder Gluck beschäftigt war. Seiner Neigung, auf einem für Darmstadt unverhältnißmäßig großen Theater vorzugsweise in den Opern Glanz zu verbreiten, konnte kein Talent geeigneter entgegenkommen als das eines mittelmäßigen Schauspielers, Namens </tei:seg>
+        <tei:hi style="letter-sparse">Franz Grüne</tei:hi>
+        <tei:seg>r, der kurz nach den Befreiungskriegen am Theater an der Wien Karl Moor und Abällino ohne besondern Erfolg gespielt hatte, jedoch Kenntnisse und Einsicht genug für die Stellung eines Regisseurs besaß.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vom Theater an der Wien, das durch Entfaltung äußerer Reizmittel der Scenerie mit den kaiserlichen Theatern in Wien zu wetteifern pflegte, brachte Grüner eine angeregte Phantasie und die Kunst, Massen auf der Bühne zu vertheilen und in gefällige Bewegung zu setzen, bereits mit, vervollkommnete aber dies Talent unter dem prachtliebenden Großherzog zu einer Meisterschaft, deren wahres Terrain die große Oper in Paris gewesen wäre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auch verweilte er in Paris einige Zeit, als mit des Großherzogs Tode der für Darmstadt unverhältnißmäßige Theaterluxus aufhörte und eine Pension, die der leichtsinnige Mann jedoch sogleich verkaufte, seine Zukunft hätte sichern können.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sein Ruf als Arrangeur, seine glänzende Einrichtung der „Stummen von Portici“ verschafften Grüner’n die Anstellung als Director des Stadttheaters in Frankfurt </tei:seg>
+        <tei:pb n="75"/>
+        <tei:seg> a. M. Was Darmstadt bisher besessen hatte, wollten jetzt die reichen Kaufleute Frankfurts besitzen. Ja sie überhoben sich sogar in dem Grade, daß sie Franz Grüner zum „Intendanten“ ihres Theaters ernannten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Folge war Verlust auf Verlust.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der neue Intendant hatte nur seine Darmstädter Erinnerungen im Kopfe, verschmähte Schauspiel und einfache Oper, träumte nur Ballet, Chöre, Triumphmärsche, dreifache Orchester, Feuerregen, bengalische Flammen und Massen, Massen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einige Jahre währte die Herrschaft dieses theatralischen Sardanapal. Während darüber die Kasse leer blieb, die Zuschüsse sich mehren mußten, die Actionäre in Zank und wilde, ja böse Parteiung geriethen, übte der Intendant doch einen Zauber durch seine Künste der Scenirung aus. Er hatte Mozart’s „Don Juan“ neu eingerichtet und mit großen Kosten hinter der Bühne ein Reservoir von Wasser angebracht, aus welchem Röhren zur Bühne hinabgingen und natürliche Springbrunnen hervorbringen ließen. In der Gartensaalscene Don Juan’s, während des Tanzes der berühmten Menuet, erhoben sich hinter den Bosquets natürliche Springbrunnen in der ganzen Höhe der Bühne und erzeugten jedesmal, zu den weichen Accorden der Musik, zu dem Gewühl der Menschen, dem edeln Stil der Decoration, dem südlichen Charakter der darauf abgebildeten Natur durch ihr helles Plätschern </tei:seg>
+        <tei:pb n="76"/>
+        <tei:seg> stürmischen Applaus. Wenn der Intendant bei seinen Actionären einen Zweck erreichen wollte oder eine Untersuchung seiner Finanzverwaltung erwarten konnte, setzte er „Don Juan“ an und ließ die Wasser springen. Plätscherte das so lustig, so spanisch, so romantisch, so bezaubernd südländisch, so hinreißend zum eigenen Antheil an dem bunten Maskenfest, so war Franz Grüner immer wieder im Vortheil. Die reichen Banquiers klatschten. Sie waren in Spanien. Sie vergaßen die Karlisten und Christinos, die Ardoins und die Dreiprocents, die ihnen auf der Börse so vielen Kummer machten; Franz Grüner zauberte ihnen spanische Poesie und seine Bücher wurden mit Nachsicht beurtheilt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Endlich aber half das Wasserspringen doch nichts mehr. Der scenische Sardanapal ruinirte die Anstalt. Man entließ ihn.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von da an führte Franz Grüner ein kummervolles Leben. Er war wie ein verarmter Timon. Sonst in Fülle und Herrlichkeit lebend, floh man ihn jetzt wie den Fluch jeder Bühne. Das ist der Kassenverwüster! war der Ruf, der hinter ihm herscholl und seine reichen Kenntnisse, seinen großen Vorrath vortrefflicher Ideen zu seinem Lebensfluche machte. Ein sogenannter Oekonom der Bühnenverwaltung, ein Sparer, ein Geizhals, selbst wenn er die Kunst mit Füßen träte und in prosaischer Illusionslosigkeit die eigentliche Aufgabe seines Berufs mißhandelte, </tei:seg>
+        <tei:pb n="77"/>
+        <tei:seg> wird immer mit offenen Armen begrüßt werden – aber ein Verschwender, ein Liebhaber der Pracht und des Luxus, selbst wenn seinen Anschauungen eine Genialität zum Grunde läge, wird geflohen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Franz Grüner trug die Pyramiden Aegyptens, das Parthenon Athens, das Colosseum Roms in seiner Phantasie und schleppte sich durch Armuth und Elend kümmerlich hindurch.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man gab ihm an den Wiener Bühnen kleine Posten, die ihm zur Noth das Leben fristeten. Er durfte, wie Graf Hahn in Itzehoe, mit dem Theaterbuche in der Hand auf dem Hofburgtheater hinter den Coulissen stehen und den Schauspielern sagen, wann sie aufträten und wo sie abgingen. Aber auch diesen Posten eines sogenannten „Nachleser“ verlor er und ging nach Pesth – ins Elend.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine Erholung und sein Trost war ein Werk, das er über die </tei:seg>
+        <tei:hi style="letter-sparse">Kunst der Scenerie</tei:hi>
+        <tei:seg> schreiben und mit dem alten darmstädtischen Aufwande von Kupfern, Plänen, Rissen, Costumen erscheinen lassen wollte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kein Verleger erklärte sich bereit, ein von ihm wirklich vollendetes, aber zu prachtvoll angelegtes, vier oder fünf Kunstanstalten in Europa allein interessirendes Werk herauszugeben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So saß Grüner denn Tage lang unter seinen Plänen und Zeichnungen. Er grübelte aus, wie – soeben zu Gluck’s „Alceste“ der Vorhang aufgehen würde … die </tei:seg>
+        <tei:pb n="78"/>
+        <tei:seg> leidenschaftliche Ouverture ist verhallt, die Trompete ertönt, ein Herold tritt auf, der Chor umsteht ihn in angemessener Gruppirung – der eine Sänger dort, der andere da – wir sind in Delphi – Alceste tritt auf – die Priester des Apollo in langen Schleppgewändern nahen sich in majestätischem Zuge, zwei auf zwei, in gleichem Tempo, da auftretend, da abschwenkend, dort verschwindend – so schwelgte Grüner allnächtlich in seiner Armuth, sah die Lichter, hörte die Musik, schrieb jeder Bewegung von Menschen, die er sich dachte, so und so viel Fuß nach links und rechts vor, zeichnete diese Anordnungen auf und träumte eine Ausführung in höchster Vollendung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sonst, wenn ein solcher wirklich ausgeführter Abend in Darmstadt oder Frankfurt glücklich vorüber war, trank der Intendant Champagner; jetzt trank er Wasser.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber die Wunderwelt der großen Oper, Gluck’s mythologische Pracht, Mozart’s „Titus“, Spontini’s „Vestalin“ lebten um ihn und in ihm. Er hoffte auf eine Zeit, wo seine Pläne neu erstehen, seine Gedanken und Bühnenanweisungen Leben gewinnen und sein Werk, wenn nicht im Druck erscheinen, doch noch einmal von einem Fürsten wie Großherzog Ludwig von Darmstadt würde in Ausführung gebracht werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein deutscher Theaterfürst besuchte ihn einige Jahre vor seinem Tode in Pesth.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Theaterfürst ist ein Director.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="79"/>
+        <tei:seg> Dieser Souverain suchte brauchbare Kräfte für sein heimisches Königreich.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als eines Tages beim Besuch der Bühne seine Kleider sich von Oel beschmutzt hatten, erzählte man ihm von einem </tei:seg>
+        <tei:hi style="letter-sparse">Fleckenreinige</tei:hi>
+        <tei:seg>r, dem er seine Garderobe bringen sollte; der Mann, ein Greis, liefere gute Arbeit und er verdiene sich noch einen Gotteslohn, wenn er in des Unglücklichen Dachkammer stiege; es wäre der seit Jahren verschollene ehemalige Intendant der Frankfurter Bühne, Franz Grüner.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Director, kaum an die Möglichkeit eines solchen Sturzes glaubend, stieg in die Dachkammer.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er fand einen abgezehrten kranken Greis, zusammengekauert unter alten Kleidern, die er von Flecken reinigte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Erschüttert redete er den einst von Glanz umgebenen Unglücklichen an und bot ihm Hülfe, Unterstützung nach Kräften, reichte ihm Geld, fragte nach seinen nächsten Bedürfnissen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber er fand Timon.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kein Wort des Dankes, keine Entgegennahme des Mitleids, keine freundliche Erwiederung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich will Ihr Almosen nicht, sagte der Greis, kaum von seinen alten schmutzigen Kleidern aufblickend. Wenn Sie etwas für mich thun wollen als Director eines Theaters, da sind meine Mise-en-Scènen! Da ist die „Alceste“ Gluck’s! Da ist „Iphigenie auf Tauris“, „Or-</tei:seg>
+        <tei:pb n="80"/>
+        <tei:seg>pheus und Eurydice“! Führen Sie meine Pläne aus! Lassen Sie wenigstens mein Werk auf Subscription drucken! Für Ihr Almosen dank’ ich! Es kann mir nichts helfen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Damit schob der auf der Erde sitzende abgesetzte Theater-Lear zornig die Brille auf die Nase zurück, griff nach seinen Fleckseifen, seinen Terpentingläsern, rieb die auf Bällen verdorbenen Kleider, die auf Maskeraden, wie er sie einst unter seinen springenden Wassern angeordnet hatte, mit Champagner und Saucen köstlicher Speisen verunreinigten Gewänder der Damen und wies auf einen alten Ofen, hinter dem aufgeschichtet die Träume seiner Phantasie lagen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er verachtete die wirkliche Welt. Ob er hier aus seidenen Kleidern Flecken wusch, ob er hungerte und fror, er war ein König in seiner wahren Welt, ein Herrscher der Welt des Lampenlichts. Hinter jenem Ofen lagen in Folianten alle seine Ideen über Scenerie. Er konnte sich sagen: Wer in Europa denkt über den zweiten Act von „Orpheus und Eurydice“ nach! Wer weiß, wie da die Nähe des Tartarus anzudeuten, der Furienchor einzuführen, dieser die vom 18. Jahrhundert bewunderte gewisse Septime mit dem erschütternden Nein! mit einem Schritte vorwärts zu begleiten hat? Wer lebt wie ich mit Iphigenien am Thrazierstrand? Wer weiß die Zelte der Griechen dort aufzubauen, wer die Krieger zu gruppiren? </tei:seg>
+        <tei:pb n="81"/>
+        <tei:seg> Wer hat über alles Das nachgedacht, Studien gemacht, Jahre lang geforscht und Scene für Scene jede Stellung, jedes Costume, jeden Prospect niedergeschrieben …?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er verachtete seine Mitwelt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Franz Grüner ist im Elend gestorben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sicher hatte er gehofft, es käme noch eine Zeit, die seinen Directionsstab und Arrangeurscepter wieder hervorziehen würde. Den Gedanken etwa an eine Nichtigkeit seiner gesammelten Schätze, die jeder Kundige, wo einmal beschlossen würde, Gluck zu geben, in wenigen Tagen neu hervorbringen würde, mochte er nicht fassen. Es hätte ein Fortunatusseckel einen Tag lang dem Armen zu Gebote stehen dürfen, er würde nur hineingegriffen haben, um sich wieder ein Theater zu pachten, große Aufführungen zu geben, Trompeterchöre hinter die Bühne zu stellen, Statisten marschiren, Wasser springen zu lassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Macht der Bühnenmusen ist eine dämonische.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wer je in ihrem Reiche auch nur eine einzige </tei:seg>
+        <tei:hi style="letter-sparse">glückliche</tei:hi>
+        <tei:seg> Stunde verlebt hat, ist ihrem Zauber auf ewig verfallen.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkows erzählerische Skizze aus dem Bühnenleben wurde zuerst 1852 in seinen „Unterhaltungen am häuslichen Herd“ veröffentlicht. Die beiden erst 2022 entdeckten Nachdrucke im Augsburger „Sammler“ und der Klagenfurter „Carinthia“ (J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>) sind von Gutzkow sicher nicht autorisiert worden und für die Druckgeschichte irrelevant. Als Gutzkow den Text vier Jahre später weitgehend unverändert in seine Sammlung </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg> übernahm, wählte er dafür einen anderen Titel und modifizierte vor allem die Absatzgestaltung, die er für die Buchausgabe wesentlich kleinteiliger anlegte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine weitere Titeländerung erfolgte 1874 für einen Abdruck in den </tei:seg>
+        <tei:q>Kleinen Romanen und Erzählungen</tei:q>
+        <tei:seg>, dem vierten Band seiner </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>. Hier bildet die Arbeit die erste von insgesamt drei </tei:seg>
+        <tei:q>Novellistischen Skizzen</tei:q>
+        <tei:seg>, mit denen Gutzkow diesen Band beschließt. Dieser dritte Abdruck folgt ansonsten unverändert der Fassung von 1856.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>  [Anon.:] Wirbel und Strudel des Bühnenlebens. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 4, [22. Oktober] 1852, S. 49-52. (Rasch 3.52.10.22.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  [Anon.:] Wirbel und Strudel des Bühnenlebens. (Aus den von Karl Gutzkow herausgegebenen „Unterhaltungen am häuslichen Herd.“ In: Der Sammler. Beilage zur Augsburger Abendzeitung. Augsburg. Nr. 87, 3. November 1852, S. 345-346. (Rasch 3.52.11.03N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J3">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg>  [Anon.:] Wirbel und Strudel des Bühnenlebens. (Aus Gutzkow’s „Unterhaltungen am häuslichen Herd.“) In: Carinthia. Klagenfurt. Nr. 11, 5. Februar 1853, S. 41-43. (Rasch 3.53.02.05N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Der Fleckenreiniger. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 69-81. (Rasch 2.33.1.3)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Ein Lebensloos. In: Karl Gutzkow: Kleine Romane und Erzählungen. Dritter Theil. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 4.) Jena: Costenoble, [1874]. S. 381-388. (Rasch 1.5.4.8.1)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">139,2</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Colosseum</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Collosseum</tei:sic>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

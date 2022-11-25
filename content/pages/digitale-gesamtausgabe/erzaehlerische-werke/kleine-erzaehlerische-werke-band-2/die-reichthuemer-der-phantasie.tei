@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Die Reichthümer der Phantasie</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Die Reichthümer der Phantasie. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 83-96. (Rasch 2.33.1.4)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #die-reichthuemer-der-phantasie"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="83"/>
+        <tei:seg> Die Reichthümer der Phantasie.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="85"/>
+        <tei:seg> Ohne Zweifel kennst du, lieber Leser, den „Ewigen Juden“, die „Geheimnisse von Paris“, die „Denkwürdigkeiten eines Arztes“ und was sonst noch unter dem Namen der Herren Alexander Dumas und Eugène Sue herausgekommen ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber die Personen dieser berühmten Vielerzähler sind dir unbekannt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich verrathe dir daher, daß diese Herren trotz ihrer glänzenden Gaben und ihrer reichen Erfolge bemitleidenswerthe Menschen sind.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gewohnt, in einer ewigen Anregung ihrer Einbildungskraft zu leben, genießen sie schon seit Jahren nichts mehr von der gewöhnlichen Wirklichkeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn</tei:seg>
+        <tei:hi style="letter-sparse"> ihr </tei:hi>
+        <tei:seg>einen Spaziergang macht ins freie Feld, an dem Anblick der schönen Natur euch ergötzt, in einen schattenreichen grünen Wald tretet, so seht ihr doch nur das Feld, nur die Natur, nur den Wald; aber wie anders jene berühmten Neu-Romantiker!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hinter jedem Baume steht ihnen eine erschreckende Ueberraschung, bei jeder einsamen Stelle springt aus dem Busch ein Unbekannter und fodert ihnen die Börse oder </tei:seg>
+        <tei:pb n="86"/>
+        <tei:seg> das Leben ab; an jedem Bergabhange, wo ihr Andern still und bewundernd harrt und an dem zu euren Füßen ausgebreiteten Teppich von Wiesen, Feldern und Bächen euch weidet, ergreift diese Armen Furcht und Entsetzen vor einer plötzlich hinterrücks hervorspringenden Gestalt, die sie jählings in die Tiefe schleudern könnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Unglücklichen, von denen man Wunderdinge erzählt, können nicht hundert Schritt gehen, ohne sich nicht rückwärts zu wenden, rechts und links zu spähen, ob nicht eine Attrape der Art, wie sie ihre Capitel zu schließen pflegen, sie bedrohen könnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Essen sie, Himmel, wer weiß, ob man sie nicht eben vergiften wollte!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Madame! ruft Eugène Sue seine Haushälterin an und springt von seiner Suppe auf, Madame! Heute haben Sie die Dosis auch ein wenig zu stark genommen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Welche Dosis, Herr Eugène?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herr Eugène besinnt sich, er wollte allerdings sagen: Rattengift, Madame! Aber er überlegt sich, daß es gefährlich sein würde, zu verrathen, er fürchte Arsenik in der Suppe; er besinnt sich diesmal noch und sagt nur: Tapioca, oder Sago, oder Cayennepfeffer!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hat er aber einen Gast, mit dem er allein speist, ganz allein, wer weiß, ob dieser in dem Augenblick, wo er gerade ein Stück Kapaunen an der Gabel hat, nicht wahnsinnig wird, zu der Gabel noch ein Messer ergreift, </tei:seg>
+        <tei:pb n="87"/>
+        <tei:seg> sich auf den Schöpfer von ähnlichen Situationen wirft – ihn – </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doch nein! Der unglückliche Dichter besinnt sich. So Schreckliches ist unmöglich.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber da – da sind Menschen – Frauen, Kinder, Männer! Seht das junge Weib am Arme ihres Gatten! Sie hat auf der Brust den Brief eines eben aus der Provinz gekommenen Jugendfreundes, der sie anbetet! Der Mann! Er hat in der Rocktasche eine Rechnung von der Modehändlerin für seine Geliebte! Zwei Freunde, die sich nach Jahren wiedersehen, umarmen sich, küssen sich, – wartet ab! – es sind Verräther! Einer wird den Andern um sein Vermögen betrügen – Alles, Alles ist anders, als es sich gibt, Alles ist falsch, verlarvt, trügerisch, selbst der Hund da, der eben schmeichelt, eben so gutmüthig scheint, eben so treuherzig unsere Hände leckt, er hat – Himmel! – ein Document zerrissen, das das Glück einer ganzen Familie enthielt! Ha, ha! Der bunte Vogel über dem Käfig, aus dem man ihn frei gelassen, hat vor einigen Secunden einen silbernen Löffel verschleppt, das Mädchen des Hauses wird ihren Dienst verlieren, sie wird für eine Diebin gelten, sich rächen, sie zündet das Haus an, besteigt das Schaffot, in ihrer letzten Stunde fliegt ein Vogel über sie her, der den silbernen Löffel noch im Munde hat, der er unter die Richter fallen läßt.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="88"/>
+        <tei:seg> Nein! Der Dichter besinnt sich auf seine eigenen Löffel, seine eigenen Dienstboten, seinen eigenen Vogel, er geht lächelnd zu dem armen bunten Thierchen und gibt zur Anerkennung seiner Unschuld ihm ein Stück Zucker.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Stück Zucker? Der Zucker ist unschuldig … Aber – der Vogel hat einen garstigen Schnabel – wenn du den Zucker ihm mit der Lippe gegeben hättest – wenn du eine junge Dame wärst und der Vogel bisse in deine Lippe und die Lippe schwölle an, blutete, und die Wunde verschlimmerte sich und ein italienischer Doctor heilte die Wunde absichtlich falsch und die einst schöne Dame würde aus Intrigue häßlich und die Dame trüge – eine Maske und sie hieße die Gräfin mit der räthselhaften Maske und mein Roman hieße die Gräfin mit der räthselhaften Maske und dieser Roman gäbe fünfzig Feuilletons und die „Presse“ zahlte – </tei:seg>
+        <tei:foreign>à</tei:foreign>
+        <tei:seg> Feuilleton – </tei:seg>
+        <tei:foreign>à</tei:foreign>
+        <tei:seg> Spalte – </tei:seg>
+        <tei:foreign>à</tei:foreign>
+        <tei:seg> Zeile – wie viel?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Erst die Arithmetik bringt den gehetzten Dichter wieder zur Besinnung und zur Fassung auf die Wirklichkeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So geht es Eugène Sue.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei Eugène Sue sind die Nerven doch nur dann aufgeregt, wenn seine Phantasie Lebensumstände und Situationen verwirrt und ihm Freundschaft, Liebe, Familienleben, Kirche, Staat, Gesellschaft bunt durcheinander auf dem Kopfe tanzen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="89"/>
+        <tei:seg> Aber Alexander Dumas muß oft der Verzweiflung nahe sein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alexander Dumas kann keinen Abend allein sein, daß sich ihm nicht die Bilder an den Wänden abhöben und plötzlich hinter ihnen lebendige Menschen zeigten. Bei Alexander Dumas ist nicht nur jede Situation eine andere, als sie scheint, sondern sogar jeder Gegenstand ein anderer, als er daliegt. Ein offenes Schlüsselloch, das ruhig höchstens Licht oder Luftzug durchläßt, ein solches harmloses, unschuldiges Schlüsselloch gibt es für Alexander Dumas nicht mehr. Er betrachtet das Schlüsselloch eine Weile und kaum hat sein Auge einige Minuten darauf geruht, so streckt sich – ein langer, langer Draht hindurch, immer länger, immer länger wird der Draht, er kommt ihm näher, er wächst, er will ihn wol selbst umfangen, ihn umringeln, erdrosseln? Nein! Der Draht geht dicht an ihm vorüber, an seinen Schreibtisch. Da krümmt er sich, immer runder, spitziger, eckiger, der Draht wird Dietrich, der Dietrich öffnet das Schloß und bestiehlt das Schreibbureau – Halt! ruft Alexander Dumas, springt an die Thür, reißt sie auf, ruft: Wer da? Alles still. Seine Phantasie hat ihn getäuscht. Kein Draht, kein Dietrich da. Aber auf dem Corridor – da ist’s so unheimlich still. Nur sein eigenes Wort widerhallt. Knirscht es da nicht wie ein Fußtritt auf einer steinernen Treppe? Nein! Doch jener Vorsprung da – jener Winkel – </tei:seg>
+        <tei:pb n="90"/>
+        <tei:seg> wenn hinter jenem Vorsprung, in jenem Winkel ein Wesen verborgen steckte? Wer da! Wer steht hier? Ein alter Scheuerbesen! Harmloser Gegenstand! Harmlos? Warum steht dieser Scheuerbesen da? Er steht so still, so sonderbar ruhig – Wer ließ den Besen hier zurück? Wer hat ihn vergessen? Er ist feucht – roth? Roth an den Borsten? Das ist Blut! Hier hat man Blut aufgescheuert! Alexander Dumas sieht sich um – besinnt sich – die steinernen Stufen der </tei:seg>
+        <tei:hi style="letter-sparse">Treppe</tei:hi>
+        <tei:seg> sind roth – es ist Farbe von der Treppe. Er geht in sein Zimmer zurück und durchlebt, was er sah, wenigstens mit der Feder.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der moderne Poet findet in jedem Augenblick seine Stoffe.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er reist. Die Eisenbahnen befördern so rasch in die schönsten Gegenden der Welt, aber die Bewegung der Locomotive – wie unregelmäßig die ist! Diese berghohen Viaducte! Es gibt Zusammenstöße; es gibt Brände von Versailles. Man kann allein sein mit einem einzigen düstern Unbekannten in einem einzigen Coupé. Der Lampenschimmer fällt unheimlich von oben herab. Der Unbekannte sieht nicht auf, er wendet die Blicke so sonderbar ab, er drückt sich in eine Ecke und nur zuweilen scheint ihn sein Mitpassagier zu interessiren, wie den lauernden Tiger die Gazelle interessirt. Jetzt donnert der Zug durch einen Tunnel, – Alles kracht, Alles schmettert – man hört keine Stimme, die etwa Hülfe rufen würde. Der </tei:seg>
+        <tei:pb n="91"/>
+        <tei:seg> Unbekannte springt auf, wirft sich mit teuflischer Mordlust über das Opfer der Situation, krallt seine Nägel dem Mitpassagier in die Gurgel, – Hülfe! Der Poet dankt allen seinen (Opium statt Ambrosia essenden) Musen, wenn das Signal einer neuen Station gegeben ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber dann in den Gasthöfen wieder, besonders in den Gasthöfen kleinerer Städte oder einsamer Stationen – da ist zuvörderst gleich das Bett. Es riecht so sonderbar – nach Moder? – Sollte vielleicht – lag vielleicht vor einigen Stunden hier noch – eine Leiche? In der That – wenn die Thüren nicht schlössen oder wenn eine Versenkung plötzlich das Bett um Mitternacht einen Stock tiefer trüge oder wenn aus der Decke ein Stampf-Hammer oder ein beschwertes Bret wie in polnischen Räuberwirthshäusern im besten Schlaf auf die Gäste niederfiele und die Köpfe der Reisenden zusammendrückte?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber was! Man zieht die Schlafmütze über, man legt sich zu Bett – man schläft – man erwacht gestärkt, man zündet die Cigarre an, das Frühstück mundet, – und in der That! Wie ist dieser Ort so schön, dies Haus, das gestern eine Mörderhöhle schien, so traulich! Die Menschen, die Diener, wie sind sie so freundlich! Aber jetzt pocht es. Der Barbier! Willkommen, ich bin lange nicht rasirt. Eintreten! Man setzt sich.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doch – ein sonderbarer Barbier das! Er ist so still, – er spricht vom Wetter – er schleift das Messer so </tei:seg>
+        <tei:pb n="92"/>
+        <tei:seg> lange, – wenn der Mann epileptisch wäre – sein Messer zittert – er blickt so sonderbar – was? Auf die Börse am geöffneten Schreibbureau blickt er – Schurke! Man springt auf.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was ist, mein Herr? – Schonen Sie meine Gurgel, meine Haut wollt’ ich sagen, Ihre Messer kratzen wie eine Säge!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Barbier entschuldigt sich und läßt Alexander Dumas leben. Der Dichter kann sich ankleiden, kann irgendwo jetzt – ein Bad nehmen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er erkundigt sich nach einer Badeanstalt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist dies zufällig ein Schiff auf dem Flusse, an dem die kleine Stadt liegt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Situation ist anregend. Ein Bad auf einem Schiffe!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Dichter combinirt, noch ehe er entkleidet ist, ein Capitel: </tei:seg>
+        <tei:hi style="letter-sparse">Das Badeschif</tei:hi>
+        <tei:seg>f. Er steigt in das Schiff, entkleidet sich, sieht, sich abkühlend, durch ein kleines Fenster hinaus auf den ruhigen Wasserspiegel – auch diese Ruhe ist anregend. Er sagt: – Eines Tages – kam das Schicksal – des unglücklichen Opfers zur Ausführung. Man hatte bemerkt, daß der edle Marquis über Alles die Reinlichkeit liebte und daß er sich regelmäßig badete. Der Marquis besuchte gewöhnlich ein Badeschiff. Die Verschwörung seiner Feinde und der nach seinem Gelde gierigen Verwandten hatte einen Taucher gewonnen </tei:seg>
+        <tei:pb n="93"/>
+        <tei:seg> – Eingeschaltetes Capitel über diesen Taucher – der Taucher stammt aus Ostindien, war ein geborener Perlenfischer, eine Perlenfischerin hatte ihn mitten im Meere geboren, nämlich unter der Taucherglocke – dieser Taucher – Malaye natürlich, giftkundig, rachsüchtig, stellenweise edel, natürlich Heide, aber angestellt bei der Marine in Brest als Schwimmlehrer, Schiffbruchtrümmerfischer, Hafengrundbodenreiniger – also dieser Taucher – er liebt natürlich eine Herzogin, die Herzogin liebt ihn in manchen Stunden, wo sie der Civilisation überdrüssig ist, als ein Phänomen wieder, – und da die weiße Geliebte sich unbedingt auf den gelben Sohn der Natur verlassen kann, so braucht sie ihn zur Ermordung des Marquis, ihres Onkels, auf dem Badeschiffe – sie braucht sein Geld, seine Juwelen, sie hat Schulden, ihr Civilisationsanbeter ist ein Wüstling – sie braucht Geld – der Taucher kappt also heimlich die Ankertaue des Badschiffes, natürlich in der Nacht, bei Sternenhimmel und gerade vor dem dreizehnten Bade – natürlich einem Bade mit Kräutern, Giftkräutern, angeordnet schon lange von einem bestochenen Arzte oder vielleicht dem Malayen selbst – der Malaye wird später wieder den Arzt, einen Schuft zweiter Classe mit sentimental-fashionabel-eleganter Verzierung, aus dem Wege räumen, da der Arzt sich als unzuverlässig ergibt – kurz der Malaye bohrt das Schiff an und kappt sämmtliche Taue in der Nacht vor dem </tei:seg>
+        <tei:pb n="94"/>
+        <tei:seg> dreizehnten Kräuterbade – schauerliche Schilderung vom Rudern und Plätschern des Tauchers in der stillen Sternennacht – nur noch an zwei Tauen hängt beim dreizehnten Bade das lecke Badeschiff. Der Marquis besteigt die Badebrücke, geht in seine Zelle, entkleidet sich, merkt etwas sonderbar unter seiner Zinkwanne hin- und herrauschen, es ist der ostindische Taucher, der unter ihm wegrudert wie eine Seeschlange. Das Schiff – es schwankt – es taumelt – ein Augenblick – zwei – eine Secunde, man sinkt – das Schiff sinkt, die Badenden sinken, ertrinken, der Malaye schwimmt unter den Opfern wie der Haifisch im Ocean, zieht sie hinab in die Tiefe. Hülfe! – Man stürzt herein. Um Gotteswillen, was ist?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alexander Dumas rief selbst: Hülfe! klingelte selbst. Er besinnt sich. Seines Irrthums gewahr werdend, sagt er einfach: Le linge! Die Wäsche! Mein Badehemd! Drei Leintücher zum Abtrocknen; aber gut durchwärmt!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unser Dichter, der es liebt, die Haut ein wenig stark zu reiben, verläßt mit Behaglichkeit die Zelle, das Badeschiff, die kleine Stadt, von der er nichts gesehen hat als den Marquis, den Malayen, die Herzogin, drei Leintücher und ein durchwärmtes Badehemd.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man versichert, daß Dumas und Sue Tage haben, wo sie den Regungen ihres Herzens, ja sogar ihrem Ruhme mißtrauen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie essen von silbernen Schüsseln, aber sie kommen </tei:seg>
+        <tei:pb n="95"/>
+        <tei:seg> sich dabei doch vor wie Bettler, die vor den Thüren um ein Almosen bitten. Wer klopft? Der arme Alexander Dumas, er bittet den Grafen von Monte-Christo um eine Schüssel Erbsen oder ein Gericht Linsen; ihn hungert. Es kommen seine glänzendgalonnirten Diener, sie bringen Speise, Erquickung, sie bringen ihm auf einer Schüssel – Edelsteine statt Erbsen. Wie unglücklich machen ihn da die Edelsteine des Grafen von Monte-Christo!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So leben diese Dichter über Zeit und Raum hinaus.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Für sie gibt es nichts Wirkliches mehr, sondern nur die Phantasie.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Daß die Grenzen der Phantasie Möglichkeit und Wahrscheinlichkeit heißen, ist ein abgeschaffter Satz, und so muß es wol kommen, daß sie an sich selbst irre werden und andere Menschen sogar statt ihrer leben lassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Verfasser des Monte-Christo hat, wie bekannt, seit Jahren eine Schar von Menschen um sich, die ihm überall hinfolgen und überall von ihm gespeist und getränkt werden. Einige nennen sie seine Schmeichler, andere seine Freunde, andere seine Mitarbeiter. In Wahrheit sind es aber nur die Organe seines eigenen Lebens. Sie spielen, scherzen, lachen, essen, trinken </tei:seg>
+        <tei:hi style="letter-sparse">für ih</tei:hi>
+        <tei:seg>n. Diese Umgebungen muß er besitzen, nur um an sein eigenes Dasein zu glauben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Feuilleton der </tei:seg>
+        <tei:foreign>„Presse</tei:foreign>
+        <tei:q>“</tei:q>
+        <tei:seg> brachte die Memoiren dieses Dichters.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="96"/>
+        <tei:seg> Er wird darin ohne Zweifel wie Karl V. auch schon sein Leichenbegängniß feiern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wird die Reden wiederholen, die an seinem Grabe werden gehalten werden, er wird den Sarg, der mit Immortellenkränzen bedeckt ist, nach der Natur schildern, er wird erzählen, daß sich plötzlich der Deckel öffnete, der Todte sich regte, die Augen aufschlug, die Geschichte eines Schlaftrunkes zu erzählen begann, und die Redaction der </tei:seg>
+        <tei:foreign>„Presse“</tei:foreign>
+        <tei:seg> wird anzeigen:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir freuen uns, den Lesern für den Beginn des neuen Quartals von den heute eigentlich mit dem Tode des Herrn Alexander Dumas beendigten Memoiren desselben eine Fortsetzung versprechen zu können, ein neues Werk unter dem Titel: „Die Geheimnisse des Todes“, in zwanzig Bänden, nebst einem Epilog: „Das Thal Josaphat oder die letzten Dinge.“</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den zuerst 1852 in seinem Familienblatt „Unterhaltungen am häuslichen Herd“ erschienenen Beitrag übernahm Gutzkow vier Jahre später mit einigen wenigen, vornehmlich stilistischen Änderungen in den ersten Band seiner Sammlung </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg>. Den Titelzusatz des Journaldrucks </tei:seg>
+        <tei:q>Humoreske</tei:q>
+        <tei:seg> ließ er dabei weg und gliederte den Text in wesentlich mehr Absätze als den des Journaldrucks.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zwanzig Jahre später griff er auf diese Arbeit zurück und integrierte sie in einen Schlussteil der </tei:seg>
+        <tei:q>Reiseeindrücke aus Deutschland, der Schweiz, Holland und Italien</tei:q>
+        <tei:seg> (Band 11 der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>), dem er den Titel</tei:seg>
+        <tei:q> Zimmerreisen</tei:q>
+        <tei:seg> gab und der aus neun verschiedenen kürzeren Beiträgen besteht. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dem Neudruck der Arbeit 1876 legte Gutzkow die Ausgabe der </tei:seg>
+        <tei:q>Kleinen Narrenwelt</tei:q>
+        <tei:seg> zugrunde, übernahm sie mit einigen neuen, unwesentlichen stilistischen Änderungen, wählte dafür aber einen neuen Titel, den er im Text begründete. Er gab in einem Einschub am Anfang und einem neuen kurzen Schlussabsatz an, ihm seien diese Bilder über die bedrohlich ausufernde Phantasie seiner französischen Kollegen (offenbar während einer Eisenbahnfahrt) in einem belgischen Tunnel gekommen. Auf dieser, von J und E inhaltlich abweichenden Rahmung fußt 1876 die Änderung des Titels in </tei:seg>
+        <tei:q>Tunnel-Träumereien</tei:q>
+        <tei:seg>. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J  [Anon.:] Die Reichthümer der Phantasie. Humoreske. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 3, [14. Oktober] 1852, S. 33-37. (Rasch 3.52.10.14.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Die Reichthümer der Phantasie. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 83-96. (Rasch 2.33.1.4)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Tunnel-Träumereien. 1852. In: Karl Gutzkow: Reiseeindrücke aus Deutschland, der Schweiz, Holland und Italien. (1832-1873.) (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 11.) Jena: Costenoble, [1876]. S. 387-394. (Rasch 1.5.11.10.9)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Abweichend von J und E ändert bzw. ergänzt Gutzkow in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> den Text um folgende Passagen:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">127,8-9</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:q>Ich verrathe dir</tei:q>
+        <tei:seg> […] </tei:seg>
+        <tei:q>bemitleidenswerthe Menschen sind.</tei:q>
+        <tei:seg> E] </tei:seg>
+        <tei:q>Ich verrathe dir daher, daß mir in einem belgischen Tunnel recht gegenwärtig wurde, wie diese Herren trotz ihrer glänzenden Gaben und ihrer reichen Erfolge bemitleidenswerthe Menschen sind.</tei:q>
+        <tei:seg> A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, S. 387</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Letzter Absatz, fehlt in J und E] </tei:seg>
+        <tei:q>– Ich war froh, endlich wieder Luft und Leben zu spüren, als ich aus diesen modernen Trophonius-Höhlen, den belgischen Tunnels, herauskam.</tei:q>
+        <tei:seg> A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, S. 394</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

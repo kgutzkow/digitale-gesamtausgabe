@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>König Franz in Fontainebleau. Novelle in altem Styl</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>König Franz in Fontainebleau. Novelle in altem Styl. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 185-216. (Rasch 2.33.1.10)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #koenig-franz-in-fontainebleau-novelle-in-altem-styl"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-30" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="185"/>
+        <tei:seg> König Franz in Fontainebleau.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Novelle in altem Styl.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="187"/>
+        <tei:seg> Das war in den Tagen, da Kaiser Carolus quintus, um von Hispanien nach Gent in Flandern zu kommen, durch Frankreich zu reisen begehrete und groß Rathschlagens gewesen war, ob König Franciscus ihm sollte frei Geleite geben oder nicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Konnten es aber die schlauen Rathgeber nicht erlangen, den Kaiser zur Strafe für sein allzeit sieghaft Glück gegen Frankreich erst sicher zu machen und dann mitten auf dem Wege zu fahen; welchen Vorschlag auch bald die Räthe des Königs verworfen hatten, da sie gar wohl wußten, wie sehr dessen ritterlich Gemüth derlei Anschlägen abgünstig war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kaiser Carolus hatte Frankreich, nicht ohne bei denen Ehrenbezeigungen, so man ihm erwies, rechts und links vorsorglich und auf spanische Art gar mistrauisch sich umzuschauen, verlassen und König Franz fühlte wieder, wie schwer diese großen Angelegenheiten der Welt auf seinen hinfälligen Körper drückten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Müde von allen denen prächtigen Turneyen und kunstvollen Ringelstechen und was sonst zur Bewirthung seines hohen Gastes war ausgeführet worden, fühlte der </tei:seg>
+        <tei:pb n="188"/>
+        <tei:seg> König das Bedürfniß der Einsamkeit, die ihm schon lange die liebste Gesellschafterin war außer dem schönen Frauenzimmer.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So beschloß er auch sogleich wieder nach seinem Schlosse Fontainebleau zu reisen, welches er nebst St.-Germain en Laye vorzugsweise ins Herz eingeschlossen hielt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hatte er doch beide stattlichen Gebäude mit den kostbarsten Gärten umgeben und besonders Fontainebleau mit allen Meisterwerken schmücken lassen, welche hochberühmte Künstler von Mailand und Florenz auf Befehl des freigebigen Königs hier verfertigen mußten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine Gesellschaft waren unter den schönen Baumgängen und prächtigen Bildsaulen und Gemälden Fontainebleaus am liebsten nur einige Hofbediente, die schönen Dienerinnen und Ehrenfräulein der gnädigen Herzogin von Etampes, nicht zu gedenken seines Arztes Messire Claude, welches ein kleiner buckliger, aber sehr gelehrter Mann war, der schon seit lange des Königes ganze Freundschaft besaß.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn da der mächtige König Franciscus von Gallien schon seit einigen Jahren kläglich an seiner Gesundheit litte und für seine noch nicht zu alten Tage auf eine gar betrübende Weise zusammenging, so mochte er doch um sein Leben nicht vergessen, daß er einst der schönste Edelmann, geschweige der schönste Fürst seiner Zeit gewesen war und selbst in einem feindlichen Lande, während seiner </tei:seg>
+        <tei:pb n="189"/>
+        <tei:seg> Gefangenschaft in Hispanien, das Herz mancher schönen und edlen Dame gerühret hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der gute König liebte es, zumal wenn die gnädige Frau Herzogin von Etampes nicht zugegen war, sich ihren zurückgebliebenen Damen und Freundinnen und wer sonst vom schönen Frauenzimmer, ob adelig, bürgerlich oder selbsten vom ehrlichen Handwerkerstande in seine Nähe kam, gar gefällig zu erweisen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mancher junge Edelmann, der im Stillen vielleicht über des Königes graue Haare und nur gezwungenermaßen aufrechten Gang lachte, konnte sich an seiner adeligen Manier, mit dem schönen Frauenzimmer zu scherzen, ein Beispiel nehmen; hat es doch oft schon Zeiten gegeben und wird wiedergeben, wo die jungen Mannsen sich in denen Dingen, die ihnen vorzugsweise wohlanständig wären, von denen alten können beschämen lassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war aber zu selbiger Zeit auf dem Schlosse Fontainebleau ein Castellan, der Naudet geheißen hat und ein schon alter Mann war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser hatte einen Sohn, von dem wir nichts berichten können, als daß er sich in die Fremde nach Avignon verheirathet hatte, daselbst vor der Zeit gestorben war und ein gar schön Töchterlein hinterlassen, welches Blanche genannt wurde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weil nun auch die Mutter der schönen Blanche in Avignon gestorben war und dem zarten Kinde daselbst die </tei:seg>
+        <tei:pb n="190"/>
+        <tei:seg> nöthige Liebe und Pflege fehlen konnte, so beschloß der Castellan, seine Enkelin zu sich zu nehmen und so denn kam es, daß eines Tages der König hocherfreut war, in denen Baumgängen seines Gartens, als er mit seinem Hofe allda spazierete, einem gar anmuthigen Mägdlein zu begegnen, welches ihm Blanche Naudet genennet wurde und die Enkelin des Castellans war, weit älter bereits, schöner und liebenswürdiger, als man erwartet hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei St.-Denis und unsrer lieben Frau! rief der König aus und zeigte allen seinen Hofherren die unaufhörlich vor ihm knixende Blanche, sollte man nicht glauben, daß unsres guten und zu früh abgerufenen Meisters Lionardo da Vinci reizende Mona Lisa leibhaftig vor uns steht?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Räthe und Hofherren, deren einige kurzsichtig waren, kniffen die Augen zusammen und sagten: O ja, Sire! Man möchte es fast meinen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und der Verwalter des königlichen Schatzes sprach sogar: Hätte man dieses Mägdlein früher gesehen, würde mein gnädiger Herr und König dem Meister Lionardo haben oft ein wenig von seinen Gemälden wegen der Kosten abhandeln können!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Worüber der König gar sehr lachte und erwiederte: Ich wette, mein guter Herr von Montchenu, ihr gedenket noch in diesem Augenblicke mit Schmerz der 12,000 Livres, welche uns der Ankauf jenes in der Christenheit einzigen Bildes gekostet hat.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="191"/>
+        <tei:seg> Montchenu war aber ein ganzer Hofmann. Er wußte wohl, daß es den König freuete, wenn er sagte: Mein gnädiger Herr, die schönen Frauen und ihren Werth im Allgemeinen und im Besondern zu beurtheilen, das ist nicht meine Sache! Auch hab’ ich zu blöde Augen, um die Aehnlichkeit dieser Enkelin des Castellans mit dem schönen, aber sehr theuren Bilde des Meister Lionardo des Genaueren zu vergleichen…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da aber ging der König auf Blanche zu, fassete sie unters Kinn und sagte: Sehet da das ganze Antlitz der schönen Mona Lisa del Giocondo, die der schlaue Lionardo da Vinci in seiner besten Zeit vier Jahre lang malte, weil er nicht satt werden konnte, sich an ihrer Schönheit zu weiden. Sehet da, dieselben feuchten und wie mit einem himmlischen Glanze belebten Augen! Diese kleinen röthlichen Lichter, die sie umgeben! Diese Nase, von gleichem Ebenmaße! Dieser Mund, von gleicher Rosinfarbe! Und ich wette, wir haben nicht ein mal nöthig, wie Meister Lionardo da Vinci gethan, diese kleine Person mit Blumen, mit Gesängen und Musik zu umgeben, damit sie den etwas strengen Ausdruck der vier Jahre lang von dem Maler zum Sitzen gezwungenen Mona Lisa del Giocondo verlieren und so anmuthig lächeln möge, wie es oben in meinem Cabinet die nur künstlich erheiterte edle Dame thut; dieses kleine Ding würde schon von Natur so freund-</tei:seg>
+        <tei:pb n="192"/>
+        <tei:seg>lich dreingesehen haben, wie Meister Lionardo es jener vornehmen Dame durch Kunst abgewinnen mußte!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche wurde über alles Dieses gar roth und konnte kein Wort erwidern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So viel Gnade hatte sie vom Könige nicht erwartet, obgleich sie wohl wußte, daß sie ihm nicht misfallen würde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alles lächelte und bewunderte die Güte des Königs, die sich auch später, ob er nun von Messire Claude, dem buckligen Doctor aus Paris, leichte oder strenge Verhaltungsmaßregeln erhielt, gegen dies, wie gegen alles Frauenzimmer gleich blieb. Der König war hinfällig und scherzte oft nur, weil er seinen Zustand gern verbarg und nicht hören mochte, daß die Natur eine unerbittliche Regentin selbst über die Mächtigsten der Erde ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die schöne Blanche hatte aber von Avignon eine sehr zärtliche und treue Liebe mitgebracht für einen jungen weiland Soldaten, Namens Firmin Allard.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Firmin Allard war seines Zeichens, um es richtiger zu sagen, ein Waffenschmied und hatte, da es gerade den Anschein nahm, als würde nun zwischen Frankreich und dem Kaiser ein sogenannter ewiger Friede bestehen, in Avignon wieder seine alte Handtierung ergriffen und war, da er einige Mutterpfennige besaß, in seinem Gewerbe sogar ein Meister geworden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist indessen bekannt, daß Avignon mehr ein frommer denn ein kriegerischer Ort ist, und so geschah es, daß </tei:seg>
+        <tei:pb n="193"/>
+        <tei:seg> Meister Firmin Allard in seiner Werkstatt zwar fürtreffliche neue Werkzeuge hatte, aber wenig damit verdienen konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ueberdies war dieser Firmin ein so großer, stattlicher, schöner junger Bursche, daß er schon oft, wenn er verdrießlich in seiner neuen Werkstatt zu Avignon stund und nur Mönche, keine Ritter an ihr vorübergehen sah, ein zornig Wörtlein fallen ließ, wie es doch wohl besser wäre, statt Waffen zu schmieden, irgendwo lieber in der Welt sie selbst wieder zu schwingen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn, fügte er hinzu, Krieg gäb’ es wol irgendwo in der Welt, man müsse sich nur recht danach umsehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie aber die kleine schöne Blanche das hörete, weinte sie bitterlich und schwur, sie würde es doch dahin bringen, daß Firmin Allard von seiner Kunst mehr Verdienst haben sollte als von seiner Neigung, sie und seine friedliche Handtierung zu verlassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Firmin Allard sagte: Wie wollen wir das anfangen, Blanche?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche erwiderte: Das sollst du schon sehen, Firmin! und gab ihm den Abschiedskuß; denn es war dies gerade ihr letztes Gespräch gewesen, als sie sich auf die Reise machte von Avignon nach Fontainebleau.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche dachte aber dabei an Niemand anders als an ihren Großvater, der Castellan im Schlosse des Königs war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="194"/>
+        <tei:seg> Und wie sie erst einen Tag bei Meister Naudet gewesen und von dem guten König Franz mit der schönen Mona Lisa del Giocondo des berühmtesten Meisters Lionardo da Vinci verglichen wurde, ging bereits ein Schreiben ab nach Avignon und lud Firmin Allard ein, auf das schleunigste sich aufzumachen und nach Fontainebleau zu kommen, denn es wäre, schrieb ein Franciscanermönch aus der nahgelegenen Abtei im Auftrage des Großvaters und der Enkelin, die Beide nicht schreiben konnten, es wäre gar eine schöne Aussicht vorhanden, daß der König den Firmin Allard in seine Armoirie aufnähme und einem so guten Meister Gelegenheit gäbe, bei der königlichen Schmiede, was man hier im eigentlichen Sinne des Wortes sagen konnte, in die </tei:seg>
+        <tei:hi style="letter-sparse">rechte</tei:hi>
+        <tei:seg> Schmiede zu kommen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kaum geschrieben, schon gethan.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der junge Meister Firmin kam so schnell, als seine Füße ihn tragen mochten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war, als man nunmehr zu Fontainebleau seiner ansichtig wurde, ein so schöner stattlicher junger Mann, daß der Großvater, der daselbst schon seit lange keine jungen und schönen Männer mehr gesehen hatte, höchlichst erstaunete, wie dergleichen Gewächs noch auf Gottes Boden wachsen könnte. Ob aber der Alte gleich sich mühte, in seiner Art auch etwas von denen Sitten und feinen Kunstgriffen des Hofes sich anzueignen, so war er </tei:seg>
+        <tei:pb n="195"/>
+        <tei:seg> doch darin zu beschränkten Geistes, daß er hätte errathen können, warumb nur in Fontainebleau und überall in der Nähe des Königs Jugend und Schönheit nicht mehr vorhanden war, außer beim weiblichen Geschlechte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Daher war es ein großes Glück, daß Blanche mehr Schlauheit besaß denn ihr Großvater.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Konnte es auch anders sein, seitdem der König dieses schöne Kind seiner ganzen Aufmerksamkeit für würdig hielte, ja ein kostbares damastgewirktes schweres Kleid aus Lyon und einen Ring ihr geschenket hatte, den er sich scheinbar selbst vom Finger zoge, aber vorher, wie sich wol denken läßt, schon aufgesteckt hatte zu diesem gnädigen Fürhaben?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Ehrenfräulein waren nicht wenig erbost über dieses Glück, welches die kleine Blanche bei dem Könige machte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Oft wenn er ihr in den schönen Bosketts seines Gartens begegnete, that der König sogar, als wenn er sie haschen wollte, welches er auch würde ausgeführet haben, wenn ihn nicht die Schwere seiner Füße gemahnet hätte, sogleich wieder die würdige Haltung anzunehmen, die sich für einen König geziemet.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es geschah nun, daß Blanche schon vorher, als sie noch vor Ungeduld brannte, ihr geliebter Firmin Allard möchte endlich in Fontainebleau angekommen sein, dem </tei:seg>
+        <tei:pb n="196"/>
+        <tei:seg> guten König gestund, wen sie schon lange in ihr Herze eingeschlossen hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da sie sehr schlau war, hütete sie sich wohl, zwei Dinge, die den König überraschen mußten, gleich auf Ein mal vorzubringen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war dies erstens das Vorhandensein eines Waffenschmiedes von Avignon, den sie liebte, überhaupt, sodann aber ihre nähere Absicht auf eine Stelle in des Königs Armoirie.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Beinahe hätte sie auch diesen ihren zweiten Stein vom Herzen schon fallen lassen, da der erste vom König nicht ungnädig aufgenommen wurde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn: Hast du einen Geliebten, dem dein Herz angehört? hatte der König gesagt und dabei gelächelt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte dies nicht ohne einen kleinen Schimmer von Traurigkeit in seinen kranken Gesichtszügen gethan.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So will ich wünschen, fuhr er dann fort, daß er deiner würdig sein möge, Blanche, und wenn er aus Avignon ankommt, so will ich das Vergnügen seiner persönlichen Bekanntschaft haben und vielleicht vermögen wir es, ihm nützlich zu sein; denn an Waffen können die Könige von Frankreich nie Vorrath genug haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als dieses Blanche hörte, war sie schon über die maßen fröhlich, küssete auch die Hände des Königs, was er besonders gerne sahe, da die Weiße und Zartheit seiner Hände für untadelig gelten konnten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="197"/>
+        <tei:seg> Leider versah sie es aber ein wenig, als sie begunn, die Vorzüge und Schönheit Firmin Allard’s zu rühmen und überaus zu preisen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn als sie seines Lobes kein Ende finden konnte und sogar von der jugendlichen Stärke ihres Geliebten sprach, rümpfeten die Ehrenfräulein gar spöttisch die Nase, wandten sich abe und verbargen ihr künstliches aber vielleicht nur zorniges Gelächter unter denen Fächern, die sie sich bis tief unter die Augen vorhielten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber auch der König zog seine gefärbten schwarzen Augenbrauen düster zusammen und wandte sich zum Gehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war Blanche’n sogar, als hätte der finstere, krumme und schielende Herr von Montchenu ein Wort fallen lassen, das möglicher Weise so lauten konnte wie: Welche dumme und einfältige Gans ist dieses Mädchen! Sie hatte es nur nicht ganz deutlich gehört.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber sie überlegte lange, welche Thorheit sie denn eigentlich begangen hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und als sie nun den ganzen Hof hinter den König sich wenden und ihm nachfolgen sah, siehe! da kam es ihr plötzlich wie eine Erleuchtung von oben, oder, um keinen Misbrauch mit heiligen Dingen in solchen profanen Angelegenheiten zu machen, die Zuflüsterung des schalkhaften Gottes der heidnischen Liebe sagete ihr, daß es wol eine große Thorheit mochte gewesen sein, zu einem alten und </tei:seg>
+        <tei:pb n="198"/>
+        <tei:seg> sehr kranken Könige von der Jugend und Gesundheit anderer Menschen zu reden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und siehe! in diesem Augenblicke entdeckte sie auch, daß im Grunde von allen denen anwesenden Herren des Hofes dennoch der König noch immer der Schönste und Gefälligste war; denn seine sämmtlichen Ritter und Räthe hinketen, schlorrten und gingen so krumm oder waren dermaßen misgestalt, als kämen sie des gerades Wegs aus einem Siechenhause und schleppeten nur mühsam noch das Leben hin.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kaum hatte Blanche diese Entdeckung in Erfahrung gebracht, als ihr noch zum Zweiten etwas Neues einfiel und sie ausrief: Bei unsrer lieben Frau von Paris! Der Herr von Montchenu ist ja nur kurzsichtig, wenn er mit dem Könige geht, und wenn Herr von Brion mit mir allein spricht, kann er wie jeder Andere gerade aufrecht stehen, und der Großkanzler Herr von Tournon springt ja, so alt er ist, noch wie ein Rehlein durch die Alleen des Gartens, so er sich von Niemanden beobachtet glaubt, beginnt aber sogleich gar erbärmiglich zu hinken, so er in den Schloßhof eintritt und etwa von denen Fenstern unsres gnädigsten Königs und Herrn meinen könnte des Näheren beobachtet zu werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie sich nun so abenteuerliche Dinge zusammen vereinen sollen, das zu ergründen, würde für einen Mann, der darüber die Bücher der Gelehrten hätte aufschlagen </tei:seg>
+        <tei:pb n="199"/>
+        <tei:seg> und die Meinung der Weisen befragen müssen, sehr lange gedauert haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein weibliches Herz ist schlau und begreift die schwierigsten Dinge gemeiniglich sehr rasch, womit ich nicht gesagt haben will, daß es nicht auch könnte Ausnahmen geben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche hatte nicht nöthig, erst ihren Großvater zu fragen, der ihr ohnehin keine Auskunft geben konnte, auch nicht ein mal dem guten Franciscanermönche aus der Abtei, der ihr Beichtvater war, vertraute sie sich ganz, sondern ihre fünf Sinne sagten ihr, als sie den Firmin Allard endlich in der Ferne von dem Berge der Dreifaltigkeit bei Fontainebleau herabschreiten und ihr oben an der Kapelle schon mit seinem Hut und einem Tuche, das sie ihm selbst in Avignon geschenkt hatte, wie außer sich für Freude winken sahe: O du liebe Zeit! Das wird schlimm werden! Mein guter Firmin ist für Fontainebleau ja viel, viel zu hübsch!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist aber, wie wir Männer wissen werden, denen Frauen nicht gegeben, Alles, was ihr Herz bedruckt, sogleich immer auszusprechen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auch hatte Blanche eine viel zu große Freude an der stattlichen Schönheit ihres Firmin, der im leichten Lederwammes mit gepuffeten Hosen, einem weißen Hute mit wenn auch kleinen doch rothen Federchen, wie ein junger Trompeter von denen Musketieren des Königs an ihrem </tei:seg>
+        <tei:pb n="200"/>
+        <tei:seg> Arme stolzierte und ganz gut eine große rothe Feder am Hute hätte tragen können, um für einen der anmuthigsten Cavaliere der Garden des Königs gehalten zu werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Immer noch hoffete sie auf eine günstige Gelegenheit, dem Könige bei guter Laune zu begegnen und ihm ihr Anliegen wegen der Armoirie und ihrer Heirath auch ohne Firmin Allard vorzustellen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie es nun aber geschieht, daß man lange über einen Plan nachsinnet, dessen Gelegenheit uns plötzlich, ehe noch ein Entschluß dessentwegen fertig geworden ist, wie man zu sagen pflegt, ungedunken überkommt, so wandelte Blanche auch einstens durch eine von hohen Linden überschattete Taxushecke mit ihrem geliebten Firmin in des Königs Garten und hatte gerade den Arm des schlanken, freundlichen und liebevollen Jünglings auf ihrer Schulter ruhen, als wider Erwarten aus einem Querwege der ganze Hof dahergeschritten kam, den König an der Spitze und wie es schien heute nicht mit der freundlichsten Geberde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alle gingen sehr rasch, denn der bucklige Messire Claude hatte das dem Könige der besseren Erwärmung seines Blutes wegen für einige Zeit angerathen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie Blanche von ferne her den Hof und den König eilends ihr zuschreiten sahe, gab ihr der Anblick der schönen Damen und der wiederumb um den etwas wie im Hahnentritt schreitenden König versammelten alten und häßlichen Männer den plötzlichen Gedanken ein, auszurufen:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="201"/>
+        <tei:seg> Bei allen Heiligen, Maria, Joseph und deinem Schutzpatron! Ich bitte dich, Firmin, hebe ein wenig eine deiner Schultern in die Höhe und laß den König glauben, daß du miswachsen wärest! Es wird uns besser thun unser ganzes Leben lang!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Da Firmin solches hörete, sprach er:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche, ist es deine Absicht, um Messire Triboulet’s Stelle für mich anzuhalten und aus mir des Königes Hanswursten zu machen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nein! Beim Heil aller Seelen! erwiederte Blanche mit heftigstem Zittern und weinendem Tone: Guter, lieber Firmin! Gib den Stolz auf deine prächtige Leibesbeschaffenheit einen Augenblick hin und beleidige das Auge des großen Königes nicht durch deine gefährliche Jugend und hier nur störende Anmuth. Du bist mein allerliebster und schönster Firmin auf der Welt und ich möchte dich gleich hier vor denen fürnehmsten Herrschaften Frankreichs küssen; aber ich bitte dich! Einige Augenblicke Miswachs bringen uns, so Gott will, fünfzig Jahre guter Ernte ein!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und als Blanche also gesprochen hatte, war der Hof auch schon dermaßen nahe, daß es die höchste Zeit wurde, einen Entschluß zu fassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und wie es denn geht, daß in dem Beispiele anderer Menschen oft eine gar ansteckende Kraft liegt, die uns sogar in die Lage bringen kann, wider unsern Willen unter hundert einfältigen Menschen zuweilen am eigenen Ver-</tei:seg>
+        <tei:pb n="202"/>
+        <tei:seg>stande irre zu werden und ebenso dumm zu werden, wie es andere sind, ob sie gleich die Halskrause eines Rathsherrn tragen mögen, also zog es auch den Firmin Allard gleich wie unwillkürlich, in dem Augenblicke, da er nur Menschen mit denen Gebresten des Alters vor sich sahe, ordentlich mit Gewalt, den kecken Trotz seiner anmuthigen Jugendlichkeit aufzugeben und voll Schüchternheit gerade so, wie es seine geliebte Blanche gewollt hatte, sich gleichfalls als einen Mann fürzustellen, den die gütigste und beste der Frauen, die gute Mutter Natur, trotz seiner schönen Gesichtszüge und seiner ansehnlichen Leibeslänge doch gar schadenfroh an unrechter Stelle mit Ueberfluß bedacht hatte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nicht auf den Plotz, sondern in allmäliger Vorsicht hob er langsam von seinen Schultern die rechte in die Höhe und stunde vor dem Könige, als dieser nunmehro herangeschritten war, wie das seltsamste Ungethüm da, das sich auf Jahrmärkten hätte können in Schaubuden sehen lassen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hatte der König aus Aerger über den strengen Arzt Claude vorher gar finster und verdrüßlich geschauet, so ergriff ihn jetzt beim Anblick eines viel unangenehmeren Verdrusses, den Blanche’s schon in der Ferne gleich für diesen erkannter Liebster zu tragen hatte, eine solche ausnehmende Heiterkeit, daß er in das Gelächter des ganzen Hofes einstimmete und betheuerte, es müsse doch wahrlich </tei:seg>
+        <tei:pb n="203"/>
+        <tei:seg> eine Unordnung in den Gestirnen vorgekommen sein, daß jetzund in Frankreich so viele misgestalte Krüppel geboren würden; denn selbst die schönsten Männer, die man aus dem anmuthigen Lande der Provence mit Sehnsucht erwartet hätte, träfen mit Schäden ein, die selbst der Doctor Claude nicht heilen könnte, anmaßen es dieser wohl an sich selbsten würde gethan haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und so groß war nun das Vergnügen des Königes, daß er auch jetzt dennoch wiederumb der schönste Mann in Fontainebleau geblieben war, daß er zu Firmin Allard heranschritte, ihme vom schuldigen Niederknieen gnädiglich abwinkte und die Hand auf seine rechte Schulter legende die Worte sprach:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mein armer Firmin Allard, hast du so lange den Hammer geschwungen, daß dir am Ambos zuletzt die Schulter so störend herauswachsen mußte, du armer Junge?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche, mit schneller Besinnung und ängstend, ihr Firmin würde aus Verlegenheit etwas Unschickliches sprechen, fiel rasch ein:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nein, mein gnädigster König und Herr, das hat der Firmin von einem bösen Falle, da er noch nicht laufen konnte. Es hindert ihn indessen nicht, der beste Diener seines Königs zu sein und es giebt Schwerterklingen von ihm genug, die so schön gearbeitet sind, daß man sie wie im Kreise biegen kann, was leider zum Theil in seiner Jugend hätte mit dem Firmin selbsten geschehen sollen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="204"/>
+        <tei:seg> Bei St.-Denis, antwortete der König voll sichtlichem Wohlbehagen an dem artigen Schatten, den sein Körper noch immer in wohlgestalter Ordnung längs der röthlichen Abendsonne, die gar lieblich durch die Blätter des grünen Parkes schien, warf, dann wünscht’ ich, Blanche, daß er sich selbsten noch unter seinen Ambos kriegen könnte, um sich gerade zu klopfen. Ich will ihn dazu als Werkmeister in meiner Armoirie anstellen. Heirathet Euch bei Zeiten, damit man in Paris Euch diesen schmucken Burschen nicht rauben möchte, Blanche. Und wie sehr ich euch Beiden in Gnaden gewogen bin, werdet Ihr sogleich sehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Damit lachte der König wieder über die maßen und ging mit dem ganzen Hofe, der gleichfalls, wie sich gebührte, in seine gute Laune mit einstimmete, vorüber, um in einem nahegelegenen Pavillon die Bestallung Firmin Allard’s in einem Briefe an den Hauptmann seiner Armoirie eigenhändig niederzuschreiben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber es lachten die Meisten der Gesellschaft auch deshalb, weil sie der kleinen und vom Könige so bevorzugten Blanche die Demüthigung gunnten, ihren anfangs so gepriesenen Liebhaber als einen nunmehro doch eben auch nur Verwachsenen vorstellen zu müssen; nur einige Wenige, die den Firmin Allard vorhero schon gesehen hatten, schüttelten den Kopf über die Dreustigkeit dieses Mädchens und des jungen Burschen Verschmitztheit. Wenn sie nicht selber alle in Paris viel leichter gehüpft und gesprungen </tei:seg>
+        <tei:pb n="205"/>
+        <tei:seg> wären denn in Fontainebleau, so würden sie auch nicht geschwiegen haben. So aber hüteten sie sich wohl, den verdrüßlichen und grämlichen König auf den Betrug aufmerksam zu machen, den man mit ihm gespielet hatte, so sehr sie auch innerlich über die ganze Welt ergrimmet waren und dem Könige eigentlich von Herzen gunnten, ein mal zu entdecken, wohin seine Eitelkeit und schon zur Gewohnheit gewordene Gefallsucht die Menschen, die ihm dienen wollten, führen müsse.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Während der König jetzt zum Pavillon schritte, um das Patent für Firmin Allard auszufertigen, folgten die beiden Liebenden für Freude lachend und beinahe nach französischer Art singend.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den Ehrgeiz, ein schönes Paar zu sein, hatten sie so vielen vornehmen Herrschaften gegenüber zwar in den Wind geschlagen, aber Blanche zwickte dem Firmin fast die Finger ab, um ihr Lachen zu verbergen, und dieser stunde mit seiner hohen Schulter verdutzt und unentschlossen, so lange der Hof auf einige Zeit verschwunden war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche, sagte er dann, welche Possen treibst du!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese aber, statt aller Antwort, zog ihn in ein Gebüsch, küssete ihn und sprach:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ruhe dich ein wenig aus, mein lieber Junge! Ich werde Wache stehen, bis der König aus dem Pavillon zurückkommt. Haben wir das Patent für des Königs Armoirie, so setzest du dich auf ein gutes Pferd und reitest </tei:seg>
+        <tei:pb n="206"/>
+        <tei:seg> sogleich gen Paris. In drei Wochen segnet uns der fromme Bruder Franciscus auch auf dem halben Wege zwischen hier und Paris ein, wo es sicher wie in der Christenheit überall eine gute Kapelle mit dem zu einer richtigen Heirath Nöthigsten geben wird.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es traf sich nun aber, daß der König im Pavillon dem Leibarzte Messire Claude begegnete und mit ihm nach einigen Zeilen, die er an den Gendarmen-Hauptmann von Montaigu, den Vorsteher seiner Armoirie, geschrieben, in folgender Weise ein Gespräch anknüpfte:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Saget mir nur, Messire Claude, woher trifft es sich, daß die Leute Eurer Statur in meinem Königreich jetzt so unnatürlich um sich greifen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Messire Claude war schon gewohnt, daß der gute König sich gern auf Kosten anderer Menschen im Spiegel seiner eingebildeten Vorzüge erblickte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er erwiderte daher, ohne im mindesten beleidigt zu sein:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mein gnädigster Herr und König! Ohne im geringsten einräumen zu können, daß sich diese traurige Entdeckung wirklich bestätigen sollte, so könnte, wenn sie wahr wäre, nur der Leichtsinn mancher Mütter Schuld daran tragen, welche ihren Kindern nicht die liebevolle Obhut schenken, die sie von Gott und Rechts wegen verdienen. Würdet Ihr auf jedes im Verlaufe der Erziehung verwachsende Kind eine Steuer, so die Aeltern zu zahlen hätten, legen, so könntet Ihr versichert sein, edler Herr, </tei:seg>
+        <tei:pb n="207"/>
+        <tei:seg> daß die Franzosen bald alle wieder so schlank und ebenmäßig wie dort die Pappeln wachsen würden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nun, bei Gott, sagte der König und streute den Sand auf den Zettel an den Hauptmann von Montaigu, wahrhaftig, Messire Claude, dann hätte unser Schatzmeister gute Tage und die Löhnung meiner Gendarmen sollte mir keine Sorge mehr machen; denn die Buckel nehmen überhand. Saget mir nur, guter und gelehrter Doctor, ist dieses unnatürliche Uebel denn mehr ein wildes Fleisch oder ein knorpelhafter Anwuchs, oder worin gefällt es der Laune der Natur, die sonsten eine so herrliche und gemäßigte Künstlerin ist, bei Euresgleichen, wie es Meister Lionardo von denen jungen Malern seiner Zeit sagte, so stark aufzutragen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Während der Hof die Heiterkeit des Königes durch Gelächter unterstützte, ergab sich Messire Claude ruhig in sein Schicksal, so gefoppt zu werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wußte wol, daß der König diese Art zu spotten für eine besondere Gnade angesehen wissen wollte und entgegnete dahero auch nur diese einfachen Worte:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es würde zu weit führen, mein gnädigster Herr und König, Euch den Bau eines richtigen Buckels auseinanderzusetzen. Er muß zunächst aus einer Verkrümmung des Rückgrates hervorgehen, wird dann eine Verwilderung des Zellgewebes und zuletzt eine ganz unschädliche Zierde aller Männer von Witz und Scharfsinn; denn Ihr werdet </tei:seg>
+        <tei:pb n="208"/>
+        <tei:seg> nicht leugnen wollen, gnädiger Herr, daß die Natur schon von des fabulosen Aesopi Zeiten an bis auf den Doctor Claude herab bei meines Gleichen für die Unzierde des Höckers immer wieder einen Ersatz an Verstandesgaben geschenkt hat, was bei denen Lahmen, Gichtischen, denen Podagristen, denen Schielenden und Einäugigen keinesweges der Fall ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Worte betonte Messire Claude aber mit einem so scharfen Blick auf die Umgebungen des Königs, daß diese im Gefühl ihrer wirklichen oder übertriebenen Gebrechen zu lachen aufhörten und es lieber gehabt hätten, dieser Gegenstand wäre nun von dem Könige verlassen worden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen täuschten sie sich in selbiger Hoffnung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn der König hörete nicht auf.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das ist gut geantwortet! sagte er geschmeichelt durch den Aerger seines Hofes und wandte sich von denen Stufen des Pavillons wieder in den Garten zurück, den die Abendsonne gerade mit anmuthig spielendem Lichte erfüllte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und indem er nach Blanche und Firmin Allard, die sich auch schon voll glücklichster Hoffnung von ferne näherten, ausschauete, fuhr er fort:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nur das ist doch eigen, Messire Claude, daß Eure tolle Spielart der Natur keine gleich wiederkehrenden </tei:seg>
+        <tei:pb n="209"/>
+        <tei:seg> Gesetze zu beobachten scheint. Ich habe doch schon Buckel gesehen, die wie Mantelkrägen oder Krausen von Rathsherren um den Hals zierlich aufgesetzt schienen, andere, die sich wie das Vordertheil einer Gondel so hinten an einen Menschenrücken paßten. Wo aber das Uebel blos in die Schulter gefahren ist, da hab’ ich doch gefunden, daß es sich weit öfter in die linke als in die rechte Schulter zieht. Obwol sich auch darin Ausnahmen finden. Jener Bursch z. B., den ich soeben nach Paris in meine Armoirie als Werkmeister schicken will, macht eine fürnehmliche Ausnahme. Ihm ist das Uebel in die rechte Schulter gefahren. Ich sah ihn ausdrücklich vorhin darauf an. Da er seines Gewerbes ein Waffenschmied ist, so wird ihm gut thun, nicht länger selbst den Hammer zu schwingen, sintemalen sonst Gefahr steht, der Arm des guten Firmin möchte nicht mehr im Stande sein, zum schönen Urbild der Joconde herabzureichen, diesem hübschen Mädchen, dem ich wahrhaftig einen bessern Geschmack zugetraut hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So scherzend und auf Königs- oder Löwenart im Gefühl seiner Stärke mit dem Schwachen spielend, nahte sich Franz mit dem Hofe wieder dem harrenden Paare.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche hatte Wache gestanden und Firmin Allard aus dem Busch, wo er die Schulter ausruhte, wieder hervorgerufen, da sie des Königes ansichtig wurde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Firmin Allard stand just neben Blanche, aber zufäl-</tei:seg>
+        <tei:pb n="210"/>
+        <tei:seg>ligerweise dieses mal auf einer andern Seite denn vorhin bei des Königes erster Begrüßung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ohne seines Irrthums gewahr zu werden, hatte Firmin aus natürlichem Triebe die Schulter an derjenigen Seite gehoben, wo gerade neben ihm nicht Blanche stund.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So vorerst die rechte und dieses mal, ohne daß er es merkete, unglücklicherweise die linke Schulter.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie der König nun näher kam und noch eben von Firmin’s Verdruß an der rechten Schulter sprach und gegenwärtig diese auffallende Veränderung wahrnahm, blieb er anfangs wie erschröckend stehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Alle Anwesenden sahen sogleich, was ihn so stutzig machte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie? was ist das? rief der König, als er die Misgestaltung jetzt an Firmin’s linker Schulter erblickte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wohl besann er sich, daß er früher seine rechte Hand erheben mußte, um sie dem jungen Mann auf seine rechte Schulter zu legen, und nun hätte er dazu die linke wählen müssen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darob verfinsterte sich des Königes Auge.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zornig that er einen Schritt zurück.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der ganze Hof folgte seinem Beispiel und so gewohnt war der König Franz, in Augenblicken, die sein Nachdenken oder seine wahre königliche Würde in Anspruch nahmen, die Einflüsterung der Eitelkeit abzulehnen, daß er </tei:seg>
+        <tei:pb n="211"/>
+        <tei:seg> sogleich die absichtliche Täuschung erkannte. Er murmelte einige unverständliche, aber sehr zornige Worte und verrieth, daß zu seinem heftigsten Unmuthe sich auch die Beschämung gesellte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Papier zitterte in seiner Hand. Die Vorstellung, daß es schon für eine ausgemachte Sache galt, Jugend und Schönheit beleidigten sein Auge und sein eitles Herz, wirkte so niederschlagend auf ihn, daß er bebte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche sah sogleich die traurige Veränderung und wußte voll Todesangst keinen Rath; denn auch Firmin Allard hatte nunmehro alle Dreustigkeit verloren und verstellte sich nimmer.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ueberwältigt von ihrer Angst warf sich Blanche dem Könige zu Füßen und bat weinend um Vergebung, wenn sie den edlen Herrn irgendwomit beleidiget hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Womit? fragte der König voll Grimms und den Firmin Allard, der schon vor Angst ganz in seiner natürlichen Gestalt vor ihm stunde, zurückstoßend, ging er hurtig von dannen, begleitet von denen lautlosen Hofleuten, die nun den Schelmenstreich insgesammt erkannten und von der Leidenschaft des beleidigten, in seiner schwachen Thorheit grausam aufgedeckten Königes die bitterste Strafe für die beiden jungen Leute erwarteten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In diesem Augenblicke geschah es aber glücklicherweise, daß gerade fernher von der Abtei derer Franciscaner ein Glöcklein ertönte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="212"/>
+        <tei:seg> Es war die Stunde des Angelus, welches jeder rechtgläubige Christ beten muß, wenn er das Glöcklein höret, sei es auf dem Felde oder im Walde oder wo sonst draußen oder in seinem Hause, sei’s Hütte oder Palast.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mitten in seinem Zorne und seiner Beschämung mußte der König nun still stehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und er hielte seinen Hut, den er sich abgenommen, vor den Augen, um zu beten, so lange das Glöcklein lautete.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und Alle folgten seinem Beispiele und neigeten sich scheinbar vor Demuth; doch lugeten sie unter ihren Fächern und Hüten nur nach dem Auge des Königes, der noch zerknittert das Schreiben an den Hauptmann von Montaigu in seinen Händen hielt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einige zwanzig Schritte davon lag Blanche auf denen Knieen und Firmin Allard stund ihr zur Seite, als drohte ihnen eine Strafe, die im mindesten ans Leben gehen konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nur der König allein schien ganz mit jener Auffoderung zum Gebete beschäftiget, die das Glöcklein von der Abtei an alle Menschen richtete, die es gerade hören kunnten, mochten sie auch mitten im Ausbruch einer Leidenschaft oder mitten in einem Werke begriffen sein, wo dem sündigen Menschen eine derlei Mahnung des Himmels nicht ungelegen kommen kann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>König Franz betete ernstlich und schien in seinem Hüt-</tei:seg>
+        <tei:pb n="213"/>
+        <tei:seg>lein sich zu besinnen, daß auch er ein gnadebedürftiger Mensch wie Alle war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als der letzte Ton des Angelus verklungen, sagte er mit noch leiser aber nicht mehr böser Stimme, daß Alle horchten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir wollen morgen nach Paris zurück, wo ich bisher geglaubt hatte, daß man allein die teuflische Kunst der Lüge und Verstellung übe. Ich sehe mit wahrer Betrübniß, daß auch unter diesen meinen schönen Bäumen von Fontainebleau keine Wahrheit mehr zu finden ist!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und dann rief er einem Kämmerling und gab ihm das zerknitterte Blatt mit den Worten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kämmerling, gehet zu dieser bösen und spitzbübischen Blanche, die ohne Zweifel den armen Tropf gezwungen hat, seine jugendliche und wohlgefällige Gestalt vor mir zu verbergen. Den Augenblick soll sie mit dem Werkmeister meiner Armoirie nach Paris reisen. Ich mag sie nie wieder hier in Fontainebleau noch sonst mit Augen wiedersehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser Kämmerling ging und vollzog des Königes Befehl.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das junge Paar hatte den schönen Ausgang nicht erwartet.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es wollte nun dem Könige nacheilen, um durch einen Fußfall zu danken.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Kämmerling sagte aber, daß der König solches </tei:seg>
+        <tei:pb n="214"/>
+        <tei:seg> verboten hätte, hielte sie zurück und wehrte ihnen im Ernst zu folgen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wiederholte:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der König will Euch Beide nicht in Fontainebleau überhaupt und sonst nirgends mehr sehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als die jungen Leute das höreten, waren sie zwar anfangs betrübt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie sie aber allein stunden und das Papier gelesen hatten, das der König an den Hauptmann von Montaigu eigenhändig geschrieben hatte, wurden sie wieder froh, umarmten sich und sagten:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das hat Gott gewollt! So gut haben wir es nicht erwartet.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.3" style="text-center">
+        <tei:seg>*	  		*</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.3" margin-left="0" margin-right="0" margin-top="0" style="text-center">
+        <tei:seg>*</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der König hatte das aber vom Nichtwiedersehen nur so gesagt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er blieb darum doch dem jungen Paare, als es sich geheirathet hatte und nach Paris gezogen war, gar gnädig und sah es in Paris noch oftermalen, und als Blanche Allard den ersten Sohn geboren, bat sie den König durch ein schönes Schreiben, welches ihr wieder der gute Bruder Franciscaner aufgesetzet hatte, als er gerade zu Paris in Ordensgeschäften war, er möchte doch aus hohen Gnaden des Kindes Pathe sein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="215"/>
+        <tei:seg> Und König Franz hub es auch aus der Taufe durch seiner Kammerherren Einen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es wurde jedoch in die Kirchenbücher von St.-Germain Auxerrois, welches die führnehmste Kapelle dicht am Louvre ist, so eingetragen, als wenn es der König selbsten gethan hätte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und als er nach der Taufe seine junge Frau Schwertfegemeisterin eines Tages besuchen und überraschen wollte, hatte man vom Louvre aus es ihr vorher, wie das so geschiehet, schon gesteckt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Mann, der eben von der Werkstatt kam, wollte rasch eilen um sich zu waschen und wie sich gebühret aufs sauberste zum Empfang des Königs, nunmehro seines Gevatters, zu reinigen und zu kleiden, denn er war so schwarz, als käme er geradewegs aus der Hölle.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche jedoch sagte zu ihm:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Laß das nur, lieber Firmin, bleibe ja so, wie du bist!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und wie der König kam, da schiene ihm das baß zu gefallen, denn nachdem er Allard draußen begrüßet hatte, und bei der schönen jungen Frau nun selbsten eintrat, sagte er:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Pfui! Blanche! Pfui! Was ist dein Mann für ein großer schwarzer Teufel!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Blanche lachte aber sehr und der König wollte nun nichts mehr, da sie davon anfing, von Fontainebleau wissen, sondern war so gnädig, daß er der schönen jungen </tei:seg>
+        <tei:pb n="216"/>
+        <tei:seg> Frau und seiner Gevatterin ein prachtvolles, schweres goldenes Schaustück umhenkete, darauf er selbsten abgebildet war, nicht so, wie er jetzt ausschaute, sondern so schön und anmuthig, wie er einst in seiner Jugend gewesen war.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es wurde aber zuletzt recht schlimm mit König Franz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er legete sich und verließ auch in Kurzem diese irdische Welt, wo nichts vergänglicher ist als Schönheit und Jugend und selbsten für Könige nicht bestehen bleiben will, wenn sie es auch gemeiniglich, wie noch vieles Andere, was anzuführen hier zu weit würde geführt haben, nicht gerne hören und erst nach langer Zeit durch einen solchen Zufall entdecken mögen, wie damals König Franz in Fontainebleau.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die erstmals 1853 in seinem Familienblatt „Unterhaltungen am häuslichen Herd“ erschienene Novelle </tei:seg>
+        <tei:q>König Franz in Fontainebleau</tei:q>
+        <tei:seg> übernahm Gutzkow drei Jahre später im wesentlichen unverändert in den ersten Teil seines Sammelwerks </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg>. Abgesehen von minimalen stilistischen Modifikationen ist es vor allem die Absatzgestaltung, die Gutzkow in E wesentlich kleinteiliger anlegte; auch die gegen Ende der Novelle durch drei Sternchen markierte Textunterbrechung (S. 207,21-22 dieser Ausgabe) fügte er erst in E ein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bei der Aufnahme der Novelle in den zweiten Teil seiner </tei:seg>
+        <tei:q>Kleinen Romane und Erzählungen</tei:q>
+        <tei:seg> (Band 3 der </tei:seg>
+        <tei:q>Gesammelten Werke</tei:q>
+        <tei:seg>) 1873 reduzierte er wieder die Anzahl der Absätze. Der Text wurde einer gründlichen Revision unterzogen: Im Unterschied zur Buchausgabe von 1856 fallen eine Reihe stilistischer Änderungen auf, Umformulierungen, Änderung der Wortstellung, Wortersetzungen. Besonders deutlich wird Gutzkows Bemühen, den im Untertitel des Journal- und ersten Buchdrucks genannten </tei:seg>
+        <tei:q>alten Stil</tei:q>
+        <tei:seg>, mit dem er den historischen Sprachgebrauch des 16. Jahrhunderts imitieren wollte, zurückzunehmen. So wird etwa aus </tei:seg>
+        <tei:q>hörete</tei:q>
+        <tei:seg> (S. 193,13) in der Ausgabe von 1873 </tei:seg>
+        <tei:q>hörte</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>erstaunete</tei:q>
+        <tei:seg> (S. 194,10) </tei:seg>
+        <tei:q>erstaunte</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>geschenket</tei:q>
+        <tei:seg> (S. 194,23) </tei:seg>
+        <tei:q>geschenkt</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>küssete</tei:q>
+        <tei:seg> (S. 195,21) </tei:seg>
+        <tei:q>küßte</tei:q>
+        <tei:seg>. Ebenso machte Gutzkow 1873 aus </tei:seg>
+        <tei:q>warumb</tei:q>
+        <tei:seg> (S. 194,15) </tei:seg>
+        <tei:q>warum</tei:q>
+        <tei:seg>, aus </tei:seg>
+        <tei:q>wiederumb</tei:q>
+        <tei:seg> (S. 198,12) </tei:seg>
+        <tei:q>wiederum</tei:q>
+        <tei:seg> und aus dem – im 16. Jahrhundert noch gebräuchlichen, dem Mittelhochdeutschen entlehnten – </tei:seg>
+        <tei:q>abe</tei:q>
+        <tei:seg> (S. 195,29) </tei:seg>
+        <tei:q>ab</tei:q>
+        <tei:seg>. Auch die ältere oberdeutsche Form </tei:seg>
+        <tei:q>Bildsaulen</tei:q>
+        <tei:seg> (S. 189,32) für </tei:seg>
+        <tei:q>Bildsäulen</tei:q>
+        <tei:seg> ‚modernisierte‘ er 1873. Ebenso änderte er Formulierungen wie </tei:seg>
+        <tei:q>von denen Musketieren</tei:q>
+        <tei:seg> (S. 197,24) in </tei:seg>
+        <tei:q>von den Musketieren</tei:q>
+        <tei:seg>. Diesen Modifikationen gemäß ließ er 1873 den Untertitel </tei:seg>
+        <tei:q>Novelle in altem Styl</tei:q>
+        <tei:seg> ganz fallen; der Titelzusatz nennt lediglich das Entstehungsjahr der Novelle. Ganz konsequent wurden die Anpassungen 1873 jedoch nicht umgesetzt; Gutzkow behielt etwa </tei:seg>
+        <tei:q>Plotz</tei:q>
+        <tei:seg>, </tei:seg>
+        <tei:q>jetzund</tei:q>
+        <tei:seg> oder </tei:seg>
+        <tei:q>Dreustigkeit</tei:q>
+        <tei:seg> in A</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> bei.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J  König Franz in Fontainebleau. Eine Novelle im alten Stil. Vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 14, [1. Januar] 1853, S. 209-218. (Rasch 3.53.01.01.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  König Franz in Fontainebleau. Novelle in altem Styl. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 185-216. (Rasch 2.33.1.10)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> König Franz in Fontainebleau. (1852.) In: Karl Gutzkow: Kleine Romane und Erzählungen. Zweiter Theil. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 3.) Jena: Costenoble, [1873]. S. 309-328. (Rasch 1.5.3.6)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="A2" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Der Weihnachtabend</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Der Weihnachtabend. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 127-136. (Rasch 2.33.1.7)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #der-weihnachtabend"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-29" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="127"/>
+        <tei:seg> Der Weihnachtabend.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="129"/>
+        <tei:seg> Als Kind feierte man Weihnachten wie die lebendiggewordene Märchenzeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Augen zu! sonst bläst Christkindchen sie aus!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das war schon die hundertste Stufe auf der Wanderung in den hellen lichten Himmel hinein. Vorher kamen die niedern Stockwerke.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>An der untern Sprosse dieser Jakobstraumleiter der Freude stand im umgewandten Pelzrock mit langer, frisch aus Besenreisern gewundener Ruthe der schauerliche Knecht Ruprecht im nördlichen Deutschland oder St.-Niklas im südlichen und fragte mit drohender Stimme: Kannst du auch beten?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gebetet wurde dann mit kläglicher, zähnklappender Angst, aber doch mit Herzensandacht; denn das neugeborene Jesulein, die bescheidene Krippe, der wandernde Morgenstern, die Weisen mit Myrrhen und Aloe, das ganze blühende, orientalische Nachtgedicht der Heilandsgeburt mit den Hirten auf dem Felde, den Engeln, die ihnen aus der Höhe den Weg wiesen, dem immerdar gläubigen Joseph und der glückseligen Maria, das lebte im Herzen wie linde, milde, duftende Sommernacht, wenn auch die Hände </tei:seg>
+        <tei:pb n="130"/>
+        <tei:seg> froren, die Nase blau anlief und die Füße in Schnee gesteckt werden mußten, weil sie die completteste Erstarrung von der Eisbahn mitgebracht hatten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Wochen wurden schon von der ersten Gans zu Martini nach den Sonntagen gezählt und zwar Trinitatisweise, dann wurden es nur noch die Tage, zuletzt die Stunden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Adventszeit hieß die ganze höchst merkwürdige Periode. Die „Currendejungen“ sangen des Abends auf den Straßen und sammelten in blechernen Büchsen; Nüsse und Aepfel wurden an Markttagen in Vorräthen eingekauft, aber noch nicht gezeigt, sie rasselten und dufteten nur; die ganze Erde war ein großes flüsterndes und tuschelndes Geheimniß.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf die Märchenzeit kam dann die rationalistische.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Für Säbel, Flinten, bleierne Soldaten gab es nun Schulmappen, Reißfedern, Schreibebücher und neue Hosenträger.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man nahm schon mit größerer Kühle den Kalender in die Hand und rechnete die mystischen Begebenheiten nach der üblichen Chronologie ab, wie die Zerstörung Karthagos und die Hinrichtung Konradin’s von Hohenstaufen, dieses Hauptfactums der deutschen Geschichte im Kopfe jedes gefühlvollen Untertertianers. Man sah schon das Märchen in seiner künstlichen Veranstaltung, die groben Drähte der Komödie; man lachte schon über das Wispern </tei:seg>
+        <tei:pb n="131"/>
+        <tei:seg> der Aeltern wie ein Neolog oder ein Geolog über die Schöpfungsgeschichte. Bekanntlich sind das die Jahre, wo, wie in dem Raimund’schen Märchen, oft schon ausgerufen wird: Ach, was haben doch die Kinder Alles mit ihren Aeltern auszustehen! Die guten Aeltern sind dann über die Weihnachtzeit schon vergnügter als die aufgeklärten Jungen, die bei all’ der Freude ihre Ferienarbeiten im Kopf haben müssen und zur Bescherung ohnehin nur Das bekommen, was sie „auch so“ erhalten würden, Dinge, die alle nach Leder riechen oder nach Tuch und dem ewigen Papier.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dann aber die Jünglingszeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ach! Der Weihnachtabend war dann schon oft nicht mehr der lustigste, sondern der traurigste Tag im Jahr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man war von seinen Aeltern entfernt, entweder durch Entfernungen der Erde oder Entfernungen des Himmels schon. Die Lichter wurden nicht mehr angezündet; man hörte nur die Weihnachtlust im Nachbarhause, sah fremde Fenster schimmern, hörte fremde Kinder jauchzen, man machte einen Gang durch die Straßen, um das wehmüthige Herz zu stillen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Du liebe ernste Jünglingszeit! Du verschwiegene heilige Knospe der ersten freiern Lebensentfaltung! Du erste heilige Sabbathstille und Morgenfrühe des Menschenthums, eingeläutet meist von trauernden Glocken! Denn welche Erfüllung wird wol schon den allgewaltigen </tei:seg>
+        <tei:pb n="132"/>
+        <tei:seg> Jugendträumen? Welcher erste Gruß des Lebens, des wirklichen, des rauhen Lebens der Pflichten und der Geschicke, ist wol ein liebevoller und freundlicher? Bereits bildet sich auch schon das ganze Jahr hindurch um das Jünglingsherz die harte Schale, die das junge Leben braucht, um in der stoßenden Welt mit fortzukommen. Starr, kalt werden die Grundsätze. Große, schroffe, spartanische Gesetzestafeln werden aufgehängt in der innern Brust. Mancher Zug um die Lippe lächelt schon dämonisch und spröde wirft sich der Mund auf, sieht der Jüngling was er zu hoffen hat und vergleicht es mit Dem, was er gewinnen möchte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am Weihnachtabend bricht dann noch ein mal die Eisdecke des Jahres. Auf einige Stunden sinken noch ein mal alle gefrorenen Eispaläste der Seele, in deren bunten Lichtbrechungen sich der Jüngling schon gefällt. Das unsterbliche Anrecht auf Glück, das wir tief und unauslöschlich und durch keine Philosophie hinwegzureden in unserer Brust tragen, meldet sich noch ein mal wieder in diesem Weiheaugenblick – und dann mit so unwiderstehlicher Macht, daß manchem Jüngling die Weihnachtzeit oft nichts beschert als Thränen, ein Geschenk freilich, das auch seinen Werth hat und geradezu vom Himmel kommt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darauf die Zeit – der Liebe!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liebe will nichts mehr zu Weihnachten empfangen, sondern nur noch geben. Auch der Jüngling, dessen Herz in Flammen steht, grübelt und forscht, was wol gefallen, </tei:seg>
+        <tei:pb n="133"/>
+        <tei:seg> rechnet, was anzuschaffen er bestreiten könnte. Da nimmt man der geplagten Vorsehung von ihren Mühen ab und spielt selbst Schicksal und kommt schon in der Adventszeit zu den Geschwistern seiner Angebetenen, die Taschen voller Aepfel und Nürnberger Lebkuchen. Da glättet man wieder um der Liebe willen die Mephistophelesfalten aus, macht den Knecht Ruprecht oder gar das Weihnachtkind und übersieht sogar in seinem Bescherungseifer, daß auch an uns gedacht wurde, heimlich für uns gearbeitet wurde in unbelauschten Stunden und selbst Abends noch, wenn uns die Geliebte entlassen hatte, den zärtlichsten Abschiedskuß draußen an der Thür gegeben und sie zurückkehrend bis tief um Mitternacht noch bunte Blumen und Guirlanden stickte! In jungen Gemüthern ist der erste Eifer des Gebens ein Wetteifern mit dem Füllhorn Fortuna’s. Ja recht viel und für Alle! Jeder bekommt. Der Großvater, die Großmutter, die Aeltern, die Geschwister, die Mägde, sogar der Vogel bekommt einen neuen Vogelbauer; Alles was um unser Mädchen lebt und webt, wird beschenkt und Jedem hofft man auch seine liebsten Wünsche abgelauscht zu haben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Freilich! Man trifft es meist bei Allen; leider! aber oft bei Derjenigen nicht, der zu Liebe alle diese kindlichen Naivetäten in unser, schon „dem Jahrhundert“ angehöriges Herz zurückkehren durften. Auch verdrießliche und verstimmte Weihnachten gibt es. Der Mensch wird ohne-</tei:seg>
+        <tei:pb n="134"/>
+        <tei:seg>hin dann immer am launenhaftesten, wenn gerade die meisten Umstände gemacht werden, ihn glücklich zu sehen. Auch diese lange Vorbereitung auf eine einzige lichterfüllte Stunde, die zu Ende geht, wenn die kleinen, kurzen Wachsendchen niedergebrannt sind und hie und da in der grünen Tannenherrlichkeit schon Feuer ausbricht, auch diese wochenlange Betriebsamkeit läßt schon an sich ein Gefühl der Ermüdung und der Erschöpfung zurück, dem die bekanntlich launenhaftesten Menschen, die es gibt, die Liebenden, nicht selten Gründe unterlegen, die gerade bei solchen Extra-Festen von unsichtbaren bösen Plagegeistern wie zugeflüstert scheinen. Wochenlange Vorbereitung, ämsigste stille Arbeit, Entsagung mancher Freude um ein Werk, das, endlich fertig, vielleicht nicht einmal die gehoffte Würdigung findet.… Auch das kommt vor. Wunderliche Heilige stehen in diesen Jahren um die frohe Weihnachtkrippe. Es folgen selbst dem schönsten Tag des Jahres Verdruß und Kriegszustände, die glücklicherweise in der nahegelegenen Sylvesternacht beseitigt werden können. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dann kommen wieder ganz eigene neue Perioden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ging’ es von jeder ersten Liebe gleich zum Traualtar, so hätte man von seinen fernern Weihnachterinnerungen leichter erzählen. Die ersten Weihnachten der Ehe, wo man ungeduldig die oft noch lallenden Kinder schon zur Freude am Lichterbaume zwingen möchte und nicht die Zeit erwarten kann, die Kinder so gespannt zu sehen in ihrer </tei:seg>
+        <tei:pb n="135"/>
+        <tei:seg> Hoffnung, wie wir es selbst freilich erst in drei Jahren später waren, diese Weihnachten sind gewiß die schönsten, die es geben kann. Aber zwischen der ersten Liebe und der Ehe … welches wilde, zerrissene, zerklüftete Gebirg liegt dazwischen! Welche Schluchten der Verzweiflung, schroffen Brüche des Mißverständnisses, oft auch welche einsamen stillen Plätze, nur bepflanzt mit Trauerweiden!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von diesen Jahren des Prüfens und des Hoffens, oft der Qual und der Täuschung, wäre mancher Weihnachtabend zu erzählen und manche Geschichte daran anzureihen, manche, die am häuslichen Herde würde Zuhörer finden dürfen – indessen schließen wir mit der Bemerkung, daß man an Weihnachtabenden sein ganzes Leben wie einen Rosenkranz an seinen Kugeln abzählen kann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Jedes Jahr bietet eine andere Erinnerung. Unsere Freuden und Leiden, unser Besitz und unser Verlorenes führt Weihnachten uns am unmittelbarsten entgegen, all’ unsere Lebenden läßt es uns zählen und all unsere Todten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am Christabend erinnert man sich, wie man fremd einst stand als Gast an einem Lichterbaum, vielleicht bei Menschen, die unsere Freunde schienen und Feinde wurden. In jenem Jahre ward uns Das beschieden, in diesem ein Anderes, da zündete man den eigenen Baum an in seiner jungen Ehe und die Sorge war vielleicht der einzige Gast, der an dem kargen Tische stand, der nur der Liebe reichlich schien. Da zählte man noch der Häup-</tei:seg>
+        <tei:pb n="136"/>
+        <tei:seg>ter wenige, die uns gehörten, dann drängten sich zahlreichere um die hellen Lichter; manches Antlitz strahlte vor Freude, und es fehlte schon bei dem Erinnerungsbilde des folgenden Jahres. Augen der Wonne, die empfingen – noch glücklichere, die spendeten, sind erloschen …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Je älter man wird, desto mehr wird uns der Weihnachtabend nur noch der Erinnerung geweiht bleiben und der eigentliche Tag </tei:seg>
+        <tei:hi style="letter-sparse">Aller-Seelen</tei:hi>
+        <tei:seg> werden.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkows Text, passend zur Weihnachtszeit 1852 in seinem Familienblatt „Unterhaltungen am häuslichen Herd“ veröffentlicht, wurde von ihm vier Jahre später nahezu unverändert in den ersten Band der </tei:seg>
+        <tei:q>Kleinen Narrenwelt</tei:q>
+        <tei:seg> aufgenommen. Dem schlichten Titelsubstantiv des Erstdrucks fügt er 1856 einen Artikel hinzu. Die Absatzgestaltung modifizierte Gutzkow für die Buchausgabe stark: Aus den fünf Absätzen des Journaldrucks machte er 24 Absätze im Buch.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>	2022 sind drei Nachdrucke vom </tei:seg>
+        <tei:q>Weihnachtabend</tei:q>
+        <tei:seg> in zeitgenössischen Periodika entdeckt worden (J</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">4</tei:hi>
+        <tei:seg>), die nur in einem Fall mit einer Quellenangabe versehen ist. Diese Nachdrucke hat Gutzkow mit Sicherheit nicht autorisiert. Sie sind daher für die Druckgeschichte des Textes irrelevant.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>  [Anon.:] Weihnachtabend. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 12, [17. Dezember] 1852, S. 177-179. (Rasch 3.52.12.17.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  [Anon.:] Der Weihnachtsabend. In: Erinnerungen an merkwürdige Gegenstände und Begebenheiten. Prag. [Heft 5, Mai] 1853, S. 155-156. (Rasch 3.53.05.1N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J3">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg>  [Anon.:] Der Weihnachtsabend. In: Sonntags-Beilage zum Augsburger Anzeigblatt. Augsburg. Nr. 50, 14. Dezember 1856, [S. 3-4]; Nr. 51, 21. Dezember 1856, [S. 3-4]. (Rasch 3.56.12.14N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J4">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">4</tei:hi>
+          <tei:seg>  [Anon.:] Der Weihnachts-Abend. (Aus den Unterhaltungen am häuslichen Herd.) In: Sonntags-Beilage zum Ansbacher Morgenblatt. Ansbach. Nr. 51, 21. Dezember 1856, S. 203-204. (Rasch 3.56.12.21N)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E  Der Weihnachtabend. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 127-136. (Rasch 2.33.1.7)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

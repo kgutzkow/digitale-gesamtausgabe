@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Die Courstauben</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Die Courstauben. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 1-56. (Rasch 2.33.1.1)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #die-courstauben"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-29" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.4" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:pb n="1"/>
+        <tei:seg> Die Courstauben.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg> </tei:seg>
+        <tei:pb n="3"/>
+        <tei:seg> Erstes Capitel.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Blumen und Blüten aus dem Ghetto.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lea, oder wie sie gewöhnlicher genannt wurde, Leontine Simonis, war eine junge, reiche und liebenswürdige Jüdin. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Klein nur von Gestalt, fesselte sie um so lebhafter durch die Zierlichkeit ihrer Formen und vorzugsweise durch die Anmuth ihrer fast immer lächelnden Gesichtszüge. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Frisch von Farbe hoben sich die lieblich gerundeten Wangen. Die Nase von seltenem Ebenmaße und mit der kleinen gedankenvollen Stirn so in eine Linie verbunden, wie das Profil einer Griechin. Vom germanischen Stamme waren Leontinens Augen; blau, schwärmerisch, romantisch. Die Zähne untadelig und das Haar von einer Fülle, daß es, aufgelöst, wenn nicht die Fersen der kleinen Füße, doch die Kniee hätte erreichen können. Es gab in der Residenz Gestalten von einer beim ersten Anblick eindrucksvollern Schönheit, Musterbilder des Wuchses und der Formvollendung, aber wenige von Leontinens einschmeichelndem Zauber im Gesammteindruck.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="4"/>
+        <tei:seg> Und sie hatte auch den Namen dafür. Die junge Welt streifte am sogenannten Hohen Graben, dem Quartier der Banquiers, vor den Fenstern der „schönen Simonis,“ wie man sie nannte, mit allen Ausdrücken der Huldigung vorüber, die für ein meist unter hohen tropischen Pflanzen am Fenster stickendes oder lesendes junges Mädchen nur im Aufblicke gesunder oder in der Schärfung schwacher Augen durch vorwitzige Lorgnetten liegen kann.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dies war Leontinens äußere Erscheinung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach ihrem Innern war sie Schwärmerin. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie übte zuvörderst nur melancholische Musik. In Liedern ohne Worte, in Rêverieen und ähnlich benannten Tonstücken suchte sie ihre ganze unbestimmte Sehnsucht auszuhauchen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sodann sprach die Poesie aller Nationen zu ihrem geistigen Ohr. Das waren ihr Engelzungen, während ihr leibliches nur zu sehr, wie sie sagte, mit den rauhen Tönen der Wirklichkeit belästigt wurde. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Vater, Nathan Simonis, besaß die übliche praktische Lebensauffassung seines Stammes. Man konnte von ihm sagen, er hätte des weisen Nathan Namen deshalb getragen, weil, wie der Derwisch sagt, seinem Volke eben der Reiche der Weise ist. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Mutter, wenn sie mehr Bildung besessen hätte, würde das Leben schon mehr nach Leontinens Art gefaßt haben. Der prächtige Name, den sie ihrem Kinde statt des </tei:seg>
+        <tei:pb n="5"/>
+        <tei:seg> ursprünglichen Lea zugestanden hatte, war eine Huldigung der guten Frau an die Welt des Schönen, ein Act der Anerkennung wenigstens für manche Sprachkenntnisse, die Madame Simonis aus ihrem Jugendunterrichte gerettet hatte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontinens Brüder, Vettern, Oheime freilich lebten nur unter materiellen Lebensbedingungen, Eisenbahnactien, Courszetteln, Bankausweisen; doch sorgte schon die Mutter dafür, daß diese Grundlagen ihrer zu größtem Vertrauen des Publicums behaupteten Namen nicht auch gar zu breit sich ausdehnen durften. Man ließ sich immer zwischendurch auch einmal auf geistige Fragen, Theater, Musik und die Lieder ohne Worte ein, doch leider immer mit einem zu kühlen Tone, der der kleinen Leontine durch die Seele schnitt. Sie nannte diesen Ton „die kalte Verständigkeit und ihres Volkes Erbtheil“. Leontine Simonis war jene einsam träumende Palme aus dem Morgenlande ihres Lieblingsdichters Heinrich Heine, nur mit dem Unterschiede, daß sie selbst bereits tief im Lande der Fichtenbäume wohnte und unter dem scharfen Luftzuge des Nordens oft, wie sie wenigstens sagte, unbeschreiblich frieren mußte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir könnten für den Abstich, in dem Leontine Simonis gegen ihre Umgebung lebte, noch reichere und poetischere Citate geben, wenn wir die Sammlungen von Gedichten aufschlügen, die in einer Nebengasse des Hohen Grabens, </tei:seg>
+        <tei:pb n="6"/>
+        <tei:seg> nämlich im Barfußgäßchen Nr. 3, zwei Treppen hoch, in Morgen- und Abendstunden auf sie gemacht wurden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Sänger war ein junger Mann, der sie liebte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hieß von Hause aus Moses Sancho, doch nannte auch er sich Moritz. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Moritz Sancho, wie der Name zeigt, alten portugiesischen Erinnerungen angehörend, war etwas über fünf Jahre älter als Leontine, die bereits zwanzig zählte. Es ist und bleibt eine schöne Eigenthümlichkeit bei Leontinens Glaubensgenossen, daß sie die jungen Mädchen die Freiheit und Poesie ihres älterlichen Hauses möglichst lange genießen lassen. Sie verträumen meist alle ziemlich lange ein glückliches von Liebe gehegtes Dasein im Aelternhause, bis sie einem inzwischen meist leider durch kaufmännische Berechnungen vermittelten Loose anheimfallen. Leontine war eine gefeierte Schönheit; hundert christliche Bewerber würden sich schon längst und schon von ihrem sechszehnten Jahre an für sie gefunden haben; aber da sie unter den Ihrigen, oder wie Moritz Sancho, der Dichter, gesagt haben würde, innerhalb des Ghetto, verheirathet werden mußte, so zog sich die Entscheidung über die Bestimmung ihres Schicksals jetzt schon bis in ihr zwanzigstes Lebensjahr hinaus.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die geheimen Hindernisse, die es für diese Entscheidung innerhalb der Sphäre, wo man gläubig nur über Eisenbahnen, zweifelnd über Poesie sprach, geben </tei:seg>
+        <tei:pb n="7"/>
+        <tei:seg> mochte und die sich wahrscheinlich auf einige tausend Gulden mehr oder weniger zurückführen lassen konnten, kennen wir nicht. Leontine ahnte so etwas von den unheimlichen Kreisen, die manchmal um sie her sich zogen, bald näher kamen, bald sich entfernten und ihr immer ein tiefes Aufathmen der Freude verursachten, so oft wieder eine Gefahr, ihre Freiheit zu verlieren, verschwunden war. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man glaube ja nicht, daß Leontine, wenn sie von Freiheit sprach, Ideen hatte im Geiste der neuen materialistischen Philosophie! Sie kümmerte sich zwar mit einem Eifer, mit dem Jüdinnen so oft junge Christinnen beschämen, um Alles, was auf dem Gedankengebiete neu und anregend war, aber Das, was gerade sie Freiheit nannte, war ihr nur die Musik, die Poesie, der milde Schimmer der Sternennächte, das Mondenlicht, der Ruderschlag auf dem Golde jener italienischen Seen, zu denen sich ihre ganze Seele hingezogen fühlte. Ihre Freiheit war ihr die unendliche Sehnsucht nach Schönheit, ein namenloses Zerfließen in Idealen, die sie oft mit irdischen Namen nicht zu nennen wußte. Nur geographische wußte sie dafür anzugeben. Für den Anblick des Comersees z. B. hätte sie alle Partieen aufgegeben, von denen um sie her doch zuweilen geflüstert wurde … ein Flüstern, das ihr immer den Eindruck machte, als wenn sie, sitzend in ihrem Zimmer unter den breiten Blättern eines riesigen Gummibaums, blätternd in Gottfried Kinkel’s „Otto der Schütz“, vom </tei:seg>
+        <tei:pb n="8"/>
+        <tei:seg> drei oder vier Zimmer weit entfernten Comptoir ihres Vaters herüber das Ausschütten von Geldsäcken vernahm. Dieser Silberklang an sich war nicht unpoetisch, er war ihr auch nicht verhaßt, aber er war außerordentlich gewöhnlich. Er drückte bei ihr das Alltägliche aus. Das Geldeinnehmen und Geldgewinnen klang ihr fast so, als wenn sie jeden Morgen die tiefernsten Forschungen ihrer Mutter beobachten mußte, wenn diese mit einer fast contemplativen innern Mystik den täglichen Küchenzettel erfand.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontinens geheimste Gedanken verriethen, daß ihr auf jenem Nachen, mit dem sie durch den Comersee ihrer Ideale ruderte, regelmäßig nur Moritz Sancho das Steuer führte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Moritz Sancho war Doctor der Philosophie. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von gleicher Schwärmerei wie Leontine Simonis hätte er in der That mit ihr auch ein Paar gegeben, an dem Apollo sowol in Rücksicht auf die Grazien wie auf die Musen Freude gehabt hätte. Hier hätten geistige und körperliche Vorzüge sich verbunden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doctor Sancho besaß alle Merkmale des südlichen Ursprungs seiner Familie. Eine mittlere Figur, zart, schmächtig, behend, wie wir die Italiener kennen und von Spaniern und Portugiesen die Vorstellung haben. Das braune Auge blitzend von Leidenschaft, öfter aber auch, in Folge germanischer Einflüsse, in ein mildes Leuchten und träumerisches Umirren sich verlierend, das sogar ihr ge-</tei:seg>
+        <tei:pb n="9"/>
+        <tei:seg>wöhnlicher Ausdruck war und für Jeden etwas Anziehendes und Gewinnendes haben mußte. Sancho’s ganze Erscheinung war, was man interessant nennt. Ein großes Selbstgefühl konnte nicht fehlen – werden doch seine Glaubensgenossen ausdrücklich erzogen, die Freude und der Stolz der Ihrigen zu sein – aber eine ausgesuchte Bildung hatte über den Stolz des jungen Mannes die Formen der Grazie gelegt. Sancho’s Selbstgefühl verletzte nicht. Es gab ihm nur Schwung, nur vertrauenerweckende Haltung. Wenn der junge Doctor in einen Salon trat, mußte er alle Herzen gewinnen. Sein blasses Antlitz, das glänzend schwarze Haar, der tief von innen kommende Blick aus den schwarz beschatteten Augen, all’ jene Eigenthümlichkeiten nazarenischer Schönheit, von denen wir undankbaren Christen nur oft vergessen, daß sie die Vorbilder jener Gestalten sind, die wir auf Gemälden zu Gegenständen unserer Anbetung gemacht haben, lagen auch reichlich in der Erscheinung dieses jungen Mannes, der sich zu den Vorzügen seines südlichen Temperaments noch die Ergebnisse der germanischen Romantik zueigen gemacht hatte. Wie Heinrich Heine – auch ihm war er sein Lieblingsdichter – sich vorzugsweise vom Judenthume dadurch zu befreien suchte, daß er eine etwas zu weit getriebene und nur äußerliche Verehrung vor unserer romantischen Märchenwelt zur Schau stellt, so kann man sich wol auch beim Israeliten ein nach innen gehendes </tei:seg>
+        <tei:pb n="10"/>
+        <tei:seg> wirkliches Verschmelzen mit dem Charakter der germanischen Poesie denken, ein gläubiges und im Gemüth ergriffenes Heimatsgefühl unter dem Banne der schönen Lorelei, unter dem Zauber der Nibelungen und sogar dem Einfluß der christlichen Baukunst und Malerei. Moritz Sancho gehörte zu den ganz germanischen Israeliten des Herrn </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. Gabriel Rießer in Hamburg und keineswegs zu den Ironikern seiner Bildung. Er dichtete von Blumen, Sternen, Sonnen, Palmen, Mondscheinnächten vielleicht ohne Berechtigung eines Sitzes auf dem Parnaß, aber er ironisirte wenigstens diese seine neue Heimath nicht, sank nicht, wie Heinrich Heine, von Lotosblumen und Feenträumen immer wieder zu seinen Schalet-Witzen herab. Wir wollen keine Kritik über die Poesieen des </tei:seg>
+        <tei:foreign>Dr</tei:foreign>
+        <tei:seg>. Sancho schreiben. Jedes Gedicht, welches einem Mädchen huldigt, das man liebt, steht an und für sich den Gedichten des Petrarca gleich und Leontine belohnte ohnehin ihren Sänger freundlicher als Jenen die kalte Laura.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie sich die Herzen dieser beiden Liebenden fanden, ist schwer zu sagen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Barfußgäßchen liegt nur in seinen auf den Hohen Graben mündenden ersten Häusern so, daß Leontine die glühenden Blicke des Doctors hätte allenfalls am Versengtwerden ihrer Lectüre unter den Blumen bemerken können. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Hausnummer „drei“ gab mit dem Hause ihres Vaters schon einen stumpfen Winkel. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="11"/>
+        <tei:seg> Auch das Ausschütten der Geldsäcke im Parterre-Comptoir hatte den Doctor nicht begeistert. Er war zwar arm, sehr arm – sein guter Vater hatte in einer großen Hansastadt sich vom einfachen, einst mit einer Karre hausirenden Büchertrödler mühevoll und mehr aus Liebe zu seinem gabenreichen Sohne, als aus eigenem Triebe nach Vervornehmung seiner Existenz, zum Besitzer einer „antiquarischen Buchhandlung“ emporgeschwungen – aber materielle Berechnungen lagen ihm fern. Er hatte Philosophie studirt auf das Schöne und Wahre im Allgemeinen hin, in der Hoffnung, die deutsche Nation würde sich binnen Kurzem zu einem möglichst idealen und freien Leben entwickeln und von den Professoren der Aesthetik, die man bei Universitäten anstellt, keinen Taufschein mehr verlangen. Er hatte auch den andern Glauben an einen gewissen idealen Umschwung seiner eigenen Glaubensgenossen – Manche sprachen in diesem Betracht von Köhlerglauben – aber waren nicht große Geister der Wissenschaften und Künste aus dem Kreise, den er den Ghetto nannte, neuerdings hervorgegangen? Hatten nicht Heirathen stattgefunden selbst in den reichsten Familien mit Söhnen ärmerer, ja sogar in den orthodoxesten mit christlichen Söhnen und christlichen Töchtern? Ist nicht die Zeit angebrochen, dachte er, wo die Vorurtheile schwinden wollen, die Schranken unnatürlicher Zurückhaltung in allen Gebieten fallen? Und konnte es durch Beispiele anderer Art, die </tei:seg>
+        <tei:pb n="12"/>
+        <tei:seg> schon statthatten, nicht sanctionirt werden, daß der schöne, liebenswürdige, geistreiche und mit der Zeit auch berühmte Doctor der Philosophie Moritz Sancho die schöne Leontine Simonis, den Augapfel ihrer reichen Aeltern, wirklich heirathete?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf diesen Glauben hin dichtete und liebte wenigstens der Eine und duldete seine Anbetung die Andere. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der junge Doctor war unbeschadet seines Vaters, der daheim mit den gangbarsten Schulbüchern handelte, in die vornehmere Gesellschaft seines Glaubens eingeführt und außerordentlich gern gesehen, namentlich von Madame Simonis, protegirt sogar vom Vater und von den Brüdern Leontinens. Alles hatte ihn lieb. Die Brüder berichteten ihm zuvorkommend, wo irgend über ihn eine ungünstige Recension zu lesen war. Der Doctor war nicht nur äußerlich dem Hause willkommen und ein Hebel des Werthes, den sich jedes Mitglied desselben selber zuschrieb, sondern Leontine liebte ihn auch. Sie erwiederte auf Bällen im Tanze seinen Händedruck, sie verrieth ihm die Thränen nicht, die ihr in das dunkle blaue Auge traten, wenn der Freund leise ein Gedicht in ihr Stickerei-Körbchen schob, sie duldete, daß er im raschen Benutzen einer günstigen Gelegenheit ihr die Hand küßte, diese Hand, die zuweilen selbst einen Vers versuchte, wenigstens Phantasieen in ihr Tagebuch niederschrieb und dann ihren Freund lesen ließ, was sie Alles von den Sternen, den Mond-</tei:seg>
+        <tei:pb n="13"/>
+        <tei:seg>nächten und den Gondelfahrten auf dem Comersee träumte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So verflossen einige Jahre des zartesten Seelenaustausches und Moritz Sancho hatte wol ein Recht zu hoffen, diese Verbindung würde ihm die Muße schaffen, einst der deutschen Nation große, gereifte, gefeilte Werke anbieten zu können, ein Recht zu hoffen, er würde das höchste Dichterglück gewinnen, seine Muse gleich dicht nebenan im Zimmer in seinem angetrauten Weibe zu besitzen und damit zugleich, wie er es seinem alten Vater in dessen Sprache ausdrücken mußte, eine gute Partie zu machen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein heißer Sommer führte fast die ganze Familie des Herrn Simonis in ein Bad. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von dem Bade aus machte man noch eine Rheinreise. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als Leontine mit ihren Aeltern zurückkehrte, hatte Moritz gerade die Absicht, einmal seinen alten Vater zu besuchen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So gab es eine Trennung von länger als einem Vierteljahre. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von einem Briefwechsel konnte natürlich keine Rede sein. Leontine hätte nimmer gewagt, eine Zeile anzunehmen, die ihr von Sancho </tei:seg>
+        <tei:hi style="letter-sparse">durch die Post</tei:hi>
+        <tei:seg> zugekommen oder wenigstens von der Mutter ungelesen geblieben wäre. Alles Das verstand sich ja von selbst. Sancho täuschte sich auch nicht über die Schwierigkeiten seines Vorhabens. Er wußte, daß ihm sein Herz eine fast unerreichbare Auf-</tei:seg>
+        <tei:pb n="14"/>
+        <tei:seg>gabe gestellt hatte und daß ihm nur durch ein langes Dulden und langes Werben, wie dem Jakob einst um Rahel, möglich werden würde, den einzigen Gedanken, der ihn nächst seinem Ruhme erfüllte, möglich zu machen. Ja dieser Ruhm, diese Sehnsucht sogar, seinem alten Vater noch einst solche Bücher von ihm zu zeigen, welche die zweite Auflage erlebten und nicht zu herabgesetzten Preisen verkauft wurden, trat sogar gegen seine Liebe vorläufig in den Hintergrund.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie furchtbar mußte es ihn daher niederschmettern, als er nach der großen Residenz eines schönen Herbstmorgens zurückkehrte und die Nachricht empfing, Leontine Simonis wäre die verlobte Braut eines fremden Mannes, der um sie angehalten und nach den üblichen Weitläufigkeiten als ihm bald vermählte Gattin gewonnen hätte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho war in Verzweiflung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sein ganzer Lebensfrühling war wie von einem Sturme geknickt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Gerücht war kein Gerücht; er sah die Verlobungskarte, sah dies verhängnißvolle glänzende kleine Blatt, das inzwischen auch ihm war geschickt worden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine verlobt! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit einem fremden reichen Manne! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wahrheit, Wahrheit war’s! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er schloß sich in sein Zimmer und weinte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>An Sammlung, Fassung war nicht zu denken. Er </tei:seg>
+        <tei:pb n="15"/>
+        <tei:seg> ging nicht aus, schon vor Furcht, man möchte ihm begegnen, von dieser Verbindung mit ihm sprechen und seiner getäuschten Hoffnungen erwähnen; er ging nicht aus, weil er krank wurde. Er bot einen Anblick, der Mitleid erregte. Er aß und trank nichts. Er saß nur starr und stützte das Haupt auf. Sein Bart wuchs ihm, wie nach den Vorschriften der Trauer, die seinem Volke geboten sind. Das Feuer seiner Augen erlosch. Er saß da, stumm und starr. Wehmuth machte ihn ohnmächtig zu einem Entschlusse. Es rührte ihn Alles. Der Gedanke an sich selbst am meisten. Seine sämmtlichen Gedichte, die in so schönem Goldschnitt neben ihm sauber abgeschrieben und zur Veröffentlichung bereit lagen, blickten ihn wie bittend, wie selbst hülflos, nicht einmal mitleidig und tröstend an; bedurften nicht auch sie erst des Fortkommens in dieser kalten Welt, bis sie selbst anerkannt Andern Trost spenden konnten? Alles stand so still, so geisterhaft um ihn. Diese Verlobungskarte war das Einzige, was redete. Die schwatzte und lachte oder „kicherte“, wie sein Ideal Heinrich Heine gesagt haben würde.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er saß wie in Dämmerung einen Tag und den zweiten halben noch. Die Sonne schien nicht und doch ließ er alle Vorhänge herab, nur um nichts zu sehen, nichts als seinen Schmerz, der keineswegs Goethe’scher, die Poesie befruchtender Schmerz war. Er stöhnte laut. Er warf sich vom Sopha bald auf seine drei alten gepolsterten </tei:seg>
+        <tei:pb n="16"/>
+        <tei:seg> Stühle mit Kattunüberzügen, bald aufs harte Bett, bald wieder auf das noch härtere Sopha. Der Schmerz trieb ihn immer wieder auf. Seine Nachbarn mußten ihn seufzen hören. Es war der ganze bekannte furchtbare Druck, den der Mensch im Unglück so recht mitten auf dem Sonnengeflecht fühlt, derselbe Druck, der ihn das Leben in jener ganzen Schalheit und Unersprießlichkeit empfinden ließ, die schon Hamlet fühlte, als er sich umbringen wollte und auch dies, um ganz vergessen zu können, für einen unnützen Ausweg erklärte, jener Druck, der uns physisch nur dann nicht zerstört, wenn wir eine entsprechende Diät damit verbinden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Na, was haben Sie denn, Doctor? sagte seine Wirthin und pflegte ihn wirklich mit heißem Thee und zuthunlicher Liebe und erfuhr seinen ganzen Schmerz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>So freundliche Frauenworte und Frauenhülfe lindern schon gar sehr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am zweiten Tage Abends mußte er sich sagen: Es gibt doch im Menschengemüthe ganz wunderbare Heilquellen. Sie fließen so tief geheimnißvoll, unbekannt und räthselhaft. Wir wissen gar nicht, wo sie herkommen, wissen nicht, wo den furchtbaren Druck des Kummers plötzlich von unten her ein so treu Geheimes emporhebt. Man vergeht im Schmerze wie vor Durst und es sickert plötzlich ein Trost herauf mitten in der Wüste. Es wird warm an einer Stelle, irgendwo, vielleicht im Auge, oder </tei:seg>
+        <tei:pb n="17"/>
+        <tei:seg> es klingt ein Rauschen am Ohr, vielleicht ein Heimatsgefühl, eine Jugenderinnerung. Meist ist es Heimat und Jugend, die wie plötzlich lebendig anklopfen und wir machen auf und sehen erst Niemanden, dann aber Aeltern und Geschwister, denen wir trotz aller Verachtung der Welt dennoch lieb bleiben, wir fühlen etwas, das von ihnen wie eine belebende Wärme uns entgegenströmt. O die Heilkraft der Natur ist ein Geschenk des Himmels, für das wir knieend danken sollten! Sie bewahrt uns vor Verzweiflung, reicht uns in düsterster Finsterniß die warme treue Hand des unsichtbaren Führers, der uns schon manches Jahr gehalten hat, und hebt uns wieder empor und läßt uns sogar reifer erstehen von unserm Kummerlager, als wir uns mit tausend geistigen Schmerzen niederlegten. Dann ergreift wol ein Vater die Feder und schreibt seinen Kindern oder eine Mutter nimmt ein Briefblatt und schreibt einer Freundin, und hier ergriff ein Sohn die Feder und schrieb an seinen alten Vater Levi Ezechiel Sancho, Bücherhändler, einst auf der Karre, jetzt in einem Laden nicht weit von der lateinischen Schule der alten Hansastadt. Moritz schrieb einen Brief mit der schlichten Anrede: „Lieber Vater!“ und der schlichten Unterschrift: „Dein treuer Sohn Moses“ und die einfachste Sprache, deren Inhalt zwar dem Vater Kummer machte, wurde eine Stärkung für den Sohn. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als er Licht angezündet, das Siegelwachs erwärmt, </tei:seg>
+        <tei:pb n="18"/>
+        <tei:seg> die Adresse auf den zusammengelegten Brief geschrieben hatte und noch spät Abends zur Post ging, um dem Vater sein Unglück zu melden, wurde es Sancho’n viel leichter. Er mußte sich ja finden. Es half nichts; denn es gab in vier Wochen keine Leontine Simonis mehr, sondern nur noch eine Leontine Herz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine Herz hatte ihren Aeltern große Freude gemacht. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einmal, daß sie sich nach einigem Weigern in Pyrmont zu dieser Partie entschloß, dann, daß sie bei den Heirathspacten es durchsetzte, daß ihr Gemahl in die Residenz ziehen mußte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Schwiegersohn, Michael Herz, hatte früher in einer andern Residenz unsers residenzenreichen Vaterlandes gewohnt, war daselbst der Sohn eines Hoffinanzagenten und ein außerordentlich geschliffener, weit schon in der Welt herumgekommener Geschäftsmann. Er hatte – doch es wird nothwendig sein, diesem Gemahl Leontinens mindestens dieselbe Aufmerksamkeit zu schenken, wie dem Doctor Moritz Sancho, der sich durch das Studium der Künste und Wissenschaften einstweilen für seinen Verlust zu trösten sucht. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was er erlebt hatte, gehörte zu jenen Heinrich Heine’schen „alten Geschichten“, die sich täglich ereignen und eigentlich Dem nur ganz verständlich sind, dem sie „just passiren“.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="19"/>
+        <tei:seg> Zweites Capitel.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Michael Herz.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz konnte beim ersten Anblick für Das gelten, was man oft und nicht selten mit Grund eine „gewöhnliche Geldseele“ nennt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sein Aeußeres deutete allerdings auf enge Grundsätze. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er war klein, nicht gerade häßlich, aber für die Rolle eines Schiffers auf dem Comersee der Ideale ziemlich ungeeignet. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz hatte stechende, ausdrucksvolle Augen, eine große Stirn, die an den Schläfen schon graue, auf dem Wirbel gar keine Haare mehr zeigte. Er trug zwar einen sehr großen modernen Bart, den er aber nur im ersten Jahre seiner Ehe mit einiger Sorgfalt behandelte, färbte und pflegte, später vernachlässigte und nur zuweilen noch, wenn die Schwiegerältern ein Diner gaben oder das junge Paar irgendwo ausgebeten war, zum Gegenstand philokomischer Studien machte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seine Gesichtszüge waren markant, mager, schon mit Furchen durchzogen. Sein Gang, wenn er mit der Cigarre </tei:seg>
+        <tei:pb n="20"/>
+        <tei:seg> auf sein in einem andern Theile der Stadt gelegenes Comptoir – er hatte sich eine eigene Speculation fast mehr zur Unterhaltung als aus Bedürfniß zugelegt – wanderte, war von den Grazien verlassen und nur durch eine gewisse Sicherheit sich auszeichnend.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sicherheit war überhaupt der Charakter seines ganzen Wesens. Er war so sicher, daß er sogar Witz und Scharfsinn besaß. Er hatte die Welt schon mannichfach kennen gelernt und vielfach beobachtet. Michael Herz trieb Nationalökonomie, höhern Mercantilismus, Freihandel, Politik, Alles das mit Leidenschaft und man würde ein himmelschreiendes Unrecht thun, wenn man ihn dabei einen Verächter des Schönen genannt hätte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In den Wissenschaften hatte er solide Grundlagen gelegt. Er las vielerlei in Morgenstunden und oft bis spät des Abends. Am liebsten Englisch und Französisch. Der Geschmack seiner alten und neuen Freunde war nicht immer der seinige. Er lächelte anfangs über die Schwärmerei seiner verlobten Braut, aber auch über die scherzhaften Einfälle der Oberflächlichkeit, die dem Witze auch Alles opfern wollte. Er ließ sich wol die Späße munden, die auf der Börse am glücklichsten zufällig, minderglücklich privilegirt gemacht werden, aber mit bannalen Phrasen war doch nicht Alles bei ihm abgethan. Michael Herz forschte den Quellen nach. Vieles, was auf der Börse bespöttelt wurde, erfüllte ihn mit Achtung, wenn er </tei:seg>
+        <tei:pb n="21"/>
+        <tei:seg> die Abneigung des Geschäftsmannes auch vollkommen theilte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir fürchten endlos zu werden, wenn wir fortfahren wollten, alle diese Eigenthümlichkeiten zu schildern. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nur die eine Eigenschaft wollen wir noch erwähnen, daß Herz in den ersten gröbern Umrissen seiner Toilette genau war, den Luxus der weißen Wäsche und die, wie Manche sagen könnten, Pedanterie der Reinlichkeit bis zum Exceß trieb und nur in der übrigen elegantern Toilette, in Westen, Halsbinden, Slips, Röcken und Paletots den Cyniker spielte. Ein Paar schwarze freilich englische doppelnähtige Handschuhe trug er oft mehre Monate. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er pflegte überhaupt schon vor seiner Ehe zu sagen: „Ich war einige Jahre in Paris und London ein Elegant und habe daselbst die unsinnigsten Depensen gemacht. Ich putzte mich heraus, als wenn es niemals Spiegel oder eine Antikensammlung im Louvre gegeben hätte. Ich bildete mir ein, mit neuen Cravatten, seidenen Westen, Slipsen, Burnussen, Abdelkaders und troddelbehängten Paletots unwiderstehlich zu sein und merkte nicht, daß jede Grisette mir sagte, wie lächerlich ich war. Meine pygmäische Figur, mein confiscirtes Gesicht, meine Policinell-Manieren, nichts von Alledem ließ sich durch die Rechnungen der ersten Schneider und Modehändler verbessern. Ich glaubte für jährlich 3000 Francs ein Adonis zu sein und war nur komisch. Seitdem hab’ ich diese Methode, In-</tei:seg>
+        <tei:pb n="22"/>
+        <tei:seg>teresse zu erwecken, aufgegeben. Ich fing an, Eindruck zu machen, seitdem ich jeden Rock so lange trug, bis an den Ellenbogenspitzen sich eine hellere Schattirung einstellte. Meine Ehe fang’ ich wahrscheinlich auch erst in diesem Systeme der Adonisirung an. Komm’ ich aber zu Leontinen zum Kaffee, in einem Schlafrock von blauem Sammet, mit gelben Schnüren und hängenden Troddeln, komm’ ich mit einem türkischen Fez von rother Seide mit silbernen Fransen und ich erlebe nicht, daß sie augenblicklich vor Lachen in Ohnmacht fällt, so will ich mich anheischig machen, Zeitlebens im Hause den Hanswurst zu spielen. Meine Lieblingstoilette, grau in grau, wird mich ihr vorläufig im Comptoir bedeutender erscheinen lassen. Auch werden vielleicht die Cigarren meinen Eindruck unterstützen oder ich muß mich ergeben, daß man mich eines Tages eine lebendige Mumie nennt, mich des Besitzes einer jungen blühenden Frau, die eine Haut wie Pfirsiche hat, für unwürdig erklärt und in allem Ernste, ich ahne, daß man mit Schrecken an meine Zukunft denkt.“</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sollte sich Leontine Simonis in die Natur eines solchen Gemahls haben finden können? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sind hier keine Kämpfe vorgekommen? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ging das Alles in der gemüthlichen Gewöhnung so rasch von statten, wie es sich bald geebnet zu haben schien? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Lassen wir die Thatsachen reden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="23"/>
+        <tei:seg> Schon in Pyrmont verrieth Leontine, wie wenig dieser Michael der eigentliche Mann ihres Herzens war. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der scharfblickende, schon lange in die Dreißiger Jahre eingerückte Mann bemerkte eine ihm, wenn auch nicht bis zur Verweigerung der Hand, doch bis zu einer gewissen sogleich hörbaren Dissonanz ungünstige Stimmung sehr bald. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte zwar in Pyrmont und später in der Residenz, wo das Aelternpaar Leontinens wohnte, einige Sorgfalt auf sich verwendet; sein Schicksal war aber eben das, dann gerade geringfügig zu erscheinen, wenn er es andern Männern an Sorgfalt und Geschmack nachthun wollte. Sich so zu geben, wie es sein zweites Pariser System war, konnte er der Aeltern und der Neuheit wegen noch nicht wagen und dennoch besaß er Ehrgeiz. Er besaß nicht den Ehrgeiz, sich schwärmerisch geliebt sehen zu wollen; er besaß aber den Ehrgeiz, seiner Gattin nicht zu gestatten, daß sie sich ihm gegenüber als etwas Apartes gab, eine Welt für sich beanspruchte, ein Dasein für sich oder wenigstens eine Lebensauffassung, in die er etwa wie in ein Heiligthum nicht eintreten durfte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schon die erste Bekanntschaft gab eine Menge von Gegensätzen. Leontine phantasirte am Flügel in schwärmerischen Accorden; Michael konnte nicht in Abrede stellen, daß er fröhlichern Weisen den Vorzug gab. Sie sprach von Büchern, die er nie gelesen hatte, auch nicht lesen </tei:seg>
+        <tei:pb n="24"/>
+        <tei:seg> mochte, so schön sie in Goldschnitt eingebunden dalagen. Leontine sprach Französisch und Englisch lange nicht mit der Gewandtheit, die ihm wünschenswerth erschien, um so mehr, da er Pläne hegte, in Zukunft vielleicht im Auslande zu wohnen und an den Plätzen Geschäfte zu machen, wo man die Handelschancen in erster Hand hat. Ihr ganzes Wesen war ihm zu zerflossen und zu sentimental. Und was der geheime Schaden immer bei den Allzugefühlvollen ist, es entging auch seinem Scharfsinne nicht, daß dieser Schwärmerei eine große und ihm gefährliche Einbildung von sich selbst zum Grunde lag. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz erfuhr auch von dem Verhältnisse des Doctor Moritz Sancho.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man hatte ihm nicht sagen können, daß zwischen diesem jungen Gelehrten und seiner Verlobten ein unverbrüchliches Band gegenseitiger Verpflichtung bestand, aber die Art, mit der die Aeltern diesen Namen aus den Listen etwaiger Einladungen ausstrichen, die satirischen Anmerkungen, mit denen Leontinens Brüder den dichterischen Genius des schönen und, wie er bald bemerkte, in der Gesellschaft bevorzugten jungen Mannes zuweilen zur Erwähnung brachten, öffneten ihm doch sehr bald die Augen. Unverkennbar wurde ihm, daß ihm Leontine auf diesem Wege, den sie schon einschlug, eine Zukunft bereiten würde, die ihn auf die Stufe der geduldeten Ehemänner stellte. Ehrgeiz kämpfte dagegen bei ihm ebenso sehr wie wirkliche </tei:seg>
+        <tei:pb n="25"/>
+        <tei:seg> Liebe. Er hatte ein tiefes Gefallen an seinem Weibe. Er liebte Leontinen. Gerade die Verschiedenartigkeit ihres Wesens von dem seinigen hatte ihn angezogen. Er fand nach seinem System ihre Entzückungen über den gestirnten Himmel und die Mondnächte auf dem Comersee zwar komisch, aber solche Art von Poesie hat zu allen Zeiten selbst die Verständigsten immer verlockt und angezogen. Er beherrschte sich; er verrieth nicht ganz, was er fühlte. Die tiefe Ablehnung, die in „Madame Michael Herz“ für ihn lebte, that ihm weh. Er sann hin und her, wie er es durchsetzen sollte, daß sich Leontinens ganze Seele in ihm zurechtfände, ihn und sein Lebensprincip gelten ließe und sich von einer geistigen und gefühligen Vornehmheit trennte, die etwas Drückendes für ihn hatte. Er wußte, daß die äußere Treue seines Weibes in allen Lagen rein wie Gold sein würde, er wußte, daß ihr nimmermehr einfallen könnte, an den jungen Dichter anders zurückzudenken als wie eine Fürstin etwa an einen Knaben vom Lande zurückdenkt, mit dem sie einst Popularitätbeflissenheitsstudien machen mußte; er wußte, daß die Israeliten alle Vorurtheile des Standesunterschiedes haben – sie waren nicht umsonst in Spanien und Portugal die Beobachter reiner und fleckenloser Ritterschaft. Er wußte, daß der Sohn eines Antiquars von Salamanca und wenn es der unbekannte Dichter des Cid Campeador selbst gewesen wäre, nie daran in Wahrheit hätte denken dürfen, die </tei:seg>
+        <tei:pb n="26"/>
+        <tei:seg> Tochter irgend eines christlichen Don Juda ben Kimchi de Simonis zu gewinnen. Aber das Alles hinderte nicht, daß er sich unglücklich fühlte und vor seinen Verwandten daheim nicht mit der Miene bestand, die sie an ihm zu sehen wünschten.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Hochzeitreise, welche die jungen Eheleute machten, hatte das Gute gehabt, daß Leontine wenigstens vor der praktischen Umsicht ihres Mannes etwas Achtung gewann. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie erkannte sehr bald, daß ein so sicheres und dabei nicht vorlautes und eine zarte Natur in Verlegenheit bringendes Auftreten in Gasthöfen und auf Eisenbahnen, wie es Michael Herz eigen war, nur die Folge der Lebenserfahrung und Weltroutine sein konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es gewann ihr zuweilen ein wenig Bewunderung ab, wie sicher und planmäßig diese Reise nach der Schweiz und den schönsten Theilen des deutschen Oesterreich angeordnet war im Vergleich zu dem Geschrei und dem Durcheinander, wenn sie mit ihren Aeltern reiste. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf einer so kurzen Fahrt wie nach Pyrmont war sie ja jährlich gewohnt gewesen, daß die Familie Simonis mindestens drei Rückenkissen, ebenso viel Handtaschen, oft noch wichtigere Dinge liegen ließ, dann mitten im Fluge des Dampfwagens von Anhaltenlassen sprach, nach allen Conducteuren rief und sich nicht selten entschließen mußte, telegraphische Depeschen um gestickte Sacktücher und lederne Luftkissen hin und her spielen zu lassen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="27"/>
+        <tei:seg> Diese bodenlose Unsicherheit, die mitten im schönsten Genusse bei den älterlichen Reisen Aufschreie und Schrecken aller Art zu verursachen pflegte und ihr das Reisen unter solchen Umständen eigentlich schon längst verleidet hatte, fiel bei Michael Herz gänzlich weg. Das junge Ehepaar reiste allein, nur in Begleitung einer einzigen Dienerin und Alles ging vortrefflich von Statten. Michael rauchte seine Cigarren, fand Alles, was man besichtigte, anregend, mehr oder minder auch merkwürdig und verbreitete dabei ein so behagliches Gefühl der Sicherheit, daß sie ihm im Stillen das Zugeständniß eines praktischen Mannes, mit dem wenigstens äußerlich sich leben ließ, nicht verweigern konnte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach Hause zurückgekehrt stellte sich das Gewonnene aber bald in Frage. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz war in seinem neuen Wohnorte fremd, hatte ein neues Etablissement zu begründen und fühlte, daß die Verwandtschaft ihm nicht diejenige Selbstständigkeit einräumen wollte, die er gewinnen mußte, um sich behaglich zu wissen. Sein verständiger Sinn hatte sich früh im Leben zurechtgefunden. Er sah älter aus, als er war, aber er hatte noch mehr Klarheit seines Wollens, als man selbst seinem Aussehen hätte einräumen mögen. Solche halbblasirte Naturen sind zähe in ihren Vorstellungen von Dem, was man gemeiniglich Glück nennt. Michael Herz schwieg zu Allem, was er sich von Schwiegerältern, </tei:seg>
+        <tei:pb n="28"/>
+        <tei:seg> Schwägern, ja selbst seiner Gattin gefallen lassen mußte, war aber nicht im mindesten gewillt, die Dinge so gehen zu lassen, wie sie in den ersten Monaten seiner Ehe und neuen Niederlassung gingen. Er trällerte, scherzte, lachte, spielte den Unbefangenen, sah aber wohl, wie in seiner glänzenden, kostbar eingerichteten Wohnung ganz andere Geister herrschten als die, die sich seiner Botmäßigkeit unterworfen fühlten. Von einer innigeren Vertraulichkeit Leontinens mit ihm selbst war keine Rede. Man gab sich die Miene, ihn erziehen zu wollen, schrieb ihm eine Menge von Regeln seines Verhaltens sowol in der Geschäftswelt wie in der Gesellschaft vor und wenn er gar beobachten mußte, daß die Hoffnung, die Leontine gewann, Mutter zu werden, wie eine Angelegenheit betrachtet wurde, die mehr die Familie als ihn selbst beträfe, so hatte er Augenblicke des Schmerzes und konnte sogar, weil er die Verstimmung nicht wegheuchelte, Anlaß geben, sich ernstlich über ihn zu beklagen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als nach der Geburt eines Sohnes es den Anschein hatte, als wenn Leontine mit jetzt noch gesteigerterer Gleichgültigkeit für ihn und sein Bedürfen nach Gemüthlichkeit sich wieder alleinstellen und die Nahrung ihres geistigen Daseins aus tausend andern Hülfsquellen, nur nicht aus ihm, suchen würde, nahm er sich ernstlich vor, dieser Gefahr der Unterordnung endlich für immer vorzubeugen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte sich dazu manches Mittel überlegt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="29"/>
+        <tei:seg> Ein ernstes gemüthliches Wort mit Leontinen, eine Bitte um Verständigung, die Betheurung seiner Liebe, alles Das schien ihm sehr gefährlich, seinem Charakter widersprechend und fruchtlos. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn, sagte er sich, wie selten überlegen die Männer, daß sie mit Allem, was sie um </tei:seg>
+        <tei:hi style="letter-sparse">Gotteswillen</tei:hi>
+        <tei:seg> von den Frauen verlangen, Fiasco machen. Die Lehre vom Hebel schon sagt uns, daß wir die Mittel, Wirkungen hervorzubringen, nicht an die Stelle setzen müssen, wo die Wirkungen selbst stattfinden sollen. Die Liebe und ganze Hingebung meiner Frau muß an einer ganz andern Stelle hervorgebracht werden als auf dem Boden, wo ich mich ihr etwa zu Füßen wärfe. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er sann, was beginnen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Zerstreuungssucht seiner Gattin war im besten Zuge, das Zerfließen, Schwärmen, Musiciren, Lesen, Alles hatte wieder einen Anstrich geistiger Vornehmheit und exclusiver Nichtachtung gewonnen; spotten wollte er nicht, reizen, opponiren noch weniger. Ein Ende nehmen aber mußte dieser Zustand. Er liebte seine Gattin, er durfte sich sagen, daß sein ganzes Wesen wol der Mühe werth war, erforscht und zur Richtschnur des Hauses genommen zu werden. Er wollte Vertraulichkeit, Herzlichkeit, Hingebung desselben Gemüthes, das sich für Alles in der Welt erwärmen konnte, nur für ihn nicht.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und um zu diesem Ziele zu gelangen, verfiel er denn </tei:seg>
+        <tei:pb n="30"/>
+        <tei:seg> endlich auf ein in dieser Art </tei:seg>
+        <tei:hi style="letter-sparse">mit Bewußtsein</tei:hi>
+        <tei:seg> wol noch nicht ausgeführtes Mittel. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es bestand in folgendem eigenthümlichen und gewagten Seelenexperiment.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz hatte sich gesagt: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es muß in Leontinens Seele etwas einziehen, das Kraft genug besitzt, die bösen Geister der Eitelkeit, des geistigen Hochmuths und der Gefühlsschwelgerei zu bannen. Vernunft ist ein schönes Wort, aber man kann sie unmittelbar Niemanden einreden. Zank und Lärm ist verdrießlich; die Nachbarn hätten den meisten Vortheil davon. Eine Vorspiegelung, daß wir uns einzuschränken hätten, könnte meinem Credit schaden. Ueberhaupt wird Alles vergebens sein, was nach der Nothwendigkeit aussieht, Leontine sollte in sich eine Tugend ausbilden. Tugenden sind meist nur die Resultate glücklich zusammentreffender Umstände. Das Beste ist, was als gut schon angeboren wurde. Wo das Angeborene nicht gut ist, da muß man sich eingestehen: Auf die Tugend hin erziehen kann man nicht. Man muß nur den Unarten begegnen oder den Unarten eine bessere Wendung geben. Und wie begegnet man den Unarten? So, wie man Krankheiten bekämpft. Die Arzneikunde gibt Aufschlüsse darüber. Um den Verheerungen ansteckender Krankheiten zu begegnen, impft man die Neigung dazu ein. Man gibt Gift, um Gift auszutreiben. Das Gift würde einen gesunden Zustand </tei:seg>
+        <tei:pb n="31"/>
+        <tei:seg> zerstören, aber einen kranken heilt es. Das Gift und die Krankheit kommen in Conflict und über den Kampf beider Gegensätze gewinnt die Heilkraft der Natur hinlänglich Oberhand, um sich zwischen beide Mächte zu werfen und ihrem Streite durch die wiedererwachte Gesundheit ein Ende zu machen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darauf hin impfte Michael Herz seiner Gattin etwas nicht besonders Schlimmes, aber auch nicht besonders Gutes ein – – </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nämlich den Geiz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael hatte zwar bemerkt, daß in seiner Frau auch nicht das mindeste Talent der Wirthschaftlichkeit lag. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man hatte ihr den Bestand eines Hauswesens so bequem wie möglich eingerichtet. Es war ihr eine Maschine übergeben worden, die, einmal angestoßen und durch das aufgeschüttete Wochengeld in Bewegung gesetzt, seit geraumer Zeit schon von selbst ging. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dennoch war ihm an Leontinen auffallend, daß er einen gewissen Charakterzug nicht gerade des Neides oder der Mißgunst, aber doch etwas Dem Aehnliches entdeckte. Richtiger ausgedrückt war diese Eigenschaft vielleicht eine angeborene – Gerechtigkeitsliebe. Sie hatte Sinn für das Billige, Richtige, für das Maß. Ihr Schönheitssinn brachte diese Anlage mit sich. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schon bei den Aeltern polterte sie oft in’s Wirthschaftliche hinein und später, wenn es bei ihnen Gesellschaft </tei:seg>
+        <tei:pb n="32"/>
+        <tei:seg> gegeben hatte, fiel Michael auf, daß Leontine die Speisen, die man abtrug, fast </tei:seg>
+        <tei:hi style="letter-sparse">listig</tei:hi>
+        <tei:seg> überwachte, von bessern Gerichten nur ganz geringe Antheile an die Dienstboten gab. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihm selbst, der einen angeborenen großmüthigen Sinn hatte, waren diese kleinen Charakterzüge bei erster Beobachtung ärgerlich gewesen. Er schalt darüber oder verlachte Leontinen; bei ernsterer Ueberlegung aber entdeckte er, daß diesem Fehler scheinbarer Mißgunst doch ein guter Trieb zum Grunde lag, der in Leontinens Erziehung nur nicht war ausgebildet worden. Das junge Mädchen hatte Notentakte, nicht Geld zählen gelernt, und doch hatte sie einen hohen Begriff vom Gelde. Kam sie in die Lage, schon als Kind, einmal einen Gegenstand nach seinem Werthe anzuschlagen, so taxirte sie ihn sicher immer geringer, als er werth war und erschrack über die hohe Summe, wenn man die rechte nannte. Ihren Brüdern hielt sie fortwährend ihre Verschwendungen vor. Sie mußte von deren Zorn viel leiden, wenn sie sich in die Streitigkeiten mischte, die oft genug mit ihnen über den Bedarf an Geldmitteln ausbrachen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz begann nun sein System. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die junge, nach ihrem ersten Kinde sich zur Schönheitsfülle erst recht entfaltende Frau gab Gesellschaften und liebte sie. Sie scherzte und lachte dabei. Man hatte einen Kreis von bekannten Namen um sich versammelt, man lud Jeden, von dem man nur einmal eine Auszeich-</tei:seg>
+        <tei:pb n="33"/>
+        <tei:seg>nung empfangen, zweimal wieder ein. Leontine war die Frau von Geist, Poesie, Gemüth, Seele, die große Pianoschlägerin, die verschämte Dichterin, während Michael Herz nur die Honneurs der Aeußerlichkeiten machte. Sie war so in einen Strudel gerathen, daß nur die Anmeldung fehlte: Herr </tei:seg>
+        <tei:foreign>Dr.</tei:foreign>
+        <tei:seg> Moritz Sancho wünscht seine Aufwartung zu machen! sie wäre aufgesprungen, in ein Cabinet geeilt, hätte bald ihr klopfendes Herz mit der Linken gehalten, bald mit der Rechten an ihrer Haube die langen rothseidenen Bänder geordnet und ihn empfangen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Theater, in Concerten hatte Sancho auch oft sie mit Augen schon wieder beobachtet, welche die Glut seiner alten Liebe aussprachen. Er grüßte nicht – denn einem tiefen Grolle seines Gemüths, der verflogen war, mußte er doch wenigstens den äußern Anschein nicht entziehen; aber die kleine unscheinbare Gestalt Michael Herzen’s mit der kahlen Glatze und der nachlässigen Haltung neben der reizenden jungen Frau hätte ihn an sich nicht gehindert, seine Gefühle deutlicher zu erkennen zu geben. Es war nur ein inneres Zagen, die Scheu vor Leontinens Glanz und Reichthum, die ihn von dem wieder mächtig auftauchenden Ideale seiner Träume entfernt hielt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und in dieser Zeit begannen Michael Herzen’s seelenkünstlerische Experimente. Sie gelangen ihm mit überraschendem Erfolge. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sonst hatte er Fülle und Reichlichkeit befördert, hatte </tei:seg>
+        <tei:pb n="34"/>
+        <tei:seg> geschmollt, wenn die Reste eines Balls oder Diners zu rasch verschlossen oder kleinlich und ängstlich gehütet wurden; jetzt fing er an, unscheinbar seine Gattin darin gewähren zu lassen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Damit nicht genug, brachte er eine ökonomische Frage nach der andern aufs Tapet. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Auf die harmloseste Art warf er kleine Alternativen von Mehr- oder Minderausgaben hin, ließ Aussichten über Gewinn oder Verlust fallen und schilderte wie zufällig die Vortheile, die sich ihm im Geschäft wie von ungefähr gemacht hätten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es erschreckte ihn fast, wie diese geheime in Leontinens Seele gelegte Mine nun Fortschritte machte. Sie zündete immer weiter, Explosion der in ihr aufgehäuften geheimen Stoffe folgte auf Explosion.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Zum Glück war Michael Herz selbst so von aller Kleinlichkeit entfernt, daß er mit der Zeit der immer mehr sich steigernden Entwickelung zum Geize seiner Gattin steuern mußte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er sagte sich: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich wollte das Uebermaß der Sentimentalität aus dem Herzen saugen, ganz austrocknen wollt’ ich es nicht! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hütete sich, wie das in tausend Fällen geschieht, mit seinem Weibe in einem gleichen Triebe der Mißgunst und des Geizes zusammenzuschrumpfen; wer hätte nicht schon mit Bedauern jene jungen Eheleute bemerkt, </tei:seg>
+        <tei:pb n="35"/>
+        <tei:seg> die eben noch lieblich und poetisch waren und nach wenig Jahren durch kleinliche Neigungen etwas Pedantisches, Gemessenes, Penibles, Lauerndes bekommen? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herz begnügte sich mit der überraschenden Vertraulichkeit, die sich plötzlich wenigstens in </tei:seg>
+        <tei:hi style="letter-sparse">einem</tei:hi>
+        <tei:seg> Punkte zwischen ihm und seiner Gattin herstellte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine hatte nun ewig kleine Pläne, hatte immer im Geheimen etwas zu betuscheln, hatte bald gegen diese, bald gegen jene Tradition der Küche oder der Wäsche oder des übrigen Hausverbrauchs etwas anzulegen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Für diese Pläne bedurfte sie dann der Anlehnung, eines Mitverschworenen, eines geheimen Verbündeten. Es geschah mit klugstem Takte, daß Michael den Reiz des Geheimnisses, der ihn plötzlich mit seiner Gattin verband, nicht mißbrauchte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Indessen trat hier eine Gefahr ein. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Grazien konnten verloren gehen – –</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In die gewaltige Gährung, in die Leontine durch die Seelenkünste ihres Mannes versetzt war, fiel die Geburt ihres zweiten Kindes. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war dies ein Mädchen. Die Aeltern waren glücklich über das Pärchen. Es ging Alles nach Wunsch. Michael klagte schon nicht mehr. Leontine hatte sich plötzlich auffallend verändert, ohne daß es die Aeltern recht begreifen konnten. Ob Leontine es selbst begriff? …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="36"/>
+        <tei:seg> Sechs Wochen nach Ankunft der kleinen Rahel fuhr die Mutter aus.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war ein wundervoller Frühlingstag. Der Wagen zog langsam. Die Promenaden um die Stadt blühten und grünten. Leontine sog die balsamische Luft mit Entzücken und nicht ohne Wehmuth ein. Es war seit einem Jahre nun so Vieles unklar in ihrem Innersten, so Vieles plötzlich unvermittelt hineingedrungen, so Vieles, was ihr Freude und Schmerz bereitete. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihre Stimmung war die einer Genesenden. Sie wurde durch Alles, was sie wiedersah, gerührt. Und wenn sie die beiden holden Kinder sich vergegenwärtigte, die ihr, eigentlich ohne besondere Sehnsucht danach, wie kleine Engel zugeflogen gekommen waren, wenn sie zurückblickte auf Das, was früher die Goldländer ihrer Sehnsucht gewesen und sie sich doch nicht sagen konnte, daß die Gegenwart sie ganz unbefriedigt ließ, so konnte sie sich nicht wundern, daß ihr Thränen in die Augen traten. Die Gegenwart klammerte sich ihr so fest, so krampfhaft an, und war diese Gegenwart denn ganz würdig? Sie prüfte, sie forschte und sich aufraffend aus dieser weichen Stimmung erblickte sie plötzlich hinter Hollundersträuchern aus einem entlegenern Wege hervortretend Jemanden, der sie grüßte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war der Sohn des armen Bücherhändlers. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der erste Gruß von Moritz Sancho nach drei Jahren! Gerade heute! Gerade in dieser Stimmung! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="37"/>
+        <tei:seg> Sie erwiderte erblassend; sie befahl, rascher zu fahren. Sie gerieth in eine Bewegung, die sie zwang, sich das Herz zu halten. Sie war in einer Stimmung der Verzweiflung wie damals, als sie in Pyrmont ihren Gemahl zum erstenmale sah und erfuhr, daß ihr die Aeltern diese Zukunft so ohne Weiteres erwählt hatten; sie hatte ein Gefühl, als müßte sie, um die wahre Freiheit zu gewinnen, sogar aus sich selbst heraus, und doch waren es nicht Todesgedanken, die sie durchrieselten, sondern die mächtigsten Lebenstriebe pulsten und trieben das Blut in Frühlingswallungen ihr durch die Adern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Den ganzen Tag war sie besinnungslos.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Am folgenden Tage meldete man wirklich Herrn </tei:seg>
+        <tei:foreign>Dr.</tei:foreign>
+        <tei:seg> Moritz Sancho. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie besann sich einen Augenblick, ob sie ihn annehmen sollte.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ja sie nahm ihn an und wie einen längstersehnten, Hülfe bringenden Freund. </tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="38"/>
+        <tei:seg> Drittes Capitel.</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Poesie und Leben.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was Moritz Sancho ermuthigt hatte, sich nun endlich doch in einem Hause wieder vorzustellen, wo ihn nur die peinlichsten Erinnerungen hätten begrüßen sollen, Das auszuführen würde mehre Capitel zur praktischen Seelenkunde kosten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er selbst, als er eingetreten, sich verbeugt und Platz genommen hatte, sprach von einer in der Nähe gelegenen Wohnung eines Freundes, von wo aus er die freie Uebersicht aller Spaziergänge gehabt hätte, die Madame Herz in ihrem kleinen Garten machte. Schon im vorigen Jahre wär’ er fast mit allen Vorgängen des Hauses bekannt gewesen. Er hätte den kleinen Oskar austragen sehen, hätte die Besuche mustern können, als die kleine Rahel gekommen, hätte von seines Freundes Wohnung aus immer rathen und träumen können, welches wol die warme innere lebendige Seele dieser kalten Steine, die Herrn Herzen’s Haus bildeten, gewesen wäre – Michael Herz bewohnte </tei:seg>
+        <tei:pb n="39"/>
+        <tei:seg> vor dem Thore ein Landhaus – kurz er hätte, seitdem er des abgereisten Freundes Wohnung selbst übernommen, sich nicht als Nachbar wissen können, ohne dem Drange Folge zu geben, sich wieder bei dieser hochgeehrten Familie ins Gedächtniß zurückzurufen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Erklärung war besonnen und zustatten kam ihm auch ohne die Krisis in Leontinen jene bekannte Thatsache, daß eine junge Frau zwar in den ersten Jahren ihrer Ehe ihre Vergangenheit für zu geringfügig hält, um sich mit ihr noch besonders viel zu befassen; sind aber erst zwei Jahre vergangen, kommt mit zwei Kindern mehr oder weniger der Druck der Pflichten und löst zuweilen die Freuden selbst des glücklichsten Besitzes mit Sorgen ab, so drängt sich auch durch die leis geöffnete Pforte der Reflexion die Vergangenheit wieder in ein sich selbst schon unklar gewordenes Herz und zu gern hat es eine junge Frau dann, Gespielen, alte Freundinnen, alte Plätze der Träumerei und des unschuldigen Spiels oder, wie sie es vielleicht jetzt schon nennt, des Glücks zu begrüßen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine mußte sich eingestehen, daß ihr Sancho’s Besuch in mancher Beziehung wohlthat. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>An seinem Zartgefühl hatte sie nie Ursache gehabt zu zweifeln und eine schwere Schuld lag ihm gegenüber doch auf ihrem Herzen! </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie hatte ihm nie Hoffnungen ihres Besitzes gegeben, aber angenommen hatte sie seine Huldigungen; sie hatte </tei:seg>
+        <tei:pb n="40"/>
+        <tei:seg> Alles, was sie auf Erden schön und poetisch fand, mit dem Namen dieses Freundes in Verbindung gesetzt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und nun war sie vollends von ihrem innern Doppelleben beunruhigt. Die alte verklärte Welt- und Lebensauffassung drohte sie zu verlassen. Es waren Geister in ihr Herz gezogen, die ihr unrein dünkten. Sie war niedergehalten, zur Erde nieder und so tief, daß sie zuweilen vor sich selbst erschrak, wenn sie die Aufwallungen bemerkte, deren ihr Innerstes um Kleinstes fähig war. Sich um eine Frage der Wirthschaft zu erzürnen, zanken, auf einer Hetzjagd die Umgebungen ihrer Existenz verfolgen, mit allen Gedanken spioniren, das erschien ihr oft so unwürdig, so klein, so beklagenswerth, daß sie wohl begreifen konnte, wie sie oft eine Stunde lang am Klavier gesessen und gespielt und nicht eine einzige Note gehört hatte. Wenn sie etwas las, war sie zerstreut gewesen und wußte nicht, was sie las. Mitten in den Schilderungen, die ihr ein Dichter von dem Zauber schöner Gegenden oder den Weiheaugenblicken der Gefühlswelt entworfen, kam ihr die Sorge und Angst um einige kleine speculirende Spiele, in die sie sich auf Michael’s scherzende Aufforderung eingelassen. Sie nahm seit einem halben Jahre an den Schwankungen der Börse Theil. Kleine Gewinne, die ihr der Seelenkünstler in Aussicht gestellt hatte und für deren Anwendung sie allerlei praktischen Rath wußte, nahmen </tei:seg>
+        <tei:pb n="41"/>
+        <tei:seg> sie mit fieberhafter Ungeduld in Anspruch. Sie fühlte, daß ihr in dieser neuen Wendung ihres Gemüths etwas Altes verloren ging und so konnte sie dem Drange nicht widerstehen, Moritz Sancho wieder in ihrer Nähe zu wissen, ihn einzuladen und ihn öfter zu sehen, als er selbst gewagt haben würde, aus eigenem Antriebe zu kommen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und welch ein räthselhaftes Ding ein Frauenherz ist, wußte Niemand besser als Michael Herz.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte die Wiederannäherung Sancho’s fast vorausgesehen und im Scherze, wenn von den frühern Verehrern seiner Gemahlin gesprochen wurde, die Rückkehr des Doctors für nahe bevorstehend prophezeit. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dennoch erschrak er, als er den Besuch mitgetheilt erhielt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er stellte sich die weiche Stimmung Leontinens nach dem Kindbett vor, die Erschöpfung ihres Gemüths, den Zwiespalt, in dem sie schon längst tiefinnerlich begriffen war. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gelang es dem Doctor, ihr wieder eine Verachtung der materiellen Bedingungen des Lebens beizubringen und zu spotten über die Pflichten eines Hauswesens, über Geld und Gut, so war mit der Erneuerung dieser Bekanntschaft Gefahr verbunden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dennoch, trotz der aufwallenden Eifersucht, wagte Michael Herz nicht, die Besuche des Doctors zu verbieten. </tei:seg>
+        <tei:pb n="42"/>
+        <tei:seg> Er nahm die Nachricht scheinbar gleichgültig und zerstreut auf, ja trug sogar Sorge für eine förmliche Einladung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es blieb ihm später nicht im mindesten verborgen, daß Sancho viel öfter, als schicklich war, kam, und bei Leontinen Morgen- und Nachmittagsbesuche abstattete. Er wußte, daß Beide in solchen Augenblicken wohl über Alles zurückhaltend und ehrerbietig sprachen, immer in einer gemessenen Entfernung, mit Anerkennung der gegenseitigen Rücksichten sich hielten, aber die Gefahr für eine weiland Schwärmerin, die jetzt schon heuchelte, blieb doch; Heuchelei war es wenigstens, daß Leontine wieder die alte Begeisterung für Mondnächte und Comerseefahrten affectirte, Heuchelei, daß sie von Interesse für Dinge sprach, die sie im Drange ihrer schon lange nur reinpraktischen Gedanken gar nicht mehr verfolgte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dies Stadium einer jungen Frauenentwickelung ist gefahrvoll. Man hängt Empfindungen heraus, die man nicht besitzt. Man will nicht gering erscheinen, man will den Duft der Bedeutsamkeit nicht verlieren, man wird deshalb tiefinnerlich kalt und äußerlich kokett. Man lügt eine Scene der Empfindsamkeit und ist sie vorüber, rächt man sich an seiner Umgebung, wird rücksichtslos, wirrt Alles durcheinander und gibt den Grazien den Abschied.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz traf Leontinen, nachdem eben der Doctor sich entfernt hatte, schon oft in vollem Lachen, in vollem Spotte über Sancho. Sie that vor ihrem Gemahl, </tei:seg>
+        <tei:pb n="43"/>
+        <tei:seg> als wenn sie den Schwärmer aufzöge und die wiedererwachte Huldigung des Dichters wie eine Narrheit ansähe, aber Michael Herz pflegte über solche Geständnisse zu lächeln, pflegte von der Wirthschaft, vom Gelde, von den Staatspapieren und der Politik zu sprechen, innerlich wußte er, was er denken mußte. Er hatte in frühern Jahren zu eifrig seinen </tei:seg>
+        <tei:hi style="letter-sparse">Balzac</tei:hi>
+        <tei:seg> gelesen, um sich mit der Außenseite, welche die Frauen zeigen, zu begnügen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Form von Vertraulichkeit, die er jetzt mit Leontinen nur in materiellen Interessen, in Fragen des Geldes, des Ehrgeizes, der Gesellschaftsbeziehungen gewonnen hatte, genügte ihm noch weniger. Eine auf Moquerie und Lüge gebaute Vertraulichkeit ist nie wohlthuend. Er sah zu deutlich, daß ebenso wie Leontine in seiner Gegenwart die Witzige und Vernünftige spielte, sie in des Doctors Gegenwart die Sentimentale und Poetische spielte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was sollte er thun? Sollte er sich nicht entschließen, sein wahres Gefühl auszusprechen? Den Eifersüchtigen entschieden verrathen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Einstweilen zog er vor, Moritz Sancho liebenswürdig zu finden, sich ihm anzuschließen, nach seinen Plänen, Absichten zu fragen, ihm seine Hülfe und Förderung anzubieten. Er fühlte die ganze Lächerlichkeit dieser Handlungsweise. Er fühlte sie, wie alle besonnenen Männer in einem solchen Falle, wenn sie mit der einen Hand einem </tei:seg>
+        <tei:pb n="44"/>
+        <tei:seg> eingebildeten und verblendeten Manne, der sich unterfängt, den Frieden eines Hauses untergraben zu wollen, die Rechte schütteln, mit der andern einen Dolch im Busen verbergen. Er lachte mit Moritz Sancho wie mit seinem besten Freunde, er rauchte Cigarren mit ihm, machte Spaziergänge; aber ein Friede war das wie über einem Pulverfasse.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Moritz Sancho aber handelte wie fast alle jungen Männer, die unter dem Einflusse ihrer Vortheile stehen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war eine stadtkundige Thatsache, daß Michael Herz nur durch sein Geld und seinen Namen die schöne Leontine Simonis gewonnen haben konnte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Allen Denen, die nach Sancho’s Auffassung die Welt beurtheilten – er fand deren nicht viel – war Michael Herz völlig unwürdig, diese reizende junge Frau zu besitzen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der nähere Umgang mußte ihm allerdings zeigen, daß dieser kleine Mann Vorzüge des Geistes besaß, die sein anspruchloses Aeußere vergessen ließen; allein schwach ist die Einsprache der Gerechtigkeit, wo Leidenschaft waltet. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho lebte nur wieder für die schöne junge Frau, der er sein ganzes Dichten und Trachten widmete. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er hatte noch nie gewagt, an die alte Vergangenheit zu erinnern, er hatte sich niemals auch nur die geringste Vertraulichkeit erlaubt. Da sich immer Gegenstände der </tei:seg>
+        <tei:pb n="45"/>
+        <tei:seg> Unterhaltung fanden, die eine neutrale Discussion erlaubten, so gährte und braute es vorläufig nur in ihm, den Versuch zu wagen, wieder Saiten der Vergangenheit zu berühren und zu hören, wie sie anklingen würden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Endlich nach zwei Monaten der erneuerten Bekanntschaft wagte er, das Eis zu brechen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wagte es in der Form eines Gedichts.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von seiner Wohnung aus hatte Sancho beobachtet, daß Leontine täglich einen kleinen an ihrer Villa angebrachten Thurm bestieg, in welchem sie eine Anzahl Tauben hielt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Diese Taubenzucht war ihm das Symbol einer dauernd in Leontinens Seele verbliebenen Poesie.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn sie Mittags auf der Galerie des kleinen Thurms erschien, die Täubchen rief, herzte, an sich zog, sie aus ihrem Munde mit dem Schnäbelchen Erbsen oder andere kleine Körner picken ließ, verwandelte sich ihm die seit ihrer Ehe in doppeltem Reize strahlende junge Frau in ein feenhaftes Zauberbild, das nach Erlösung schmachtete. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hundertmal schon hatte ihr Sancho gesagt, daß ihre Erscheinung auf dem Taubenhause ihm geradezu den Eindruck eines Märchens, eines Bildes aus der Fabelwelt machte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine war darüber jedesmal erröthet und hatte gesucht, diesen Gegenstand abzubrechen und auf Anderes überzugehen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="46"/>
+        <tei:seg> Dennoch knüpfte Sancho den Versuch, endlich einmal wieder das Herz der jungen Frau zu befragen, an ihre Erscheinung unter den Tauben an und entwarf ein Gedicht, das er bemüht war, ihr auf irgend eine verschwiegene und sichere Art in die Hand zu spielen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho war an einem Sonntage bei Michael Herz zu Tisch geladen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vor seinem Eintreten fand er Zeit, der ihn empfangenden Leontine sein gewagtes Gedicht zu übergeben, mit der Bitte, es zu lesen, es zu beurtheilen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie zögerte einen Augenblick, doch nahm sie es. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In diesem Augenblicke öffnete Michael Herz die Thür, um Sancho zu sich zu rufen, dem er eine Neuigkeit aus den Pariser Blättern mittheilen wollte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herz sah nicht die Uebergabe des Gedichts. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine fand nun Zeit, es zu lesen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Kaum hatte sie in ein Nebenzimmer schlüpfend, die Lectüre beendigt, kaum in aller Eile das Blatt wieder zu sich gesteckt, als Herz mit Sancho wiederkam. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herz, scheinbar ganz besonders gut angeregt, Sancho mit sichtlicher Befangenheit, aber voll banger Hoffnung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Was hast du, liebes Kind? fragte Herz, die Unruhe und Verlegenheit seiner Frau bemerkend. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Statt eine Antwort zu geben, eilte Leontine mit ihren rauschenden seidenen Gewändern aus dem Zimmer. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho erschrak. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="47"/>
+        <tei:seg> Himmel! dachte er. Was hast du gethan! Das wird eine Scene geben.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie wird noch eine Anordnung für den Tisch treffen, sagte Herz und freute sich des Diners, das er wie immer schon am Abend vorher mit seiner Frau besprochen hatte; denn sein Satz war der, daß bei ökonomischen Frauen besser wäre, immer schon vorher zu wissen, was man bekomme, man könnte sonst zuweilen auch zu sehr enttäuscht werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nach wenig Augenblicken kam Leontine zurück, jetzt ganz heiter, lachend, in angenehmster Laune und beinahe freudestrahlend. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho schwamm in Entzücken. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie war er so angeregt, wie ging er heute so sich unterordnend auf die Scherze Michael Herzen’s ein, wie stieß er mit so absichtlicher Freundschaft für Den, wie er ihn unter Dichtern und Dichtergenossen nannte, häßlichen Geldsack an, wenn ihm dieser das Glas entgegenhielt.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine schwieg, legte vor, war von Zeit zu Zeit nachdenklich, aber mit einer gewissen innern Befriedigung. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ob in Folge der Freude über Sancho’s Gedicht, ob in Folge einer noch in der Küche getroffenen Anordnung, ließ sich nicht sagen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho hoffte das Beste.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz sprach von der Politik, von den Staatseffecten, heute sogar von der Lyrik, von den Musenalma-</tei:seg>
+        <tei:pb n="48"/>
+        <tei:seg>nachen, von der Emancipation und den künftigen Anstellungen, die sich endlich auch den jungen Musensöhnen jüdischen Glaubens eröffnen würden. Er zog Béranger und Robert Burns dem Meisten vor, was man so auf dem deutschen Parnaß seit Jahren hätte zu hören bekommen, und ließ sich, wenn ihn Sancho dafür einen herzlosen Yankee nannte, diese Bezeichnung gefallen. Er würzte das Gespräch mit allerhand Drôlerieen, die ihm eigen waren und seine kleine Figur schon oft an einer großen Tafel zur Hauptperson gemacht hatten. Dabei schenkte er dem „Freunde“ fleißiger ein, als es Leontine liebte. Sie hatte die Sitte des Nöthigens immer kleinstädtisch gefunden, die des Zutrinkens matrosenhaft englisch. An wirkliches Sparenwollen konnte die reiche junge Frau dabei doch wol nicht denken; vielleicht hatte Michael Herz Recht, wenn er sich im Stillen sagte:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es ist das jene Engherzigkeit der Frauen, die auf einem Sinne für das Maßvolle beruht und die beste Garantie ihrer Tugend ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Suppe, das Rostbeef waren vorüber. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man kam an die Gemüse. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es gab junge Erbsen. Michael Herz, der den Küchenzettel vollständig voraus kannte, freute sich der schönen Ordnung. Es ging Alles am Schnürchen und doch wurden die Fäden, die das Alles vom Tische zur Küche, von der Küche zum Tische lenkten, niemals sichtbar.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="49"/>
+        <tei:seg> Jetzt aber, beinahe wie um ihn zu zerstreuen, richtete Leontine an Herz einige lebhafte Fragen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Herz antwortete nicht sogleich, denn es fesselte ihn etwas, ein Fehler im Serviren, eine auffallende Lücke des Gemüseganges. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man hatte zwei Gemüse und nur eine Beilage. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es fehlten junge Tauben, die zu den grünen Erbsen hätten gegeben werden sollen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hätte er ahnen können, daß gerade diese jungen Tauben draußen in der Küche eben von Leontinen waren abbestellt worden!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit dem ihm eigenen Humor sagte Michael Herz: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bester Doctor! Sie müssen heute mit Pasteten vorlieb nehmen, die ein wenig trocken sind! Liebe Leontine, warum haben wir zu den jungen Erbsen nicht Tauben, die man bei uns so vortrefflich zuzubereiten versteht?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho, dessen Seele immer zwischen Poesie und Tauben und Tauben und Poesie und Poesie und Leontinen hin und her schwärmte, biß sich bei Erwähnung der Tauben auf die Lippen und Leontine gerieth in sichtliche Verlegenheit. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Tauben? sagte sie fast tonlos und mit einem blinzelnden Auge, dessen Aufforderung zum Schweigen Herz entweder übersah oder nicht verstand.…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er wandte sich zu dem aufwartenden Diener und erinnerte an die Tauben. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="50"/>
+        <tei:seg> Tauben! Welche Tauben? fragte Leontine. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unsere in drei Tagen mit Eröffnung des elektrischen Telegraphen ausgedienten lieben Courstauben, sagte Herz und wandte sich nochmals an die Bedienung: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Habt ihr die Tauben vergessen? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Bedienung schwieg und sah nieder. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Brav Leontine, sagte Herz in aller Unbefangenheit, brav, jetzt versteh’ ich! brav daß du mir den Schmerz ersparst. Was sagen Sie, Doctor? Sie wissen doch, daß ich mir seit einem Jahre Courstauben hielt? </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Curstauben? fragte Sancho mit einem bedeutsamen Blicke auf Leontinen, die auf den Teller niedersah und keines Wortes fähig war. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Haben Sie nie meine Frau gesehen, fuhr Herz fort, wenn sie Mittags um zwölf Uhr auf unsern kleinen Thurm stieg und die Course abwartete, die mir meine Tauben von Brüssel brachten? Von Paris nach Brüssel signalisirt sie der Telegraph, von dort bis hierher ist jetzt erst endlich der elektrische Draht fertig geworden. Jeden Mittag hatt’ ich meine Course durch eine Taubenpost, die ein Relais am Rhein, ein zweites an der Weser und ein drittes an der Elbe hatten. Kamen die Curse Mittags auf unserm Thürmchen an, so empfing sie meine gute Leontine, schrieb sie rasch auf und schickte sie mir aufs Comptoir, wo sie gerade noch zur rechten Zeit ankamen, um damit auf der Börse sicherer zu operiren.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="51"/>
+        <tei:seg> So! So! sagte Sancho in einem Tone, der einem aus allen Himmeln Gefallenen, Enttäuschten oder eher noch Demjenigen gleichkam, der sich bewußt war, eine große Albernheit begangen zu haben. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die poetischen Illusionen, die er sich von Leontinens kindlichem und noch wie in alter Zeit auf dem Hohen Graben rein in idealsten Anschauungen lebenden Sinne gemacht hatte, sollten wenn nicht zu seiner, doch zur Verzweiflung Leontinens noch mehr zerstört werden. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Denn Michael Herz fuhr fort: </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sie sind Dichter, Doctor! Was sagen Sie von einer so praktischen Frau wie die meinige! Ich esse gern Tauben, aber unsere in acht Tagen ausgedienten guten treuen Thierchen zu schlachten und die auf dem Tische zubereitet vor sich zu sehen, nachdem sie in unserm Dienste hin und her flogen und unter ihren Fittichen die geheimnißvollen Zeichen aus der Ferne trugen, ist das nicht selbst einem kalten Geschäftsmanne wie mir zuviel zugemuthet? Aber mein gutes Weibchen demonstrirte mir – und eigentlich sehr richtig, daß die Fortsetzung der Taubenzucht nunmehr ein sehr lästiges Vergnügen sein würde. Wie billig, was soll man mit den Tauben machen? Doch ich sehe sie immer vor mir mit ihren Häubchen und Hörnchen auf dem Kopfe, mit ihren kleinen Sporen an dem befranzten Fuße, die Boten des Friedens auch in unserer Zeit, – denn ohne Frieden keine angenehmen Course – aber das </tei:seg>
+        <tei:pb n="52"/>
+        <tei:seg> Alles – gebraten, gespickt, au gratin in geriebenem Zwieback vor sich haben zu sollen? Nein, nein! Ich danke dir, liebe Seele, daß du mir den gebratenen Anblick meines weißbraunen Lolo und meiner blaugrünen Pretty und des zierlichen, fast wie ein kleiner Pfau glänzenden Krakelfüßchens Fidy erspart hast! Nehmen Sie vorlieb, Doctor! Wir Geldsäcke sind nicht ganz so unpoetisch, wie ihr Dichter euch einbildet! Zum Beweis dafür haben Sie heute zu zwei Gemüsen nur eine Beilage.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz sprach diese Worte in der größten Unbefangenheit. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er ahnte nicht, welche Wirkung sie hervorbrachten. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leontine sprach während der übrigen Gänge kein Wort mehr, Sancho saß in Erinnerung seines Gedichts da wie auf der Folter und zeigte in seinen Mienen nur ein Lächeln, das beinahe etwas Bornirtes hatte, wenn man dies Wort bei einem so geistreichen Manne anwenden konnte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herz wußte nicht, was diese Veränderung hervorgebracht hatte. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Daß seine Gattin bis zu dem Grade die poetische Empfindlerin spielen wollte, ihm übelzunehmen, wenn er die Geschichte seiner Courstauben erzählte, mochte er anfangs nicht glauben. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doch war ihr Benehmen zu auffallend. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er bereute schon bitter, ihre Oekonomie blosgestellt </tei:seg>
+        <tei:pb n="53"/>
+        <tei:seg> zu haben; denn sie hatte in der That am Abend vorher zu ihm gesagt: Lieber Mann, das sind curiose Scrupel! Der elektrische Telegraph macht die Tauben überflüssig. Die Course weiß jetzt alle Welt. Wir haben einen Gewinn weniger, aber auch einen Vortheil mehr. Eine Ausgabe vermindert sich. Ich sehe nicht ein, was ich nun noch mit den Tauben soll! Sie zu verschenken, wäre Thorheit. Magst du sie nicht essen – von mir weißt du, daß ich nach dem Rostbeef mit meinem Appetit zu Ende bin – so mögen die Leute sie essen!…</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Mit Aufrichtigkeit mußte Herz sich sagen, daß das die Sprache einer ganz vernünftigen Hausfrau und einer so guten Oekonomie gewesen war, wie sie eben auch nur die Frauen mit allen Ansprüchen an Poesie verbinden können.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Sancho war gegangen, nicht wenig bestürzt über die Einsilbigkeit Leontinens. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ihr Abschied war kalt zu nennen. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Als Michael Herz mit seiner Gemahlin allein war, machte er sich auf Vorwürfe gefaßt. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Er erhielt sie auch über seine Ausplauderei reichlich.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Noch staunte er über ihre dabei ausbrechende Heftigkeit, als sie erklärte, die Kinder von den Eltern, wo diese zu Tisch waren, abholen zu wollen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gut! sagte Michael Herz. Er begleitete sie. Man blieb bei den Eltern zum Thee, zum Whist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="54"/>
+        <tei:seg> Doktor Sancho’s Gedicht aber hatte folgendermaßen gelautet:</tei:seg>
+      </tei:p>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Mit Adlerflügeln glaubt’ ich aufzusteigen</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Einst in ein Reich des höchsten Erdenglücks!</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Der Traum war kurz! Wandt’ ich mich hinterrücks,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">So saß ich, ach! in dunkeln Waldeszweigen</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Allein mit meinem Schmerz und meinem Schweigen.</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Und daß ich dennoch wieder aus dem Laube,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Das mich verbarg, mich wage hoffnungsbang,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ist nicht mehr Adlers kühner Schwung und Drang – </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Nein! Zu dem Zagen sprach: Vertraue! Glaube! </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ein Bild der Schüchternheit, die zarte Taube.</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Wenn ich dich sah mit holder Frauenmilde </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Hoch auf dem Söller deines Hauses steh’n,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Des Windes Hauch in deinen Locken weh’n – </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Und um dich her im anmuthvollsten Bilde </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Geleit der Venus, eine Taubengilde –</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Wie flatterte, wie schwirrte das im Kreise </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Um deine Gunst! Die eine sucht die Hand, </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Die And’re fliegt dir auf der Schultern Rand, </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Die Dritte, die ist ganz besonders weise, </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Sie streift dir schnäbelnd deine Lippen leise – </tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Und jede hört dich schelten, hört dich loben:</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Du bist bescheiden! Du da allzugier!</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Noch blickst du auf zum hohen Luftrevier,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ob nicht ein Spätling angstvoll ruft von oben: </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ihr habt den Tisch doch noch nicht aufgehoben?</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Wie hast du treu gesorgt! Die besten Körnchen </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Hast du dem Spätling liebend aufbewahrt.</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Wie drückst du ihn ans Herz so mild und zart,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">
+            <tei:pb n="55"/>
+          </tei:hi>
+          <tei:hi style="font-size-small"> Den Friedensboten, ob er gleich ein Hörnchen</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Am Köpfchen trägt, am Fuß ein trutzig Spörnchen. …</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Ach! Wär’ ich Noah doch und könnte wagen </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Zu hoffen, wenn verrauscht die Leidensflut,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Es kämen Boten mir der Himmelshut;</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Es brächten Tauben mir nach Schreckenstagen </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ein grünes Friedens-Oelblatt so getragen!</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">An alte Sagen denk’ ich, an Geschichten,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Die aus des Südens Landen allbekannt,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Wie Liebende sich ihrer Liebe Stand,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Die Hoffnungen, Gefahren, Wünsche, Pflichten </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Verschwiegen so durch Taubenflug berichten.</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Von meinem Auge will es nimmer schwinden</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ein Bild: Gefang’ner Troubadour,</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Dem ach! die Hoffnung einer Taube nur!</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Sie kommt! Ein Blatt! Es flattert in den Winden – </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Was würd’ ich wol auf ihm geschrieben finden?</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:lg margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+        <tei:l first-line-indent="2" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2">
+          <tei:hi style="font-size-small">Mein Himmelslicht, wenn Sonn’ und Stern’ erblinden! </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Strahlst du mir noch in meines Lebens Nacht? </tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Wirst du in deiner Schönheit Pracht</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Mir nimmer, Göttin, wie schon einst entschwinden?</tei:hi>
+        </tei:l>
+        <tei:l first-line-indent="1.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0">
+          <tei:hi style="font-size-small">Ach! Lasse Lieb’ ein Wort der Liebe finden!</tei:hi>
+        </tei:l>
+      </tei:lg>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und diese so poetisch gefeierten Tauben hatte sie nur – für die Course benutzt! Sie nur gefüttert, nur geherzt – für die französische dreiprocentige Rente!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Beschämung vor dem Sänger war so groß, daß Leontine die Miene der – Tugend annahm, das Gedicht einsiegelte und an den Verfasser zurückschickte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="56"/>
+        <tei:seg> Er wurde nie mehr angenommen, nie mehr eingeladen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Michael Herzen’s System, Fehler heile den Fehler, war aufs Neue bestätigt. Er erfuhr diese Bestätigung nicht, sah aber ihre Wirkung.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Leise, ganz leise flüsterten der jungen Frau die innern Stimmen wol: Leontine, du bist nur tief beschämt, daß du poetisch scheinen wolltest und es in deinem tiefsten Wesen nicht bist! Aber sie stand diesen Stimmen keine Rede, sondern wurde eine Fanatikerin ihrer Pflichten. Immer sah sie die Tauben ihres Troubadours vor sich – im gebratenen Zustande! Und sie fand es auch hier sehr recht, daß sie gebraten werden.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Oekonomie hatte den Sieg über die Romantik davongetragen und Michael Herz konnte sich das Zeugniß geben, daß er eine gute – eine treue Frau besaß.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie gerade seine </tei:seg>
+        <tei:hi style="letter-sparse">Courstauben</tei:hi>
+        <tei:seg> es hatten sein müssen, die diesen Gegensatz von Poesie und Leben als einen in gewissen Fällen nicht zu vermittelnden herausstellten, erfuhr er nie.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Doctor Sancho aber erhielt bald darauf einen Brief von seinem Vater, worin ihn dieser zu einer Brautschau einlud. Das Verhältniß machte sich. Er heirathete die Tochter eines Pfandleihers, die nicht schön, aber reich und keineswegs ohne Bildung war.</tei:seg>
+      </tei:p>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die erstmals Ende 1852 in zwei Nummern seines Familienblattes „Unterhaltungen am häuslichen Herd“ erschienene Novelle nahm Gutzkow 1856 in den ersten Teil seines dreibändigen Sammelwerkes </tei:seg>
+        <tei:q>Die kleine Narrenwelt</tei:q>
+        <tei:seg> auf. Den Titelzusatz des Journaldrucks </tei:seg>
+        <tei:q>Novelle vom Herausgeber</tei:q>
+        <tei:seg> ließ er weg, änderte für die Buchausgabe die Absatzgestaltung, die er kleinteiliger anlegte, und nahm an wenigen Stellen geringfügige stilistische Revisionen, etwa Umformulierungen oder Wortumstellungen, vor. Eine gravierende inhaltliche Varianz der Buchausgabe zum Journalerstdruck ergibt sich allerdings durch die Neufassung des Schlusses der Novelle (S. 179,23-182,10 dieser Ausgabe). Für die Buchausgabe 1856 fasste Gutzkow den Schluss kürzer, gab ihm eine andere Wendung, verzichtete auf eine Versöhnung von Poesie und Leben und ließ im Gegenteil [</tei:seg>
+        <tei:q>d</tei:q>
+        <tei:seg>]</tei:seg>
+        <tei:q>ie Ökonomie</tei:q>
+        <tei:seg> […] </tei:seg>
+        <tei:q>über die Romantik</tei:q>
+        <tei:seg> siegen (vgl. unter 2.2. Lesarten und Varianten). Und anders als im Journalerstdruck fügte Gutzkow einen knappen Schlussabsatz hinzu, der vom ferneren Schicksal des Dichters Dr. Sancho berichtet. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Von diesem unversöhnlichen Finale ist Gutzkow bei den späteren Neudrucken der Novelle wieder abgekommen: Sowohl die Einzelausgabe 1864 wie auch der Abdruck in den </tei:seg>
+        <tei:q>Gesammelten Werken</tei:q>
+        <tei:seg> 1873 gehen wieder auf die Schlussfassung des Journalerstdrucks zurück. Die Fassung von 1856 nimmt damit in der Druckgeschichte eine exklusive Stellung ein.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Gutzkow hat ansonsten für die selbstständig erschienene Ausgabe der Novelle 1864 einige stilistische Änderungen und Umformulierungen vorgenommen, mehrere Absätze zusammengeführt, die in J und E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> stellenweise vorkommenden drei Auslassungspunkte fast ausnahmslos getilgt und durch Sperrdruck Hervorhebungen ausgewisen, die sich in J und E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> nicht finden. An einer Stelle präzisiert er die Konfliktsituation des Ehegattens und ersetzte die Ankündigung Er hatte sich dazu manches Mittel überlegt. (S. 166,22 dieser Ausgabe) durch die Frage </tei:seg>
+        <tei:q>Wie begegnet nun wol ein Mann der möglichen Untreue seiner Frau?</tei:q>
+        <tei:seg> (E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, S. 30). Das Wort </tei:seg>
+        <tei:q>Untreue</tei:q>
+        <tei:seg> kommt in E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> an keiner Stelle vor, wird in E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> aber noch einmal in einer neu geschriebenen Schlusspassage wiederholt (vgl. unter 2.2, Lesarten und Varianten).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dem Abdruck der Novelle in den </tei:seg>
+        <tei:q>Gesammelten Werken</tei:q>
+        <tei:seg> 1874 legte Gutzkow die Einzelausgabe von 1864 zugrunde. Gutzkow überarbeitete den Text nochmals stilistisch, nahm Neuformulierungen vor sowie kleine Hinzufügungen und Wortstreichungen. Abermals wurden Absätze zusammengefasst und somit gegenüber E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> reduziert. </tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J">
+          <tei:seg>J  Die Curstauben. Novelle in drei Capiteln vom Herausgeber. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 10, [3. Dezember] 1852, S. 145-154; Nr. 11, [10. Dezember] 1852, S. 161-171. (Rasch 3.52.12.03.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E1">
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg>  Die Courstauben. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 1-56. (Rasch 2.33.1.1)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E2">
+          <tei:seg>E</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Karl Gutzkow: Die Curstauben. Novelle. Leipzig: Brockhaus, 1864. (Rasch 2.35)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="A2">
+          <tei:seg>A</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg>  Die Curstauben. (1852.) In: Karl Gutzkow: Kleine Romane und Erzählungen. Zweiter Theil. (Gesammelte Werke. Erste vollständige Gesammt-Ausgabe. Erste Serie. Bd. 3.) Jena: Costenoble, [1873]. S. 261-296. (Rasch 1.5.3.4)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>2.1.1. Texteingriffe</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:citedRange type="page-line-ref">170,14</tei:citedRange>
+        <tei:seg> </tei:seg>
+        <tei:lem>Geister in</tei:lem>
+        <tei:seg> </tei:seg>
+        <tei:sic>Geist erin</tei:sic>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.2" type="level-3">
+        <tei:seg>2.2. Lesarten und Varianten</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In der ersten Buchausgabe 1856 gab Gutzkow der Novelle einen anderen, vom Journalerstdruck stark abweichenden Schluss. Daher wird diese Varianz hier dokumentiert. Abweichend von E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> (S. 179,23-182,10 dieser Ausgabe) heißt es in der Journalfassung 1852:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Als Michael Herz mit seiner Gemahlin allein war, machte er sich auf Vorwürfe gefaßt. Wie erstaunte er aber, als Leontine auf dem Sopha sitzen blieb, erst schweigend, dann immer ernster wurde, zuletzt das Haupt aufstützte, endlich in Thränen aus brach. Herz hatte gerade die französische Zeitung in der Hand.…</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Um Himmelswillen, was ist dir Kind? fragte er und ließ das Papier fallen. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Statt aller Antwort wieder nur Thränen. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Das war ein seltener Anblick für Herz. Bewegt trat er zu Leontinen.… </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Bist du unzufrieden mit mir? fragte er voll gutmüthiger Zärtlichkeit. Hab’ ich dich mit irgend Etwas verletzt? Vergib mir! Ich ahne, ich hätte wol von den Tauben schweigen sollen? </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Leontine verbarg das mit Thränen bedeckte Antlitz und bückte sich auf die Sophalehne. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Aber mein Gott, rief ihr Gatte, was ist dir nur? Gute, liebe Leontine! </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Und so drängte er denn in sie, sich auszusprechen. Sie schwieg lange, kämpfte sichtlich mit sich, endlich aber reichte sie ihm das Papier, worauf das Gedicht des Doctor Moritz Sancho sauber abgeschrieben stand. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Staunend ergriff er das Blatt, ahnte sogleich den Zusammenhang, wollte ihr Vertrauen ablehnen; aber sie zwang ihn, zu lesen und so las er denn:</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Mit Adlerflügeln glaubt’ ich aufzusteigen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Einst in ein Reich des höchsten Erdenglücks! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Der Traum war kurz! Wandt’ ich mich hinterrücks, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>So saß ich, ach! in dunkeln Waldeszweigen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Allein mit meinem Schmerz und meinem Schweigen.</tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Und daß ich dennoch wieder aus dem Laube, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Das mich verbarg, mich wage hoffnungsbang, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ist nicht mehr Adlers kühner Schwung und Drang – </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Nein! Zu dem Zagen sprach: Vertraue! Glaube! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ein Bild der Schüchternheit, die zarte Taube. </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wenn ich dich sah mit holder Frauenmilde </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Hoch auf dem Söller deines Hauses steh’n, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Des Windes Hauch in deinen Locken weh’n – </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Und um dich her im anmuthvollsten Bilde </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Geleit der Venus, eine Taubengilde – </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wie flatterte, wie schwirrte das im Kreise </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Um deine Gunst! Die Eine sucht die Hand, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Die And’re fliegt dir auf der Schultern Rand, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Die Dritte, die ist ganz besonders weise, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Sie streift dir schnäbelnd deine Lippen leise – </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Und jede hört dich schelten, hört dich loben: </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Du bist bescheiden! Du da allzugier! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Noch blickst du auf zum hohen Luftrevier, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ob nicht ein Spätling angstvoll ruft von oben: </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ihr habt den Tisch doch noch nicht aufgehoben? </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wie hast du treu gesorgt! Die besten Körnchen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Hast du dem Spätling liebend aufbewahrt. </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wie drückst du ihn ans Herz so mild und zart, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Den Friedensboten, ob er gleich ein Hörnchen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Am Köpfchen trägt, am Fuß ein trutzig Spörnchen.…</tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>[</tei:q>
+        </tei:hi>
+        <tei:hi style="font-size-small">170]</tei:hi>
+        <tei:hi style="font-size-small">
+          <tei:q> Ach! Wär’ ich Noah doch und könnte wagen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Zu hoffen, wenn verrauscht die Leidensflut, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Es kämen Boten mir der Himmelshut, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Es brächten Tauben mir nach Schreckenstagen </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ein grünes Friedens-Oelblatt so getragen! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>An alte Sagen denk’ ich, an Geschichten, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Die aus des Südens Landen allbekannt, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wie Liebende sich ihrer Liebe Stand, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ihr Hoffen, die Gefahren, Wünsche, Pflichten </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Verschwiegen durch der Tauben Flug berichten. </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Von meinem Auge will es nimmer schwinden </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Das Bild: Gefang’ner Troubadour, </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Dem noch die Hoffnung einer Taube nur! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Sie kommt! Ein Blatt! Es flattert in den Winden – </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Was würd’ ich wol auf ihm geschrieben finden? </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>O Himmelslicht, wenn Sonn’ und Stern’ erblinden! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Strahlst du mir noch in meines Lebens Nacht? </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Wirst du in deiner Schönheit Pracht </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Mir nimmer, Göttin, wie schon einst entschwinden? </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="1" margin-right="0" margin-top="0" style="text-left">
+        <tei:hi style="font-size-small">
+          <tei:q>Ach! Lasse Lieb’ ein Wort der Liebe finden! </tei:q>
+        </tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Es wallte in dem verletzten Gatten erst wie ein Gefühl auf, das ihn zwingen mußte, Leben und Tod über sich und den Schreiber solcher Worte entscheiden zu lassen. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Um Gotteswillen! rief Leontine. Vergessen wir den Vorfall! Ich trage die ganze Schuld. Kein Wort zu Sancho – Ich beschwöre dich! </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Michael Herz sammelte sich. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Endlich sagte er: </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Liebst du den Dichter? </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Leontine lehnte die Frage mit bittender Miene ab. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Dann schmerzt dich, sagte Michael, der Widerspruch Dessen, was man von dir glaubt und Dessen, was die Wirklichkeit bietet. Du glaubtest ein Gegenstand der Poesie zu sein und fühlst dich gedemüthigt, es nicht mehr zu sein. Ist das aber der Thränen werth? </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Leontine erwiderte mit erstickter Stimme, sie wisse nicht, wie sie es nennen solle, aber sie fühle schon lange einen schmerzlichen Zwiespalt in sich selbst, sie könne nicht mehr sagen, was Wahrheit oder Lüge in ihr wäre, sie hasse und verachte sich. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Michael, überrascht von einer solchen Sprache, von einer solchen ungewohnten Aufrichtigkeit, setzte sich traulich zu ihr, ergriff ihre Hand und sagte mit milder Stimme: </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Leontine! Es sind zwei Seelen in dir! Du hast einen unwiderstehlichen Hang, jetzt vernünftig und praktisch zu sein und zu gleicher Zeit gefällt dir der Reiz des Schönen. Nun kommst du dir, wenn du dich dabei selber betrachtest, wie sich das wol an dir ausnähme, nicht mehr so vor, wie du dich lieben magst. Du ertappst dich auf Regungen, die unschön sind, das ist der Geiz, den ich leider selbst geschürt habe. Du ertappst dich auf etwas Anderm, was ganz allein aus deinem Innern kommt; das ist die Gefallsucht. Beide Richtungen würden, wenn sie die Oberhand in dir gewönnen, dich zu einem bemitleidenswerthen Geschöpf machen. Dies Gedicht spricht den ganzen Contrast aus, wie in deinem Innern zwei Seile gleichsam befestigt sind, an denen du gezogen wirst. Aber warum sollte dein Gefallen am Schönen nicht auch jetzt noch edle Früchte tragen können? Strebe nach einem gewissen Gleichgewicht in deinem Innern! Bring’ an Alles den Maßstab des Schönen, dann wird sich jeder andere gefährliche Ueberhang in dir zurücklegen und dir selbst nicht Schwindel erregen.</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>[171]</tei:seg>
+        <tei:q> Leontine blickte nieder, ergriff des Gatten Hand und sprach: Vergib mir! </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Der wohlwollende Mann war gerührt. Er küßte die dargereichte Hand und um rasch, wie es seine Natur erfoderte, ein solches zu weiches Thema zu verlassen, sagte er: Also das Gedicht wirst du ohne ein Wort zurücksenden. Dann benutzen wir die Jahreszeit und reisen. Der Comersee war deine Jugendsehnsucht. Wir wollen ihn sehen und dabei so viel schwärmen, als es in meinen Kräften liegt. Ein praktischer Verstand, der bei den Gondelfahrten die Taxen nachsieht, ein Rechner, der in den italienischen Wirthshäusern die üblichen Münzfüße im Auge behält, ist bei allen diesen Schönheiten, die wir genießen werden, denk’ ich, nicht zu verachten. </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Der Comersee! rief Leontine aus. O, schon hier gesteh’ ich dir, mein Freund, daß die tiefe Beschämung, die ich heute erfahren habe, für mein ganzes Leben ein unverlorener Gewinn sein soll! </tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>In einigen Tagen schon reiste das Paar nach Italien. Leontine hatte von diesem Augenblicke an den Mittelpunkt ihres Lebens in ihrem Gatten gefunden, den sie betrachtete wie ein ihr bisher verschlossen gewesenes Buch, dessen seltsamer und edler Inhalt sie überraschte, hob und ihr die Möglichkeit eröffnete, Poesie und Leben zu vereinigen.</tei:q>
+        <tei:seg> (J, S. 169-171.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Einzelausgabe von 1864 (E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg> ) folgt im wesentlichen dem Schluss von J, ergänzt diesen jedoch am Ende um eine weitere Passage, in der der Autor das künftige Verhältnis des Ehepaars skizziert (Michael bricht das ‚Experiment‘ ab, Leontine gibt ihre eigenständigen wirtschaftlichen Aktivitäten und ihre hauswirtschaftliche Rolle auf). Aus E</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg> wird der Schlussabsatz, der Dr. Sancho betrifft, hinzufügt. Der Schluss lautet dementsprechend in E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>In einigen Tagen schon reiste das Paar – und wirklich nach Italien. Leontine aber hatte von diesem Augenblicke an den Mittelpunkt ihres Lebens in ihrem Gatten gefunden, den sie betrachtete, wie ein ihr bisher verschlossen gewesenes Buch, dessen seltsamer und edler Inhalt sie überraschte, hob und ihr die Möglichkeit eröffnete, Poesie und Leben zu verbinden. Sie mußte zugleich versprechen, nun auch ihre Geld-</tei:q>
+        <tei:seg>[63]</tei:seg>
+        <tei:q>beziehungen aufzugeben und die Leitung der Oekonomie unter die Obhut einer alten Wirthschafterin zu stellen, die sich bei seinen Aeltern bewährt hatte und die er aus seiner Heimat herüberkommen ließ. Feierlich überreichte sie dieser alle Schlüssel zu Küche, Keller, Vorrathskammer, ihrem Mann selbst aber zu ihrer Chatoulle und ihrem aus Actien und Obligationen, Losen und Promessen bestehenden Privatschatz. Das Mittel, um eine Frau vor Untreue zu bewahren, sie geizig zu machen, also einen Fehler durch den andern zu heilen, schien ihm nicht mehr nöthig. Er hoffte auf die Nachwirkung der Beschämung durch die gebratene industrielle Poesie – seiner Curstauben.</tei:q>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:q>Doctor Sancho erhielt bald darauf einen Brief von seinem Vater, worin ihn dieser zu einer Brautschau einlud. Das Verhältniß machte sich. Er heirathete die Tochter eines Pfandleihers, die nicht schön, aber wohlhabend und nicht ohne Bildung war.</tei:q>
+        <tei:seg> (E</tei:seg>
+        <tei:hi style="sup">2</tei:hi>
+        <tei:seg>, S. 62-63.)</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>

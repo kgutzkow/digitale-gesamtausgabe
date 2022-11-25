@@ -66,8 +66,24 @@ TAXONOMY = (('', 'gesamtausgabe', (
             ('Zweiter Band', 'zweiter-band', ()),
         )),
         ('4. Wally, die Zweiflerin', 'wally-die-zweiflerin', ()),
-        ('7. Kleine erzählerische Werke I', 'kleine-erzaehlerische-werke-i', (
+        ('7. Kleine erzählerische Werke. Band 1', 'kleine-erzaehlerische-werke-band-1', (
             ('Imagina Unruh', 'imagina-unruh', ()),
+        )),
+        ('9. Kleine erzählerische Werke. Band 2', 'kleine-erzaehlerische-werke-band-2', (
+            ('Ein Mädchen aus dem Volke. Bilder der Wirklichkeit', 'ein-maedchen-aus-dem-volke-bilder-der-wirklichkeit', ()),
+            ('Das Heimchen im Ohre', 'das-heimchen-im-ohre', ()),
+            ('Voltaires Nachtmütze', 'voltaires-nachtmuetze', ()),
+            ('Die Reichthümer der Phantasie', 'die-reichthuemer-der-phantasie', ()),
+            ('Der Fleckenreiniger', 'der-fleckenreiniger', ()),
+            ('Die Courstauben', 'die-courstauben', ()),
+            ('Der Weihnachtabend', 'der-weihnachtabend', ()),
+            ('König Franz in Fontainebleau. Novelle in altem Styl', 'koenig-franz-in-fontainebleau-novelle-in-altem-styl', ()),
+            ('Der Knopf im Klingelbeutel. Ein Gleichniß', 'der-knopf-im-klingelbeutel-ein-gleichniss', ()),
+            ('Die Nihilisten. Eine Erzählung', 'die-nihilisten-eine-erzaehlung', ()),
+            ('Der Pfeffer-Matthes. Eine Advent-Erzählung', 'der-pfeffer-matthes-eine-advent-erzaehlung', ()),
+            ('Wie kam es, daß Rousseau seine Kinder aussetzte? Beantwortet in einer novellistischen Skizze', 'wie-kam-es-dass-rousseau-seine-kinder-aussetzte-beantwortet-in-einer-novellistischen-skizze', ()),
+            ('Die Nemesis. Dorfgeschichtlich', 'die-nemesis-dorfgeschichtlich', ()),
+            ('Ein ländliches Fest', 'ein-laendliches-fest', ()),
         )),
         ('10. Die Diakonissin', 'die-diakonissin', ()),
         ('11. Der Zauberer von Rom', 'der-zauberer-von-rom', (

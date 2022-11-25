@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Das Heimchen im Ohre</tei:title>
+        <tei:author>Karl Gutzkow</tei:author>
+        <tei:respStmt xml:id="DirkGoettsche">
+          <tei:resp>Herausgeber</tei:resp>
+          <tei:name>Dirk Göttsche</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="JoannaNeilly">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Joanna Neilly</tei:name>
+        </tei:respStmt>
+        <tei:respStmt xml:id="WolfgangRasch">
+          <tei:resp>Mitarbeit</tei:resp>
+          <tei:name>Wolfgang Rasch</tei:name>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:distributor>Editionsprojekt Karl Gutzkow</tei:distributor>
+      </tei:publicationStmt>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:classDecl>
+        <tei:taxonomy xml:id="gutzkow-taxonomy">
+          <tei:bibl>Gutzkow Gesamtausgabe</tei:bibl>
+        </tei:taxonomy>
+      </tei:classDecl>
+    </tei:encodingDesc>
+    <tei:sourceDesc>
+      <tei:bibl>Das Heimchen im Ohre. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 57-68. (Rasch 2.33.1.2)</tei:bibl>
+    </tei:sourceDesc>
+    <tei:profileDesc>
+      <tei:creation>
+        <tei:date when="1856-04">April 1856</tei:date>
+      </tei:creation>
+      <tei:textClass>
+        <tei:catRef target="#gesamtausgabe #erzaehlerische-werke #kleine-erzaehlerische-werke-band-2 #das-heimchen-im-ohre"/>
+      </tei:textClass>
+    </tei:profileDesc>
+    <tei:revisionDesc>
+      <tei:change when="2022-09-29" who="#WolfgangRasch">1.0</tei:change>
+    </tei:revisionDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:pb n="57"/>
+        <tei:seg> Das Heimchen im Ohre.</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-right">
+        <tei:hi style="font-size-small">Bleib’ in Dir und fürchte nur </tei:hi>
+        <tei:hi style="letter-sparse">
+          <tei:hi style="font-size-small">Dic</tei:hi>
+        </tei:hi>
+        <tei:hi style="font-size-small">h!</tei:hi>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="59"/>
+        <tei:seg> Das bekannte Heimchen im Herzen, der ewigsingende Mahner des Gewissens, bringt mich auf eine Geschichte von einem Heimchen im Ohre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine Fahrt von Frankfurt am Main nach dem Bade Homburg war ehedem wegen ihrer Bereicherung in geographischen Kenntnissen berühmt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man kam, wie noch jetzt, von den Verlockungen des grünen Tisches leichter im Beutel zurück, aber reicher in Orientirung über unser liebes deutsches Vaterland.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>In den drei Stunden, die die damalige, noch nicht mit der Eisenbahn abgekürzte Fahrt nach Homburg von Frankfurt am Main in Anspruch nahm, konnte man ein halbes Dutzend Dörfer passiren und vor jedem derselben einen Pfahl mit eines andern Herrn Wappen und mit eines andern Landes Zeichen sehen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Erst kam die freie Reichsstadt Frankfurt, dann sah man ein paar blühende Morgen Großherzogthum Hessen, dann einige Baum-Aecker Nassau, dann einige Hütten Kurhessenland und zuletzt das Reich Homburg vor der Höhe mit seinen gehegten Rehen, seinen Ludwigs- und Elisabethenquellen und seinen hochherzigen, noch nicht ge-</tei:seg>
+        <tei:pb n="60"/>
+        <tei:seg>nug gewürdigten uneigennützigen edeln Croupiers, den Herren Gebrüder Blanc, den wahren Dynasten des Landes.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Sommer eine heitere Fahrt, wenn nicht im Juli die Witterung oft wandelbarer wäre als im April.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Eine Fahrt nach Homburg auf Sonnenschein bestellt und ausgeführt bei düstergrauem Himmel, der nur der Phantasie eines Wetterunkundigen für den Nachmittag die schönsten Aufklärungen versprechen konnte – das war das Werk einer Dame, die zu jenen weiblichen Charakteren gehörte, die selbst bei einer Landpartie mit Horaz sagen: Nichts kann sie irre machen und wenn Himmel und Erde einfielen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und der Himmel fiel in der That an jenem Julitage ein. Vom Taunus bis zum Melibocus hinüber hingen Wasserhosen, die um Mittag so zu sagen in allen Nähten platzten. Ein Regen ergoß sich, dessen Ströme alle Wochenblättchen der Umgegend auf vierzehn Tage mit Schauerlichkeiten befruchteten. Brücken, Dämme wurden niedergerissen, Ufer blieben Tage lang unsichtbar, Saaten und Früchte lagen niedergeworfen. Alle Schlagbäume der verschiedenen Länder, die die von der heroischen Dame aufgebotene Gesellschaft zu passiren hatte, drohten ihre Farben zu verlieren und jeder aus ihnen herausgelangte Chausseegeldbeutelstock war im Nu so wassergefüllt, daß das bezahlte Geld sich im Strudel umdrehte.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Der Leser denk vielleicht, ein geschlossener Wagen mit </tei:seg>
+        <tei:pb n="61"/>
+        <tei:seg> zugelegten Fenstern oder auch nur mit zugeknöpftem Seitenleder hätte den sechs Passagieren einen solchen Ueberblick über die Verheerungen eines Platzregens nicht gestatten können. Der Leser setzt vielleicht voraus, daß der Erzähler nur den berühmten Platzregen der Münchener Galerie von Bürkel vor Augen hat, dessen ländliche Sündfluthen, watenden Kühe, irrenden Schafe und die von den Dächern stürzenden Gießbäche er von Oel zur Tinte abschreibt? …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nicht im mindesten. Dies Wetter wurde unmittelbar empfunden, unmittelbar bis auf die Haut durchlebt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Dame, der die Rosse und der Wagen gehörten, war eine von den Heroinen der Abhärtung. Sie fand in dieser Sündflut nur eine sanfte Erquickung der Natur. Ihr heißes Blut kühlte sich ab, je mehr die Tropfen anspritzten, je mehr ihre Wangen glühten. Sie lüftete sich wie bei Hundstagshitze, athmete wie in Jasminlauben. Sie fand in den entfesselten Elementen die süßeste Befriedigung ihrer zu den unverstandenen Seelen gehörenden Natur.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich hätte immer diese Frau am liebsten auf einem Throne gesehen. Sie war reich, geschmackvoll, unternehmungskühn, Verächterin aller Rücksichten auf die gewöhnlichen Schwächen der Menschheit, mit fünfzig Jahren noch jung, eine geborene Semiramis, eine Katharina, die zwölf Städte hätte aus Nachmittagslaune niederreißen und hun-</tei:seg>
+        <tei:pb n="62"/>
+        <tei:seg>dert andre auf ein Freundeswort wieder aufbauen lassen können.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wenn eine solche königliche Amazone spricht: Zieht es Ihnen doch nicht, Doctor? Haben Sie doch nicht naß? wer könnte da als Mann seines Jahrhunderts, als souveräner Herr der Schöpfung, als Erstgeborener des Paradieses, von Rheumatismus und der Nothwendigkeit eines von allen Seiten entschieden zu schließenden Wagens sprechen?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Im Gegentheil! Welche angenehme Luft das! Welche erfrischende Kühle! Wie so etwas von grundaus wohlthut! Wie die Nerven sich stärken und abhärten!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Unvergeßliche Fahrt nach Homburg! Die rechte Schulter war zwar bis auf die Haut durchnäßt, aber man rief: In dem balsamischen Gewitterregen ginge Einem ja das ganze Herz auf!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Opfer einer solchen gesellschaftlichen Lüge – es gibt deren größere – war endlich froh, als der Wagen über den durchweichten Kieselsand von Homburg rollte und unter dem trockenen Vorbau des Curhauses anfuhr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sollte gerade ein Concert gegeben werden von fremden Musikern.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Schon erfuhr man, daß vor einem bei solchem Wetter vorauszusehenden kleinen Publicum die Musiker sich eilten, ihre Stücke abzuspielen; denn allzu lange feierte nicht gern </tei:seg>
+        <tei:pb n="63"/>
+        <tei:seg> Herrn Blanc’s verhängnißvolle Kugel im Roulett, das, so lange als Polyhymnia im Saale walten durfte, entfernt wurde. …</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wie wir in den Saal traten, braust eben vom Orchester herab eine rauschende Musik, wunderbar widerhallend, mächtig, von Cymbeln und von Flöten anschwellend zum Posaunenton.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Und von dieser </tei:seg>
+        <tei:hi style="letter-sparse">ersten Sinnenwirkung</tei:hi>
+        <tei:seg> auf einen durch und durch erkälteten Körper schreibt sich die Geschichte vom </tei:seg>
+        <tei:hi style="letter-sparse">Heimchen im Ohre</tei:hi>
+        <tei:seg> her.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wohl dir, lieber Leser, wenn du diesen Hausbewohner bei dir nicht zu bergen hast! Wohl dir, wenn du ihn nicht kennst und gar über ihn lachst, über diesen ungebetenen Gast, der sich’s in den innern Gängen deines Gehörs für immer bequem machen kann und aus dem Schallbecken, dem Steigbügel und dem Trommelfell nicht mehr auszutreiben ist!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>O dieser ewige Reiter mit den Schlägeln vor sich, dieser kleine Kesselpaukenschläger bei der Cavalerie der Gedanken!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser ewige, quälende Ton, der in allen Schlüsseln, aus Dur und Moll, in deinem Ohre spielen kann, bald in die hohe Octave springt wie eine Pickelflöte, bald in den tiefen Alt wie ein unheimlicher Unkenruf!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das erste Mittel ihn herauszulocken, ein rüttelnder </tei:seg>
+        <tei:pb n="64"/>
+        <tei:seg> Finger in der äußern Höhle, wurde vom Heimchen wie Kinderspott verlacht. So lockst du mich nicht mehr weg von meinem stillen Plätzchen! Der Unhold, der dort fast wie zum Scherze neckt und nur Versteckens zu spielen scheint, summt und summt und klingt und klingt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wart, du Eindringling, du sollst stärkere Proben kennen  lernen! Eine spanische Fliege wird dich fangen!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Fliege wird angelegt, zieht und zieht und spinnt und spinnt, das Heimchen läßt sich nicht fangen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Vampyre hinters Ohr, Schröpfköpfe!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>All’ nichts: Heimchen sitzt tief, tief in den Nerven und die Vampyre haben nur Kraft über Adern und Blut.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ein Dampfbad! Umstimmung des ganzen Körpers!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Hilft Alles nichts.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die homburger Fahrt, die Lüge männlicher Eitelkeit und die erste überraschende Erregung nach der Erkältung, die zufällig das </tei:seg>
+        <tei:hi style="letter-sparse">Gehör</tei:hi>
+        <tei:seg> getroffen, weicht vor keinen Wasserdämpfen und vor keiner Douche und unter keiner Brause mehr. Das Ohr summt und summt – und summt und summt in Ewigkeit.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es war dies Uebel erst wie eine kitzelnde Fliege auf der Nase, die man haschen will und die doch nicht aufhört, uns zu necken.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man fing mit ihr ein Jagen, ein Versteckspielen an.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Bist still! hieß es voll Zorn.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:pb n="65"/>
+        <tei:seg> Das Summen hörte nicht auf.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>O, man greift dich schon! Man rannte auf und ab, sang, griff in die Tasten eines Klaviers, trommelte mit Händen, mit Füßen – Gelt? Bist weg? Uebertäubt?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aber die Hände und Füße ermüden und der ewige Tonfluß rinnt doch und rinnt und rinnt und gießt und gießt, ein hörbarer allgemeiner Landregen, ein wie von einem künstlichen Wehr niedergleitender innerer – Seelenbach.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich will dich aber nicht hören, schnöder Ton!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Man nimmt Hut und Stock, rennt zum Thor hinaus ins Feld, man singt, man pfeift.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Aha! Das rechte Ohr hört schon sich selbst nicht mehr – bei einem Gruße nicht, bei einer zufälligen Ueberraschung nicht, einem neuen Gegenstande nicht – sonst – ach! Sowie man wieder allein ist mit der stillen, gewohnten Anschauung, summt es und gießt und gießt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>O so komm denn, Schlaf! Komm, du rettende Nacht! Holder süßer Schlaf! Das Heimchen geht doch wol mit zur Ruhe? Vielleicht? Gewiß? Es singe sein Wiegenlied eine Weile, hübsch andächtig, immerhin ämsig, aber – auf die Länge?</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Nein! Unerträglich! Das Ohr kann das keine Schlummertöne nennen – man springt auf, zündet Licht an, lacht, weint vor Zorn, man liest ein Buch, man sieht in die Nacht </tei:seg>
+        <tei:pb n="66"/>
+        <tei:seg> hinaus, aber das Heimchen liest immer mit, sieht immer mit zum Fenster hinaus, wo die stillen Brunnen gehen – erst als das Auge, zu ermüdet, zu erschöpft sich endlich schließt, erst da ist der Gast still, vergessen, wie der Schlummernde sich selbst vergißt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Das Heimchen im Ohre hat seitdem seit Jahren nun schon einen sichern stillen und festen Wächterposten in uns bezogen. Es steht Schildwache schon seit mancher Lebenskrisis am Ohre nicht nur, sondern – so möchte man den Trost für ein solches ewiges Ohrensausen gewinnen – dicht am Herzen, es läßt gute und böse Gedanken ein, ermuntert die einen, mahnt, straft, richtet die andern, und vor dem Heimchen muß sich Alles beugen, Alles rechtfertigen. Ist man einsam, so kann man schon sagen, man wäre nun doch allein. Man ist immer zu Dreien: Du, die Welt und der Dolmetscher zwischen uns Beiden, der Sänger im Ohre.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Seit man ihn ruhig als Kamerad bei sich duldet, hat er sich auch seine jeweiligen Flageolettöne, die über das eigentliche Thema hinausgingen, abgewöhnt; er bleibt nur bei der Dominante, dem einen Ton, der immer gleich, Tag und Nacht derselbe ist.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Dieser Ton ist nun schon wie eine einzige gerade Linie, auf der man sein Leben hinschreiben kann, wie ein untergelegtes Linienblatt des Friedens und der Ergebung. </tei:seg>
+        <tei:pb n="67"/>
+        <tei:seg> Man vergißt sich noch oft, noch oft geht’s hoch hinaus in der Seele über die Linie hinweg oder auch tief hinunter in die Nacht des Zweifels an sich selbst und der Welt, aber nach einigen kurzen Augenblicken der Besinnung sagt Heimchen im Ohre sogleich, wo die gerade Linie gezogen.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wollte man des Heimchens Gesang in Worte übertragen, so spräche es wol vom Morgen bis zum Abend:</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Ich singe dir die ewige rinnende Zeit! Ich singe dir, was weit, weither von einem hohen wolkenumschleierten Berge kommt, und was dahinfließt weit, weit wieder abwärts zu einem tiefen Meere der Zukunft hin. Weit? Es ist vielleicht nicht so weit, es kann unabsehbar fern, es kann auch ganz nahe sein; aber tief ist’s gewiß und auch zu einem Ziele geht’s, wo plötzlich Alles schweigt, dein Denken, dein Fühlen, dein Thun und dann auch mein Mahnen und mein Singen! Wirf nun auch in den Strom deines Lebens hinein, was du noch willst; das Bett ist gemacht. Der eine Ton – die Linie – die Zeit – das Maß! Was auch dahineinfällt, es muß nun schon mit – muß mit hinunter den Strom – vorwärts, vorwärts zu dem letzten Ziele! Erwachst du, so bin ich dein erster Gruß, entschläfst du, bin ich dein letzter und selbst im Traume wecke ich dir Bilder des Stromes, Bilder vom Meere, Bilder von einem sanft hinuntergleitenden Nachen, der dein Leben trägt und dein beruhigtes Herz! Wohl dir, wenn du dich </tei:seg>
+        <tei:hi style="letter-sparse">selber</tei:hi>
+        <tei:seg> hören kannst! Bleibe dir’s </tei:seg>
+        <tei:pb n="68"/>
+        <tei:seg> </tei:seg>
+        <tei:hi style="letter-sparse">wohnlich</tei:hi>
+        <tei:seg> in dir! Lerne </tei:seg>
+        <tei:hi style="letter-sparse">dich</tei:hi>
+        <tei:seg> bei </tei:seg>
+        <tei:hi style="letter-sparse">dir selbst</tei:hi>
+        <tei:seg> beherbergen und fürchte nicht Menschen, fürchte nicht Dinge – fürchte nur </tei:seg>
+        <tei:hi style="letter-sparse">dic</tei:hi>
+        <tei:seg>h!</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.2" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Darauf hin leiden wir nun schon seit Jahr und Tag ergeben am – sausenden Ohr.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left"/>
+    </tei:body>
+    <tei:interpGrp type="global">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-1">
+        <tei:seg>Bearbeitung: Dirk Göttsche, Nottingham unter Mitarbeit von Joanna Neilly, Oxford; Apparat: Wolfgang Rasch, Berlin</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-2">
+        <tei:seg>1. Textüberlieferung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>1.1. Handschriften</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1.1.1. Übersicht</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Es sind keine handschriftlichen Überlieferungsträger bekannt.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>1.2. Drucke</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Prosaskizze erschien 1852 in der ersten Nummer des frisch gegründeten Familienblattes „Unterhaltungen am häuslichen Herd“. Schon einige Tage darauf wurde sie vom „Frankfurter Konversationsblatt“ mit einer Auslassung nachgedruckt. Dieser von Gutzkow vermutlich nicht autorisierte Nachdruck ist für die Textgeschichte belanglos. Vier Jahre später nahm er die Arbeit nahezu unverändert in den ersten Band der </tei:seg>
+        <tei:q>Kleinen Narrenwelt</tei:q>
+        <tei:seg> auf. Geändert wurde nur die Absatzgestaltung: Aus den zehn Absätzen des Journaldrucks machte Gutzkow für die Buchausgabe 48 Absätze. Geändert wurde 1856 auch geringfügig der Schluss: Während die Journalfassung mit </tei:seg>
+        <tei:q>fürchte nur </tei:q>
+        <tei:hi style="letter-sparse">
+          <tei:q>Dich</tei:q>
+        </tei:hi>
+        <tei:q>!</tei:q>
+        <tei:seg> (J</tei:seg>
+        <tei:hi style="sup">1</tei:hi>
+        <tei:seg>, S. 14) endet, fügte Gutzkow für die Buchausgabe noch einen letzten Absatz  hinzu (vgl. 121,3-4 unserer Ausgabe).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Seiten-/Zeilenangaben im Apparat beziehen sich auf die Druckausgabe des Beitrags im Band: Kleine erzählerische Schriften. Band 2. Hg. von Dirk Göttsche unter Mitarbeit von Joanna Neilly. Münster: Oktober Verlag, 2021. (= Gutzkows Werke und Briefe. Abt. I: Erzählerische Werke, Bd. 9.)</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
+        <tei:ref target="https://gutzkow.de/pages/karl-gutzkow/nachtraege-bibliographie.html" type="external">Nachträge zur Bibliographie</tei:ref>
+        <tei:seg>.</tei:seg>
+      </tei:p>
+      <tei:list type="sources">
+        <tei:item data-source-id="J1">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">1</tei:hi>
+          <tei:seg> [Anon.:] Das Heimchen im Ohre. In: Unterhaltungen am häuslichen Herd. Leipzig. Bd. 1, Nr. 1, [15. September] 1852, S. 11-14. (Rasch 3.52.09.15.3)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="J2">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">2</tei:hi>
+          <tei:seg> [Anon.:] Das Heimchen im Ohre. Aus den Unterhaltungen am häuslichen Herd. In: Frankfurter Konversationsblatt. Frankfurt/M. Nr. 232, 28. September 1852, S. 926-927. (vgl. Rasch 3.52.09.15.3, nicht einzeln verzeichnet)</tei:seg>
+        </tei:item>
+        <tei:item data-source-id="E">
+          <tei:seg>E Das Heimchen im Ohre. In: Karl Gutzkow: Die kleine Narrenwelt. Erster Theil. Frankfurt/M.: Literarische Anstalt, 1856. S. 57-68. (Rasch 2.33.1.2)</tei:seg>
+        </tei:item>
+      </tei:list>
+      <tei:head data-heading-id="E" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
+        <tei:seg>2. Textdarbietung</tei:seg>
+      </tei:head>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+        <tei:seg>2.1. Edierter Text</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>E. Der Text folgt in Orthographie und Interpunktion unverändert dem Erstdruck. Textsperrungen werden übernommen. Silbentrennstriche (=) werden durch - wiedergegeben. Die Seitenzählung wird mit Klammern [  ] an den betreffenden Stellen in den Text eingefügt.</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Die Liste der Texteingriffe nennt die von den Herausgebern berichtigten Druckfehler sowie die Emendationen. Fehlende oder überzählige Spatien im Erstdruck wurden stillschweigend korrigiert.</tei:seg>
+      </tei:p>
+      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-3">
+        <tei:seg>Kommentar</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Weitere Apparat- bzw. Kommentarteile werden hier zu einem späteren Zeitpunkt veröffentlicht.</tei:seg>
+      </tei:p>
+    </tei:interpGrp>
+  </tei:text>
+</tei:TEI>
