@@ -46,7 +46,14 @@
                     "titleAttr": "headingId",
                     "levelAttr": "type"
                 }
-			]
+			],
+            "footnotes": [
+                {
+                    "name": "footnoteMarker",
+                    "targetName": "footnote",
+                    "attr": "nestedtarget"
+                }
+            ]
         },
 		{
 			"name": "stellenerlaeuterungen",
