@@ -11,7 +11,10 @@ Aktuelles
 **November 2022**
 +++++++++++++++++
 
-* | **Neu in der Ausgabe**: Mit Gutzkows *Papilloten* aus dem Jahr 1833 startet die V. Abteilung der Edition, die im 2. Teil dieser Werkgruppe neben *Denksprüchen* auch *Aphorismen, Einfälle, Denkblätter* sammelt.
+
+* | **Neu in der Ausgabe:** In der Abteilung I ist nun auch Band 9 *Kleine erzählerische Werke. Band 2* online verfügbar. Der Band erschien 2021 im Oktober Verlag und wurde von Dirk Göttsche unter Mitarbeit von Joanna Neilly herausgegeben. Die Apparate der Online-Ausgabe hat Wolfgang Rasch bearbeitet. Neben längeren Erzählwerken wie *Ein Mädchen aus dem Volke*, *Die Courstauben*, *Die Nihilisten* enthält der Band eine Vielzahl ›Kleiner Prosa‹, die zwischen 1852 und 1862 entstanden ist.
+
+* | **Neu in der Ausgabe:** Mit Gutzkows *Papilloten* aus dem Jahr 1833 startet die V. Abteilung der Edition, die im 2. Teil dieser Werkgruppe neben *Denksprüchen* auch *Aphorismen, Einfälle, Denkblätter* sammelt.
 
 **Oktober 2022**
 ++++++++++++++++
