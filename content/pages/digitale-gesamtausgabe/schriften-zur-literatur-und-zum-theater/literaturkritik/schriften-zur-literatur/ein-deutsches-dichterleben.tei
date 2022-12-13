@@ -35,7 +35,7 @@
     <tei:revisionDesc>
       <tei:change when="2008-10" who="#WolfgangRasch">1.0</tei:change>
       <tei:change when="2020-02-14" who="#WolfgangRasch">1.1</tei:change>
-      <tei:change when="2022-12-05" who="#WolfgangRasch">1.2</tei:change>
+      <tei:change when="2022-12-05" who="#WolfgangRasch">1.2: Ergänzung Apparat</tei:change>
     </tei:revisionDesc>
   </tei:teiHeader>
   <tei:text>
@@ -127,11 +127,11 @@
         <tei:seg> im Band 9 der Werkedition.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
-        <tei:seg>Ein 2022 entdeckter Nachdruck in einer österreichischen Zeitschrift (J</tei:seg>
+        <tei:seg>	Zwei erst 2022 entdeckte Nachdrucke in österreichischen Periodika (J</tei:seg>
         <tei:hi style="sup">2</tei:hi>
-        <tei:seg>) ist von Gutzkow mit Sicherheit nicht autorisiert worden und daher für die Textgeschichte irrelevant. Diese Veröffentlichung hat der Redakteur der „Carinthia“ Vinzenz Rizzi (1816-1856) mit einer längeren Fußnote begleitet, in der er die Wiedergabe von Gutzkows Beitrag über den deutschkatholischen Eduard Duller gegenüber seinen katholischen Lesern rechtfertigt: „Wir theilen diese ergreifende von Gutzkow’s Meisterhand gezeichnete Skizze aus seinen ‚Unterhaltungen am häuslichen Herde‘ unsern Lesern in der festen Ueberzeugung mit, daß dieselben den richtigen Standpunct der Beurtheilung auch ohne unsere Andeutung einnehmen werden. Die schärfste Bekämpfung des Irrthums soll nie unsere reinmenschliche Theilnahme an dem Irrenden schwächen. Der arme </tei:seg>
-        <tei:hi style="letter-sparse">Dulle</tei:hi>
-        <tei:seg>r, der nach einem vielfach bewegten Leben in dem inhaltlosen Deutschkatholicismus Beruhigung suchte, ist ein tieftrauriges Bild unserer Zeit. Duller’s mit etwas weniger Talent und weniger Entschiedenheit, gibt es aller Orten.“</tei:seg>
+        <tei:seg>, J</tei:seg>
+        <tei:hi style="sup">3</tei:hi>
+        <tei:seg>) sind von Gutzkow mit Sicherheit nicht autorisiert worden und daher für die Textgeschichte irrelevant.</tei:seg>
       </tei:p>
       <tei:p first-line-indent="0.5" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>Die Sigle ›Rasch‹ im Apparat verweist auf Wolfgang Rasch: Bibliographie Karl Gutzkow. (1829-1880.) 2 Bde. Bielefeld: Aisthesis Verl., 1998. Eine bibliographische Kennziffer mit dem Zusatz N am Ende bezieht sich auf die → </tei:seg>
@@ -147,10 +147,12 @@
         <tei:item data-source-id="J2">
           <tei:seg>J</tei:seg>
           <tei:hi style="sup">2</tei:hi>
-          <tei:seg>  (Gutzkow:) Ein deutsches Dichterleben. In: Carinthia. Klagenfurt. </tei:seg>
+          <tei:seg>  Gutzkow: Ein deutsches Dichterleben. In: Ost-Deutsche Post. Wien. Nr. 203, 31. August 1853, [S. 3]. (Rasch 3.53.08.31N)</tei:seg>
         </tei:item>
-        <tei:item data-source-id="J2">
-          <tei:seg>Nr. 71, 3. September 1853, S. 281-283. (Rasch 3.53.09.03N)</tei:seg>
+        <tei:item data-source-id="J3">
+          <tei:seg>J</tei:seg>
+          <tei:hi style="sup">3</tei:hi>
+          <tei:seg>  Gutzkow: Ein deutsches Dichterleben. In: Carinthia. Klagenfurt. Nr. 71, 3. September 1853, S. 281-283. (Rasch 3.53.09.03N)</tei:seg>
         </tei:item>
         <tei:item data-source-id="E">
           <tei:seg>E  Ein deutsches Dichterleben. In: Karl Gutzkow: Die kleine Narrenwelt. Bd. 3. Frankfurt/M.: Literarische Anstalt, 1857, S. 75-86. (Rasch 2.33.3.2) </tei:seg>
@@ -188,11 +190,22 @@
       <tei:head data-heading-id="5. Rezeption" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0.1" type="level-2">
         <tei:seg>5. Rezeption</tei:seg>
       </tei:head>
-      <tei:head first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-3">
+      <tei:head first-line-indent="0" margin-bottom="0.1" margin-left="0" margin-right="0" margin-top="0" type="level-3">
         <tei:seg>5.1. Dokumente zur Rezeptionsgeschichte</tei:seg>
       </tei:head>
+      <tei:head data-heading-id="Vincenz Rizzi, 3. September 1853" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
+        <tei:seg>1. Vincenz Rizzi, 3. September 1853</tei:seg>
+      </tei:head>
+      <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Anm. d. Red. [d.i. Vincenz Rizzi], Fußnote zum Titel „Ein deutsches Dichterleben“. In: Carinthia. Klagenfurt. Nr. 71, 3. September 1853, S. 231. (Rasch 3.53.09.03.3N).</tei:seg>
+      </tei:p>
+      <tei:p first-line-indent="0" margin-bottom="0.1" margin-left="0.5" margin-right="0" margin-top="0" style="text-left">
+        <tei:seg>Wir theilen diese ergreifende von Gutzkow’s Meisterhand gezeichnete Skizze aus seinen „Unterhaltungen am häuslichen Herde“ unsern Lesern in der festen Ueberzeugung mit, daß dieselben den richtigen Standpunct der Beurtheilung auch ohne unsere Andeutung einnehmen werden. Die schärfste Bekämpfung des Irrthums soll nie unsere reinmenschliche Theilnahme an dem Irrenden schwächen. Der arme </tei:seg>
+        <tei:hi style="letter-sparse">Dulle</tei:hi>
+        <tei:seg>r, der nach einem vielfach bewegten Leben in dem inhaltlosen Deutschkatholicismus Beruhigung suchte, ist ein tieftrauriges Bild unserer Zeit. Duller’s mit etwas weniger Talent und weniger Entschiedenheit, gibt es aller Orten.</tei:seg>
+      </tei:p>
       <tei:head data-heading-id="Ferdinand Gustav Kühne, 8. September 1853" first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" type="level-4">
-        <tei:seg>1. Ferdinand Gustav Kühne, 8. September 1853</tei:seg>
+        <tei:seg>2. Ferdinand Gustav Kühne, 8. September 1853</tei:seg>
       </tei:head>
       <tei:p first-line-indent="0" margin-bottom="0" margin-left="0" margin-right="0" margin-top="0" style="text-left">
         <tei:seg>[Ferdinand Gustav Kühne:] Das Proletariat in der Literatur. In: Europa. Leipzig. No. 74, 8. September 1853, S. 592. (Rasch 9/4.53.09.08)</tei:seg>
