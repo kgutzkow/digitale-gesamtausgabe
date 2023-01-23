@@ -4,13 +4,24 @@ Aktuelles
 :slug: aktuelles
 :order: 5
 
+**2023**
+--------
+
+**Januar 2023**
++++++++++++++++
+
+* | **Neu in der Ausgabe:** Unter der Seite *Über den Autor* ist jetzt die vierte vermehrte Fassung der Nachträge zur *Bibliographie Karl Gutzkow. 1829-1880* veröffentlicht worden. Das vor fünfundzwanzig Jahren erstmals publizierte zweibändige Grundwerk von Wolfgang Rasch konnte mittlerweile um etwa 1.200 Neuaufnahmen ergänzt werden. Dank der fortschreitenden Digitalisierung von Zeitschriften und Zeitungen des 19. Jahrhunderts ist mit weiteren Funden zu rechnen. Die Bibliographie wird fortgesetzt.
+
+* | **Neu in der Ausgabe:** Die Übersichtskommentare zum Roman *Maha Guru* mitsamt der Dokumente zur Entstehungs- und Rezeptionsgeschichte sowie dem ausführlichen Globalkommentar sind zum Jahresbeginn vervollständigt worden und nunmehr komplett in der digitalen Ausgabe zu finden.
+
+* | **Allgemeines:** Gutzkows autobiographisch-literaturkritischer Essay *Vergangenheit und Gegenwart* aus dem Jahr 1839 ist von Lucien Calvié ins Französische übertragen worden und zum Jahresbeginn unter dem Titel *Passé et Présent. 1830-1838. Traduction et édition critique* in Paris erschienen. (Paris: Classiques Garnier, 2023. 157 Seiten, Serie: *Littératures du monde*. 48.)
+
 
 **2022**
 --------
 
 **November 2022**
 +++++++++++++++++
-
 
 * | **Neu in der Ausgabe:** In der Abteilung I ist nun auch Band 9 *Kleine erzählerische Werke. Band 2* online verfügbar. Der Band erschien 2021 im Oktober Verlag und wurde von Dirk Göttsche unter Mitarbeit von Joanna Neilly herausgegeben. Die Apparate der Online-Ausgabe hat Wolfgang Rasch bearbeitet. Neben längeren Erzählwerken wie *Ein Mädchen aus dem Volke*, *Die Courstauben*, *Die Nihilisten* enthält der Band eine Vielzahl ›Kleiner Prosa‹, die zwischen 1852 und 1862 entstanden ist.
 
@@ -60,7 +71,7 @@ Neuerscheinung im Sommer: Kleine erzählerische Werke. Band 2
 Festschrift für Thomas Bremer
 +++++++++++++++++++++++++++++
 
-* | Aus Anlass der Emeretierung von Prof. Dr. Thomas Bremer, Gründungsmitglied des Editionsprojekts Karl Gutzkow und langjähriger Organisatior der Jahrestreffen in der Leucorea der Martin-Luther-Universität Halle-Wittenberg in Wittenberg, erscheint eine opulente Festschrift *Nonkonformismus und Subversion* (Wettin-Löbejün: Verlag Janos Stekovics), hrsg. von Martina Bender, Susanne Schütz und Peter Grüttner.
+* | Aus Anlass der Emeretierung von Prof. Dr. Thomas Bremer, Gründungsmitglied des Editionsprojekts Karl Gutzkow und langjähriger Organisator der Jahrestreffen in der Leucorea der Martin-Luther-Universität Halle-Wittenberg in Wittenberg, erscheint eine opulente Festschrift *Nonkonformismus und Subversion* (Wettin-Löbejün: Verlag Janos Stekovics), hrsg. von Martina Bender, Susanne Schütz und Peter Grüttner.
   | Der Band enthält auch drei Beiträge zu Gutzkow (Martina Lauster: *Am Abgrund des Wahns: Gutzkow in Weimar*. - Wolfgang Rasch: *Epigonenhochmut, oder: Wie Karl Gutzkow am Weimarer Goethe-Schiller-Denkmal wütete. Zur Genesis einer Anekdote*. - Gert Vonhoff: *"Zwei Initaitiven" - Gutzkows Beziehung zu David Friedrich Strauß*.
 
 Jahrestreffen des Editionsprojekts im April 2021 fällt aus
