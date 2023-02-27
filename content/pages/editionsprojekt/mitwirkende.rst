@@ -15,7 +15,7 @@ Aktuell Mitwirkende
 * Toni Helmle, M.A. (Mainz)
 * Dr. Kurt Jauslin (Altdorf)
 * Richard J. Kavanagh, M.A. (Cork, Irland)
-* Stephan Landshuter, M.A. (Zürich, München)
+* Dr. Stephan Landshuter (Zürich, München)
 * Prof. Dr. Martina Lauster (Exeter, GB)
 * Prof. Dr. Wolfgang Lukas (Wuppertal)
 * Dr. Diana Matut (Halle)
