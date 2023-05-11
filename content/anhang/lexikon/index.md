@@ -1,4 +1,1 @@
 # Lexikon
-
-:::{tableofcontents}
-:::
