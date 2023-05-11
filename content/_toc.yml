@@ -1,0 +1,148 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Editionsprojekt
+    chapters:
+      - file: editionsprojekt/vorstellung
+      - file: editionsprojekt/editionsprinzipien
+      - file: editionsprojekt/mitwirkende
+      - file: editionsprojekt/textbaende
+      - file: editionsprojekt/rezensionen
+      - file: editionsprojekt/kontakt
+  - caption: Über den Autor
+    chapters:
+      - title: Lebenschronik
+        file: karl-gutzkow/lebenschronik
+      - file: karl-gutzkow/stimmen
+      - title: Werke und Ausgaben
+        file: karl-gutzkow/bibliographie
+      - title: Nachträge zur Bibliographie
+        file: karl-gutzkow/nachtraege-bibliographie
+  - caption: Anhang zur Ausgabe
+    chapters:
+      - file: anhang/bilder-materialien/index
+        sections:
+          - file: anhang/bilder-materialien/portraets-von-gutzkow/index
+            sections:
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1848
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi411
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi441
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi442
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1845
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi461
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1842
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi444f
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi48_2
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi501
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBiRvG
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1854
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBiBue
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi445n
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi571
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1860
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi601
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1862
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi621
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi641
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi642
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1870
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1871
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1873
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi741
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi453
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1876
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi771
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi448n
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi448f
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1878
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi450f
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBu1887
+              - file: anhang/bilder-materialien/portraets-von-gutzkow/GuBi1858
+          - file: anhang/bilder-materialien/karikaturen/index
+            sections:
+              - file: anhang/bilder-materialien/karikaturen/Leser36
+              - file: anhang/bilder-materialien/karikaturen/FLouisPh2
+              - file: anhang/bilder-materialien/karikaturen/FKoeBoe
+              - file: anhang/bilder-materialien/karikaturen/Tutu1
+              - file: anhang/bilder-materialien/karikaturen/FZensurHH
+              - file: anhang/bilder-materialien/karikaturen/FPiepmey
+              - file: anhang/bilder-materialien/karikaturen/Kladder1
+              - file: anhang/bilder-materialien/karikaturen/Presse1
+              - file: anhang/bilder-materialien/karikaturen/Demokr1
+              - file: anhang/bilder-materialien/karikaturen/ZeiMa
+              - file: anhang/bilder-materialien/karikaturen/FrWi4K
+              - file: anhang/bilder-materialien/karikaturen/Mause1
+              - file: anhang/bilder-materialien/karikaturen/49BadR
+              - file: anhang/bilder-materialien/karikaturen/Mueller-Schultze
+              - file: anhang/bilder-materialien/karikaturen/Nante
+              - file: anhang/bilder-materialien/karikaturen/OppSch
+              - file: anhang/bilder-materialien/karikaturen/RussHi
+              - file: anhang/bilder-materialien/karikaturen/Treub
+              - file: anhang/bilder-materialien/karikaturen/DemuBa
+              - file: anhang/bilder-materialien/karikaturen/MiBart
+              - file: anhang/bilder-materialien/karikaturen/GuBi501
+              - file: anhang/bilder-materialien/karikaturen/ZeiSch1
+              - file: anhang/bilder-materialien/karikaturen/ZeiSch2
+              - file: anhang/bilder-materialien/karikaturen/ZeiSch3
+              - file: anhang/bilder-materialien/karikaturen/Ges66
+              - file: anhang/bilder-materialien/karikaturen/Louhab
+              - file: anhang/bilder-materialien/karikaturen/LouHoe
+              - file: anhang/bilder-materialien/karikaturen/LouVer
+              - file: anhang/bilder-materialien/karikaturen/LouZuk
+              - file: anhang/bilder-materialien/karikaturen/Nap3
+          - file: anhang/bilder-materialien/handschriften-und-drucke/index
+            sections:
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBuLegr
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FForumJou
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FLivre1
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FLitbl
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FElegant1
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FNBEleg
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FMoblaSte
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FPhoenix
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FErklMenz
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FGuBr35
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBundesta
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBoers371
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FFranTel1
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FTeleD401
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBorneTi
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBorneFa
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FTeleD432
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FUrbTar
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FNovzei45
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FB460611
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FUra47
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FIma47
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FArbpres1
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FB490321
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRheinZei
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FKoenleu
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRvG
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRvGEu
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FUntEin
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBrocFa1g
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBrocFa
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FIllu1864
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FKasta263
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FBazar69
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FDeuRom
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FWaerwo
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRueGSA1
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRueGSA2
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FRbNatZei
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FZauvRom
+              - file: anhang/bilder-materialien/handschriften-und-drucke/Fb790206
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FHoub1a
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FZvR1922
+              - file: anhang/bilder-materialien/handschriften-und-drucke/FDeut
+          - file: anhang/bilder-materialien/physiologien
+      - file: anhang/lexikon/index
+        sections:
+          - file: anhang/lexikon/auerba
+      - title: Siglen
+        file: anhang/siglen
+      - file: anhang/abkuerzungen

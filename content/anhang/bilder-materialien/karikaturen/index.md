@@ -1,0 +1,4 @@
+# Karikaturen
+
+:::{tableofcontents}
+:::
