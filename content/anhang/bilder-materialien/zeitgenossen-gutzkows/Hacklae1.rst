@@ -1,7 +1,7 @@
 Friedrich Wilhelm Hackländer
 ============================
 
-.. image:: FHacklae1-small.jpg
+.. image:: Hacklae1-small.jpg
    :alt:
 
 Friedrich Wilhelm Hackländer, 1816-1877
