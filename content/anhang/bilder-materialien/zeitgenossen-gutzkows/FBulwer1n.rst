@@ -1,9 +1,8 @@
 Edward Lytton Bulwer
 ====================
 
-:slug: FBulwer1n
-:order: 14
-:template: slideshow
+.. image:: FBulwer1n-small.jpg
+   :alt:
 
 Edward Lytton Bulwer. Bulwer, Frontispiz aus "England und die Engländer".
 

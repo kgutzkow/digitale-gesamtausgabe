@@ -1,9 +1,8 @@
 Stadtplan: Hallesches Tor bis Kreuzberg
 =======================================
 
-:slug: FHTzuTIV
-:order: 3
-:template: slideshow
+.. image:: FHTzuTIV-small.jpg
+   :alt:
 
 Stadtplan: Hallesches Tor bis Kreuzberg
 

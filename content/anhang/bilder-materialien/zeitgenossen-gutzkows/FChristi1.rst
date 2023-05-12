@@ -1,12 +1,11 @@
 Rudolf Christiani
 =================
 
-:slug: FChristi1
-:order: 18
-:template: slideshow
+.. image:: FChristi1-small.jpg
+   :alt:
 
 Rudolf Christiani, 1797-1858.
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographie um 1835. Einzelblatt, Privatbesitz)

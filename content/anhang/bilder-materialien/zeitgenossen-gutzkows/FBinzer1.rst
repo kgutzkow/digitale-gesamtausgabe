@@ -1,12 +1,11 @@
 August Daniel Freiherr von Binzer
 =================================
 
-:slug: FBinzer1
-:order: 5
-:template: slideshow
+.. image:: FBinzer1-small.jpg
+   :alt:
 
 August Daniel Freiherr von Binzer, 1793-1868
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1868, S. 389.)

@@ -1,12 +1,11 @@
 Wilkie Collins
 ==============
 
-:slug: FCollin1
-:order: 19
-:template: slideshow
+.. image:: FCollin1-small.jpg
+   :alt:
 
 Wilkie Collins, 1824-1889
 
-.. class:: source
+.. rst-class:: source
 
   (Die Illustrirte Welt. Stuttgart. Nr. 40, 1870, S. 505.)

@@ -1,12 +1,11 @@
 Wilhelm Zimmermann
 ==================
 
-:slug: FZimm1
-:order: 135
-:template: slideshow
+.. image:: FZimm1-small.jpg
+   :alt:
 
 Wilhelm Zimmermann, 1807-1878
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1869, S. 293.)

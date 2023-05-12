@@ -1,12 +1,11 @@
 Die Schlossbrücke in Berlin um 1860
 ===================================
 
-:slug: Schlossbruecke
-:order: 26
-:template: slideshow
+.. image:: Schlossbruecke-small.jpg
+   :alt:
 
 Die Schlossbrücke in Berlin um 1860
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich des Bibliographischen Instituts um 1860, Einzelblatt.)

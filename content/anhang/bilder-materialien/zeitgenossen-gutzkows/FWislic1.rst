@@ -1,14 +1,13 @@
 Gustav Adolf Wislicenus
 =======================
 
-:slug: FWislic1
-:order: 134
-:template: slideshow
+.. image:: FWislic1-small.jpg
+   :alt:
 
 Gustav Adolph Wislicenus, 1803-1875
 
 freisinniger protest. Theologe
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1864, S. 469.)

@@ -1,13 +1,12 @@
 Roderich Benedix
 ================
 
-:slug: FBened1
-:order: 4
-:template: slideshow
+.. image:: FBened1-small.jpg
+   :alt:
 
 Roderich Benedix, 1811-1873
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1871, S. 5.)
 

@@ -1,12 +1,11 @@
 Franz Wallner
 =============
 
-:slug: FWalln1
-:order: 130
-:template: slideshow
+.. image:: FWalln1-small.jpg
+   :alt:
 
 Franz Wallner (d.i. Fr. Leidesdorf), 1810-1876
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1876, S. 565.)

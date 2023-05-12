@@ -1,8 +1,7 @@
 Borsigs Eisengießerei und Maschinenbauanstalt
 =============================================
 
-:slug: FBorsig2
-:order: 7
-:template: slideshow
+.. image:: FBorsig2-small.jpg
+   :alt:
 
 Borsigs Eisengießerei und Maschinenbauanstalt, Holzstich 1848.

@@ -1,12 +1,11 @@
 Eugène Sue
 ==========
 
-:slug: FSue1
-:order: 121
-:template: slideshow
+.. image:: FSue1-small.jpg
+   :alt:
 
 Eugène Sue, 1804-1857
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich um 1850, Privatbesitz.)

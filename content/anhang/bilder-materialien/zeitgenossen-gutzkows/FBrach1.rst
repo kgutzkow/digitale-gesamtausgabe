@@ -1,13 +1,12 @@
 Albert Emil Brachvogel
 ======================
 
-:slug: FBrach1
-:order: 10
-:template: slideshow
+.. image:: FBrach1-small.jpg
+   :alt:
 
 Albert Emil Brachvogel, 1824-1878
 
-.. class:: source
+.. rst-class:: source
 
   (Photographie um 1865, Privatbesitz.)
 

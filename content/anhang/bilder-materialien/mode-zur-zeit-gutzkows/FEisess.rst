@@ -1,8 +1,7 @@
 Fashionable Eisesser
 ====================
 
-:slug: FEisess
-:order: 4
-:template: slideshow
+.. image:: FEisess-small.jpg
+   :alt:
 
 Fashionable Eisesser. Auf der Terrasse vor der Kranzlerschen Konditorei.

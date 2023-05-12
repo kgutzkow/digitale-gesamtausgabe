@@ -1,13 +1,12 @@
 Julius Eduard Hitzig
 ====================
 
-:slug: FHitzi1
-:order: 52
-:template: slideshow
+.. image:: FHitzi1-small.jpg
+   :alt:
 
 Julius Eduard Hitzig, 1780-1849
 
-.. class:: source
+.. rst-class:: source
 
   (Europa. Chronik der gebildeten Welt. Karlsruhe und Baden 1843, Band 2.)
 

@@ -1,0 +1,4 @@
+# Zeitgenossen Gutzkows
+
+:::{tableofcontents}
+:::

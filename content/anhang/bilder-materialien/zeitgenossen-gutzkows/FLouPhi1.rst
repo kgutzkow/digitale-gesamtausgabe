@@ -1,13 +1,12 @@
 Louis Philippe
 ==============
 
-:slug: FLouPhi1
-:order: 79
-:template: slideshow
+.. image:: FLouPhi1-small.jpg
+   :alt:
 
 Louis Philippe, duc dOrléans, 1773-1850.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich des Verlags Fisher, Son & Co., London & Paris, um 1840. Einzelblatt, Privatbesitz)
 

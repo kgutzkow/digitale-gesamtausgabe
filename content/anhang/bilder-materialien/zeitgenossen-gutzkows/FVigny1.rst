@@ -1,12 +1,11 @@
 Alfred-Victor de Vigny
 ======================
 
-:slug: FVigny1
-:order: 129
-:template: slideshow
+.. image:: FVigny1-small.jpg
+   :alt:
 
 Alfred-Victor de Vigny,comte de, 1797-1863.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich von Richter um 1840. Einzelblatt, Privatbesitz)

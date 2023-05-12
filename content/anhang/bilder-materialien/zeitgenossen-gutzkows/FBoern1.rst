@@ -1,12 +1,11 @@
 Ludwig Börne
 ============
 
-:slug: FBoern1
-:order: 9
-:template: slideshow
+.. image:: FBoern1-small.jpg
+   :alt:
 
 Ludwig Börne, 1786-1837
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich, Privatbesitz.)

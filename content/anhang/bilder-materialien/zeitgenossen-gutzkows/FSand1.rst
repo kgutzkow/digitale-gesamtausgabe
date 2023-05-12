@@ -1,12 +1,11 @@
 George Sand
 ===========
 
-:slug: FSand1
-:order: 102
-:template: slideshow
+.. image:: FSand1-small.jpg
+   :alt:
 
 George Sand, 1804-1876
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1864, S. 301.)

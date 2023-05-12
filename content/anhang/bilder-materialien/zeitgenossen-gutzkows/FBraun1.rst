@@ -1,12 +1,11 @@
 Karl Baun-Wiesbaden
 ===================
 
-:slug: FBraun1
-:order: 11
-:template: slideshow
+.. image:: FBraun1-small.jpg
+   :alt:
 
 Karl Braun-Wiesbaden
 
-.. class:: source
+.. rst-class:: source
 
   (Originalphotographie um 1878, Privatbesitz.)

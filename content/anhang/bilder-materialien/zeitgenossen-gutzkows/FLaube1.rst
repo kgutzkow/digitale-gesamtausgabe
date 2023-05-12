@@ -1,9 +1,8 @@
 Heinrich Laube
 ==============
 
-:slug: FLaube1
-:order: 71
-:template: slideshow
+.. image:: FLaube1-small.jpg
+   :alt:
 
 Heinrich Laube, 1798-1873
 

@@ -1,13 +1,12 @@
 Bogumil Dawison
 ===============
 
-:slug: FDawis1
-:order: 21
-:template: slideshow
+.. image:: FDawis1-small.jpg
+   :alt:
 
 Bogumil Dawison, 1818-1872
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1864, S. 5.)
 

@@ -1,9 +1,8 @@
 Krolls Etablissement (Maskenball)
 =================================
 
-:slug: FKroll2
-:order: 16
-:template: slideshow
+.. image:: FKroll2-small.jpg
+   :alt:
 
 Krolls Etablissement (Maskenball)
 

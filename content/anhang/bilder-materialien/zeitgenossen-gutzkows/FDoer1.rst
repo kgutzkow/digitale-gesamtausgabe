@@ -1,13 +1,12 @@
 Theodor Döring
 ==============
 
-:slug: FDoer1
-:order: 24
-:template: slideshow
+.. image:: FDoer1-small.jpg
+   :alt:
 
 Theodor Döring, 1803-1878.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich von 1846, gezeichnet von Hermann Weiß, gestochen von Albert Henry Payne. Einzelblatt, Privatbesitz)
 

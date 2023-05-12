@@ -1,13 +1,12 @@
 Hoffmann von Fallersleben
 =========================
 
-:slug: FFalle1
-:order: 53
-:template: slideshow
+.. image:: FFalle1-small.jpg
+   :alt:
 
 Hoffmann von Fallersleben, 1798-1874
 
-.. class:: source
+.. rst-class:: source
 
   (Die politischen Lyriker unserer Zeit. Ein Denkmal mit Portraits und kurzen historischen Charakteristiken. Leipzig: Verlagsbureau 1847.)
 

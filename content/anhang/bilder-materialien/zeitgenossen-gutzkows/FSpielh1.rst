@@ -1,12 +1,11 @@
 Friedrich Spielhagen
 ====================
 
-:slug: FSpielh1
-:order: 115
-:template: slideshow
+.. image:: FSpielh1-small.jpg
+   :alt:
 
 Friedrich Spielhagen, 1829-1911
 
-.. class:: source
+.. rst-class:: source
 
   (Originalphotographie um 1878, Privatbesitz.)

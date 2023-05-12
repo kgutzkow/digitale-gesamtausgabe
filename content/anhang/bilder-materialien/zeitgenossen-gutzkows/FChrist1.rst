@@ -1,15 +1,14 @@
 Ada Christen
 ============
 
-:slug: FChrist1
-:order: 17
-:template: slideshow
+.. image:: FChrist1-small.jpg
+   :alt:
 
 Ada Christen, 1839-1901.
 
 das
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographischer Druck. Einzelnes Blatt, gedruckt bei Jos. Eberle in Wien, etwa 1880.)
 

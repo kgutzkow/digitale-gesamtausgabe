@@ -1,12 +1,11 @@
 August Borsig
 =============
 
-:slug: Aborsig
-:order: 9
-:template: slideshow
+.. image:: Aborsig-small.jpg
+   :alt:
 
 August Borsig, 1804-1854
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich von Nikolaus Afinger, Verlag des Bibliographischen Instituts um 1860,)

@@ -1,12 +1,11 @@
 Ernst Kossak
 ============
 
-:slug: FKossak1
-:order: 67
-:template: slideshow
+.. image:: FKossak1-small.jpg
+   :alt:
 
 Ernst Kossak, 1814-1880
 
-.. class:: source
+.. rst-class:: source
 
   (Originalphotographie um 1868, Privatbesitz.)

@@ -1,8 +1,6 @@
 Rosalie Scheidemantel
 =====================
 
-:slug: FScheid
-:order: 1
-:template: slideshow
+.. image:: FScheid-small.jpg
 
 Rosalie Scheidemantel

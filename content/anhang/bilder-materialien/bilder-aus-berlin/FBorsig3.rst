@@ -1,9 +1,8 @@
 Borsigs Maschinenbauanstalt (Zusammensetzungssaal)
 ==================================================
 
-:slug: FBorsig3
-:order: 8
-:template: slideshow
+.. image:: FBorsig3-small.jpg
+   :alt:
 
 Borsigs Maschinenbauanstalt (Zusammensetzungssaal)
 

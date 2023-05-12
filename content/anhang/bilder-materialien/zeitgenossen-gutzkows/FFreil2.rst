@@ -1,13 +1,12 @@
 Ferdinand Freiligrath
 =====================
 
-:slug: FFreil2
-:order: 29
-:template: slideshow
+.. image:: FFreil2-small.jpg
+   :alt:
 
 Ferdinand Freiligrath, 1810-1876.
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig. 1876, S. 753.)
 

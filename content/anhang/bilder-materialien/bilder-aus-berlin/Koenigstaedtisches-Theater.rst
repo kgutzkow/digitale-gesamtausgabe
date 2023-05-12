@@ -1,12 +1,11 @@
 Das Königstädtische Theater am Alexanderplatz um 1840
 =====================================================
 
-:slug: Koenigstaedtisches-Theater
-:order: 14
-:template: slideshow
+.. image:: Koenigstaedtisches-Theater-small.jpg
+   :alt:
 
 Das Königstädtische Theater am Alexanderplatz um 1840
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich um 1840, gez. von Scharz, gest. von Finden, Einzelblatt.)

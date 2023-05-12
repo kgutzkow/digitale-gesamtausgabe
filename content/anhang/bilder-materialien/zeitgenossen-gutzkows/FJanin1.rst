@@ -1,12 +1,11 @@
 Jules-Gabriel Janin
 ===================
 
-:slug: FJanin1
-:order: 61
-:template: slideshow
+.. image:: FJanin1-small.jpg
+   :alt:
 
 Jules-Gabriel Janin, 1804-1874.
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographie von August Kneisel nach einer Zeichnung von Cäcilie Brand, um 1840. Einzelblatt, Privatbesitz)

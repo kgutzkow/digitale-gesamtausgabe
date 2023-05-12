@@ -1,9 +1,8 @@
 Stadtplan Berlins von 1830
 ==========================
 
-:slug: FBeStpl
-:order: 1
-:template: slideshow
+.. image:: FBeStpl-small.jpg
+   :alt:
 
 Gutzkow schickt seine Leser auf den Weg durch die grosse Stadt ...
 

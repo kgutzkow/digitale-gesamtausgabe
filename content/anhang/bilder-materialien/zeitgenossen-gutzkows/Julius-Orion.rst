@@ -1,12 +1,11 @@
 Orion Julius
 ============
 
-:slug: Julius-Orion
-:order: 62
-:template: slideshow
+.. image:: Julius-Orion-small.jpg
+   :alt:
 
 Orion Julius, 1788-1835
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographie um 1830, Unterschrift: „Allen die mir wohlgethan ...“, Einzelblatt)

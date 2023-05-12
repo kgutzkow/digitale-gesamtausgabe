@@ -1,12 +1,11 @@
 Armand Carrel
 =============
 
-:slug: FCarrel
-:order: 16
-:template: slideshow
+.. image:: FCarrel-small.jpg
+   :alt:
 
 Armand Carrel, 1800-1836.
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographie um 1835. Einzelblatt, Privatbesitz)

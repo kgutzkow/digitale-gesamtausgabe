@@ -1,9 +1,8 @@
 Frauenfrisur: Mrs. Norton
 =========================
 
-:slug: FMode1
-:order: 1
-:template: slideshow
+.. image:: FMode1-small.jpg
+   :alt:
 
 Portrait der Schriftstellerin Caroline Norton.
 

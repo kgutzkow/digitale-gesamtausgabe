@@ -1,10 +1,9 @@
 Karl Seydelmann
 ===============
 
-:slug: FSeyde1
-:order: 114
-:template: slideshow
+.. image:: FSeyde1-small.jpg
+   :alt:
 
-.. class:: source
+.. rst-class:: source
 
   (Allgemeine Theater-Revue. Hg. von August Lewald, 1. Jg. Stuttgart u. Tübingen: Cotta, 1835.)

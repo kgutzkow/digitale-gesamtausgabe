@@ -1,12 +1,11 @@
 Jakob Venedey
 =============
 
-:slug: FVened1
-:order: 128
-:template: slideshow
+.. image:: FVened1-small.jpg
+   :alt:
 
 Jakob Venedey, 1805-1871
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1871, S. 297.)

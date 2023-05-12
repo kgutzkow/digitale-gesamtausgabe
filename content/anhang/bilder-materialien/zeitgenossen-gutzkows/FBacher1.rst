@@ -1,12 +1,11 @@
 Therese von Bacheracht
 ======================
 
-:slug: FBacher1
-:order: 3
-:template: slideshow
+.. image:: FBacher1-small.jpg
+   :alt:
 
 Therese von Bacheracht, 1804-1852.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich. In: Penelope. Taschenbuch für das Jahr 1847. Hg. von Theodor Hell. Leipzig: Hinrichs, [1846].)

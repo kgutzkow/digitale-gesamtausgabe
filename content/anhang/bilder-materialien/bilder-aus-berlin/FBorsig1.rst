@@ -1,9 +1,8 @@
 Borsigs Werkstätten
 ===================
 
-:slug: FBorsig1
-:order: 9
-:template: slideshow
+.. image:: FBorsig1-small.jpg
+   :alt:
 
 Borsigs Werkstätten
 

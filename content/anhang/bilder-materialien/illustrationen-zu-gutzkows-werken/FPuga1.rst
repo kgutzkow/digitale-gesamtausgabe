@@ -1,12 +1,11 @@
 "Pugatscheff", letzte Szene aus dem 3. Akt (1845)
 =================================================
 
-:slug: FPuga1
-:order: 7
-:template: slideshow
+.. image:: FPuga1-small.jpg
+   :alt:
 
 "Pugatscheff", letzte Szene aus Akt III. Anon. Holzstich, 1845
 
-.. class:: source
+.. rst-class:: source
 
   Aus: Illustrirte Zeitung. Leipzig. Nr. 84, 8. Februar 1845

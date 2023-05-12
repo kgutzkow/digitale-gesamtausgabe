@@ -1,12 +1,11 @@
 François Auguste Saint-Marc Girardin
 ====================================
 
-:slug: FSMGir1
-:order: 100
-:template: slideshow
+.. image:: FSMGir1-small.jpg
+   :alt:
 
 François Auguste Saint-Marc Girardin, 1801-1873.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich um 1840. Einzelblatt, Privatbesitz)

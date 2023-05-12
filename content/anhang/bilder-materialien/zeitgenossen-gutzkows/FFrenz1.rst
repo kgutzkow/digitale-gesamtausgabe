@@ -1,13 +1,12 @@
 Karl Frenzel
 ============
 
-:slug: FFrenz1
-:order: 30
-:template: slideshow
+.. image:: FFrenz1-small.jpg
+   :alt:
 
 Karl Frenzel, 1827-1914
 
-.. class:: source
+.. rst-class:: source
 
   (Karl Frenzel: Die Berliner Märztage und andere Erinnerungen. Leipzig: Reclam 1912.)
 

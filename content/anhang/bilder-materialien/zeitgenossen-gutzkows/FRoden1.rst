@@ -1,13 +1,12 @@
 Julius Rodenberg
 ================
 
-:slug: FRoden1
-:order: 97
-:template: slideshow
+.. image:: FRoden1-small.jpg
+   :alt:
 
 Julius Rodenberg, 1831-1914
 
-.. class:: source
+.. rst-class:: source
 
   (Photographie um 1873, Privatbesitz.)
 

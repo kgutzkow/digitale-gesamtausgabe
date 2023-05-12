@@ -1,12 +1,11 @@
 Maria Taglioni
 ==============
 
-:slug: FTaglio1
-:order: 122
-:template: slideshow
+.. image:: FTaglio1-small.jpg
+   :alt:
 
 Maria Taglioni, 1804-1884
 
-.. class:: source
+.. rst-class:: source
 
   (Europa. Chronik der gebildeten Welt. 1836, Bd 4. Stuttgart: Literatur-Comptoir, 1836. Nach S. 384.)

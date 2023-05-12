@@ -1,12 +1,11 @@
 Moritz Gottlieb Saphir
 ======================
 
-:slug: FSaphi1
-:order: 104
-:template: slideshow
+.. image:: FSaphi1-small.jpg
+   :alt:
 
 Moritz Gottlieb Saphir, 1795-1858
 
-.. class:: source
+.. rst-class:: source
 
   (M. G. Saphir: Fliegendes Album für Ernst, Scherz, Humor und lebensfroher Laune. Bd. 1. Leipzig: Jackowitz 1846.)

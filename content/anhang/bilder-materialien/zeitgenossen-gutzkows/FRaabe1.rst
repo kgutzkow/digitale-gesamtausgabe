@@ -1,12 +1,11 @@
 Wilhelm Raabe
 =============
 
-:slug: FRaabe1
-:order: 93
-:template: slideshow
+.. image:: FRaabe1-small.jpg
+   :alt:
 
 Wilhelm Raabe, 1831-1910
 
-.. class:: source
+.. rst-class:: source
 
   (Die Illustrirte Welt. Stuttgart. Nr. 14, 1870, S. 185.)

@@ -1,13 +1,12 @@
 Eugène Sue
 ==========
 
-:slug: FSue2
-:order: 120
-:template: slideshow
+.. image:: FSue2-small.jpg
+   :alt:
 
 Eugène Sue, 1804-1857.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich der Englischen Kunstanstalt von Albert Henry Payne in Leipzig um 1845. Einzelblatt, Privatbesitz)
 

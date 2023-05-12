@@ -1,13 +1,12 @@
 Friedrich von Sallet
 ====================
 
-:slug: FSalle1
-:order: 101
-:template: slideshow
+.. image:: FSalle1-small.jpg
+   :alt:
 
 Friedrich von Sallet, 1812-1843
 
-.. class:: source
+.. rst-class:: source
 
   (Die politischen Lyriker unserer Zeit. Ein Denkmal mit Portraits und kurzen historischen Charakteristiken. Leipzig: Verlagsbureau 1847.)
 

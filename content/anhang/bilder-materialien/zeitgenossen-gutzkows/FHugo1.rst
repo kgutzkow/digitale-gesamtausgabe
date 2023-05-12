@@ -1,12 +1,11 @@
 Victor Hugo
 ===========
 
-:slug: FHugo1
-:order: 57
-:template: slideshow
+.. image:: FHugo1-small.jpg
+   :alt:
 
 Victor Hugo, 1802-1885
 
-.. class:: source
+.. rst-class:: source
 
   (Die Illustrirte Welt. Stuttgart 1868, S. 505.)

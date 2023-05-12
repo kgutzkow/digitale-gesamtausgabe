@@ -1,12 +1,11 @@
 Heinrich Heine 1839
 ===================
 
-:slug: FHeine2
-:order: 48
-:template: slideshow
+.. image:: FHeine2-small.jpg
+   :alt:
 
 Heinrich Heine
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich nach einem Gemälde von Moritz Oppenheim. In: Jahrbuch der Literatur. Erster Jahrgang. Mit H. Heine's Bildniß. Hamburg: Hoffmann u. Campe, 1839.)

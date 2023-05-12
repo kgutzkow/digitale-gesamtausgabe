@@ -1,12 +1,11 @@
 Hermann Kletke
 ==============
 
-:slug: FKletke1
-:order: 66
-:template: slideshow
+.. image:: FKletke1-small.jpg
+   :alt:
 
 Hermann Kletke, 1813-1886
 
-.. class:: source
+.. rst-class:: source
 
   (Hermann Kletke: Gedichte. Vermehrte Gesammt-Ausg. Berlin: Schroeder, 1873.)

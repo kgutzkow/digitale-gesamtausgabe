@@ -1,10 +1,9 @@
 Friedrich Wilhelm IV., König von Preußen
 ========================================
 
-:slug: FFriWil41
-:order: 33
-:template: slideshow
+.. image:: FFriWil41-small.jpg
+   :alt:
 
-.. class:: source
+.. rst-class:: source
 
   (um 1854, nach einer alten Fotographie.)

@@ -1,12 +1,11 @@
 William Makepeace Thackeray
 ===========================
 
-:slug: FThack1
-:order: 123
-:template: slideshow
+.. image:: FThack1-small.jpg
+   :alt:
 
 William Makepeace Thackeray, 1811-1863
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1864, S. 181.)

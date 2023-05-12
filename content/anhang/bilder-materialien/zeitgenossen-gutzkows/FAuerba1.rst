@@ -1,13 +1,12 @@
 Berthold Auerbach
 =================
 
-:slug: FAuerba1
-:order: 2
-:template: slideshow
+.. image:: FAuerba1-small.jpg
+   :alt:
 
 Berthold Auerbach, 1812-1882
 
-.. class:: source
+.. rst-class:: source
 
   (Carl Spitzwegs Bleistiftportrait vom 7. August 1855, SNM, Abb. in: Deutsche Schriftsteller im Portrait, Bd 4: Das 19. Jahrhundert. Hg. von Hiltrud Häntzschel. München 1981, S. 18.)
 

@@ -1,12 +1,11 @@
 Ludwig Seeger
 =============
 
-:slug: FSeeg1
-:order: 113
-:template: slideshow
+.. image:: FSeeg1-small.jpg
+   :alt:
 
 Ludwig Seeger, 1810-1864
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1864, S. 749.)

@@ -1,9 +1,8 @@
 Herrenmode: der Elegante
 ========================
 
-:slug: FMode3
-:order: 3
-:template: slideshow
+.. image:: FMode3-small.jpg
+   :alt:
 
 Herrenmode: der Elegante.
 

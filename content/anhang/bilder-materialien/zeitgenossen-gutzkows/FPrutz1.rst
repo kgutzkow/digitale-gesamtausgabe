@@ -1,12 +1,11 @@
 Robert Prutz
 ============
 
-:slug: FPrutz1
-:order: 91
-:template: slideshow
+.. image:: FPrutz1-small.jpg
+   :alt:
 
 Robert Prutz, 1816-1872
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1870, S. 229.)

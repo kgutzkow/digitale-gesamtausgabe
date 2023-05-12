@@ -1,13 +1,12 @@
 Wolfgang Menzel, Photographie
 =============================
 
-:slug: FMenzel2
-:order: 84
-:template: slideshow
+.. image:: FMenzel2-small.jpg
+   :alt:
 
 Wolfgang Menzel, 1798-1873
 
-.. class:: source
+.. rst-class:: source
 
   (Photographie aus späteren Jahren von E. Hader. Albuminabzug von Sophus Williams, Berlin.)
 

@@ -1,12 +1,11 @@
 Ferdinand Gustav Kühne
 ======================
 
-:slug: FKuehne1
-:order: 69
-:template: slideshow
+.. image:: FKuehne1-small.jpg
+   :alt:
 
 Ferdinand Gustav Kühne, 1806-1888.
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich von August Weger um 1850. Einzelblatt, Privatbesitz)

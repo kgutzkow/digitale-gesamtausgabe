@@ -1,13 +1,12 @@
 Ludwig Büchner
 ==============
 
-:slug: FLbuec1
-:order: 13
-:template: slideshow
+.. image:: FLbuec1-small.jpg
+   :alt:
 
 Ludwig Büchner, 1824-1899
 
-.. class:: source
+.. rst-class:: source
 
   (Ludwig Büchner: Kraft und Stoff. Empirisch-naturphilosophische Studien. 12., verm. u. verb., mit sechs Vorworten vers. Aufl. Leipzig: Thomas 1872.)
 

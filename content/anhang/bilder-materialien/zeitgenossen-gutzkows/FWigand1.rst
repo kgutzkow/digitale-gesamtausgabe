@@ -1,13 +1,12 @@
 Otto Wigand
 ===========
 
-:slug: FWigand1
-:order: 133
-:template: slideshow
+.. image:: FWigand1-small.jpg
+   :alt:
 
 Otto Wigand. (Illustrirte Zeitung, 16. Februar 1867). Holzstich.
 
-.. class:: source
+.. rst-class:: source
 
   (In: Wolfgang Weber: Johann Jakob Weber. Der Begründer der illustrierten Presse in Deutschland. Leipzig: Lehmstedt, 2003. S. 51.)
 

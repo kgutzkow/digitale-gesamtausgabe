@@ -1,12 +1,11 @@
 Rudolf Genée
 ============
 
-:slug: FGenee1
-:order: 35
-:template: slideshow
+.. image:: FGenee1-small.jpg
+   :alt:
 
 Rudolf Genée, 1824-1914
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1871, S. 836.)

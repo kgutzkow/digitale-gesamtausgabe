@@ -1,12 +1,11 @@
 Josef Rank
 ==========
 
-:slug: FRank1
-:order: 94
-:template: slideshow
+.. image:: FRank1-small.jpg
+   :alt:
 
 Josef Rank, 1816-1896
 
-.. class:: source
+.. rst-class:: source
 
   (Lithographie von 1847, Einzelblatt, Privatbesitz.)

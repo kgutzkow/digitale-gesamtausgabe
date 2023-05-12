@@ -1,13 +1,12 @@
 Emil Adolph Roßmäßler
 =====================
 
-:slug: FRossm1
-:order: 98
-:template: slideshow
+.. image:: FRossm1-small.jpg
+   :alt:
 
 Emil Adolph Roßmäßler, 1806-1867
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1867, S. 629.)
 

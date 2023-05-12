@@ -1,9 +1,8 @@
 Krolls Etablissement (Außenansicht)
 ===================================
 
-:slug: FKroll1
-:order: 15
-:template: slideshow
+.. image:: FKroll1-small.jpg
+   :alt:
 
 Krolls Etablissement (Außenansicht)
 

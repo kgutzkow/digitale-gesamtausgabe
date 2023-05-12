@@ -1,13 +1,12 @@
 Ernst Raupach, Werke 1829
 =========================
 
-:slug: FRaup1
-:order: 95
-:template: slideshow
+.. image:: FRaup1-small.jpg
+   :alt:
 
 Ernst Raupach, 1784-1852
 
-.. class:: source
+.. rst-class:: source
 
   (Stahlstich von Fr. Fleischmann nach einem Bild von Franz Krüger. In: Ernst Raupach: Dramatische Werke komischer Gattung. Theil 1. Hamburg: Hoffmann u. Campe, 1829.)
 

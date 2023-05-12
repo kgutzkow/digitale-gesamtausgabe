@@ -1,13 +1,12 @@
 Heinrich Laube
 ==============
 
-:slug: FLaube2
-:order: 72
-:template: slideshow
+.. image:: FLaube2-small.jpg
+   :alt:
 
 Heinrich Laube, 1798-1873
 
-.. class:: source
+.. rst-class:: source
 
   (Die Gartenlaube. Leipzig 1868, S. 517.)
 
