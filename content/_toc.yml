@@ -21,6 +21,88 @@ parts:
         file: karl-gutzkow/bibliographie
       - title: Nachträge zur Bibliographie
         file: karl-gutzkow/nachtraege-bibliographie
+  - caption: Digitale Gesamtausgabe
+    chapters:
+      - file: digitale-gesamtausgabe/erzaehlerische-werke/index
+        sections:
+          - title: 1. Briefe eines Narren an eine Närrin
+            file: digitale-gesamtausgabe/erzaehlerische-werke/briefe-eines-narren-an-eine-naerrin
+          - title: 2. Maha Guru
+            file: digitale-gesamtausgabe/erzaehlerische-werke/maha-guru/index
+          - title: 3. Novellen
+            file: digitale-gesamtausgabe/erzaehlerische-werke/novellen/index
+          - title: 4. Wally die Zweiflerin
+            file: digitale-gesamtausgabe/erzaehlerische-werke/wally-die-zweiflerin
+          - title: 7. Kleine erzählerische Werke. Band 1
+            file: digitale-gesamtausgabe/erzaehlerische-werke/kleine-erzaehlerische-werke-band-1/index
+          - title: 9. Kleine erzählerische Werke. Band 2
+            file: digitale-gesamtausgabe/erzaehlerische-werke/kleine-erzaehlerische-werke-band-2/index
+          - title: 10. Die Diakonissin
+            file: digitale-gesamtausgabe/erzaehlerische-werke/die-diakonissin
+          - title: 11. Der Zauberer von Rom
+            file: digitale-gesamtausgabe/erzaehlerische-werke/der-zauberer-von-rom/index
+          - title: 17. Die neuen Serapionsbrüder
+            file: digitale-gesamtausgabe/erzaehlerische-werke/die-neuen-serapionsbrueder/index
+      - file: digitale-gesamtausgabe/dramatische-werke/index
+        sections:
+          - file: digitale-gesamtausgabe/dramatische-werke/marino-falieri
+          - file: digitale-gesamtausgabe/dramatische-werke/hamlet-in-wittenberg
+          - file: digitale-gesamtausgabe/dramatische-werke/nero
+          - file: digitale-gesamtausgabe/dramatische-werke/koenig-saul
+          - file: digitale-gesamtausgabe/dramatische-werke/richard-savage
+          - file: digitale-gesamtausgabe/dramatische-werke/werner
+          - file: digitale-gesamtausgabe/dramatische-werke/die-graefin-esther
+          - file: digitale-gesamtausgabe/dramatische-werke/patkul
+      - file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/index
+        sections:
+          - title: 3. Die Zeitgenossen
+            file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/die-zeitgenossen/index
+          - file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1846/index
+          - file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/saekularbilder-1875/index
+          - title: 6. Verstreute Schriften zur Geschichte und Politik
+            file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/verstreute-schriften-zur-geschichte-und-politik/index
+          - title: 8. Zum Gesellschaftsleben - Skizzen und Zeitfragen
+            file: digitale-gesamtausgabe/schriften-zur-politik-und-gesellschaft/zum-gesellschaftsleben-skizzen-und-zeitfragen/index
+      - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/index
+        sections:
+          - title: 2. Beiträge zur Geschichte der neuesten Literatur
+            file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/beitraege-zur-geschichte-der-neuesten-literatur/index
+          - title: 6. Literaturkritik
+            file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/index
+            sections:
+              - title: 6.1. Rezensionen und literaturkritische Essays
+                file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/rezensionen-und-literaturkritische-essays/index
+              - title: 6.2. Schriften zur Literatur
+                file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/literaturkritik/schriften-zur-literatur/index
+          - title: 7. Schriften zum Buchhandel und zur literatirischen Praxis
+            file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/index
+            sections:
+              - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/rahmenbedingungen-schriftstellerischer-und-verlegerischer-production/index
+                sections:
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/rahmenbedingungen-schriftstellerischer-und-verlegerischer-production/autor-und-verlagsrecht/index
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/rahmenbedingungen-schriftstellerischer-und-verlegerischer-production/der-soziale-status-des-schriftstellers/index
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/rahmenbedingungen-schriftstellerischer-und-verlegerischer-production/zensur-und-pressepolitik/index
+              - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/index
+                sections:
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/buchproduktion-und-literarische-moden/index
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/populaere-lesestoffe-und-illustrationen/index
+                  - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/buchmarkt-verlegerische-strategien-und-buchhaendlerischer-vertrieb/buchhandelsusancen-und-buchvertrieb/index
+              - file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/schriften-zum-buchhandel-und-zur-literarischen-praxis/journalistische-praxis-und-presse/index
+          - title: 9. Theaterkritiken
+            file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/theaterkritiken/index
+          - title: 10. Dramaturgische Schriften - Zum Bühnenleben - Oper und Musik
+            file: digitale-gesamtausgabe/schriften-zur-literatur-und-zum-theater/dramaturgische-schriften-zum-buehnenleben-oper-und-musik/index
+      - file: digitale-gesamtausgabe/gedichte-epigramme-denksprueche/index
+        sections:
+          - title: 2. Vom Baum der Erkenntniß. Denksprüche - Aphorismen, Einfällle, Denkblätter
+            file: digitale-gesamtausgabe/gedichte-epigramme-denksprueche/vom-baum-der-erkenntniss-denksprueche-aphorismen-einfaelle-denkblaetter/index
+      - file: digitale-gesamtausgabe/reiseliteratur/index
+        sections:
+          - title: 3. Berliner Eindruecke
+            file: digitale-gesamtausgabe/reiseliteratur/berliner-eindruecke/index
+      - file: digitale-gesamtausgabe/autobiographische-schriften/index
+        sections:
+          - file: digitale-gesamtausgabe/autobiographische-schriften/kleine-autobiographische-schriften-und-memorabilien/index
   - caption: Anhang zur Ausgabe
     chapters:
       - file: anhang/bilder-materialien/index
