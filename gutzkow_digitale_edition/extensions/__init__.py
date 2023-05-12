@@ -1,11 +1,10 @@
 from sphinx.application import Sphinx
 
-from docutils import nodes
-from sphinx.util.docutils import SphinxDirective
-from sphinx.transforms.post_transforms import SphinxPostTransform
-from sphinx_design.shared import is_component, create_component
+from .parser import TEIParser
 
 
-def setup(app):
+def setup(app: Sphinx):
     """Setup the theme extensions."""
+    app.add_source_suffix('.tei', 'tei')
+    app.add_source_parser(TEIParser)
     return {'parallel_read_safe': True, 'parallel_write_safe': True}

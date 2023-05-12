@@ -24,7 +24,8 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "jupyter-book>=0.15.1"
+  "jupyter-book>=0.15.1",
+  "lxml>=4.9.2,<5.0.0",
 ]
 dynamic = [
   "version"

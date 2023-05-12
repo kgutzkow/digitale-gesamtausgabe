@@ -1,0 +1,50 @@
+span.speaker {
+  font-variant: small-caps;
+}
+span.page-begin {
+  font-size: 80%;
+  font-style: italic;
+}
+span.page-begin::before {
+  content: "[";
+}
+span.page-begin::after {
+  content: "]";
+}
+.foreign {
+  font-weight: 300;
+}
+.font-style-italic {
+  font-style: italic
+}
+.font-size-small {
+  font-size: 80%;
+}
+.letter-sparse {
+  letter-spacing: 0.1rem;
+}
+
+.margin-top-0 {
+  margin-top: 0;
+}
+.margin-top-0\.1 {
+  margin-top: 0.1cm;
+}
+.margin-top-0\.2 {
+  margin-top: 0.2cm;
+}
+.margin-right-0 {
+  margin-right: 0;
+}
+.margin-bottom-0 {
+  margin-bottom: 0;
+}
+.margin-left-0 {
+  margin-left: 0;
+}
+.first-line-indent-0 {
+  text-indent: 0;
+}
+.first-line-indent-0\.5 {
+  text-indent: 0.5cm;
+}
