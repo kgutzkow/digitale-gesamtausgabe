@@ -1,9 +1,8 @@
 Préliminaires, S. 5
 ===================
 
-:slug: FPhysio71
-:order: 7
-:template: slideshow
+.. image:: FPhysio71-small.jpg
+   :alt:
 
 Préliminaires, S. 5
 

@@ -1,9 +1,8 @@
 Titelblatt mit Illustration
 ===========================
 
-:slug: FPhysio7
-:order: 6
-:template: slideshow
+.. image:: FPhysio7-small.jpg
+   :alt:
 
 Titelblatt mit Illustration
 

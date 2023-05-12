@@ -1,9 +1,8 @@
 Verlagsankündigung
 ==================
 
-:slug: FPhysio6
-:order: 13
-:template: slideshow
+.. image:: FPhysio6-small.jpg
+   :alt:
 
 Verlagsankündigung
 

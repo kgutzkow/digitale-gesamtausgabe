@@ -1,9 +1,8 @@
 Préliminaires, S. 10-11
 =======================
 
-:slug: FPhysio74
-:order: 10
-:template: slideshow
+.. image:: FPhysio74-small.jpg
+   :alt:
 
 Préliminaires, S. 10-11
 

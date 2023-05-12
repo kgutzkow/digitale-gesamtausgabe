@@ -10,7 +10,7 @@ Bilder
 * :doc:`Karikaturen <karikaturen/index>`
 * :doc:`Handschriften und Drucke <handschriften-und-drucke/index>`
 
-  * :doc:`Physiologien <physiologien>`
+  * :doc:`Physiologien <physiologien/index>`
 
 * :doc:`Illustrationen zu Gutzkows Werken <illustrationen-zu-gutzkows-werken/index>`
 * :doc:`Bildnisse und Dokumente aus Gutzkows persönlichem Umkreis <bildnisse-und-dokumente-aus-gutzkows-persoenlichem-umkreis/index>`

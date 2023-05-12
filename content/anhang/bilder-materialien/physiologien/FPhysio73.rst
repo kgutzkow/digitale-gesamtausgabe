@@ -1,9 +1,8 @@
 Préliminaires, S.8-9
 ====================
 
-:slug: FPhysio73
-:order: 9
-:template: slideshow
+.. image:: FPhysio73-small.jpg
+   :alt:
 
 Préliminaires, S.8-9
 

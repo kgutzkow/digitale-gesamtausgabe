@@ -1,9 +1,8 @@
 "Physiologie du Théatre", 1841, Titelblatt und Illustration
 ===========================================================
 
-:slug: FPhysio1
-:order: 2
-:template: slideshow
+.. image:: FPhysio1-small.jpg
+   :alt:
 
 "Physiologie du Théatre", 1841, Titelblatt und Illustration
 

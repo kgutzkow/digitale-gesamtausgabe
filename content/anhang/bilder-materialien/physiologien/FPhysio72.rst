@@ -1,9 +1,8 @@
 Préliminaires, S. 6-7
 =====================
 
-:slug: FPhysio72
-:order: 8
-:template: slideshow
+.. image:: FPhysio72-small.jpg
+   :alt:
 
 Préliminaires, S. 6-7
 
