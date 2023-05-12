@@ -1,9 +1,6 @@
 Datenschutzerklärung
 ====================
 
-:slug: datenschutzerklaerung
-:no_menu: True
-
 Die relevante Datenschutzerklärung der Martin-Luther-Universität Halle-Wittenberg finden sie hier:
 https://www.uni-halle.de/datenschutzerklaerung/
 

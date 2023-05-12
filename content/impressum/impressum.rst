@@ -1,8 +1,6 @@
 Impressum
 =========
 
-:no_menu: True
-
 Inhaltlich verantwortlich
 -------------------------
 
