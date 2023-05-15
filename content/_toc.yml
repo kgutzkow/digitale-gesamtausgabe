@@ -3,26 +3,26 @@
 
 format: jb-book
 root: index
-parts:
-  - caption: Editionsprojekt
-    chapters:
-      - file: editionsprojekt/vorstellung
+chapters:
+  - title: Editionsprojekt
+    file: editionsprojekt/vorstellung
+    sections:
       - file: editionsprojekt/editionsprinzipien
       - file: editionsprojekt/mitwirkende
       - file: editionsprojekt/textbaende
       - file: editionsprojekt/rezensionen
       - file: editionsprojekt/kontakt
-  - caption: Über den Autor
-    chapters:
-      - title: Lebenschronik
-        file: karl-gutzkow/lebenschronik
+  - title: Über den Autor
+    file: karl-gutzkow/lebenschronik
+    sections:
       - file: karl-gutzkow/stimmen
       - title: Werke und Ausgaben
         file: karl-gutzkow/bibliographie
       - title: Nachträge zur Bibliographie
         file: karl-gutzkow/nachtraege-bibliographie
-  - caption: Digitale Gesamtausgabe
-    chapters:
+  - title: Digitale Gesamtausgabe
+    file: digitale-gesamtausgabe/index
+    sections:
       - file: digitale-gesamtausgabe/erzaehlerische-werke/index
         sections:
           - title: 1. Briefe eines Narren an eine Närrin
@@ -104,8 +104,9 @@ parts:
       - file: digitale-gesamtausgabe/autobiographische-schriften/index
         sections:
           - file: digitale-gesamtausgabe/autobiographische-schriften/kleine-autobiographische-schriften-und-memorabilien/index
-  - caption: Anhang zur Ausgabe
-    chapters:
+  - title: Anhang zur Ausgabe
+    file: anhang/index
+    sections:
       # - file: anhang/bilder-materialien/index
       #   sections:
       #     - file: anhang/bilder-materialien/portraets-von-gutzkow/index
@@ -458,10 +459,9 @@ parts:
       - title: Siglen
         file: anhang/siglen
       - file: anhang/abkuerzungen
-  - caption: Aktuelles
-    chapters:
-      - file: aktuelles
-  - caption: Impressum
-    chapters:
-      - file: impressum/impressum
+  - title: Aktuelles
+    file: aktuelles
+  - title: Impressum
+    file: impressum/impressum
+    sections:
       - file: impressum/datenschutzerklaerung

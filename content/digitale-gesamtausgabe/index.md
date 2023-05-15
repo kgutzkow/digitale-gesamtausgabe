@@ -1,0 +1,4 @@
+# Digitale Gesamtausgabe
+
+:::{tableofcontents}
+:::
