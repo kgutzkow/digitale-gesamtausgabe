@@ -1,6 +1,26 @@
+html[data-theme="light"] {
+  --pst-color-primary: #b7512a;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #be6541;
+}
+
+aside.footnote.esv {
+  display: none;
+}
+aside.footnote.esv.active {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  background-color: #ffffff;
+  font-size: 80%;
+}
+
 span.speaker {
   font-variant: small-caps;
 }
+
 span.page-begin {
   font-size: 80%;
   font-style: italic;
@@ -11,15 +31,25 @@ span.page-begin::before {
 span.page-begin::after {
   content: "]";
 }
+
 .foreign {
   font-weight: 300;
 }
+
 .font-style-italic {
   font-style: italic
 }
+
 .font-size-small {
   font-size: 80%;
 }
+.font-size-medium {
+  font-size: 120%;
+}
+.font-size-medium {
+  font-size: 140%;
+}
+
 .letter-sparse {
   letter-spacing: 0.1rem;
 }

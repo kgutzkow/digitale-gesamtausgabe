@@ -1,9 +1,6 @@
 Aktuelles
 =========
 
-:slug: aktuelles
-:order: 5
-
 **2023**
 --------
 

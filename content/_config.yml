@@ -3,7 +3,7 @@
 
 title: Gutzkow Digitale Gesamtausgabe
 author: Gutzkow Projekt
-logo: logo.png
+logo: _static/gutzkow-head.jpg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -25,7 +25,12 @@ sphinx:
     html_theme_options:
       secondary_sidebar_items:
         - page-toc.html
+      favicons:
+        - 'href': favicon.ico
+      header_links_before_dropdown: 6
+    language: de
   extra_extensions:
     - gutzkow_digitale_edition
+    - sphinx_favicon
 
 only_build_toc_files: true

@@ -90,13 +90,24 @@ class TEIParser(SphinxParser):
             new_element.classes = ['line']
             self._add_default_block_attributes(node, new_element)
             parent.append(new_element)
+        elif node.tag == '{http://www.tei-c.org/ns/1.0}interp':
+            new_element = nodes.footnote()
+            new_element['ids'] = [node.attrib['{http://www.w3.org/XML/1998/namespace}id']]
+            new_element['classes'] = ['esv']
+            parent.append(new_element)
         elif node.tag == '{http://www.tei-c.org/ns/1.0}seg':
             new_element = nodes.Text(node.text)
             parent.append(new_element)
         elif node.tag == '{http://www.tei-c.org/ns/1.0}ref':
-            new_element = nodes.reference(text=node.text)
-            new_element['refuri'] = node.attrib['target']
-            parent.append(new_element)
+            if node.attrib['type'] == 'esv':
+                new_element = nodes.reference(text=node.text)
+                new_element['refid'] = node.attrib['target'][1:]
+                new_element['classes'] = ['esv']
+                parent.append(new_element)
+            else:
+                new_element = nodes.reference(text=node.text)
+                new_element['refuri'] = node.attrib['target']
+                parent.append(new_element)
         elif node.tag == '{http://www.tei-c.org/ns/1.0}hi':
             if node.attrib['style'] == 'font-weight-bold':
                 new_element = nodes.strong(text=node.text)
@@ -108,8 +119,16 @@ class TEIParser(SphinxParser):
             elif node.attrib['style'] == 'font-size-small':
                 new_element = nodes.inline(text=node.text)
                 new_element['classes'] = ['font-size-small']
+            elif node.attrib['style'] == 'font-size-medium':
+                new_element = nodes.inline(text=node.text)
+                new_element['classes'] = ['font-size-medium']
+            elif node.attrib['style'] == 'font-size-large':
+                new_element = nodes.inline(text=node.text)
+                new_element['classes'] = ['font-size-large']
+            elif node.attrib['style'] == 'sup':
+                new_element = nodes.superscript(text=node.text)
             else:
-                print(node.attrib['style'])
+                print(f"Style: {node.attrib['style']}")
             if new_element is not None:
                 parent.append(new_element)
         elif node.tag == '{http://www.tei-c.org/ns/1.0}stage':
@@ -123,6 +142,14 @@ class TEIParser(SphinxParser):
         elif node.tag == '{http://www.tei-c.org/ns/1.0}foreign':
             new_element = nodes.inline(text=node.text)
             new_element['classes'] = ['foreign']
+            parent.append(new_element)
+        elif node.tag == '{http://www.tei-c.org/ns/1.0}citedRange':
+            new_element = nodes.inline(text=node.text)
+            new_element['classes'] = ['cited-range']
+            parent.append(new_element)
+        elif node.tag == '{http://www.tei-c.org/ns/1.0}q':
+            new_element = nodes.inline(text=node.text)
+            new_element['classes'] = ['quote']
             parent.append(new_element)
         elif node.tag == '{http://www.tei-c.org/ns/1.0}pb':
             new_element = nodes.inline(text=node.attrib['n'])
