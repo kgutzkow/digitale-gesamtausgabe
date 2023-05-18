@@ -40,6 +40,9 @@ Source = "https://github.com/unknown/gutzkow-digitale-edition"
 [tool.hatch.version]
 path = "gutzkow_digitale_edition/__about__.py"
 
+[tool.hatch.envs.default.scripts]
+build = "jb build content"
+
 [tool.hatch.envs.dev]
 extra-dependencies = [
   "livereload",
