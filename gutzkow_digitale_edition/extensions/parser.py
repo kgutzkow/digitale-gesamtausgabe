@@ -131,7 +131,7 @@ class TEIParser(SphinxParser):
                 print(f"Style: {node.attrib['style']}")
             if new_element is not None:
                 parent.append(new_element)
-        elif node.tag == '{http://www.tei-c.org/ns/1.0}stage':
+        elif node.tag == '{http://www.tei-c.org/ns/1.0}stag':
             new_element = nodes.inline(text=node.text)
             new_element['classes'] = ['stage', node.attrib['type']]
             parent.append(new_element)
@@ -169,6 +169,7 @@ class TEIParser(SphinxParser):
                 if elem['level'] == 1:
                     new_section = nodes.section()
                     new_section['ids'] = [nodes.make_id(elem.astext())]
+                    new_section['classes'].append('tei')
                     new_section.append(elem)
                     sections.append(new_section)
                     stack = [(new_section, 1)]
