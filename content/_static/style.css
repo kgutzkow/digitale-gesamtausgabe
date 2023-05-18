@@ -1,22 +1,73 @@
+/**
+ * Colour overrides
+ */
 html[data-theme="light"] {
   --pst-color-primary: #b7512a;
+  --gutzkow-popup-overlay-bg: rgba(255, 255, 255, .7);
+  --gutzkow-popup-content-bg: #ffffff;
 }
 html[data-theme="dark"] {
   --pst-color-primary: #be6541;
 }
 
-aside.footnote.esv {
+/**
+ * Footnote / ESV Popup styling
+ */
+aside.esv {
   display: none;
 }
-aside.footnote.esv.active {
-  display: block;
+
+.popup-overlay {
+  display: none;
   position: fixed;
-  bottom: 0;
-  z-index: 10;
-  background-color: #ffffff;
-  font-size: 80%;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: var(--gutzkow-popup-overlay-bg);
+  z-index: 2000;
+}
+.popup-overlay.active {
+  display: block;
 }
 
+.popup-content {
+  position: absolute;
+  bottom: 0;
+  background-color: var(--gutzkow-popup-content-bg);
+  border: 1px solid var(--pst-color-primary);
+  padding: 0.2rem;
+  margin-bottom: 2px;
+  box-shadow: 0 0 0.25rem var(--pst-color-shadow);
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.tippy-box[data-theme~='gutzkow'] {
+  border: 1px solid var(--pst-color-primary);
+  overflow: hidden;
+}
+
+.tippy-box[data-theme~='gutzkow'][data-placement^='top'] .tippy-arrow::before {
+  border-top-color: var(--pst-color-primary);
+}
+.tippy-box[data-theme~='gutzkow'][data-placement^='bottom'] .tippy-arrow::before {
+  border-bottom-color: var(--pst-color-primary);
+}
+.tippy-box[data-theme~='gutzkow'][data-placement^='left'] .tippy-arrow::before {
+  border-left-color: var(--pst-color-primary);
+}
+.tippy-box[data-theme~='gutzkow'][data-placement^='right'] .tippy-arrow::before {
+  border-right-color: var(--pst-color-primary);
+}
+
+.tippy-box[data-theme~='gutzkow'] .tippy-content {
+  background: #ffffff;
+}
+
+/**
+ * TEI styling
+ */
 span.speaker {
   font-variant: small-caps;
 }
@@ -24,12 +75,16 @@ span.speaker {
 span.page-begin {
   font-size: 80%;
   font-style: italic;
+  display: none;
 }
 span.page-begin::before {
   content: "[";
 }
 span.page-begin::after {
   content: "]";
+}
+article[role="main"] span.page-begin {
+  display: inline;
 }
 
 .foreign {
