@@ -3,6 +3,7 @@ from sphinx.application import Sphinx
 from .parser import TEIParser
 from . import html
 
+
 def setup(app: Sphinx):
     """Setup the theme extensions."""
     app.add_source_suffix('.tei', 'tei')
