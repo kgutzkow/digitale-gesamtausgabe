@@ -1,1 +1,4 @@
 # Maha Guru
+
+:::{tableofcontents}
+:::

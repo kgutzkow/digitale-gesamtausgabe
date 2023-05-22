@@ -1,1 +1,4 @@
 # Novellen
+
+:::{tableofcontents}
+:::

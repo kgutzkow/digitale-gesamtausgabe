@@ -1,1 +1,4 @@
 # II. Dramatische Werke
+
+:::{tableofcontents}
+:::

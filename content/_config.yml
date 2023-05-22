@@ -36,7 +36,7 @@ sphinx:
           content: /tei:TEI/tei:text/tei:body
         - title: Apparat
           content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]
-        - title: Stellenverweise
+        - title: Stellenerläuterungen
           content: /tei:TEI/tei:text/tei:body/tei:interp
           mappings:
             - selector:

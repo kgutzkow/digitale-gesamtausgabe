@@ -1,1 +1,4 @@
 # Die neuen Serapionsbrüder
+
+:::{tableofcontents}
+:::
