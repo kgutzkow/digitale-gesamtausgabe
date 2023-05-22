@@ -36,6 +36,18 @@ sphinx:
           content: /tei:TEI/tei:text/tei:body
         - title: Apparat
           content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]
+        - title: Stellenverweise
+          content: /tei:TEI/tei:text/tei:body/tei:interp
+          mappings:
+            - selector:
+                tag: tei:interp
+              tag: aside
+              attributes:
+                - attr: id
+                  action: delete
+                - attr: type
+                  action: set
+                  value: esv-list-item
       mappings:
         - selector:
             tag: tei:head

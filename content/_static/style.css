@@ -61,8 +61,13 @@ html[data-theme="dark"] {
 /**
  * Footnote / ESV Popup styling
  */
-aside[data-type="esv"] {
+ aside[data-type="esv"] {
   display: none;
+}
+
+aside[data-type="esv-list-item"] {
+  display: block;
+  margin-bottom: 1rem;
 }
 
 .popup-overlay {
