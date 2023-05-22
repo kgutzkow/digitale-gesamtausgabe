@@ -1,3 +1,4 @@
+from copy import deepcopy
 from docutils import nodes
 from sphinx.application import Sphinx
 from sphinx.transforms.post_transforms import SphinxPostTransform
@@ -7,26 +8,30 @@ from sphinx_design.shared import is_component
 class TeiElement(nodes.Element): pass
 
 BASE_RULES = [
-  {'selector': 'tei:body', 'tag': 'section'}
+    {'selector': 'tei:body', 'tag': 'section'},
+    {'selector': 'tei:head', 'tag': 'h1'},
+    {'selector': 'tei:p', 'tag': 'p'},
+
+    {'selector': 'tei:seg', 'tag': 'span'},
+    {'selector': 'tei:pb', 'tag': 'pb'},
+    {'selector': 'tei:hi', 'tag': 'span'},
+    {
+        'selector': 'tei:ref',
+        'tag': 'a',
+        'attrs': [
+            {'attr': 'href', 'source': 'target'}
+        ]
+    },
+    {'selector': 'tei:citedRange', 'tag': 'span'},
+    {'selector': 'tei:q', 'tag': 'span'},
+    {'selector': 'tei:hi', 'tag': 'span'},
+    {'selector': 'tei:foreign', 'tag': 'span'},
+    {'selector': 'tei:speaker', 'tag': 'span'},
+    {'selector': 'tei:stage', 'tag': 'span'},
+    {'selector': 'tei:lem', 'tag': 'span'},
+    {'selector': 'tei:sic', 'tag': 'span'},
 ]
-
-TAG_MAPPINGS = {
-    '{http://www.tei-c.org/ns/1.0}body': 'section',
-    '{http://www.tei-c.org/ns/1.0}head': 'h1',
-    '{http://www.tei-c.org/ns/1.0}p': 'p',
-    '{http://www.tei-c.org/ns/1.0}interp': 'aside',
-
-    '{http://www.tei-c.org/ns/1.0}seg': 'span',
-    '{http://www.tei-c.org/ns/1.0}pb': 'span',
-    '{http://www.tei-c.org/ns/1.0}hi': 'span',
-    '{http://www.tei-c.org/ns/1.0}ref': 'a',
-    '{http://www.tei-c.org/ns/1.0}citedRange': 'span',
-    '{http://www.tei-c.org/ns/1.0}q': 'span',
-    '{http://www.tei-c.org/ns/1.0}hi': 'span',
-    '{http://www.tei-c.org/ns/1.0}foreign': 'span',
-    '{http://www.tei-c.org/ns/1.0}speaker': 'span',
-    '{http://www.tei-c.org/ns/1.0}stage': 'span',
-}
+rules = []
 
 ATTRIBUTE_MAPPINGS = {
     '{http://www.tei-c.org/ns/1.0}ref': {
@@ -37,8 +42,18 @@ ATTRIBUTE_MAPPINGS = {
 
 def tag_for_node(node: TeiElement) -> str:
     tei_tag = node.get('tei_tag')
-    if tei_tag in TAG_MAPPINGS:
-        return TAG_MAPPINGS[tei_tag]
+    for rule in rules:
+        if rule['selector']['tag'] == tei_tag:
+            if 'attributes' in rule['selector']:
+                attr_match = True
+                for attr_rule in rule['selector']['attributes']:
+                    if attr_rule['attr'] not in node.get('tei_attributes') or \
+                            node.get('tei_attributes')[attr_rule['attr']] != attr_rule['value']:
+                        attr_match = False
+                        break
+                if not attr_match:
+                    continue
+            return rule['tag']
     return 'div'
 
 
@@ -84,7 +99,17 @@ class Tei2HtmlTransform(SphinxPostTransform):
 
 
 def handle_config(app: Sphinx, config) -> None:
-    print(config.uEdition)
+    global rules
+    if 'mappings' in config.uEdition:
+        rules = config.uEdition['mappings'] + BASE_RULES
+    else:
+        rules = deepcopy(BASE_RULES)
+    for rule in rules:
+        if isinstance(rule['selector'], str):
+            rule['selector'] = {'tag': rule['selector']}
+        if 'attributes' in rule['selector'] and isinstance(rule['selector']['attributes'], dict):
+            rule['selector']['attributes'] = [rule['selector']['attributes']]
+        rule['selector']['tag'] = rule['selector']['tag'].replace('tei:', '{http://www.tei-c.org/ns/1.0}')
 
 
 def setup(app: Sphinx) -> None:
@@ -92,4 +117,3 @@ def setup(app: Sphinx) -> None:
     app.add_node(TeiElement, html=(tei_element_html_enter, tei_element_html_exit))
     app.add_config_value('uEdition', default=None, rebuild='html', types=[dict])
     app.connect('config-inited', handle_config)
-    print(app.config)
