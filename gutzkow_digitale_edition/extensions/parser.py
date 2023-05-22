@@ -4,10 +4,32 @@ from io import BytesIO
 from lxml import etree
 from sphinx.parsers import Parser as SphinxParser
 from sphinx.util import logging
+from sphinx_design.shared import create_component
 
 
 logger = logging.getLogger(__name__)
 namespaces = {'tei': 'http://www.tei-c.org/ns/1.0'}
+
+BLOCK_ELEMENTS = [
+    '{http://www.tei-c.org/ns/1.0}body',
+    '{http://www.tei-c.org/ns/1.0}head',
+    '{http://www.tei-c.org/ns/1.0}p',
+    '{http://www.tei-c.org/ns/1.0}interp',
+    '{http://www.tei-c.org/ns/1.0}sp',
+    '{http://www.tei-c.org/ns/1.0}lg',
+    '{http://www.tei-c.org/ns/1.0}l',
+]
+INLINE_ELEMENTS = [
+    '{http://www.tei-c.org/ns/1.0}seg',
+    '{http://www.tei-c.org/ns/1.0}ref',
+    '{http://www.tei-c.org/ns/1.0}citedRange',
+    '{http://www.tei-c.org/ns/1.0}q',
+    '{http://www.tei-c.org/ns/1.0}hi',
+    '{http://www.tei-c.org/ns/1.0}foreign',
+    '{http://www.tei-c.org/ns/1.0}pb',
+    '{http://www.tei-c.org/ns/1.0}speaker',
+    '{http://www.tei-c.org/ns/1.0}stage',
+]
 
 
 class TEIParser(SphinxParser):
@@ -45,24 +67,25 @@ class TEIParser(SphinxParser):
 
         '''
         root = etree.fromstring(inputstring.encode('UTF-8'))
-        self._walk_tree(root.xpath('/tei:TEI/tei:text/tei:body', namespaces=namespaces)[0], document)
-        self._fix_sections(document)
-        #main_section = self._parse_tei_header(root.xpath('/tei:TEI/tei:teiHeader', namespaces=namespaces)[0], document)
-        #config: MdParserConfig = document.settings.env.myst_config
-
-        # update the global config with the file-level config
-        #try:
-        #    topmatter = read_topmatter(inputstring)
-        #except TopmatterReadError:
-        #    pass  # this will be reported during the render
-        #else:
-        #    if topmatter:
-        #        warning = lambda wtype, msg: create_warning(  # noqa: E731
-        #            document, msg, wtype, line=1, append_to=document
-        #        )
-        #        config = merge_file_level(config, topmatter, warning)
+        main_section = nodes.section(children=[nodes.title(children=[nodes.Text('Test')])], ids=['document'])
+        document.append(main_section)
+        self._walk_tree(root.xpath('/tei:TEI/tei:text/tei:body', namespaces=namespaces)[0], main_section)
 
     def _walk_tree(self: 'TEIParser', node: etree.Element, parent: nodes.Element) -> None:
+        new_element = create_component(
+            'tei-tag',
+            rawtext='',
+            tei_tag=node.tag,
+            tei_attributes=dict(node.attrib),
+        )
+        parent.append(new_element)
+        if node.text:
+            new_element.append(nodes.Text(node.text))
+        for child in node:
+            self._walk_tree(child, new_element)
+        if node.tail:
+            parent.append(nodes.Text(node.tail))
+        '''
         new_element = None
         if node.tag == '{http://www.tei-c.org/ns/1.0}body':
             new_element = parent
@@ -160,6 +183,7 @@ class TEIParser(SphinxParser):
         if new_element is not None:
             for child in node:
                 self._walk_tree(child, new_element)
+        '''
 
     def _fix_sections(self: 'TEIParser', document: nodes.document) -> None:
         sections = []

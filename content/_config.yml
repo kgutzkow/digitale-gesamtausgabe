@@ -29,6 +29,8 @@ sphinx:
         - 'href': favicon.ico
       header_links_before_dropdown: 6
     language: de
+    uEdition:
+      mappings: []
   extra_extensions:
     - gutzkow_digitale_edition
     - sphinx_favicon

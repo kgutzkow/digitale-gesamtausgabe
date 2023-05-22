@@ -59,7 +59,7 @@ html[data-theme="dark"] {
 /**
  * Footnote / ESV Popup styling
  */
-aside.esv {
+aside[data-type=esv] {
   display: none;
 }
 

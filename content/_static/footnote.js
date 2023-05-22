@@ -70,7 +70,7 @@
     if (window.location.hash !== '') {
       try {
         const annotation = document.querySelector(window.location.hash);
-        if (annotation !== null && annotation.classList.contains('esv')) {
+        if (annotation !== null && annotation.getAttribute('data-type') == 'esv') {
           showFootnote(annotation.innerHTML);
         } else {
           closeFootnote();
