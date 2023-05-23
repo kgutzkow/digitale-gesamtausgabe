@@ -75,6 +75,8 @@ sphinx:
           tag: h4
         - selector: tei:interp
           tag: aside
+        - selector: tei:note
+          tag: aside
         - selector: tei:seg
           tag:
         - selector:

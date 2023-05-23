@@ -70,7 +70,7 @@
     if (window.location.hash !== '') {
       try {
         const annotation = document.querySelector(window.location.hash);
-        if (annotation !== null && annotation.getAttribute('data-type') == 'esv') {
+        if (annotation !== null && (annotation.getAttribute('data-type') === 'esv' || annotation.getAttribute('data-type') === 'footnote')) {
           showFootnote(annotation.innerHTML);
         } else {
           closeFootnote();
@@ -85,7 +85,7 @@
 
   window.addEventListener('hashchange', onHashChange);
   window.addEventListener('DOMContentLoaded', () => {
-    for (const elem of document.querySelectorAll('a.esv')) {
+    for (const elem of document.querySelectorAll('a[data-type="esv"], a[data-type="footnote"]')) {
       elem.addEventListener('click', () => {
         documentFocus = elem;
       })

@@ -61,7 +61,7 @@ html[data-theme="dark"] {
 /**
  * Footnote / ESV Popup styling
  */
- aside[data-type="esv"] {
+aside[data-type="esv"], aside[data-type="footnote"] {
   display: none;
 }
 
@@ -114,19 +114,19 @@ aside[data-type="esv-list-item"] {
 /**
  * Custom element styling
  */
-[data-tei-tag="page-begin"] {
+[data-tei-tag="pb"] {
   font-size: 80%;
   font-style: italic;
   display: none;
 }
-[data-tei-tag="page-begin"]::before {
+[data-tei-tag="pb"]::before {
   content: "[";
 }
-[data-tei-tag="page-begin"]::after {
+[data-tei-tag="pb"]::after {
   content: "]";
 }
 
-[data-tei-tag="speaker"] {
+[data-tei-tag="sp"] {
   font-variant: small-caps;
 }
 
