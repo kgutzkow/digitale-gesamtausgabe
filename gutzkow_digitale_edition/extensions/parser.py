@@ -89,6 +89,9 @@ class TEIParser(SphinxParser):
             if 'text_only_in_leaf_nodes' in self.config.uEdition else False
         attributes = {}
         rule = rule_for_node(node, rules)
+        if rule is not None and 'text' in rule:
+            if rule['text']['action'] == 'from-attribute' and rule['text']['attr'] in node.attrib:
+                node.text = node.attrib[rule['text']['attr']]
         for key, value in node.attrib.items():
             if key == '{http://www.w3.org/XML/1998/namespace}id':
                 key = 'id'

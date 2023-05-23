@@ -85,6 +85,12 @@ sphinx:
               attr: style
               value: sup
           tag: sup
+        - selector:
+            tag: tei:pb
+          tag: span
+          text:
+            action: from-attribute
+            attr: 'n'
   extra_extensions:
     - gutzkow_digitale_edition
     - sphinx_favicon

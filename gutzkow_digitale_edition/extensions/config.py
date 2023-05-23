@@ -9,7 +9,7 @@ BASE_RULES = [
     {'selector': 'tei:p', 'tag': 'p'},
 
     {'selector': 'tei:seg', 'tag': 'span'},
-    {'selector': 'tei:pb', 'tag': 'pb'},
+    {'selector': 'tei:pb', 'tag': 'span'},
     {'selector': 'tei:hi', 'tag': 'span'},
     {
         'selector': 'tei:ref',
