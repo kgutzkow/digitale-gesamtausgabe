@@ -4,50 +4,21 @@ from sphinx.application import Sphinx
 from sphinx.transforms.post_transforms import SphinxPostTransform
 from sphinx_design.shared import is_component
 
-from .config import rules
-
 
 class TeiElement(nodes.Element): pass
 
 
-def rule_for_node(node: TeiElement) -> dict:
-    tei_tag = node.get('tei_tag')
-    for rule in rules():
-        if rule['selector']['tag'] == tei_tag:
-            if 'attributes' in rule['selector']:
-                attr_match = True
-                for attr_rule in rule['selector']['attributes']:
-                    if attr_rule['attr'] not in node.get('tei_attributes') or \
-                            node.get('tei_attributes')[attr_rule['attr']] != attr_rule['value']:
-                        attr_match = False
-                        break
-                if not attr_match:
-                    continue
-            return rule
-    return None
-
-
 def tei_element_html_enter(self, node: TeiElement) -> None:
-    rule = rule_for_node(node)
-    if rule:
-        tag = rule['tag']
-    else:
-        tag = 'div'
-    if tag:
-        buffer = [f'<{tag} data-tei-tag="{node.get("tei_tag")[29:]}"']
-        if node.get('ids'):
-            buffer.append(f' id="{node.get("ids")[0]}"')
-        for key, value in node.get('tei_attributes').items():
-            buffer.append(f' {key}="{value}"')
-        self.body.append(f'{"".join(buffer)}>')
+    buffer = [f'<{node.get("html_tag")} data-tei-tag="{node.get("tei_tag")[29:]}"']
+    if node.get('ids'):
+        buffer.append(f' id="{node.get("ids")[0]}"')
+    for key, value in node.get('tei_attributes').items():
+        buffer.append(f' {key}="{value}"')
+    self.body.append(f'{"".join(buffer)}>')
 
 
 def tei_element_html_exit(self, node: TeiElement) -> None:
-    rule = rule_for_node(node)
-    if rule:
-        self.body.append(f'</{rule["tag"]}>')
-    else:
-        self.body.append(f'</div>')
+    self.body.append(f'</{node.get("html_tag")}>')
 
 
 class Tei2HtmlTransform(SphinxPostTransform):
@@ -61,6 +32,7 @@ class Tei2HtmlTransform(SphinxPostTransform):
         document: nodes.document = self.document
         for node in document.findall(lambda node: is_component(node, "tei-tag")):
             tei_element = TeiElement(
+                html_tag=node.get('html_tag'),
                 tei_tag=node.get('tei_tag'),
                 tei_attributes=node.get('tei_attributes')
             )

@@ -89,22 +89,19 @@ class TEIParser(SphinxParser):
             if 'text_only_in_leaf_nodes' in self.config.uEdition else False
         attributes = {}
         rule = rule_for_node(node, rules)
-        if rule is not None and 'text' in rule:
-            if rule['text']['action'] == 'from-attribute' and rule['text']['attr'] in node.attrib:
-                node.text = node.attrib[rule['text']['attr']]
         for key, value in node.attrib.items():
             if key == '{http://www.w3.org/XML/1998/namespace}id':
                 key = 'id'
             if rule and 'attributes' in rule:
                 processed = False
                 for attr_rule in rule['attributes']:
-                    if 'action' not in attr_rule or attr_rule['action'] == 'copy':
+                    if attr_rule['action'] == 'copy':
                         if key == attr_rule['source']:
                             attributes[attr_rule['attr']] = value
-                    elif 'action' in attr_rule and attr_rule['action'] == 'delete':
+                    elif attr_rule['action'] == 'delete':
                         if key == attr_rule['attr']:
                             processed = True
-                    elif 'action' in attr_rule and attr_rule['action'] == 'set':
+                    elif attr_rule['action'] == 'set':
                         if key == attr_rule['attr']:
                             value = attr_rule['value']
                 if not processed:
@@ -120,12 +117,17 @@ class TEIParser(SphinxParser):
         new_element = create_component(
             'tei-tag',
             rawtext='',
+            html_tag=rule['tag'] if rule is not None and 'tag' in rule else 'div',
             tei_tag=node.tag,
             tei_attributes=attributes,
         )
         parent.append(new_element)
-        if node.text and (is_leaf or not text_only_in_leaf_nodes):
-            new_element.append(nodes.Text(node.text))
+        if rule is not None and 'text' in rule and rule['text']:
+            if rule['text']['action'] == 'from-attribute' and rule['text']['attr'] in node.attrib:
+                new_element.append(nodes.Text(node.attrib[rule['text']['attr']]))
+        else:
+            if node.text and (is_leaf or not text_only_in_leaf_nodes):
+                new_element.append(nodes.Text(node.text))
         for child in node:
             self._walk_tree(child, new_element, rules)
         if node.tail and not text_only_in_leaf_nodes:
