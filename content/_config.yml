@@ -30,67 +30,68 @@ sphinx:
       header_links_before_dropdown: 6
     language: de
     uEdition:
-      text_only_in_leaf_nodes: true
-      sections:
-        - title: Haupttext
-          content: /tei:TEI/tei:text/tei:body
-        - title: Apparat
-          content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]
-        - title: Stellenerläuterungen
-          content: /tei:TEI/tei:text/tei:body/tei:interp
-          mappings:
-            - selector:
-                tag: tei:interp
-              tag: aside
+      tei:
+        text_only_in_leaf_nodes: true
+        sections:
+          - title: Haupttext
+            content: /tei:TEI/tei:text/tei:body
+          - title: Apparat
+            content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]
+          - title: Stellenerläuterungen
+            content: /tei:TEI/tei:text/tei:body/tei:interp
+            mappings:
+              - selector:
+                  tag: tei:interp
+                tag: aside
+                attributes:
+                  - attr: id
+                    action: delete
+                  - attr: type
+                    action: set
+                    value: esv-list-item
+        mappings:
+          - selector:
+              tag: tei:head
               attributes:
-                - attr: id
-                  action: delete
-                - attr: type
-                  action: set
-                  value: esv-list-item
-      mappings:
-        - selector:
-            tag: tei:head
-            attributes:
-              attr: type
-              value: level-1
-          tag: h1
-        - selector:
-            tag: tei:head
-            attributes:
-              attr: type
-              value: level-2
-          tag: h2
-        - selector:
-            tag: tei:head
-            attributes:
-              attr: type
-              value: level-3
-          tag: h3
-        - selector:
-            tag: tei:head
-            attributes:
-              attr: type
-              value: level-4
-          tag: h4
-        - selector: tei:interp
-          tag: aside
-        - selector: tei:note
-          tag: aside
-        - selector: tei:seg
-          tag:
-        - selector:
-            tag: tei:hi
-            attributes:
-              attr: style
-              value: sup
-          tag: sup
-        - selector:
-            tag: tei:pb
-          tag: span
-          text:
-            action: from-attribute
-            attr: 'n'
+                attr: type
+                value: level-1
+            tag: h1
+          - selector:
+              tag: tei:head
+              attributes:
+                attr: type
+                value: level-2
+            tag: h2
+          - selector:
+              tag: tei:head
+              attributes:
+                attr: type
+                value: level-3
+            tag: h3
+          - selector:
+              tag: tei:head
+              attributes:
+                attr: type
+                value: level-4
+            tag: h4
+          - selector: tei:interp
+            tag: aside
+          - selector: tei:note
+            tag: aside
+          - selector: tei:seg
+            tag:
+          - selector:
+              tag: tei:hi
+              attributes:
+                attr: style
+                value: sup
+            tag: sup
+          - selector:
+              tag: tei:pb
+            tag: span
+            text:
+              action: from-attribute
+              attr: 'n'
   extra_extensions:
     - gutzkow_digitale_edition
     - sphinx_favicon
