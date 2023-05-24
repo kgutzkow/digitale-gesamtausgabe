@@ -25,10 +25,10 @@ sphinx:
     html_theme_options:
       secondary_sidebar_items:
         - page-toc.html
-      favicons:
-        - 'href': favicon.ico
       header_links_before_dropdown: 6
     language: de
+    favicons:
+      - 'href': favicon.ico
     uEdition:
       tei:
         text_only_in_leaf_nodes: true
