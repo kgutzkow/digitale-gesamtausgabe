@@ -2,8 +2,7 @@
 
 Hier finden Sie ergänzendes Material zu Gutzkow und seinen Werken.
 
-Bilder
-++++++
+## Bilder
 
 * {doc}`Porträts von Gutzkow <portraets-von-gutzkow/index>`
 * {doc}`Karikaturen <karikaturen/index>`
@@ -20,10 +19,9 @@ Bilder
 * {doc}`Zeitgenossen Gutzkows <zeitgenossen-gutzkows/index>`
 * {doc}`Theaterzettel <theaterzettel/index>`
 
-Materialien
-+++++++++++
+## Materialien
 
-* {doc}`Edward Lytton Bulwer, England und die Engländer <england-und-die-englander>`
+* {doc}`Edward Lytton Bulwer, England und die Engländer <england-und-die-englaender>`
 * {doc}`Heinrich Laube, "Edward Lytton Bulwer" (1835) <edward-lytton-bulwer-1835>`
 * {doc}`William Maginn, "Edward Lytton Bulwer" (1832) <edward-lytton-bulwer-1832>`
 * {doc}`Wolfgang Menzel, "Briefe aus Paris, 1830-1831. Von Ludwig Börne" (1831) <briefe-aus-paris-von-ludwig-borne>`
