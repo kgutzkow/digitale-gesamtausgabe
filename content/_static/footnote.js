@@ -1,3 +1,7 @@
+/**
+ * Shows a footnote popup when the user navigates to a fragment that is either a footnote
+ * or comment.
+ */
 (function() {
   let popupWrapper = null;
   let popupBox = null;
