@@ -1,1 +1,4 @@
 # Zensur und Pressepolitik
+
+:::{tableofcontents}
+:::

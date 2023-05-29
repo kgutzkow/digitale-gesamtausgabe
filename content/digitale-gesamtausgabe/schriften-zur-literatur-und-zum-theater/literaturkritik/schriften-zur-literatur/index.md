@@ -1,1 +1,4 @@
 # Schriften zur Literatur
+
+:::{tableofcontents}
+:::

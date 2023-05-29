@@ -1,1 +1,4 @@
 # Autor- und Verlagsrecht
+
+:::{tableofcontents}
+:::
