@@ -1,1 +1,4 @@
 # Literaturkritik
+
+:::{tableofcontents}
+:::
