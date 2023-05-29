@@ -1,1 +1,4 @@
 # Buchhandelsusancen und Buchvertrieb
+
+:::{tableofcontents}
+:::
