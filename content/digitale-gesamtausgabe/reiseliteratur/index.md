@@ -1,1 +1,4 @@
 # VI. Reiseliteratur
+
+:::{tableofcontents}
+:::

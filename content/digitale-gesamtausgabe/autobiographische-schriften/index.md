@@ -1,1 +1,4 @@
 # VII. Autobiographische Schriften
+
+:::{tableofcontents}
+:::
