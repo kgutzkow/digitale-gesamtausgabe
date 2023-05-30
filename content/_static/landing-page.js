@@ -16,7 +16,7 @@
     for (let idx = items.length - 1; idx > 0; idx--) {
       const randomIdx = Math.floor(Math.random() * idx);
       const tmp = items[idx];
-      items[idx] = tmp;
+      items[idx] = items[randomIdx];
       items[randomIdx] = tmp;
     }
     let idx = -1;
@@ -40,6 +40,10 @@
       });
       // Add the slideshow
       slideshow(imageContainer.querySelectorAll('img'), 30000);
+    }
+    const quotes = document.querySelectorAll('.gutzkow-landing-quotes blockquote');
+    if (quotes.length > 0) {
+      slideshow(quotes, 13000);
     }
   });
 })();

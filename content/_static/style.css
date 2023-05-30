@@ -13,6 +13,10 @@ html[data-theme="dark"] {
 /**
  * Landing-page styling
  */
+.gutzkow-landing {
+  margin-top: 3rem;
+}
+
 .gutzkow-landing-image {
   position: relative;
   overflow: hidden;
@@ -35,13 +39,28 @@ html[data-theme="dark"] {
   opacity: 1;
 }
 
-blockquote.gutzkow-landing-quote {
+.gutzkow-landing-quotes {
+  position: relative;
+  height: 100%;
+}
+
+.gutzkow-landing-quotes blockquote {
+  position: absolute;
+  left: 0;
+  top: 0;
   background: var(--pst-color-background);
   border-left: 0;
   border-radius: 0;
+  font-size: var(--pst-font-size-milli);
+  opacity: 0;
+  transition: opacity 1s;
 }
 
-blockquote.gutzkow-landing-quote::before {
+.gutzkow-landing-quotes blockquote.current {
+  opacity: 1;
+}
+
+.gutzkow-landing-quotes blockquote::before {
   display: none;
 }
 
