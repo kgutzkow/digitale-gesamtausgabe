@@ -111,7 +111,8 @@ TAXONOMY = (('', 'gesamtausgabe', (
 		('Richard Savage. Oder: Der Sohn einer Mutter', 'richard-savage', ()),
 		('Werner. Oder: Herz und Welt', 'werner', ()),
 		('Die Gräfin Esther', 'die-graefin-esther', ()),
-		('Patkul', 'patkul', ())
+		('Patkul', 'patkul', ()),
+        ('Die Schule der Reichen', 'die-schule-der-reichen', ())
     )),
     ('III. Schriften zur Politik und Gesellschaft', 'schriften-zur-politik-und-gesellschaft', (
         ('3. Die Zeitgenossen', 'die-zeitgenossen', (
