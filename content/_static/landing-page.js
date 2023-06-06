@@ -1,8 +1,5 @@
 /**
  * Landing page animations and styling
- *
- * When the search box contains text, then it shows "Enter", instead of the default
- * keyboard shortcut.
  */
 (function() {
   function sleep(length) {
