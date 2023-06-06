@@ -12,17 +12,19 @@
   let documentFocus = null;
 
   function closeFootnote() {
-    history.pushState(null, null, window.location.pathname + window.location.search);
-    if (popupWrapper !== null) {
-      popupWrapper.classList.remove('active');
-      // Remove inert maker
-      for (const elem of inertable) {
-        elem.removeAttribute('inert');
+    if (window.location.hash !== '') {
+      history.pushState(null, null, window.location.pathname + window.location.search);
+      if (popupWrapper !== null) {
+        popupWrapper.classList.remove('active');
+        // Remove inert maker
+        for (const elem of inertable) {
+          elem.removeAttribute('inert');
+        }
       }
-    }
-    if (documentFocus !== null) {
-      documentFocus.focus();
-      documentFocus = null;
+      if (documentFocus !== null) {
+        documentFocus.focus();
+        documentFocus = null;
+      }
     }
   }
 
