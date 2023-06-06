@@ -65,6 +65,26 @@ html[data-theme="dark"] {
 }
 
 /**
+ * Image gallery styling
+ */
+.image-gallery .sd-card-body p {
+  overflow-y: hidden;
+}
+
+.image-gallery .sd-card-body p a {
+  display: block;
+  height: 100%;
+}
+
+.image-gallery-item h1 {
+  display: none;
+}
+
+.image-gallery-item .sd-card-body .sd-card-text {
+  text-align: center;
+}
+
+/**
  * Header styling
  */
 .tei h1, .tei h2, .tei h3, .tei h4 {
