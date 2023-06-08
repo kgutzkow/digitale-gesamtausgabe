@@ -11,6 +11,13 @@ html[data-theme="dark"] {
 }
 
 /**
+ * Theme overrides
+ */
+.bd-footer-article {
+  z-index: 10;
+}
+
+/**
  * Landing-page styling
  */
 .gutzkow-landing {
