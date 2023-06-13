@@ -1,5 +1,5 @@
 default:
-  image: python:3.7-buster
+  image: python:3.10-buster
 
 stages:
   - test
@@ -10,19 +10,19 @@ validate:
   stage: test
   script:
     - pip install poetry
-    - poetry install --no-dev
-    - poetry run python util/validate-tei.py
+    - hatch run default:python util/validate-tei.py
   only:
     - merge_requests
+    - uedition-transfer
 
 test-build:
   stage: test
   script:
-    - pip install poetry
-    - poetry install --no-dev
-    - poetry run pelican -s publishconf.py -o output -d content --fatal errors
+    - pip install hatch
+    - hatch run default:build
   only:
     - merge_requests
+    - uedition-transfer
 
 build-and-deploy:
   stage: deploy
