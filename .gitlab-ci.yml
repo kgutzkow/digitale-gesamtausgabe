@@ -27,11 +27,11 @@ test-build:
 build-and-deploy:
   stage: deploy
   script:
-    - pip install poetry
+    - pip install hatch
     - poetry install --only main
-    - poetry run pelican -s publishconf.py -o output -d content
+    - hatch run default:build
     - apt-get update
     - apt-get install -y lftp
-    - lftp -e "set ssl:verify-certificate no; mirror -R output . ; quit" -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER"
+    - lftp -e "set ssl:verify-certificate no; mirror -R content/_build/html . ; quit" -u "$FTP_USERNAME,$FTP_PASSWORD" "$FTP_SERVER"
   only:
     - default
