@@ -101,12 +101,20 @@ class SingleFieldRule(BaseModel):
     content: str
 
 
+class ListFieldRule(BaseModel):
+    """Validation model for a TEI field rule."""
+
+    title: str
+    type: Literal['list']
+    content: str
+
+
 class FieldsSection(BaseModel):
     """Validation model for a TEI fields section."""
 
     title: str
     type: Literal['fields']
-    fields: list[SingleFieldRule]
+    fields: list[SingleFieldRule | ListFieldRule]
 
 
 class TEIConfig(BaseModel):

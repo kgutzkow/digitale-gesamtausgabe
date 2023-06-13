@@ -54,6 +54,11 @@ sphinx:
             fields:
               - title: Bibliographischer Nachweis
                 content: /tei:TEI/tei:teiHeader/tei:sourceDesc/tei:bibl/text()
+              - title: Herausgeber und Herausgeberinnen
+                type: list
+                content: /tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt[tei:resp/text() = 'Herausgeber' or tei:resp/text() = 'Herausgeberin']/tei:name/text()
+              - title: Fassung
+                content: (/tei:TEI/tei:teiHeader/tei:revisionDesc/tei:change/text())[last()]
         mappings:
           - selector:
               tag: tei:head

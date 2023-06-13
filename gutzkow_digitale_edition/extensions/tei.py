@@ -74,7 +74,8 @@ class TEIParser(SphinxParser):
                     for field in section['fields']:
                         if field['type'] == 'single':
                             self._parse_single_field(fields, field, root)
-                            #self._parse_single_field()
+                        elif field['type'] == 'list':
+                            self._parse_list_field(fields, field, root)
                     tab_set.append(tab_item)
         doc_section.append(tab_set)
         document.append(doc_section)

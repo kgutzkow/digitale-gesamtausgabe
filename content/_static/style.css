@@ -94,14 +94,24 @@ html[data-theme="dark"] {
 /**
  * Metadata styling
  */
-.tei.metadata dl dt {
+.tei.metadaten dl dt {
   font-weight: normal;
   font-variant: small-caps;
 }
 
-.tei.metadata dl dd {
+.tei.metadaten dl dd {
   margin-left: 0;
+  margin-bottom: 1rem;
 }
+
+.tei.metadaten dl dd ol {
+  padding-left: 0;
+}
+
+.tei.metadaten dl dd ol li {
+  list-style-type: none;
+}
+
 
 /**
  * Header styling
