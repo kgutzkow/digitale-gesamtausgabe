@@ -92,6 +92,18 @@ html[data-theme="dark"] {
 }
 
 /**
+ * Metadata styling
+ */
+.tei.metadata dl dt {
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+.tei.metadata dl dd {
+  margin-left: 0;
+}
+
+/**
  * Header styling
  */
 .tei h1, .tei h2, .tei h3, .tei h4 {

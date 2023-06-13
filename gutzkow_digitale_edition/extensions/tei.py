@@ -52,15 +52,29 @@ class TEIParser(SphinxParser):
         tab_set = create_component('tab-set', classes=['sd-tab-set'])
         if 'tei' in self.config.uEdition and 'sections' in self.config.uEdition['tei']:
             for section in self.config.uEdition['tei']['sections']:
-                source = root.xpath(section['content'], namespaces=namespaces)
-                if len(source) > 0:
+                if section['type'] == 'text':
+                    source = root.xpath(section['content'], namespaces=namespaces)
+                    if len(source) > 0:
+                        tab_item = create_component('tab-item', classes=['sd-tab-item'])
+                        tab_label = nodes.rubric(section['title'], nodes.Text(section['title']), classes=['sd-tab-label'])
+                        tab_item.append(tab_label)
+                        tab_content = create_component('tab-content', classes=['sd-tab-content', 'tei', nodes.make_id(section['title'])])
+                        tab_item.append(tab_content)
+                        for child in source:
+                            self._walk_tree(child, tab_content, section['mappings'])
+                        tab_set.append(tab_item)
+                elif section['type'] == 'fields':
                     tab_item = create_component('tab-item', classes=['sd-tab-item'])
                     tab_label = nodes.rubric(section['title'], nodes.Text(section['title']), classes=['sd-tab-label'])
                     tab_item.append(tab_label)
                     tab_content = create_component('tab-content', classes=['sd-tab-content', 'tei', nodes.make_id(section['title'])])
                     tab_item.append(tab_content)
-                    for child in source:
-                        self._walk_tree(child, tab_content, section['mappings'])
+                    fields = nodes.definition_list()
+                    tab_content.append(fields)
+                    for field in section['fields']:
+                        if field['type'] == 'single':
+                            self._parse_single_field(fields, field, root)
+                            #self._parse_single_field()
                     tab_set.append(tab_item)
         doc_section.append(tab_set)
         document.append(doc_section)
@@ -146,6 +160,36 @@ class TEIParser(SphinxParser):
                         continue
                 return rule
         return None
+
+    def _parse_single_field(self: 'TEIParser', parent: etree.Element, field: dict, root: etree.Element) -> None:
+        content = root.xpath(field['content'], namespaces=namespaces)
+        if len(content) > 0:
+            content = content[0]
+            li = nodes.definition_list_item()
+            dt = nodes.term()
+            dt.append(nodes.Text(field['title']))
+            li.append(dt)
+            dd = nodes.definition()
+            dd.append(nodes.Text(content))
+            li.append(dd)
+            parent.append(li)
+
+    def _parse_list_field(self: 'TEIParser', parent: etree.Element, field: dict, root: etree.Element) -> None:
+        content = root.xpath(field['content'], namespaces=namespaces)
+        if len(content) > 0:
+            li = nodes.definition_list_item()
+            dt = nodes.term()
+            dt.append(nodes.Text(field['title']))
+            li.append(dt)
+            dd = nodes.definition()
+            values = nodes.enumerated_list()
+            for value in content:
+                item = nodes.list_item()
+                item.append(nodes.Text(value))
+                values.append(item)
+            dd.append(values)
+            li.append(dd)
+            parent.append(li)
 
 
 

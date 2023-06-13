@@ -84,12 +84,29 @@ class Rule(BaseModel):
         return v
 
 
-class Section(BaseModel):
-    """Validation model for a TEI section."""
+class TextSection(BaseModel):
+    """Validation model for a TEI text section."""
 
     title: str
+    type: Literal['text'] = 'text'
     content: str
     mappings: list[Rule] = []
+
+
+class SingleFieldRule(BaseModel):
+    """Validation model for a TEI field rule."""
+
+    title: str
+    type: Literal['single'] = 'single'
+    content: str
+
+
+class FieldsSection(BaseModel):
+    """Validation model for a TEI fields section."""
+
+    title: str
+    type: Literal['fields']
+    fields: list[SingleFieldRule]
 
 
 class TEIConfig(BaseModel):
@@ -97,7 +114,7 @@ class TEIConfig(BaseModel):
 
     text_only_in_leaf_nodes: bool = False
     mappings: list[Rule] = []
-    sections: list[Section] = []
+    sections: list[TextSection | FieldsSection] = []
 
 
 class Config(BaseModel):
@@ -149,7 +166,7 @@ def validate_config(app: Sphinx, config: Config) -> None:
         for error in e.errors():
             logger.error(' -> '.join([str(l) for l in error['loc']]))
             logger.error(f'  {error["msg"]}')
-        raise Exception('uEdition Validation Failed')
+        config.uEdition = {}
 
 
 def setup(app: Sphinx) -> None:

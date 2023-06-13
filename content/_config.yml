@@ -49,6 +49,11 @@ sphinx:
                   - attr: type
                     action: set
                     value: esv-list-item
+          - title: Metadaten
+            type: fields
+            fields:
+              - title: Bibliographischer Nachweis
+                content: /tei:TEI/tei:teiHeader/tei:sourceDesc/tei:bibl/text()
         mappings:
           - selector:
               tag: tei:head
