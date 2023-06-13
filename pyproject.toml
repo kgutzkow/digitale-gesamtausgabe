@@ -4,6 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gutzkow-digitale-edition"
+version = "2.0.0"
 description = ''
 readme = "README.md"
 requires-python = ">=3.7"
@@ -15,31 +16,20 @@ authors = [
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python",
-  "Programming Language :: Python :: 3.7",
-  "Programming Language :: Python :: 3.8",
-  "Programming Language :: Python :: 3.9",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "jupyter-book>=0.15.1",
-  "lxml>=4.9.2,<5.0.0",
   "sphinx-favicon>=1.0.0,<2.0.0",
-  "pydantic>=1.10.8,<2.0.0",
-]
-dynamic = [
-  "version"
+  "uedition>=0.1.0",
 ]
 
 [project.urls]
 Documentation = "https://github.com/unknown/gutzkow-digitale-edition#readme"
 Issues = "https://github.com/unknown/gutzkow-digitale-edition/issues"
 Source = "https://github.com/unknown/gutzkow-digitale-edition"
-
-[tool.hatch.version]
-path = "gutzkow_digitale_edition/__about__.py"
 
 [tool.hatch.envs.default.scripts]
 build = "jb build content"

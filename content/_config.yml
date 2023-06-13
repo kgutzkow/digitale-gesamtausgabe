@@ -103,7 +103,7 @@ sphinx:
               action: from-attribute
               attr: 'n'
   extra_extensions:
-    - gutzkow_digitale_edition
+    - uedition
     - sphinx_favicon
 
 only_build_toc_files: true
