@@ -1,5 +1,5 @@
 default:
-  image: python:3.10-buster
+  image: python:3.11-buster
 
 stages:
   - test
@@ -9,7 +9,7 @@ stages:
 validate:
   stage: test
   script:
-    - pip install poetry
+    - pip install hatch
     - hatch run default:python util/validate-tei.py
   only:
     - merge_requests
