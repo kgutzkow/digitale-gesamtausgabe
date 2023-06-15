@@ -48,7 +48,14 @@ html[data-theme="dark"] {
 
 .gutzkow-landing-quotes {
   position: relative;
-  height: 100%;
+  height: 0;
+  overflow: hidden;
+}
+
+@media (min-width: 992px) {
+  .gutzkow-landing-quotes {
+    height: auto;
+  }
 }
 
 .gutzkow-landing-quotes blockquote {
