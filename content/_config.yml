@@ -3,6 +3,7 @@
 
 title: Gutzkow Digitale Gesamtausgabe
 author: Gutzkow Projekt
+copyright: 1996 - 2023
 logo: _static/gutzkow-head.jpg
 
 # Force re-execution of notebooks on each build.
@@ -26,6 +27,8 @@ sphinx:
       secondary_sidebar_items:
         - page-toc.html
       header_links_before_dropdown: 6
+      footer_start: []
+      footer_end: []
     language: de
     favicons:
       - 'href': favicon.ico
