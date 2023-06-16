@@ -123,29 +123,19 @@ html[data-theme="dark"] {
 /**
  * Header styling
  */
-.tei h1, .tei h2, .tei h3, .tei h4 {
-  text-align: center;
-}
-
-.tei h1 {
-  font-size: 16pt;
-  font-weight: bold;
-}
-
-.tei h2 {
-  font-size: 14pt;
-  font-weight: bold;
-}
-
-.tei h3 {
-  font-size: 13pt;
-  font-weight: bold;
+#haupttext h3, #apparat h3 {
   color: var(--pst-color-primary);
 }
 
-.tei h4 {
-  font-size: 12pt;
-  font-weight: bold;
+#haupttext h4, #apparat h4 {
+  color: var(--pst-color-primary);
+}
+
+#haupttext h5, #apparat h5 {
+  color: var(--pst-color-primary);
+}
+
+#haupttext h6, #apparat h6 {
   color: var(--pst-color-primary);
 }
 
