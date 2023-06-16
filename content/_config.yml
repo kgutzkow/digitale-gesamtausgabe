@@ -37,9 +37,9 @@ sphinx:
         text_only_in_leaf_nodes: true
         sections:
           - title: Haupttext
-            content: /tei:TEI/tei:text/tei:body
+            content: /tei:TEI/tei:text/tei:body/*
           - title: Apparat
-            content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]
+            content: /tei:TEI/tei:text/tei:interpGrp[@type="global"]/*
           - title: Stellenerläuterungen
             content: /tei:TEI/tei:text/tei:body/tei:interp
             mappings:

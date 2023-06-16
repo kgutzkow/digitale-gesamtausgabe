@@ -101,21 +101,21 @@ html[data-theme="dark"] {
 /**
  * Metadata styling
  */
-.tei.metadaten dl dt {
+#metadaten dl dt {
   font-weight: normal;
   font-variant: small-caps;
 }
 
-.tei.metadaten dl dd {
+#metadaten dl dd {
   margin-left: 0;
   margin-bottom: 1rem;
 }
 
-.tei.metadaten dl dd ol {
+#metadaten dl dd ol {
   padding-left: 0;
 }
 
-.tei.metadaten dl dd ol li {
+#metadaten dl dd ol li {
   list-style-type: none;
 }
 
